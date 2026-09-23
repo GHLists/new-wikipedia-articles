@@ -13,55 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-23 17:08 UTC](data/en/new-articles-2026-09-23T17-08-23Z.csv) | 23 |
-| Japanese | `ja` | [2026-09-23 17:08 UTC](data/ja/new-articles-2026-09-23T17-08-23Z.csv) | 5 |
-| Chinese | `zh` | [2026-09-23 17:08 UTC](data/zh/new-articles-2026-09-23T17-08-23Z.csv) | 4 |
-| French | `fr` | [2026-09-23 17:08 UTC](data/fr/new-articles-2026-09-23T17-08-23Z.csv) | 12 |
-| German | `de` | [2026-09-23 17:08 UTC](data/de/new-articles-2026-09-23T17-08-23Z.csv) | 10 |
-| Russian | `ru` | [2026-09-23 17:08 UTC](data/ru/new-articles-2026-09-23T17-08-23Z.csv) | 9 |
-| Spanish | `es` | [2026-09-23 17:08 UTC](data/es/new-articles-2026-09-23T17-08-23Z.csv) | 13 |
-| Italian | `it` | [2026-09-23 17:08 UTC](data/it/new-articles-2026-09-23T17-08-23Z.csv) | 5 |
-| Portuguese | `pt` | [2026-09-23 17:08 UTC](data/pt/new-articles-2026-09-23T17-08-23Z.csv) | 4 |
-| Polish | `pl` | [2026-09-23 17:08 UTC](data/pl/new-articles-2026-09-23T17-08-23Z.csv) | 10 |
-| Arabic | `ar` | [2026-09-23 17:08 UTC](data/ar/new-articles-2026-09-23T17-08-23Z.csv) | 6 |
-| Persian | `fa` | [2026-09-23 17:08 UTC](data/fa/new-articles-2026-09-23T17-08-23Z.csv) | 9 |
-| Turkish | `tr` | [2026-09-23 17:08 UTC](data/tr/new-articles-2026-09-23T17-08-23Z.csv) | 4 |
-| Hebrew | `he` | [2026-09-23 17:08 UTC](data/he/new-articles-2026-09-23T17-08-23Z.csv) | 1 |
-| Swedish | `sv` | [2026-09-23 17:08 UTC](data/sv/new-articles-2026-09-23T17-08-23Z.csv) | 4 |
-| Dutch | `nl` | [2026-09-23 17:08 UTC](data/nl/new-articles-2026-09-23T17-08-23Z.csv) | 5 |
+| English | `en` | [2026-09-23 18:08 UTC](data/en/new-articles-2026-09-23T18-08-07Z.csv) | 22 |
+| Japanese | `ja` | [2026-09-23 18:08 UTC](data/ja/new-articles-2026-09-23T18-08-07Z.csv) | 1 |
+| Chinese | `zh` | [2026-09-23 18:08 UTC](data/zh/new-articles-2026-09-23T18-08-07Z.csv) | 6 |
+| French | `fr` | [2026-09-23 18:08 UTC](data/fr/new-articles-2026-09-23T18-08-07Z.csv) | 9 |
+| German | `de` | [2026-09-23 18:08 UTC](data/de/new-articles-2026-09-23T18-08-07Z.csv) | 15 |
+| Russian | `ru` | [2026-09-23 18:08 UTC](data/ru/new-articles-2026-09-23T18-08-07Z.csv) | 9 |
+| Spanish | `es` | [2026-09-23 18:08 UTC](data/es/new-articles-2026-09-23T18-08-07Z.csv) | 10 |
+| Italian | `it` | [2026-09-23 18:08 UTC](data/it/new-articles-2026-09-23T18-08-07Z.csv) | 4 |
+| Portuguese | `pt` | [2026-09-23 18:08 UTC](data/pt/new-articles-2026-09-23T18-08-07Z.csv) | 6 |
+| Polish | `pl` | [2026-09-23 18:08 UTC](data/pl/new-articles-2026-09-23T18-08-07Z.csv) | 6 |
+| Arabic | `ar` | [2026-09-23 18:08 UTC](data/ar/new-articles-2026-09-23T18-08-07Z.csv) | 4 |
+| Persian | `fa` | [2026-09-23 18:08 UTC](data/fa/new-articles-2026-09-23T18-08-07Z.csv) | 2 |
+| Turkish | `tr` | [2026-09-23 18:08 UTC](data/tr/new-articles-2026-09-23T18-08-07Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-23 18:08 UTC](data/he/new-articles-2026-09-23T18-08-07Z.csv) | 3 |
+| Swedish | `sv` | [2026-09-23 18:08 UTC](data/sv/new-articles-2026-09-23T18-08-07Z.csv) | 4 |
+| Dutch | `nl` | [2026-09-23 18:08 UTC](data/nl/new-articles-2026-09-23T18-08-07Z.csv) | 3 |
 | Korean | `ko` | [2026-09-23 17:08 UTC](data/ko/new-articles-2026-09-23T17-08-23Z.csv) | 2 |
-| Indonesian | `id` | [2026-09-23 17:08 UTC](data/id/new-articles-2026-09-23T17-08-23Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-09-23 17:08 UTC](data/uk/new-articles-2026-09-23T17-08-23Z.csv) | 12 |
+| Indonesian | `id` | [2026-09-23 18:08 UTC](data/id/new-articles-2026-09-23T18-08-07Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-09-23 18:08 UTC](data/uk/new-articles-2026-09-23T18-08-07Z.csv) | 10 |
 | Vietnamese | `vi` | [2026-09-23 17:08 UTC](data/vi/new-articles-2026-09-23T17-08-23Z.csv) | 2 |
 
-## English (en) — 2026-09-23 17:08 UTC
+## English (en) — 2026-09-23 18:08 UTC
 
-New articles created between 2026-09-23 16:08 UTC and 2026-09-23 17:08 UTC.
+New articles created between 2026-09-23 17:08 UTC and 2026-09-23 18:08 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-23T17-08-23Z.csv)
+[Full CSV](data/en/new-articles-2026-09-23T18-08-07Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-23 16:09:38 | [Émilien (Les Douze Coups de midi)](https://en.wikipedia.org/wiki/%C3%89milien_%28Les_Douze_Coups_de_midi%29) | [Craqueo](https://en.wikipedia.org/wiki/User:Craqueo) | 9,355 |
-| 2026-09-23 16:09:51 | [Frances Stearns](https://en.wikipedia.org/wiki/Frances_Stearns) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 2,746 |
-| 2026-09-23 16:15:49 | [Escalante Creek](https://en.wikipedia.org/wiki/Escalante_Creek) | [Jeffrey Beall](https://en.wikipedia.org/wiki/User:Jeffrey_Beall) | 6,979 |
-| 2026-09-23 16:16:43 | [1990–91 Kategoria e Dytë](https://en.wikipedia.org/wiki/1990%E2%80%9391_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 7,517 |
-| 2026-09-23 16:20:58 | [Phenton Neymour](https://en.wikipedia.org/wiki/Phenton_Neymour) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 5,030 |
-| 2026-09-23 16:26:54 | [Reserve cell](https://en.wikipedia.org/wiki/Reserve_cell) | [Mikael Häggström](https://en.wikipedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m) | 4,966 |
-| 2026-09-23 16:27:43 | [Alexandru Gîț](https://en.wikipedia.org/wiki/Alexandru_G%C3%AE%C8%9B) | [DragosTataru](https://en.wikipedia.org/wiki/User:DragosTataru) | 4,532 |
-| 2026-09-23 16:32:22 | [Charlotte Steinmetz](https://en.wikipedia.org/wiki/Charlotte_Steinmetz) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,611 |
-| 2026-09-23 16:32:47 | [Elm Creek Township, Saline County, Kansas](https://en.wikipedia.org/wiki/Elm_Creek_Township%2C_Saline_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,243 |
-| 2026-09-23 16:34:02 | [Harod Valley Natural Region](https://en.wikipedia.org/wiki/Harod_Valley_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 4,792 |
-| 2026-09-23 16:41:12 | [Listed buildings in Tibthorpe](https://en.wikipedia.org/wiki/Listed_buildings_in_Tibthorpe) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 3,669 |
-| 2026-09-23 16:41:41 | [Lucien Lazare](https://en.wikipedia.org/wiki/Lucien_Lazare) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 7,955 |
-| 2026-09-23 16:42:25 | [Ataenius scutellaris](https://en.wikipedia.org/wiki/Ataenius_scutellaris) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,820 |
-| 2026-09-23 16:44:02 | [Biltmore Championship Asheville](https://en.wikipedia.org/wiki/Biltmore_Championship_Asheville) | [Tewapack](https://en.wikipedia.org/wiki/User:Tewapack) | 2,538 |
-| 2026-09-23 16:51:27 | [Convergence Problems](https://en.wikipedia.org/wiki/Convergence_Problems) | [Michelangelo1992](https://en.wikipedia.org/wiki/User:Michelangelo1992) | 9,589 |
-| 2026-09-23 16:52:16 | [Swapnil Mahaling](https://en.wikipedia.org/wiki/Swapnil_Mahaling) | [AABABHAU](https://en.wikipedia.org/wiki/User:AABABHAU) | 18,495 |
-| 2026-09-23 16:55:47 | [Robert Petculescu](https://en.wikipedia.org/wiki/Robert_Petculescu) | [DragosTataru](https://en.wikipedia.org/wiki/User:DragosTataru) | 3,832 |
-| 2026-09-23 17:00:22 | [Hariharan Amsakarunan](https://en.wikipedia.org/wiki/Hariharan_Amsakarunan) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 2,150 |
-| 2026-09-23 17:01:42 | [Fesseha Giyorgis Abiye Egzi](https://en.wikipedia.org/wiki/Fesseha_Giyorgis_Abiye_Egzi) | [DebreSelam](https://en.wikipedia.org/wiki/User:DebreSelam) | 20,089 |
-| 2026-09-23 17:01:51 | [Prem Keetanu](https://en.wikipedia.org/wiki/Prem_Keetanu) | [Official06](https://en.wikipedia.org/wiki/User:Official06) | 10,263 |
-| 2026-09-23 17:02:13 | [Temporary anchorage devices (TADs)](https://en.wikipedia.org/wiki/Temporary_anchorage_devices_%28TADs%29) | [Faraortho](https://en.wikipedia.org/wiki/User:Faraortho) | 15,874 |
-| 2026-09-23 17:02:36 | [Babuza FC](https://en.wikipedia.org/wiki/Babuza_FC) | [Tywu99](https://en.wikipedia.org/wiki/User:Tywu99) | 6,579 |
-| 2026-09-23 17:02:41 | [Kokhav Plateau Natural Region](https://en.wikipedia.org/wiki/Kokhav_Plateau_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 5,109 |
+| 2026-09-23 17:09:28 | [List of robotics occupations](https://en.wikipedia.org/wiki/List_of_robotics_occupations) | [Wikideas1](https://en.wikipedia.org/wiki/User:Wikideas1) | 9,505 |
+| 2026-09-23 17:09:42 | [Holy Cross Church, Erdőhorváti](https://en.wikipedia.org/wiki/Holy_Cross_Church%2C_Erd%C5%91horv%C3%A1ti) | [Dominicus347](https://en.wikipedia.org/wiki/User:Dominicus347) | 2,837 |
+| 2026-09-23 17:10:09 | [IIT Bombay student suicide case](https://en.wikipedia.org/wiki/IIT_Bombay_student_suicide_case) | [Dsrprj](https://en.wikipedia.org/wiki/User:Dsrprj) | 691 |
+| 2026-09-23 17:10:53 | [Schistidium spinosum](https://en.wikipedia.org/wiki/Schistidium_spinosum) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 5,877 |
+| 2026-09-23 17:11:13 | [Killing of Inga Maria Hauser](https://en.wikipedia.org/wiki/Killing_of_Inga_Maria_Hauser) | [ItsShandog](https://en.wikipedia.org/wiki/User:ItsShandog) | 1,920 |
+| 2026-09-23 17:12:23 | [Castle Boulevard, Nottingham](https://en.wikipedia.org/wiki/Castle_Boulevard%2C_Nottingham) | [Andrewrabbott](https://en.wikipedia.org/wiki/User:Andrewrabbott) | 7,872 |
+| 2026-09-23 17:15:29 | [Sviyazhsk (disambiguation)](https://en.wikipedia.org/wiki/Sviyazhsk_%28disambiguation%29) | [Thefakeslimshady777](https://en.wikipedia.org/wiki/User:Thefakeslimshady777) | 250 |
+| 2026-09-23 17:16:11 | [Orange riots (disambiguation)](https://en.wikipedia.org/wiki/Orange_riots_%28disambiguation%29) | [Nabulowa](https://en.wikipedia.org/wiki/User:Nabulowa) | 717 |
+| 2026-09-23 17:16:32 | [Brahma AI](https://en.wikipedia.org/wiki/Brahma_AI) | [JustSomeGoodInfo](https://en.wikipedia.org/wiki/User:JustSomeGoodInfo) | 10,079 |
+| 2026-09-23 17:18:12 | [CONAGUA](https://en.wikipedia.org/wiki/CONAGUA) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 4,771 |
+| 2026-09-23 17:18:39 | [Menashe Plateau Natural Region](https://en.wikipedia.org/wiki/Menashe_Plateau_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 4,889 |
+| 2026-09-23 17:28:13 | [Rosivan Macedo Soares](https://en.wikipedia.org/wiki/Rosivan_Macedo_Soares) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 10,730 |
+| 2026-09-23 17:30:57 | [Taxation of employment income in Germany](https://en.wikipedia.org/wiki/Taxation_of_employment_income_in_Germany) | [System tinker 90](https://en.wikipedia.org/wiki/User:System_tinker_90) | 11,530 |
+| 2026-09-23 17:36:02 | [Portrait of Sir Thomas Beauchamp-Proctor](https://en.wikipedia.org/wiki/Portrait_of_Sir_Thomas_Beauchamp-Proctor) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,120 |
+| 2026-09-23 17:39:10 | [Yokneam Natural Region](https://en.wikipedia.org/wiki/Yokneam_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 4,934 |
+| 2026-09-23 17:41:18 | [Indiana Hoosiers football under Curt Cignetti](https://en.wikipedia.org/wiki/Indiana_Hoosiers_football_under_Curt_Cignetti) | [IllinoisUser](https://en.wikipedia.org/wiki/User:IllinoisUser) | 4,422 |
+| 2026-09-23 17:43:50 | [Bryan Isacks](https://en.wikipedia.org/wiki/Bryan_Isacks) | [Chaiten1](https://en.wikipedia.org/wiki/User:Chaiten1) | 2,943 |
+| 2026-09-23 17:50:31 | [Durga Das (army officer)](https://en.wikipedia.org/wiki/Durga_Das_%28army_officer%29) | [Jaipur.historian](https://en.wikipedia.org/wiki/User:Jaipur.historian) | 8,325 |
+| 2026-09-23 17:56:46 | [Visaginas railway station](https://en.wikipedia.org/wiki/Visaginas_railway_station) | [Trip Tucker](https://en.wikipedia.org/wiki/User:Trip_Tucker) | 4,359 |
+| 2026-09-23 18:00:45 | [Dave Quehl](https://en.wikipedia.org/wiki/Dave_Quehl) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 3,650 |
+| 2026-09-23 18:03:35 | [National Centre for Information Defence](https://en.wikipedia.org/wiki/National_Centre_for_Information_Defence) | [Thief-River-Faller](https://en.wikipedia.org/wiki/User:Thief-River-Faller) | 1,488 |
+| 2026-09-23 18:05:59 | [Gebre Hiywet Meshesha](https://en.wikipedia.org/wiki/Gebre_Hiywet_Meshesha) | [DebreSelam](https://en.wikipedia.org/wiki/User:DebreSelam) | 20,035 |
