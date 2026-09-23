@@ -1,8 +1,6 @@
 name: Hourly new Wikipedia articles
 
 on:
-  schedule:
-    - cron: "18 * * * *"
   workflow_dispatch:
     inputs:
       since:
