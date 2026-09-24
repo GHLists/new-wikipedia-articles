@@ -13,54 +13,60 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-24 17:19 UTC](data/en/new-articles-2026-09-24T17-19-02Z.csv) | 22 |
-| Japanese | `ja` | [2026-09-24 17:19 UTC](data/ja/new-articles-2026-09-24T17-19-02Z.csv) | 3 |
-| Chinese | `zh` | [2026-09-24 17:19 UTC](data/zh/new-articles-2026-09-24T17-19-02Z.csv) | 21 |
-| French | `fr` | [2026-09-24 16:18 UTC](data/fr/new-articles-2026-09-24T16-18-58Z.csv) | 22 |
-| German | `de` | [2026-09-24 17:19 UTC](data/de/new-articles-2026-09-24T17-19-02Z.csv) | 17 |
-| Russian | `ru` | [2026-09-24 17:19 UTC](data/ru/new-articles-2026-09-24T17-19-02Z.csv) | 7 |
-| Spanish | `es` | [2026-09-24 17:19 UTC](data/es/new-articles-2026-09-24T17-19-02Z.csv) | 9 |
-| Italian | `it` | [2026-09-24 17:19 UTC](data/it/new-articles-2026-09-24T17-19-02Z.csv) | 7 |
-| Portuguese | `pt` | [2026-09-24 17:19 UTC](data/pt/new-articles-2026-09-24T17-19-02Z.csv) | 8 |
-| Polish | `pl` | [2026-09-24 17:19 UTC](data/pl/new-articles-2026-09-24T17-19-02Z.csv) | 4 |
-| Arabic | `ar` | [2026-09-24 17:19 UTC](data/ar/new-articles-2026-09-24T17-19-02Z.csv) | 3 |
-| Persian | `fa` | [2026-09-24 17:19 UTC](data/fa/new-articles-2026-09-24T17-19-02Z.csv) | 6 |
-| Turkish | `tr` | [2026-09-24 17:19 UTC](data/tr/new-articles-2026-09-24T17-19-02Z.csv) | 2 |
-| Hebrew | `he` | [2026-09-24 17:19 UTC](data/he/new-articles-2026-09-24T17-19-02Z.csv) | 5 |
+| English | `en` | [2026-09-24 18:20 UTC](data/en/new-articles-2026-09-24T18-20-32Z.csv) | 28 |
+| Japanese | `ja` | [2026-09-24 18:20 UTC](data/ja/new-articles-2026-09-24T18-20-32Z.csv) | 4 |
+| Chinese | `zh` | [2026-09-24 18:20 UTC](data/zh/new-articles-2026-09-24T18-20-32Z.csv) | 30 |
+| French | `fr` | [2026-09-24 18:20 UTC](data/fr/new-articles-2026-09-24T18-20-32Z.csv) | 21 |
+| German | `de` | [2026-09-24 18:20 UTC](data/de/new-articles-2026-09-24T18-20-32Z.csv) | 10 |
+| Russian | `ru` | [2026-09-24 18:20 UTC](data/ru/new-articles-2026-09-24T18-20-32Z.csv) | 15 |
+| Spanish | `es` | [2026-09-24 18:20 UTC](data/es/new-articles-2026-09-24T18-20-32Z.csv) | 10 |
+| Italian | `it` | [2026-09-24 18:20 UTC](data/it/new-articles-2026-09-24T18-20-32Z.csv) | 5 |
+| Portuguese | `pt` | [2026-09-24 18:20 UTC](data/pt/new-articles-2026-09-24T18-20-32Z.csv) | 2 |
+| Polish | `pl` | [2026-09-24 18:20 UTC](data/pl/new-articles-2026-09-24T18-20-32Z.csv) | 7 |
+| Arabic | `ar` | [2026-09-24 18:20 UTC](data/ar/new-articles-2026-09-24T18-20-32Z.csv) | 8 |
+| Persian | `fa` | [2026-09-24 18:20 UTC](data/fa/new-articles-2026-09-24T18-20-32Z.csv) | 3 |
+| Turkish | `tr` | [2026-09-24 18:20 UTC](data/tr/new-articles-2026-09-24T18-20-32Z.csv) | 3 |
+| Hebrew | `he` | [2026-09-24 18:20 UTC](data/he/new-articles-2026-09-24T18-20-32Z.csv) | 3 |
 | Swedish | `sv` | [2026-09-24 17:19 UTC](data/sv/new-articles-2026-09-24T17-19-02Z.csv) | 3 |
-| Dutch | `nl` | [2026-09-24 17:19 UTC](data/nl/new-articles-2026-09-24T17-19-02Z.csv) | 1 |
-| Korean | `ko` | [2026-09-24 17:19 UTC](data/ko/new-articles-2026-09-24T17-19-02Z.csv) | 3 |
-| Indonesian | `id` | [2026-09-24 17:19 UTC](data/id/new-articles-2026-09-24T17-19-02Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-09-24 17:19 UTC](data/uk/new-articles-2026-09-24T17-19-02Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-09-24 17:19 UTC](data/vi/new-articles-2026-09-24T17-19-02Z.csv) | 2 |
+| Dutch | `nl` | [2026-09-24 18:20 UTC](data/nl/new-articles-2026-09-24T18-20-32Z.csv) | 7 |
+| Korean | `ko` | [2026-09-24 18:20 UTC](data/ko/new-articles-2026-09-24T18-20-32Z.csv) | 3 |
+| Indonesian | `id` | [2026-09-24 18:20 UTC](data/id/new-articles-2026-09-24T18-20-32Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-09-24 18:20 UTC](data/uk/new-articles-2026-09-24T18-20-32Z.csv) | 8 |
+| Vietnamese | `vi` | [2026-09-24 18:20 UTC](data/vi/new-articles-2026-09-24T18-20-32Z.csv) | 1 |
 
-## English (en) — 2026-09-24 17:19 UTC
+## English (en) — 2026-09-24 18:20 UTC
 
-New articles created between 2026-09-24 16:18 UTC and 2026-09-24 17:19 UTC.
+New articles created between 2026-09-24 17:19 UTC and 2026-09-24 18:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-24T17-19-02Z.csv)
+[Full CSV](data/en/new-articles-2026-09-24T18-20-32Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-24 16:21:35 | [Hareswar Goswami](https://en.wikipedia.org/wiki/Hareswar_Goswami) | [THeShavidow1](https://en.wikipedia.org/wiki/User:THeShavidow1) | 4,806 |
-| 2026-09-24 16:23:20 | [Swimming at the 2026 Asian Games – Women's 4 × 200 metre freestyle relay](https://en.wikipedia.org/wiki/Swimming_at_the_2026_Asian_Games_%E2%80%93_Women%27s_4_%C3%97_200_metre_freestyle_relay) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 8,432 |
-| 2026-09-24 16:25:32 | [Spyridon Achladiotis](https://en.wikipedia.org/wiki/Spyridon_Achladiotis) | [G-Lignum](https://en.wikipedia.org/wiki/User:G-Lignum) | 5,478 |
-| 2026-09-24 16:27:05 | [Squamulea galactophylla](https://en.wikipedia.org/wiki/Squamulea_galactophylla) | [Gaiacoyote](https://en.wikipedia.org/wiki/User:Gaiacoyote) | 9,500 |
-| 2026-09-24 16:33:30 | [Sack of Cape Negro](https://en.wikipedia.org/wiki/Sack_of_Cape_Negro) | [Based tunisian](https://en.wikipedia.org/wiki/User:Based_tunisian) | 3,757 |
-| 2026-09-24 16:34:58 | [Miguel Nogueira](https://en.wikipedia.org/wiki/Miguel_Nogueira) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,785 |
-| 2026-09-24 16:38:02 | [Last Ditch Bar](https://en.wikipedia.org/wiki/Last_Ditch_Bar) | [Bhdshoes2](https://en.wikipedia.org/wiki/User:Bhdshoes2) | 2,354 |
-| 2026-09-24 16:41:33 | [Co-packaged optics](https://en.wikipedia.org/wiki/Co-packaged_optics) | [Jpascher](https://en.wikipedia.org/wiki/User:Jpascher) | 4,034 |
-| 2026-09-24 16:43:44 | [Nutgrove (disambiguation)](https://en.wikipedia.org/wiki/Nutgrove_%28disambiguation%29) | [A bit iffy](https://en.wikipedia.org/wiki/User:A_bit_iffy) | 500 |
-| 2026-09-24 16:44:30 | [Sumit Sangwan (kabaddi)](https://en.wikipedia.org/wiki/Sumit_Sangwan_%28kabaddi%29) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,536 |
-| 2026-09-24 16:47:06 | [Melanella luminosa](https://en.wikipedia.org/wiki/Melanella_luminosa) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,268 |
-| 2026-09-24 16:53:10 | [Dana Medeuova](https://en.wikipedia.org/wiki/Dana_Medeuova) | [Айдос Сақбергенұлы](https://en.wikipedia.org/wiki/User:%D0%90%D0%B9%D0%B4%D0%BE%D1%81_%D0%A1%D0%B0%D2%9B%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D2%B1%D0%BB%D1%8B) | 16,403 |
-| 2026-09-24 16:55:55 | [1990 Midwestern Collegiate Conference baseball tournament](https://en.wikipedia.org/wiki/1990_Midwestern_Collegiate_Conference_baseball_tournament) | [Billcasey905](https://en.wikipedia.org/wiki/User:Billcasey905) | 5,055 |
-| 2026-09-24 16:59:39 | [NIH Grant Commission (Executive Order)](https://en.wikipedia.org/wiki/NIH_Grant_Commission_%28Executive_Order%29) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 4,209 |
-| 2026-09-24 17:00:55 | [Bessie McClenahan](https://en.wikipedia.org/wiki/Bessie_McClenahan) | [Penny Richards](https://en.wikipedia.org/wiki/User:Penny_Richards) | 10,940 |
-| 2026-09-24 17:07:29 | [Corn Exchange, Newport](https://en.wikipedia.org/wiki/Corn_Exchange%2C_Newport) | [Sleepytimecat](https://en.wikipedia.org/wiki/User:Sleepytimecat) | 3,974 |
-| 2026-09-24 17:07:30 | [Media portrayals of conversion therapy](https://en.wikipedia.org/wiki/Media_portrayals_of_conversion_therapy) | [Chickenxcat](https://en.wikipedia.org/wiki/User:Chickenxcat) | 2,458 |
-| 2026-09-24 17:10:28 | [Castilla and León Championship](https://en.wikipedia.org/wiki/Castilla_and_Le%C3%B3n_Championship) | [Help.Football.History](https://en.wikipedia.org/wiki/User:Help.Football.History) | 2,913 |
-| 2026-09-24 17:11:08 | [Discretion (TV series)](https://en.wikipedia.org/wiki/Discretion_%28TV_series%29) | [Cinemacriterion](https://en.wikipedia.org/wiki/User:Cinemacriterion) | 1,082 |
-| 2026-09-24 17:14:08 | [List of acts of the Parliament of Victoria from 1874](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1874) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 2,742 |
-| 2026-09-24 17:15:51 | [Bob Dunlap](https://en.wikipedia.org/wiki/Bob_Dunlap) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 4,840 |
-| 2026-09-24 17:17:44 | [1988 Midwestern Collegiate Conference baseball tournament](https://en.wikipedia.org/wiki/1988_Midwestern_Collegiate_Conference_baseball_tournament) | [Billcasey905](https://en.wikipedia.org/wiki/User:Billcasey905) | 4,210 |
+| 2026-09-24 17:26:50 | [Trey Robinson](https://en.wikipedia.org/wiki/Trey_Robinson) | [Savvasg21](https://en.wikipedia.org/wiki/User:Savvasg21) | 4,966 |
+| 2026-09-24 17:27:46 | [Geranium rectum](https://en.wikipedia.org/wiki/Geranium_rectum) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 1,875 |
+| 2026-09-24 17:29:53 | [Big Hearts Community Trust](https://en.wikipedia.org/wiki/Big_Hearts_Community_Trust) | [Waxapple](https://en.wikipedia.org/wiki/User:Waxapple) | 6,229 |
+| 2026-09-24 17:31:18 | [2026 ANCPI hack](https://en.wikipedia.org/wiki/2026_ANCPI_hack) | [CDweller](https://en.wikipedia.org/wiki/User:CDweller) | 8,843 |
+| 2026-09-24 17:31:50 | [Joaquín Tobio Burgos](https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Tobio_Burgos) | [Ligaventura95](https://en.wikipedia.org/wiki/User:Ligaventura95) | 9,138 |
+| 2026-09-24 17:32:56 | [Richard Jessor](https://en.wikipedia.org/wiki/Richard_Jessor) | [OsbornJane](https://en.wikipedia.org/wiki/User:OsbornJane) | 4,322 |
+| 2026-09-24 17:32:58 | [Inci Y.](https://en.wikipedia.org/wiki/Inci_Y.) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 3,144 |
+| 2026-09-24 17:37:16 | [Ryan D. Griffiths](https://en.wikipedia.org/wiki/Ryan_D._Griffiths) | [Fakescientist8000](https://en.wikipedia.org/wiki/User:Fakescientist8000) | 488 |
+| 2026-09-24 17:37:28 | [The Station (2026 film)](https://en.wikipedia.org/wiki/The_Station_%282026_film%29) | [Rickyurs](https://en.wikipedia.org/wiki/User:Rickyurs) | 5,335 |
+| 2026-09-24 17:43:02 | [North Africa Championship](https://en.wikipedia.org/wiki/North_Africa_Championship) | [Help.Football.History](https://en.wikipedia.org/wiki/User:Help.Football.History) | 15,448 |
+| 2026-09-24 17:44:14 | [The Corner Pin](https://en.wikipedia.org/wiki/The_Corner_Pin) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 6,881 |
+| 2026-09-24 17:45:19 | [Olsi Nika](https://en.wikipedia.org/wiki/Olsi_Nika) | [Treize066](https://en.wikipedia.org/wiki/User:Treize066) | 3,206 |
+| 2026-09-24 17:46:16 | [James Rigato](https://en.wikipedia.org/wiki/James_Rigato) | [DUBYA18](https://en.wikipedia.org/wiki/User:DUBYA18) | 13,672 |
+| 2026-09-24 17:48:03 | [54th International Emmy Awards](https://en.wikipedia.org/wiki/54th_International_Emmy_Awards) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 12,558 |
+| 2026-09-24 17:48:28 | [Gymnastics at the 2026 Asian Games – Women's artistic team all-around](https://en.wikipedia.org/wiki/Gymnastics_at_the_2026_Asian_Games_%E2%80%93_Women%27s_artistic_team_all-around) | [Mypurplelightsaber](https://en.wikipedia.org/wiki/User:Mypurplelightsaber) | 14,849 |
+| 2026-09-24 17:48:40 | [Jackson Stephens (disambiguation)](https://en.wikipedia.org/wiki/Jackson_Stephens_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 272 |
+| 2026-09-24 17:50:53 | [Minister for Labour (Ghana)](https://en.wikipedia.org/wiki/Minister_for_Labour_%28Ghana%29) | [Natsubee](https://en.wikipedia.org/wiki/User:Natsubee) | 10,480 |
+| 2026-09-24 17:52:36 | [2010 NASCAR K&N Pro Series West](https://en.wikipedia.org/wiki/2010_NASCAR_K%26N_Pro_Series_West) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 8,657 |
+| 2026-09-24 17:57:20 | [Fatima Khatun (disambiguation)](https://en.wikipedia.org/wiki/Fatima_Khatun_%28disambiguation%29) | [StudentOfEtherium](https://en.wikipedia.org/wiki/User:StudentOfEtherium) | 294 |
+| 2026-09-24 18:02:19 | [Perro Perro](https://en.wikipedia.org/wiki/Perro_Perro) | [Cinemaniac86](https://en.wikipedia.org/wiki/User:Cinemaniac86) | 8,966 |
+| 2026-09-24 18:02:27 | [Chidri](https://en.wikipedia.org/wiki/Chidri) | [Krb2383](https://en.wikipedia.org/wiki/User:Krb2383) | 3,420 |
+| 2026-09-24 18:04:05 | [IRAS 18293−0941](https://en.wikipedia.org/wiki/IRAS_18293%E2%88%920941) | [AstroChronicler X](https://en.wikipedia.org/wiki/User:AstroChronicler_X) | 7,302 |
+| 2026-09-24 18:05:32 | [Ritika Chopra](https://en.wikipedia.org/wiki/Ritika_Chopra) | [Pinakpani](https://en.wikipedia.org/wiki/User:Pinakpani) | 3,697 |
+| 2026-09-24 18:06:42 | [Persija Jakarta–Persikad Depok rivalry](https://en.wikipedia.org/wiki/Persija_Jakarta%E2%80%93Persikad_Depok_rivalry) | [HiNimo](https://en.wikipedia.org/wiki/User:HiNimo) | 9,295 |
+| 2026-09-24 18:11:54 | [Kinerot Natural Region](https://en.wikipedia.org/wiki/Kinerot_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 5,269 |
+| 2026-09-24 18:18:08 | [Shakespeare Tercentenary of 1864](https://en.wikipedia.org/wiki/Shakespeare_Tercentenary_of_1864) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 5,296 |
+| 2026-09-24 18:18:12 | [Shakespeare Tercentenary of 1916](https://en.wikipedia.org/wiki/Shakespeare_Tercentenary_of_1916) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 7,485 |
+| 2026-09-24 18:19:15 | [Zhu Zhongming](https://en.wikipedia.org/wiki/Zhu_Zhongming) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 7,988 |
