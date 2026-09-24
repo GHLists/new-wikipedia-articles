@@ -13,61 +13,55 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-24 14:21 UTC](data/en/new-articles-2026-09-24T14-21-35Z.csv) | 29 |
-| Japanese | `ja` | [2026-09-24 14:21 UTC](data/ja/new-articles-2026-09-24T14-21-35Z.csv) | 9 |
-| Chinese | `zh` | [2026-09-24 14:21 UTC](data/zh/new-articles-2026-09-24T14-21-35Z.csv) | 12 |
-| French | `fr` | [2026-09-24 14:21 UTC](data/fr/new-articles-2026-09-24T14-21-35Z.csv) | 12 |
-| German | `de` | [2026-09-24 14:21 UTC](data/de/new-articles-2026-09-24T14-21-35Z.csv) | 9 |
-| Russian | `ru` | [2026-09-24 14:21 UTC](data/ru/new-articles-2026-09-24T14-21-35Z.csv) | 7 |
-| Spanish | `es` | [2026-09-24 14:21 UTC](data/es/new-articles-2026-09-24T14-21-35Z.csv) | 43 |
-| Italian | `it` | [2026-09-24 14:21 UTC](data/it/new-articles-2026-09-24T14-21-35Z.csv) | 16 |
-| Portuguese | `pt` | [2026-09-24 14:21 UTC](data/pt/new-articles-2026-09-24T14-21-35Z.csv) | 7 |
-| Polish | `pl` | [2026-09-24 14:21 UTC](data/pl/new-articles-2026-09-24T14-21-35Z.csv) | 4 |
-| Arabic | `ar` | [2026-09-24 14:21 UTC](data/ar/new-articles-2026-09-24T14-21-35Z.csv) | 1 |
-| Persian | `fa` | [2026-09-24 14:21 UTC](data/fa/new-articles-2026-09-24T14-21-35Z.csv) | 4 |
-| Turkish | `tr` | [2026-09-24 14:21 UTC](data/tr/new-articles-2026-09-24T14-21-35Z.csv) | 6 |
-| Hebrew | `he` | [2026-09-24 13:19 UTC](data/he/new-articles-2026-09-24T13-19-45Z.csv) | 2 |
+| English | `en` | [2026-09-24 15:18 UTC](data/en/new-articles-2026-09-24T15-18-58Z.csv) | 23 |
+| Japanese | `ja` | [2026-09-24 15:18 UTC](data/ja/new-articles-2026-09-24T15-18-58Z.csv) | 9 |
+| Chinese | `zh` | [2026-09-24 15:18 UTC](data/zh/new-articles-2026-09-24T15-18-58Z.csv) | 23 |
+| French | `fr` | [2026-09-24 15:18 UTC](data/fr/new-articles-2026-09-24T15-18-58Z.csv) | 14 |
+| German | `de` | [2026-09-24 15:18 UTC](data/de/new-articles-2026-09-24T15-18-58Z.csv) | 13 |
+| Russian | `ru` | [2026-09-24 15:18 UTC](data/ru/new-articles-2026-09-24T15-18-58Z.csv) | 7 |
+| Spanish | `es` | [2026-09-24 15:18 UTC](data/es/new-articles-2026-09-24T15-18-58Z.csv) | 11 |
+| Italian | `it` | [2026-09-24 15:18 UTC](data/it/new-articles-2026-09-24T15-18-58Z.csv) | 12 |
+| Portuguese | `pt` | [2026-09-24 15:18 UTC](data/pt/new-articles-2026-09-24T15-18-58Z.csv) | 3 |
+| Polish | `pl` | [2026-09-24 15:18 UTC](data/pl/new-articles-2026-09-24T15-18-58Z.csv) | 10 |
+| Arabic | `ar` | [2026-09-24 15:18 UTC](data/ar/new-articles-2026-09-24T15-18-58Z.csv) | 3 |
+| Persian | `fa` | [2026-09-24 15:18 UTC](data/fa/new-articles-2026-09-24T15-18-58Z.csv) | 5 |
+| Turkish | `tr` | [2026-09-24 15:18 UTC](data/tr/new-articles-2026-09-24T15-18-58Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-24 15:18 UTC](data/he/new-articles-2026-09-24T15-18-58Z.csv) | 2 |
 | Swedish | `sv` | [2026-09-24 14:21 UTC](data/sv/new-articles-2026-09-24T14-21-35Z.csv) | 3 |
-| Dutch | `nl` | [2026-09-24 14:21 UTC](data/nl/new-articles-2026-09-24T14-21-35Z.csv) | 3 |
-| Korean | `ko` | [2026-09-24 14:21 UTC](data/ko/new-articles-2026-09-24T14-21-35Z.csv) | 11 |
-| Indonesian | `id` | [2026-09-24 14:21 UTC](data/id/new-articles-2026-09-24T14-21-35Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-09-24 14:21 UTC](data/uk/new-articles-2026-09-24T14-21-35Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-09-24 14:21 UTC](data/vi/new-articles-2026-09-24T14-21-35Z.csv) | 3 |
+| Dutch | `nl` | [2026-09-24 15:18 UTC](data/nl/new-articles-2026-09-24T15-18-58Z.csv) | 3 |
+| Korean | `ko` | [2026-09-24 15:18 UTC](data/ko/new-articles-2026-09-24T15-18-58Z.csv) | 8 |
+| Indonesian | `id` | [2026-09-24 15:18 UTC](data/id/new-articles-2026-09-24T15-18-58Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-09-24 15:18 UTC](data/uk/new-articles-2026-09-24T15-18-58Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-09-24 15:18 UTC](data/vi/new-articles-2026-09-24T15-18-58Z.csv) | 1 |
 
-## English (en) — 2026-09-24 14:21 UTC
+## English (en) — 2026-09-24 15:18 UTC
 
-New articles created between 2026-09-24 13:19 UTC and 2026-09-24 14:21 UTC.
+New articles created between 2026-09-24 14:21 UTC and 2026-09-24 15:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-24T14-21-35Z.csv)
+[Full CSV](data/en/new-articles-2026-09-24T15-18-58Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-24 13:22:30 | [Ataenius columbicus](https://en.wikipedia.org/wiki/Ataenius_columbicus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,484 |
-| 2026-09-24 13:24:24 | [Polyplocology](https://en.wikipedia.org/wiki/Polyplocology) | [Phyntis](https://en.wikipedia.org/wiki/User:Phyntis) | 3,359 |
-| 2026-09-24 13:26:21 | [Pieak Poster](https://en.wikipedia.org/wiki/Pieak_Poster) | [Phoebus 28](https://en.wikipedia.org/wiki/User:Phoebus_28) | 5,340 |
-| 2026-09-24 13:29:00 | [List of cancelled PC games](https://en.wikipedia.org/wiki/List_of_cancelled_PC_games) | [Timur9008](https://en.wikipedia.org/wiki/User:Timur9008) | 12,015 |
-| 2026-09-24 13:30:42 | [Cliff Garner](https://en.wikipedia.org/wiki/Cliff_Garner) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 8,232 |
-| 2026-09-24 13:31:12 | [Diego Sozzani](https://en.wikipedia.org/wiki/Diego_Sozzani) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 2,577 |
-| 2026-09-24 13:37:15 | [Ataenius crenaticollis](https://en.wikipedia.org/wiki/Ataenius_crenaticollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,897 |
-| 2026-09-24 13:39:29 | [Shirley Transport Solutions](https://en.wikipedia.org/wiki/Shirley_Transport_Solutions) | [Ad Infinitium](https://en.wikipedia.org/wiki/User:Ad_Infinitium) | 5,336 |
-| 2026-09-24 13:39:31 | [Melanella lubrica](https://en.wikipedia.org/wiki/Melanella_lubrica) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,417 |
-| 2026-09-24 13:39:52 | [Ataenius opatroides](https://en.wikipedia.org/wiki/Ataenius_opatroides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,059 |
-| 2026-09-24 13:44:54 | [Nightfall Down the Thames](https://en.wikipedia.org/wiki/Nightfall_Down_the_Thames) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 2,646 |
-| 2026-09-24 13:44:57 | [Reflections on the Thames, Westminster](https://en.wikipedia.org/wiki/Reflections_on_the_Thames%2C_Westminster) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,155 |
-| 2026-09-24 13:48:10 | [Sammaan Ek Adhikaar](https://en.wikipedia.org/wiki/Sammaan_Ek_Adhikaar) | [AABABHAU](https://en.wikipedia.org/wiki/User:AABABHAU) | 4,730 |
-| 2026-09-24 13:52:21 | [Gymnastics at the 2026 Asian Games – Men's artistic team all-around](https://en.wikipedia.org/wiki/Gymnastics_at_the_2026_Asian_Games_%E2%80%93_Men%27s_artistic_team_all-around) | [Mypurplelightsaber](https://en.wikipedia.org/wiki/User:Mypurplelightsaber) | 16,560 |
-| 2026-09-24 13:53:50 | [2027 Cheshire and Warrington mayoral election](https://en.wikipedia.org/wiki/2027_Cheshire_and_Warrington_mayoral_election) | [Wikieditor019](https://en.wikipedia.org/wiki/User:Wikieditor019) | 2,921 |
-| 2026-09-24 13:55:18 | [Smiljko Sokol](https://en.wikipedia.org/wiki/Smiljko_Sokol) | [AeroFalkien](https://en.wikipedia.org/wiki/User:AeroFalkien) | 380 |
-| 2026-09-24 13:55:34 | [List of acts of the Parliament of Victoria from 1876](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1876) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 596 |
-| 2026-09-24 13:56:14 | [Ataenius complicatus](https://en.wikipedia.org/wiki/Ataenius_complicatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,474 |
-| 2026-09-24 13:56:29 | [Michael Brown (linebacker)](https://en.wikipedia.org/wiki/Michael_Brown_%28linebacker%29) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 6,858 |
-| 2026-09-24 13:57:35 | [Leela Gandhi (actress)](https://en.wikipedia.org/wiki/Leela_Gandhi_%28actress%29) | [Goalata](https://en.wikipedia.org/wiki/User:Goalata) | 9,926 |
-| 2026-09-24 13:58:24 | [Ataenius hispidus](https://en.wikipedia.org/wiki/Ataenius_hispidus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,924 |
-| 2026-09-24 13:59:56 | [Surfaceology](https://en.wikipedia.org/wiki/Surfaceology) | [Hsnewman](https://en.wikipedia.org/wiki/User:Hsnewman) | 3,240 |
-| 2026-09-24 14:02:05 | [Thomas Arnold (educator of the deaf)](https://en.wikipedia.org/wiki/Thomas_Arnold_%28educator_of_the_deaf%29) | [Omicron18](https://en.wikipedia.org/wiki/User:Omicron18) | 856 |
-| 2026-09-24 14:02:49 | [Kavipriya Selvam](https://en.wikipedia.org/wiki/Kavipriya_Selvam) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 5,045 |
-| 2026-09-24 14:05:56 | [Peter Petrel](https://en.wikipedia.org/wiki/Peter_Petrel) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 3,128 |
-| 2026-09-24 14:13:27 | [List of pro-Palestinian protests in Cyprus](https://en.wikipedia.org/wiki/List_of_pro-Palestinian_protests_in_Cyprus) | [Afonso Dimas Martins](https://en.wikipedia.org/wiki/User:Afonso_Dimas_Martins) | 12,293 |
-| 2026-09-24 14:16:11 | [Kamikaze Douga](https://en.wikipedia.org/wiki/Kamikaze_Douga) | [Real Sergent](https://en.wikipedia.org/wiki/User:Real_Sergent) | 6,528 |
-| 2026-09-24 14:18:40 | [JUTA (company)](https://en.wikipedia.org/wiki/JUTA_%28company%29) | [System tinker 90](https://en.wikipedia.org/wiki/User:System_tinker_90) | 8,362 |
-| 2026-09-24 14:21:09 | [James Brim](https://en.wikipedia.org/wiki/James_Brim) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 4,585 |
+| 2026-09-24 14:24:44 | [Swimming at the 2026 Asian Games – Men's 50 metre butterfly](https://en.wikipedia.org/wiki/Swimming_at_the_2026_Asian_Games_%E2%80%93_Men%27s_50_metre_butterfly) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 8,732 |
+| 2026-09-24 14:29:15 | [Jensen Schwartz](https://en.wikipedia.org/wiki/Jensen_Schwartz) | [AeroFalkien](https://en.wikipedia.org/wiki/User:AeroFalkien) | 81 |
+| 2026-09-24 14:29:23 | [Melanella monterosatoi](https://en.wikipedia.org/wiki/Melanella_monterosatoi) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,987 |
+| 2026-09-24 14:30:11 | [Simran Singhi](https://en.wikipedia.org/wiki/Simran_Singhi) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,584 |
+| 2026-09-24 14:30:44 | [Swimming at the 2026 Asian Games – Women's 50 metre freestyle](https://en.wikipedia.org/wiki/Swimming_at_the_2026_Asian_Games_%E2%80%93_Women%27s_50_metre_freestyle) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 7,669 |
+| 2026-09-24 14:36:28 | [Swimming at the 2026 Asian Games – Women's 200 metre breaststroke](https://en.wikipedia.org/wiki/Swimming_at_the_2026_Asian_Games_%E2%80%93_Women%27s_200_metre_breaststroke) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 5,789 |
+| 2026-09-24 14:43:27 | [2026 Election Controversy in India](https://en.wikipedia.org/wiki/2026_Election_Controversy_in_India) | [Abhinav619](https://en.wikipedia.org/wiki/User:Abhinav619) | 2,310 |
+| 2026-09-24 14:45:22 | [Swimming at the 2026 Asian Games – Men's 4 × 100 metre freestyle relay](https://en.wikipedia.org/wiki/Swimming_at_the_2026_Asian_Games_%E2%80%93_Men%27s_4_%C3%97_100_metre_freestyle_relay) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 9,917 |
+| 2026-09-24 14:47:18 | [Alur Kingdom](https://en.wikipedia.org/wiki/Alur_Kingdom) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 9,159 |
+| 2026-09-24 14:50:19 | [Melanella translucens](https://en.wikipedia.org/wiki/Melanella_translucens) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,287 |
+| 2026-09-24 14:50:53 | [Maria Torres (disambiguation)](https://en.wikipedia.org/wiki/Maria_Torres_%28disambiguation%29) | [RFNirmala](https://en.wikipedia.org/wiki/User:RFNirmala) | 663 |
+| 2026-09-24 14:54:37 | [UnRally](https://en.wikipedia.org/wiki/UnRally) | [Lonelyworldtomorrow](https://en.wikipedia.org/wiki/User:Lonelyworldtomorrow) | 2,740 |
+| 2026-09-24 14:56:02 | [Athletics at the 2026 Asian Games – Mixed 4 × 400 metres relay](https://en.wikipedia.org/wiki/Athletics_at_the_2026_Asian_Games_%E2%80%93_Mixed_4_%C3%97_400_metres_relay) | [Magentic Manifestations](https://en.wikipedia.org/wiki/User:Magentic_Manifestations) | 5,204 |
+| 2026-09-24 14:57:04 | [Elmo Kelly](https://en.wikipedia.org/wiki/Elmo_Kelly) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 3,233 |
+| 2026-09-24 14:58:22 | [Pacho Benavides](https://en.wikipedia.org/wiki/Pacho_Benavides) | [GanzKnusper](https://en.wikipedia.org/wiki/User:GanzKnusper) | 5,611 |
+| 2026-09-24 14:59:05 | [Baker's Woods](https://en.wikipedia.org/wiki/Baker%27s_Woods) | [KnowledgeMaple](https://en.wikipedia.org/wiki/User:KnowledgeMaple) | 3,877 |
+| 2026-09-24 15:01:56 | [Flint City, Alabama](https://en.wikipedia.org/wiki/Flint_City%2C_Alabama) | [Patapsco913](https://en.wikipedia.org/wiki/User:Patapsco913) | 1,747 |
+| 2026-09-24 15:05:27 | [Melanella luchuana](https://en.wikipedia.org/wiki/Melanella_luchuana) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,096 |
+| 2026-09-24 15:07:45 | [Manufacturers Record](https://en.wikipedia.org/wiki/Manufacturers_Record) | [Seasider53](https://en.wikipedia.org/wiki/User:Seasider53) | 1,530 |
+| 2026-09-24 15:09:29 | [Elke-Annette Schmidt](https://en.wikipedia.org/wiki/Elke-Annette_Schmidt) | [Azadsarhldan](https://en.wikipedia.org/wiki/User:Azadsarhldan) | 1,184 |
+| 2026-09-24 15:14:41 | [Jacob Goldwasser](https://en.wikipedia.org/wiki/Jacob_Goldwasser) | [Rigg](https://en.wikipedia.org/wiki/User:Rigg) | 1,763 |
+| 2026-09-24 15:16:22 | [180 (South African film)](https://en.wikipedia.org/wiki/180_%28South_African_film%29) | [Dinitrify](https://en.wikipedia.org/wiki/User:Dinitrify) | 3,283 |
+| 2026-09-24 15:18:35 | [2016 Presentation Saints football team](https://en.wikipedia.org/wiki/2016_Presentation_Saints_football_team) | [PutABoatOnTheWater](https://en.wikipedia.org/wiki/User:PutABoatOnTheWater) | 16,355 |
