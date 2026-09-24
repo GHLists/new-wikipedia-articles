@@ -13,54 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-24 03:09 UTC](data/en/new-articles-2026-09-24T03-09-31Z.csv) | 22 |
-| Japanese | `ja` | [2026-09-24 03:09 UTC](data/ja/new-articles-2026-09-24T03-09-31Z.csv) | 7 |
-| Chinese | `zh` | [2026-09-24 03:09 UTC](data/zh/new-articles-2026-09-24T03-09-31Z.csv) | 19 |
-| French | `fr` | [2026-09-24 03:09 UTC](data/fr/new-articles-2026-09-24T03-09-31Z.csv) | 2 |
+| English | `en` | [2026-09-24 04:08 UTC](data/en/new-articles-2026-09-24T04-08-54Z.csv) | 22 |
+| Japanese | `ja` | [2026-09-24 04:08 UTC](data/ja/new-articles-2026-09-24T04-08-54Z.csv) | 1 |
+| Chinese | `zh` | [2026-09-24 04:08 UTC](data/zh/new-articles-2026-09-24T04-08-54Z.csv) | 5 |
+| French | `fr` | [2026-09-24 04:08 UTC](data/fr/new-articles-2026-09-24T04-08-54Z.csv) | 1 |
 | German | `de` | [2026-09-24 03:09 UTC](data/de/new-articles-2026-09-24T03-09-31Z.csv) | 1 |
-| Russian | `ru` | [2026-09-24 03:09 UTC](data/ru/new-articles-2026-09-24T03-09-31Z.csv) | 5 |
-| Spanish | `es` | [2026-09-24 03:09 UTC](data/es/new-articles-2026-09-24T03-09-31Z.csv) | 4 |
+| Russian | `ru` | [2026-09-24 04:08 UTC](data/ru/new-articles-2026-09-24T04-08-54Z.csv) | 1 |
+| Spanish | `es` | [2026-09-24 04:08 UTC](data/es/new-articles-2026-09-24T04-08-54Z.csv) | 5 |
 | Italian | `it` | [2026-09-24 00:18 UTC](data/it/new-articles-2026-09-24T00-18-48Z.csv) | 4 |
 | Portuguese | `pt` | [2026-09-24 03:09 UTC](data/pt/new-articles-2026-09-24T03-09-31Z.csv) | 3 |
-| Polish | `pl` | [2026-09-24 00:18 UTC](data/pl/new-articles-2026-09-24T00-18-48Z.csv) | 2 |
-| Arabic | `ar` | [2026-09-24 03:09 UTC](data/ar/new-articles-2026-09-24T03-09-31Z.csv) | 4 |
-| Persian | `fa` | [2026-09-24 01:43 UTC](data/fa/new-articles-2026-09-24T01-43-48Z.csv) | 1 |
-| Turkish | `tr` | [2026-09-24 03:09 UTC](data/tr/new-articles-2026-09-24T03-09-31Z.csv) | 2 |
-| Hebrew | `he` | [2026-09-23 23:18 UTC](data/he/new-articles-2026-09-23T23-18-48Z.csv) | 2 |
+| Polish | `pl` | [2026-09-24 04:08 UTC](data/pl/new-articles-2026-09-24T04-08-54Z.csv) | 1 |
+| Arabic | `ar` | [2026-09-24 04:08 UTC](data/ar/new-articles-2026-09-24T04-08-54Z.csv) | 2 |
+| Persian | `fa` | [2026-09-24 04:08 UTC](data/fa/new-articles-2026-09-24T04-08-54Z.csv) | 1 |
+| Turkish | `tr` | [2026-09-24 04:08 UTC](data/tr/new-articles-2026-09-24T04-08-54Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-24 04:08 UTC](data/he/new-articles-2026-09-24T04-08-54Z.csv) | 1 |
 | Swedish | `sv` | [2026-09-24 03:09 UTC](data/sv/new-articles-2026-09-24T03-09-31Z.csv) | 1 |
 | Dutch | `nl` | [2026-09-24 03:09 UTC](data/nl/new-articles-2026-09-24T03-09-31Z.csv) | 2 |
-| Korean | `ko` | [2026-09-24 03:09 UTC](data/ko/new-articles-2026-09-24T03-09-31Z.csv) | 11 |
-| Indonesian | `id` | [2026-09-24 03:09 UTC](data/id/new-articles-2026-09-24T03-09-31Z.csv) | 17 |
-| Ukrainian | `uk` | [2026-09-24 03:09 UTC](data/uk/new-articles-2026-09-24T03-09-31Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-09-24 03:09 UTC](data/vi/new-articles-2026-09-24T03-09-31Z.csv) | 1 |
+| Korean | `ko` | [2026-09-24 04:08 UTC](data/ko/new-articles-2026-09-24T04-08-54Z.csv) | 7 |
+| Indonesian | `id` | [2026-09-24 04:08 UTC](data/id/new-articles-2026-09-24T04-08-54Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-09-24 04:08 UTC](data/uk/new-articles-2026-09-24T04-08-54Z.csv) | 4 |
+| Vietnamese | `vi` | [2026-09-24 04:08 UTC](data/vi/new-articles-2026-09-24T04-08-54Z.csv) | 4 |
 
-## English (en) — 2026-09-24 03:09 UTC
+## English (en) — 2026-09-24 04:08 UTC
 
-New articles created between 2026-09-24 01:43 UTC and 2026-09-24 03:09 UTC.
+New articles created between 2026-09-24 03:09 UTC and 2026-09-24 04:08 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-24T03-09-31Z.csv)
+[Full CSV](data/en/new-articles-2026-09-24T04-08-54Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-24 01:47:08 | [Vizianagaram Zilla Praja Parishad](https://en.wikipedia.org/wiki/Vizianagaram_Zilla_Praja_Parishad) | [Sandeep kumar 83](https://en.wikipedia.org/wiki/User:Sandeep_kumar_83) | 5,843 |
-| 2026-09-24 01:51:09 | [Hylaeus elongatus](https://en.wikipedia.org/wiki/Hylaeus_elongatus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,111 |
-| 2026-09-24 01:52:09 | [Peter Leys](https://en.wikipedia.org/wiki/Peter_Leys) | [MatSallehSesat](https://en.wikipedia.org/wiki/User:MatSallehSesat) | 15,674 |
-| 2026-09-24 01:53:05 | [2004 V8 Supercars Eastern Creek round](https://en.wikipedia.org/wiki/2004_V8_Supercars_Eastern_Creek_round) | [SquirrelIAm](https://en.wikipedia.org/wiki/User:SquirrelIAm) | 17,597 |
-| 2026-09-24 01:53:56 | [Anne Chisholm](https://en.wikipedia.org/wiki/Anne_Chisholm) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 15,739 |
-| 2026-09-24 01:58:39 | [Josh Hendrickson](https://en.wikipedia.org/wiki/Josh_Hendrickson) | [Muboshgu](https://en.wikipedia.org/wiki/User:Muboshgu) | 278 |
-| 2026-09-24 02:06:56 | [Coming Down (Dum Dum Girls song)](https://en.wikipedia.org/wiki/Coming_Down_%28Dum_Dum_Girls_song%29) | [Thewealthysocialite](https://en.wikipedia.org/wiki/User:Thewealthysocialite) | 9,373 |
-| 2026-09-24 02:08:08 | [Magazine 1](https://en.wikipedia.org/wiki/Magazine_1) | [Jibblesnark86](https://en.wikipedia.org/wiki/User:Jibblesnark86) | 3,146 |
-| 2026-09-24 02:10:32 | [Journal of Neurocytology](https://en.wikipedia.org/wiki/Journal_of_Neurocytology) | [Starlighsky](https://en.wikipedia.org/wiki/User:Starlighsky) | 243 |
-| 2026-09-24 02:16:16 | [Littafuchee](https://en.wikipedia.org/wiki/Littafuchee) | [Jengod](https://en.wikipedia.org/wiki/User:Jengod) | 1,425 |
-| 2026-09-24 02:32:29 | [Dave James (racing driver)](https://en.wikipedia.org/wiki/Dave_James_%28racing_driver%29) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 8,492 |
-| 2026-09-24 02:35:19 | [Logan Henderson (disambiguation)](https://en.wikipedia.org/wiki/Logan_Henderson_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 342 |
-| 2026-09-24 02:37:15 | [1982–83 University College Dublin A.F.C. season](https://en.wikipedia.org/wiki/1982%E2%80%9383_University_College_Dublin_A.F.C._season) | [Alan Merrigan Jr.](https://en.wikipedia.org/wiki/User:Alan_Merrigan_Jr.) | 871 |
-| 2026-09-24 02:40:10 | [Chicken Head (film)](https://en.wikipedia.org/wiki/Chicken_Head_%28film%29) | [SEditor2000](https://en.wikipedia.org/wiki/User:SEditor2000) | 2,280 |
-| 2026-09-24 02:44:22 | [Urodontinae](https://en.wikipedia.org/wiki/Urodontinae) | [Ratothy](https://en.wikipedia.org/wiki/User:Ratothy) | 1,335 |
-| 2026-09-24 02:45:35 | [Arthur Shirley Hamilton](https://en.wikipedia.org/wiki/Arthur_Shirley_Hamilton) | [MatSallehSesat](https://en.wikipedia.org/wiki/User:MatSallehSesat) | 6,296 |
-| 2026-09-24 02:54:51 | [Dorke and Ymp](https://en.wikipedia.org/wiki/Dorke_and_Ymp) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,412 |
-| 2026-09-24 02:56:50 | [Anggito Abimanyu](https://en.wikipedia.org/wiki/Anggito_Abimanyu) | [Liem Kia Tou](https://en.wikipedia.org/wiki/User:Liem_Kia_Tou) | 12,851 |
-| 2026-09-24 02:59:50 | [Hylaeus albomaculatus](https://en.wikipedia.org/wiki/Hylaeus_albomaculatus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 1,970 |
-| 2026-09-24 03:04:13 | [Gavin Meyer](https://en.wikipedia.org/wiki/Gavin_Meyer) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,694 |
-| 2026-09-24 03:05:35 | [Party lists for the 2015 Israeli legislative election](https://en.wikipedia.org/wiki/Party_lists_for_the_2015_Israeli_legislative_election) | [TeddyRoosevelt1912](https://en.wikipedia.org/wiki/User:TeddyRoosevelt1912) | 13,560 |
-| 2026-09-24 03:08:08 | [Nùng Trí Cao (ward)](https://en.wikipedia.org/wiki/N%C3%B9ng_Tr%C3%AD_Cao_%28ward%29) | [Vietic2](https://en.wikipedia.org/wiki/User:Vietic2) | 2,875 |
+| 2026-09-24 03:09:58 | [John Diehl (disambiguation)](https://en.wikipedia.org/wiki/John_Diehl_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 239 |
+| 2026-09-24 03:11:11 | [Joseph Knowles (footballer, born 2004)](https://en.wikipedia.org/wiki/Joseph_Knowles_%28footballer%2C_born_2004%29) | [SpinningSevens7](https://en.wikipedia.org/wiki/User:SpinningSevens7) | 9,439 |
+| 2026-09-24 03:14:23 | [Kanch Ki Gudiya](https://en.wikipedia.org/wiki/Kanch_Ki_Gudiya) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,310 |
+| 2026-09-24 03:18:36 | [The Virago Book of Friendship](https://en.wikipedia.org/wiki/The_Virago_Book_of_Friendship) | [WhisperToMe](https://en.wikipedia.org/wiki/User:WhisperToMe) | 3,586 |
+| 2026-09-24 03:20:29 | [Željko Hubač](https://en.wikipedia.org/wiki/%C5%BDeljko_Huba%C4%8D) | [Elserbio00](https://en.wikipedia.org/wiki/User:Elserbio00) | 3,864 |
+| 2026-09-24 03:24:53 | [Traditional Native American Indian titles](https://en.wikipedia.org/wiki/Traditional_Native_American_Indian_titles) | [GenQuest](https://en.wikipedia.org/wiki/User:GenQuest) | 3,057 |
+| 2026-09-24 03:25:55 | [Far Eastern Garden City](https://en.wikipedia.org/wiki/Far_Eastern_Garden_City) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 3,611 |
+| 2026-09-24 03:27:46 | [China at the 2028 Summer Olympics](https://en.wikipedia.org/wiki/China_at_the_2028_Summer_Olympics) | [Amnom Darius](https://en.wikipedia.org/wiki/User:Amnom_Darius) | 2,414 |
+| 2026-09-24 03:34:21 | [Thomas R. McGetchin](https://en.wikipedia.org/wiki/Thomas_R._McGetchin) | [RabidTuberculosis](https://en.wikipedia.org/wiki/User:RabidTuberculosis) | 21,412 |
+| 2026-09-24 03:34:22 | [Data:United States lumber production by region, 1889–1929.tab](https://en.wikipedia.org/wiki/Data%3AUnited_States_lumber_production_by_region%2C_1889%E2%80%931929.tab) | [Guywelch2000](https://en.wikipedia.org/wiki/User:Guywelch2000) | 2,480 |
+| 2026-09-24 03:35:04 | [Honeymoon (1960 film)](https://en.wikipedia.org/wiki/Honeymoon_%281960_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,636 |
+| 2026-09-24 03:35:42 | [Chaiya Suriyan](https://en.wikipedia.org/wiki/Chaiya_Suriyan) | [Phoebus 28](https://en.wikipedia.org/wiki/User:Phoebus_28) | 3,618 |
+| 2026-09-24 03:37:09 | [Data:United States lumber production by macro-region 1889-1929.chart](https://en.wikipedia.org/wiki/Data%3AUnited_States_lumber_production_by_macro-region_1889-1929.chart) | [Guywelch2000](https://en.wikipedia.org/wiki/User:Guywelch2000) | 546 |
+| 2026-09-24 03:37:11 | [List of Hindu temples in Rajasthan](https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Rajasthan) | [Amadavadi](https://en.wikipedia.org/wiki/User:Amadavadi) | 6,215 |
+| 2026-09-24 03:42:30 | [2026 ATB Okotoks Classic](https://en.wikipedia.org/wiki/2026_ATB_Okotoks_Classic) | [TracyFleuryFan](https://en.wikipedia.org/wiki/User:TracyFleuryFan) | 22,204 |
+| 2026-09-24 03:42:48 | [Cuba at the 2028 Summer Olympics](https://en.wikipedia.org/wiki/Cuba_at_the_2028_Summer_Olympics) | [Amnom Darius](https://en.wikipedia.org/wiki/User:Amnom_Darius) | 2,539 |
+| 2026-09-24 03:48:16 | [2026 Dallas Trinity FC season](https://en.wikipedia.org/wiki/2026_Dallas_Trinity_FC_season) | [Lhts120](https://en.wikipedia.org/wiki/User:Lhts120) | 5,561 |
+| 2026-09-24 03:58:35 | [Modern Girl (film)](https://en.wikipedia.org/wiki/Modern_Girl_%28film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,489 |
+| 2026-09-24 03:59:28 | [Datu Patinggi Abdul Gapur](https://en.wikipedia.org/wiki/Datu_Patinggi_Abdul_Gapur) | [MatSallehSesat](https://en.wikipedia.org/wiki/User:MatSallehSesat) | 4,081 |
+| 2026-09-24 04:01:09 | [Rodolphe (comic book writer)](https://en.wikipedia.org/wiki/Rodolphe_%28comic_book_writer%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,238 |
+| 2026-09-24 04:05:21 | [The Quantum World: From Waves to the Mystery of Entanglement](https://en.wikipedia.org/wiki/The_Quantum_World%3A_From_Waves_to_the_Mystery_of_Entanglement) | [Zhih-Ahn Jia](https://en.wikipedia.org/wiki/User:Zhih-Ahn_Jia) | 7,835 |
+| 2026-09-24 04:05:40 | [Kıvırcık Ali](https://en.wikipedia.org/wiki/K%C4%B1v%C4%B1rc%C4%B1k_Ali) | [Keivan.f](https://en.wikipedia.org/wiki/User:Keivan.f) | 40,378 |
