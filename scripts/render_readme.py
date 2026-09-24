@@ -101,12 +101,36 @@ def languages_from_files(data_dir):
     return languages
 
 
-def load_languages(manifest_path, data_dir):
+def read_manifest_text(path):
+    """Read the manifest from disk, or fall back to the committed copy.
+
+    The workflow checks out only ``scripts`` from the repository, so the
+    manifest can be missing from the working tree even though it is committed.
+    """
+    manifest_path = Path(path)
     try:
-        data = json.loads(Path(manifest_path).read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return languages_from_files(data_dir)
-    languages = data.get("languages")
+        return manifest_path.read_text(encoding="utf-8")
+    except OSError:
+        pass
+    try:
+        result = subprocess.run(
+            ["git", "show", f"HEAD:{manifest_path.as_posix()}"],
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+    except (OSError, subprocess.CalledProcessError):
+        return None
+    return result.stdout
+
+
+def load_languages(manifest_path, data_dir):
+    text = read_manifest_text(manifest_path)
+    try:
+        data = json.loads(text) if text is not None else None
+    except json.JSONDecodeError:
+        data = None
+    languages = data.get("languages") if isinstance(data, dict) else None
     if not isinstance(languages, dict):
         return languages_from_files(data_dir)
     return languages

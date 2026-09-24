@@ -6,6 +6,7 @@ import csv
 import datetime as dt
 import http.client
 import json
+import subprocess
 import sys
 import time
 import urllib.error
@@ -144,10 +145,36 @@ def write_csv(path, project, entries):
             )
 
 
-def load_manifest(path):
+def read_manifest_text(path):
+    """Read the manifest from disk, or fall back to the committed copy.
+
+    The workflow checks out only ``scripts`` from the repository, so the
+    manifest can be missing from the working tree even though it is committed.
+    """
+    manifest_path = Path(path)
     try:
-        data = json.loads(Path(path).read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
+        return manifest_path.read_text(encoding="utf-8")
+    except OSError:
+        pass
+    try:
+        result = subprocess.run(
+            ["git", "show", f"HEAD:{manifest_path.as_posix()}"],
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+    except (OSError, subprocess.CalledProcessError):
+        return None
+    return result.stdout
+
+
+def load_manifest(path):
+    text = read_manifest_text(path)
+    if text is None:
+        return {"languages": {}}
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
         return {"languages": {}}
     if not isinstance(data, dict) or not isinstance(data.get("languages"), dict):
         return {"languages": {}}
