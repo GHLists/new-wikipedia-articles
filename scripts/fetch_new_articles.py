@@ -4,6 +4,7 @@
 import argparse
 import csv
 import datetime as dt
+import http.client
 import json
 import sys
 import time
@@ -24,6 +25,14 @@ DEFAULT_PROJECTS = (
 )
 
 COMMENT_LIMIT = 200
+
+TRANSIENT_ERRORS = (
+    urllib.error.URLError,
+    TimeoutError,
+    json.JSONDecodeError,
+    http.client.HTTPException,
+    OSError,
+)
 
 
 def to_domain(code):
@@ -59,7 +68,7 @@ def fetch_page(domain, params, user_agent, retries=3, backoff=5.0):
         try:
             with urllib.request.urlopen(request, timeout=60) as response:
                 payload = json.load(response)
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as error:
+        except TRANSIENT_ERRORS as error:
             last_error = error
         else:
             if "error" in payload:
