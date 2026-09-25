@@ -13,47 +13,41 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-25 03:18 UTC](data/en/new-articles-2026-09-25T03-18-57Z.csv) | 15 |
-| Japanese | `ja` | [2026-09-25 03:18 UTC](data/ja/new-articles-2026-09-25T03-18-57Z.csv) | 3 |
-| Chinese | `zh` | [2026-09-25 03:18 UTC](data/zh/new-articles-2026-09-25T03-18-57Z.csv) | 7 |
-| French | `fr` | [2026-09-25 03:18 UTC](data/fr/new-articles-2026-09-25T03-18-57Z.csv) | 1 |
-| German | `de` | [2026-09-25 03:18 UTC](data/de/new-articles-2026-09-25T03-18-57Z.csv) | 1 |
+| English | `en` | [2026-09-25 04:19 UTC](data/en/new-articles-2026-09-25T04-19-52Z.csv) | 9 |
+| Japanese | `ja` | [2026-09-25 04:19 UTC](data/ja/new-articles-2026-09-25T04-19-52Z.csv) | 2 |
+| Chinese | `zh` | [2026-09-25 04:19 UTC](data/zh/new-articles-2026-09-25T04-19-52Z.csv) | 10 |
+| French | `fr` | [2026-09-25 04:19 UTC](data/fr/new-articles-2026-09-25T04-19-52Z.csv) | 4 |
+| German | `de` | [2026-09-25 04:19 UTC](data/de/new-articles-2026-09-25T04-19-52Z.csv) | 1 |
 | Russian | `ru` | [2026-09-25 02:19 UTC](data/ru/new-articles-2026-09-25T02-19-43Z.csv) | 4 |
-| Spanish | `es` | [2026-09-25 03:18 UTC](data/es/new-articles-2026-09-25T03-18-57Z.csv) | 8 |
-| Italian | `it` | [2026-09-25 03:18 UTC](data/it/new-articles-2026-09-25T03-18-57Z.csv) | 1 |
-| Portuguese | `pt` | [2026-09-25 03:18 UTC](data/pt/new-articles-2026-09-25T03-18-57Z.csv) | 2 |
-| Polish | `pl` | [2026-09-25 03:18 UTC](data/pl/new-articles-2026-09-25T03-18-57Z.csv) | 1 |
-| Arabic | `ar` | [2026-09-25 02:19 UTC](data/ar/new-articles-2026-09-25T02-19-43Z.csv) | 1 |
+| Spanish | `es` | [2026-09-25 04:19 UTC](data/es/new-articles-2026-09-25T04-19-52Z.csv) | 7 |
+| Italian | `it` | [2026-09-25 04:19 UTC](data/it/new-articles-2026-09-25T04-19-52Z.csv) | 1 |
+| Portuguese | `pt` | [2026-09-25 04:19 UTC](data/pt/new-articles-2026-09-25T04-19-52Z.csv) | 3 |
+| Polish | `pl` | [2026-09-25 04:19 UTC](data/pl/new-articles-2026-09-25T04-19-52Z.csv) | 2 |
+| Arabic | `ar` | [2026-09-25 04:19 UTC](data/ar/new-articles-2026-09-25T04-19-52Z.csv) | 2 |
 | Persian | `fa` | [2026-09-25 03:18 UTC](data/fa/new-articles-2026-09-25T03-18-57Z.csv) | 4 |
-| Turkish | `tr` | [2026-09-24 23:19 UTC](data/tr/new-articles-2026-09-24T23-19-00Z.csv) | 8 |
-| Hebrew | `he` | [2026-09-25 03:18 UTC](data/he/new-articles-2026-09-25T03-18-57Z.csv) | 1 |
-| Swedish | `sv` | [2026-09-25 03:18 UTC](data/sv/new-articles-2026-09-25T03-18-57Z.csv) | 1 |
+| Turkish | `tr` | [2026-09-25 04:19 UTC](data/tr/new-articles-2026-09-25T04-19-52Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-25 04:19 UTC](data/he/new-articles-2026-09-25T04-19-52Z.csv) | 2 |
+| Swedish | `sv` | [2026-09-25 04:19 UTC](data/sv/new-articles-2026-09-25T04-19-52Z.csv) | 4 |
 | Dutch | `nl` | [2026-09-25 02:19 UTC](data/nl/new-articles-2026-09-25T02-19-43Z.csv) | 1 |
-| Korean | `ko` | [2026-09-25 03:18 UTC](data/ko/new-articles-2026-09-25T03-18-57Z.csv) | 7 |
-| Indonesian | `id` | [2026-09-25 03:18 UTC](data/id/new-articles-2026-09-25T03-18-57Z.csv) | 17 |
-| Ukrainian | `uk` | [2026-09-25 01:19 UTC](data/uk/new-articles-2026-09-25T01-19-27Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-09-25 02:19 UTC](data/vi/new-articles-2026-09-25T02-19-43Z.csv) | 1 |
+| Korean | `ko` | [2026-09-25 04:19 UTC](data/ko/new-articles-2026-09-25T04-19-52Z.csv) | 3 |
+| Indonesian | `id` | [2026-09-25 04:19 UTC](data/id/new-articles-2026-09-25T04-19-52Z.csv) | 19 |
+| Ukrainian | `uk` | [2026-09-25 04:19 UTC](data/uk/new-articles-2026-09-25T04-19-52Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-09-25 04:19 UTC](data/vi/new-articles-2026-09-25T04-19-52Z.csv) | 2 |
 
-## English (en) — 2026-09-25 03:18 UTC
+## English (en) — 2026-09-25 04:19 UTC
 
-New articles created between 2026-09-25 02:19 UTC and 2026-09-25 03:18 UTC.
+New articles created between 2026-09-25 03:18 UTC and 2026-09-25 04:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-25T03-18-57Z.csv)
+[Full CSV](data/en/new-articles-2026-09-25T04-19-52Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-25 02:20:11 | [Kerivoula dongduongana](https://en.wikipedia.org/wiki/Kerivoula_dongduongana) | [Enwebb](https://en.wikipedia.org/wiki/User:Enwebb) | 790 |
-| 2026-09-25 02:24:01 | [Optiemus](https://en.wikipedia.org/wiki/Optiemus) | [Aestheticlove.fx](https://en.wikipedia.org/wiki/User:Aestheticlove.fx) | 343 |
-| 2026-09-25 02:29:29 | [Ryan Bradley (disambiguation)](https://en.wikipedia.org/wiki/Ryan_Bradley_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 249 |
-| 2026-09-25 02:29:30 | [2010 Aden attack](https://en.wikipedia.org/wiki/2010_Aden_attack) | [Hsnkn](https://en.wikipedia.org/wiki/User:Hsnkn) | 7,444 |
-| 2026-09-25 02:44:52 | [Hamed al-Jubouri](https://en.wikipedia.org/wiki/Hamed_al-Jubouri) | [MakeMeNewAgain](https://en.wikipedia.org/wiki/User:MakeMeNewAgain) | 4,767 |
-| 2026-09-25 02:46:01 | [Hylaeus lubbocki](https://en.wikipedia.org/wiki/Hylaeus_lubbocki) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 1,853 |
-| 2026-09-25 02:49:22 | [The Evolution of Human Sexuality](https://en.wikipedia.org/wiki/The_Evolution_of_Human_Sexuality) | [RockRockOn](https://en.wikipedia.org/wiki/User:RockRockOn) | 302 |
-| 2026-09-25 02:50:40 | [Matheus Melecchi](https://en.wikipedia.org/wiki/Matheus_Melecchi) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 3,637 |
-| 2026-09-25 02:56:14 | [Jakob Grosse-Ophoff](https://en.wikipedia.org/wiki/Jakob_Grosse-Ophoff) | [Henrique960](https://en.wikipedia.org/wiki/User:Henrique960) | 807 |
-| 2026-09-25 02:59:25 | [Tko to tamo pjeva? season 3](https://en.wikipedia.org/wiki/Tko_to_tamo_pjeva%3F_season_3) | [Saisønisse](https://en.wikipedia.org/wiki/User:Sais%C3%B8nisse) | 11,988 |
-| 2026-09-25 02:59:54 | [2026 Canadian Mixed Curling Championship](https://en.wikipedia.org/wiki/2026_Canadian_Mixed_Curling_Championship) | [TracyFleuryFan](https://en.wikipedia.org/wiki/User:TracyFleuryFan) | 18,825 |
-| 2026-09-25 03:07:50 | [Retrophyllum filicifolium](https://en.wikipedia.org/wiki/Retrophyllum_filicifolium) | [Tom Radulovich](https://en.wikipedia.org/wiki/User:Tom_Radulovich) | 1,581 |
-| 2026-09-25 03:12:05 | [裕華](https://en.wikipedia.org/wiki/%E8%A3%95%E8%8F%AF) | [Sdf](https://en.wikipedia.org/wiki/User:Sdf) | 463 |
-| 2026-09-25 03:13:41 | [Slide-Rock Bolter](https://en.wikipedia.org/wiki/Slide-Rock_Bolter) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 539 |
-| 2026-09-25 03:16:26 | [Joshua Cassara](https://en.wikipedia.org/wiki/Joshua_Cassara) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,128 |
+| 2026-09-25 03:24:23 | [Mark Buckley (disambiguation)](https://en.wikipedia.org/wiki/Mark_Buckley_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 247 |
+| 2026-09-25 03:34:12 | [West Godavari Zilla Praja Parishad](https://en.wikipedia.org/wiki/West_Godavari_Zilla_Praja_Parishad) | [Sandeep kumar 83](https://en.wikipedia.org/wiki/User:Sandeep_kumar_83) | 2,360 |
+| 2026-09-25 03:34:17 | [East Godavari Zilla Praja Parishad](https://en.wikipedia.org/wiki/East_Godavari_Zilla_Praja_Parishad) | [Sandeep kumar 83](https://en.wikipedia.org/wiki/User:Sandeep_kumar_83) | 2,360 |
+| 2026-09-25 03:34:19 | [Srikakulam Zilla Praja Parishad](https://en.wikipedia.org/wiki/Srikakulam_Zilla_Praja_Parishad) | [Sandeep kumar 83](https://en.wikipedia.org/wiki/User:Sandeep_kumar_83) | 2,360 |
+| 2026-09-25 03:43:00 | [Randy Butner](https://en.wikipedia.org/wiki/Randy_Butner) | [Finn Shipley](https://en.wikipedia.org/wiki/User:Finn_Shipley) | 16,503 |
+| 2026-09-25 03:51:50 | [Manu TS](https://en.wikipedia.org/wiki/Manu_TS) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 184 |
+| 2026-09-25 04:02:51 | [Jeff Stephenson](https://en.wikipedia.org/wiki/Jeff_Stephenson) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,904 |
+| 2026-09-25 04:05:57 | [Joe Colgan](https://en.wikipedia.org/wiki/Joe_Colgan) | [Ddysndu](https://en.wikipedia.org/wiki/User:Ddysndu) | 4,004 |
+| 2026-09-25 04:17:01 | [Dexter in the Newsagent](https://en.wikipedia.org/wiki/Dexter_in_the_Newsagent) | [Dwarfroe](https://en.wikipedia.org/wiki/User:Dwarfroe) | 9,446 |
