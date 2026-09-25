@@ -13,62 +13,63 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-25 19:19 UTC](data/en/new-articles-2026-09-25T19-19-24Z.csv) | 30 |
+| English | `en` | [2026-09-25 20:19 UTC](data/en/new-articles-2026-09-25T20-19-14Z.csv) | 31 |
 | Japanese | `ja` | [2026-09-25 19:19 UTC](data/ja/new-articles-2026-09-25T19-19-24Z.csv) | 2 |
-| Chinese | `zh` | [2026-09-25 19:19 UTC](data/zh/new-articles-2026-09-25T19-19-24Z.csv) | 1 |
-| French | `fr` | [2026-09-25 19:19 UTC](data/fr/new-articles-2026-09-25T19-19-24Z.csv) | 8 |
-| German | `de` | [2026-09-25 19:19 UTC](data/de/new-articles-2026-09-25T19-19-24Z.csv) | 7 |
-| Russian | `ru` | [2026-09-25 19:19 UTC](data/ru/new-articles-2026-09-25T19-19-24Z.csv) | 7 |
-| Spanish | `es` | [2026-09-25 19:19 UTC](data/es/new-articles-2026-09-25T19-19-24Z.csv) | 37 |
-| Italian | `it` | [2026-09-25 19:19 UTC](data/it/new-articles-2026-09-25T19-19-24Z.csv) | 11 |
-| Portuguese | `pt` | [2026-09-25 19:19 UTC](data/pt/new-articles-2026-09-25T19-19-24Z.csv) | 7 |
-| Polish | `pl` | [2026-09-25 19:19 UTC](data/pl/new-articles-2026-09-25T19-19-24Z.csv) | 12 |
-| Arabic | `ar` | [2026-09-25 19:19 UTC](data/ar/new-articles-2026-09-25T19-19-24Z.csv) | 8 |
-| Persian | `fa` | [2026-09-25 19:19 UTC](data/fa/new-articles-2026-09-25T19-19-24Z.csv) | 28 |
-| Turkish | `tr` | [2026-09-25 19:19 UTC](data/tr/new-articles-2026-09-25T19-19-24Z.csv) | 5 |
-| Hebrew | `he` | [2026-09-25 19:19 UTC](data/he/new-articles-2026-09-25T19-19-24Z.csv) | 1 |
-| Swedish | `sv` | [2026-09-25 19:19 UTC](data/sv/new-articles-2026-09-25T19-19-24Z.csv) | 5 |
-| Dutch | `nl` | [2026-09-25 19:19 UTC](data/nl/new-articles-2026-09-25T19-19-24Z.csv) | 5 |
+| Chinese | `zh` | [2026-09-25 20:19 UTC](data/zh/new-articles-2026-09-25T20-19-14Z.csv) | 10 |
+| French | `fr` | [2026-09-25 20:19 UTC](data/fr/new-articles-2026-09-25T20-19-14Z.csv) | 11 |
+| German | `de` | [2026-09-25 20:19 UTC](data/de/new-articles-2026-09-25T20-19-14Z.csv) | 12 |
+| Russian | `ru` | [2026-09-25 20:19 UTC](data/ru/new-articles-2026-09-25T20-19-14Z.csv) | 12 |
+| Spanish | `es` | [2026-09-25 20:19 UTC](data/es/new-articles-2026-09-25T20-19-14Z.csv) | 17 |
+| Italian | `it` | [2026-09-25 20:19 UTC](data/it/new-articles-2026-09-25T20-19-14Z.csv) | 8 |
+| Portuguese | `pt` | [2026-09-25 20:19 UTC](data/pt/new-articles-2026-09-25T20-19-14Z.csv) | 16 |
+| Polish | `pl` | [2026-09-25 20:19 UTC](data/pl/new-articles-2026-09-25T20-19-14Z.csv) | 4 |
+| Arabic | `ar` | [2026-09-25 20:19 UTC](data/ar/new-articles-2026-09-25T20-19-14Z.csv) | 3 |
+| Persian | `fa` | [2026-09-25 20:19 UTC](data/fa/new-articles-2026-09-25T20-19-14Z.csv) | 28 |
+| Turkish | `tr` | [2026-09-25 20:19 UTC](data/tr/new-articles-2026-09-25T20-19-14Z.csv) | 16 |
+| Hebrew | `he` | [2026-09-25 20:19 UTC](data/he/new-articles-2026-09-25T20-19-14Z.csv) | 1 |
+| Swedish | `sv` | [2026-09-25 20:19 UTC](data/sv/new-articles-2026-09-25T20-19-14Z.csv) | 5 |
+| Dutch | `nl` | [2026-09-25 20:19 UTC](data/nl/new-articles-2026-09-25T20-19-14Z.csv) | 4 |
 | Korean | `ko` | [2026-09-25 19:19 UTC](data/ko/new-articles-2026-09-25T19-19-24Z.csv) | 2 |
-| Indonesian | `id` | [2026-09-25 19:19 UTC](data/id/new-articles-2026-09-25T19-19-24Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-09-25 19:19 UTC](data/uk/new-articles-2026-09-25T19-19-24Z.csv) | 3 |
+| Indonesian | `id` | [2026-09-25 20:19 UTC](data/id/new-articles-2026-09-25T20-19-14Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-09-25 20:19 UTC](data/uk/new-articles-2026-09-25T20-19-14Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-09-25 18:18 UTC](data/vi/new-articles-2026-09-25T18-18-55Z.csv) | 1 |
 
-## English (en) — 2026-09-25 19:19 UTC
+## English (en) — 2026-09-25 20:19 UTC
 
-New articles created between 2026-09-25 18:18 UTC and 2026-09-25 19:19 UTC.
+New articles created between 2026-09-25 19:19 UTC and 2026-09-25 20:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-25T19-19-24Z.csv)
+[Full CSV](data/en/new-articles-2026-09-25T20-19-14Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-25 18:21:14 | [The Age of Everything](https://en.wikipedia.org/wiki/The_Age_of_Everything) | [Matthew04020](https://en.wikipedia.org/wiki/User:Matthew04020) | 2,880 |
-| 2026-09-25 18:23:08 | [What Remains (2026 film)](https://en.wikipedia.org/wiki/What_Remains_%282026_film%29) | [Asqueladd](https://en.wikipedia.org/wiki/User:Asqueladd) | 3,989 |
-| 2026-09-25 18:23:36 | [Monotes dasyanthus](https://en.wikipedia.org/wiki/Monotes_dasyanthus) | [Tom Radulovich](https://en.wikipedia.org/wiki/User:Tom_Radulovich) | 1,752 |
-| 2026-09-25 18:30:42 | [Chatmongkon Suwannapoom](https://en.wikipedia.org/wiki/Chatmongkon_Suwannapoom) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-09-25 18:31:53 | [American Idol Season Synopses](https://en.wikipedia.org/wiki/American_Idol_Season_Synopses) | [TheGameShowFan123](https://en.wikipedia.org/wiki/User:TheGameShowFan123) | 43,402 |
-| 2026-09-25 18:32:14 | [Outacité](https://en.wikipedia.org/wiki/Outacit%C3%A9) | [GenQuest](https://en.wikipedia.org/wiki/User:GenQuest) | 1,522 |
-| 2026-09-25 18:32:16 | [The Gem (Julia Jacklin album)](https://en.wikipedia.org/wiki/The_Gem_%28Julia_Jacklin_album%29) | [Gafigglethorp](https://en.wikipedia.org/wiki/User:Gafigglethorp) | 2,464 |
-| 2026-09-25 18:34:28 | [Karin Tamar](https://en.wikipedia.org/wiki/Karin_Tamar) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-09-25 18:34:58 | [Julian Jones](https://en.wikipedia.org/wiki/Julian_Jones) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,089 |
-| 2026-09-25 18:40:08 | [Fabio Soli](https://en.wikipedia.org/wiki/Fabio_Soli) | [G-Lignum](https://en.wikipedia.org/wiki/User:G-Lignum) | 4,106 |
-| 2026-09-25 18:41:08 | [Alex Slavenko](https://en.wikipedia.org/wiki/Alex_Slavenko) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-09-25 18:41:44 | [Abhishek Dogra](https://en.wikipedia.org/wiki/Abhishek_Dogra) | [Official06](https://en.wikipedia.org/wiki/User:Official06) | 5,886 |
-| 2026-09-25 18:44:36 | [John Agar (disambiguation)](https://en.wikipedia.org/wiki/John_Agar_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 229 |
-| 2026-09-25 18:46:20 | [Cham (electoral district)](https://en.wikipedia.org/wiki/Cham_%28electoral_district%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 4,337 |
-| 2026-09-25 18:47:37 | [Dertad II](https://en.wikipedia.org/wiki/Dertad_II) | [MerlinsCodex](https://en.wikipedia.org/wiki/User:MerlinsCodex) | 1,000 |
-| 2026-09-25 18:53:33 | [List of construction occupations](https://en.wikipedia.org/wiki/List_of_construction_occupations) | [Wikideas1](https://en.wikipedia.org/wiki/User:Wikideas1) | 10,798 |
-| 2026-09-25 18:53:38 | [Ragged Range](https://en.wikipedia.org/wiki/Ragged_Range) | [Johnmand](https://en.wikipedia.org/wiki/User:Johnmand) | 4,025 |
-| 2026-09-25 18:55:56 | [Nazareno Lanciotti](https://en.wikipedia.org/wiki/Nazareno_Lanciotti) | [Cassilvwikis](https://en.wikipedia.org/wiki/User:Cassilvwikis) | 4,758 |
-| 2026-09-25 18:58:43 | [Senate district 72 – Ostrava-City](https://en.wikipedia.org/wiki/Senate_district_72_%E2%80%93_Ostrava-City) | [Kroulacek](https://en.wikipedia.org/wiki/User:Kroulacek) | 11,465 |
-| 2026-09-25 19:01:25 | [Voosen](https://en.wikipedia.org/wiki/Voosen) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 961 |
-| 2026-09-25 19:01:48 | [Mauro Teixeira Jr.](https://en.wikipedia.org/wiki/Mauro_Teixeira_Jr.) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-09-25 19:03:06 | [Aria herbipolitana](https://en.wikipedia.org/wiki/Aria_herbipolitana) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 6,419 |
-| 2026-09-25 19:03:56 | ["Rising Tide" Haida Title Lands Agreement](https://en.wikipedia.org/wiki/%22Rising_Tide%22_Haida_Title_Lands_Agreement) | [Sunsonn](https://en.wikipedia.org/wiki/User:Sunsonn) | 26,002 |
-| 2026-09-25 19:06:56 | [Promet Group](https://en.wikipedia.org/wiki/Promet_Group) | [System tinker 90](https://en.wikipedia.org/wiki/User:System_tinker_90) | 8,614 |
-| 2026-09-25 19:07:47 | [Sion I of Armenia](https://en.wikipedia.org/wiki/Sion_I_of_Armenia) | [MerlinsCodex](https://en.wikipedia.org/wiki/User:MerlinsCodex) | 1,272 |
-| 2026-09-25 19:09:42 | [Alessandro Di Nunzio](https://en.wikipedia.org/wiki/Alessandro_Di_Nunzio) | [Thplam2004](https://en.wikipedia.org/wiki/User:Thplam2004) | 6,365 |
-| 2026-09-25 19:10:28 | [Asbolis capucinus](https://en.wikipedia.org/wiki/Asbolis_capucinus) | [Ezra Katz](https://en.wikipedia.org/wiki/User:Ezra_Katz) | 630 |
-| 2026-09-25 19:14:07 | [Munich Centre (electoral district)](https://en.wikipedia.org/wiki/Munich_Centre_%28electoral_district%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 4,911 |
-| 2026-09-25 19:14:54 | [Meta Brunner](https://en.wikipedia.org/wiki/Meta_Brunner) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 7,275 |
-| 2026-09-25 19:17:52 | [Almirante Participações e Empreendimentos](https://en.wikipedia.org/wiki/Almirante_Participa%C3%A7%C3%B5es_e_Empreendimentos) | [Lpxfs](https://en.wikipedia.org/wiki/User:Lpxfs) | 4,750 |
+| 2026-09-25 19:19:59 | [Lower Creek, North Carolina](https://en.wikipedia.org/wiki/Lower_Creek%2C_North_Carolina) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 684 |
+| 2026-09-25 19:23:27 | [Myint Kyaw Thura](https://en.wikipedia.org/wiki/Myint_Kyaw_Thura) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-09-25 19:26:46 | [Tawesco](https://en.wikipedia.org/wiki/Tawesco) | [System tinker 90](https://en.wikipedia.org/wiki/User:System_tinker_90) | 5,739 |
+| 2026-09-25 19:27:15 | [Arzina, Washington](https://en.wikipedia.org/wiki/Arzina%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,575 |
+| 2026-09-25 19:27:58 | [Timo Hantunen](https://en.wikipedia.org/wiki/Timo_Hantunen) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,847 |
+| 2026-09-25 19:31:25 | [Aliff Sor.Dechapan](https://en.wikipedia.org/wiki/Aliff_Sor.Dechapan) | [Khonda8](https://en.wikipedia.org/wiki/User:Khonda8) | 14,513 |
+| 2026-09-25 19:36:36 | [Lisak](https://en.wikipedia.org/wiki/Lisak) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 538 |
+| 2026-09-25 19:37:16 | [Abhiraj Minawala](https://en.wikipedia.org/wiki/Abhiraj_Minawala) | [Official06](https://en.wikipedia.org/wiki/User:Official06) | 5,456 |
+| 2026-09-25 19:40:04 | [Lisewski](https://en.wikipedia.org/wiki/Lisewski) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 551 |
+| 2026-09-25 19:42:46 | [Gianfranco Casarsa](https://en.wikipedia.org/wiki/Gianfranco_Casarsa) | [Grifomaniacs](https://en.wikipedia.org/wiki/User:Grifomaniacs) | 7,077 |
+| 2026-09-25 19:45:53 | [Lisiewski](https://en.wikipedia.org/wiki/Lisiewski) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 713 |
+| 2026-09-25 19:46:05 | [Prize of the Republic](https://en.wikipedia.org/wiki/Prize_of_the_Republic) | [Kj1595](https://en.wikipedia.org/wiki/User:Kj1595) | 12,836 |
+| 2026-09-25 19:48:49 | [Jean Orizet](https://en.wikipedia.org/wiki/Jean_Orizet) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 5,451 |
+| 2026-09-25 19:49:42 | [Saeed Farrokhi](https://en.wikipedia.org/wiki/Saeed_Farrokhi) | [Alibaloch76](https://en.wikipedia.org/wiki/User:Alibaloch76) | 6,327 |
+| 2026-09-25 19:51:19 | [Solomon I of Armenia](https://en.wikipedia.org/wiki/Solomon_I_of_Armenia) | [MerlinsCodex](https://en.wikipedia.org/wiki/User:MerlinsCodex) | 1,657 |
+| 2026-09-25 19:51:41 | [Ariel Guo](https://en.wikipedia.org/wiki/Ariel_Guo) | [Fishywishy111](https://en.wikipedia.org/wiki/User:Fishywishy111) | 5,540 |
+| 2026-09-25 19:53:28 | [2026–27 NHL suspensions and fines](https://en.wikipedia.org/wiki/2026%E2%80%9327_NHL_suspensions_and_fines) | [Uncleben85](https://en.wikipedia.org/wiki/User:Uncleben85) | 7,161 |
+| 2026-09-25 19:57:01 | [Danka Firfova](https://en.wikipedia.org/wiki/Danka_Firfova) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 3,679 |
+| 2026-09-25 19:57:44 | [Tom Pearson (multidisciplinary artist)](https://en.wikipedia.org/wiki/Tom_Pearson_%28multidisciplinary_artist%29) | [Sajrocks](https://en.wikipedia.org/wiki/User:Sajrocks) | 12,580 |
+| 2026-09-25 19:57:50 | [112 Micklegate](https://en.wikipedia.org/wiki/112_Micklegate) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 6,906 |
+| 2026-09-25 19:58:00 | [Maliam Mdoko](https://en.wikipedia.org/wiki/Maliam_Mdoko) | [Victuallers](https://en.wikipedia.org/wiki/User:Victuallers) | 3,405 |
+| 2026-09-25 19:58:01 | [Kamsiyo](https://en.wikipedia.org/wiki/Kamsiyo) | [Dangermanmeetz](https://en.wikipedia.org/wiki/User:Dangermanmeetz) | 290 |
+| 2026-09-25 19:59:42 | [Nello Malizia](https://en.wikipedia.org/wiki/Nello_Malizia) | [Grifomaniacs](https://en.wikipedia.org/wiki/User:Grifomaniacs) | 6,507 |
+| 2026-09-25 19:59:54 | [Oleg Mediannikov](https://en.wikipedia.org/wiki/Oleg_Mediannikov) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-09-25 20:04:51 | [Jason Hilliard](https://en.wikipedia.org/wiki/Jason_Hilliard) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,985 |
+| 2026-09-25 20:09:57 | [British Food Manufacturing Industries Research Association](https://en.wikipedia.org/wiki/British_Food_Manufacturing_Industries_Research_Association) | [Kyteto](https://en.wikipedia.org/wiki/User:Kyteto) | 4,494 |
+| 2026-09-25 20:10:05 | [Macai (film)](https://en.wikipedia.org/wiki/Macai_%28film%29) | [DareshMohan](https://en.wikipedia.org/wiki/User:DareshMohan) | 3,498 |
+| 2026-09-25 20:16:41 | [Cesare Butti](https://en.wikipedia.org/wiki/Cesare_Butti) | [Grifomaniacs](https://en.wikipedia.org/wiki/User:Grifomaniacs) | 5,147 |
+| 2026-09-25 20:16:52 | [Ghedi (surname)](https://en.wikipedia.org/wiki/Ghedi_%28surname%29) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 246 |
+| 2026-09-25 20:17:08 | [2026–27 Wisconsin Badgers men's ice hockey season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Wisconsin_Badgers_men%27s_ice_hockey_season) | [Publicwalrus](https://en.wikipedia.org/wiki/User:Publicwalrus) | 32,005 |
+| 2026-09-25 20:17:28 | [Delano T. Smith](https://en.wikipedia.org/wiki/Delano_T._Smith) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 6,637 |
