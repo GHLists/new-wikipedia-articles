@@ -13,52 +13,55 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-26 08:19 UTC](data/en/new-articles-2026-09-26T08-19-36Z.csv) | 20 |
-| Japanese | `ja` | [2026-09-26 08:19 UTC](data/ja/new-articles-2026-09-26T08-19-36Z.csv) | 9 |
-| Chinese | `zh` | [2026-09-26 08:19 UTC](data/zh/new-articles-2026-09-26T08-19-36Z.csv) | 11 |
-| French | `fr` | [2026-09-26 08:19 UTC](data/fr/new-articles-2026-09-26T08-19-36Z.csv) | 4 |
-| German | `de` | [2026-09-26 08:19 UTC](data/de/new-articles-2026-09-26T08-19-36Z.csv) | 12 |
-| Russian | `ru` | [2026-09-26 08:19 UTC](data/ru/new-articles-2026-09-26T08-19-36Z.csv) | 3 |
-| Spanish | `es` | [2026-09-26 08:19 UTC](data/es/new-articles-2026-09-26T08-19-36Z.csv) | 2 |
-| Italian | `it` | [2026-09-26 08:19 UTC](data/it/new-articles-2026-09-26T08-19-36Z.csv) | 27 |
-| Portuguese | `pt` | [2026-09-26 08:19 UTC](data/pt/new-articles-2026-09-26T08-19-36Z.csv) | 1 |
-| Polish | `pl` | [2026-09-26 08:19 UTC](data/pl/new-articles-2026-09-26T08-19-36Z.csv) | 4 |
-| Arabic | `ar` | [2026-09-26 08:19 UTC](data/ar/new-articles-2026-09-26T08-19-36Z.csv) | 9 |
-| Persian | `fa` | [2026-09-26 08:19 UTC](data/fa/new-articles-2026-09-26T08-19-36Z.csv) | 38 |
+| English | `en` | [2026-09-26 09:18 UTC](data/en/new-articles-2026-09-26T09-18-52Z.csv) | 23 |
+| Japanese | `ja` | [2026-09-26 09:18 UTC](data/ja/new-articles-2026-09-26T09-18-52Z.csv) | 10 |
+| Chinese | `zh` | [2026-09-26 09:18 UTC](data/zh/new-articles-2026-09-26T09-18-52Z.csv) | 6 |
+| French | `fr` | [2026-09-26 09:18 UTC](data/fr/new-articles-2026-09-26T09-18-52Z.csv) | 6 |
+| German | `de` | [2026-09-26 09:18 UTC](data/de/new-articles-2026-09-26T09-18-52Z.csv) | 8 |
+| Russian | `ru` | [2026-09-26 09:18 UTC](data/ru/new-articles-2026-09-26T09-18-52Z.csv) | 4 |
+| Spanish | `es` | [2026-09-26 09:18 UTC](data/es/new-articles-2026-09-26T09-18-52Z.csv) | 7 |
+| Italian | `it` | [2026-09-26 09:18 UTC](data/it/new-articles-2026-09-26T09-18-52Z.csv) | 10 |
+| Portuguese | `pt` | [2026-09-26 09:18 UTC](data/pt/new-articles-2026-09-26T09-18-52Z.csv) | 1 |
+| Polish | `pl` | [2026-09-26 09:18 UTC](data/pl/new-articles-2026-09-26T09-18-52Z.csv) | 5 |
+| Arabic | `ar` | [2026-09-26 09:18 UTC](data/ar/new-articles-2026-09-26T09-18-52Z.csv) | 8 |
+| Persian | `fa` | [2026-09-26 09:18 UTC](data/fa/new-articles-2026-09-26T09-18-52Z.csv) | 34 |
 | Turkish | `tr` | [2026-09-26 08:19 UTC](data/tr/new-articles-2026-09-26T08-19-36Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-26 08:19 UTC](data/he/new-articles-2026-09-26T08-19-36Z.csv) | 5 |
-| Swedish | `sv` | [2026-09-26 08:19 UTC](data/sv/new-articles-2026-09-26T08-19-36Z.csv) | 4 |
-| Dutch | `nl` | [2026-09-26 08:19 UTC](data/nl/new-articles-2026-09-26T08-19-36Z.csv) | 3 |
-| Korean | `ko` | [2026-09-26 08:19 UTC](data/ko/new-articles-2026-09-26T08-19-36Z.csv) | 12 |
-| Indonesian | `id` | [2026-09-26 08:19 UTC](data/id/new-articles-2026-09-26T08-19-36Z.csv) | 11 |
-| Ukrainian | `uk` | [2026-09-26 08:19 UTC](data/uk/new-articles-2026-09-26T08-19-36Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-09-26 08:19 UTC](data/vi/new-articles-2026-09-26T08-19-36Z.csv) | 3 |
+| Hebrew | `he` | [2026-09-26 09:18 UTC](data/he/new-articles-2026-09-26T09-18-52Z.csv) | 1 |
+| Swedish | `sv` | [2026-09-26 09:18 UTC](data/sv/new-articles-2026-09-26T09-18-52Z.csv) | 6 |
+| Dutch | `nl` | [2026-09-26 09:18 UTC](data/nl/new-articles-2026-09-26T09-18-52Z.csv) | 6 |
+| Korean | `ko` | [2026-09-26 09:18 UTC](data/ko/new-articles-2026-09-26T09-18-52Z.csv) | 11 |
+| Indonesian | `id` | [2026-09-26 09:18 UTC](data/id/new-articles-2026-09-26T09-18-52Z.csv) | 20 |
+| Ukrainian | `uk` | [2026-09-26 09:18 UTC](data/uk/new-articles-2026-09-26T09-18-52Z.csv) | 9 |
+| Vietnamese | `vi` | [2026-09-26 09:18 UTC](data/vi/new-articles-2026-09-26T09-18-52Z.csv) | 2 |
 
-## English (en) — 2026-09-26 08:19 UTC
+## English (en) — 2026-09-26 09:18 UTC
 
-New articles created between 2026-09-26 07:19 UTC and 2026-09-26 08:19 UTC.
+New articles created between 2026-09-26 08:19 UTC and 2026-09-26 09:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-26T08-19-36Z.csv)
+[Full CSV](data/en/new-articles-2026-09-26T09-18-52Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-26 07:21:00 | [Sam Dienes](https://en.wikipedia.org/wiki/Sam_Dienes) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 1,855 |
-| 2026-09-26 07:23:01 | [Dr. Naeem ul Haq Tariq](https://en.wikipedia.org/wiki/Dr._Naeem_ul_Haq_Tariq) | [Silver959](https://en.wikipedia.org/wiki/User:Silver959) | 3,057 |
-| 2026-09-26 07:24:08 | [Battle of Asophon](https://en.wikipedia.org/wiki/Battle_of_Asophon) | [Blrpp](https://en.wikipedia.org/wiki/User:Blrpp) | 7,501 |
-| 2026-09-26 07:26:21 | [Hermann Ploucquet](https://en.wikipedia.org/wiki/Hermann_Ploucquet) | [Ethmostigmus](https://en.wikipedia.org/wiki/User:Ethmostigmus) | 10,797 |
-| 2026-09-26 07:31:36 | [Ashu Malik (kabaddi)](https://en.wikipedia.org/wiki/Ashu_Malik_%28kabaddi%29) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,267 |
-| 2026-09-26 07:35:55 | [Big Brother Česko & Slovensko](https://en.wikipedia.org/wiki/Big_Brother_%C4%8Cesko_%26_Slovensko) | [A675974811](https://en.wikipedia.org/wiki/User:A675974811) | 2,997 |
-| 2026-09-26 07:37:24 | [Bunobrontops](https://en.wikipedia.org/wiki/Bunobrontops) | [Stromatherium](https://en.wikipedia.org/wiki/User:Stromatherium) | 16,117 |
-| 2026-09-26 07:49:19 | [Mario Malatesta](https://en.wikipedia.org/wiki/Mario_Malatesta) | [Grifomaniacs](https://en.wikipedia.org/wiki/User:Grifomaniacs) | 4,476 |
-| 2026-09-26 07:52:17 | [Composite mat](https://en.wikipedia.org/wiki/Composite_mat) | [Owlmy](https://en.wikipedia.org/wiki/User:Owlmy) | 5,471 |
-| 2026-09-26 07:53:42 | [He Left Nothing for the Swim Back](https://en.wikipedia.org/wiki/He_Left_Nothing_for_the_Swim_Back) | [フランベ](https://en.wikipedia.org/wiki/User:%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99) | 11,569 |
-| 2026-09-26 07:56:23 | [KAYA VC](https://en.wikipedia.org/wiki/KAYA_VC) | [System tinker 90](https://en.wikipedia.org/wiki/User:System_tinker_90) | 8,553 |
-| 2026-09-26 08:02:20 | [Eduard von Goumoëns](https://en.wikipedia.org/wiki/Eduard_von_Goumo%C3%ABns) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,170 |
-| 2026-09-26 08:02:46 | [Pink Church](https://en.wikipedia.org/wiki/Pink_Church) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 115 |
-| 2026-09-26 08:03:15 | [Goumoëns family](https://en.wikipedia.org/wiki/Goumo%C3%ABns_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,824 |
-| 2026-09-26 08:03:22 | [Monotes katangensis](https://en.wikipedia.org/wiki/Monotes_katangensis) | [Tom Radulovich](https://en.wikipedia.org/wiki/User:Tom_Radulovich) | 1,773 |
-| 2026-09-26 08:04:04 | [Marcel Beck](https://en.wikipedia.org/wiki/Marcel_Beck) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,363 |
-| 2026-09-26 08:04:05 | [Mermaid Island](https://en.wikipedia.org/wiki/Mermaid_Island) | [Kart2401real](https://en.wikipedia.org/wiki/User:Kart2401real) | 3,446 |
-| 2026-09-26 08:05:42 | [2005 V8 Supercars Eastern Creek round](https://en.wikipedia.org/wiki/2005_V8_Supercars_Eastern_Creek_round) | [SquirrelIAm](https://en.wikipedia.org/wiki/User:SquirrelIAm) | 24,081 |
-| 2026-09-26 08:06:55 | [2026 Bangkok Floods](https://en.wikipedia.org/wiki/2026_Bangkok_Floods) | [Pataratorn](https://en.wikipedia.org/wiki/User:Pataratorn) | 1,388 |
-| 2026-09-26 08:09:29 | [ETamil](https://en.wikipedia.org/wiki/ETamil) | [Maruff](https://en.wikipedia.org/wiki/User:Maruff) | 32,240 |
+| 2026-09-26 08:24:27 | [Viscosuisse](https://en.wikipedia.org/wiki/Viscosuisse) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,712 |
+| 2026-09-26 08:24:57 | [Carolyn Elizabeth Oldham](https://en.wikipedia.org/wiki/Carolyn_Elizabeth_Oldham) | [DrPlantGenomics](https://en.wikipedia.org/wiki/User:DrPlantGenomics) | 7,024 |
+| 2026-09-26 08:25:33 | [Albert von Morlot](https://en.wikipedia.org/wiki/Albert_von_Morlot) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,482 |
+| 2026-09-26 08:27:18 | [Rahul Sethpal](https://en.wikipedia.org/wiki/Rahul_Sethpal) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,830 |
+| 2026-09-26 08:27:21 | [Second Haqqi al-Azm government](https://en.wikipedia.org/wiki/Second_Haqqi_al-Azm_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,050 |
+| 2026-09-26 08:27:28 | [Gustav von Goumoëns](https://en.wikipedia.org/wiki/Gustav_von_Goumo%C3%ABns) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,988 |
+| 2026-09-26 08:28:35 | [Nicolas Emmanuel Frédéric de Goumoëns](https://en.wikipedia.org/wiki/Nicolas_Emmanuel_Fr%C3%A9d%C3%A9ric_de_Goumo%C3%ABns) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,888 |
+| 2026-09-26 08:31:14 | [Second Taj al-Din al-Hasani government](https://en.wikipedia.org/wiki/Second_Taj_al-Din_al-Hasani_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 5,788 |
+| 2026-09-26 08:34:39 | [St Andrew's of the Glen, Glentunnel](https://en.wikipedia.org/wiki/St_Andrew%27s_of_the_Glen%2C_Glentunnel) | [ChristchurchHistorian](https://en.wikipedia.org/wiki/User:ChristchurchHistorian) | 6,754 |
+| 2026-09-26 08:35:05 | [Kharkiv Museum of Nature](https://en.wikipedia.org/wiki/Kharkiv_Museum_of_Nature) | [Tiutenko](https://en.wikipedia.org/wiki/User:Tiutenko) | 7,662 |
+| 2026-09-26 08:36:28 | [Motor Z50A](https://en.wikipedia.org/wiki/Motor_Z50A) | [Vincent2107](https://en.wikipedia.org/wiki/User:Vincent2107) | 2,942 |
+| 2026-09-26 08:46:39 | [Nicolas Théodore de Goumoëns](https://en.wikipedia.org/wiki/Nicolas_Th%C3%A9odore_de_Goumo%C3%ABns) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,612 |
+| 2026-09-26 08:49:17 | [2026–27 NIFL Championship](https://en.wikipedia.org/wiki/2026%E2%80%9327_NIFL_Championship) | [Gajmar](https://en.wikipedia.org/wiki/User:Gajmar) | 17,303 |
+| 2026-09-26 08:50:29 | [Kurt Wolfgang](https://en.wikipedia.org/wiki/Kurt_Wolfgang) | [Lugalj](https://en.wikipedia.org/wiki/User:Lugalj) | 992 |
+| 2026-09-26 08:51:18 | [Jaideep Dahiya](https://en.wikipedia.org/wiki/Jaideep_Dahiya) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,725 |
+| 2026-09-26 08:56:54 | [Listed buildings in Twin Rivers, East Riding of Yorkshire](https://en.wikipedia.org/wiki/Listed_buildings_in_Twin_Rivers%2C_East_Riding_of_Yorkshire) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 25,052 |
+| 2026-09-26 08:59:14 | [Frederick Prosch](https://en.wikipedia.org/wiki/Frederick_Prosch) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 5,000 |
+| 2026-09-26 09:00:04 | [Priya Devi Elangbam](https://en.wikipedia.org/wiki/Priya_Devi_Elangbam) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 1,423 |
+| 2026-09-26 09:00:33 | [Anna Unger (political scientist)](https://en.wikipedia.org/wiki/Anna_Unger_%28political_scientist%29) | [Kovcszaln6](https://en.wikipedia.org/wiki/User:Kovcszaln6) | 4,342 |
+| 2026-09-26 09:02:39 | [JWA Composite Matting](https://en.wikipedia.org/wiki/JWA_Composite_Matting) | [Owlmy](https://en.wikipedia.org/wiki/User:Owlmy) | 6,439 |
+| 2026-09-26 09:07:18 | [Oscar González Oro](https://en.wikipedia.org/wiki/Oscar_Gonz%C3%A1lez_Oro) | [GreenLipstickLesbian](https://en.wikipedia.org/wiki/User:GreenLipstickLesbian) | 929 |
+| 2026-09-26 09:08:38 | [2026–27 Washington State Cougars men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Washington_State_Cougars_men%27s_basketball_team) | [DMoney1107](https://en.wikipedia.org/wiki/User:DMoney1107) | 20,193 |
+| 2026-09-26 09:13:07 | [Gaurav Khatri (kabaddi)](https://en.wikipedia.org/wiki/Gaurav_Khatri_%28kabaddi%29) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,208 |
