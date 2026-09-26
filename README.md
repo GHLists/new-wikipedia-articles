@@ -13,61 +13,61 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-26 02:18 UTC](data/en/new-articles-2026-09-26T02-18-54Z.csv) | 29 |
-| Japanese | `ja` | [2026-09-26 02:18 UTC](data/ja/new-articles-2026-09-26T02-18-54Z.csv) | 8 |
-| Chinese | `zh` | [2026-09-26 02:18 UTC](data/zh/new-articles-2026-09-26T02-18-54Z.csv) | 8 |
-| French | `fr` | [2026-09-26 02:18 UTC](data/fr/new-articles-2026-09-26T02-18-54Z.csv) | 2 |
+| English | `en` | [2026-09-26 03:19 UTC](data/en/new-articles-2026-09-26T03-19-03Z.csv) | 29 |
+| Japanese | `ja` | [2026-09-26 03:19 UTC](data/ja/new-articles-2026-09-26T03-19-03Z.csv) | 4 |
+| Chinese | `zh` | [2026-09-26 03:19 UTC](data/zh/new-articles-2026-09-26T03-19-03Z.csv) | 4 |
+| French | `fr` | [2026-09-26 03:19 UTC](data/fr/new-articles-2026-09-26T03-19-03Z.csv) | 5 |
 | German | `de` | [2026-09-26 02:18 UTC](data/de/new-articles-2026-09-26T02-18-54Z.csv) | 1 |
-| Russian | `ru` | [2026-09-26 02:18 UTC](data/ru/new-articles-2026-09-26T02-18-54Z.csv) | 3 |
-| Spanish | `es` | [2026-09-26 02:18 UTC](data/es/new-articles-2026-09-26T02-18-54Z.csv) | 4 |
-| Italian | `it` | [2026-09-26 01:19 UTC](data/it/new-articles-2026-09-26T01-19-42Z.csv) | 2 |
-| Portuguese | `pt` | [2026-09-26 02:18 UTC](data/pt/new-articles-2026-09-26T02-18-54Z.csv) | 6 |
-| Polish | `pl` | [2026-09-26 02:18 UTC](data/pl/new-articles-2026-09-26T02-18-54Z.csv) | 4 |
+| Russian | `ru` | [2026-09-26 03:19 UTC](data/ru/new-articles-2026-09-26T03-19-03Z.csv) | 1 |
+| Spanish | `es` | [2026-09-26 03:19 UTC](data/es/new-articles-2026-09-26T03-19-03Z.csv) | 5 |
+| Italian | `it` | [2026-09-26 03:19 UTC](data/it/new-articles-2026-09-26T03-19-03Z.csv) | 2 |
+| Portuguese | `pt` | [2026-09-26 03:19 UTC](data/pt/new-articles-2026-09-26T03-19-03Z.csv) | 3 |
+| Polish | `pl` | [2026-09-26 03:19 UTC](data/pl/new-articles-2026-09-26T03-19-03Z.csv) | 2 |
 | Arabic | `ar` | [2026-09-26 02:18 UTC](data/ar/new-articles-2026-09-26T02-18-54Z.csv) | 3 |
-| Persian | `fa` | [2026-09-26 02:18 UTC](data/fa/new-articles-2026-09-26T02-18-54Z.csv) | 32 |
+| Persian | `fa` | [2026-09-26 03:19 UTC](data/fa/new-articles-2026-09-26T03-19-03Z.csv) | 38 |
 | Turkish | `tr` | [2026-09-26 01:19 UTC](data/tr/new-articles-2026-09-26T01-19-42Z.csv) | 1 |
 | Hebrew | `he` | [2026-09-26 01:19 UTC](data/he/new-articles-2026-09-26T01-19-42Z.csv) | 2 |
 | Swedish | `sv` | [2026-09-26 01:19 UTC](data/sv/new-articles-2026-09-26T01-19-42Z.csv) | 2 |
 | Dutch | `nl` | [2026-09-26 02:18 UTC](data/nl/new-articles-2026-09-26T02-18-54Z.csv) | 1 |
-| Korean | `ko` | [2026-09-26 02:18 UTC](data/ko/new-articles-2026-09-26T02-18-54Z.csv) | 1 |
-| Indonesian | `id` | [2026-09-26 02:18 UTC](data/id/new-articles-2026-09-26T02-18-54Z.csv) | 12 |
-| Ukrainian | `uk` | [2026-09-26 01:19 UTC](data/uk/new-articles-2026-09-26T01-19-42Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-09-26 02:18 UTC](data/vi/new-articles-2026-09-26T02-18-54Z.csv) | 2 |
+| Korean | `ko` | [2026-09-26 03:19 UTC](data/ko/new-articles-2026-09-26T03-19-03Z.csv) | 2 |
+| Indonesian | `id` | [2026-09-26 03:19 UTC](data/id/new-articles-2026-09-26T03-19-03Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-09-26 03:19 UTC](data/uk/new-articles-2026-09-26T03-19-03Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-09-26 03:19 UTC](data/vi/new-articles-2026-09-26T03-19-03Z.csv) | 3 |
 
-## English (en) — 2026-09-26 02:18 UTC
+## English (en) — 2026-09-26 03:19 UTC
 
-New articles created between 2026-09-26 01:19 UTC and 2026-09-26 02:18 UTC.
+New articles created between 2026-09-26 02:18 UTC and 2026-09-26 03:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-26T02-18-54Z.csv)
+[Full CSV](data/en/new-articles-2026-09-26T03-19-03Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-26 01:20:26 | [2026–27 New Hampshire Wildcats women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_New_Hampshire_Wildcats_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 27,104 |
-| 2026-09-26 01:22:08 | [Viscount of Dax](https://en.wikipedia.org/wiki/Viscount_of_Dax) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 3,372 |
-| 2026-09-26 01:23:49 | [Echelon Spires](https://en.wikipedia.org/wiki/Echelon_Spires) | [Johnmand](https://en.wikipedia.org/wiki/User:Johnmand) | 2,199 |
-| 2026-09-26 01:25:23 | [Senator Utley](https://en.wikipedia.org/wiki/Senator_Utley) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 186 |
-| 2026-09-26 01:27:17 | [Fort Munide (Pula)](https://en.wikipedia.org/wiki/Fort_Munide_%28Pula%29) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 1,675 |
-| 2026-09-26 01:31:28 | [Lloyd A. Stone](https://en.wikipedia.org/wiki/Lloyd_A._Stone) | [Matveytabakh](https://en.wikipedia.org/wiki/User:Matveytabakh) | 2,497 |
-| 2026-09-26 01:31:38 | [Harry A. Greaves Jr.](https://en.wikipedia.org/wiki/Harry_A._Greaves_Jr.) | [Ebubedike1](https://en.wikipedia.org/wiki/User:Ebubedike1) | 4,459 |
-| 2026-09-26 01:35:05 | [Benjamin Sangmuah](https://en.wikipedia.org/wiki/Benjamin_Sangmuah) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,210 |
-| 2026-09-26 01:40:01 | [Ombudsman (Indonesia)](https://en.wikipedia.org/wiki/Ombudsman_%28Indonesia%29) | [Liem Kia Tou](https://en.wikipedia.org/wiki/User:Liem_Kia_Tou) | 12,083 |
-| 2026-09-26 01:40:49 | [Chen distribution](https://en.wikipedia.org/wiki/Chen_distribution) | [KallinAZ](https://en.wikipedia.org/wiki/User:KallinAZ) | 7,400 |
-| 2026-09-26 01:45:59 | [James Lowther (Kansas politician)](https://en.wikipedia.org/wiki/James_Lowther_%28Kansas_politician%29) | [Matveytabakh](https://en.wikipedia.org/wiki/User:Matveytabakh) | 2,155 |
-| 2026-09-26 01:50:51 | [Pentastack](https://en.wikipedia.org/wiki/Pentastack) | [NinjaWeeb](https://en.wikipedia.org/wiki/User:NinjaWeeb) | 5,599 |
-| 2026-09-26 01:52:51 | [First Siege of Philadelphia](https://en.wikipedia.org/wiki/First_Siege_of_Philadelphia) | [Neoptolemos7](https://en.wikipedia.org/wiki/User:Neoptolemos7) | 12,683 |
-| 2026-09-26 01:54:46 | [2027, Texas Longhorns baseball team](https://en.wikipedia.org/wiki/2027%2C_Texas_Longhorns_baseball_team) | [Elijah 1022](https://en.wikipedia.org/wiki/User:Elijah_1022) | 19,779 |
-| 2026-09-26 01:55:38 | [26th Mechanized Division](https://en.wikipedia.org/wiki/26th_Mechanized_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 262 |
-| 2026-09-26 01:56:17 | [Athletics at the 2026 Asian Games – Men's javelin throw](https://en.wikipedia.org/wiki/Athletics_at_the_2026_Asian_Games_%E2%80%93_Men%27s_javelin_throw) | [Ramrasilamahto-hi my self Alok](https://en.wikipedia.org/wiki/User:Ramrasilamahto-hi_my_self_Alok) | 34 |
-| 2026-09-26 01:56:53 | [Marie Josephine Calatrava](https://en.wikipedia.org/wiki/Marie_Josephine_Calatrava) | [FiveGeekabytes](https://en.wikipedia.org/wiki/User:FiveGeekabytes) | 4,630 |
-| 2026-09-26 02:01:36 | [Monotes glaber](https://en.wikipedia.org/wiki/Monotes_glaber) | [Tom Radulovich](https://en.wikipedia.org/wiki/User:Tom_Radulovich) | 1,531 |
-| 2026-09-26 02:03:15 | [Projection (architecture)](https://en.wikipedia.org/wiki/Projection_%28architecture%29) | [Викидим](https://en.wikipedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B8%D0%BC) | 7,304 |
-| 2026-09-26 02:04:31 | [Riccarton Three](https://en.wikipedia.org/wiki/Riccarton_Three) | [Waxapple](https://en.wikipedia.org/wiki/User:Waxapple) | 28,852 |
-| 2026-09-26 02:04:48 | [Jeffrey Ziol](https://en.wikipedia.org/wiki/Jeffrey_Ziol) | [Jackalope04](https://en.wikipedia.org/wiki/User:Jackalope04) | 387 |
-| 2026-09-26 02:07:27 | [Guadalupe Taddei](https://en.wikipedia.org/wiki/Guadalupe_Taddei) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 8,490 |
-| 2026-09-26 02:07:28 | [My Kitchen Rules series 16](https://en.wikipedia.org/wiki/My_Kitchen_Rules_series_16) | [Hoppeboy13](https://en.wikipedia.org/wiki/User:Hoppeboy13) | 1,163 |
-| 2026-09-26 02:09:36 | [2026 Porto Open – Men's singles](https://en.wikipedia.org/wiki/2026_Porto_Open_%E2%80%93_Men%27s_singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,685 |
-| 2026-09-26 02:12:00 | [2026 Porto Open – Men's doubles](https://en.wikipedia.org/wiki/2026_Porto_Open_%E2%80%93_Men%27s_doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 3,991 |
-| 2026-09-26 02:13:40 | [2026–27 Dewa United Banten F.C. season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Dewa_United_Banten_F.C._season) | [Wongso salimun](https://en.wikipedia.org/wiki/User:Wongso_salimun) | 14,362 |
-| 2026-09-26 02:15:13 | [Hudson River Driving Park](https://en.wikipedia.org/wiki/Hudson_River_Driving_Park) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 7,249 |
-| 2026-09-26 02:17:57 | [2026 Jingshan Tennis Open – Men's singles](https://en.wikipedia.org/wiki/2026_Jingshan_Tennis_Open_%E2%80%93_Men%27s_singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,802 |
-| 2026-09-26 02:18:09 | [Sarah Fell (producer)](https://en.wikipedia.org/wiki/Sarah_Fell_%28producer%29) | [ChomponU Pongsawet](https://en.wikipedia.org/wiki/User:ChomponU_Pongsawet) | 7,569 |
+| 2026-09-26 02:19:44 | [2026 Jingshan Tennis Open – Men's doubles](https://en.wikipedia.org/wiki/2026_Jingshan_Tennis_Open_%E2%80%93_Men%27s_doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,013 |
+| 2026-09-26 02:20:02 | [M.P.K. Sorrenson](https://en.wikipedia.org/wiki/M.P.K._Sorrenson) | [Schwede66](https://en.wikipedia.org/wiki/User:Schwede66) | 1,475 |
+| 2026-09-26 02:25:11 | [2026 Columbus Challenger](https://en.wikipedia.org/wiki/2026_Columbus_Challenger) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,357 |
+| 2026-09-26 02:26:38 | [Roblox Obby](https://en.wikipedia.org/wiki/Roblox_Obby) | [HorderBlox](https://en.wikipedia.org/wiki/User:HorderBlox) | 484 |
+| 2026-09-26 02:28:53 | [2026 Columbus Challenger – Singles](https://en.wikipedia.org/wiki/2026_Columbus_Challenger_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,844 |
+| 2026-09-26 02:30:29 | [Boretti](https://en.wikipedia.org/wiki/Boretti) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 196 |
+| 2026-09-26 02:30:36 | [2026 Columbus Challenger – Doubles](https://en.wikipedia.org/wiki/2026_Columbus_Challenger_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,113 |
+| 2026-09-26 02:30:52 | [Hylaeus frederici](https://en.wikipedia.org/wiki/Hylaeus_frederici) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,426 |
+| 2026-09-26 02:32:59 | [John Moorhead (disambiguation)](https://en.wikipedia.org/wiki/John_Moorhead_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 248 |
+| 2026-09-26 02:34:44 | [2026 Curitiba Challenger](https://en.wikipedia.org/wiki/2026_Curitiba_Challenger) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,302 |
+| 2026-09-26 02:37:54 | [Adams-Friendship Area School District](https://en.wikipedia.org/wiki/Adams-Friendship_Area_School_District) | [Illumination Global Unlimited](https://en.wikipedia.org/wiki/User:Illumination_Global_Unlimited) | 1,838 |
+| 2026-09-26 02:38:02 | [2026 Curitiba Challenger – Singles](https://en.wikipedia.org/wiki/2026_Curitiba_Challenger_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,877 |
+| 2026-09-26 02:39:48 | [2026 Curitiba Challenger – Doubles](https://en.wikipedia.org/wiki/2026_Curitiba_Challenger_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,125 |
+| 2026-09-26 02:43:28 | [2026 Open de Vendée](https://en.wikipedia.org/wiki/2026_Open_de_Vend%C3%A9e) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,206 |
+| 2026-09-26 02:46:56 | [List of municipal political parties in Canada](https://en.wikipedia.org/wiki/List_of_municipal_political_parties_in_Canada) | [Xvmn110](https://en.wikipedia.org/wiki/User:Xvmn110) | 1,137 |
+| 2026-09-26 02:47:15 | [2026 Open de Vendée – Singles](https://en.wikipedia.org/wiki/2026_Open_de_Vend%C3%A9e_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,826 |
+| 2026-09-26 02:48:01 | [Joan Steinau Lester](https://en.wikipedia.org/wiki/Joan_Steinau_Lester) | [Ellewenn](https://en.wikipedia.org/wiki/User:Ellewenn) | 9,038 |
+| 2026-09-26 02:49:13 | [2026 Open de Vendée – Doubles](https://en.wikipedia.org/wiki/2026_Open_de_Vend%C3%A9e_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,116 |
+| 2026-09-26 02:52:35 | [Levante Open](https://en.wikipedia.org/wiki/Levante_Open) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 1,394 |
+| 2026-09-26 02:56:31 | [2026 Levante Open](https://en.wikipedia.org/wiki/2026_Levante_Open) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 1,903 |
+| 2026-09-26 02:57:42 | [Soft tennis at the 2026 Asian Games – Mixed doubles](https://en.wikipedia.org/wiki/Soft_tennis_at_the_2026_Asian_Games_%E2%80%93_Mixed_doubles) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 25,783 |
+| 2026-09-26 02:59:01 | [2026 Levante Open – Singles](https://en.wikipedia.org/wiki/2026_Levante_Open_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,898 |
+| 2026-09-26 02:59:14 | [Walter Burke (disambiguation)](https://en.wikipedia.org/wiki/Walter_Burke_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 362 |
+| 2026-09-26 02:59:58 | [2026 Levante Open – Doubles](https://en.wikipedia.org/wiki/2026_Levante_Open_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,088 |
+| 2026-09-26 03:06:57 | [FL500](https://en.wikipedia.org/wiki/FL500) | [Mr.choppers](https://en.wikipedia.org/wiki/User:Mr.choppers) | 7,277 |
+| 2026-09-26 03:08:28 | [Catherine Chalier](https://en.wikipedia.org/wiki/Catherine_Chalier) | [Jeffgriffinsignal](https://en.wikipedia.org/wiki/User:Jeffgriffinsignal) | 15,112 |
+| 2026-09-26 03:12:16 | [J.D. Thompson](https://en.wikipedia.org/wiki/J.D._Thompson) | [Malmmf](https://en.wikipedia.org/wiki/User:Malmmf) | 4,269 |
+| 2026-09-26 03:13:41 | [Meiothermus ruber](https://en.wikipedia.org/wiki/Meiothermus_ruber) | [Scourgezoned](https://en.wikipedia.org/wiki/User:Scourgezoned) | 4,091 |
+| 2026-09-26 03:16:16 | [Telemeter (disambiguation)](https://en.wikipedia.org/wiki/Telemeter_%28disambiguation%29) | [Fgnievinski](https://en.wikipedia.org/wiki/User:Fgnievinski) | 254 |
