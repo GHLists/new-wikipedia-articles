@@ -13,63 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-26 22:19 UTC](data/en/new-articles-2026-09-26T22-19-12Z.csv) | 31 |
-| Japanese | `ja` | [2026-09-26 22:19 UTC](data/ja/new-articles-2026-09-26T22-19-12Z.csv) | 6 |
+| English | `en` | [2026-09-26 23:19 UTC](data/en/new-articles-2026-09-26T23-19-04Z.csv) | 27 |
+| Japanese | `ja` | [2026-09-26 23:19 UTC](data/ja/new-articles-2026-09-26T23-19-04Z.csv) | 4 |
 | Chinese | `zh` | [2026-09-26 22:19 UTC](data/zh/new-articles-2026-09-26T22-19-12Z.csv) | 1 |
-| French | `fr` | [2026-09-26 22:19 UTC](data/fr/new-articles-2026-09-26T22-19-12Z.csv) | 14 |
-| German | `de` | [2026-09-26 22:19 UTC](data/de/new-articles-2026-09-26T22-19-12Z.csv) | 9 |
-| Russian | `ru` | [2026-09-26 22:19 UTC](data/ru/new-articles-2026-09-26T22-19-12Z.csv) | 4 |
-| Spanish | `es` | [2026-09-26 22:19 UTC](data/es/new-articles-2026-09-26T22-19-12Z.csv) | 9 |
-| Italian | `it` | [2026-09-26 22:19 UTC](data/it/new-articles-2026-09-26T22-19-12Z.csv) | 6 |
-| Portuguese | `pt` | [2026-09-26 22:19 UTC](data/pt/new-articles-2026-09-26T22-19-12Z.csv) | 7 |
-| Polish | `pl` | [2026-09-26 22:19 UTC](data/pl/new-articles-2026-09-26T22-19-12Z.csv) | 5 |
-| Arabic | `ar` | [2026-09-26 22:19 UTC](data/ar/new-articles-2026-09-26T22-19-12Z.csv) | 10 |
-| Persian | `fa` | [2026-09-26 22:19 UTC](data/fa/new-articles-2026-09-26T22-19-12Z.csv) | 12 |
-| Turkish | `tr` | [2026-09-26 22:19 UTC](data/tr/new-articles-2026-09-26T22-19-12Z.csv) | 3 |
-| Hebrew | `he` | [2026-09-26 22:19 UTC](data/he/new-articles-2026-09-26T22-19-12Z.csv) | 5 |
+| French | `fr` | [2026-09-26 23:19 UTC](data/fr/new-articles-2026-09-26T23-19-04Z.csv) | 12 |
+| German | `de` | [2026-09-26 23:19 UTC](data/de/new-articles-2026-09-26T23-19-04Z.csv) | 1 |
+| Russian | `ru` | [2026-09-26 23:19 UTC](data/ru/new-articles-2026-09-26T23-19-04Z.csv) | 6 |
+| Spanish | `es` | [2026-09-26 23:19 UTC](data/es/new-articles-2026-09-26T23-19-04Z.csv) | 8 |
+| Italian | `it` | [2026-09-26 23:19 UTC](data/it/new-articles-2026-09-26T23-19-04Z.csv) | 7 |
+| Portuguese | `pt` | [2026-09-26 23:19 UTC](data/pt/new-articles-2026-09-26T23-19-04Z.csv) | 5 |
+| Polish | `pl` | [2026-09-26 23:19 UTC](data/pl/new-articles-2026-09-26T23-19-04Z.csv) | 3 |
+| Arabic | `ar` | [2026-09-26 23:19 UTC](data/ar/new-articles-2026-09-26T23-19-04Z.csv) | 17 |
+| Persian | `fa` | [2026-09-26 23:19 UTC](data/fa/new-articles-2026-09-26T23-19-04Z.csv) | 9 |
+| Turkish | `tr` | [2026-09-26 23:19 UTC](data/tr/new-articles-2026-09-26T23-19-04Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-26 23:19 UTC](data/he/new-articles-2026-09-26T23-19-04Z.csv) | 4 |
 | Swedish | `sv` | [2026-09-26 21:18 UTC](data/sv/new-articles-2026-09-26T21-18-56Z.csv) | 2 |
-| Dutch | `nl` | [2026-09-26 22:19 UTC](data/nl/new-articles-2026-09-26T22-19-12Z.csv) | 1 |
-| Korean | `ko` | [2026-09-26 22:19 UTC](data/ko/new-articles-2026-09-26T22-19-12Z.csv) | 2 |
-| Indonesian | `id` | [2026-09-26 22:19 UTC](data/id/new-articles-2026-09-26T22-19-12Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-09-26 22:19 UTC](data/uk/new-articles-2026-09-26T22-19-12Z.csv) | 4 |
+| Dutch | `nl` | [2026-09-26 23:19 UTC](data/nl/new-articles-2026-09-26T23-19-04Z.csv) | 3 |
+| Korean | `ko` | [2026-09-26 23:19 UTC](data/ko/new-articles-2026-09-26T23-19-04Z.csv) | 3 |
+| Indonesian | `id` | [2026-09-26 23:19 UTC](data/id/new-articles-2026-09-26T23-19-04Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-09-26 23:19 UTC](data/uk/new-articles-2026-09-26T23-19-04Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-09-26 19:19 UTC](data/vi/new-articles-2026-09-26T19-19-38Z.csv) | 2 |
 
-## English (en) — 2026-09-26 22:19 UTC
+## English (en) — 2026-09-26 23:19 UTC
 
-New articles created between 2026-09-26 21:18 UTC and 2026-09-26 22:19 UTC.
+New articles created between 2026-09-26 22:19 UTC and 2026-09-26 23:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-26T22-19-12Z.csv)
+[Full CSV](data/en/new-articles-2026-09-26T23-19-04Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-26 21:22:02 | [Raffaella Bruzzi](https://en.wikipedia.org/wiki/Raffaella_Bruzzi) | [Armineaghayan](https://en.wikipedia.org/wiki/User:Armineaghayan) | 6,190 |
-| 2026-09-26 21:24:40 | [E&J (album)](https://en.wikipedia.org/wiki/E%26J_%28album%29) | [Splashmoney15](https://en.wikipedia.org/wiki/User:Splashmoney15) | 4,558 |
-| 2026-09-26 21:26:18 | [First Ata Bey al-Ayyubi government](https://en.wikipedia.org/wiki/First_Ata_Bey_al-Ayyubi_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 5,430 |
-| 2026-09-26 21:28:04 | [First Jamil Mardam Bey government](https://en.wikipedia.org/wiki/First_Jamil_Mardam_Bey_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 6,829 |
-| 2026-09-26 21:30:14 | [Stella Parton (album)](https://en.wikipedia.org/wiki/Stella_Parton_%28album%29) | [ChrisTofu11961](https://en.wikipedia.org/wiki/User:ChrisTofu11961) | 9,426 |
-| 2026-09-26 21:30:18 | [Lutfi al-Haffar government](https://en.wikipedia.org/wiki/Lutfi_al-Haffar_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 5,875 |
-| 2026-09-26 21:31:46 | [Toothing stones](https://en.wikipedia.org/wiki/Toothing_stones) | [Викидим](https://en.wikipedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B8%D0%BC) | 5,066 |
-| 2026-09-26 21:34:33 | [Kenjji](https://en.wikipedia.org/wiki/Kenjji) | [Lugalj](https://en.wikipedia.org/wiki/User:Lugalj) | 1,260 |
-| 2026-09-26 21:39:02 | [HD 171034](https://en.wikipedia.org/wiki/HD_171034) | [SevenSpheres](https://en.wikipedia.org/wiki/User:SevenSpheres) | 4,958 |
-| 2026-09-26 21:41:08 | [British Rhythmic Gymnastics Championships](https://en.wikipedia.org/wiki/British_Rhythmic_Gymnastics_Championships) | [Maniakilljoy97](https://en.wikipedia.org/wiki/User:Maniakilljoy97) | 1,652 |
-| 2026-09-26 21:42:20 | [Let's Go! Onmyōji](https://en.wikipedia.org/wiki/Let%27s_Go%21_Onmy%C5%8Dji) | [Saimmx](https://en.wikipedia.org/wiki/User:Saimmx) | 16,935 |
-| 2026-09-26 21:43:47 | [Fort Punta Christo](https://en.wikipedia.org/wiki/Fort_Punta_Christo) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 2,542 |
-| 2026-09-26 21:43:47 | [Sérgio Fonseca](https://en.wikipedia.org/wiki/S%C3%A9rgio_Fonseca) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,718 |
-| 2026-09-26 21:44:44 | [Ministry of Finance Annual Excellence Award](https://en.wikipedia.org/wiki/Ministry_of_Finance_Annual_Excellence_Award) | [ايبرو](https://en.wikipedia.org/wiki/User:%D8%A7%D9%8A%D8%A8%D8%B1%D9%88) | 6,027 |
-| 2026-09-26 21:50:27 | [Caag Xoog](https://en.wikipedia.org/wiki/Caag_Xoog) | [Turwaq](https://en.wikipedia.org/wiki/User:Turwaq) | 761 |
-| 2026-09-26 21:51:44 | [Carlina hispanica](https://en.wikipedia.org/wiki/Carlina_hispanica) | [Andrawaag](https://en.wikipedia.org/wiki/User:Andrawaag) | 520 |
-| 2026-09-26 21:59:09 | [הקיבוץ](https://en.wikipedia.org/wiki/%D7%94%D7%A7%D7%99%D7%91%D7%95%D7%A5) | [ווסטוק](https://en.wikipedia.org/wiki/User:%D7%95%D7%95%D7%A1%D7%98%D7%95%D7%A7) | 33 |
-| 2026-09-26 22:00:17 | [Trevor Stuurman](https://en.wikipedia.org/wiki/Trevor_Stuurman) | [Rosy cleopatra](https://en.wikipedia.org/wiki/User:Rosy_cleopatra) | 416 |
-| 2026-09-26 22:00:19 | [Fengxiwenhuagongyuan station](https://en.wikipedia.org/wiki/Fengxiwenhuagongyuan_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 2,247 |
-| 2026-09-26 22:00:31 | [Johan Casper Printz](https://en.wikipedia.org/wiki/Johan_Casper_Printz) | [Imonoz](https://en.wikipedia.org/wiki/User:Imonoz) | 41,487 |
-| 2026-09-26 22:01:08 | [Poland at the 2028 Summer Olympics](https://en.wikipedia.org/wiki/Poland_at_the_2028_Summer_Olympics) | [SandoLorris](https://en.wikipedia.org/wiki/User:SandoLorris) | 1,858 |
-| 2026-09-26 22:01:17 | [Flank Battery Zoncia](https://en.wikipedia.org/wiki/Flank_Battery_Zoncia) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 1,109 |
-| 2026-09-26 22:03:38 | [Forte Cima Lan](https://en.wikipedia.org/wiki/Forte_Cima_Lan) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 1,554 |
-| 2026-09-26 22:03:39 | [Gordon Schaffer](https://en.wikipedia.org/wiki/Gordon_Schaffer) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 2,306 |
-| 2026-09-26 22:06:37 | [2026–27 Big West Conference men's basketball season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Big_West_Conference_men%27s_basketball_season) | [Jeppsna](https://en.wikipedia.org/wiki/User:Jeppsna) | 17,452 |
-| 2026-09-26 22:08:52 | [Joe Harkness](https://en.wikipedia.org/wiki/Joe_Harkness) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,806 |
-| 2026-09-26 22:14:07 | [Jakob Zimmer](https://en.wikipedia.org/wiki/Jakob_Zimmer) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,839 |
-| 2026-09-26 22:14:38 | [Change: Eight Lectures on the 'I Ching'](https://en.wikipedia.org/wiki/Change%3A_Eight_Lectures_on_the_%27I_Ching%27) | [Leutha](https://en.wikipedia.org/wiki/User:Leutha) | 1,431 |
-| 2026-09-26 22:14:44 | [BreakTudo Awards 2026](https://en.wikipedia.org/wiki/BreakTudo_Awards_2026) | [Curiosidadetp1](https://en.wikipedia.org/wiki/User:Curiosidadetp1) | 21,568 |
-| 2026-09-26 22:15:27 | [Ypu Factory](https://en.wikipedia.org/wiki/Ypu_Factory) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 6,517 |
-| 2026-09-26 22:16:42 | [Surrogacy strike](https://en.wikipedia.org/wiki/Surrogacy_strike) | [Zvavybir](https://en.wikipedia.org/wiki/User:Zvavybir) | 4,451 |
+| 2026-09-26 22:19:53 | [Mariano Sánchez Fontecilla](https://en.wikipedia.org/wiki/Mariano_S%C3%A1nchez_Fontecilla) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 8,189 |
+| 2026-09-26 22:21:16 | [Enrique de Putron](https://en.wikipedia.org/wiki/Enrique_de_Putron) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,656 |
+| 2026-09-26 22:23:17 | [Ventura Blanco Viel](https://en.wikipedia.org/wiki/Ventura_Blanco_Viel) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 8,153 |
+| 2026-09-26 22:26:32 | [Francisco Herboso](https://en.wikipedia.org/wiki/Francisco_Herboso) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 6,225 |
+| 2026-09-26 22:27:37 | [Christopher Rowland Payne](https://en.wikipedia.org/wiki/Christopher_Rowland_Payne) | [Pineappledoctor](https://en.wikipedia.org/wiki/User:Pineappledoctor) | 6,255 |
+| 2026-09-26 22:28:17 | [Trevor Stuurman](https://en.wikipedia.org/wiki/Trevor_Stuurman) | [Rosy cleopatra](https://en.wikipedia.org/wiki/User:Rosy_cleopatra) | 597 |
+| 2026-09-26 22:28:53 | [Carlos Palacios Zapata](https://en.wikipedia.org/wiki/Carlos_Palacios_Zapata) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,816 |
+| 2026-09-26 22:31:18 | [Joes Oosterlinck](https://en.wikipedia.org/wiki/Joes_Oosterlinck) | [Peoya](https://en.wikipedia.org/wiki/User:Peoya) | 2,990 |
+| 2026-09-26 22:31:31 | [Ramón Vergara Donoso](https://en.wikipedia.org/wiki/Ram%C3%B3n_Vergara_Donoso) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,707 |
+| 2026-09-26 22:32:54 | [Ventura Carvallo](https://en.wikipedia.org/wiki/Ventura_Carvallo) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,699 |
+| 2026-09-26 22:34:04 | [Joseph Williams (American football)](https://en.wikipedia.org/wiki/Joseph_Williams_%28American_football%29) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 80 |
+| 2026-09-26 22:47:13 | [King Lear Weeping over the Dead Body of Cordelia](https://en.wikipedia.org/wiki/King_Lear_Weeping_over_the_Dead_Body_of_Cordelia) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,282 |
+| 2026-09-26 22:48:34 | [Gary Daniels (disambiguation)](https://en.wikipedia.org/wiki/Gary_Daniels_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 245 |
+| 2026-09-26 22:48:35 | [Brunswick Downs](https://en.wikipedia.org/wiki/Brunswick_Downs) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 14,865 |
+| 2026-09-26 22:49:00 | [Senator Swann](https://en.wikipedia.org/wiki/Senator_Swann) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 262 |
+| 2026-09-26 22:56:59 | [Fool In Love (Thai TV series)](https://en.wikipedia.org/wiki/Fool_In_Love_%28Thai_TV_series%29) | [Curiosidadetp1](https://en.wikipedia.org/wiki/User:Curiosidadetp1) | 5,635 |
+| 2026-09-26 23:03:44 | [2026–27 Amarante F.C. season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Amarante_F.C._season) | [SOAD KoRn](https://en.wikipedia.org/wiki/User:SOAD_KoRn) | 49,384 |
+| 2026-09-26 23:05:33 | [Gómez de Albelda](https://en.wikipedia.org/wiki/G%C3%B3mez_de_Albelda) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 5,243 |
+| 2026-09-26 23:07:33 | [Senator Stutzman](https://en.wikipedia.org/wiki/Senator_Stutzman) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 186 |
+| 2026-09-26 23:08:17 | [Radio Romance (Canyon album)](https://en.wikipedia.org/wiki/Radio_Romance_%28Canyon_album%29) | [SwingingDoor76](https://en.wikipedia.org/wiki/User:SwingingDoor76) | 4,861 |
+| 2026-09-26 23:12:30 | [Senator Sturgeon (disambiguation)](https://en.wikipedia.org/wiki/Senator_Sturgeon_%28disambiguation%29) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 388 |
+| 2026-09-26 23:12:54 | [XXXIV Corps](https://en.wikipedia.org/wiki/XXXIV_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 657 |
+| 2026-09-26 23:14:48 | [Senator Stumpf](https://en.wikipedia.org/wiki/Senator_Stumpf) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 251 |
+| 2026-09-26 23:15:10 | [G. Sreekanth](https://en.wikipedia.org/wiki/G._Sreekanth) | [Hha66627](https://en.wikipedia.org/wiki/User:Hha66627) | 7,414 |
+| 2026-09-26 23:16:03 | [FAA N-Number](https://en.wikipedia.org/wiki/FAA_N-Number) | [Luis John Soria](https://en.wikipedia.org/wiki/User:Luis_John_Soria) | 2,144 |
+| 2026-09-26 23:17:56 | [Senator Stubbs](https://en.wikipedia.org/wiki/Senator_Stubbs) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 238 |
+| 2026-09-26 23:18:06 | [Senator Stubblefield](https://en.wikipedia.org/wiki/Senator_Stubblefield) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 246 |
