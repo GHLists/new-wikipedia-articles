@@ -13,65 +13,64 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-27 13:19 UTC](data/en/new-articles-2026-09-27T13-19-20Z.csv) | 33 |
-| Japanese | `ja` | [2026-09-27 13:19 UTC](data/ja/new-articles-2026-09-27T13-19-20Z.csv) | 23 |
-| Chinese | `zh` | [2026-09-27 13:19 UTC](data/zh/new-articles-2026-09-27T13-19-20Z.csv) | 6 |
-| French | `fr` | [2026-09-27 13:19 UTC](data/fr/new-articles-2026-09-27T13-19-20Z.csv) | 9 |
-| German | `de` | [2026-09-27 13:19 UTC](data/de/new-articles-2026-09-27T13-19-20Z.csv) | 8 |
-| Russian | `ru` | [2026-09-27 13:19 UTC](data/ru/new-articles-2026-09-27T13-19-20Z.csv) | 12 |
-| Spanish | `es` | [2026-09-27 13:19 UTC](data/es/new-articles-2026-09-27T13-19-20Z.csv) | 5 |
-| Italian | `it` | [2026-09-27 13:19 UTC](data/it/new-articles-2026-09-27T13-19-20Z.csv) | 7 |
-| Portuguese | `pt` | [2026-09-27 13:19 UTC](data/pt/new-articles-2026-09-27T13-19-20Z.csv) | 4 |
-| Polish | `pl` | [2026-09-27 13:19 UTC](data/pl/new-articles-2026-09-27T13-19-20Z.csv) | 7 |
-| Arabic | `ar` | [2026-09-27 13:19 UTC](data/ar/new-articles-2026-09-27T13-19-20Z.csv) | 24 |
-| Persian | `fa` | [2026-09-27 13:19 UTC](data/fa/new-articles-2026-09-27T13-19-20Z.csv) | 11 |
-| Turkish | `tr` | [2026-09-27 13:19 UTC](data/tr/new-articles-2026-09-27T13-19-20Z.csv) | 11 |
-| Hebrew | `he` | [2026-09-27 13:19 UTC](data/he/new-articles-2026-09-27T13-19-20Z.csv) | 5 |
-| Swedish | `sv` | [2026-09-27 13:19 UTC](data/sv/new-articles-2026-09-27T13-19-20Z.csv) | 1 |
-| Dutch | `nl` | [2026-09-27 13:19 UTC](data/nl/new-articles-2026-09-27T13-19-20Z.csv) | 7 |
-| Korean | `ko` | [2026-09-27 13:19 UTC](data/ko/new-articles-2026-09-27T13-19-20Z.csv) | 6 |
-| Indonesian | `id` | [2026-09-27 13:19 UTC](data/id/new-articles-2026-09-27T13-19-20Z.csv) | 14 |
-| Ukrainian | `uk` | [2026-09-27 13:19 UTC](data/uk/new-articles-2026-09-27T13-19-20Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-09-27 11:20 UTC](data/vi/new-articles-2026-09-27T11-20-18Z.csv) | 1 |
+| English | `en` | [2026-09-27 14:19 UTC](data/en/new-articles-2026-09-27T14-19-00Z.csv) | 32 |
+| Japanese | `ja` | [2026-09-27 14:19 UTC](data/ja/new-articles-2026-09-27T14-19-00Z.csv) | 11 |
+| Chinese | `zh` | [2026-09-27 14:19 UTC](data/zh/new-articles-2026-09-27T14-19-00Z.csv) | 5 |
+| French | `fr` | [2026-09-27 14:19 UTC](data/fr/new-articles-2026-09-27T14-19-00Z.csv) | 14 |
+| German | `de` | [2026-09-27 14:19 UTC](data/de/new-articles-2026-09-27T14-19-00Z.csv) | 9 |
+| Russian | `ru` | [2026-09-27 14:19 UTC](data/ru/new-articles-2026-09-27T14-19-00Z.csv) | 8 |
+| Spanish | `es` | [2026-09-27 14:19 UTC](data/es/new-articles-2026-09-27T14-19-00Z.csv) | 32 |
+| Italian | `it` | [2026-09-27 14:19 UTC](data/it/new-articles-2026-09-27T14-19-00Z.csv) | 6 |
+| Portuguese | `pt` | [2026-09-27 14:19 UTC](data/pt/new-articles-2026-09-27T14-19-00Z.csv) | 3 |
+| Polish | `pl` | [2026-09-27 14:19 UTC](data/pl/new-articles-2026-09-27T14-19-00Z.csv) | 15 |
+| Arabic | `ar` | [2026-09-27 14:19 UTC](data/ar/new-articles-2026-09-27T14-19-00Z.csv) | 17 |
+| Persian | `fa` | [2026-09-27 14:19 UTC](data/fa/new-articles-2026-09-27T14-19-00Z.csv) | 6 |
+| Turkish | `tr` | [2026-09-27 14:19 UTC](data/tr/new-articles-2026-09-27T14-19-00Z.csv) | 13 |
+| Hebrew | `he` | [2026-09-27 14:19 UTC](data/he/new-articles-2026-09-27T14-19-00Z.csv) | 4 |
+| Swedish | `sv` | [2026-09-27 14:19 UTC](data/sv/new-articles-2026-09-27T14-19-00Z.csv) | 6 |
+| Dutch | `nl` | [2026-09-27 14:19 UTC](data/nl/new-articles-2026-09-27T14-19-00Z.csv) | 10 |
+| Korean | `ko` | [2026-09-27 14:19 UTC](data/ko/new-articles-2026-09-27T14-19-00Z.csv) | 4 |
+| Indonesian | `id` | [2026-09-27 14:19 UTC](data/id/new-articles-2026-09-27T14-19-00Z.csv) | 12 |
+| Ukrainian | `uk` | [2026-09-27 14:19 UTC](data/uk/new-articles-2026-09-27T14-19-00Z.csv) | 13 |
+| Vietnamese | `vi` | [2026-09-27 14:19 UTC](data/vi/new-articles-2026-09-27T14-19-00Z.csv) | 1 |
 
-## English (en) — 2026-09-27 13:19 UTC
+## English (en) — 2026-09-27 14:19 UTC
 
-New articles created between 2026-09-27 12:19 UTC and 2026-09-27 13:19 UTC.
+New articles created between 2026-09-27 13:19 UTC and 2026-09-27 14:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-27T13-19-20Z.csv)
+[Full CSV](data/en/new-articles-2026-09-27T14-19-00Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-27 12:19:46 | [Louise M. Kpoto](https://en.wikipedia.org/wiki/Louise_M._Kpoto) | [Ebubedike1](https://en.wikipedia.org/wiki/User:Ebubedike1) | 4,841 |
-| 2026-09-27 12:23:52 | [Aksho](https://en.wikipedia.org/wiki/Aksho) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,477 |
-| 2026-09-27 12:24:53 | [Chavakali High School](https://en.wikipedia.org/wiki/Chavakali_High_School) | [Akili88](https://en.wikipedia.org/wiki/User:Akili88) | 5,571 |
-| 2026-09-27 12:25:01 | [2027 Luton Borough Council election](https://en.wikipedia.org/wiki/2027_Luton_Borough_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 5,889 |
-| 2026-09-27 12:27:50 | [2026 Japan Open Tennis Championships – Singles](https://en.wikipedia.org/wiki/2026_Japan_Open_Tennis_Championships_%E2%80%93_Singles) | [Miijumaaru](https://en.wikipedia.org/wiki/User:Miijumaaru) | 10,941 |
-| 2026-09-27 12:27:53 | [Yung Milla](https://en.wikipedia.org/wiki/Yung_Milla) | [Wikisteveb4](https://en.wikipedia.org/wiki/User:Wikisteveb4) | 1,435 |
-| 2026-09-27 12:28:09 | [1962 London local elections](https://en.wikipedia.org/wiki/1962_London_local_elections) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 7,639 |
-| 2026-09-27 12:28:13 | [Chhatrapati Sambhajinagar Metro](https://en.wikipedia.org/wiki/Chhatrapati_Sambhajinagar_Metro) | [Hha66627](https://en.wikipedia.org/wiki/User:Hha66627) | 14,153 |
-| 2026-09-27 12:30:54 | [Ating](https://en.wikipedia.org/wiki/Ating) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,477 |
-| 2026-09-27 12:33:55 | [Phay, Ladakh](https://en.wikipedia.org/wiki/Phay%2C_Ladakh) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,480 |
-| 2026-09-27 12:37:37 | [Winning for Women](https://en.wikipedia.org/wiki/Winning_for_Women) | [Beansforsnack](https://en.wikipedia.org/wiki/User:Beansforsnack) | 5,780 |
-| 2026-09-27 12:39:57 | [Pandrass](https://en.wikipedia.org/wiki/Pandrass) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,626 |
-| 2026-09-27 12:40:34 | [Ataenius impiger](https://en.wikipedia.org/wiki/Ataenius_impiger) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,210 |
-| 2026-09-27 12:44:14 | [Ataenius apicalis](https://en.wikipedia.org/wiki/Ataenius_apicalis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,137 |
-| 2026-09-27 12:44:21 | [Trongion](https://en.wikipedia.org/wiki/Trongion) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,136 |
-| 2026-09-27 12:46:21 | [Ataenius glabriventris](https://en.wikipedia.org/wiki/Ataenius_glabriventris) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,947 |
-| 2026-09-27 12:47:22 | [Slevomat](https://en.wikipedia.org/wiki/Slevomat) | [System tinker 90](https://en.wikipedia.org/wiki/User:System_tinker_90) | 11,010 |
-| 2026-09-27 12:47:25 | [Youlboo](https://en.wikipedia.org/wiki/Youlboo) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 2,470 |
-| 2026-09-27 12:51:10 | [Batokol](https://en.wikipedia.org/wiki/Batokol) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 2,140 |
-| 2026-09-27 12:54:16 | [2026 China Open – Men's singles](https://en.wikipedia.org/wiki/2026_China_Open_%E2%80%93_Men%27s_singles) | [PurpleCoffinMan](https://en.wikipedia.org/wiki/User:PurpleCoffinMan) | 11,484 |
-| 2026-09-27 12:55:08 | [Mushkoo](https://en.wikipedia.org/wiki/Mushkoo) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 2,140 |
-| 2026-09-27 12:58:48 | [Facundo Cardozo (rugby union)](https://en.wikipedia.org/wiki/Facundo_Cardozo_%28rugby_union%29) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 5,530 |
-| 2026-09-27 12:59:25 | [Mang & Daou](https://en.wikipedia.org/wiki/Mang_%26_Daou) | [BurningBlaze05](https://en.wikipedia.org/wiki/User:BurningBlaze05) | 182 |
-| 2026-09-27 12:59:25 | [Hylaeus cyaneomicans](https://en.wikipedia.org/wiki/Hylaeus_cyaneomicans) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,365 |
-| 2026-09-27 13:04:49 | [Holiyal](https://en.wikipedia.org/wiki/Holiyal) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 4,062 |
-| 2026-09-27 13:04:56 | [Shaurya Pratap Singh](https://en.wikipedia.org/wiki/Shaurya_Pratap_Singh) | [Shiva4323](https://en.wikipedia.org/wiki/User:Shiva4323) | 1,529 |
-| 2026-09-27 13:05:04 | [2026–27 Newcastle United W.F.C. season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Newcastle_United_W.F.C._season) | [Louelle.ivy](https://en.wikipedia.org/wiki/User:Louelle.ivy) | 42,077 |
-| 2026-09-27 13:05:12 | [1940–41 Aston Villa F.C. season](https://en.wikipedia.org/wiki/1940%E2%80%9341_Aston_Villa_F.C._season) | [Tiny Particle](https://en.wikipedia.org/wiki/User:Tiny_Particle) | 4,601 |
-| 2026-09-27 13:08:46 | [Historic counties institute](https://en.wikipedia.org/wiki/Historic_counties_institute) | [24may1819](https://en.wikipedia.org/wiki/User:24may1819) | 18,747 |
-| 2026-09-27 13:11:39 | [Ross & Macbeth](https://en.wikipedia.org/wiki/Ross_%26_Macbeth) | [Waxapple](https://en.wikipedia.org/wiki/User:Waxapple) | 6,614 |
-| 2026-09-27 13:12:40 | [Muradbagh](https://en.wikipedia.org/wiki/Muradbagh) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 4,023 |
-| 2026-09-27 13:14:39 | [Inverness Creative Academy](https://en.wikipedia.org/wiki/Inverness_Creative_Academy) | [Waxapple](https://en.wikipedia.org/wiki/User:Waxapple) | 14,938 |
-| 2026-09-27 13:18:47 | [Mateo Soler](https://en.wikipedia.org/wiki/Mateo_Soler) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 5,763 |
+| 2026-09-27 13:20:03 | [Shimsha, Drass](https://en.wikipedia.org/wiki/Shimsha%2C_Drass) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,942 |
+| 2026-09-27 13:23:26 | [Gindiyal](https://en.wikipedia.org/wiki/Gindiyal) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 4,001 |
+| 2026-09-27 13:24:45 | [Provincial road N62 (Netherlands)](https://en.wikipedia.org/wiki/Provincial_road_N62_%28Netherlands%29) | [Tristan Surtel](https://en.wikipedia.org/wiki/User:Tristan_Surtel) | 4,506 |
+| 2026-09-27 13:26:31 | [Throungos](https://en.wikipedia.org/wiki/Throungos) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,581 |
+| 2026-09-27 13:27:45 | [Roland Lafayette Giddings](https://en.wikipedia.org/wiki/Roland_Lafayette_Giddings) | [Ebubedike1](https://en.wikipedia.org/wiki/User:Ebubedike1) | 8,199 |
+| 2026-09-27 13:29:52 | [Jessica Khoury](https://en.wikipedia.org/wiki/Jessica_Khoury) | [Oski](https://en.wikipedia.org/wiki/User:Oski) | 2,387 |
+| 2026-09-27 13:31:02 | [Hey-Hey Fever](https://en.wikipedia.org/wiki/Hey-Hey_Fever) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 3,564 |
+| 2026-09-27 13:31:05 | [Celia line](https://en.wikipedia.org/wiki/Celia_line) | [Nasnl](https://en.wikipedia.org/wiki/User:Nasnl) | 6,496 |
+| 2026-09-27 13:31:22 | [Chowkiyal](https://en.wikipedia.org/wiki/Chowkiyal) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,560 |
+| 2026-09-27 13:31:30 | [Čanak, Croatia](https://en.wikipedia.org/wiki/%C4%8Canak%2C_Croatia) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 2,407 |
+| 2026-09-27 13:33:12 | [Celia Line](https://en.wikipedia.org/wiki/Celia_Line) | [Nasnl](https://en.wikipedia.org/wiki/User:Nasnl) | 6,496 |
+| 2026-09-27 13:35:56 | [Bhimbat](https://en.wikipedia.org/wiki/Bhimbat) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 3,344 |
+| 2026-09-27 13:36:58 | [Senate district 78 – Zlín](https://en.wikipedia.org/wiki/Senate_district_78_%E2%80%93_Zl%C3%ADn) | [Kroulacek](https://en.wikipedia.org/wiki/User:Kroulacek) | 12,743 |
+| 2026-09-27 13:37:21 | [2026 Fiji Senior League](https://en.wikipedia.org/wiki/2026_Fiji_Senior_League) | [SandroChess](https://en.wikipedia.org/wiki/User:SandroChess) | 5,125 |
+| 2026-09-27 13:40:16 | [Visakhapatnam Zilla Praja Parishad](https://en.wikipedia.org/wiki/Visakhapatnam_Zilla_Praja_Parishad) | [Sandeep kumar 83](https://en.wikipedia.org/wiki/User:Sandeep_kumar_83) | 112,650 |
+| 2026-09-27 13:42:04 | [Listed buildings in Warter](https://en.wikipedia.org/wiki/Listed_buildings_in_Warter) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 9,647 |
+| 2026-09-27 13:42:20 | [Guntur Zilla Praja Parishad](https://en.wikipedia.org/wiki/Guntur_Zilla_Praja_Parishad) | [Sandeep kumar 83](https://en.wikipedia.org/wiki/User:Sandeep_kumar_83) | 112,650 |
+| 2026-09-27 13:42:24 | [Inverness Common Good Fund](https://en.wikipedia.org/wiki/Inverness_Common_Good_Fund) | [Waxapple](https://en.wikipedia.org/wiki/User:Waxapple) | 10,821 |
+| 2026-09-27 13:42:25 | [Prakasam Zilla Praja Parishad](https://en.wikipedia.org/wiki/Prakasam_Zilla_Praja_Parishad) | [Sandeep kumar 83](https://en.wikipedia.org/wiki/User:Sandeep_kumar_83) | 112,650 |
+| 2026-09-27 13:43:12 | [Inverness Fringe Festival](https://en.wikipedia.org/wiki/Inverness_Fringe_Festival) | [Waxapple](https://en.wikipedia.org/wiki/User:Waxapple) | 4,755 |
+| 2026-09-27 13:44:02 | [2007–08 Ethiopian Premier League](https://en.wikipedia.org/wiki/2007%E2%80%9308_Ethiopian_Premier_League) | [Firaol Fikru Gobosho Borona](https://en.wikipedia.org/wiki/User:Firaol_Fikru_Gobosho_Borona) | 1,097 |
+| 2026-09-27 13:49:03 | [MAYA Lifestyle Shopping Center](https://en.wikipedia.org/wiki/MAYA_Lifestyle_Shopping_Center) | [ManoiCMU](https://en.wikipedia.org/wiki/User:ManoiCMU) | 3,888 |
+| 2026-09-27 13:52:29 | [Diving at the 2026 Asian Games – Men's synchronized 10 metre platform](https://en.wikipedia.org/wiki/Diving_at_the_2026_Asian_Games_%E2%80%93_Men%27s_synchronized_10_metre_platform) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 3,349 |
+| 2026-09-27 13:54:18 | [International Friendship Bell](https://en.wikipedia.org/wiki/International_Friendship_Bell) | [TomasVial](https://en.wikipedia.org/wiki/User:TomasVial) | 4,543 |
+| 2026-09-27 14:01:04 | [Halaḥam](https://en.wikipedia.org/wiki/Hala%E1%B8%A5am) | [Dgolds](https://en.wikipedia.org/wiki/User:Dgolds) | 13,235 |
+| 2026-09-27 14:02:44 | [Canton Mombello Prison](https://en.wikipedia.org/wiki/Canton_Mombello_Prison) | [Thisispinkfloyd](https://en.wikipedia.org/wiki/User:Thisispinkfloyd) | 3,170 |
+| 2026-09-27 14:04:50 | [Diving at the 2026 Asian Games – Women's synchronized 10 metre platform](https://en.wikipedia.org/wiki/Diving_at_the_2026_Asian_Games_%E2%80%93_Women%27s_synchronized_10_metre_platform) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 3,192 |
+| 2026-09-27 14:05:13 | [RoC Skincare](https://en.wikipedia.org/wiki/RoC_Skincare) | [Teentytinty](https://en.wikipedia.org/wiki/User:Teentytinty) | 1,088 |
+| 2026-09-27 14:08:40 | [Enja Springob](https://en.wikipedia.org/wiki/Enja_Springob) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,614 |
+| 2026-09-27 14:10:55 | [Ivan Ejub Kostić](https://en.wikipedia.org/wiki/Ivan_Ejub_Kosti%C4%87) | [Elserbio00](https://en.wikipedia.org/wiki/User:Elserbio00) | 4,211 |
+| 2026-09-27 14:11:23 | [Piper Perri](https://en.wikipedia.org/wiki/Piper_Perri) | [AndrewHenkelman](https://en.wikipedia.org/wiki/User:AndrewHenkelman) | 4,434 |
+| 2026-09-27 14:16:49 | [Quicksand / Cradlesnakes](https://en.wikipedia.org/wiki/Quicksand_/_Cradlesnakes) | [Caro7200](https://en.wikipedia.org/wiki/User:Caro7200) | 4,432 |
