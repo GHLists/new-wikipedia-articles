@@ -13,59 +13,57 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-26 23:19 UTC](data/en/new-articles-2026-09-26T23-19-04Z.csv) | 27 |
-| Japanese | `ja` | [2026-09-26 23:19 UTC](data/ja/new-articles-2026-09-26T23-19-04Z.csv) | 4 |
-| Chinese | `zh` | [2026-09-26 22:19 UTC](data/zh/new-articles-2026-09-26T22-19-12Z.csv) | 1 |
-| French | `fr` | [2026-09-26 23:19 UTC](data/fr/new-articles-2026-09-26T23-19-04Z.csv) | 12 |
-| German | `de` | [2026-09-26 23:19 UTC](data/de/new-articles-2026-09-26T23-19-04Z.csv) | 1 |
-| Russian | `ru` | [2026-09-26 23:19 UTC](data/ru/new-articles-2026-09-26T23-19-04Z.csv) | 6 |
-| Spanish | `es` | [2026-09-26 23:19 UTC](data/es/new-articles-2026-09-26T23-19-04Z.csv) | 8 |
-| Italian | `it` | [2026-09-26 23:19 UTC](data/it/new-articles-2026-09-26T23-19-04Z.csv) | 7 |
-| Portuguese | `pt` | [2026-09-26 23:19 UTC](data/pt/new-articles-2026-09-26T23-19-04Z.csv) | 5 |
-| Polish | `pl` | [2026-09-26 23:19 UTC](data/pl/new-articles-2026-09-26T23-19-04Z.csv) | 3 |
-| Arabic | `ar` | [2026-09-26 23:19 UTC](data/ar/new-articles-2026-09-26T23-19-04Z.csv) | 17 |
-| Persian | `fa` | [2026-09-26 23:19 UTC](data/fa/new-articles-2026-09-26T23-19-04Z.csv) | 9 |
-| Turkish | `tr` | [2026-09-26 23:19 UTC](data/tr/new-articles-2026-09-26T23-19-04Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-26 23:19 UTC](data/he/new-articles-2026-09-26T23-19-04Z.csv) | 4 |
+| English | `en` | [2026-09-27 00:19 UTC](data/en/new-articles-2026-09-27T00-19-15Z.csv) | 25 |
+| Japanese | `ja` | [2026-09-27 00:19 UTC](data/ja/new-articles-2026-09-27T00-19-15Z.csv) | 8 |
+| Chinese | `zh` | [2026-09-27 00:19 UTC](data/zh/new-articles-2026-09-27T00-19-15Z.csv) | 3 |
+| French | `fr` | [2026-09-27 00:19 UTC](data/fr/new-articles-2026-09-27T00-19-15Z.csv) | 7 |
+| German | `de` | [2026-09-27 00:19 UTC](data/de/new-articles-2026-09-27T00-19-15Z.csv) | 3 |
+| Russian | `ru` | [2026-09-27 00:19 UTC](data/ru/new-articles-2026-09-27T00-19-15Z.csv) | 1 |
+| Spanish | `es` | [2026-09-27 00:19 UTC](data/es/new-articles-2026-09-27T00-19-15Z.csv) | 5 |
+| Italian | `it` | [2026-09-27 00:19 UTC](data/it/new-articles-2026-09-27T00-19-15Z.csv) | 1 |
+| Portuguese | `pt` | [2026-09-27 00:19 UTC](data/pt/new-articles-2026-09-27T00-19-15Z.csv) | 5 |
+| Polish | `pl` | [2026-09-27 00:19 UTC](data/pl/new-articles-2026-09-27T00-19-15Z.csv) | 3 |
+| Arabic | `ar` | [2026-09-27 00:19 UTC](data/ar/new-articles-2026-09-27T00-19-15Z.csv) | 2 |
+| Persian | `fa` | [2026-09-27 00:19 UTC](data/fa/new-articles-2026-09-27T00-19-15Z.csv) | 4 |
+| Turkish | `tr` | [2026-09-27 00:19 UTC](data/tr/new-articles-2026-09-27T00-19-15Z.csv) | 3 |
+| Hebrew | `he` | [2026-09-27 00:19 UTC](data/he/new-articles-2026-09-27T00-19-15Z.csv) | 2 |
 | Swedish | `sv` | [2026-09-26 21:18 UTC](data/sv/new-articles-2026-09-26T21-18-56Z.csv) | 2 |
-| Dutch | `nl` | [2026-09-26 23:19 UTC](data/nl/new-articles-2026-09-26T23-19-04Z.csv) | 3 |
+| Dutch | `nl` | [2026-09-27 00:19 UTC](data/nl/new-articles-2026-09-27T00-19-15Z.csv) | 1 |
 | Korean | `ko` | [2026-09-26 23:19 UTC](data/ko/new-articles-2026-09-26T23-19-04Z.csv) | 3 |
-| Indonesian | `id` | [2026-09-26 23:19 UTC](data/id/new-articles-2026-09-26T23-19-04Z.csv) | 4 |
+| Indonesian | `id` | [2026-09-27 00:19 UTC](data/id/new-articles-2026-09-27T00-19-15Z.csv) | 2 |
 | Ukrainian | `uk` | [2026-09-26 23:19 UTC](data/uk/new-articles-2026-09-26T23-19-04Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-09-26 19:19 UTC](data/vi/new-articles-2026-09-26T19-19-38Z.csv) | 2 |
 
-## English (en) — 2026-09-26 23:19 UTC
+## English (en) — 2026-09-27 00:19 UTC
 
-New articles created between 2026-09-26 22:19 UTC and 2026-09-26 23:19 UTC.
+New articles created between 2026-09-26 23:19 UTC and 2026-09-27 00:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-26T23-19-04Z.csv)
+[Full CSV](data/en/new-articles-2026-09-27T00-19-15Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-26 22:19:53 | [Mariano Sánchez Fontecilla](https://en.wikipedia.org/wiki/Mariano_S%C3%A1nchez_Fontecilla) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 8,189 |
-| 2026-09-26 22:21:16 | [Enrique de Putron](https://en.wikipedia.org/wiki/Enrique_de_Putron) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,656 |
-| 2026-09-26 22:23:17 | [Ventura Blanco Viel](https://en.wikipedia.org/wiki/Ventura_Blanco_Viel) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 8,153 |
-| 2026-09-26 22:26:32 | [Francisco Herboso](https://en.wikipedia.org/wiki/Francisco_Herboso) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 6,225 |
-| 2026-09-26 22:27:37 | [Christopher Rowland Payne](https://en.wikipedia.org/wiki/Christopher_Rowland_Payne) | [Pineappledoctor](https://en.wikipedia.org/wiki/User:Pineappledoctor) | 6,255 |
-| 2026-09-26 22:28:17 | [Trevor Stuurman](https://en.wikipedia.org/wiki/Trevor_Stuurman) | [Rosy cleopatra](https://en.wikipedia.org/wiki/User:Rosy_cleopatra) | 597 |
-| 2026-09-26 22:28:53 | [Carlos Palacios Zapata](https://en.wikipedia.org/wiki/Carlos_Palacios_Zapata) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,816 |
-| 2026-09-26 22:31:18 | [Joes Oosterlinck](https://en.wikipedia.org/wiki/Joes_Oosterlinck) | [Peoya](https://en.wikipedia.org/wiki/User:Peoya) | 2,990 |
-| 2026-09-26 22:31:31 | [Ramón Vergara Donoso](https://en.wikipedia.org/wiki/Ram%C3%B3n_Vergara_Donoso) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,707 |
-| 2026-09-26 22:32:54 | [Ventura Carvallo](https://en.wikipedia.org/wiki/Ventura_Carvallo) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,699 |
-| 2026-09-26 22:34:04 | [Joseph Williams (American football)](https://en.wikipedia.org/wiki/Joseph_Williams_%28American_football%29) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 80 |
-| 2026-09-26 22:47:13 | [King Lear Weeping over the Dead Body of Cordelia](https://en.wikipedia.org/wiki/King_Lear_Weeping_over_the_Dead_Body_of_Cordelia) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,282 |
-| 2026-09-26 22:48:34 | [Gary Daniels (disambiguation)](https://en.wikipedia.org/wiki/Gary_Daniels_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 245 |
-| 2026-09-26 22:48:35 | [Brunswick Downs](https://en.wikipedia.org/wiki/Brunswick_Downs) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 14,865 |
-| 2026-09-26 22:49:00 | [Senator Swann](https://en.wikipedia.org/wiki/Senator_Swann) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 262 |
-| 2026-09-26 22:56:59 | [Fool In Love (Thai TV series)](https://en.wikipedia.org/wiki/Fool_In_Love_%28Thai_TV_series%29) | [Curiosidadetp1](https://en.wikipedia.org/wiki/User:Curiosidadetp1) | 5,635 |
-| 2026-09-26 23:03:44 | [2026–27 Amarante F.C. season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Amarante_F.C._season) | [SOAD KoRn](https://en.wikipedia.org/wiki/User:SOAD_KoRn) | 49,384 |
-| 2026-09-26 23:05:33 | [Gómez de Albelda](https://en.wikipedia.org/wiki/G%C3%B3mez_de_Albelda) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 5,243 |
-| 2026-09-26 23:07:33 | [Senator Stutzman](https://en.wikipedia.org/wiki/Senator_Stutzman) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 186 |
-| 2026-09-26 23:08:17 | [Radio Romance (Canyon album)](https://en.wikipedia.org/wiki/Radio_Romance_%28Canyon_album%29) | [SwingingDoor76](https://en.wikipedia.org/wiki/User:SwingingDoor76) | 4,861 |
-| 2026-09-26 23:12:30 | [Senator Sturgeon (disambiguation)](https://en.wikipedia.org/wiki/Senator_Sturgeon_%28disambiguation%29) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 388 |
-| 2026-09-26 23:12:54 | [XXXIV Corps](https://en.wikipedia.org/wiki/XXXIV_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 657 |
-| 2026-09-26 23:14:48 | [Senator Stumpf](https://en.wikipedia.org/wiki/Senator_Stumpf) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 251 |
-| 2026-09-26 23:15:10 | [G. Sreekanth](https://en.wikipedia.org/wiki/G._Sreekanth) | [Hha66627](https://en.wikipedia.org/wiki/User:Hha66627) | 7,414 |
-| 2026-09-26 23:16:03 | [FAA N-Number](https://en.wikipedia.org/wiki/FAA_N-Number) | [Luis John Soria](https://en.wikipedia.org/wiki/User:Luis_John_Soria) | 2,144 |
-| 2026-09-26 23:17:56 | [Senator Stubbs](https://en.wikipedia.org/wiki/Senator_Stubbs) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 238 |
-| 2026-09-26 23:18:06 | [Senator Stubblefield](https://en.wikipedia.org/wiki/Senator_Stubblefield) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 246 |
+| 2026-09-26 23:21:05 | [Monotes pearsonii](https://en.wikipedia.org/wiki/Monotes_pearsonii) | [Tom Radulovich](https://en.wikipedia.org/wiki/User:Tom_Radulovich) | 1,632 |
+| 2026-09-26 23:21:59 | [Italian hand](https://en.wikipedia.org/wiki/Italian_hand) | [OrdinariusFingius](https://en.wikipedia.org/wiki/User:OrdinariusFingius) | 780 |
+| 2026-09-26 23:24:34 | [Shubham Rameshwar Kakde](https://en.wikipedia.org/wiki/Shubham_Rameshwar_Kakde) | [Hha66627](https://en.wikipedia.org/wiki/User:Hha66627) | 2,065 |
+| 2026-09-26 23:36:41 | [Lithuanian basketball league system](https://en.wikipedia.org/wiki/Lithuanian_basketball_league_system) | [NitsuaWSilgez](https://en.wikipedia.org/wiki/User:NitsuaWSilgez) | 4,031 |
+| 2026-09-26 23:38:12 | [Gyamerah](https://en.wikipedia.org/wiki/Gyamerah) | [Ortizesp](https://en.wikipedia.org/wiki/User:Ortizesp) | 224 |
+| 2026-09-26 23:41:05 | [Microscripts](https://en.wikipedia.org/wiki/Microscripts) | [RandomEditor6772314](https://en.wikipedia.org/wiki/User:RandomEditor6772314) | 18,014 |
+| 2026-09-26 23:41:41 | [Laura Davison](https://en.wikipedia.org/wiki/Laura_Davison) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 2,011 |
+| 2026-09-26 23:41:48 | [Senator Stover](https://en.wikipedia.org/wiki/Senator_Stover) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 191 |
+| 2026-09-26 23:41:54 | [Hylaeus amiculiformis](https://en.wikipedia.org/wiki/Hylaeus_amiculiformis) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,658 |
+| 2026-09-26 23:44:36 | [Senator Storm](https://en.wikipedia.org/wiki/Senator_Storm) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 239 |
+| 2026-09-26 23:48:39 | [Hae-young](https://en.wikipedia.org/wiki/Hae-young) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 1,288 |
+| 2026-09-26 23:52:47 | [Senator Stokowski](https://en.wikipedia.org/wiki/Senator_Stokowski) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 191 |
+| 2026-09-26 23:57:16 | [Kamson](https://en.wikipedia.org/wiki/Kamson) | [Ortizesp](https://en.wikipedia.org/wiki/User:Ortizesp) | 291 |
+| 2026-09-26 23:59:12 | [Senator Stine](https://en.wikipedia.org/wiki/Senator_Stine) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 266 |
+| 2026-09-26 23:59:16 | [Senator Stineman](https://en.wikipedia.org/wiki/Senator_Stineman) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 254 |
+| 2026-09-26 23:59:17 | [Carlos Concha Subercaseaux](https://en.wikipedia.org/wiki/Carlos_Concha_Subercaseaux) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 5,109 |
+| 2026-09-27 00:02:40 | [Benjamín Vergara Echavarría](https://en.wikipedia.org/wiki/Benjam%C3%ADn_Vergara_Echavarr%C3%ADa) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,275 |
+| 2026-09-27 00:03:18 | [Senator Stiles](https://en.wikipedia.org/wiki/Senator_Stiles) | [PA Uploader](https://en.wikipedia.org/wiki/User:PA_Uploader) | 177 |
+| 2026-09-27 00:04:40 | [Well Dweller](https://en.wikipedia.org/wiki/Well_Dweller) | [NoJoker](https://en.wikipedia.org/wiki/User:NoJoker) | 13,921 |
+| 2026-09-27 00:08:21 | [Patricio Larraín](https://en.wikipedia.org/wiki/Patricio_Larra%C3%ADn) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 6,341 |
+| 2026-09-27 00:10:38 | [Second American Civil War in speculative fiction](https://en.wikipedia.org/wiki/Second_American_Civil_War_in_speculative_fiction) | [CartoonDiablo](https://en.wikipedia.org/wiki/User:CartoonDiablo) | 10,267 |
+| 2026-09-27 00:10:55 | [List of United Kingdom by-elections (2024–present)](https://en.wikipedia.org/wiki/List_of_United_Kingdom_by-elections_%282024%E2%80%93present%29) | [Chessrat](https://en.wikipedia.org/wiki/User:Chessrat) | 16,359 |
+| 2026-09-27 00:11:48 | [Federico Pinto Izarra](https://en.wikipedia.org/wiki/Federico_Pinto_Izarra) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,380 |
+| 2026-09-27 00:14:22 | [Nicolás González Errázuriz](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Gonz%C3%A1lez_Err%C3%A1zuriz) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,161 |
+| 2026-09-27 00:18:54 | [Domingo de Toro](https://en.wikipedia.org/wiki/Domingo_de_Toro) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 6,426 |
