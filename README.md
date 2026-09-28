@@ -13,47 +13,41 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-28 02:21 UTC](data/en/new-articles-2026-09-28T02-21-52Z.csv) | 15 |
-| Japanese | `ja` | [2026-09-28 02:21 UTC](data/ja/new-articles-2026-09-28T02-21-52Z.csv) | 3 |
-| Chinese | `zh` | [2026-09-28 02:21 UTC](data/zh/new-articles-2026-09-28T02-21-52Z.csv) | 2 |
+| English | `en` | [2026-09-28 03:19 UTC](data/en/new-articles-2026-09-28T03-19-31Z.csv) | 9 |
+| Japanese | `ja` | [2026-09-28 03:19 UTC](data/ja/new-articles-2026-09-28T03-19-31Z.csv) | 4 |
+| Chinese | `zh` | [2026-09-28 03:19 UTC](data/zh/new-articles-2026-09-28T03-19-31Z.csv) | 7 |
 | French | `fr` | [2026-09-28 00:20 UTC](data/fr/new-articles-2026-09-28T00-20-19Z.csv) | 5 |
-| German | `de` | [2026-09-28 02:21 UTC](data/de/new-articles-2026-09-28T02-21-52Z.csv) | 1 |
+| German | `de` | [2026-09-28 03:19 UTC](data/de/new-articles-2026-09-28T03-19-31Z.csv) | 1 |
 | Russian | `ru` | [2026-09-28 02:21 UTC](data/ru/new-articles-2026-09-28T02-21-52Z.csv) | 3 |
-| Spanish | `es` | [2026-09-28 02:21 UTC](data/es/new-articles-2026-09-28T02-21-52Z.csv) | 12 |
-| Italian | `it` | [2026-09-28 02:21 UTC](data/it/new-articles-2026-09-28T02-21-52Z.csv) | 2 |
-| Portuguese | `pt` | [2026-09-28 02:21 UTC](data/pt/new-articles-2026-09-28T02-21-52Z.csv) | 12 |
+| Spanish | `es` | [2026-09-28 03:19 UTC](data/es/new-articles-2026-09-28T03-19-31Z.csv) | 8 |
+| Italian | `it` | [2026-09-28 03:19 UTC](data/it/new-articles-2026-09-28T03-19-31Z.csv) | 1 |
+| Portuguese | `pt` | [2026-09-28 03:19 UTC](data/pt/new-articles-2026-09-28T03-19-31Z.csv) | 3 |
 | Polish | `pl` | [2026-09-28 01:19 UTC](data/pl/new-articles-2026-09-28T01-19-22Z.csv) | 4 |
-| Arabic | `ar` | [2026-09-28 02:21 UTC](data/ar/new-articles-2026-09-28T02-21-52Z.csv) | 6 |
-| Persian | `fa` | [2026-09-28 02:21 UTC](data/fa/new-articles-2026-09-28T02-21-52Z.csv) | 5 |
+| Arabic | `ar` | [2026-09-28 03:19 UTC](data/ar/new-articles-2026-09-28T03-19-31Z.csv) | 6 |
+| Persian | `fa` | [2026-09-28 03:19 UTC](data/fa/new-articles-2026-09-28T03-19-31Z.csv) | 8 |
 | Turkish | `tr` | [2026-09-28 02:21 UTC](data/tr/new-articles-2026-09-28T02-21-52Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-28 01:19 UTC](data/he/new-articles-2026-09-28T01-19-22Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-28 03:19 UTC](data/he/new-articles-2026-09-28T03-19-31Z.csv) | 2 |
 | Swedish | `sv` | [2026-09-28 02:21 UTC](data/sv/new-articles-2026-09-28T02-21-52Z.csv) | 1 |
 | Dutch | `nl` | [2026-09-28 02:21 UTC](data/nl/new-articles-2026-09-28T02-21-52Z.csv) | 2 |
-| Korean | `ko` | [2026-09-28 02:21 UTC](data/ko/new-articles-2026-09-28T02-21-52Z.csv) | 4 |
-| Indonesian | `id` | [2026-09-28 02:21 UTC](data/id/new-articles-2026-09-28T02-21-52Z.csv) | 14 |
+| Korean | `ko` | [2026-09-28 03:19 UTC](data/ko/new-articles-2026-09-28T03-19-31Z.csv) | 5 |
+| Indonesian | `id` | [2026-09-28 03:19 UTC](data/id/new-articles-2026-09-28T03-19-31Z.csv) | 7 |
 | Ukrainian | `uk` | [2026-09-28 02:21 UTC](data/uk/new-articles-2026-09-28T02-21-52Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-09-28 02:21 UTC](data/vi/new-articles-2026-09-28T02-21-52Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-09-28 03:19 UTC](data/vi/new-articles-2026-09-28T03-19-31Z.csv) | 1 |
 
-## English (en) — 2026-09-28 02:21 UTC
+## English (en) — 2026-09-28 03:19 UTC
 
-New articles created between 2026-09-28 01:19 UTC and 2026-09-28 02:21 UTC.
+New articles created between 2026-09-28 02:21 UTC and 2026-09-28 03:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-28T02-21-52Z.csv)
+[Full CSV](data/en/new-articles-2026-09-28T03-19-31Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-28 01:30:58 | [Ibrahim Osman Aliyu](https://en.wikipedia.org/wiki/Ibrahim_Osman_Aliyu) | [LeSablierZeus](https://en.wikipedia.org/wiki/User:LeSablierZeus) | 8,631 |
-| 2026-09-28 01:42:37 | [Millage (disambiguation)](https://en.wikipedia.org/wiki/Millage_%28disambiguation%29) | [CzarJobKhaya](https://en.wikipedia.org/wiki/User:CzarJobKhaya) | 329 |
-| 2026-09-28 01:48:22 | [Hylaeus cyanophilus](https://en.wikipedia.org/wiki/Hylaeus_cyanophilus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,525 |
-| 2026-09-28 01:50:02 | [Juan Echilvestre](https://en.wikipedia.org/wiki/Juan_Echilvestre) | [Intruder007](https://en.wikipedia.org/wiki/User:Intruder007) | 4,837 |
-| 2026-09-28 01:50:56 | [Richard Ellis Butler](https://en.wikipedia.org/wiki/Richard_Ellis_Butler) | [Jengod](https://en.wikipedia.org/wiki/User:Jengod) | 6,786 |
-| 2026-09-28 01:56:16 | [Mutengene](https://en.wikipedia.org/wiki/Mutengene) | [MimbaF7023](https://en.wikipedia.org/wiki/User:MimbaF7023) | 9,868 |
-| 2026-09-28 02:00:43 | [Second Siege of Philadelphia](https://en.wikipedia.org/wiki/Second_Siege_of_Philadelphia) | [Neoptolemos7](https://en.wikipedia.org/wiki/User:Neoptolemos7) | 9,659 |
-| 2026-09-28 02:01:15 | [2026 Women's Junior Oceania Cup](https://en.wikipedia.org/wiki/2026_Women%27s_Junior_Oceania_Cup) | [Lachie23](https://en.wikipedia.org/wiki/User:Lachie23) | 4,214 |
-| 2026-09-28 02:05:51 | [44th Airborne Division](https://en.wikipedia.org/wiki/44th_Airborne_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 294 |
-| 2026-09-28 02:07:08 | [Nuxalk religion](https://en.wikipedia.org/wiki/Nuxalk_religion) | [Gattonero2001](https://en.wikipedia.org/wiki/User:Gattonero2001) | 2,357 |
-| 2026-09-28 02:11:40 | [Giovanni Ventura](https://en.wikipedia.org/wiki/Giovanni_Ventura) | [MatthewMCN608](https://en.wikipedia.org/wiki/User:MatthewMCN608) | 1,593 |
-| 2026-09-28 02:12:38 | [Joel Bartley](https://en.wikipedia.org/wiki/Joel_Bartley) | [ShadowBallX](https://en.wikipedia.org/wiki/User:ShadowBallX) | 5,060 |
-| 2026-09-28 02:13:54 | [Bunyip railway substation](https://en.wikipedia.org/wiki/Bunyip_railway_substation) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 7,605 |
-| 2026-09-28 02:15:12 | [Ecology (Mathematik album)](https://en.wikipedia.org/wiki/Ecology_%28Mathematik_album%29) | [Splashmoney15](https://en.wikipedia.org/wiki/User:Splashmoney15) | 4,993 |
-| 2026-09-28 02:19:47 | [Kenny Connors](https://en.wikipedia.org/wiki/Kenny_Connors) | [Abijah15](https://en.wikipedia.org/wiki/User:Abijah15) | 164 |
+| 2026-09-28 02:29:41 | [Yohan Orozco](https://en.wikipedia.org/wiki/Yohan_Orozco) | [Intruder007](https://en.wikipedia.org/wiki/User:Intruder007) | 3,562 |
+| 2026-09-28 02:36:14 | [Sudanese Optometry Society](https://en.wikipedia.org/wiki/Sudanese_Optometry_Society) | [Academicwikipedian](https://en.wikipedia.org/wiki/User:Academicwikipedian) | 1,061 |
+| 2026-09-28 02:41:44 | [Wayne H. Olson](https://en.wikipedia.org/wiki/Wayne_H._Olson) | [Minnastronomer](https://en.wikipedia.org/wiki/User:Minnastronomer) | 2,555 |
+| 2026-09-28 02:45:50 | [National Health Practitioner Ombudsman and Privacy Commissioner](https://en.wikipedia.org/wiki/National_Health_Practitioner_Ombudsman_and_Privacy_Commissioner) | [Academicwikipedian](https://en.wikipedia.org/wiki/User:Academicwikipedian) | 6,618 |
+| 2026-09-28 02:47:47 | [Exequiel Monge Allen](https://en.wikipedia.org/wiki/Exequiel_Monge_Allen) | [Librero2109](https://en.wikipedia.org/wiki/User:Librero2109) | 3,837 |
+| 2026-09-28 02:49:19 | [Leo Gordon (disambiguation)](https://en.wikipedia.org/wiki/Leo_Gordon_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 217 |
+| 2026-09-28 02:55:39 | [Thirtle](https://en.wikipedia.org/wiki/Thirtle) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 212 |
+| 2026-09-28 03:03:06 | [Liberty Airport (New York)](https://en.wikipedia.org/wiki/Liberty_Airport_%28New_York%29) | [Richardc020](https://en.wikipedia.org/wiki/User:Richardc020) | 2,113 |
+| 2026-09-28 03:13:14 | [Dominik Drobnič](https://en.wikipedia.org/wiki/Dominik_Drobni%C4%8D) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 6,075 |
