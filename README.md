@@ -13,60 +13,65 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-28 12:19 UTC](data/en/new-articles-2026-09-28T12-19-15Z.csv) | 28 |
-| Japanese | `ja` | [2026-09-28 12:19 UTC](data/ja/new-articles-2026-09-28T12-19-15Z.csv) | 11 |
-| Chinese | `zh` | [2026-09-28 12:19 UTC](data/zh/new-articles-2026-09-28T12-19-15Z.csv) | 7 |
-| French | `fr` | [2026-09-28 12:19 UTC](data/fr/new-articles-2026-09-28T12-19-15Z.csv) | 13 |
-| German | `de` | [2026-09-28 12:19 UTC](data/de/new-articles-2026-09-28T12-19-15Z.csv) | 5 |
-| Russian | `ru` | [2026-09-28 12:19 UTC](data/ru/new-articles-2026-09-28T12-19-15Z.csv) | 10 |
-| Spanish | `es` | [2026-09-28 12:19 UTC](data/es/new-articles-2026-09-28T12-19-15Z.csv) | 9 |
-| Italian | `it` | [2026-09-28 12:19 UTC](data/it/new-articles-2026-09-28T12-19-15Z.csv) | 11 |
-| Portuguese | `pt` | [2026-09-28 12:19 UTC](data/pt/new-articles-2026-09-28T12-19-15Z.csv) | 2 |
-| Polish | `pl` | [2026-09-28 12:19 UTC](data/pl/new-articles-2026-09-28T12-19-15Z.csv) | 7 |
-| Arabic | `ar` | [2026-09-28 12:19 UTC](data/ar/new-articles-2026-09-28T12-19-15Z.csv) | 1 |
-| Persian | `fa` | [2026-09-28 12:19 UTC](data/fa/new-articles-2026-09-28T12-19-15Z.csv) | 20 |
-| Turkish | `tr` | [2026-09-28 12:19 UTC](data/tr/new-articles-2026-09-28T12-19-15Z.csv) | 2 |
+| English | `en` | [2026-09-28 13:22 UTC](data/en/new-articles-2026-09-28T13-22-12Z.csv) | 33 |
+| Japanese | `ja` | [2026-09-28 13:22 UTC](data/ja/new-articles-2026-09-28T13-22-12Z.csv) | 11 |
+| Chinese | `zh` | [2026-09-28 13:22 UTC](data/zh/new-articles-2026-09-28T13-22-12Z.csv) | 14 |
+| French | `fr` | [2026-09-28 13:22 UTC](data/fr/new-articles-2026-09-28T13-22-12Z.csv) | 15 |
+| German | `de` | [2026-09-28 13:22 UTC](data/de/new-articles-2026-09-28T13-22-12Z.csv) | 9 |
+| Russian | `ru` | [2026-09-28 13:22 UTC](data/ru/new-articles-2026-09-28T13-22-12Z.csv) | 12 |
+| Spanish | `es` | [2026-09-28 13:22 UTC](data/es/new-articles-2026-09-28T13-22-12Z.csv) | 8 |
+| Italian | `it` | [2026-09-28 13:22 UTC](data/it/new-articles-2026-09-28T13-22-12Z.csv) | 4 |
+| Portuguese | `pt` | [2026-09-28 13:22 UTC](data/pt/new-articles-2026-09-28T13-22-12Z.csv) | 3 |
+| Polish | `pl` | [2026-09-28 13:22 UTC](data/pl/new-articles-2026-09-28T13-22-12Z.csv) | 7 |
+| Arabic | `ar` | [2026-09-28 13:22 UTC](data/ar/new-articles-2026-09-28T13-22-12Z.csv) | 6 |
+| Persian | `fa` | [2026-09-28 13:22 UTC](data/fa/new-articles-2026-09-28T13-22-12Z.csv) | 13 |
+| Turkish | `tr` | [2026-09-28 13:22 UTC](data/tr/new-articles-2026-09-28T13-22-12Z.csv) | 5 |
 | Hebrew | `he` | [2026-09-28 12:19 UTC](data/he/new-articles-2026-09-28T12-19-15Z.csv) | 5 |
-| Swedish | `sv` | [2026-09-28 12:19 UTC](data/sv/new-articles-2026-09-28T12-19-15Z.csv) | 3 |
-| Dutch | `nl` | [2026-09-28 12:19 UTC](data/nl/new-articles-2026-09-28T12-19-15Z.csv) | 6 |
-| Korean | `ko` | [2026-09-28 12:19 UTC](data/ko/new-articles-2026-09-28T12-19-15Z.csv) | 3 |
-| Indonesian | `id` | [2026-09-28 12:19 UTC](data/id/new-articles-2026-09-28T12-19-15Z.csv) | 13 |
-| Ukrainian | `uk` | [2026-09-28 12:19 UTC](data/uk/new-articles-2026-09-28T12-19-15Z.csv) | 8 |
-| Vietnamese | `vi` | [2026-09-28 12:19 UTC](data/vi/new-articles-2026-09-28T12-19-15Z.csv) | 4 |
+| Swedish | `sv` | [2026-09-28 13:22 UTC](data/sv/new-articles-2026-09-28T13-22-12Z.csv) | 3 |
+| Dutch | `nl` | [2026-09-28 13:22 UTC](data/nl/new-articles-2026-09-28T13-22-12Z.csv) | 4 |
+| Korean | `ko` | [2026-09-28 13:22 UTC](data/ko/new-articles-2026-09-28T13-22-12Z.csv) | 3 |
+| Indonesian | `id` | [2026-09-28 13:22 UTC](data/id/new-articles-2026-09-28T13-22-12Z.csv) | 23 |
+| Ukrainian | `uk` | [2026-09-28 13:22 UTC](data/uk/new-articles-2026-09-28T13-22-12Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-09-28 13:22 UTC](data/vi/new-articles-2026-09-28T13-22-12Z.csv) | 3 |
 
-## English (en) — 2026-09-28 12:19 UTC
+## English (en) — 2026-09-28 13:22 UTC
 
-New articles created between 2026-09-28 11:19 UTC and 2026-09-28 12:19 UTC.
+New articles created between 2026-09-28 12:19 UTC and 2026-09-28 13:22 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-28T12-19-15Z.csv)
+[Full CSV](data/en/new-articles-2026-09-28T13-22-12Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-28 11:20:18 | [Haroldiataenius hintoni](https://en.wikipedia.org/wiki/Haroldiataenius_hintoni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,952 |
-| 2026-09-28 11:22:31 | [Kim Ji-chan](https://en.wikipedia.org/wiki/Kim_Ji-chan) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 3,064 |
-| 2026-09-28 11:22:34 | [Terra Nova (satellite)](https://en.wikipedia.org/wiki/Terra_Nova_%28satellite%29) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 3,131 |
-| 2026-09-28 11:22:36 | [Thomas J. Shryock](https://en.wikipedia.org/wiki/Thomas_J._Shryock) | [Regazal](https://en.wikipedia.org/wiki/User:Regazal) | 4,423 |
-| 2026-09-28 11:23:30 | [Sebastian Hüller](https://en.wikipedia.org/wiki/Sebastian_H%C3%BCller) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,646 |
-| 2026-09-28 11:25:48 | [Vitaliy Dyakivnych](https://en.wikipedia.org/wiki/Vitaliy_Dyakivnych) | [Nurken](https://en.wikipedia.org/wiki/User:Nurken) | 3,989 |
-| 2026-09-28 11:25:48 | [Nathan Durieux](https://en.wikipedia.org/wiki/Nathan_Durieux) | [Pelotas](https://en.wikipedia.org/wiki/User:Pelotas) | 3,399 |
-| 2026-09-28 11:27:06 | [Iwan Freddy Hari Susanto](https://en.wikipedia.org/wiki/Iwan_Freddy_Hari_Susanto) | [Jeromi Mikhael](https://en.wikipedia.org/wiki/User:Jeromi_Mikhael) | 8,707 |
-| 2026-09-28 11:27:26 | [Mat Yoyo](https://en.wikipedia.org/wiki/Mat_Yoyo) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 9,872 |
-| 2026-09-28 11:28:19 | [Trocadero (album)](https://en.wikipedia.org/wiki/Trocadero_%28album%29) | [ItsBri](https://en.wikipedia.org/wiki/User:ItsBri) | 11,004 |
-| 2026-09-28 11:31:41 | [Haroldiataenius buvexus](https://en.wikipedia.org/wiki/Haroldiataenius_buvexus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,927 |
-| 2026-09-28 11:33:11 | [Global Glamour Venture](https://en.wikipedia.org/wiki/Global_Glamour_Venture) | [Authentic gme](https://en.wikipedia.org/wiki/User:Authentic_gme) | 6,056 |
-| 2026-09-28 11:35:09 | [Ebru Dağbaşı](https://en.wikipedia.org/wiki/Ebru_Da%C4%9Fba%C5%9F%C4%B1) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 3,412 |
-| 2026-09-28 11:38:19 | [Yoon Dong-hee](https://en.wikipedia.org/wiki/Yoon_Dong-hee) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 3,206 |
-| 2026-09-28 11:44:26 | [2027 IIHF Women's World Championship Division I](https://en.wikipedia.org/wiki/2027_IIHF_Women%27s_World_Championship_Division_I) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 12,035 |
-| 2026-09-28 11:45:08 | [Choi Min-seok](https://en.wikipedia.org/wiki/Choi_Min-seok) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 2,893 |
-| 2026-09-28 11:50:41 | [James Phelan (Australian rules football)](https://en.wikipedia.org/wiki/James_Phelan_%28Australian_rules_football%29) | [Shirt58](https://en.wikipedia.org/wiki/User:Shirt58) | 1,502 |
-| 2026-09-28 11:54:07 | [King of Pro-Wrestling (2026)](https://en.wikipedia.org/wiki/King_of_Pro-Wrestling_%282026%29) | [TheDeviantPro](https://en.wikipedia.org/wiki/User:TheDeviantPro) | 7,505 |
-| 2026-09-28 11:55:30 | [José María del Nido Carrasco](https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_del_Nido_Carrasco) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,085 |
-| 2026-09-28 12:01:19 | [Talentime (talent competition)](https://en.wikipedia.org/wiki/Talentime_%28talent_competition%29) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 4,279 |
-| 2026-09-28 12:03:23 | [Alex Sinclair](https://en.wikipedia.org/wiki/Alex_Sinclair) | [Station1](https://en.wikipedia.org/wiki/User:Station1) | 158 |
-| 2026-09-28 12:05:14 | [2027 IIHF Women's World Championship Division II](https://en.wikipedia.org/wiki/2027_IIHF_Women%27s_World_Championship_Division_II) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 11,761 |
-| 2026-09-28 12:06:05 | [List of Lonesome Pine Fiddlers members](https://en.wikipedia.org/wiki/List_of_Lonesome_Pine_Fiddlers_members) | [Andre666](https://en.wikipedia.org/wiki/User:Andre666) | 10,234 |
-| 2026-09-28 12:07:19 | [Tesfay Debessay](https://en.wikipedia.org/wiki/Tesfay_Debessay) | [DebreSelam](https://en.wikipedia.org/wiki/User:DebreSelam) | 8,903 |
-| 2026-09-28 12:08:31 | [Arley Kay](https://en.wikipedia.org/wiki/Arley_Kay) | [DUCKISJAMMMY](https://en.wikipedia.org/wiki/User:DUCKISJAMMMY) | 3,719 |
-| 2026-09-28 12:09:15 | [Haroldiataenius lucanus](https://en.wikipedia.org/wiki/Haroldiataenius_lucanus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,942 |
-| 2026-09-28 12:15:04 | [2027 IIHF Women's World Championship Division III](https://en.wikipedia.org/wiki/2027_IIHF_Women%27s_World_Championship_Division_III) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 9,265 |
-| 2026-09-28 12:15:05 | [Medadumbara](https://en.wikipedia.org/wiki/Medadumbara) | [Maxvideos](https://en.wikipedia.org/wiki/User:Maxvideos) | 31,088 |
+| 2026-09-28 12:20:25 | [2027 IIHF Women's World Championship Division IV](https://en.wikipedia.org/wiki/2027_IIHF_Women%27s_World_Championship_Division_IV) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 2,865 |
+| 2026-09-28 12:23:35 | [List of national sports teams of Kosovo](https://en.wikipedia.org/wiki/List_of_national_sports_teams_of_Kosovo) | [Dn9ahx](https://en.wikipedia.org/wiki/User:Dn9ahx) | 2,191 |
+| 2026-09-28 12:24:18 | [Borough Triangle](https://en.wikipedia.org/wiki/Borough_Triangle) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 4,433 |
+| 2026-09-28 12:28:13 | [Haroldiataenius saramari](https://en.wikipedia.org/wiki/Haroldiataenius_saramari) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,912 |
+| 2026-09-28 12:29:32 | [Pasquale Gandolfi](https://en.wikipedia.org/wiki/Pasquale_Gandolfi) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 6,402 |
+| 2026-09-28 12:38:02 | [Simuang Group](https://en.wikipedia.org/wiki/Simuang_Group) | [Stableview](https://en.wikipedia.org/wiki/User:Stableview) | 2,067 |
+| 2026-09-28 12:38:26 | [Thangappuwa](https://en.wikipedia.org/wiki/Thangappuwa) | [Maxvideos](https://en.wikipedia.org/wiki/User:Maxvideos) | 24,896 |
+| 2026-09-28 12:38:53 | [Máximo Errázuriz Ward](https://en.wikipedia.org/wiki/M%C3%A1ximo_Err%C3%A1zuriz_Ward) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,025 |
+| 2026-09-28 12:39:56 | [Avenue of Honour, Cranbourne](https://en.wikipedia.org/wiki/Avenue_of_Honour%2C_Cranbourne) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 9,304 |
+| 2026-09-28 12:44:06 | [Eduardo Iensen](https://en.wikipedia.org/wiki/Eduardo_Iensen) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 7,737 |
+| 2026-09-28 12:49:17 | [Rowing at the 2026 Asian Games – Men's quadruple sculls](https://en.wikipedia.org/wiki/Rowing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_quadruple_sculls) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 6,063 |
+| 2026-09-28 12:49:50 | [Jadwiga Roguska](https://en.wikipedia.org/wiki/Jadwiga_Roguska) | [Sajjadmrt](https://en.wikipedia.org/wiki/User:Sajjadmrt) | 2,686 |
+| 2026-09-28 12:50:44 | [Rowing at the 2026 Asian Games – Men's coxless four](https://en.wikipedia.org/wiki/Rowing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_coxless_four) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 4,826 |
+| 2026-09-28 12:51:26 | [Squash at the 2026 Asian Games – Women's singles](https://en.wikipedia.org/wiki/Squash_at_the_2026_Asian_Games_%E2%80%93_Women%27s_singles) | [LuigiMcpe4549](https://en.wikipedia.org/wiki/User:LuigiMcpe4549) | 13,928 |
+| 2026-09-28 12:51:53 | [Rowing at the 2026 Asian Games – Women's quadruple sculls](https://en.wikipedia.org/wiki/Rowing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_quadruple_sculls) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 3,590 |
+| 2026-09-28 12:52:01 | [Athletics at the 2026 Asian Games – Men's javelin throw](https://en.wikipedia.org/wiki/Athletics_at_the_2026_Asian_Games_%E2%80%93_Men%27s_javelin_throw) | [Magentic Manifestations](https://en.wikipedia.org/wiki/User:Magentic_Manifestations) | 5,062 |
+| 2026-09-28 12:52:46 | [Rowing at the 2026 Asian Games – Women's coxless four](https://en.wikipedia.org/wiki/Rowing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_coxless_four) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 5,423 |
+| 2026-09-28 12:54:04 | [Khirbet el Kerena](https://en.wikipedia.org/wiki/Khirbet_el_Kerena) | [Mariamnei](https://en.wikipedia.org/wiki/User:Mariamnei) | 2,740 |
+| 2026-09-28 12:55:02 | [Hylaeus microphenax](https://en.wikipedia.org/wiki/Hylaeus_microphenax) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,519 |
+| 2026-09-28 12:56:55 | [Hassan Abdel Rahman Salameh](https://en.wikipedia.org/wiki/Hassan_Abdel_Rahman_Salameh) | [Hasanisawi](https://en.wikipedia.org/wiki/User:Hasanisawi) | 4,855 |
+| 2026-09-28 12:57:02 | [Mitsuo Matsunaga](https://en.wikipedia.org/wiki/Mitsuo_Matsunaga) | [Dwanyewest](https://en.wikipedia.org/wiki/User:Dwanyewest) | 2,430 |
+| 2026-09-28 12:57:17 | [Grainne (sculpture)](https://en.wikipedia.org/wiki/Grainne_%28sculpture%29) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,835 |
+| 2026-09-28 12:57:38 | [Janith Wickramage](https://en.wikipedia.org/wiki/Janith_Wickramage) | [Hirusha Dissanayaka](https://en.wikipedia.org/wiki/User:Hirusha_Dissanayaka) | 297 |
+| 2026-09-28 12:57:47 | [Diego Aracena](https://en.wikipedia.org/wiki/Diego_Aracena) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 5,666 |
+| 2026-09-28 12:59:57 | [Pedro Cortés (businessman)](https://en.wikipedia.org/wiki/Pedro_Cort%C3%A9s_%28businessman%29) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,275 |
+| 2026-09-28 13:02:27 | [Athletics at the 2026 Asian Games – Women's 5000 metres](https://en.wikipedia.org/wiki/Athletics_at_the_2026_Asian_Games_%E2%80%93_Women%27s_5000_metres) | [Magentic Manifestations](https://en.wikipedia.org/wiki/User:Magentic_Manifestations) | 4,565 |
+| 2026-09-28 13:03:09 | [Oscar Herreros](https://en.wikipedia.org/wiki/Oscar_Herreros) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,133 |
+| 2026-09-28 13:04:53 | [Phycocina](https://en.wikipedia.org/wiki/Phycocina) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,327 |
+| 2026-09-28 13:06:55 | [Aurelio Celedon](https://en.wikipedia.org/wiki/Aurelio_Celedon) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 5,123 |
+| 2026-09-28 13:10:13 | [Kilgarren Castle](https://en.wikipedia.org/wiki/Kilgarren_Castle) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,385 |
+| 2026-09-28 13:15:07 | [Melanella muelleriae](https://en.wikipedia.org/wiki/Melanella_muelleriae) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,538 |
+| 2026-09-28 13:16:32 | [Armando Castro Lopez](https://en.wikipedia.org/wiki/Armando_Castro_Lopez) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,438 |
+| 2026-09-28 13:21:14 | [Marymount Catholic Secondary School](https://en.wikipedia.org/wiki/Marymount_Catholic_Secondary_School) | [Dsp13](https://en.wikipedia.org/wiki/User:Dsp13) | 1,695 |
