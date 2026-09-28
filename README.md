@@ -13,50 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-28 22:20 UTC](data/en/new-articles-2026-09-28T22-20-42Z.csv) | 18 |
-| Japanese | `ja` | [2026-09-28 22:20 UTC](data/ja/new-articles-2026-09-28T22-20-42Z.csv) | 2 |
+| English | `en` | [2026-09-28 23:18 UTC](data/en/new-articles-2026-09-28T23-18-59Z.csv) | 18 |
+| Japanese | `ja` | [2026-09-28 23:18 UTC](data/ja/new-articles-2026-09-28T23-18-59Z.csv) | 3 |
 | Chinese | `zh` | [2026-09-28 21:19 UTC](data/zh/new-articles-2026-09-28T21-19-46Z.csv) | 2 |
-| French | `fr` | [2026-09-28 22:20 UTC](data/fr/new-articles-2026-09-28T22-20-42Z.csv) | 9 |
-| German | `de` | [2026-09-28 22:20 UTC](data/de/new-articles-2026-09-28T22-20-42Z.csv) | 8 |
-| Russian | `ru` | [2026-09-28 22:20 UTC](data/ru/new-articles-2026-09-28T22-20-42Z.csv) | 4 |
-| Spanish | `es` | [2026-09-28 22:20 UTC](data/es/new-articles-2026-09-28T22-20-42Z.csv) | 6 |
-| Italian | `it` | [2026-09-28 22:20 UTC](data/it/new-articles-2026-09-28T22-20-42Z.csv) | 5 |
-| Portuguese | `pt` | [2026-09-28 22:20 UTC](data/pt/new-articles-2026-09-28T22-20-42Z.csv) | 10 |
-| Polish | `pl` | [2026-09-28 22:20 UTC](data/pl/new-articles-2026-09-28T22-20-42Z.csv) | 5 |
-| Arabic | `ar` | [2026-09-28 22:20 UTC](data/ar/new-articles-2026-09-28T22-20-42Z.csv) | 3 |
-| Persian | `fa` | [2026-09-28 22:20 UTC](data/fa/new-articles-2026-09-28T22-20-42Z.csv) | 9 |
+| French | `fr` | [2026-09-28 23:18 UTC](data/fr/new-articles-2026-09-28T23-18-59Z.csv) | 4 |
+| German | `de` | [2026-09-28 23:18 UTC](data/de/new-articles-2026-09-28T23-18-59Z.csv) | 3 |
+| Russian | `ru` | [2026-09-28 23:18 UTC](data/ru/new-articles-2026-09-28T23-18-59Z.csv) | 5 |
+| Spanish | `es` | [2026-09-28 23:18 UTC](data/es/new-articles-2026-09-28T23-18-59Z.csv) | 8 |
+| Italian | `it` | [2026-09-28 23:18 UTC](data/it/new-articles-2026-09-28T23-18-59Z.csv) | 7 |
+| Portuguese | `pt` | [2026-09-28 23:18 UTC](data/pt/new-articles-2026-09-28T23-18-59Z.csv) | 7 |
+| Polish | `pl` | [2026-09-28 23:18 UTC](data/pl/new-articles-2026-09-28T23-18-59Z.csv) | 12 |
+| Arabic | `ar` | [2026-09-28 23:18 UTC](data/ar/new-articles-2026-09-28T23-18-59Z.csv) | 8 |
+| Persian | `fa` | [2026-09-28 23:18 UTC](data/fa/new-articles-2026-09-28T23-18-59Z.csv) | 12 |
 | Turkish | `tr` | [2026-09-28 22:20 UTC](data/tr/new-articles-2026-09-28T22-20-42Z.csv) | 4 |
-| Hebrew | `he` | [2026-09-28 22:20 UTC](data/he/new-articles-2026-09-28T22-20-42Z.csv) | 2 |
-| Swedish | `sv` | [2026-09-28 22:20 UTC](data/sv/new-articles-2026-09-28T22-20-42Z.csv) | 2 |
-| Dutch | `nl` | [2026-09-28 22:20 UTC](data/nl/new-articles-2026-09-28T22-20-42Z.csv) | 2 |
+| Hebrew | `he` | [2026-09-28 23:18 UTC](data/he/new-articles-2026-09-28T23-18-59Z.csv) | 1 |
+| Swedish | `sv` | [2026-09-28 23:18 UTC](data/sv/new-articles-2026-09-28T23-18-59Z.csv) | 1 |
+| Dutch | `nl` | [2026-09-28 23:18 UTC](data/nl/new-articles-2026-09-28T23-18-59Z.csv) | 1 |
 | Korean | `ko` | [2026-09-28 18:20 UTC](data/ko/new-articles-2026-09-28T18-20-52Z.csv) | 2 |
-| Indonesian | `id` | [2026-09-28 22:20 UTC](data/id/new-articles-2026-09-28T22-20-42Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-09-28 22:20 UTC](data/uk/new-articles-2026-09-28T22-20-42Z.csv) | 9 |
+| Indonesian | `id` | [2026-09-28 23:18 UTC](data/id/new-articles-2026-09-28T23-18-59Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-09-28 23:18 UTC](data/uk/new-articles-2026-09-28T23-18-59Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-09-28 20:20 UTC](data/vi/new-articles-2026-09-28T20-20-25Z.csv) | 2 |
 
-## English (en) — 2026-09-28 22:20 UTC
+## English (en) — 2026-09-28 23:18 UTC
 
-New articles created between 2026-09-28 21:19 UTC and 2026-09-28 22:20 UTC.
+New articles created between 2026-09-28 22:20 UTC and 2026-09-28 23:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-28T22-20-42Z.csv)
+[Full CSV](data/en/new-articles-2026-09-28T23-18-59Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-28 21:24:31 | [GB Grid](https://en.wikipedia.org/wiki/GB_Grid) | [No Swan So Fine](https://en.wikipedia.org/wiki/User:No_Swan_So_Fine) | 420 |
-| 2026-09-28 21:26:54 | [Thomas Kavanagh (academic)](https://en.wikipedia.org/wiki/Thomas_Kavanagh_%28academic%29) | [Jay-Wiki](https://en.wikipedia.org/wiki/User:Jay-Wiki) | 12,890 |
-| 2026-09-28 21:28:53 | [Inevitable Records](https://en.wikipedia.org/wiki/Inevitable_Records) | [Stephen Garold](https://en.wikipedia.org/wiki/User:Stephen_Garold) | 6,325 |
-| 2026-09-28 21:30:22 | [Surrey national football team](https://en.wikipedia.org/wiki/Surrey_national_football_team) | [Cormacpepsi1](https://en.wikipedia.org/wiki/User:Cormacpepsi1) | 11,080 |
-| 2026-09-28 21:30:51 | [Sun Yat-Sen Park (Chicago)](https://en.wikipedia.org/wiki/Sun_Yat-Sen_Park_%28Chicago%29) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 2,363 |
-| 2026-09-28 21:35:27 | [Marino FC](https://en.wikipedia.org/wiki/Marino_FC) | [Help.Football.History](https://en.wikipedia.org/wiki/User:Help.Football.History) | 6,686 |
-| 2026-09-28 21:40:55 | [Angela Stribling](https://en.wikipedia.org/wiki/Angela_Stribling) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 7,189 |
-| 2026-09-28 21:50:40 | [2026 Kyle Busch Classic](https://en.wikipedia.org/wiki/2026_Kyle_Busch_Classic) | [Brycenrichter](https://en.wikipedia.org/wiki/User:Brycenrichter) | 6,029 |
-| 2026-09-28 21:57:58 | [The Penitent Magdalene Comforted by Angels](https://en.wikipedia.org/wiki/The_Penitent_Magdalene_Comforted_by_Angels) | [Mistico Dois](https://en.wikipedia.org/wiki/User:Mistico_Dois) | 3,776 |
-| 2026-09-28 22:02:10 | [Rudy De Leeuw](https://en.wikipedia.org/wiki/Rudy_De_Leeuw) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 2,118 |
-| 2026-09-28 22:04:32 | [Thomas Garrigue Masaryk Monument](https://en.wikipedia.org/wiki/Thomas_Garrigue_Masaryk_Monument) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,318 |
-| 2026-09-28 22:05:19 | [St. John's Episcopal Church (New Haven, Connecticut)](https://en.wikipedia.org/wiki/St._John%27s_Episcopal_Church_%28New_Haven%2C_Connecticut%29) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 2,481 |
-| 2026-09-28 22:08:13 | [Atiq Mosque (Esna)](https://en.wikipedia.org/wiki/Atiq_Mosque_%28Esna%29) | [The Authentic Egyptian Pasha](https://en.wikipedia.org/wiki/User:The_Authentic_Egyptian_Pasha) | 8,761 |
-| 2026-09-28 22:08:28 | [Sporting Club Tenerife](https://en.wikipedia.org/wiki/Sporting_Club_Tenerife) | [Help.Football.History](https://en.wikipedia.org/wiki/User:Help.Football.History) | 7,350 |
-| 2026-09-28 22:18:27 | [Biyo Kulul](https://en.wikipedia.org/wiki/Biyo_Kulul) | [Turwaq](https://en.wikipedia.org/wiki/User:Turwaq) | 1,622 |
-| 2026-09-28 22:18:49 | [Nannie Washburn](https://en.wikipedia.org/wiki/Nannie_Washburn) | [Chao Garden](https://en.wikipedia.org/wiki/User:Chao_Garden) | 6,318 |
-| 2026-09-28 22:18:53 | [Hylaeus constrictiformis](https://en.wikipedia.org/wiki/Hylaeus_constrictiformis) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,246 |
-| 2026-09-28 22:19:14 | [Route One (disambiguation)](https://en.wikipedia.org/wiki/Route_One_%28disambiguation%29) | [Jnestorius](https://en.wikipedia.org/wiki/User:Jnestorius) | 555 |
+| 2026-09-28 22:22:06 | [Negus (treehopper)](https://en.wikipedia.org/wiki/Negus_%28treehopper%29) | [Johnmand](https://en.wikipedia.org/wiki/User:Johnmand) | 1,318 |
+| 2026-09-28 22:24:50 | [Categroty:Music created using generative AI](https://en.wikipedia.org/wiki/Categroty%3AMusic_created_using_generative_AI) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 135 |
+| 2026-09-28 22:26:09 | [Sakaemachi Street](https://en.wikipedia.org/wiki/Sakaemachi_Street) | [Seasider53](https://en.wikipedia.org/wiki/User:Seasider53) | 2,045 |
+| 2026-09-28 22:31:05 | [Clarembald of Broies](https://en.wikipedia.org/wiki/Clarembald_of_Broies) | [Surtsicna](https://en.wikipedia.org/wiki/User:Surtsicna) | 3,501 |
+| 2026-09-28 22:33:37 | [Paschal Lamb (Josefa de Óbidos)](https://en.wikipedia.org/wiki/Paschal_Lamb_%28Josefa_de_%C3%93bidos%29) | [Mistico Dois](https://en.wikipedia.org/wiki/User:Mistico_Dois) | 2,201 |
+| 2026-09-28 22:35:00 | [Deem Bristow (actor)](https://en.wikipedia.org/wiki/Deem_Bristow_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,296 |
+| 2026-09-28 22:40:52 | [Negus asper](https://en.wikipedia.org/wiki/Negus_asper) | [Johnmand](https://en.wikipedia.org/wiki/User:Johnmand) | 1,063 |
+| 2026-09-28 22:43:16 | [Negus newtoni](https://en.wikipedia.org/wiki/Negus_newtoni) | [Johnmand](https://en.wikipedia.org/wiki/User:Johnmand) | 1,089 |
+| 2026-09-28 22:45:38 | [Negus ornatus](https://en.wikipedia.org/wiki/Negus_ornatus) | [Johnmand](https://en.wikipedia.org/wiki/User:Johnmand) | 1,100 |
+| 2026-09-28 22:46:15 | [Iwatsurugi Castle](https://en.wikipedia.org/wiki/Iwatsurugi_Castle) | [Ishiura](https://en.wikipedia.org/wiki/User:Ishiura) | 4,618 |
+| 2026-09-28 22:46:19 | [AEW A Tribute to PAC](https://en.wikipedia.org/wiki/AEW_A_Tribute_to_PAC) | [Mechanical Elephant](https://en.wikipedia.org/wiki/User:Mechanical_Elephant) | 6,265 |
+| 2026-09-28 22:50:46 | [Negus tristis](https://en.wikipedia.org/wiki/Negus_tristis) | [Johnmand](https://en.wikipedia.org/wiki/User:Johnmand) | 1,154 |
+| 2026-09-28 22:52:09 | [Stefanie Rinderle-Ma](https://en.wikipedia.org/wiki/Stefanie_Rinderle-Ma) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 2,526 |
+| 2026-09-28 22:54:59 | [Rajon Henley](https://en.wikipedia.org/wiki/Rajon_Henley) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,776 |
+| 2026-09-28 22:55:32 | [Peer Carlsen](https://en.wikipedia.org/wiki/Peer_Carlsen) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 2,047 |
+| 2026-09-28 22:55:34 | [Negus truncaticornis](https://en.wikipedia.org/wiki/Negus_truncaticornis) | [Johnmand](https://en.wikipedia.org/wiki/User:Johnmand) | 1,164 |
+| 2026-09-28 22:57:42 | [Malu Schmidt](https://en.wikipedia.org/wiki/Malu_Schmidt) | [Schestos](https://en.wikipedia.org/wiki/User:Schestos) | 1,903 |
+| 2026-09-28 23:18:54 | [Fishers Island Ferry District](https://en.wikipedia.org/wiki/Fishers_Island_Ferry_District) | [Infrastorian](https://en.wikipedia.org/wiki/User:Infrastorian) | 7,774 |
