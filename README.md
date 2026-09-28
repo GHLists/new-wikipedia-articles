@@ -13,62 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-28 09:18 UTC](data/en/new-articles-2026-09-28T09-18-53Z.csv) | 30 |
-| Japanese | `ja` | [2026-09-28 09:18 UTC](data/ja/new-articles-2026-09-28T09-18-53Z.csv) | 10 |
-| Chinese | `zh` | [2026-09-28 09:18 UTC](data/zh/new-articles-2026-09-28T09-18-53Z.csv) | 6 |
-| French | `fr` | [2026-09-28 09:18 UTC](data/fr/new-articles-2026-09-28T09-18-53Z.csv) | 14 |
-| German | `de` | [2026-09-28 09:18 UTC](data/de/new-articles-2026-09-28T09-18-53Z.csv) | 7 |
-| Russian | `ru` | [2026-09-28 09:18 UTC](data/ru/new-articles-2026-09-28T09-18-53Z.csv) | 8 |
-| Spanish | `es` | [2026-09-28 09:18 UTC](data/es/new-articles-2026-09-28T09-18-53Z.csv) | 6 |
-| Italian | `it` | [2026-09-28 09:18 UTC](data/it/new-articles-2026-09-28T09-18-53Z.csv) | 9 |
-| Portuguese | `pt` | [2026-09-28 09:18 UTC](data/pt/new-articles-2026-09-28T09-18-53Z.csv) | 1 |
-| Polish | `pl` | [2026-09-28 09:18 UTC](data/pl/new-articles-2026-09-28T09-18-53Z.csv) | 7 |
-| Arabic | `ar` | [2026-09-28 09:18 UTC](data/ar/new-articles-2026-09-28T09-18-53Z.csv) | 4 |
-| Persian | `fa` | [2026-09-28 09:18 UTC](data/fa/new-articles-2026-09-28T09-18-53Z.csv) | 12 |
-| Turkish | `tr` | [2026-09-28 09:18 UTC](data/tr/new-articles-2026-09-28T09-18-53Z.csv) | 6 |
-| Hebrew | `he` | [2026-09-28 09:18 UTC](data/he/new-articles-2026-09-28T09-18-53Z.csv) | 2 |
-| Swedish | `sv` | [2026-09-28 09:18 UTC](data/sv/new-articles-2026-09-28T09-18-53Z.csv) | 6 |
-| Dutch | `nl` | [2026-09-28 09:18 UTC](data/nl/new-articles-2026-09-28T09-18-53Z.csv) | 5 |
-| Korean | `ko` | [2026-09-28 09:18 UTC](data/ko/new-articles-2026-09-28T09-18-53Z.csv) | 2 |
-| Indonesian | `id` | [2026-09-28 09:18 UTC](data/id/new-articles-2026-09-28T09-18-53Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-09-28 09:18 UTC](data/uk/new-articles-2026-09-28T09-18-53Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-09-28 09:18 UTC](data/vi/new-articles-2026-09-28T09-18-53Z.csv) | 2 |
+| English | `en` | [2026-09-28 10:18 UTC](data/en/new-articles-2026-09-28T10-18-53Z.csv) | 27 |
+| Japanese | `ja` | [2026-09-28 10:18 UTC](data/ja/new-articles-2026-09-28T10-18-53Z.csv) | 20 |
+| Chinese | `zh` | [2026-09-28 10:18 UTC](data/zh/new-articles-2026-09-28T10-18-53Z.csv) | 6 |
+| French | `fr` | [2026-09-28 10:18 UTC](data/fr/new-articles-2026-09-28T10-18-53Z.csv) | 15 |
+| German | `de` | [2026-09-28 10:18 UTC](data/de/new-articles-2026-09-28T10-18-53Z.csv) | 16 |
+| Russian | `ru` | [2026-09-28 10:18 UTC](data/ru/new-articles-2026-09-28T10-18-53Z.csv) | 15 |
+| Spanish | `es` | [2026-09-28 10:18 UTC](data/es/new-articles-2026-09-28T10-18-53Z.csv) | 7 |
+| Italian | `it` | [2026-09-28 10:18 UTC](data/it/new-articles-2026-09-28T10-18-53Z.csv) | 14 |
+| Portuguese | `pt` | [2026-09-28 10:18 UTC](data/pt/new-articles-2026-09-28T10-18-53Z.csv) | 3 |
+| Polish | `pl` | [2026-09-28 10:18 UTC](data/pl/new-articles-2026-09-28T10-18-53Z.csv) | 8 |
+| Arabic | `ar` | [2026-09-28 10:18 UTC](data/ar/new-articles-2026-09-28T10-18-53Z.csv) | 5 |
+| Persian | `fa` | [2026-09-28 10:18 UTC](data/fa/new-articles-2026-09-28T10-18-53Z.csv) | 12 |
+| Turkish | `tr` | [2026-09-28 10:18 UTC](data/tr/new-articles-2026-09-28T10-18-53Z.csv) | 8 |
+| Hebrew | `he` | [2026-09-28 10:18 UTC](data/he/new-articles-2026-09-28T10-18-53Z.csv) | 2 |
+| Swedish | `sv` | [2026-09-28 10:18 UTC](data/sv/new-articles-2026-09-28T10-18-53Z.csv) | 1 |
+| Dutch | `nl` | [2026-09-28 10:18 UTC](data/nl/new-articles-2026-09-28T10-18-53Z.csv) | 11 |
+| Korean | `ko` | [2026-09-28 10:18 UTC](data/ko/new-articles-2026-09-28T10-18-53Z.csv) | 2 |
+| Indonesian | `id` | [2026-09-28 10:18 UTC](data/id/new-articles-2026-09-28T10-18-53Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-09-28 10:18 UTC](data/uk/new-articles-2026-09-28T10-18-53Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-09-28 10:18 UTC](data/vi/new-articles-2026-09-28T10-18-53Z.csv) | 1 |
 
-## English (en) — 2026-09-28 09:18 UTC
+## English (en) — 2026-09-28 10:18 UTC
 
-New articles created between 2026-09-28 08:20 UTC and 2026-09-28 09:18 UTC.
+New articles created between 2026-09-28 09:18 UTC and 2026-09-28 10:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-28T09-18-53Z.csv)
+[Full CSV](data/en/new-articles-2026-09-28T10-18-53Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-28 08:20:50 | [Hylaeus infans](https://en.wikipedia.org/wiki/Hylaeus_infans) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,124 |
-| 2026-09-28 08:22:58 | [Ataenius elongatus](https://en.wikipedia.org/wiki/Ataenius_elongatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,036 |
-| 2026-09-28 08:23:08 | [Ginga no Uo Ursa Minor Blue](https://en.wikipedia.org/wiki/Ginga_no_Uo_Ursa_Minor_Blue) | [Piotrus](https://en.wikipedia.org/wiki/User:Piotrus) | 5,108 |
-| 2026-09-28 08:23:13 | [Bobebila](https://en.wikipedia.org/wiki/Bobebila) | [Maxvideos](https://en.wikipedia.org/wiki/User:Maxvideos) | 22,969 |
-| 2026-09-28 08:25:33 | [Ataenius raccurti](https://en.wikipedia.org/wiki/Ataenius_raccurti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,946 |
-| 2026-09-28 08:27:08 | [Ataenius michelii](https://en.wikipedia.org/wiki/Ataenius_michelii) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,903 |
-| 2026-09-28 08:29:59 | [Ataenius jardinensis](https://en.wikipedia.org/wiki/Ataenius_jardinensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,954 |
-| 2026-09-28 08:31:32 | [Belkaid](https://en.wikipedia.org/wiki/Belkaid) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 187 |
-| 2026-09-28 08:32:18 | [Ataenius klapperichi](https://en.wikipedia.org/wiki/Ataenius_klapperichi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,048 |
-| 2026-09-28 08:33:24 | [Bashir Baraki](https://en.wikipedia.org/wiki/Bashir_Baraki) | [Arthistorian1977](https://en.wikipedia.org/wiki/User:Arthistorian1977) | 6,287 |
-| 2026-09-28 08:34:41 | [Okazaki Municipal Baseball Stadium](https://en.wikipedia.org/wiki/Okazaki_Municipal_Baseball_Stadium) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 2,691 |
-| 2026-09-28 08:47:58 | [Soledad Valdecantos](https://en.wikipedia.org/wiki/Soledad_Valdecantos) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-09-28 08:49:05 | [Toyohashi Municipal Baseball Stadium](https://en.wikipedia.org/wiki/Toyohashi_Municipal_Baseball_Stadium) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 2,150 |
-| 2026-09-28 08:49:40 | [Ulrich von Wolfenschiessen (fl. 1334–1373)](https://en.wikipedia.org/wiki/Ulrich_von_Wolfenschiessen_%28fl._1334%E2%80%931373%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 1,898 |
-| 2026-09-28 08:50:03 | [Wilhelm von Wolfenschiessen](https://en.wikipedia.org/wiki/Wilhelm_von_Wolfenschiessen) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,749 |
-| 2026-09-28 08:50:17 | [Ulrich von Wolfenschiessen (fl. 1398–1402)](https://en.wikipedia.org/wiki/Ulrich_von_Wolfenschiessen_%28fl._1398%E2%80%931402%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,551 |
-| 2026-09-28 08:50:25 | [Ulrich von Wolfenschiessen](https://en.wikipedia.org/wiki/Ulrich_von_Wolfenschiessen) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 318 |
-| 2026-09-28 08:53:29 | [Josef Ignaz von Ah](https://en.wikipedia.org/wiki/Josef_Ignaz_von_Ah) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,409 |
-| 2026-09-28 08:54:21 | [Mutach family](https://en.wikipedia.org/wiki/Mutach_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,642 |
-| 2026-09-28 08:54:47 | [Samuel Mutach](https://en.wikipedia.org/wiki/Samuel_Mutach) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,782 |
-| 2026-09-28 08:55:10 | [Abraham Friedrich von Mutach](https://en.wikipedia.org/wiki/Abraham_Friedrich_von_Mutach) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 5,063 |
-| 2026-09-28 08:55:57 | [Cenheard](https://en.wikipedia.org/wiki/Cenheard) | [Claudius Deirus](https://en.wikipedia.org/wiki/User:Claudius_Deirus) | 644 |
-| 2026-09-28 08:58:17 | [Gerhard Löwen](https://en.wikipedia.org/wiki/Gerhard_L%C3%B6wen) | [Saftgurka](https://en.wikipedia.org/wiki/User:Saftgurka) | 12,498 |
-| 2026-09-28 08:58:54 | [Washington Treaty on Intellectual Property in Respect of Integrated Circuits](https://en.wikipedia.org/wiki/Washington_Treaty_on_Intellectual_Property_in_Respect_of_Integrated_Circuits) | [Mervat](https://en.wikipedia.org/wiki/User:Mervat) | 578 |
-| 2026-09-28 09:05:28 | [Ataenius balthasari](https://en.wikipedia.org/wiki/Ataenius_balthasari) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,211 |
-| 2026-09-28 09:06:57 | [David Prötzel](https://en.wikipedia.org/wiki/David_Pr%C3%B6tzel) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-09-28 09:09:07 | [Ataenius scabrellus](https://en.wikipedia.org/wiki/Ataenius_scabrellus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,375 |
-| 2026-09-28 09:10:09 | [Rajiyasar railway station](https://en.wikipedia.org/wiki/Rajiyasar_railway_station) | [Pinakpani](https://en.wikipedia.org/wiki/User:Pinakpani) | 1,971 |
-| 2026-09-28 09:13:56 | [Hoot Mon](https://en.wikipedia.org/wiki/Hoot_Mon) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 8,701 |
-| 2026-09-28 09:17:23 | [It's A Wonderful Life (play)](https://en.wikipedia.org/wiki/It%27s_A_Wonderful_Life_%28play%29) | [HesioneHushabye](https://en.wikipedia.org/wiki/User:HesioneHushabye) | 3,939 |
+| 2026-09-28 09:21:53 | [Ataenius scabrelloides](https://en.wikipedia.org/wiki/Ataenius_scabrelloides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,488 |
+| 2026-09-28 09:23:46 | [1978–79 Preston North End F.C. season](https://en.wikipedia.org/wiki/1978%E2%80%9379_Preston_North_End_F.C._season) | [CptGrez](https://en.wikipedia.org/wiki/User:CptGrez) | 14,070 |
+| 2026-09-28 09:25:37 | [VoteSafe (disambiguation)](https://en.wikipedia.org/wiki/VoteSafe_%28disambiguation%29) | [Ybllaw](https://en.wikipedia.org/wiki/User:Ybllaw) | 296 |
+| 2026-09-28 09:28:34 | [Dante Colle](https://en.wikipedia.org/wiki/Dante_Colle) | [Arkavirya](https://en.wikipedia.org/wiki/User:Arkavirya) | 8,267 |
+| 2026-09-28 09:28:59 | [Listed buildings in Wawne](https://en.wikipedia.org/wiki/Listed_buildings_in_Wawne) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 9,903 |
+| 2026-09-28 09:29:00 | [Paul Mougenot](https://en.wikipedia.org/wiki/Paul_Mougenot) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,710 |
+| 2026-09-28 09:29:28 | [Neeru Pathak](https://en.wikipedia.org/wiki/Neeru_Pathak) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 3,285 |
+| 2026-09-28 09:30:37 | [David R. Vieites](https://en.wikipedia.org/wiki/David_R._Vieites) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-09-28 09:35:31 | [Diving at the 2026 Asian Games – Men's 1 metre springboard](https://en.wikipedia.org/wiki/Diving_at_the_2026_Asian_Games_%E2%80%93_Men%27s_1_metre_springboard) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 4,507 |
+| 2026-09-28 09:35:59 | [Zengo (surname)](https://en.wikipedia.org/wiki/Zengo_%28surname%29) | [Materialscientist](https://en.wikipedia.org/wiki/User:Materialscientist) | 392 |
+| 2026-09-28 09:37:18 | [Kill. Bury. Print.](https://en.wikipedia.org/wiki/Kill._Bury._Print.) | [Rich Farmbrough](https://en.wikipedia.org/wiki/User:Rich_Farmbrough) | 188 |
+| 2026-09-28 09:41:19 | [Akhenaten and the Religion of Light](https://en.wikipedia.org/wiki/Akhenaten_and_the_Religion_of_Light) | [Deborah.artemis](https://en.wikipedia.org/wiki/User:Deborah.artemis) | 355 |
+| 2026-09-28 09:42:08 | [Joint Development Bank](https://en.wikipedia.org/wiki/Joint_Development_Bank) | [Stableview](https://en.wikipedia.org/wiki/User:Stableview) | 2,360 |
+| 2026-09-28 09:46:52 | [Riunione Adriatica di Sicurtà](https://en.wikipedia.org/wiki/Riunione_Adriatica_di_Sicurt%C3%A0) | [Thisispinkfloyd](https://en.wikipedia.org/wiki/User:Thisispinkfloyd) | 4,843 |
+| 2026-09-28 09:49:02 | [Sneha Gowda](https://en.wikipedia.org/wiki/Sneha_Gowda) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,304 |
+| 2026-09-28 09:53:25 | [Ataenius holopubescens](https://en.wikipedia.org/wiki/Ataenius_holopubescens) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,201 |
+| 2026-09-28 09:53:38 | [Kien Connolly](https://en.wikipedia.org/wiki/Kien_Connolly) | [Sam11333](https://en.wikipedia.org/wiki/User:Sam11333) | 7,425 |
+| 2026-09-28 09:58:14 | [Sautela Bhai (1962 film)](https://en.wikipedia.org/wiki/Sautela_Bhai_%281962_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,390 |
+| 2026-09-28 09:59:32 | [Songs in the Key of Wrestling](https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Wrestling) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 5,680 |
+| 2026-09-28 10:01:37 | [Rudolf von May](https://en.wikipedia.org/wiki/Rudolf_von_May) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-09-28 10:04:27 | [Ranavilaspalace](https://en.wikipedia.org/wiki/Ranavilaspalace) | [Manojcsl](https://en.wikipedia.org/wiki/User:Manojcsl) | 5,965 |
+| 2026-09-28 10:05:22 | [Luis Mamani](https://en.wikipedia.org/wiki/Luis_Mamani) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-09-28 10:07:28 | [Mandebvu Agness Chatipwa](https://en.wikipedia.org/wiki/Mandebvu_Agness_Chatipwa) | [Pearl Squarepants](https://en.wikipedia.org/wiki/User:Pearl_Squarepants) | 809 |
+| 2026-09-28 10:11:46 | [Ataenius tuberculatus](https://en.wikipedia.org/wiki/Ataenius_tuberculatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,152 |
+| 2026-09-28 10:13:24 | [Athletics at the 2026 Asian Games – Women's Discus throw](https://en.wikipedia.org/wiki/Athletics_at_the_2026_Asian_Games_%E2%80%93_Women%27s_Discus_throw) | [Magentic Manifestations](https://en.wikipedia.org/wiki/User:Magentic_Manifestations) | 4,274 |
+| 2026-09-28 10:14:47 | [Park Jun-soon](https://en.wikipedia.org/wiki/Park_Jun-soon) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 2,915 |
+| 2026-09-28 10:16:01 | [Erodium crinitum](https://en.wikipedia.org/wiki/Erodium_crinitum) | [Ethmostigmus](https://en.wikipedia.org/wiki/User:Ethmostigmus) | 4,978 |
