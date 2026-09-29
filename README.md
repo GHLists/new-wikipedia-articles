@@ -13,56 +13,68 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-29 18:19 UTC](data/en/new-articles-2026-09-29T18-19-45Z.csv) | 24 |
-| Japanese | `ja` | [2026-09-29 18:19 UTC](data/ja/new-articles-2026-09-29T18-19-45Z.csv) | 3 |
-| Chinese | `zh` | [2026-09-29 18:19 UTC](data/zh/new-articles-2026-09-29T18-19-45Z.csv) | 4 |
-| French | `fr` | [2026-09-29 18:19 UTC](data/fr/new-articles-2026-09-29T18-19-45Z.csv) | 11 |
-| German | `de` | [2026-09-29 18:19 UTC](data/de/new-articles-2026-09-29T18-19-45Z.csv) | 10 |
-| Russian | `ru` | [2026-09-29 18:19 UTC](data/ru/new-articles-2026-09-29T18-19-45Z.csv) | 12 |
-| Spanish | `es` | [2026-09-29 18:19 UTC](data/es/new-articles-2026-09-29T18-19-45Z.csv) | 12 |
-| Italian | `it` | [2026-09-29 18:19 UTC](data/it/new-articles-2026-09-29T18-19-45Z.csv) | 4 |
-| Portuguese | `pt` | [2026-09-29 18:19 UTC](data/pt/new-articles-2026-09-29T18-19-45Z.csv) | 14 |
-| Polish | `pl` | [2026-09-29 18:19 UTC](data/pl/new-articles-2026-09-29T18-19-45Z.csv) | 7 |
-| Arabic | `ar` | [2026-09-29 18:19 UTC](data/ar/new-articles-2026-09-29T18-19-45Z.csv) | 7 |
-| Persian | `fa` | [2026-09-29 18:19 UTC](data/fa/new-articles-2026-09-29T18-19-45Z.csv) | 9 |
-| Turkish | `tr` | [2026-09-29 18:19 UTC](data/tr/new-articles-2026-09-29T18-19-45Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-29 18:19 UTC](data/he/new-articles-2026-09-29T18-19-45Z.csv) | 5 |
-| Swedish | `sv` | [2026-09-29 18:19 UTC](data/sv/new-articles-2026-09-29T18-19-45Z.csv) | 9 |
-| Dutch | `nl` | [2026-09-29 18:19 UTC](data/nl/new-articles-2026-09-29T18-19-45Z.csv) | 8 |
+| English | `en` | [2026-09-29 19:19 UTC](data/en/new-articles-2026-09-29T19-19-44Z.csv) | 36 |
+| Japanese | `ja` | [2026-09-29 19:19 UTC](data/ja/new-articles-2026-09-29T19-19-44Z.csv) | 2 |
+| Chinese | `zh` | [2026-09-29 19:19 UTC](data/zh/new-articles-2026-09-29T19-19-44Z.csv) | 7 |
+| French | `fr` | [2026-09-29 19:19 UTC](data/fr/new-articles-2026-09-29T19-19-44Z.csv) | 10 |
+| German | `de` | [2026-09-29 19:19 UTC](data/de/new-articles-2026-09-29T19-19-44Z.csv) | 13 |
+| Russian | `ru` | [2026-09-29 19:19 UTC](data/ru/new-articles-2026-09-29T19-19-44Z.csv) | 11 |
+| Spanish | `es` | [2026-09-29 19:19 UTC](data/es/new-articles-2026-09-29T19-19-44Z.csv) | 28 |
+| Italian | `it` | [2026-09-29 19:19 UTC](data/it/new-articles-2026-09-29T19-19-44Z.csv) | 9 |
+| Portuguese | `pt` | [2026-09-29 19:19 UTC](data/pt/new-articles-2026-09-29T19-19-44Z.csv) | 10 |
+| Polish | `pl` | [2026-09-29 19:19 UTC](data/pl/new-articles-2026-09-29T19-19-44Z.csv) | 5 |
+| Arabic | `ar` | [2026-09-29 19:19 UTC](data/ar/new-articles-2026-09-29T19-19-44Z.csv) | 7 |
+| Persian | `fa` | [2026-09-29 19:19 UTC](data/fa/new-articles-2026-09-29T19-19-44Z.csv) | 10 |
+| Turkish | `tr` | [2026-09-29 19:19 UTC](data/tr/new-articles-2026-09-29T19-19-44Z.csv) | 10 |
+| Hebrew | `he` | [2026-09-29 19:19 UTC](data/he/new-articles-2026-09-29T19-19-44Z.csv) | 4 |
+| Swedish | `sv` | [2026-09-29 19:19 UTC](data/sv/new-articles-2026-09-29T19-19-44Z.csv) | 15 |
+| Dutch | `nl` | [2026-09-29 19:19 UTC](data/nl/new-articles-2026-09-29T19-19-44Z.csv) | 3 |
 | Korean | `ko` | [2026-09-29 17:23 UTC](data/ko/new-articles-2026-09-29T17-23-12Z.csv) | 1 |
-| Indonesian | `id` | [2026-09-29 18:19 UTC](data/id/new-articles-2026-09-29T18-19-45Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-09-29 18:19 UTC](data/uk/new-articles-2026-09-29T18-19-45Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-09-29 18:19 UTC](data/vi/new-articles-2026-09-29T18-19-45Z.csv) | 1 |
+| Indonesian | `id` | [2026-09-29 19:19 UTC](data/id/new-articles-2026-09-29T19-19-44Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-09-29 19:19 UTC](data/uk/new-articles-2026-09-29T19-19-44Z.csv) | 14 |
+| Vietnamese | `vi` | [2026-09-29 19:19 UTC](data/vi/new-articles-2026-09-29T19-19-44Z.csv) | 3 |
 
-## English (en) — 2026-09-29 18:19 UTC
+## English (en) — 2026-09-29 19:19 UTC
 
-New articles created between 2026-09-29 17:23 UTC and 2026-09-29 18:19 UTC.
+New articles created between 2026-09-29 18:19 UTC and 2026-09-29 19:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-29T18-19-45Z.csv)
+[Full CSV](data/en/new-articles-2026-09-29T19-19-44Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-29 17:25:34 | [2002–03 FIS Snowboard World Cup](https://en.wikipedia.org/wiki/2002%E2%80%9303_FIS_Snowboard_World_Cup) | [Oberhof](https://en.wikipedia.org/wiki/User:Oberhof) | 13,377 |
-| 2026-09-29 17:26:30 | [Holding My Own (Peter Skellern album)](https://en.wikipedia.org/wiki/Holding_My_Own_%28Peter_Skellern_album%29) | [TangoTizerWolfstone](https://en.wikipedia.org/wiki/User:TangoTizerWolfstone) | 16,322 |
-| 2026-09-29 17:34:20 | [Trade unions in Kenya](https://en.wikipedia.org/wiki/Trade_unions_in_Kenya) | [Kimemia Maina](https://en.wikipedia.org/wiki/User:Kimemia_Maina) | 3,482 |
-| 2026-09-29 17:36:29 | [I Always Sometimes](https://en.wikipedia.org/wiki/I_Always_Sometimes) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 5,327 |
-| 2026-09-29 17:41:49 | [Krishnaram](https://en.wikipedia.org/wiki/Krishnaram) | [Sntshkumar750](https://en.wikipedia.org/wiki/User:Sntshkumar750) | 3,122 |
-| 2026-09-29 17:43:19 | [Asian Esports & Mind Sports Games](https://en.wikipedia.org/wiki/Asian_Esports_%26_Mind_Sports_Games) | [WikiEdits2003](https://en.wikipedia.org/wiki/User:WikiEdits2003) | 3,062 |
-| 2026-09-29 17:44:44 | [The Eleanor Association](https://en.wikipedia.org/wiki/The_Eleanor_Association) | [Penny Richards](https://en.wikipedia.org/wiki/User:Penny_Richards) | 6,697 |
-| 2026-09-29 17:45:29 | [06:29](https://en.wikipedia.org/wiki/06%3A29) | [Axinoo](https://en.wikipedia.org/wiki/User:Axinoo) | 4,317 |
-| 2026-09-29 17:46:37 | [Summer of 1985](https://en.wikipedia.org/wiki/Summer_of_1985) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 3,908 |
-| 2026-09-29 17:51:16 | [Natural region (Israel)](https://en.wikipedia.org/wiki/Natural_region_%28Israel%29) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 14,286 |
-| 2026-09-29 17:52:12 | [You Deserve a Tech Union](https://en.wikipedia.org/wiki/You_Deserve_a_Tech_Union) | [Jessamyn](https://en.wikipedia.org/wiki/User:Jessamyn) | 2,971 |
-| 2026-09-29 17:52:22 | [2026 Spanish housing protests](https://en.wikipedia.org/wiki/2026_Spanish_housing_protests) | [Impru20](https://en.wikipedia.org/wiki/User:Impru20) | 5,185 |
-| 2026-09-29 17:52:28 | [Alexandra Olivia](https://en.wikipedia.org/wiki/Alexandra_Olivia) | [Germannaford](https://en.wikipedia.org/wiki/User:Germannaford) | 56 |
-| 2026-09-29 17:52:56 | [2025–26 Le Mans FC season](https://en.wikipedia.org/wiki/2025%E2%80%9326_Le_Mans_FC_season) | [CottonTraders](https://en.wikipedia.org/wiki/User:CottonTraders) | 7,355 |
-| 2026-09-29 17:53:20 | [Hedlundia gauckleri](https://en.wikipedia.org/wiki/Hedlundia_gauckleri) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 6,386 |
-| 2026-09-29 17:54:44 | [Guts (Finnish TV series)](https://en.wikipedia.org/wiki/Guts_%28Finnish_TV_series%29) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 4,271 |
-| 2026-09-29 17:57:28 | [Neel Sukh](https://en.wikipedia.org/wiki/Neel_Sukh) | [Aqsis Bey](https://en.wikipedia.org/wiki/User:Aqsis_Bey) | 4,919 |
-| 2026-09-29 17:57:46 | [Kayonte George](https://en.wikipedia.org/wiki/Kayonte_George) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 3,010 |
-| 2026-09-29 18:00:42 | [The Deal with Iran](https://en.wikipedia.org/wiki/The_Deal_with_Iran) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 2,983 |
-| 2026-09-29 18:04:06 | [Zehender family](https://en.wikipedia.org/wiki/Zehender_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,406 |
-| 2026-09-29 18:04:50 | [All Shapes of Us](https://en.wikipedia.org/wiki/All_Shapes_of_Us) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 2,838 |
-| 2026-09-29 18:08:02 | [Alain Gilles (designer)](https://en.wikipedia.org/wiki/Alain_Gilles_%28designer%29) | [Bifmark](https://en.wikipedia.org/wiki/User:Bifmark) | 12,004 |
-| 2026-09-29 18:13:53 | [Yanira Merino](https://en.wikipedia.org/wiki/Yanira_Merino) | [Rosariolibrarian](https://en.wikipedia.org/wiki/User:Rosariolibrarian) | 1,202 |
-| 2026-09-29 18:17:36 | [Megna Mukherjee](https://en.wikipedia.org/wiki/Megna_Mukherjee) | [Official06](https://en.wikipedia.org/wiki/User:Official06) | 5,719 |
+| 2026-09-29 18:28:13 | [Ronald Ramírez Molina](https://en.wikipedia.org/wiki/Ronald_Ram%C3%ADrez_Molina) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,760 |
+| 2026-09-29 18:29:27 | [The Influencer Project](https://en.wikipedia.org/wiki/The_Influencer_Project) | [Abskiee](https://en.wikipedia.org/wiki/User:Abskiee) | 2,652 |
+| 2026-09-29 18:29:58 | [Airway Adjunct](https://en.wikipedia.org/wiki/Airway_Adjunct) | [Hoofer31](https://en.wikipedia.org/wiki/User:Hoofer31) | 3,025 |
+| 2026-09-29 18:31:24 | [Ìjálá (poetry)](https://en.wikipedia.org/wiki/%C3%8Cj%C3%A1l%C3%A1_%28poetry%29) | [Suriname0](https://en.wikipedia.org/wiki/User:Suriname0) | 4,328 |
+| 2026-09-29 18:33:40 | [List of programs broadcast by Tooncast](https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Tooncast) | [Walter Naval](https://en.wikipedia.org/wiki/User:Walter_Naval) | 5,459 |
+| 2026-09-29 18:35:51 | [Mamed](https://en.wikipedia.org/wiki/Mamed) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 461 |
+| 2026-09-29 18:44:02 | [Taccetta](https://en.wikipedia.org/wiki/Taccetta) | [Oupals](https://en.wikipedia.org/wiki/User:Oupals) | 375 |
+| 2026-09-29 18:45:54 | [Mammed](https://en.wikipedia.org/wiki/Mammed) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 315 |
+| 2026-09-29 18:46:03 | [Gastrotheca dysprosita](https://en.wikipedia.org/wiki/Gastrotheca_dysprosita) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 2,843 |
+| 2026-09-29 18:46:08 | [Sidney Paris](https://en.wikipedia.org/wiki/Sidney_Paris) | [RedPatch](https://en.wikipedia.org/wiki/User:RedPatch) | 8,296 |
+| 2026-09-29 18:46:36 | [Auburn Township, Kansas](https://en.wikipedia.org/wiki/Auburn_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,328 |
+| 2026-09-29 18:47:32 | [Arturo Queirolo](https://en.wikipedia.org/wiki/Arturo_Queirolo) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,969 |
+| 2026-09-29 18:51:19 | [Vinylgroover](https://en.wikipedia.org/wiki/Vinylgroover) | [ResonantDistortion](https://en.wikipedia.org/wiki/User:ResonantDistortion) | 5,035 |
+| 2026-09-29 18:51:42 | [The Artist's Father, Reading L'Événement (Cézanne)](https://en.wikipedia.org/wiki/The_Artist%27s_Father%2C_Reading_L%27%C3%89v%C3%A9nement_%28C%C3%A9zanne%29) | [Svanesaang](https://en.wikipedia.org/wiki/User:Svanesaang) | 586 |
+| 2026-09-29 18:51:53 | [Jorge Ardiles](https://en.wikipedia.org/wiki/Jorge_Ardiles) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,386 |
+| 2026-09-29 18:55:37 | [Marquard Zehender (politician, born 1542)](https://en.wikipedia.org/wiki/Marquard_Zehender_%28politician%2C_born_1542%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,026 |
+| 2026-09-29 18:55:51 | [Marquard Zehender (politician, born 1581)](https://en.wikipedia.org/wiki/Marquard_Zehender_%28politician%2C_born_1581%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,667 |
+| 2026-09-29 18:55:59 | [Marquard Zehender](https://en.wikipedia.org/wiki/Marquard_Zehender) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 375 |
+| 2026-09-29 18:56:25 | [Şahzadbek Matýakubow](https://en.wikipedia.org/wiki/%C5%9Eahzadbek_Mat%C3%BDakubow) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 2,375 |
+| 2026-09-29 18:57:23 | [Noah Marbach](https://en.wikipedia.org/wiki/Noah_Marbach) | [Lagusaama](https://en.wikipedia.org/wiki/User:Lagusaama) | 3,380 |
+| 2026-09-29 18:57:41 | [Manuel Concha Pedregal](https://en.wikipedia.org/wiki/Manuel_Concha_Pedregal) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 5,182 |
+| 2026-09-29 18:58:41 | [Canoeing at the 2026 Asian Games – Men's K-1 500 metres](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_K-1_500_metres) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 6,181 |
+| 2026-09-29 19:00:01 | [Happy Jack (TV series)](https://en.wikipedia.org/wiki/Happy_Jack_%28TV_series%29) | [Movieking134](https://en.wikipedia.org/wiki/User:Movieking134) | 2,773 |
+| 2026-09-29 19:01:24 | [Pedro Silva Calderón](https://en.wikipedia.org/wiki/Pedro_Silva_Calder%C3%B3n) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,018 |
+| 2026-09-29 19:02:21 | [Manuel Cota](https://en.wikipedia.org/wiki/Manuel_Cota) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 262 |
+| 2026-09-29 19:05:46 | [Humberto Arriagada](https://en.wikipedia.org/wiki/Humberto_Arriagada) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 5,830 |
+| 2026-09-29 19:10:24 | [Crocidura australis](https://en.wikipedia.org/wiki/Crocidura_australis) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 694 |
+| 2026-09-29 19:10:55 | [Lokopakara](https://en.wikipedia.org/wiki/Lokopakara) | [Paramamithra](https://en.wikipedia.org/wiki/User:Paramamithra) | 2,323 |
+| 2026-09-29 19:12:02 | [Oscar Reeves](https://en.wikipedia.org/wiki/Oscar_Reeves) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,798 |
+| 2026-09-29 19:12:52 | [Ethiopian water work](https://en.wikipedia.org/wiki/Ethiopian_water_work) | [Arifly kaio7](https://en.wikipedia.org/wiki/User:Arifly_kaio7) | 1,033 |
+| 2026-09-29 19:13:57 | [Siege of Kala Koreysh](https://en.wikipedia.org/wiki/Siege_of_Kala_Koreysh) | [X.CelestialSapien](https://en.wikipedia.org/wiki/User:X.CelestialSapien) | 5,215 |
+| 2026-09-29 19:15:38 | [Crocidura pallida](https://en.wikipedia.org/wiki/Crocidura_pallida) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 908 |
+| 2026-09-29 19:16:14 | [Humberto Meneses Madrid](https://en.wikipedia.org/wiki/Humberto_Meneses_Madrid) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,677 |
+| 2026-09-29 19:16:14 | [Torulisquama](https://en.wikipedia.org/wiki/Torulisquama) | [Lindenlore](https://en.wikipedia.org/wiki/User:Lindenlore) | 1,065 |
+| 2026-09-29 19:16:42 | [HD 98088](https://en.wikipedia.org/wiki/HD_98088) | [Praemonitus](https://en.wikipedia.org/wiki/User:Praemonitus) | 11,022 |
+| 2026-09-29 19:18:00 | [Crocidura pseudorhoditis](https://en.wikipedia.org/wiki/Crocidura_pseudorhoditis) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 974 |
