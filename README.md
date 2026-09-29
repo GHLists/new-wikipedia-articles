@@ -13,56 +13,63 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-29 12:19 UTC](data/en/new-articles-2026-09-29T12-19-17Z.csv) | 24 |
-| Japanese | `ja` | [2026-09-29 12:19 UTC](data/ja/new-articles-2026-09-29T12-19-17Z.csv) | 7 |
-| Chinese | `zh` | [2026-09-29 12:19 UTC](data/zh/new-articles-2026-09-29T12-19-17Z.csv) | 6 |
-| French | `fr` | [2026-09-29 12:19 UTC](data/fr/new-articles-2026-09-29T12-19-17Z.csv) | 6 |
-| German | `de` | [2026-09-29 12:19 UTC](data/de/new-articles-2026-09-29T12-19-17Z.csv) | 6 |
-| Russian | `ru` | [2026-09-29 12:19 UTC](data/ru/new-articles-2026-09-29T12-19-17Z.csv) | 9 |
-| Spanish | `es` | [2026-09-29 12:19 UTC](data/es/new-articles-2026-09-29T12-19-17Z.csv) | 5 |
-| Italian | `it` | [2026-09-29 12:19 UTC](data/it/new-articles-2026-09-29T12-19-17Z.csv) | 6 |
-| Portuguese | `pt` | [2026-09-29 12:19 UTC](data/pt/new-articles-2026-09-29T12-19-17Z.csv) | 3 |
-| Polish | `pl` | [2026-09-29 12:19 UTC](data/pl/new-articles-2026-09-29T12-19-17Z.csv) | 5 |
-| Arabic | `ar` | [2026-09-29 12:19 UTC](data/ar/new-articles-2026-09-29T12-19-17Z.csv) | 7 |
-| Persian | `fa` | [2026-09-29 12:19 UTC](data/fa/new-articles-2026-09-29T12-19-17Z.csv) | 9 |
-| Turkish | `tr` | [2026-09-29 12:19 UTC](data/tr/new-articles-2026-09-29T12-19-17Z.csv) | 4 |
-| Hebrew | `he` | [2026-09-29 12:19 UTC](data/he/new-articles-2026-09-29T12-19-17Z.csv) | 1 |
-| Swedish | `sv` | [2026-09-29 12:19 UTC](data/sv/new-articles-2026-09-29T12-19-17Z.csv) | 2 |
-| Dutch | `nl` | [2026-09-29 12:19 UTC](data/nl/new-articles-2026-09-29T12-19-17Z.csv) | 3 |
-| Korean | `ko` | [2026-09-29 12:19 UTC](data/ko/new-articles-2026-09-29T12-19-17Z.csv) | 11 |
-| Indonesian | `id` | [2026-09-29 12:19 UTC](data/id/new-articles-2026-09-29T12-19-17Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-09-29 12:19 UTC](data/uk/new-articles-2026-09-29T12-19-17Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-09-29 12:19 UTC](data/vi/new-articles-2026-09-29T12-19-17Z.csv) | 1 |
+| English | `en` | [2026-09-29 13:20 UTC](data/en/new-articles-2026-09-29T13-20-31Z.csv) | 31 |
+| Japanese | `ja` | [2026-09-29 13:20 UTC](data/ja/new-articles-2026-09-29T13-20-31Z.csv) | 6 |
+| Chinese | `zh` | [2026-09-29 13:20 UTC](data/zh/new-articles-2026-09-29T13-20-31Z.csv) | 6 |
+| French | `fr` | [2026-09-29 13:20 UTC](data/fr/new-articles-2026-09-29T13-20-31Z.csv) | 13 |
+| German | `de` | [2026-09-29 13:20 UTC](data/de/new-articles-2026-09-29T13-20-31Z.csv) | 17 |
+| Russian | `ru` | [2026-09-29 13:20 UTC](data/ru/new-articles-2026-09-29T13-20-31Z.csv) | 10 |
+| Spanish | `es` | [2026-09-29 13:20 UTC](data/es/new-articles-2026-09-29T13-20-31Z.csv) | 6 |
+| Italian | `it` | [2026-09-29 13:20 UTC](data/it/new-articles-2026-09-29T13-20-31Z.csv) | 11 |
+| Portuguese | `pt` | [2026-09-29 13:20 UTC](data/pt/new-articles-2026-09-29T13-20-31Z.csv) | 5 |
+| Polish | `pl` | [2026-09-29 13:20 UTC](data/pl/new-articles-2026-09-29T13-20-31Z.csv) | 5 |
+| Arabic | `ar` | [2026-09-29 13:20 UTC](data/ar/new-articles-2026-09-29T13-20-31Z.csv) | 7 |
+| Persian | `fa` | [2026-09-29 13:20 UTC](data/fa/new-articles-2026-09-29T13-20-31Z.csv) | 2 |
+| Turkish | `tr` | [2026-09-29 13:20 UTC](data/tr/new-articles-2026-09-29T13-20-31Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-29 13:20 UTC](data/he/new-articles-2026-09-29T13-20-31Z.csv) | 2 |
+| Swedish | `sv` | [2026-09-29 13:20 UTC](data/sv/new-articles-2026-09-29T13-20-31Z.csv) | 2 |
+| Dutch | `nl` | [2026-09-29 13:20 UTC](data/nl/new-articles-2026-09-29T13-20-31Z.csv) | 4 |
+| Korean | `ko` | [2026-09-29 13:20 UTC](data/ko/new-articles-2026-09-29T13-20-31Z.csv) | 8 |
+| Indonesian | `id` | [2026-09-29 13:20 UTC](data/id/new-articles-2026-09-29T13-20-31Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-09-29 13:20 UTC](data/uk/new-articles-2026-09-29T13-20-31Z.csv) | 9 |
+| Vietnamese | `vi` | [2026-09-29 13:20 UTC](data/vi/new-articles-2026-09-29T13-20-31Z.csv) | 2 |
 
-## English (en) — 2026-09-29 12:19 UTC
+## English (en) — 2026-09-29 13:20 UTC
 
-New articles created between 2026-09-29 11:19 UTC and 2026-09-29 12:19 UTC.
+New articles created between 2026-09-29 12:19 UTC and 2026-09-29 13:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-29T12-19-17Z.csv)
+[Full CSV](data/en/new-articles-2026-09-29T13-20-31Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-29 11:20:10 | [Odontolochus raffrayi](https://en.wikipedia.org/wiki/Odontolochus_raffrayi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,095 |
-| 2026-09-29 11:22:55 | [Odontolochus basilewskyi](https://en.wikipedia.org/wiki/Odontolochus_basilewskyi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,804 |
-| 2026-09-29 11:24:32 | [Ali Khan (footballer)](https://en.wikipedia.org/wiki/Ali_Khan_%28footballer%29) | [JayFT047](https://en.wikipedia.org/wiki/User:JayFT047) | 9,028 |
-| 2026-09-29 11:26:07 | [Odontolochus spinicollis](https://en.wikipedia.org/wiki/Odontolochus_spinicollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,062 |
-| 2026-09-29 11:28:38 | [Júlia Calvet](https://en.wikipedia.org/wiki/J%C3%BAlia_Calvet) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,049 |
-| 2026-09-29 11:30:39 | [Odontolochus paucus](https://en.wikipedia.org/wiki/Odontolochus_paucus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,819 |
-| 2026-09-29 11:31:53 | [List of international trips made by Christian Stocker](https://en.wikipedia.org/wiki/List_of_international_trips_made_by_Christian_Stocker) | [The Sergei](https://en.wikipedia.org/wiki/User:The_Sergei) | 6,944 |
-| 2026-09-29 11:32:42 | [Funding unit](https://en.wikipedia.org/wiki/Funding_unit) | [David O. Johnson](https://en.wikipedia.org/wiki/User:David_O._Johnson) | 2,416 |
-| 2026-09-29 11:35:56 | [Odontolochus oberthuri](https://en.wikipedia.org/wiki/Odontolochus_oberthuri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,080 |
-| 2026-09-29 11:38:43 | [Odontolochus costatus](https://en.wikipedia.org/wiki/Odontolochus_costatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,792 |
-| 2026-09-29 11:41:27 | [2027 Dover District Council election](https://en.wikipedia.org/wiki/2027_Dover_District_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 6,289 |
-| 2026-09-29 11:43:20 | [Odontolochus gestroi](https://en.wikipedia.org/wiki/Odontolochus_gestroi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,955 |
-| 2026-09-29 11:46:19 | [Nerre Nerre Warren](https://en.wikipedia.org/wiki/Nerre_Nerre_Warren) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 14,293 |
-| 2026-09-29 11:46:55 | [Odontolochus burgeoni](https://en.wikipedia.org/wiki/Odontolochus_burgeoni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,860 |
-| 2026-09-29 11:50:28 | [Tamanna Dhankheri](https://en.wikipedia.org/wiki/Tamanna_Dhankheri) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,518 |
-| 2026-09-29 11:54:20 | [Odontolochus setulosus](https://en.wikipedia.org/wiki/Odontolochus_setulosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,834 |
-| 2026-09-29 11:56:14 | [Odontolochus ferenczi](https://en.wikipedia.org/wiki/Odontolochus_ferenczi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,753 |
-| 2026-09-29 11:56:17 | [Sylvain Bellenger](https://en.wikipedia.org/wiki/Sylvain_Bellenger) | [Blupinta10](https://en.wikipedia.org/wiki/User:Blupinta10) | 7,999 |
-| 2026-09-29 11:57:51 | [Odontolochus villiersi](https://en.wikipedia.org/wiki/Odontolochus_villiersi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,768 |
-| 2026-09-29 12:07:00 | [Adam Jouhi](https://en.wikipedia.org/wiki/Adam_Jouhi) | [Syvä-äksy](https://en.wikipedia.org/wiki/User:Syv%C3%A4-%C3%A4ksy) | 2,456 |
-| 2026-09-29 12:09:42 | [Odontolochus lackneri](https://en.wikipedia.org/wiki/Odontolochus_lackneri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,137 |
-| 2026-09-29 12:11:54 | [2027 Folkestone and Hythe District Council election](https://en.wikipedia.org/wiki/2027_Folkestone_and_Hythe_District_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 7,582 |
-| 2026-09-29 12:12:52 | [Tito Barros](https://en.wikipedia.org/wiki/Tito_Barros) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 102 |
-| 2026-09-29 12:18:33 | [Christian Cove](https://en.wikipedia.org/wiki/Christian_Cove) | [CROIX](https://en.wikipedia.org/wiki/User:CROIX) | 1,812 |
+| 2026-09-29 12:27:23 | [Saprositellus peruanus](https://en.wikipedia.org/wiki/Saprositellus_peruanus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,913 |
+| 2026-09-29 12:30:12 | [Saprositellus santaritae](https://en.wikipedia.org/wiki/Saprositellus_santaritae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,954 |
+| 2026-09-29 12:30:58 | [White Porcelain Lidded Jar](https://en.wikipedia.org/wiki/White_Porcelain_Lidded_Jar) | [Mar del Este](https://en.wikipedia.org/wiki/User:Mar_del_Este) | 5,094 |
+| 2026-09-29 12:31:00 | [Etienne de Cambaceres](https://en.wikipedia.org/wiki/Etienne_de_Cambaceres) | [Arthistorian1977](https://en.wikipedia.org/wiki/User:Arthistorian1977) | 7,962 |
+| 2026-09-29 12:31:52 | [Gino Lorenzini](https://en.wikipedia.org/wiki/Gino_Lorenzini) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 20,402 |
+| 2026-09-29 12:34:24 | [Saprolochus lobatus](https://en.wikipedia.org/wiki/Saprolochus_lobatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,814 |
+| 2026-09-29 12:43:02 | [Dreams of Saint John Bosco](https://en.wikipedia.org/wiki/Dreams_of_Saint_John_Bosco) | [FoolforJesus](https://en.wikipedia.org/wiki/User:FoolforJesus) | 19,048 |
+| 2026-09-29 12:43:09 | [Archaeology of Providence Island, Liberia](https://en.wikipedia.org/wiki/Archaeology_of_Providence_Island%2C_Liberia) | [Moldyseeds](https://en.wikipedia.org/wiki/User:Moldyseeds) | 970 |
+| 2026-09-29 12:43:14 | [Festival Nuevas Bandas](https://en.wikipedia.org/wiki/Festival_Nuevas_Bandas) | [Borboteo](https://en.wikipedia.org/wiki/User:Borboteo) | 3,584 |
+| 2026-09-29 12:45:43 | [Melanella johnsoni](https://en.wikipedia.org/wiki/Melanella_johnsoni) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,585 |
+| 2026-09-29 12:48:19 | [ATHENE-1](https://en.wikipedia.org/wiki/ATHENE-1) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 3,278 |
+| 2026-09-29 12:48:38 | [Nikos Plotas](https://en.wikipedia.org/wiki/Nikos_Plotas) | [User7761922](https://en.wikipedia.org/wiki/User:User7761922) | 3,470 |
+| 2026-09-29 12:49:33 | [Pouran Shariat-Razavi](https://en.wikipedia.org/wiki/Pouran_Shariat-Razavi) | [Sajjadmrt](https://en.wikipedia.org/wiki/User:Sajjadmrt) | 7,778 |
+| 2026-09-29 12:49:53 | [Elio Ciccarese](https://en.wikipedia.org/wiki/Elio_Ciccarese) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 5,658 |
+| 2026-09-29 12:50:35 | [2025 U-15 Pan American Baseball Championship](https://en.wikipedia.org/wiki/2025_U-15_Pan_American_Baseball_Championship) | [Wisteria8257](https://en.wikipedia.org/wiki/User:Wisteria8257) | 19,888 |
+| 2026-09-29 12:51:48 | [2026–27 RCD Espanyol season](https://en.wikipedia.org/wiki/2026%E2%80%9327_RCD_Espanyol_season) | [RossEvans19](https://en.wikipedia.org/wiki/User:RossEvans19) | 10,408 |
+| 2026-09-29 12:52:36 | [Saprositellus kenodontus](https://en.wikipedia.org/wiki/Saprositellus_kenodontus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,892 |
+| 2026-09-29 12:56:51 | [Saprolochus tambopatae](https://en.wikipedia.org/wiki/Saprolochus_tambopatae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,958 |
+| 2026-09-29 12:58:24 | [Ouisal Ikhlef](https://en.wikipedia.org/wiki/Ouisal_Ikhlef) | [Lunar Spectrum96](https://en.wikipedia.org/wiki/User:Lunar_Spectrum96) | 8,155 |
+| 2026-09-29 12:59:52 | [Saprolochus bolivarensis](https://en.wikipedia.org/wiki/Saprolochus_bolivarensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,884 |
+| 2026-09-29 13:00:59 | [Chancellor Healey](https://en.wikipedia.org/wiki/Chancellor_Healey) | [JJLiu112](https://en.wikipedia.org/wiki/User:JJLiu112) | 233 |
+| 2026-09-29 13:03:33 | [Marcia Gardner (Writer)](https://en.wikipedia.org/wiki/Marcia_Gardner_%28Writer%29) | [HungryReptile](https://en.wikipedia.org/wiki/User:HungryReptile) | 4,770 |
+| 2026-09-29 13:05:47 | [2011 NASCAR K&N Pro Series West](https://en.wikipedia.org/wiki/2011_NASCAR_K%26N_Pro_Series_West) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 8,666 |
+| 2026-09-29 13:06:05 | [Derin Kumuk](https://en.wikipedia.org/wiki/Derin_Kumuk) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 6,453 |
+| 2026-09-29 13:06:19 | [Saprolochus peruvianus](https://en.wikipedia.org/wiki/Saprolochus_peruvianus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,941 |
+| 2026-09-29 13:07:00 | [Letter from the IRGC to the American people](https://en.wikipedia.org/wiki/Letter_from_the_IRGC_to_the_American_people) | [Re000searchist](https://en.wikipedia.org/wiki/User:Re000searchist) | 984 |
+| 2026-09-29 13:07:37 | [Saprolochus venezuelensis](https://en.wikipedia.org/wiki/Saprolochus_venezuelensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,958 |
+| 2026-09-29 13:08:39 | [Athletics at the 2026 Asian Games – Men's 5000 metres](https://en.wikipedia.org/wiki/Athletics_at_the_2026_Asian_Games_%E2%80%93_Men%27s_5000_metres) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 4,835 |
+| 2026-09-29 13:16:40 | [The Over Country Tour](https://en.wikipedia.org/wiki/The_Over_Country_Tour) | [GrandeObvious](https://en.wikipedia.org/wiki/User:GrandeObvious) | 9,916 |
+| 2026-09-29 13:18:16 | [A Lưới 1](https://en.wikipedia.org/wiki/A_L%C6%B0%E1%BB%9Bi_1) | [Vietic2](https://en.wikipedia.org/wiki/User:Vietic2) | 3,493 |
+| 2026-09-29 13:20:06 | [Yuto Kawamura](https://en.wikipedia.org/wiki/Yuto_Kawamura) | [ELBOW01](https://en.wikipedia.org/wiki/User:ELBOW01) | 6,274 |
