@@ -13,56 +13,52 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-29 08:25 UTC](data/en/new-articles-2026-09-29T08-25-01Z.csv) | 24 |
-| Japanese | `ja` | [2026-09-29 08:25 UTC](data/ja/new-articles-2026-09-29T08-25-01Z.csv) | 17 |
-| Chinese | `zh` | [2026-09-29 08:25 UTC](data/zh/new-articles-2026-09-29T08-25-01Z.csv) | 19 |
-| French | `fr` | [2026-09-29 08:25 UTC](data/fr/new-articles-2026-09-29T08-25-01Z.csv) | 14 |
-| German | `de` | [2026-09-29 08:25 UTC](data/de/new-articles-2026-09-29T08-25-01Z.csv) | 10 |
-| Russian | `ru` | [2026-09-29 08:25 UTC](data/ru/new-articles-2026-09-29T08-25-01Z.csv) | 7 |
-| Spanish | `es` | [2026-09-29 08:25 UTC](data/es/new-articles-2026-09-29T08-25-01Z.csv) | 3 |
-| Italian | `it` | [2026-09-29 08:25 UTC](data/it/new-articles-2026-09-29T08-25-01Z.csv) | 12 |
-| Portuguese | `pt` | [2026-09-29 08:25 UTC](data/pt/new-articles-2026-09-29T08-25-01Z.csv) | 2 |
-| Polish | `pl` | [2026-09-29 08:25 UTC](data/pl/new-articles-2026-09-29T08-25-01Z.csv) | 4 |
-| Arabic | `ar` | [2026-09-29 08:25 UTC](data/ar/new-articles-2026-09-29T08-25-01Z.csv) | 4 |
-| Persian | `fa` | [2026-09-29 08:25 UTC](data/fa/new-articles-2026-09-29T08-25-01Z.csv) | 14 |
-| Turkish | `tr` | [2026-09-29 08:25 UTC](data/tr/new-articles-2026-09-29T08-25-01Z.csv) | 6 |
-| Hebrew | `he` | [2026-09-29 08:25 UTC](data/he/new-articles-2026-09-29T08-25-01Z.csv) | 3 |
-| Swedish | `sv` | [2026-09-29 08:25 UTC](data/sv/new-articles-2026-09-29T08-25-01Z.csv) | 3 |
-| Dutch | `nl` | [2026-09-29 08:25 UTC](data/nl/new-articles-2026-09-29T08-25-01Z.csv) | 1 |
-| Korean | `ko` | [2026-09-29 08:25 UTC](data/ko/new-articles-2026-09-29T08-25-01Z.csv) | 1 |
-| Indonesian | `id` | [2026-09-29 08:25 UTC](data/id/new-articles-2026-09-29T08-25-01Z.csv) | 19 |
-| Ukrainian | `uk` | [2026-09-29 08:25 UTC](data/uk/new-articles-2026-09-29T08-25-01Z.csv) | 10 |
-| Vietnamese | `vi` | [2026-09-29 08:25 UTC](data/vi/new-articles-2026-09-29T08-25-01Z.csv) | 1 |
+| English | `en` | [2026-09-29 09:21 UTC](data/en/new-articles-2026-09-29T09-21-39Z.csv) | 20 |
+| Japanese | `ja` | [2026-09-29 09:21 UTC](data/ja/new-articles-2026-09-29T09-21-39Z.csv) | 15 |
+| Chinese | `zh` | [2026-09-29 09:21 UTC](data/zh/new-articles-2026-09-29T09-21-39Z.csv) | 10 |
+| French | `fr` | [2026-09-29 09:21 UTC](data/fr/new-articles-2026-09-29T09-21-39Z.csv) | 12 |
+| German | `de` | [2026-09-29 09:21 UTC](data/de/new-articles-2026-09-29T09-21-39Z.csv) | 6 |
+| Russian | `ru` | [2026-09-29 09:21 UTC](data/ru/new-articles-2026-09-29T09-21-39Z.csv) | 12 |
+| Spanish | `es` | [2026-09-29 09:21 UTC](data/es/new-articles-2026-09-29T09-21-39Z.csv) | 2 |
+| Italian | `it` | [2026-09-29 09:21 UTC](data/it/new-articles-2026-09-29T09-21-39Z.csv) | 10 |
+| Portuguese | `pt` | [2026-09-29 09:21 UTC](data/pt/new-articles-2026-09-29T09-21-39Z.csv) | 2 |
+| Polish | `pl` | [2026-09-29 09:21 UTC](data/pl/new-articles-2026-09-29T09-21-39Z.csv) | 2 |
+| Arabic | `ar` | [2026-09-29 09:21 UTC](data/ar/new-articles-2026-09-29T09-21-39Z.csv) | 3 |
+| Persian | `fa` | [2026-09-29 09:21 UTC](data/fa/new-articles-2026-09-29T09-21-39Z.csv) | 16 |
+| Turkish | `tr` | [2026-09-29 09:21 UTC](data/tr/new-articles-2026-09-29T09-21-39Z.csv) | 4 |
+| Hebrew | `he` | [2026-09-29 09:21 UTC](data/he/new-articles-2026-09-29T09-21-39Z.csv) | 1 |
+| Swedish | `sv` | [2026-09-29 09:21 UTC](data/sv/new-articles-2026-09-29T09-21-39Z.csv) | 6 |
+| Dutch | `nl` | [2026-09-29 09:21 UTC](data/nl/new-articles-2026-09-29T09-21-39Z.csv) | 5 |
+| Korean | `ko` | [2026-09-29 09:21 UTC](data/ko/new-articles-2026-09-29T09-21-39Z.csv) | 8 |
+| Indonesian | `id` | [2026-09-29 09:21 UTC](data/id/new-articles-2026-09-29T09-21-39Z.csv) | 13 |
+| Ukrainian | `uk` | [2026-09-29 09:21 UTC](data/uk/new-articles-2026-09-29T09-21-39Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-09-29 09:21 UTC](data/vi/new-articles-2026-09-29T09-21-39Z.csv) | 1 |
 
-## English (en) — 2026-09-29 08:25 UTC
+## English (en) — 2026-09-29 09:21 UTC
 
-New articles created between 2026-09-29 07:21 UTC and 2026-09-29 08:25 UTC.
+New articles created between 2026-09-29 08:25 UTC and 2026-09-29 09:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-29T08-25-01Z.csv)
+[Full CSV](data/en/new-articles-2026-09-29T09-21-39Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-29 07:22:24 | [Saprosites narae](https://en.wikipedia.org/wiki/Saprosites_narae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,018 |
-| 2026-09-29 07:23:47 | [Husni al-Za'im government](https://en.wikipedia.org/wiki/Husni_al-Za%27im_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,494 |
-| 2026-09-29 07:25:23 | [Muhsin al-Barazi government](https://en.wikipedia.org/wiki/Muhsin_al-Barazi_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 6,124 |
-| 2026-09-29 07:26:15 | [Haludaria pradhani](https://en.wikipedia.org/wiki/Haludaria_pradhani) | [Chathirathan](https://en.wikipedia.org/wiki/User:Chathirathan) | 783 |
-| 2026-09-29 07:27:04 | [Bronius Norkus](https://en.wikipedia.org/wiki/Bronius_Norkus) | [Andrejsmirnov97](https://en.wikipedia.org/wiki/User:Andrejsmirnov97) | 4,937 |
-| 2026-09-29 07:27:11 | [Second Hashim al-Atassi government](https://en.wikipedia.org/wiki/Second_Hashim_al-Atassi_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,915 |
-| 2026-09-29 07:27:41 | [Saprosites verecundus](https://en.wikipedia.org/wiki/Saprosites_verecundus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,072 |
-| 2026-09-29 07:29:10 | [Arao (disambiguation)](https://en.wikipedia.org/wiki/Arao_%28disambiguation%29) | [PamD](https://en.wikipedia.org/wiki/User:PamD) | 654 |
-| 2026-09-29 07:33:06 | [Adelphi Hotel, York](https://en.wikipedia.org/wiki/Adelphi_Hotel%2C_York) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 11,552 |
-| 2026-09-29 07:35:10 | [Viršle u zemički](https://en.wikipedia.org/wiki/Vir%C5%A1le_u_zemi%C4%8Dki) | [EmiliaITČA](https://en.wikipedia.org/wiki/User:EmiliaIT%C4%8CA) | 7,148 |
-| 2026-09-29 07:36:41 | [Cumbria (Steam Locomotive)](https://en.wikipedia.org/wiki/Cumbria_%28Steam_Locomotive%29) | [IAmTheRealBomber](https://en.wikipedia.org/wiki/User:IAmTheRealBomber) | 2,128 |
-| 2026-09-29 07:38:59 | [Muse (AI agent)](https://en.wikipedia.org/wiki/Muse_%28AI_agent%29) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 5,758 |
-| 2026-09-29 07:39:06 | [Pea Ridge: The Gettysburg of the West](https://en.wikipedia.org/wiki/Pea_Ridge%3A_The_Gettysburg_of_the_West) | [Guinness323](https://en.wikipedia.org/wiki/User:Guinness323) | 7,648 |
-| 2026-09-29 07:39:26 | [Araos (disambiguation)](https://en.wikipedia.org/wiki/Araos_%28disambiguation%29) | [PamD](https://en.wikipedia.org/wiki/User:PamD) | 463 |
-| 2026-09-29 07:43:13 | [Saprosites rougemonti](https://en.wikipedia.org/wiki/Saprosites_rougemonti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,907 |
-| 2026-09-29 07:53:13 | [Saprosites bangueyensis](https://en.wikipedia.org/wiki/Saprosites_bangueyensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,950 |
-| 2026-09-29 07:53:50 | [Dongoconodon](https://en.wikipedia.org/wiki/Dongoconodon) | [SlvrHwk](https://en.wikipedia.org/wiki/User:SlvrHwk) | 3,898 |
-| 2026-09-29 07:54:06 | [Jedsadaphon Na Phatthalung](https://en.wikipedia.org/wiki/Jedsadaphon_Na_Phatthalung) | [BestiDeOro](https://en.wikipedia.org/wiki/User:BestiDeOro) | 2,958 |
-| 2026-09-29 07:56:48 | [Wu Yan (weightlifter)](https://en.wikipedia.org/wiki/Wu_Yan_%28weightlifter%29) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,948 |
-| 2026-09-29 07:58:05 | [1978–79 Kategoria e Dytë](https://en.wikipedia.org/wiki/1978%E2%80%9379_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 3,821 |
-| 2026-09-29 08:00:57 | [Timeline of the Franklin Pierce presidency](https://en.wikipedia.org/wiki/Timeline_of_the_Franklin_Pierce_presidency) | [Thebiguglyalien](https://en.wikipedia.org/wiki/User:Thebiguglyalien) | 12,154 |
-| 2026-09-29 08:08:48 | [All Joseon Football Championship](https://en.wikipedia.org/wiki/All_Joseon_Football_Championship) | [Pinineeon](https://en.wikipedia.org/wiki/User:Pinineeon) | 16,054 |
-| 2026-09-29 08:13:52 | [Meri Bhabhi (film)](https://en.wikipedia.org/wiki/Meri_Bhabhi_%28film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,332 |
-| 2026-09-29 08:16:34 | [2027 British Touring Car Championship](https://en.wikipedia.org/wiki/2027_British_Touring_Car_Championship) | [Edward Moye](https://en.wikipedia.org/wiki/User:Edward_Moye) | 2,643 |
+| 2026-09-29 08:26:08 | [1977–78 Kategoria e Dytë](https://en.wikipedia.org/wiki/1977%E2%80%9378_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 5,380 |
+| 2026-09-29 08:31:16 | [Yang Liuyue](https://en.wikipedia.org/wiki/Yang_Liuyue) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,070 |
+| 2026-09-29 08:31:51 | [Diving at the 2026 Asian Games – Women's 10 metre platform](https://en.wikipedia.org/wiki/Diving_at_the_2026_Asian_Games_%E2%80%93_Women%27s_10_metre_platform) | [BobChen](https://en.wikipedia.org/wiki/User:BobChen) | 5,784 |
+| 2026-09-29 08:39:42 | [Saprosites pahangensis](https://en.wikipedia.org/wiki/Saprosites_pahangensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,908 |
+| 2026-09-29 08:40:02 | [1976–77 Kategoria e Dytë](https://en.wikipedia.org/wiki/1976%E2%80%9377_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 3,839 |
+| 2026-09-29 08:46:19 | [Saprosites laticollis](https://en.wikipedia.org/wiki/Saprosites_laticollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,879 |
+| 2026-09-29 08:48:04 | [Saprosites implicatus](https://en.wikipedia.org/wiki/Saprosites_implicatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,948 |
+| 2026-09-29 08:51:21 | [Azrin Danial Yusra](https://en.wikipedia.org/wiki/Azrin_Danial_Yusra) | [Kapisan2016](https://en.wikipedia.org/wiki/User:Kapisan2016) | 16,026 |
+| 2026-09-29 08:52:52 | [Saprosites japonicus](https://en.wikipedia.org/wiki/Saprosites_japonicus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,304 |
+| 2026-09-29 08:53:33 | [1975–76 Kategoria e Dytë](https://en.wikipedia.org/wiki/1975%E2%80%9376_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 3,848 |
+| 2026-09-29 09:00:00 | [Saprosites raffrayi](https://en.wikipedia.org/wiki/Saprosites_raffrayi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,900 |
+| 2026-09-29 09:00:49 | [Bezan](https://en.wikipedia.org/wiki/Bezan) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 299 |
+| 2026-09-29 09:11:37 | [Rakesh Kumar (equestrian)](https://en.wikipedia.org/wiki/Rakesh_Kumar_%28equestrian%29) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 2,993 |
+| 2026-09-29 09:13:39 | [Pa Elton](https://en.wikipedia.org/wiki/Pa_Elton) | [LectureWiz](https://en.wikipedia.org/wiki/User:LectureWiz) | 1,720 |
+| 2026-09-29 09:15:11 | [Huawei Mate 90](https://en.wikipedia.org/wiki/Huawei_Mate_90) | [Junrui Gao](https://en.wikipedia.org/wiki/User:Junrui_Gao) | 1,498 |
+| 2026-09-29 09:18:16 | [Saprosites penrisseni](https://en.wikipedia.org/wiki/Saprosites_penrisseni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,910 |
+| 2026-09-29 09:19:56 | [Saprosites marchionalis](https://en.wikipedia.org/wiki/Saprosites_marchionalis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,907 |
+| 2026-09-29 09:20:59 | [Karl Ludwig Stettler](https://en.wikipedia.org/wiki/Karl_Ludwig_Stettler) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,506 |
+| 2026-09-29 09:21:17 | [Albrecht Friedrich Stettler](https://en.wikipedia.org/wiki/Albrecht_Friedrich_Stettler) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,208 |
+| 2026-09-29 09:21:32 | [Saprosites crockerensis](https://en.wikipedia.org/wiki/Saprosites_crockerensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,899 |
