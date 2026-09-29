@@ -13,56 +13,56 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-29 17:23 UTC](data/en/new-articles-2026-09-29T17-23-12Z.csv) | 24 |
-| Japanese | `ja` | [2026-09-29 17:23 UTC](data/ja/new-articles-2026-09-29T17-23-12Z.csv) | 9 |
-| Chinese | `zh` | [2026-09-29 17:23 UTC](data/zh/new-articles-2026-09-29T17-23-12Z.csv) | 10 |
-| French | `fr` | [2026-09-29 17:23 UTC](data/fr/new-articles-2026-09-29T17-23-12Z.csv) | 14 |
-| German | `de` | [2026-09-29 17:23 UTC](data/de/new-articles-2026-09-29T17-23-12Z.csv) | 15 |
-| Russian | `ru` | [2026-09-29 17:23 UTC](data/ru/new-articles-2026-09-29T17-23-12Z.csv) | 13 |
-| Spanish | `es` | [2026-09-29 17:23 UTC](data/es/new-articles-2026-09-29T17-23-12Z.csv) | 11 |
-| Italian | `it` | [2026-09-29 17:23 UTC](data/it/new-articles-2026-09-29T17-23-12Z.csv) | 8 |
-| Portuguese | `pt` | [2026-09-29 17:23 UTC](data/pt/new-articles-2026-09-29T17-23-12Z.csv) | 6 |
-| Polish | `pl` | [2026-09-29 17:23 UTC](data/pl/new-articles-2026-09-29T17-23-12Z.csv) | 4 |
-| Arabic | `ar` | [2026-09-29 17:23 UTC](data/ar/new-articles-2026-09-29T17-23-12Z.csv) | 7 |
-| Persian | `fa` | [2026-09-29 17:23 UTC](data/fa/new-articles-2026-09-29T17-23-12Z.csv) | 6 |
-| Turkish | `tr` | [2026-09-29 16:19 UTC](data/tr/new-articles-2026-09-29T16-19-58Z.csv) | 6 |
-| Hebrew | `he` | [2026-09-29 17:23 UTC](data/he/new-articles-2026-09-29T17-23-12Z.csv) | 5 |
-| Swedish | `sv` | [2026-09-29 17:23 UTC](data/sv/new-articles-2026-09-29T17-23-12Z.csv) | 5 |
-| Dutch | `nl` | [2026-09-29 17:23 UTC](data/nl/new-articles-2026-09-29T17-23-12Z.csv) | 12 |
+| English | `en` | [2026-09-29 18:19 UTC](data/en/new-articles-2026-09-29T18-19-45Z.csv) | 24 |
+| Japanese | `ja` | [2026-09-29 18:19 UTC](data/ja/new-articles-2026-09-29T18-19-45Z.csv) | 3 |
+| Chinese | `zh` | [2026-09-29 18:19 UTC](data/zh/new-articles-2026-09-29T18-19-45Z.csv) | 4 |
+| French | `fr` | [2026-09-29 18:19 UTC](data/fr/new-articles-2026-09-29T18-19-45Z.csv) | 11 |
+| German | `de` | [2026-09-29 18:19 UTC](data/de/new-articles-2026-09-29T18-19-45Z.csv) | 10 |
+| Russian | `ru` | [2026-09-29 18:19 UTC](data/ru/new-articles-2026-09-29T18-19-45Z.csv) | 12 |
+| Spanish | `es` | [2026-09-29 18:19 UTC](data/es/new-articles-2026-09-29T18-19-45Z.csv) | 12 |
+| Italian | `it` | [2026-09-29 18:19 UTC](data/it/new-articles-2026-09-29T18-19-45Z.csv) | 4 |
+| Portuguese | `pt` | [2026-09-29 18:19 UTC](data/pt/new-articles-2026-09-29T18-19-45Z.csv) | 14 |
+| Polish | `pl` | [2026-09-29 18:19 UTC](data/pl/new-articles-2026-09-29T18-19-45Z.csv) | 7 |
+| Arabic | `ar` | [2026-09-29 18:19 UTC](data/ar/new-articles-2026-09-29T18-19-45Z.csv) | 7 |
+| Persian | `fa` | [2026-09-29 18:19 UTC](data/fa/new-articles-2026-09-29T18-19-45Z.csv) | 9 |
+| Turkish | `tr` | [2026-09-29 18:19 UTC](data/tr/new-articles-2026-09-29T18-19-45Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-29 18:19 UTC](data/he/new-articles-2026-09-29T18-19-45Z.csv) | 5 |
+| Swedish | `sv` | [2026-09-29 18:19 UTC](data/sv/new-articles-2026-09-29T18-19-45Z.csv) | 9 |
+| Dutch | `nl` | [2026-09-29 18:19 UTC](data/nl/new-articles-2026-09-29T18-19-45Z.csv) | 8 |
 | Korean | `ko` | [2026-09-29 17:23 UTC](data/ko/new-articles-2026-09-29T17-23-12Z.csv) | 1 |
-| Indonesian | `id` | [2026-09-29 17:23 UTC](data/id/new-articles-2026-09-29T17-23-12Z.csv) | 16 |
-| Ukrainian | `uk` | [2026-09-29 17:23 UTC](data/uk/new-articles-2026-09-29T17-23-12Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-09-29 17:23 UTC](data/vi/new-articles-2026-09-29T17-23-12Z.csv) | 3 |
+| Indonesian | `id` | [2026-09-29 18:19 UTC](data/id/new-articles-2026-09-29T18-19-45Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-09-29 18:19 UTC](data/uk/new-articles-2026-09-29T18-19-45Z.csv) | 4 |
+| Vietnamese | `vi` | [2026-09-29 18:19 UTC](data/vi/new-articles-2026-09-29T18-19-45Z.csv) | 1 |
 
-## English (en) — 2026-09-29 17:23 UTC
+## English (en) — 2026-09-29 18:19 UTC
 
-New articles created between 2026-09-29 16:19 UTC and 2026-09-29 17:23 UTC.
+New articles created between 2026-09-29 17:23 UTC and 2026-09-29 18:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-29T17-23-12Z.csv)
+[Full CSV](data/en/new-articles-2026-09-29T18-19-45Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-29 16:26:19 | [Aphotaenius convexus](https://en.wikipedia.org/wiki/Aphotaenius_convexus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,855 |
-| 2026-09-29 16:26:20 | [Słobodka (disambiguation)](https://en.wikipedia.org/wiki/S%C5%82obodka_%28disambiguation%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 23 |
-| 2026-09-29 16:27:10 | [Fargo Township, Kansas](https://en.wikipedia.org/wiki/Fargo_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 4,302 |
-| 2026-09-29 16:27:15 | [Jete Jete Pathe Holo Deri](https://en.wikipedia.org/wiki/Jete_Jete_Pathe_Holo_Deri) | [Babin Mew](https://en.wikipedia.org/wiki/User:Babin_Mew) | 8,846 |
-| 2026-09-29 16:27:35 | [Gyalgebra](https://en.wikipedia.org/wiki/Gyalgebra) | [YasserMeddour](https://en.wikipedia.org/wiki/User:YasserMeddour) | 6,903 |
-| 2026-09-29 16:40:10 | [Adirio Jessen](https://en.wikipedia.org/wiki/Adirio_Jessen) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,747 |
-| 2026-09-29 16:42:00 | [Ramon Vergara](https://en.wikipedia.org/wiki/Ramon_Vergara) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,688 |
-| 2026-09-29 16:42:25 | [Liberal Township, Kansas](https://en.wikipedia.org/wiki/Liberal_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 4,467 |
-| 2026-09-29 16:51:01 | [Operation Lash](https://en.wikipedia.org/wiki/Operation_Lash) | [GRZ-MT](https://en.wikipedia.org/wiki/User:GRZ-MT) | 1,100 |
-| 2026-09-29 16:52:35 | [2026 Rotterdam P2](https://en.wikipedia.org/wiki/2026_Rotterdam_P2) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 29,784 |
-| 2026-09-29 16:56:10 | [2026–27 Campeonato Nacional de Rugby Divisão de Honra](https://en.wikipedia.org/wiki/2026%E2%80%9327_Campeonato_Nacional_de_Rugby_Divis%C3%A3o_de_Honra) | [Jmmv](https://en.wikipedia.org/wiki/User:Jmmv) | 7,305 |
-| 2026-09-29 16:58:36 | [Furuhashi Hironoshin Memorial Hamamatsu Swimming Center](https://en.wikipedia.org/wiki/Furuhashi_Hironoshin_Memorial_Hamamatsu_Swimming_Center) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 10,461 |
-| 2026-09-29 16:59:12 | [Norellraptor](https://en.wikipedia.org/wiki/Norellraptor) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 1,555 |
-| 2026-09-29 17:00:08 | [Maria Bertha Halpin](https://en.wikipedia.org/wiki/Maria_Bertha_Halpin) | [Kwdojo](https://en.wikipedia.org/wiki/User:Kwdojo) | 4,901 |
-| 2026-09-29 17:02:43 | [Karen Rodriguez (singer)](https://en.wikipedia.org/wiki/Karen_Rodriguez_%28singer%29) | [ArnoldReinhold](https://en.wikipedia.org/wiki/User:ArnoldReinhold) | 257 |
-| 2026-09-29 17:03:49 | [Uzcosmos](https://en.wikipedia.org/wiki/Uzcosmos) | [Azotochka](https://en.wikipedia.org/wiki/User:Azotochka) | 2,046 |
-| 2026-09-29 17:07:36 | [The Cornish Bakery](https://en.wikipedia.org/wiki/The_Cornish_Bakery) | [Blythwood](https://en.wikipedia.org/wiki/User:Blythwood) | 2,377 |
-| 2026-09-29 17:08:31 | [Yerba Buena (video game)](https://en.wikipedia.org/wiki/Yerba_Buena_%28video_game%29) | [A412](https://en.wikipedia.org/wiki/User:A412) | 3,583 |
-| 2026-09-29 17:08:35 | [Julie Watts (Journalist)](https://en.wikipedia.org/wiki/Julie_Watts_%28Journalist%29) | [MymOmoo](https://en.wikipedia.org/wiki/User:MymOmoo) | 29,827 |
-| 2026-09-29 17:13:20 | [George Watson (Minnesota politician)](https://en.wikipedia.org/wiki/George_Watson_%28Minnesota_politician%29) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 5,869 |
-| 2026-09-29 17:16:46 | [Seward Township, Kansas](https://en.wikipedia.org/wiki/Seward_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 4,916 |
-| 2026-09-29 17:16:57 | [List of presidents of the Province of Ragusa](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Province_of_Ragusa) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 10,759 |
-| 2026-09-29 17:19:36 | [Snake Killer](https://en.wikipedia.org/wiki/Snake_Killer) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 5,077 |
-| 2026-09-29 17:20:34 | [The Price Of Becoming](https://en.wikipedia.org/wiki/The_Price_Of_Becoming) | [Siagoddess](https://en.wikipedia.org/wiki/User:Siagoddess) | 4,012 |
+| 2026-09-29 17:25:34 | [2002–03 FIS Snowboard World Cup](https://en.wikipedia.org/wiki/2002%E2%80%9303_FIS_Snowboard_World_Cup) | [Oberhof](https://en.wikipedia.org/wiki/User:Oberhof) | 13,377 |
+| 2026-09-29 17:26:30 | [Holding My Own (Peter Skellern album)](https://en.wikipedia.org/wiki/Holding_My_Own_%28Peter_Skellern_album%29) | [TangoTizerWolfstone](https://en.wikipedia.org/wiki/User:TangoTizerWolfstone) | 16,322 |
+| 2026-09-29 17:34:20 | [Trade unions in Kenya](https://en.wikipedia.org/wiki/Trade_unions_in_Kenya) | [Kimemia Maina](https://en.wikipedia.org/wiki/User:Kimemia_Maina) | 3,482 |
+| 2026-09-29 17:36:29 | [I Always Sometimes](https://en.wikipedia.org/wiki/I_Always_Sometimes) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 5,327 |
+| 2026-09-29 17:41:49 | [Krishnaram](https://en.wikipedia.org/wiki/Krishnaram) | [Sntshkumar750](https://en.wikipedia.org/wiki/User:Sntshkumar750) | 3,122 |
+| 2026-09-29 17:43:19 | [Asian Esports & Mind Sports Games](https://en.wikipedia.org/wiki/Asian_Esports_%26_Mind_Sports_Games) | [WikiEdits2003](https://en.wikipedia.org/wiki/User:WikiEdits2003) | 3,062 |
+| 2026-09-29 17:44:44 | [The Eleanor Association](https://en.wikipedia.org/wiki/The_Eleanor_Association) | [Penny Richards](https://en.wikipedia.org/wiki/User:Penny_Richards) | 6,697 |
+| 2026-09-29 17:45:29 | [06:29](https://en.wikipedia.org/wiki/06%3A29) | [Axinoo](https://en.wikipedia.org/wiki/User:Axinoo) | 4,317 |
+| 2026-09-29 17:46:37 | [Summer of 1985](https://en.wikipedia.org/wiki/Summer_of_1985) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 3,908 |
+| 2026-09-29 17:51:16 | [Natural region (Israel)](https://en.wikipedia.org/wiki/Natural_region_%28Israel%29) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 14,286 |
+| 2026-09-29 17:52:12 | [You Deserve a Tech Union](https://en.wikipedia.org/wiki/You_Deserve_a_Tech_Union) | [Jessamyn](https://en.wikipedia.org/wiki/User:Jessamyn) | 2,971 |
+| 2026-09-29 17:52:22 | [2026 Spanish housing protests](https://en.wikipedia.org/wiki/2026_Spanish_housing_protests) | [Impru20](https://en.wikipedia.org/wiki/User:Impru20) | 5,185 |
+| 2026-09-29 17:52:28 | [Alexandra Olivia](https://en.wikipedia.org/wiki/Alexandra_Olivia) | [Germannaford](https://en.wikipedia.org/wiki/User:Germannaford) | 56 |
+| 2026-09-29 17:52:56 | [2025–26 Le Mans FC season](https://en.wikipedia.org/wiki/2025%E2%80%9326_Le_Mans_FC_season) | [CottonTraders](https://en.wikipedia.org/wiki/User:CottonTraders) | 7,355 |
+| 2026-09-29 17:53:20 | [Hedlundia gauckleri](https://en.wikipedia.org/wiki/Hedlundia_gauckleri) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 6,386 |
+| 2026-09-29 17:54:44 | [Guts (Finnish TV series)](https://en.wikipedia.org/wiki/Guts_%28Finnish_TV_series%29) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 4,271 |
+| 2026-09-29 17:57:28 | [Neel Sukh](https://en.wikipedia.org/wiki/Neel_Sukh) | [Aqsis Bey](https://en.wikipedia.org/wiki/User:Aqsis_Bey) | 4,919 |
+| 2026-09-29 17:57:46 | [Kayonte George](https://en.wikipedia.org/wiki/Kayonte_George) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 3,010 |
+| 2026-09-29 18:00:42 | [The Deal with Iran](https://en.wikipedia.org/wiki/The_Deal_with_Iran) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 2,983 |
+| 2026-09-29 18:04:06 | [Zehender family](https://en.wikipedia.org/wiki/Zehender_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,406 |
+| 2026-09-29 18:04:50 | [All Shapes of Us](https://en.wikipedia.org/wiki/All_Shapes_of_Us) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 2,838 |
+| 2026-09-29 18:08:02 | [Alain Gilles (designer)](https://en.wikipedia.org/wiki/Alain_Gilles_%28designer%29) | [Bifmark](https://en.wikipedia.org/wiki/User:Bifmark) | 12,004 |
+| 2026-09-29 18:13:53 | [Yanira Merino](https://en.wikipedia.org/wiki/Yanira_Merino) | [Rosariolibrarian](https://en.wikipedia.org/wiki/User:Rosariolibrarian) | 1,202 |
+| 2026-09-29 18:17:36 | [Megna Mukherjee](https://en.wikipedia.org/wiki/Megna_Mukherjee) | [Official06](https://en.wikipedia.org/wiki/User:Official06) | 5,719 |
