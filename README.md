@@ -13,48 +13,42 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-29 05:19 UTC](data/en/new-articles-2026-09-29T05-19-52Z.csv) | 16 |
-| Japanese | `ja` | [2026-09-29 05:19 UTC](data/ja/new-articles-2026-09-29T05-19-52Z.csv) | 6 |
-| Chinese | `zh` | [2026-09-29 05:19 UTC](data/zh/new-articles-2026-09-29T05-19-52Z.csv) | 3 |
-| French | `fr` | [2026-09-29 05:19 UTC](data/fr/new-articles-2026-09-29T05-19-52Z.csv) | 3 |
-| German | `de` | [2026-09-29 05:19 UTC](data/de/new-articles-2026-09-29T05-19-52Z.csv) | 3 |
-| Russian | `ru` | [2026-09-29 04:19 UTC](data/ru/new-articles-2026-09-29T04-19-42Z.csv) | 3 |
-| Spanish | `es` | [2026-09-29 05:19 UTC](data/es/new-articles-2026-09-29T05-19-52Z.csv) | 4 |
-| Italian | `it` | [2026-09-29 05:19 UTC](data/it/new-articles-2026-09-29T05-19-52Z.csv) | 1 |
-| Portuguese | `pt` | [2026-09-29 05:19 UTC](data/pt/new-articles-2026-09-29T05-19-52Z.csv) | 7 |
-| Polish | `pl` | [2026-09-29 05:19 UTC](data/pl/new-articles-2026-09-29T05-19-52Z.csv) | 1 |
-| Arabic | `ar` | [2026-09-29 05:19 UTC](data/ar/new-articles-2026-09-29T05-19-52Z.csv) | 4 |
-| Persian | `fa` | [2026-09-29 05:19 UTC](data/fa/new-articles-2026-09-29T05-19-52Z.csv) | 6 |
-| Turkish | `tr` | [2026-09-29 05:19 UTC](data/tr/new-articles-2026-09-29T05-19-52Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-29 05:19 UTC](data/he/new-articles-2026-09-29T05-19-52Z.csv) | 2 |
-| Swedish | `sv` | [2026-09-29 05:19 UTC](data/sv/new-articles-2026-09-29T05-19-52Z.csv) | 1 |
-| Dutch | `nl` | [2026-09-29 01:19 UTC](data/nl/new-articles-2026-09-29T01-19-14Z.csv) | 2 |
-| Korean | `ko` | [2026-09-29 05:19 UTC](data/ko/new-articles-2026-09-29T05-19-52Z.csv) | 4 |
-| Indonesian | `id` | [2026-09-29 05:19 UTC](data/id/new-articles-2026-09-29T05-19-52Z.csv) | 7 |
+| English | `en` | [2026-09-29 06:18 UTC](data/en/new-articles-2026-09-29T06-18-55Z.csv) | 10 |
+| Japanese | `ja` | [2026-09-29 06:18 UTC](data/ja/new-articles-2026-09-29T06-18-55Z.csv) | 4 |
+| Chinese | `zh` | [2026-09-29 06:18 UTC](data/zh/new-articles-2026-09-29T06-18-55Z.csv) | 16 |
+| French | `fr` | [2026-09-29 06:18 UTC](data/fr/new-articles-2026-09-29T06-18-55Z.csv) | 4 |
+| German | `de` | [2026-09-29 06:18 UTC](data/de/new-articles-2026-09-29T06-18-55Z.csv) | 4 |
+| Russian | `ru` | [2026-09-29 06:18 UTC](data/ru/new-articles-2026-09-29T06-18-55Z.csv) | 4 |
+| Spanish | `es` | [2026-09-29 06:18 UTC](data/es/new-articles-2026-09-29T06-18-55Z.csv) | 4 |
+| Italian | `it` | [2026-09-29 06:18 UTC](data/it/new-articles-2026-09-29T06-18-55Z.csv) | 4 |
+| Portuguese | `pt` | [2026-09-29 06:18 UTC](data/pt/new-articles-2026-09-29T06-18-55Z.csv) | 3 |
+| Polish | `pl` | [2026-09-29 06:18 UTC](data/pl/new-articles-2026-09-29T06-18-55Z.csv) | 2 |
+| Arabic | `ar` | [2026-09-29 06:18 UTC](data/ar/new-articles-2026-09-29T06-18-55Z.csv) | 3 |
+| Persian | `fa` | [2026-09-29 06:18 UTC](data/fa/new-articles-2026-09-29T06-18-55Z.csv) | 5 |
+| Turkish | `tr` | [2026-09-29 06:18 UTC](data/tr/new-articles-2026-09-29T06-18-55Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-29 06:18 UTC](data/he/new-articles-2026-09-29T06-18-55Z.csv) | 1 |
+| Swedish | `sv` | [2026-09-29 06:18 UTC](data/sv/new-articles-2026-09-29T06-18-55Z.csv) | 2 |
+| Dutch | `nl` | [2026-09-29 06:18 UTC](data/nl/new-articles-2026-09-29T06-18-55Z.csv) | 2 |
+| Korean | `ko` | [2026-09-29 06:18 UTC](data/ko/new-articles-2026-09-29T06-18-55Z.csv) | 2 |
+| Indonesian | `id` | [2026-09-29 06:18 UTC](data/id/new-articles-2026-09-29T06-18-55Z.csv) | 8 |
 | Ukrainian | `uk` | [2026-09-29 05:19 UTC](data/uk/new-articles-2026-09-29T05-19-52Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-09-29 05:19 UTC](data/vi/new-articles-2026-09-29T05-19-52Z.csv) | 2 |
 
-## English (en) — 2026-09-29 05:19 UTC
+## English (en) — 2026-09-29 06:18 UTC
 
-New articles created between 2026-09-29 04:19 UTC and 2026-09-29 05:19 UTC.
+New articles created between 2026-09-29 05:19 UTC and 2026-09-29 06:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-29T05-19-52Z.csv)
+[Full CSV](data/en/new-articles-2026-09-29T06-18-55Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-29 04:23:01 | [Ronnilan Quita](https://en.wikipedia.org/wiki/Ronnilan_Quita) | [Peoya](https://en.wikipedia.org/wiki/User:Peoya) | 2,579 |
-| 2026-09-29 04:36:19 | [Karate at the 2026 Asian Games – Men's individual kata](https://en.wikipedia.org/wiki/Karate_at_the_2026_Asian_Games_%E2%80%93_Men%27s_individual_kata) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 5,514 |
-| 2026-09-29 04:36:53 | [1953 London local elections](https://en.wikipedia.org/wiki/1953_London_local_elections) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 7,509 |
-| 2026-09-29 04:50:34 | [Edrington (house)](https://en.wikipedia.org/wiki/Edrington_%28house%29) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 16,480 |
-| 2026-09-29 04:53:49 | [APatch](https://en.wikipedia.org/wiki/APatch) | [Mammoos 007](https://en.wikipedia.org/wiki/User:Mammoos_007) | 8,309 |
-| 2026-09-29 04:54:17 | [Ousmane Camara (footballer, born January 2001)](https://en.wikipedia.org/wiki/Ousmane_Camara_%28footballer%2C_born_January_2001%29) | [Thplam2004](https://en.wikipedia.org/wiki/User:Thplam2004) | 7,186 |
-| 2026-09-29 04:54:42 | [Mr Model México 2026](https://en.wikipedia.org/wiki/Mr_Model_M%C3%A9xico_2026) | [Zyanya0018](https://en.wikipedia.org/wiki/User:Zyanya0018) | 7,828 |
-| 2026-09-29 05:00:19 | [Kaylie Ronan](https://en.wikipedia.org/wiki/Kaylie_Ronan) | [24Anonymous](https://en.wikipedia.org/wiki/User:24Anonymous) | 12,260 |
-| 2026-09-29 05:01:27 | [Ronald Perera](https://en.wikipedia.org/wiki/Ronald_Perera) | [Ser Amantio di Nicolao](https://en.wikipedia.org/wiki/User:Ser_Amantio_di_Nicolao) | 792 |
-| 2026-09-29 05:08:57 | [Nvidia OpenShell](https://en.wikipedia.org/wiki/Nvidia_OpenShell) | [Wikideas1](https://en.wikipedia.org/wiki/User:Wikideas1) | 3,973 |
-| 2026-09-29 05:12:07 | [Karate at the 2026 Asian Games – Men's team kata](https://en.wikipedia.org/wiki/Karate_at_the_2026_Asian_Games_%E2%80%93_Men%27s_team_kata) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 5,002 |
-| 2026-09-29 05:14:26 | [Fatoumanana Nishi](https://en.wikipedia.org/wiki/Fatoumanana_Nishi) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 5,880 |
-| 2026-09-29 05:14:40 | [Alan Fehr](https://en.wikipedia.org/wiki/Alan_Fehr) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,211 |
-| 2026-09-29 05:15:07 | [Hocquenghem](https://en.wikipedia.org/wiki/Hocquenghem) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 200 |
-| 2026-09-29 05:15:55 | [Noelle Henning](https://en.wikipedia.org/wiki/Noelle_Henning) | [SOSA333](https://en.wikipedia.org/wiki/User:SOSA333) | 15,971 |
-| 2026-09-29 05:18:51 | [Murrie](https://en.wikipedia.org/wiki/Murrie) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 430 |
+| 2026-09-29 05:27:03 | [Prayashna Gurung](https://en.wikipedia.org/wiki/Prayashna_Gurung) | [DarshanAdhikari](https://en.wikipedia.org/wiki/User:DarshanAdhikari) | 4,028 |
+| 2026-09-29 05:32:18 | [Karate at the 2026 Asian Games – Women's team kata](https://en.wikipedia.org/wiki/Karate_at_the_2026_Asian_Games_%E2%80%93_Women%27s_team_kata) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 5,396 |
+| 2026-09-29 05:35:47 | [Phong Châu (ward)](https://en.wikipedia.org/wiki/Phong_Ch%C3%A2u_%28ward%29) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,558 |
+| 2026-09-29 05:57:40 | [Tatenochō (Nerima Ward)](https://en.wikipedia.org/wiki/Tatenoch%C5%8D_%28Nerima_Ward%29) | [Nosmetana](https://en.wikipedia.org/wiki/User:Nosmetana) | 4,248 |
+| 2026-09-29 06:04:42 | [Acequinocyl](https://en.wikipedia.org/wiki/Acequinocyl) | [Minihaa](https://en.wikipedia.org/wiki/User:Minihaa) | 2,977 |
+| 2026-09-29 06:05:12 | [RoosevElvis](https://en.wikipedia.org/wiki/RoosevElvis) | [Dizzycheekchewer](https://en.wikipedia.org/wiki/User:Dizzycheekchewer) | 7,877 |
+| 2026-09-29 06:06:52 | [Seljuk-Artuqid-Burid war](https://en.wikipedia.org/wiki/Seljuk-Artuqid-Burid_war) | [AK0934](https://en.wikipedia.org/wiki/User:AK0934) | 10,251 |
+| 2026-09-29 06:10:03 | [Henson Tsai](https://en.wikipedia.org/wiki/Henson_Tsai) | [AlamyG](https://en.wikipedia.org/wiki/User:AlamyG) | 179 |
+| 2026-09-29 06:12:47 | [Monica Gentili](https://en.wikipedia.org/wiki/Monica_Gentili) | [1111155577KZ](https://en.wikipedia.org/wiki/User:1111155577KZ) | 4,542 |
+| 2026-09-29 06:17:17 | [Taufique Ahmad Khan](https://en.wikipedia.org/wiki/Taufique_Ahmad_Khan) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 8,652 |
