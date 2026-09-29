@@ -13,55 +13,56 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-29 15:19 UTC](data/en/new-articles-2026-09-29T15-19-11Z.csv) | 23 |
-| Japanese | `ja` | [2026-09-29 15:19 UTC](data/ja/new-articles-2026-09-29T15-19-11Z.csv) | 4 |
-| Chinese | `zh` | [2026-09-29 15:19 UTC](data/zh/new-articles-2026-09-29T15-19-11Z.csv) | 16 |
-| French | `fr` | [2026-09-29 15:19 UTC](data/fr/new-articles-2026-09-29T15-19-11Z.csv) | 8 |
-| German | `de` | [2026-09-29 15:19 UTC](data/de/new-articles-2026-09-29T15-19-11Z.csv) | 14 |
-| Russian | `ru` | [2026-09-29 15:19 UTC](data/ru/new-articles-2026-09-29T15-19-11Z.csv) | 5 |
-| Spanish | `es` | [2026-09-29 15:19 UTC](data/es/new-articles-2026-09-29T15-19-11Z.csv) | 42 |
-| Italian | `it` | [2026-09-29 15:19 UTC](data/it/new-articles-2026-09-29T15-19-11Z.csv) | 7 |
-| Portuguese | `pt` | [2026-09-29 15:19 UTC](data/pt/new-articles-2026-09-29T15-19-11Z.csv) | 10 |
-| Polish | `pl` | [2026-09-29 15:19 UTC](data/pl/new-articles-2026-09-29T15-19-11Z.csv) | 5 |
-| Arabic | `ar` | [2026-09-29 15:19 UTC](data/ar/new-articles-2026-09-29T15-19-11Z.csv) | 11 |
-| Persian | `fa` | [2026-09-29 15:19 UTC](data/fa/new-articles-2026-09-29T15-19-11Z.csv) | 5 |
-| Turkish | `tr` | [2026-09-29 15:19 UTC](data/tr/new-articles-2026-09-29T15-19-11Z.csv) | 3 |
-| Hebrew | `he` | [2026-09-29 15:19 UTC](data/he/new-articles-2026-09-29T15-19-11Z.csv) | 4 |
-| Swedish | `sv` | [2026-09-29 15:19 UTC](data/sv/new-articles-2026-09-29T15-19-11Z.csv) | 3 |
+| English | `en` | [2026-09-29 16:19 UTC](data/en/new-articles-2026-09-29T16-19-58Z.csv) | 24 |
+| Japanese | `ja` | [2026-09-29 16:19 UTC](data/ja/new-articles-2026-09-29T16-19-58Z.csv) | 5 |
+| Chinese | `zh` | [2026-09-29 16:19 UTC](data/zh/new-articles-2026-09-29T16-19-58Z.csv) | 8 |
+| French | `fr` | [2026-09-29 16:19 UTC](data/fr/new-articles-2026-09-29T16-19-58Z.csv) | 19 |
+| German | `de` | [2026-09-29 16:19 UTC](data/de/new-articles-2026-09-29T16-19-58Z.csv) | 12 |
+| Russian | `ru` | [2026-09-29 16:19 UTC](data/ru/new-articles-2026-09-29T16-19-58Z.csv) | 6 |
+| Spanish | `es` | [2026-09-29 16:19 UTC](data/es/new-articles-2026-09-29T16-19-58Z.csv) | 12 |
+| Italian | `it` | [2026-09-29 16:19 UTC](data/it/new-articles-2026-09-29T16-19-58Z.csv) | 10 |
+| Portuguese | `pt` | [2026-09-29 16:19 UTC](data/pt/new-articles-2026-09-29T16-19-58Z.csv) | 5 |
+| Polish | `pl` | [2026-09-29 16:19 UTC](data/pl/new-articles-2026-09-29T16-19-58Z.csv) | 6 |
+| Arabic | `ar` | [2026-09-29 16:19 UTC](data/ar/new-articles-2026-09-29T16-19-58Z.csv) | 12 |
+| Persian | `fa` | [2026-09-29 16:19 UTC](data/fa/new-articles-2026-09-29T16-19-58Z.csv) | 5 |
+| Turkish | `tr` | [2026-09-29 16:19 UTC](data/tr/new-articles-2026-09-29T16-19-58Z.csv) | 6 |
+| Hebrew | `he` | [2026-09-29 16:19 UTC](data/he/new-articles-2026-09-29T16-19-58Z.csv) | 5 |
+| Swedish | `sv` | [2026-09-29 16:19 UTC](data/sv/new-articles-2026-09-29T16-19-58Z.csv) | 2 |
 | Dutch | `nl` | [2026-09-29 15:19 UTC](data/nl/new-articles-2026-09-29T15-19-11Z.csv) | 4 |
-| Korean | `ko` | [2026-09-29 15:19 UTC](data/ko/new-articles-2026-09-29T15-19-11Z.csv) | 1 |
-| Indonesian | `id` | [2026-09-29 15:19 UTC](data/id/new-articles-2026-09-29T15-19-11Z.csv) | 15 |
-| Ukrainian | `uk` | [2026-09-29 15:19 UTC](data/uk/new-articles-2026-09-29T15-19-11Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-09-29 15:19 UTC](data/vi/new-articles-2026-09-29T15-19-11Z.csv) | 1 |
+| Korean | `ko` | [2026-09-29 16:19 UTC](data/ko/new-articles-2026-09-29T16-19-58Z.csv) | 1 |
+| Indonesian | `id` | [2026-09-29 16:19 UTC](data/id/new-articles-2026-09-29T16-19-58Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-09-29 16:19 UTC](data/uk/new-articles-2026-09-29T16-19-58Z.csv) | 8 |
+| Vietnamese | `vi` | [2026-09-29 16:19 UTC](data/vi/new-articles-2026-09-29T16-19-58Z.csv) | 5 |
 
-## English (en) — 2026-09-29 15:19 UTC
+## English (en) — 2026-09-29 16:19 UTC
 
-New articles created between 2026-09-29 14:21 UTC and 2026-09-29 15:19 UTC.
+New articles created between 2026-09-29 15:19 UTC and 2026-09-29 16:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-29T15-19-11Z.csv)
+[Full CSV](data/en/new-articles-2026-09-29T16-19-58Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-29 14:32:19 | [Elizabeth Mincoff-Marriage](https://en.wikipedia.org/wiki/Elizabeth_Mincoff-Marriage) | [Arkistointi](https://en.wikipedia.org/wiki/User:Arkistointi) | 7,208 |
-| 2026-09-29 14:39:57 | [José Castro Carmona](https://en.wikipedia.org/wiki/Jos%C3%A9_Castro_Carmona) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 6,034 |
-| 2026-09-29 14:40:35 | [Abraham Bueno Espinosa](https://en.wikipedia.org/wiki/Abraham_Bueno_Espinosa) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 4,191 |
-| 2026-09-29 14:40:38 | [André Brasilier](https://en.wikipedia.org/wiki/Andr%C3%A9_Brasilier) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 2,438 |
-| 2026-09-29 14:41:04 | [Aphotaenius cambeforti](https://en.wikipedia.org/wiki/Aphotaenius_cambeforti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,812 |
-| 2026-09-29 14:44:11 | [Muritala Ajaka](https://en.wikipedia.org/wiki/Muritala_Ajaka) | [Saad Nuhu](https://en.wikipedia.org/wiki/User:Saad_Nuhu) | 217 |
-| 2026-09-29 14:46:14 | [Sateliot](https://en.wikipedia.org/wiki/Sateliot) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 3,620 |
-| 2026-09-29 14:46:43 | [Marlow Gudmundson](https://en.wikipedia.org/wiki/Marlow_Gudmundson) | [PutABoatOnTheWater](https://en.wikipedia.org/wiki/User:PutABoatOnTheWater) | 4,158 |
-| 2026-09-29 14:46:43 | [Cross Keys, Dringhouses](https://en.wikipedia.org/wiki/Cross_Keys%2C_Dringhouses) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 7,313 |
-| 2026-09-29 14:48:26 | [UFC Fight Night 295](https://en.wikipedia.org/wiki/UFC_Fight_Night_295) | [Marty2Hotty](https://en.wikipedia.org/wiki/User:Marty2Hotty) | 3,016 |
-| 2026-09-29 14:48:53 | [Nigeria Electoral Act](https://en.wikipedia.org/wiki/Nigeria_Electoral_Act) | [Umasoyee](https://en.wikipedia.org/wiki/User:Umasoyee) | 3,722 |
-| 2026-09-29 14:48:58 | [Ali Sultan of Elisu](https://en.wikipedia.org/wiki/Ali_Sultan_of_Elisu) | [Hasanakhi05](https://en.wikipedia.org/wiki/User:Hasanakhi05) | 8,721 |
-| 2026-09-29 14:53:24 | [Michael Hambrey](https://en.wikipedia.org/wiki/Michael_Hambrey) | [GeorgeTed1952](https://en.wikipedia.org/wiki/User:GeorgeTed1952) | 2,094 |
-| 2026-09-29 14:56:16 | [2026 Staškov school stabbing](https://en.wikipedia.org/wiki/2026_Sta%C5%A1kov_school_stabbing) | [Militant.Insurgency](https://en.wikipedia.org/wiki/User:Militant.Insurgency) | 1,087 |
-| 2026-09-29 15:04:38 | [2027 in UFC](https://en.wikipedia.org/wiki/2027_in_UFC) | [Marty2Hotty](https://en.wikipedia.org/wiki/User:Marty2Hotty) | 3,108 |
-| 2026-09-29 15:06:02 | [Mahdiye Elahi Ghomshei](https://en.wikipedia.org/wiki/Mahdiye_Elahi_Ghomshei) | [Sajjadmrt](https://en.wikipedia.org/wiki/User:Sajjadmrt) | 6,064 |
-| 2026-09-29 15:06:42 | [Sergey Zatravkin](https://en.wikipedia.org/wiki/Sergey_Zatravkin) | [AlekDyai](https://en.wikipedia.org/wiki/User:AlekDyai) | 14,474 |
-| 2026-09-29 15:07:46 | [A Lưới 3](https://en.wikipedia.org/wiki/A_L%C6%B0%E1%BB%9Bi_3) | [Vietic2](https://en.wikipedia.org/wiki/User:Vietic2) | 2,895 |
-| 2026-09-29 15:08:43 | [The Lollipops (Danish band)](https://en.wikipedia.org/wiki/The_Lollipops_%28Danish_band%29) | [Stephen Garold](https://en.wikipedia.org/wiki/User:Stephen_Garold) | 21,321 |
-| 2026-09-29 15:09:14 | [Chromotrope](https://en.wikipedia.org/wiki/Chromotrope) | [Minihaa](https://en.wikipedia.org/wiki/User:Minihaa) | 4,286 |
-| 2026-09-29 15:12:57 | [Red silky anteater](https://en.wikipedia.org/wiki/Red_silky_anteater) | [Enwebb](https://en.wikipedia.org/wiki/User:Enwebb) | 647 |
-| 2026-09-29 15:14:11 | [Evangeliary of Notker](https://en.wikipedia.org/wiki/Evangeliary_of_Notker) | [Yakikaki](https://en.wikipedia.org/wiki/User:Yakikaki) | 2,370 |
-| 2026-09-29 15:17:52 | [2026 Quebec Islamic threat](https://en.wikipedia.org/wiki/2026_Quebec_Islamic_threat) | [Xvmn110](https://en.wikipedia.org/wiki/User:Xvmn110) | 1,898 |
+| 2026-09-29 15:20:47 | [2026–27 Çaykur Rizespor season](https://en.wikipedia.org/wiki/2026%E2%80%9327_%C3%87aykur_Rizespor_season) | [Ekrembjk09](https://en.wikipedia.org/wiki/User:Ekrembjk09) | 19,751 |
+| 2026-09-29 15:25:31 | [RAF Abu Dhabi](https://en.wikipedia.org/wiki/RAF_Abu_Dhabi) | [Marty2Hotty](https://en.wikipedia.org/wiki/User:Marty2Hotty) | 3,295 |
+| 2026-09-29 15:27:13 | [James E. Hughes Jr.](https://en.wikipedia.org/wiki/James_E._Hughes_Jr.) | [Regazal](https://en.wikipedia.org/wiki/User:Regazal) | 12,760 |
+| 2026-09-29 15:27:20 | [Daniele Parente](https://en.wikipedia.org/wiki/Daniele_Parente) | [Nick.mon](https://en.wikipedia.org/wiki/User:Nick.mon) | 3,925 |
+| 2026-09-29 15:27:57 | [Bergen Reilly](https://en.wikipedia.org/wiki/Bergen_Reilly) | [Hameltion](https://en.wikipedia.org/wiki/User:Hameltion) | 7,546 |
+| 2026-09-29 15:30:38 | [List of acts of the Parliament of Victoria from 1892](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1892) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 772 |
+| 2026-09-29 15:31:53 | [Cruciform Building](https://en.wikipedia.org/wiki/Cruciform_Building) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 4,684 |
+| 2026-09-29 15:34:46 | [List of acts of the Parliament of Victoria from 1895](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1895) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 1,088 |
+| 2026-09-29 15:37:43 | [List of acts of the Parliament of Victoria from 1896](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1896) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 839 |
+| 2026-09-29 15:37:57 | [Vladislav Golovin](https://en.wikipedia.org/wiki/Vladislav_Golovin) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,780 |
+| 2026-09-29 15:40:36 | [List of acts of the Parliament of Victoria from 1899](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1899) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 817 |
+| 2026-09-29 15:40:40 | [The TEAM (theater group)](https://en.wikipedia.org/wiki/The_TEAM_%28theater_group%29) | [Dizzycheekchewer](https://en.wikipedia.org/wiki/User:Dizzycheekchewer) | 5,680 |
+| 2026-09-29 15:44:27 | [शुभम रमेश्वर काकडे](https://en.wikipedia.org/wiki/%E0%A4%B6%E0%A5%81%E0%A4%AD%E0%A4%AE_%E0%A4%B0%E0%A4%AE%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0_%E0%A4%95%E0%A4%BE%E0%A4%95%E0%A4%A1%E0%A5%87) | [Hha66627](https://en.wikipedia.org/wiki/User:Hha66627) | 2,200 |
+| 2026-09-29 15:46:56 | [Emanuel Stettler](https://en.wikipedia.org/wiki/Emanuel_Stettler) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,520 |
+| 2026-09-29 15:47:12 | [Michael Stettler](https://en.wikipedia.org/wiki/Michael_Stettler) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 232 |
+| 2026-09-29 15:53:13 | [Iberia Tenerife](https://en.wikipedia.org/wiki/Iberia_Tenerife) | [Help.Football.History](https://en.wikipedia.org/wiki/User:Help.Football.History) | 3,520 |
+| 2026-09-29 15:53:57 | [Initial public offering of Anthropic](https://en.wikipedia.org/wiki/Initial_public_offering_of_Anthropic) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 647 |
+| 2026-09-29 15:55:49 | [2026 Kyauktaw market airstrike](https://en.wikipedia.org/wiki/2026_Kyauktaw_market_airstrike) | [Win Kyaw](https://en.wikipedia.org/wiki/User:Win_Kyaw) | 9,486 |
+| 2026-09-29 15:56:47 | [Canoeing at the 2026 Asian Games – Men's C-1 500 metres](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_C-1_500_metres) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 2,566 |
+| 2026-09-29 16:03:52 | [1945 London local elections](https://en.wikipedia.org/wiki/1945_London_local_elections) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 8,763 |
+| 2026-09-29 16:08:12 | [Artabba](https://en.wikipedia.org/wiki/Artabba) | [Mariamnei](https://en.wikipedia.org/wiki/User:Mariamnei) | 2,580 |
+| 2026-09-29 16:10:40 | [Inman Sealby](https://en.wikipedia.org/wiki/Inman_Sealby) | [Omnis Scientia](https://en.wikipedia.org/wiki/User:Omnis_Scientia) | 8,903 |
+| 2026-09-29 16:10:43 | [Nathan Cleaves](https://en.wikipedia.org/wiki/Nathan_Cleaves) | [Namiba](https://en.wikipedia.org/wiki/User:Namiba) | 1,791 |
+| 2026-09-29 16:16:18 | [Big Brother Malta season 1](https://en.wikipedia.org/wiki/Big_Brother_Malta_season_1) | [A675974811](https://en.wikipedia.org/wiki/User:A675974811) | 3,777 |
