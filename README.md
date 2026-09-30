@@ -13,69 +13,63 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-30 17:22 UTC](data/en/new-articles-2026-09-30T17-22-11Z.csv) | 37 |
-| Japanese | `ja` | [2026-09-30 17:22 UTC](data/ja/new-articles-2026-09-30T17-22-11Z.csv) | 5 |
-| Chinese | `zh` | [2026-09-30 17:22 UTC](data/zh/new-articles-2026-09-30T17-22-11Z.csv) | 3 |
-| French | `fr` | [2026-09-30 17:22 UTC](data/fr/new-articles-2026-09-30T17-22-11Z.csv) | 11 |
-| German | `de` | [2026-09-30 17:22 UTC](data/de/new-articles-2026-09-30T17-22-11Z.csv) | 13 |
-| Russian | `ru` | [2026-09-30 17:22 UTC](data/ru/new-articles-2026-09-30T17-22-11Z.csv) | 11 |
-| Spanish | `es` | [2026-09-30 17:22 UTC](data/es/new-articles-2026-09-30T17-22-11Z.csv) | 11 |
-| Italian | `it` | [2026-09-30 17:22 UTC](data/it/new-articles-2026-09-30T17-22-11Z.csv) | 9 |
-| Portuguese | `pt` | [2026-09-30 17:22 UTC](data/pt/new-articles-2026-09-30T17-22-11Z.csv) | 7 |
-| Polish | `pl` | [2026-09-30 17:22 UTC](data/pl/new-articles-2026-09-30T17-22-11Z.csv) | 9 |
-| Arabic | `ar` | [2026-09-30 17:22 UTC](data/ar/new-articles-2026-09-30T17-22-11Z.csv) | 5 |
-| Persian | `fa` | [2026-09-30 17:22 UTC](data/fa/new-articles-2026-09-30T17-22-11Z.csv) | 20 |
-| Turkish | `tr` | [2026-09-30 17:22 UTC](data/tr/new-articles-2026-09-30T17-22-11Z.csv) | 6 |
-| Hebrew | `he` | [2026-09-30 17:22 UTC](data/he/new-articles-2026-09-30T17-22-11Z.csv) | 1 |
-| Swedish | `sv` | [2026-09-30 17:22 UTC](data/sv/new-articles-2026-09-30T17-22-11Z.csv) | 4 |
-| Dutch | `nl` | [2026-09-30 17:22 UTC](data/nl/new-articles-2026-09-30T17-22-11Z.csv) | 4 |
+| English | `en` | [2026-09-30 18:21 UTC](data/en/new-articles-2026-09-30T18-21-10Z.csv) | 31 |
+| Japanese | `ja` | [2026-09-30 18:21 UTC](data/ja/new-articles-2026-09-30T18-21-10Z.csv) | 4 |
+| Chinese | `zh` | [2026-09-30 18:21 UTC](data/zh/new-articles-2026-09-30T18-21-10Z.csv) | 3 |
+| French | `fr` | [2026-09-30 18:21 UTC](data/fr/new-articles-2026-09-30T18-21-10Z.csv) | 9 |
+| German | `de` | [2026-09-30 18:21 UTC](data/de/new-articles-2026-09-30T18-21-10Z.csv) | 11 |
+| Russian | `ru` | [2026-09-30 18:21 UTC](data/ru/new-articles-2026-09-30T18-21-10Z.csv) | 7 |
+| Spanish | `es` | [2026-09-30 18:21 UTC](data/es/new-articles-2026-09-30T18-21-10Z.csv) | 14 |
+| Italian | `it` | [2026-09-30 18:21 UTC](data/it/new-articles-2026-09-30T18-21-10Z.csv) | 6 |
+| Portuguese | `pt` | [2026-09-30 18:21 UTC](data/pt/new-articles-2026-09-30T18-21-10Z.csv) | 13 |
+| Polish | `pl` | [2026-09-30 18:21 UTC](data/pl/new-articles-2026-09-30T18-21-10Z.csv) | 8 |
+| Arabic | `ar` | [2026-09-30 18:21 UTC](data/ar/new-articles-2026-09-30T18-21-10Z.csv) | 8 |
+| Persian | `fa` | [2026-09-30 18:21 UTC](data/fa/new-articles-2026-09-30T18-21-10Z.csv) | 16 |
+| Turkish | `tr` | [2026-09-30 18:21 UTC](data/tr/new-articles-2026-09-30T18-21-10Z.csv) | 6 |
+| Hebrew | `he` | [2026-09-30 18:21 UTC](data/he/new-articles-2026-09-30T18-21-10Z.csv) | 1 |
+| Swedish | `sv` | [2026-09-30 18:21 UTC](data/sv/new-articles-2026-09-30T18-21-10Z.csv) | 4 |
+| Dutch | `nl` | [2026-09-30 18:21 UTC](data/nl/new-articles-2026-09-30T18-21-10Z.csv) | 4 |
 | Korean | `ko` | [2026-09-30 17:22 UTC](data/ko/new-articles-2026-09-30T17-22-11Z.csv) | 3 |
-| Indonesian | `id` | [2026-09-30 17:22 UTC](data/id/new-articles-2026-09-30T17-22-11Z.csv) | 13 |
-| Ukrainian | `uk` | [2026-09-30 17:22 UTC](data/uk/new-articles-2026-09-30T17-22-11Z.csv) | 10 |
-| Vietnamese | `vi` | [2026-09-30 16:18 UTC](data/vi/new-articles-2026-09-30T16-18-42Z.csv) | 3 |
+| Indonesian | `id` | [2026-09-30 18:21 UTC](data/id/new-articles-2026-09-30T18-21-10Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-09-30 18:21 UTC](data/uk/new-articles-2026-09-30T18-21-10Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-09-30 18:21 UTC](data/vi/new-articles-2026-09-30T18-21-10Z.csv) | 1 |
 
-## English (en) — 2026-09-30 17:22 UTC
+## English (en) — 2026-09-30 18:21 UTC
 
-New articles created between 2026-09-30 16:18 UTC and 2026-09-30 17:22 UTC.
+New articles created between 2026-09-30 17:22 UTC and 2026-09-30 18:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-30T17-22-11Z.csv)
+[Full CSV](data/en/new-articles-2026-09-30T18-21-10Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-30 16:21:52 | [Elizabeth Molyneux](https://en.wikipedia.org/wiki/Elizabeth_Molyneux) | [Victuallers](https://en.wikipedia.org/wiki/User:Victuallers) | 2,225 |
-| 2026-09-30 16:22:45 | [Sport climbing at the 2026 Asian Games – Women's speed](https://en.wikipedia.org/wiki/Sport_climbing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_speed) | [Stvbastian](https://en.wikipedia.org/wiki/User:Stvbastian) | 5,234 |
-| 2026-09-30 16:25:31 | [National Public Diplomacy Directorate](https://en.wikipedia.org/wiki/National_Public_Diplomacy_Directorate) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 3,304 |
-| 2026-09-30 16:26:04 | [Rossville Township, Kansas](https://en.wikipedia.org/wiki/Rossville_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 4,973 |
-| 2026-09-30 16:31:07 | [Luz de mis noches](https://en.wikipedia.org/wiki/Luz_de_mis_noches) | [Telenovelafan215](https://en.wikipedia.org/wiki/User:Telenovelafan215) | 5,262 |
-| 2026-09-30 16:32:32 | [ץױוזשלﬨטפב](https://en.wikipedia.org/wiki/%D7%A5%D7%B1%D7%95%D7%96%D7%A9%D7%9C%EF%AC%A8%D7%98%D7%A4%D7%91) | [ווסטוק](https://en.wikipedia.org/wiki/User:%D7%95%D7%95%D7%A1%D7%98%D7%95%D7%A7) | 21 |
-| 2026-09-30 16:33:38 | [List of people associated with the Canadian Museum of Nature](https://en.wikipedia.org/wiki/List_of_people_associated_with_the_Canadian_Museum_of_Nature) | [MarrissaM](https://en.wikipedia.org/wiki/User:MarrissaM) | 1,231 |
-| 2026-09-30 16:36:38 | [Solneman der Unsichtbare](https://en.wikipedia.org/wiki/Solneman_der_Unsichtbare) | [Uriahheep228](https://en.wikipedia.org/wiki/User:Uriahheep228) | 3,082 |
-| 2026-09-30 16:36:47 | [Third Nazim al-Qudsi government](https://en.wikipedia.org/wiki/Third_Nazim_al-Qudsi_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,133 |
-| 2026-09-30 16:37:39 | [APMC Market, Vashi](https://en.wikipedia.org/wiki/APMC_Market%2C_Vashi) | [Sntshkumar750](https://en.wikipedia.org/wiki/User:Sntshkumar750) | 1,959 |
-| 2026-09-30 16:38:38 | [Noam Shapira](https://en.wikipedia.org/wiki/Noam_Shapira) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 2,014 |
-| 2026-09-30 16:39:07 | [Fourth Khalid al-Azm government](https://en.wikipedia.org/wiki/Fourth_Khalid_al-Azm_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,446 |
-| 2026-09-30 16:40:53 | [Second Hassan al-Hakim government](https://en.wikipedia.org/wiki/Second_Hassan_al-Hakim_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,293 |
-| 2026-09-30 16:41:46 | [Carlos Pedro Blaquier](https://en.wikipedia.org/wiki/Carlos_Pedro_Blaquier) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 901 |
-| 2026-09-30 16:42:56 | [First Maarouf al-Dawalibi government](https://en.wikipedia.org/wiki/First_Maarouf_al-Dawalibi_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,507 |
-| 2026-09-30 16:44:23 | [Mark Redman (disambiguation)](https://en.wikipedia.org/wiki/Mark_Redman_%28disambiguation%29) | [Gonzo fan2007](https://en.wikipedia.org/wiki/User:Gonzo_fan2007) | 332 |
-| 2026-09-30 16:45:00 | [Sungjeonggiwon](https://en.wikipedia.org/wiki/Sungjeonggiwon) | [Min968](https://en.wikipedia.org/wiki/User:Min968) | 21,404 |
-| 2026-09-30 16:45:10 | [Listed buildings in Welwick](https://en.wikipedia.org/wiki/Listed_buildings_in_Welwick) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 4,413 |
-| 2026-09-30 16:45:28 | [Fawzi Selu government](https://en.wikipedia.org/wiki/Fawzi_Selu_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 6,556 |
-| 2026-09-30 16:46:30 | [Adib Shishakli government](https://en.wikipedia.org/wiki/Adib_Shishakli_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 6,103 |
-| 2026-09-30 16:47:32 | [Turbulence (2009 novel)](https://en.wikipedia.org/wiki/Turbulence_%282009_novel%29) | [Evenmadderjon](https://en.wikipedia.org/wiki/User:Evenmadderjon) | 12,270 |
-| 2026-09-30 16:48:12 | [First Sabri al-Asali government](https://en.wikipedia.org/wiki/First_Sabri_al-Asali_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,696 |
-| 2026-09-30 16:49:32 | [First Said al-Ghazzi government](https://en.wikipedia.org/wiki/First_Said_al-Ghazzi_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 6,412 |
-| 2026-09-30 16:50:42 | [Fourth Fares al-Khoury government](https://en.wikipedia.org/wiki/Fourth_Fares_al-Khoury_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,476 |
-| 2026-09-30 16:50:46 | [Dawn Charging](https://en.wikipedia.org/wiki/Dawn_Charging) | [Tymewalk](https://en.wikipedia.org/wiki/User:Tymewalk) | 3,362 |
-| 2026-09-30 16:50:50 | [Shekhar (actor)](https://en.wikipedia.org/wiki/Shekhar_%28actor%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 3,978 |
-| 2026-09-30 16:53:27 | [Second Sabri al-Asali government](https://en.wikipedia.org/wiki/Second_Sabri_al-Asali_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 7,291 |
-| 2026-09-30 16:54:09 | [Plank Road State Forest](https://en.wikipedia.org/wiki/Plank_Road_State_Forest) | [Operator 16](https://en.wikipedia.org/wiki/User:Operator_16) | 5,846 |
-| 2026-09-30 16:54:31 | [Second Said al-Ghazzi government](https://en.wikipedia.org/wiki/Second_Said_al-Ghazzi_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 9,140 |
-| 2026-09-30 16:54:54 | [Silver Lake Township, Kansas](https://en.wikipedia.org/wiki/Silver_Lake_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,282 |
-| 2026-09-30 16:55:21 | [Mélanie Berger-Volle](https://en.wikipedia.org/wiki/M%C3%A9lanie_Berger-Volle) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 11,532 |
-| 2026-09-30 16:55:29 | [Third Sabri al-Asali government](https://en.wikipedia.org/wiki/Third_Sabri_al-Asali_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 8,050 |
-| 2026-09-30 17:00:14 | [Fourth Sabri al-Asali government](https://en.wikipedia.org/wiki/Fourth_Sabri_al-Asali_government) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 8,653 |
-| 2026-09-30 17:00:44 | [Nanaka Kajiki](https://en.wikipedia.org/wiki/Nanaka_Kajiki) | [Family27390](https://en.wikipedia.org/wiki/User:Family27390) | 1,936 |
-| 2026-09-30 17:00:53 | [Seated Woman in Blue (Cézanne)](https://en.wikipedia.org/wiki/Seated_Woman_in_Blue_%28C%C3%A9zanne%29) | [Svanesaang](https://en.wikipedia.org/wiki/User:Svanesaang) | 580 |
-| 2026-09-30 17:02:17 | [Nuno Silva (football manager)](https://en.wikipedia.org/wiki/Nuno_Silva_%28football_manager%29) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,457 |
-| 2026-09-30 17:10:56 | [Katambour](https://en.wikipedia.org/wiki/Katambour) | [Faldi00](https://en.wikipedia.org/wiki/User:Faldi00) | 5,246 |
+| 2026-09-30 17:23:20 | [Al-Qwarah Club](https://en.wikipedia.org/wiki/Al-Qwarah_Club) | [Montahaha](https://en.wikipedia.org/wiki/User:Montahaha) | 3,637 |
+| 2026-09-30 17:24:04 | [Yu Kwang-u](https://en.wikipedia.org/wiki/Yu_Kwang-u) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 3,546 |
+| 2026-09-30 17:28:57 | [2012 NASCAR K&N Pro Series West](https://en.wikipedia.org/wiki/2012_NASCAR_K%26N_Pro_Series_West) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 9,565 |
+| 2026-09-30 17:31:34 | [Cecilia Prins](https://en.wikipedia.org/wiki/Cecilia_Prins) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,505 |
+| 2026-09-30 17:35:15 | [Ikemen Vampire](https://en.wikipedia.org/wiki/Ikemen_Vampire) | [LePetitFilesdeFrance](https://en.wikipedia.org/wiki/User:LePetitFilesdeFrance) | 14,073 |
+| 2026-09-30 17:45:56 | [An Kum-chol](https://en.wikipedia.org/wiki/An_Kum-chol) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 3,962 |
+| 2026-09-30 17:46:31 | [Abd al-Karim Zahr al-Din](https://en.wikipedia.org/wiki/Abd_al-Karim_Zahr_al-Din) | [Folkezoft](https://en.wikipedia.org/wiki/User:Folkezoft) | 1,706 |
+| 2026-09-30 17:50:03 | [The Cote Photo](https://en.wikipedia.org/wiki/The_Cote_Photo) | [Asilhasbanhadas](https://en.wikipedia.org/wiki/User:Asilhasbanhadas) | 7,515 |
+| 2026-09-30 17:51:56 | [Brajendra Lal Mitter](https://en.wikipedia.org/wiki/Brajendra_Lal_Mitter) | [Vinegarymass911](https://en.wikipedia.org/wiki/User:Vinegarymass911) | 2,608 |
+| 2026-09-30 17:57:43 | [Sin Yong-il](https://en.wikipedia.org/wiki/Sin_Yong-il) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 3,919 |
+| 2026-09-30 18:00:07 | [Veronica Kerr](https://en.wikipedia.org/wiki/Veronica_Kerr) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,777 |
+| 2026-09-30 18:01:03 | [Hedlundia harziana](https://en.wikipedia.org/wiki/Hedlundia_harziana) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 6,068 |
+| 2026-09-30 18:01:32 | [ATP23](https://en.wikipedia.org/wiki/ATP23) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 1,993 |
+| 2026-09-30 18:02:24 | [Sergei Chapnin](https://en.wikipedia.org/wiki/Sergei_Chapnin) | [Theodor Ludenhof](https://en.wikipedia.org/wiki/User:Theodor_Ludenhof) | 12,244 |
+| 2026-09-30 18:05:33 | [Samuel Zehender](https://en.wikipedia.org/wiki/Samuel_Zehender) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,257 |
+| 2026-09-30 18:05:46 | [AMZ1](https://en.wikipedia.org/wiki/AMZ1) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 576 |
+| 2026-09-30 18:06:02 | [Johann Anton von Graffenried](https://en.wikipedia.org/wiki/Johann_Anton_von_Graffenried) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,156 |
+| 2026-09-30 18:06:37 | [Morlot family](https://en.wikipedia.org/wiki/Morlot_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,842 |
+| 2026-09-30 18:07:20 | [Daniel Morlot](https://en.wikipedia.org/wiki/Daniel_Morlot) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,658 |
+| 2026-09-30 18:07:33 | [Gottlieb Emanuel von Morlot](https://en.wikipedia.org/wiki/Gottlieb_Emanuel_von_Morlot) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,096 |
+| 2026-09-30 18:07:54 | [Maigret and the Wine Merchant](https://en.wikipedia.org/wiki/Maigret_and_the_Wine_Merchant) | [Kencf0618](https://en.wikipedia.org/wiki/User:Kencf0618) | 2,405 |
+| 2026-09-30 18:09:04 | [Shrine of Saint Servatius](https://en.wikipedia.org/wiki/Shrine_of_Saint_Servatius) | [Kleon3](https://en.wikipedia.org/wiki/User:Kleon3) | 24,016 |
+| 2026-09-30 18:10:11 | [Exquisitely engineered molecule](https://en.wikipedia.org/wiki/Exquisitely_engineered_molecule) | [LifeDancePro](https://en.wikipedia.org/wiki/User:LifeDancePro) | 490 |
+| 2026-09-30 18:10:22 | [Female Parasol and Umbrella Makers' Union of New York](https://en.wikipedia.org/wiki/Female_Parasol_and_Umbrella_Makers%27_Union_of_New_York) | [Jessamyn](https://en.wikipedia.org/wiki/User:Jessamyn) | 3,922 |
+| 2026-09-30 18:10:44 | [Yaniv Hayon](https://en.wikipedia.org/wiki/Yaniv_Hayon) | [Nckdrmn](https://en.wikipedia.org/wiki/User:Nckdrmn) | 3,016 |
+| 2026-09-30 18:10:59 | [Emanuel von Graffenried](https://en.wikipedia.org/wiki/Emanuel_von_Graffenried) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,483 |
+| 2026-09-30 18:11:11 | [Johann Bernhard von Muralt](https://en.wikipedia.org/wiki/Johann_Bernhard_von_Muralt) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,665 |
+| 2026-09-30 18:15:34 | [Gastrotheca aguaruna](https://en.wikipedia.org/wiki/Gastrotheca_aguaruna) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 3,010 |
+| 2026-09-30 18:17:29 | [RM x SFMOMA: Between You and Me](https://en.wikipedia.org/wiki/RM_x_SFMOMA%3A_Between_You_and_Me) | [Jnc xavier](https://en.wikipedia.org/wiki/User:Jnc_xavier) | 13,867 |
+| 2026-09-30 18:19:23 | [Abelmoschus tuberculatus](https://en.wikipedia.org/wiki/Abelmoschus_tuberculatus) | [Trscavo](https://en.wikipedia.org/wiki/User:Trscavo) | 688 |
+| 2026-09-30 18:20:12 | [Rene Reid](https://en.wikipedia.org/wiki/Rene_Reid) | [WhenSeptEnds](https://en.wikipedia.org/wiki/User:WhenSeptEnds) | 12,233 |
