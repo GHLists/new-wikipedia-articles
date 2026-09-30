@@ -13,51 +13,62 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-30 13:22 UTC](data/en/new-articles-2026-09-30T13-22-21Z.csv) | 19 |
-| Japanese | `ja` | [2026-09-30 13:22 UTC](data/ja/new-articles-2026-09-30T13-22-21Z.csv) | 8 |
-| Chinese | `zh` | [2026-09-30 13:22 UTC](data/zh/new-articles-2026-09-30T13-22-21Z.csv) | 8 |
-| French | `fr` | [2026-09-30 13:22 UTC](data/fr/new-articles-2026-09-30T13-22-21Z.csv) | 27 |
-| German | `de` | [2026-09-30 13:22 UTC](data/de/new-articles-2026-09-30T13-22-21Z.csv) | 10 |
-| Russian | `ru` | [2026-09-30 13:22 UTC](data/ru/new-articles-2026-09-30T13-22-21Z.csv) | 9 |
-| Spanish | `es` | [2026-09-30 13:22 UTC](data/es/new-articles-2026-09-30T13-22-21Z.csv) | 6 |
-| Italian | `it` | [2026-09-30 13:22 UTC](data/it/new-articles-2026-09-30T13-22-21Z.csv) | 23 |
-| Portuguese | `pt` | [2026-09-30 13:22 UTC](data/pt/new-articles-2026-09-30T13-22-21Z.csv) | 5 |
-| Polish | `pl` | [2026-09-30 13:22 UTC](data/pl/new-articles-2026-09-30T13-22-21Z.csv) | 3 |
-| Arabic | `ar` | [2026-09-30 13:22 UTC](data/ar/new-articles-2026-09-30T13-22-21Z.csv) | 4 |
-| Persian | `fa` | [2026-09-30 13:22 UTC](data/fa/new-articles-2026-09-30T13-22-21Z.csv) | 9 |
-| Turkish | `tr` | [2026-09-30 13:22 UTC](data/tr/new-articles-2026-09-30T13-22-21Z.csv) | 5 |
-| Hebrew | `he` | [2026-09-30 13:22 UTC](data/he/new-articles-2026-09-30T13-22-21Z.csv) | 3 |
-| Swedish | `sv` | [2026-09-30 11:19 UTC](data/sv/new-articles-2026-09-30T11-19-48Z.csv) | 2 |
-| Dutch | `nl` | [2026-09-30 13:22 UTC](data/nl/new-articles-2026-09-30T13-22-21Z.csv) | 6 |
-| Korean | `ko` | [2026-09-30 13:22 UTC](data/ko/new-articles-2026-09-30T13-22-21Z.csv) | 2 |
-| Indonesian | `id` | [2026-09-30 13:22 UTC](data/id/new-articles-2026-09-30T13-22-21Z.csv) | 26 |
-| Ukrainian | `uk` | [2026-09-30 13:22 UTC](data/uk/new-articles-2026-09-30T13-22-21Z.csv) | 11 |
-| Vietnamese | `vi` | [2026-09-30 13:22 UTC](data/vi/new-articles-2026-09-30T13-22-21Z.csv) | 1 |
+| English | `en` | [2026-09-30 14:19 UTC](data/en/new-articles-2026-09-30T14-19-23Z.csv) | 30 |
+| Japanese | `ja` | [2026-09-30 14:19 UTC](data/ja/new-articles-2026-09-30T14-19-23Z.csv) | 9 |
+| Chinese | `zh` | [2026-09-30 14:19 UTC](data/zh/new-articles-2026-09-30T14-19-23Z.csv) | 7 |
+| French | `fr` | [2026-09-30 14:19 UTC](data/fr/new-articles-2026-09-30T14-19-23Z.csv) | 18 |
+| German | `de` | [2026-09-30 14:19 UTC](data/de/new-articles-2026-09-30T14-19-23Z.csv) | 13 |
+| Russian | `ru` | [2026-09-30 14:19 UTC](data/ru/new-articles-2026-09-30T14-19-23Z.csv) | 10 |
+| Spanish | `es` | [2026-09-30 14:19 UTC](data/es/new-articles-2026-09-30T14-19-23Z.csv) | 22 |
+| Italian | `it` | [2026-09-30 14:19 UTC](data/it/new-articles-2026-09-30T14-19-23Z.csv) | 9 |
+| Portuguese | `pt` | [2026-09-30 14:19 UTC](data/pt/new-articles-2026-09-30T14-19-23Z.csv) | 6 |
+| Polish | `pl` | [2026-09-30 14:19 UTC](data/pl/new-articles-2026-09-30T14-19-23Z.csv) | 6 |
+| Arabic | `ar` | [2026-09-30 14:19 UTC](data/ar/new-articles-2026-09-30T14-19-23Z.csv) | 6 |
+| Persian | `fa` | [2026-09-30 14:19 UTC](data/fa/new-articles-2026-09-30T14-19-23Z.csv) | 9 |
+| Turkish | `tr` | [2026-09-30 14:19 UTC](data/tr/new-articles-2026-09-30T14-19-23Z.csv) | 3 |
+| Hebrew | `he` | [2026-09-30 14:19 UTC](data/he/new-articles-2026-09-30T14-19-23Z.csv) | 4 |
+| Swedish | `sv` | [2026-09-30 14:19 UTC](data/sv/new-articles-2026-09-30T14-19-23Z.csv) | 4 |
+| Dutch | `nl` | [2026-09-30 14:19 UTC](data/nl/new-articles-2026-09-30T14-19-23Z.csv) | 3 |
+| Korean | `ko` | [2026-09-30 14:19 UTC](data/ko/new-articles-2026-09-30T14-19-23Z.csv) | 7 |
+| Indonesian | `id` | [2026-09-30 14:19 UTC](data/id/new-articles-2026-09-30T14-19-23Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-09-30 14:19 UTC](data/uk/new-articles-2026-09-30T14-19-23Z.csv) | 4 |
+| Vietnamese | `vi` | [2026-09-30 14:19 UTC](data/vi/new-articles-2026-09-30T14-19-23Z.csv) | 1 |
 
-## English (en) — 2026-09-30 13:22 UTC
+## English (en) — 2026-09-30 14:19 UTC
 
-New articles created between 2026-09-30 12:21 UTC and 2026-09-30 13:22 UTC.
+New articles created between 2026-09-30 13:22 UTC and 2026-09-30 14:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-30T13-22-21Z.csv)
+[Full CSV](data/en/new-articles-2026-09-30T14-19-23Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-30 12:35:27 | [Zahra Zarei Manoujan](https://en.wikipedia.org/wiki/Zahra_Zarei_Manoujan) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,224 |
-| 2026-09-30 12:38:15 | [Statue of Carl Linnaeus](https://en.wikipedia.org/wiki/Statue_of_Carl_Linnaeus) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 971 |
-| 2026-09-30 12:38:31 | [Isikhwama](https://en.wikipedia.org/wiki/Isikhwama) | [Pononoza](https://en.wikipedia.org/wiki/User:Pononoza) | 1,941 |
-| 2026-09-30 12:40:00 | [Shewanesh Abraha](https://en.wikipedia.org/wiki/Shewanesh_Abraha) | [DebreSelam](https://en.wikipedia.org/wiki/User:DebreSelam) | 19,737 |
-| 2026-09-30 12:40:52 | [Euparixoides cribratus](https://en.wikipedia.org/wiki/Euparixoides_cribratus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,819 |
-| 2026-09-30 12:42:35 | [Primary elections in Nigeria](https://en.wikipedia.org/wiki/Primary_elections_in_Nigeria) | [Meritkosy](https://en.wikipedia.org/wiki/User:Meritkosy) | 3,371 |
-| 2026-09-30 12:45:11 | [Social Welfare Bureau](https://en.wikipedia.org/wiki/Social_Welfare_Bureau) | [Beefwiki](https://en.wikipedia.org/wiki/User:Beefwiki) | 8,906 |
-| 2026-09-30 12:45:51 | [Hamisu Santuraki](https://en.wikipedia.org/wiki/Hamisu_Santuraki) | [Gwanki](https://en.wikipedia.org/wiki/User:Gwanki) | 2,892 |
-| 2026-09-30 12:48:26 | [Abdulkadir Isa Adam](https://en.wikipedia.org/wiki/Abdulkadir_Isa_Adam) | [Saad Nuhu](https://en.wikipedia.org/wiki/User:Saad_Nuhu) | 653 |
-| 2026-09-30 12:50:04 | [Remo Calzona](https://en.wikipedia.org/wiki/Remo_Calzona) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 320 |
-| 2026-09-30 12:51:17 | [Walter Tesauro](https://en.wikipedia.org/wiki/Walter_Tesauro) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,924 |
-| 2026-09-30 12:52:45 | [Sude Nur Aslan](https://en.wikipedia.org/wiki/Sude_Nur_Aslan) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 4,360 |
-| 2026-09-30 12:57:22 | [Euparixoides papilio](https://en.wikipedia.org/wiki/Euparixoides_papilio) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,154 |
-| 2026-09-30 12:59:22 | [Euparixoides tachirensis](https://en.wikipedia.org/wiki/Euparixoides_tachirensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,093 |
-| 2026-09-30 13:00:16 | [Amorphous solid dispersion](https://en.wikipedia.org/wiki/Amorphous_solid_dispersion) | [Akrasia25](https://en.wikipedia.org/wiki/User:Akrasia25) | 1,571 |
-| 2026-09-30 13:00:50 | [Euparixoides araguaensis](https://en.wikipedia.org/wiki/Euparixoides_araguaensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,011 |
-| 2026-09-30 13:05:29 | [Lomanoxoides mapitunari](https://en.wikipedia.org/wiki/Lomanoxoides_mapitunari) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,087 |
-| 2026-09-30 13:13:42 | [Kartal Karagedik](https://en.wikipedia.org/wiki/Kartal_Karagedik) | [Gerda Arendt](https://en.wikipedia.org/wiki/User:Gerda_Arendt) | 2,928 |
-| 2026-09-30 13:21:32 | [Giuseppe Federico](https://en.wikipedia.org/wiki/Giuseppe_Federico) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 5,471 |
+| 2026-09-30 13:22:24 | [27 Colliergate](https://en.wikipedia.org/wiki/27_Colliergate) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 9,802 |
+| 2026-09-30 13:25:18 | [2-Nitroso-1-phenylpropane](https://en.wikipedia.org/wiki/2-Nitroso-1-phenylpropane) | [Oeryc](https://en.wikipedia.org/wiki/User:Oeryc) | 3,492 |
+| 2026-09-30 13:25:44 | [List of Turkish German footballers](https://en.wikipedia.org/wiki/List_of_Turkish_German_footballers) | [GhostInTheMachine](https://en.wikipedia.org/wiki/User:GhostInTheMachine) | 743 |
+| 2026-09-30 13:26:09 | [Cycling at the 2026 Asian Games – Women's keirin](https://en.wikipedia.org/wiki/Cycling_at_the_2026_Asian_Games_%E2%80%93_Women%27s_keirin) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 8,545 |
+| 2026-09-30 13:27:34 | [Supakon Tangtiphaiboontana](https://en.wikipedia.org/wiki/Supakon_Tangtiphaiboontana) | [Skaterlight2013](https://en.wikipedia.org/wiki/User:Skaterlight2013) | 4,824 |
+| 2026-09-30 13:27:54 | [Military Order of the Collar](https://en.wikipedia.org/wiki/Military_Order_of_the_Collar) | [CalderClaydon](https://en.wikipedia.org/wiki/User:CalderClaydon) | 3,812 |
+| 2026-09-30 13:31:19 | [Lomanoxoides herediae](https://en.wikipedia.org/wiki/Lomanoxoides_herediae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,026 |
+| 2026-09-30 13:35:25 | [Lomanoxoides nigrolineatus](https://en.wikipedia.org/wiki/Lomanoxoides_nigrolineatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,957 |
+| 2026-09-30 13:37:18 | [Luke Anear](https://en.wikipedia.org/wiki/Luke_Anear) | [Drukmeking](https://en.wikipedia.org/wiki/User:Drukmeking) | 8,942 |
+| 2026-09-30 13:40:16 | [Sarakinos Volos F.C.](https://en.wikipedia.org/wiki/Sarakinos_Volos_F.C.) | [Seanjackson67](https://en.wikipedia.org/wiki/User:Seanjackson67) | 4,219 |
+| 2026-09-30 13:40:41 | [Filippo Collura](https://en.wikipedia.org/wiki/Filippo_Collura) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,289 |
+| 2026-09-30 13:44:18 | [2027 Swale Borough Council election](https://en.wikipedia.org/wiki/2027_Swale_Borough_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 8,639 |
+| 2026-09-30 13:46:49 | [Tenzing Sherpa](https://en.wikipedia.org/wiki/Tenzing_Sherpa) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,338 |
+| 2026-09-30 13:46:51 | [Stanislav Basmanov](https://en.wikipedia.org/wiki/Stanislav_Basmanov) | [Klio654](https://en.wikipedia.org/wiki/User:Klio654) | 6,515 |
+| 2026-09-30 13:47:26 | [Junior Paul (footballer)](https://en.wikipedia.org/wiki/Junior_Paul_%28footballer%29) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 2,594 |
+| 2026-09-30 13:48:44 | [Hylaeus flavojugatus](https://en.wikipedia.org/wiki/Hylaeus_flavojugatus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,241 |
+| 2026-09-30 13:49:48 | [Kebedech Seyoum](https://en.wikipedia.org/wiki/Kebedech_Seyoum) | [DebreSelam](https://en.wikipedia.org/wiki/User:DebreSelam) | 14,720 |
+| 2026-09-30 13:50:28 | [INOXCVA](https://en.wikipedia.org/wiki/INOXCVA) | [Cppfront](https://en.wikipedia.org/wiki/User:Cppfront) | 10,397 |
+| 2026-09-30 13:55:21 | [Taichung City Constituency 6](https://en.wikipedia.org/wiki/Taichung_City_Constituency_6) | [CptnPhasma](https://en.wikipedia.org/wiki/User:CptnPhasma) | 5,324 |
+| 2026-09-30 13:55:35 | [GHGSat](https://en.wikipedia.org/wiki/GHGSat) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 3,611 |
+| 2026-09-30 13:56:16 | [Iguazua](https://en.wikipedia.org/wiki/Iguazua) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,811 |
+| 2026-09-30 13:57:40 | [Ancistrocerus capra](https://en.wikipedia.org/wiki/Ancistrocerus_capra) | [Reider22](https://en.wikipedia.org/wiki/User:Reider22) | 1,175 |
+| 2026-09-30 13:58:13 | [2027 Thanet District Council election](https://en.wikipedia.org/wiki/2027_Thanet_District_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 6,617 |
+| 2026-09-30 14:08:20 | [Moochi (FAST TV channel)](https://en.wikipedia.org/wiki/Moochi_%28FAST_TV_channel%29) | [ToyWio S](https://en.wikipedia.org/wiki/User:ToyWio_S) | 764 |
+| 2026-09-30 14:10:05 | [Iguazua blackwelderi](https://en.wikipedia.org/wiki/Iguazua_blackwelderi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,022 |
+| 2026-09-30 14:11:51 | [2027 Tonbridge and Malling Borough Council election](https://en.wikipedia.org/wiki/2027_Tonbridge_and_Malling_Borough_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 7,066 |
+| 2026-09-30 14:12:04 | [Iguazua costaricensis](https://en.wikipedia.org/wiki/Iguazua_costaricensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,890 |
+| 2026-09-30 14:15:00 | [Mission Township, Shawnee County, Kansas](https://en.wikipedia.org/wiki/Mission_Township%2C_Shawnee_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,980 |
+| 2026-09-30 14:16:38 | [Odontolytes waoraniae](https://en.wikipedia.org/wiki/Odontolytes_waoraniae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,968 |
+| 2026-09-30 14:17:00 | [2025 NAIA Football National Championship](https://en.wikipedia.org/wiki/2025_NAIA_Football_National_Championship) | [PutABoatOnTheWater](https://en.wikipedia.org/wiki/User:PutABoatOnTheWater) | 19,972 |
