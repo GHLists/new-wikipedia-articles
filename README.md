@@ -13,49 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-29 23:18 UTC](data/en/new-articles-2026-09-29T23-18-39Z.csv) | 17 |
-| Japanese | `ja` | [2026-09-29 23:18 UTC](data/ja/new-articles-2026-09-29T23-18-39Z.csv) | 4 |
-| Chinese | `zh` | [2026-09-29 23:18 UTC](data/zh/new-articles-2026-09-29T23-18-39Z.csv) | 3 |
-| French | `fr` | [2026-09-29 23:18 UTC](data/fr/new-articles-2026-09-29T23-18-39Z.csv) | 13 |
-| German | `de` | [2026-09-29 23:18 UTC](data/de/new-articles-2026-09-29T23-18-39Z.csv) | 3 |
-| Russian | `ru` | [2026-09-29 23:18 UTC](data/ru/new-articles-2026-09-29T23-18-39Z.csv) | 2 |
-| Spanish | `es` | [2026-09-29 23:18 UTC](data/es/new-articles-2026-09-29T23-18-39Z.csv) | 7 |
-| Italian | `it` | [2026-09-29 23:18 UTC](data/it/new-articles-2026-09-29T23-18-39Z.csv) | 7 |
-| Portuguese | `pt` | [2026-09-29 23:18 UTC](data/pt/new-articles-2026-09-29T23-18-39Z.csv) | 6 |
-| Polish | `pl` | [2026-09-29 23:18 UTC](data/pl/new-articles-2026-09-29T23-18-39Z.csv) | 7 |
-| Arabic | `ar` | [2026-09-29 22:22 UTC](data/ar/new-articles-2026-09-29T22-22-21Z.csv) | 11 |
-| Persian | `fa` | [2026-09-29 23:18 UTC](data/fa/new-articles-2026-09-29T23-18-39Z.csv) | 5 |
-| Turkish | `tr` | [2026-09-29 22:22 UTC](data/tr/new-articles-2026-09-29T22-22-21Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-29 23:18 UTC](data/he/new-articles-2026-09-29T23-18-39Z.csv) | 3 |
-| Swedish | `sv` | [2026-09-29 21:18 UTC](data/sv/new-articles-2026-09-29T21-18-59Z.csv) | 2 |
+| English | `en` | [2026-09-30 00:19 UTC](data/en/new-articles-2026-09-30T00-19-39Z.csv) | 16 |
+| Japanese | `ja` | [2026-09-30 00:19 UTC](data/ja/new-articles-2026-09-30T00-19-39Z.csv) | 8 |
+| Chinese | `zh` | [2026-09-30 00:19 UTC](data/zh/new-articles-2026-09-30T00-19-39Z.csv) | 5 |
+| French | `fr` | [2026-09-30 00:19 UTC](data/fr/new-articles-2026-09-30T00-19-39Z.csv) | 3 |
+| German | `de` | [2026-09-30 00:19 UTC](data/de/new-articles-2026-09-30T00-19-39Z.csv) | 3 |
+| Russian | `ru` | [2026-09-30 00:19 UTC](data/ru/new-articles-2026-09-30T00-19-39Z.csv) | 5 |
+| Spanish | `es` | [2026-09-30 00:19 UTC](data/es/new-articles-2026-09-30T00-19-39Z.csv) | 9 |
+| Italian | `it` | [2026-09-30 00:19 UTC](data/it/new-articles-2026-09-30T00-19-39Z.csv) | 2 |
+| Portuguese | `pt` | [2026-09-30 00:19 UTC](data/pt/new-articles-2026-09-30T00-19-39Z.csv) | 6 |
+| Polish | `pl` | [2026-09-30 00:19 UTC](data/pl/new-articles-2026-09-30T00-19-39Z.csv) | 12 |
+| Arabic | `ar` | [2026-09-30 00:19 UTC](data/ar/new-articles-2026-09-30T00-19-39Z.csv) | 4 |
+| Persian | `fa` | [2026-09-30 00:19 UTC](data/fa/new-articles-2026-09-30T00-19-39Z.csv) | 5 |
+| Turkish | `tr` | [2026-09-30 00:19 UTC](data/tr/new-articles-2026-09-30T00-19-39Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-30 00:19 UTC](data/he/new-articles-2026-09-30T00-19-39Z.csv) | 1 |
+| Swedish | `sv` | [2026-09-30 00:19 UTC](data/sv/new-articles-2026-09-30T00-19-39Z.csv) | 6 |
 | Dutch | `nl` | [2026-09-29 22:22 UTC](data/nl/new-articles-2026-09-29T22-22-21Z.csv) | 3 |
-| Korean | `ko` | [2026-09-29 23:18 UTC](data/ko/new-articles-2026-09-29T23-18-39Z.csv) | 1 |
-| Indonesian | `id` | [2026-09-29 23:18 UTC](data/id/new-articles-2026-09-29T23-18-39Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-09-29 23:18 UTC](data/uk/new-articles-2026-09-29T23-18-39Z.csv) | 8 |
+| Korean | `ko` | [2026-09-30 00:19 UTC](data/ko/new-articles-2026-09-30T00-19-39Z.csv) | 2 |
+| Indonesian | `id` | [2026-09-30 00:19 UTC](data/id/new-articles-2026-09-30T00-19-39Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-09-30 00:19 UTC](data/uk/new-articles-2026-09-30T00-19-39Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-09-29 23:18 UTC](data/vi/new-articles-2026-09-29T23-18-39Z.csv) | 1 |
 
-## English (en) — 2026-09-29 23:18 UTC
+## English (en) — 2026-09-30 00:19 UTC
 
-New articles created between 2026-09-29 22:22 UTC and 2026-09-29 23:18 UTC.
+New articles created between 2026-09-29 23:18 UTC and 2026-09-30 00:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-29T23-18-39Z.csv)
+[Full CSV](data/en/new-articles-2026-09-30T00-19-39Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-29 22:24:31 | [Megara (Greek myth)](https://en.wikipedia.org/wiki/Megara_%28Greek_myth%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 734 |
-| 2026-09-29 22:31:37 | [Alberto Cortés](https://en.wikipedia.org/wiki/Alberto_Cort%C3%A9s) | [Tajotep](https://en.wikipedia.org/wiki/User:Tajotep) | 2,855 |
-| 2026-09-29 22:32:17 | [Koshekhabl massacre](https://en.wikipedia.org/wiki/Koshekhabl_massacre) | [Liptink0](https://en.wikipedia.org/wiki/User:Liptink0) | 25,524 |
-| 2026-09-29 22:33:23 | [Russell Robinson (disambiguation)](https://en.wikipedia.org/wiki/Russell_Robinson_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 326 |
-| 2026-09-29 22:36:23 | [Oleksandr Antipov](https://en.wikipedia.org/wiki/Oleksandr_Antipov) | [Apollo468](https://en.wikipedia.org/wiki/User:Apollo468) | 9,794 |
-| 2026-09-29 22:50:58 | [Shanade Hopcroft](https://en.wikipedia.org/wiki/Shanade_Hopcroft) | [LzerLive](https://en.wikipedia.org/wiki/User:LzerLive) | 10,884 |
-| 2026-09-29 22:51:45 | [1977–78 Preston North End F.C. season](https://en.wikipedia.org/wiki/1977%E2%80%9378_Preston_North_End_F.C._season) | [CptGrez](https://en.wikipedia.org/wiki/User:CptGrez) | 13,918 |
-| 2026-09-29 22:51:48 | [Aimar Blázquez Labraca](https://en.wikipedia.org/wiki/Aimar_Bl%C3%A1zquez_Labraca) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 6,950 |
-| 2026-09-29 22:53:22 | [Heritage and Hope Ministries](https://en.wikipedia.org/wiki/Heritage_and_Hope_Ministries) | [Biblicalhope](https://en.wikipedia.org/wiki/User:Biblicalhope) | 24,664 |
-| 2026-09-29 22:58:40 | [Mikuni Alley](https://en.wikipedia.org/wiki/Mikuni_Alley) | [Seasider53](https://en.wikipedia.org/wiki/User:Seasider53) | 3,526 |
-| 2026-09-29 22:59:14 | [Pula le magadima](https://en.wikipedia.org/wiki/Pula_le_magadima) | [Mash-Eazy](https://en.wikipedia.org/wiki/User:Mash-Eazy) | 2,572 |
-| 2026-09-29 23:03:24 | [Liberation of Rome](https://en.wikipedia.org/wiki/Liberation_of_Rome) | [Brandmeister](https://en.wikipedia.org/wiki/User:Brandmeister) | 12,012 |
-| 2026-09-29 23:04:49 | [Jaron Martin (basketball)](https://en.wikipedia.org/wiki/Jaron_Martin_%28basketball%29) | [Merlyn26](https://en.wikipedia.org/wiki/User:Merlyn26) | 5,395 |
-| 2026-09-29 23:06:06 | [Ryeley Palfi](https://en.wikipedia.org/wiki/Ryeley_Palfi) | [J390](https://en.wikipedia.org/wiki/User:J390) | 2,394 |
-| 2026-09-29 23:08:21 | [Isoleucine–tRNA ligase, mitochondrial](https://en.wikipedia.org/wiki/Isoleucine%E2%80%93tRNA_ligase%2C_mitochondrial) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 2,021 |
-| 2026-09-29 23:08:43 | [Menoken Township, Kansas](https://en.wikipedia.org/wiki/Menoken_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,785 |
-| 2026-09-29 23:10:23 | [Portuguese Peruvians](https://en.wikipedia.org/wiki/Portuguese_Peruvians) | [V.B.Speranza](https://en.wikipedia.org/wiki/User:V.B.Speranza) | 5,787 |
+| 2026-09-29 23:20:06 | [Harvey Higgins (footballer)](https://en.wikipedia.org/wiki/Harvey_Higgins_%28footballer%29) | [DUCKISJAMMMY](https://en.wikipedia.org/wiki/User:DUCKISJAMMMY) | 8,115 |
+| 2026-09-29 23:21:48 | [2027 Gravesham Borough Council election](https://en.wikipedia.org/wiki/2027_Gravesham_Borough_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 5,275 |
+| 2026-09-29 23:26:32 | [Gradiva (disambiguation)](https://en.wikipedia.org/wiki/Gradiva_%28disambiguation%29) | [Mellamelina](https://en.wikipedia.org/wiki/User:Mellamelina) | 305 |
+| 2026-09-29 23:28:44 | [Jean-Claude Lecourieux](https://en.wikipedia.org/wiki/Jean-Claude_Lecourieux) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,209 |
+| 2026-09-29 23:44:12 | [Sekolo sa dikoma](https://en.wikipedia.org/wiki/Sekolo_sa_dikoma) | [Mash-Eazy](https://en.wikipedia.org/wiki/User:Mash-Eazy) | 4,439 |
+| 2026-09-29 23:45:07 | [Old Great Synagogue (Włocławek)](https://en.wikipedia.org/wiki/Old_Great_Synagogue_%28W%C5%82oc%C5%82awek%29) | [Nckdrmn](https://en.wikipedia.org/wiki/User:Nckdrmn) | 2,300 |
+| 2026-09-29 23:45:14 | [Roman du Hem](https://en.wikipedia.org/wiki/Roman_du_Hem) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 3,021 |
+| 2026-09-29 23:46:23 | [Dark Sunday (film)](https://en.wikipedia.org/wiki/Dark_Sunday_%28film%29) | [Kumboloi](https://en.wikipedia.org/wiki/User:Kumboloi) | 3,046 |
+| 2026-09-29 23:49:28 | [Hôtel de Ville, Montaigu-Vendée](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Montaigu-Vend%C3%A9e) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 6,046 |
+| 2026-09-29 23:49:49 | [McPherson's Ridge: The First Hours of Gettysburg](https://en.wikipedia.org/wiki/McPherson%27s_Ridge%3A_The_First_Hours_of_Gettysburg) | [Guinness323](https://en.wikipedia.org/wiki/User:Guinness323) | 5,382 |
+| 2026-09-29 23:55:45 | [Weldon Heyburn (disambiguation)](https://en.wikipedia.org/wiki/Weldon_Heyburn_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 254 |
+| 2026-09-30 00:00:40 | [Atlantic butterfly skate](https://en.wikipedia.org/wiki/Atlantic_butterfly_skate) | [Martín Villarroel Pérez](https://en.wikipedia.org/wiki/User:Mart%C3%ADn_Villarroel_P%C3%A9rez) | 2,527 |
+| 2026-09-30 00:01:00 | [Burundi–Netherlands relations](https://en.wikipedia.org/wiki/Burundi%E2%80%93Netherlands_relations) | [Spotana Falls](https://en.wikipedia.org/wiki/User:Spotana_Falls) | 4,809 |
+| 2026-09-30 00:01:00 | [Methionine–tRNA ligase, mitochondrial](https://en.wikipedia.org/wiki/Methionine%E2%80%93tRNA_ligase%2C_mitochondrial) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 1,976 |
+| 2026-09-30 00:03:45 | [Kaiserslautern Synagogue](https://en.wikipedia.org/wiki/Kaiserslautern_Synagogue) | [Nckdrmn](https://en.wikipedia.org/wiki/User:Nckdrmn) | 3,318 |
+| 2026-09-30 00:11:11 | [2027 Medway Council election](https://en.wikipedia.org/wiki/2027_Medway_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 5,893 |
