@@ -13,41 +13,42 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-30 04:18 UTC](data/en/new-articles-2026-09-30T04-18-56Z.csv) | 9 |
-| Japanese | `ja` | [2026-09-30 04:18 UTC](data/ja/new-articles-2026-09-30T04-18-56Z.csv) | 6 |
-| Chinese | `zh` | [2026-09-30 04:18 UTC](data/zh/new-articles-2026-09-30T04-18-56Z.csv) | 6 |
-| French | `fr` | [2026-09-30 04:18 UTC](data/fr/new-articles-2026-09-30T04-18-56Z.csv) | 3 |
-| German | `de` | [2026-09-30 04:18 UTC](data/de/new-articles-2026-09-30T04-18-56Z.csv) | 21 |
-| Russian | `ru` | [2026-09-30 04:18 UTC](data/ru/new-articles-2026-09-30T04-18-56Z.csv) | 2 |
-| Spanish | `es` | [2026-09-30 04:18 UTC](data/es/new-articles-2026-09-30T04-18-56Z.csv) | 7 |
-| Italian | `it` | [2026-09-30 04:18 UTC](data/it/new-articles-2026-09-30T04-18-56Z.csv) | 1 |
-| Portuguese | `pt` | [2026-09-30 04:18 UTC](data/pt/new-articles-2026-09-30T04-18-56Z.csv) | 7 |
-| Polish | `pl` | [2026-09-30 04:18 UTC](data/pl/new-articles-2026-09-30T04-18-56Z.csv) | 4 |
-| Arabic | `ar` | [2026-09-30 04:18 UTC](data/ar/new-articles-2026-09-30T04-18-56Z.csv) | 3 |
-| Persian | `fa` | [2026-09-30 04:18 UTC](data/fa/new-articles-2026-09-30T04-18-56Z.csv) | 9 |
+| English | `en` | [2026-09-30 05:21 UTC](data/en/new-articles-2026-09-30T05-21-16Z.csv) | 10 |
+| Japanese | `ja` | [2026-09-30 05:21 UTC](data/ja/new-articles-2026-09-30T05-21-16Z.csv) | 10 |
+| Chinese | `zh` | [2026-09-30 05:21 UTC](data/zh/new-articles-2026-09-30T05-21-16Z.csv) | 7 |
+| French | `fr` | [2026-09-30 05:21 UTC](data/fr/new-articles-2026-09-30T05-21-16Z.csv) | 4 |
+| German | `de` | [2026-09-30 05:21 UTC](data/de/new-articles-2026-09-30T05-21-16Z.csv) | 2 |
+| Russian | `ru` | [2026-09-30 05:21 UTC](data/ru/new-articles-2026-09-30T05-21-16Z.csv) | 2 |
+| Spanish | `es` | [2026-09-30 05:21 UTC](data/es/new-articles-2026-09-30T05-21-16Z.csv) | 2 |
+| Italian | `it` | [2026-09-30 05:21 UTC](data/it/new-articles-2026-09-30T05-21-16Z.csv) | 3 |
+| Portuguese | `pt` | [2026-09-30 05:21 UTC](data/pt/new-articles-2026-09-30T05-21-16Z.csv) | 3 |
+| Polish | `pl` | [2026-09-30 05:21 UTC](data/pl/new-articles-2026-09-30T05-21-16Z.csv) | 2 |
+| Arabic | `ar` | [2026-09-30 05:21 UTC](data/ar/new-articles-2026-09-30T05-21-16Z.csv) | 4 |
+| Persian | `fa` | [2026-09-30 05:21 UTC](data/fa/new-articles-2026-09-30T05-21-16Z.csv) | 3 |
 | Turkish | `tr` | [2026-09-30 00:19 UTC](data/tr/new-articles-2026-09-30T00-19-39Z.csv) | 1 |
 | Hebrew | `he` | [2026-09-30 04:18 UTC](data/he/new-articles-2026-09-30T04-18-56Z.csv) | 1 |
-| Swedish | `sv` | [2026-09-30 03:19 UTC](data/sv/new-articles-2026-09-30T03-19-40Z.csv) | 1 |
+| Swedish | `sv` | [2026-09-30 05:21 UTC](data/sv/new-articles-2026-09-30T05-21-16Z.csv) | 2 |
 | Dutch | `nl` | [2026-09-30 04:18 UTC](data/nl/new-articles-2026-09-30T04-18-56Z.csv) | 2 |
-| Korean | `ko` | [2026-09-30 04:18 UTC](data/ko/new-articles-2026-09-30T04-18-56Z.csv) | 3 |
-| Indonesian | `id` | [2026-09-30 04:18 UTC](data/id/new-articles-2026-09-30T04-18-56Z.csv) | 32 |
-| Ukrainian | `uk` | [2026-09-30 04:18 UTC](data/uk/new-articles-2026-09-30T04-18-56Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-09-30 04:18 UTC](data/vi/new-articles-2026-09-30T04-18-56Z.csv) | 2 |
+| Korean | `ko` | [2026-09-30 05:21 UTC](data/ko/new-articles-2026-09-30T05-21-16Z.csv) | 7 |
+| Indonesian | `id` | [2026-09-30 05:21 UTC](data/id/new-articles-2026-09-30T05-21-16Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-09-30 05:21 UTC](data/uk/new-articles-2026-09-30T05-21-16Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-09-30 05:21 UTC](data/vi/new-articles-2026-09-30T05-21-16Z.csv) | 1 |
 
-## English (en) — 2026-09-30 04:18 UTC
+## English (en) — 2026-09-30 05:21 UTC
 
-New articles created between 2026-09-30 03:19 UTC and 2026-09-30 04:18 UTC.
+New articles created between 2026-09-30 04:18 UTC and 2026-09-30 05:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-30T04-18-56Z.csv)
+[Full CSV](data/en/new-articles-2026-09-30T05-21-16Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-30 03:23:28 | [Van Meter Visitor](https://en.wikipedia.org/wiki/Van_Meter_Visitor) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 1,095 |
-| 2026-09-30 03:25:43 | [Andrew Marshall (cornerback)](https://en.wikipedia.org/wiki/Andrew_Marshall_%28cornerback%29) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 79 |
-| 2026-09-30 03:39:14 | [Vorohué Formation](https://en.wikipedia.org/wiki/Vorohu%C3%A9_Formation) | [TerribleReptiles77](https://en.wikipedia.org/wiki/User:TerribleReptiles77) | 6,317 |
-| 2026-09-30 03:44:30 | [Bedre Byggeskik](https://en.wikipedia.org/wiki/Bedre_Byggeskik) | [Glebushko0703](https://en.wikipedia.org/wiki/User:Glebushko0703) | 2,708 |
-| 2026-09-30 03:49:01 | [GPT-6.1](https://en.wikipedia.org/wiki/GPT-6.1) | [CharlieRidesRollerCoasters](https://en.wikipedia.org/wiki/User:CharlieRidesRollerCoasters) | 2,486 |
-| 2026-09-30 03:53:36 | [Bundoora Park Homestead](https://en.wikipedia.org/wiki/Bundoora_Park_Homestead) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 13,170 |
-| 2026-09-30 04:03:19 | [2024 NAIA Football National Championship](https://en.wikipedia.org/wiki/2024_NAIA_Football_National_Championship) | [PutABoatOnTheWater](https://en.wikipedia.org/wiki/User:PutABoatOnTheWater) | 17,933 |
-| 2026-09-30 04:13:56 | [Ronald Tackmann](https://en.wikipedia.org/wiki/Ronald_Tackmann) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,654 |
-| 2026-09-30 04:14:41 | [Luis Jiménez (footballer, born 2004)](https://en.wikipedia.org/wiki/Luis_Jim%C3%A9nez_%28footballer%2C_born_2004%29) | [Intruder007](https://en.wikipedia.org/wiki/User:Intruder007) | 3,730 |
+| 2026-09-30 04:20:51 | [Chorocidaris fusispina](https://en.wikipedia.org/wiki/Chorocidaris_fusispina) | [Plantdrew](https://en.wikipedia.org/wiki/User:Plantdrew) | 769 |
+| 2026-09-30 04:22:28 | [Muglisano dialect](https://en.wikipedia.org/wiki/Muglisano_dialect) | [Spino-Soar-Us](https://en.wikipedia.org/wiki/User:Spino-Soar-Us) | 12,262 |
+| 2026-09-30 04:24:38 | [Tergestino dialect](https://en.wikipedia.org/wiki/Tergestino_dialect) | [Spino-Soar-Us](https://en.wikipedia.org/wiki/User:Spino-Soar-Us) | 60,207 |
+| 2026-09-30 04:29:41 | [Jimmy Mistry](https://en.wikipedia.org/wiki/Jimmy_Mistry) | [Jai Singh Roustam](https://en.wikipedia.org/wiki/User:Jai_Singh_Roustam) | 7,193 |
+| 2026-09-30 04:34:16 | [Serhiy Fil](https://en.wikipedia.org/wiki/Serhiy_Fil) | [Apollo468](https://en.wikipedia.org/wiki/User:Apollo468) | 9,336 |
+| 2026-09-30 04:38:51 | [Sardorbek Bakhromov](https://en.wikipedia.org/wiki/Sardorbek_Bakhromov) | [Umarxon III](https://en.wikipedia.org/wiki/User:Umarxon_III) | 7,612 |
+| 2026-09-30 04:51:26 | [MasterChef Profissionais season 6](https://en.wikipedia.org/wiki/MasterChef_Profissionais_season_6) | [33BAIO](https://en.wikipedia.org/wiki/User:33BAIO) | 6,053 |
+| 2026-09-30 04:52:20 | [Hylaeus delicatus](https://en.wikipedia.org/wiki/Hylaeus_delicatus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,457 |
+| 2026-09-30 04:56:35 | [Dev Lemons](https://en.wikipedia.org/wiki/Dev_Lemons) | [Dwarfroe](https://en.wikipedia.org/wiki/User:Dwarfroe) | 8,630 |
+| 2026-09-30 05:07:17 | [Dave Weiler](https://en.wikipedia.org/wiki/Dave_Weiler) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,288 |
