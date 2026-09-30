@@ -13,47 +13,42 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-30 09:18 UTC](data/en/new-articles-2026-09-30T09-18-35Z.csv) | 15 |
-| Japanese | `ja` | [2026-09-30 09:18 UTC](data/ja/new-articles-2026-09-30T09-18-35Z.csv) | 21 |
-| Chinese | `zh` | [2026-09-30 09:18 UTC](data/zh/new-articles-2026-09-30T09-18-35Z.csv) | 32 |
-| French | `fr` | [2026-09-30 09:18 UTC](data/fr/new-articles-2026-09-30T09-18-35Z.csv) | 6 |
-| German | `de` | [2026-09-30 09:18 UTC](data/de/new-articles-2026-09-30T09-18-35Z.csv) | 11 |
-| Russian | `ru` | [2026-09-30 09:18 UTC](data/ru/new-articles-2026-09-30T09-18-35Z.csv) | 4 |
-| Spanish | `es` | [2026-09-30 09:18 UTC](data/es/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
-| Italian | `it` | [2026-09-30 09:18 UTC](data/it/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
+| English | `en` | [2026-09-30 10:19 UTC](data/en/new-articles-2026-09-30T10-19-44Z.csv) | 10 |
+| Japanese | `ja` | [2026-09-30 10:19 UTC](data/ja/new-articles-2026-09-30T10-19-44Z.csv) | 9 |
+| Chinese | `zh` | [2026-09-30 10:19 UTC](data/zh/new-articles-2026-09-30T10-19-44Z.csv) | 15 |
+| French | `fr` | [2026-09-30 10:19 UTC](data/fr/new-articles-2026-09-30T10-19-44Z.csv) | 13 |
+| German | `de` | [2026-09-30 10:19 UTC](data/de/new-articles-2026-09-30T10-19-44Z.csv) | 19 |
+| Russian | `ru` | [2026-09-30 10:19 UTC](data/ru/new-articles-2026-09-30T10-19-44Z.csv) | 16 |
+| Spanish | `es` | [2026-09-30 10:19 UTC](data/es/new-articles-2026-09-30T10-19-44Z.csv) | 2 |
+| Italian | `it` | [2026-09-30 10:19 UTC](data/it/new-articles-2026-09-30T10-19-44Z.csv) | 10 |
 | Portuguese | `pt` | [2026-09-30 06:18 UTC](data/pt/new-articles-2026-09-30T06-18-42Z.csv) | 3 |
-| Polish | `pl` | [2026-09-30 09:18 UTC](data/pl/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
-| Arabic | `ar` | [2026-09-30 09:18 UTC](data/ar/new-articles-2026-09-30T09-18-35Z.csv) | 8 |
-| Persian | `fa` | [2026-09-30 09:18 UTC](data/fa/new-articles-2026-09-30T09-18-35Z.csv) | 18 |
-| Turkish | `tr` | [2026-09-30 08:21 UTC](data/tr/new-articles-2026-09-30T08-21-06Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-30 09:18 UTC](data/he/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
-| Swedish | `sv` | [2026-09-30 09:18 UTC](data/sv/new-articles-2026-09-30T09-18-35Z.csv) | 4 |
-| Dutch | `nl` | [2026-09-30 09:18 UTC](data/nl/new-articles-2026-09-30T09-18-35Z.csv) | 7 |
-| Korean | `ko` | [2026-09-30 09:18 UTC](data/ko/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
-| Indonesian | `id` | [2026-09-30 09:18 UTC](data/id/new-articles-2026-09-30T09-18-35Z.csv) | 14 |
-| Ukrainian | `uk` | [2026-09-30 09:18 UTC](data/uk/new-articles-2026-09-30T09-18-35Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-09-30 08:21 UTC](data/vi/new-articles-2026-09-30T08-21-06Z.csv) | 1 |
+| Polish | `pl` | [2026-09-30 10:19 UTC](data/pl/new-articles-2026-09-30T10-19-44Z.csv) | 4 |
+| Arabic | `ar` | [2026-09-30 10:19 UTC](data/ar/new-articles-2026-09-30T10-19-44Z.csv) | 6 |
+| Persian | `fa` | [2026-09-30 10:19 UTC](data/fa/new-articles-2026-09-30T10-19-44Z.csv) | 27 |
+| Turkish | `tr` | [2026-09-30 10:19 UTC](data/tr/new-articles-2026-09-30T10-19-44Z.csv) | 3 |
+| Hebrew | `he` | [2026-09-30 10:19 UTC](data/he/new-articles-2026-09-30T10-19-44Z.csv) | 4 |
+| Swedish | `sv` | [2026-09-30 10:19 UTC](data/sv/new-articles-2026-09-30T10-19-44Z.csv) | 2 |
+| Dutch | `nl` | [2026-09-30 10:19 UTC](data/nl/new-articles-2026-09-30T10-19-44Z.csv) | 8 |
+| Korean | `ko` | [2026-09-30 10:19 UTC](data/ko/new-articles-2026-09-30T10-19-44Z.csv) | 2 |
+| Indonesian | `id` | [2026-09-30 10:19 UTC](data/id/new-articles-2026-09-30T10-19-44Z.csv) | 40 |
+| Ukrainian | `uk` | [2026-09-30 10:19 UTC](data/uk/new-articles-2026-09-30T10-19-44Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-09-30 10:19 UTC](data/vi/new-articles-2026-09-30T10-19-44Z.csv) | 5 |
 
-## English (en) — 2026-09-30 09:18 UTC
+## English (en) — 2026-09-30 10:19 UTC
 
-New articles created between 2026-09-30 08:21 UTC and 2026-09-30 09:18 UTC.
+New articles created between 2026-09-30 09:18 UTC and 2026-09-30 10:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-30T09-18-35Z.csv)
+[Full CSV](data/en/new-articles-2026-09-30T10-19-44Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-30 08:22:40 | [Heard Island and McDonald Islands Marine Reserve](https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands_Marine_Reserve) | [Chipmunkdavis](https://en.wikipedia.org/wiki/User:Chipmunkdavis) | 63,223 |
-| 2026-09-30 08:23:05 | [Jin Wenxu](https://en.wikipedia.org/wiki/Jin_Wenxu) | [EtVVV](https://en.wikipedia.org/wiki/User:EtVVV) | 5,267 |
-| 2026-09-30 08:25:47 | [Outeiro do Circo](https://en.wikipedia.org/wiki/Outeiro_do_Circo) | [Roundtheworld](https://en.wikipedia.org/wiki/User:Roundtheworld) | 8,117 |
-| 2026-09-30 08:26:38 | [Yves Gomy](https://en.wikipedia.org/wiki/Yves_Gomy) | [Rei Momo](https://en.wikipedia.org/wiki/User:Rei_Momo) | 3,803 |
-| 2026-09-30 08:33:56 | [Trost i taklampa](https://en.wikipedia.org/wiki/Trost_i_taklampa) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 1,042 |
-| 2026-09-30 08:46:35 | [Jim Harding (basketball)](https://en.wikipedia.org/wiki/Jim_Harding_%28basketball%29) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 10,556 |
-| 2026-09-30 08:52:21 | [Michael I. Handel](https://en.wikipedia.org/wiki/Michael_I._Handel) | [Aboudaqn](https://en.wikipedia.org/wiki/User:Aboudaqn) | 4,817 |
-| 2026-09-30 08:52:46 | [Ju Chang-il](https://en.wikipedia.org/wiki/Ju_Chang-il) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 4,762 |
-| 2026-09-30 08:54:52 | [Chhote Babu](https://en.wikipedia.org/wiki/Chhote_Babu) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,566 |
-| 2026-09-30 08:59:36 | [Sigit Witjaksono](https://en.wikipedia.org/wiki/Sigit_Witjaksono) | [Jeromi Mikhael](https://en.wikipedia.org/wiki/User:Jeromi_Mikhael) | 7,798 |
-| 2026-09-30 09:02:31 | [Yo! (album)](https://en.wikipedia.org/wiki/Yo%21_%28album%29) | [Areaseven](https://en.wikipedia.org/wiki/User:Areaseven) | 6,428 |
-| 2026-09-30 09:04:26 | [Ancient Dome](https://en.wikipedia.org/wiki/Ancient_Dome) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 5,412 |
-| 2026-09-30 09:07:25 | [Didymin](https://en.wikipedia.org/wiki/Didymin) | [Kakapo Kea](https://en.wikipedia.org/wiki/User:Kakapo_Kea) | 14,629 |
-| 2026-09-30 09:09:39 | [Aakhri Dao (1958 film)](https://en.wikipedia.org/wiki/Aakhri_Dao_%281958_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,281 |
-| 2026-09-30 09:10:12 | [Peng Ziming](https://en.wikipedia.org/wiki/Peng_Ziming) | [EtVVV](https://en.wikipedia.org/wiki/User:EtVVV) | 8,333 |
+| 2026-09-30 09:26:48 | [William H. Gocher](https://en.wikipedia.org/wiki/William_H._Gocher) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 10,284 |
+| 2026-09-30 09:46:13 | [Ataeniopsis pusillus](https://en.wikipedia.org/wiki/Ataeniopsis_pusillus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,183 |
+| 2026-09-30 09:48:56 | [Ataeniopsis vinacoensis](https://en.wikipedia.org/wiki/Ataeniopsis_vinacoensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,008 |
+| 2026-09-30 10:00:55 | [Ataeniopsis carupanoi](https://en.wikipedia.org/wiki/Ataeniopsis_carupanoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,010 |
+| 2026-09-30 10:02:47 | [Ataeniopsis jaltipani](https://en.wikipedia.org/wiki/Ataeniopsis_jaltipani) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,063 |
+| 2026-09-30 10:03:59 | [Sadiq Wali](https://en.wikipedia.org/wiki/Sadiq_Wali) | [Gwanki](https://en.wikipedia.org/wiki/User:Gwanki) | 2,555 |
+| 2026-09-30 10:04:34 | [Flydubai Flight FZ1073](https://en.wikipedia.org/wiki/Flydubai_Flight_FZ1073) | [No Swan So Fine](https://en.wikipedia.org/wiki/User:No_Swan_So_Fine) | 134 |
+| 2026-09-30 10:08:57 | [Zhenia Kazankina](https://en.wikipedia.org/wiki/Zhenia_Kazankina) | [Whoach Drop](https://en.wikipedia.org/wiki/User:Whoach_Drop) | 4,864 |
+| 2026-09-30 10:11:02 | [Ataeniopsis armasi](https://en.wikipedia.org/wiki/Ataeniopsis_armasi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,994 |
+| 2026-09-30 10:13:55 | [Ataeniopsis parkeri](https://en.wikipedia.org/wiki/Ataeniopsis_parkeri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,111 |
