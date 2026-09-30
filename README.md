@@ -13,53 +13,47 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-30 08:21 UTC](data/en/new-articles-2026-09-30T08-21-06Z.csv) | 21 |
-| Japanese | `ja` | [2026-09-30 08:21 UTC](data/ja/new-articles-2026-09-30T08-21-06Z.csv) | 9 |
-| Chinese | `zh` | [2026-09-30 08:21 UTC](data/zh/new-articles-2026-09-30T08-21-06Z.csv) | 6 |
-| French | `fr` | [2026-09-30 08:21 UTC](data/fr/new-articles-2026-09-30T08-21-06Z.csv) | 9 |
-| German | `de` | [2026-09-30 08:21 UTC](data/de/new-articles-2026-09-30T08-21-06Z.csv) | 8 |
-| Russian | `ru` | [2026-09-30 08:21 UTC](data/ru/new-articles-2026-09-30T08-21-06Z.csv) | 9 |
-| Spanish | `es` | [2026-09-30 08:21 UTC](data/es/new-articles-2026-09-30T08-21-06Z.csv) | 4 |
-| Italian | `it` | [2026-09-30 08:21 UTC](data/it/new-articles-2026-09-30T08-21-06Z.csv) | 4 |
+| English | `en` | [2026-09-30 09:18 UTC](data/en/new-articles-2026-09-30T09-18-35Z.csv) | 15 |
+| Japanese | `ja` | [2026-09-30 09:18 UTC](data/ja/new-articles-2026-09-30T09-18-35Z.csv) | 21 |
+| Chinese | `zh` | [2026-09-30 09:18 UTC](data/zh/new-articles-2026-09-30T09-18-35Z.csv) | 32 |
+| French | `fr` | [2026-09-30 09:18 UTC](data/fr/new-articles-2026-09-30T09-18-35Z.csv) | 6 |
+| German | `de` | [2026-09-30 09:18 UTC](data/de/new-articles-2026-09-30T09-18-35Z.csv) | 11 |
+| Russian | `ru` | [2026-09-30 09:18 UTC](data/ru/new-articles-2026-09-30T09-18-35Z.csv) | 4 |
+| Spanish | `es` | [2026-09-30 09:18 UTC](data/es/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
+| Italian | `it` | [2026-09-30 09:18 UTC](data/it/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
 | Portuguese | `pt` | [2026-09-30 06:18 UTC](data/pt/new-articles-2026-09-30T06-18-42Z.csv) | 3 |
-| Polish | `pl` | [2026-09-30 08:21 UTC](data/pl/new-articles-2026-09-30T08-21-06Z.csv) | 4 |
-| Arabic | `ar` | [2026-09-30 08:21 UTC](data/ar/new-articles-2026-09-30T08-21-06Z.csv) | 3 |
-| Persian | `fa` | [2026-09-30 08:21 UTC](data/fa/new-articles-2026-09-30T08-21-06Z.csv) | 15 |
+| Polish | `pl` | [2026-09-30 09:18 UTC](data/pl/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
+| Arabic | `ar` | [2026-09-30 09:18 UTC](data/ar/new-articles-2026-09-30T09-18-35Z.csv) | 8 |
+| Persian | `fa` | [2026-09-30 09:18 UTC](data/fa/new-articles-2026-09-30T09-18-35Z.csv) | 18 |
 | Turkish | `tr` | [2026-09-30 08:21 UTC](data/tr/new-articles-2026-09-30T08-21-06Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-30 08:21 UTC](data/he/new-articles-2026-09-30T08-21-06Z.csv) | 2 |
-| Swedish | `sv` | [2026-09-30 08:21 UTC](data/sv/new-articles-2026-09-30T08-21-06Z.csv) | 1 |
-| Dutch | `nl` | [2026-09-30 08:21 UTC](data/nl/new-articles-2026-09-30T08-21-06Z.csv) | 2 |
-| Korean | `ko` | [2026-09-30 07:20 UTC](data/ko/new-articles-2026-09-30T07-20-49Z.csv) | 2 |
-| Indonesian | `id` | [2026-09-30 08:21 UTC](data/id/new-articles-2026-09-30T08-21-06Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-09-30 08:21 UTC](data/uk/new-articles-2026-09-30T08-21-06Z.csv) | 2 |
+| Hebrew | `he` | [2026-09-30 09:18 UTC](data/he/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
+| Swedish | `sv` | [2026-09-30 09:18 UTC](data/sv/new-articles-2026-09-30T09-18-35Z.csv) | 4 |
+| Dutch | `nl` | [2026-09-30 09:18 UTC](data/nl/new-articles-2026-09-30T09-18-35Z.csv) | 7 |
+| Korean | `ko` | [2026-09-30 09:18 UTC](data/ko/new-articles-2026-09-30T09-18-35Z.csv) | 5 |
+| Indonesian | `id` | [2026-09-30 09:18 UTC](data/id/new-articles-2026-09-30T09-18-35Z.csv) | 14 |
+| Ukrainian | `uk` | [2026-09-30 09:18 UTC](data/uk/new-articles-2026-09-30T09-18-35Z.csv) | 7 |
 | Vietnamese | `vi` | [2026-09-30 08:21 UTC](data/vi/new-articles-2026-09-30T08-21-06Z.csv) | 1 |
 
-## English (en) — 2026-09-30 08:21 UTC
+## English (en) — 2026-09-30 09:18 UTC
 
-New articles created between 2026-09-30 07:20 UTC and 2026-09-30 08:21 UTC.
+New articles created between 2026-09-30 08:21 UTC and 2026-09-30 09:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-30T08-21-06Z.csv)
+[Full CSV](data/en/new-articles-2026-09-30T09-18-35Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-30 07:21:32 | [Badi Bahu](https://en.wikipedia.org/wiki/Badi_Bahu) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,258 |
-| 2026-09-30 07:27:01 | [Ellie's Enchanted Garden](https://en.wikipedia.org/wiki/Ellie%27s_Enchanted_Garden) | [Timur9008](https://en.wikipedia.org/wiki/User:Timur9008) | 3,135 |
-| 2026-09-30 07:30:36 | [Mastygocercus](https://en.wikipedia.org/wiki/Mastygocercus) | [Daeng Dino](https://en.wikipedia.org/wiki/User:Daeng_Dino) | 1,071 |
-| 2026-09-30 07:33:00 | [Bidvest McCarthy](https://en.wikipedia.org/wiki/Bidvest_McCarthy) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 13,418 |
-| 2026-09-30 07:34:00 | [2026 Dally M Awards](https://en.wikipedia.org/wiki/2026_Dally_M_Awards) | [PhinsUp23](https://en.wikipedia.org/wiki/User:PhinsUp23) | 4,666 |
-| 2026-09-30 07:36:42 | [Nagaland shrew](https://en.wikipedia.org/wiki/Nagaland_shrew) | [Ageoftheice](https://en.wikipedia.org/wiki/User:Ageoftheice) | 1,616 |
-| 2026-09-30 07:43:20 | [Albert Abdi](https://en.wikipedia.org/wiki/Albert_Abdi) | [Jeromi Mikhael](https://en.wikipedia.org/wiki/User:Jeromi_Mikhael) | 5,843 |
-| 2026-09-30 07:55:18 | [Juan Carlos Pagotto](https://en.wikipedia.org/wiki/Juan_Carlos_Pagotto) | [Thief-River-Faller](https://en.wikipedia.org/wiki/User:Thief-River-Faller) | 1,954 |
-| 2026-09-30 08:01:03 | [2026 Suhandinata Cup group stage](https://en.wikipedia.org/wiki/2026_Suhandinata_Cup_group_stage) | [Harmoniwan](https://en.wikipedia.org/wiki/User:Harmoniwan) | 19,458 |
-| 2026-09-30 08:02:37 | [Yang Siqi](https://en.wikipedia.org/wiki/Yang_Siqi) | [Stvbastian](https://en.wikipedia.org/wiki/User:Stvbastian) | 3,907 |
-| 2026-09-30 08:05:50 | [Daniel Rhagor](https://en.wikipedia.org/wiki/Daniel_Rhagor) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,411 |
-| 2026-09-30 08:06:26 | [2026–27 PWHL Detroit season](https://en.wikipedia.org/wiki/2026%E2%80%9327_PWHL_Detroit_season) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 13,879 |
-| 2026-09-30 08:06:29 | [Franz Ludwig Morlot](https://en.wikipedia.org/wiki/Franz_Ludwig_Morlot) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,922 |
-| 2026-09-30 08:06:51 | [Pooja Danole](https://en.wikipedia.org/wiki/Pooja_Danole) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 3,817 |
-| 2026-09-30 08:10:39 | [Samuel Morlot](https://en.wikipedia.org/wiki/Samuel_Morlot) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,904 |
-| 2026-09-30 08:13:31 | [Krishnapithecus](https://en.wikipedia.org/wiki/Krishnapithecus) | [Chhandama](https://en.wikipedia.org/wiki/User:Chhandama) | 1,938 |
-| 2026-09-30 08:16:10 | [Life Regiment of Horse (1667–1791)](https://en.wikipedia.org/wiki/Life_Regiment_of_Horse_%281667%E2%80%931791%29) | [Saftgurka](https://en.wikipedia.org/wiki/User:Saftgurka) | 7,819 |
-| 2026-09-30 08:18:43 | [Cecilia Rovaretti](https://en.wikipedia.org/wiki/Cecilia_Rovaretti) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 15,467 |
-| 2026-09-30 08:19:12 | [Gilbert Cohen](https://en.wikipedia.org/wiki/Gilbert_Cohen) | [Mwinog2777](https://en.wikipedia.org/wiki/User:Mwinog2777) | 3,647 |
-| 2026-09-30 08:19:31 | [Athletics at the 2026 Asian Games – Women's 400 metres](https://en.wikipedia.org/wiki/Athletics_at_the_2026_Asian_Games_%E2%80%93_Women%27s_400_metres) | [Magentic Manifestations](https://en.wikipedia.org/wiki/User:Magentic_Manifestations) | 7,279 |
-| 2026-09-30 08:21:03 | [Ri Chang-ho](https://en.wikipedia.org/wiki/Ri_Chang-ho) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 3,017 |
+| 2026-09-30 08:22:40 | [Heard Island and McDonald Islands Marine Reserve](https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands_Marine_Reserve) | [Chipmunkdavis](https://en.wikipedia.org/wiki/User:Chipmunkdavis) | 63,223 |
+| 2026-09-30 08:23:05 | [Jin Wenxu](https://en.wikipedia.org/wiki/Jin_Wenxu) | [EtVVV](https://en.wikipedia.org/wiki/User:EtVVV) | 5,267 |
+| 2026-09-30 08:25:47 | [Outeiro do Circo](https://en.wikipedia.org/wiki/Outeiro_do_Circo) | [Roundtheworld](https://en.wikipedia.org/wiki/User:Roundtheworld) | 8,117 |
+| 2026-09-30 08:26:38 | [Yves Gomy](https://en.wikipedia.org/wiki/Yves_Gomy) | [Rei Momo](https://en.wikipedia.org/wiki/User:Rei_Momo) | 3,803 |
+| 2026-09-30 08:33:56 | [Trost i taklampa](https://en.wikipedia.org/wiki/Trost_i_taklampa) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 1,042 |
+| 2026-09-30 08:46:35 | [Jim Harding (basketball)](https://en.wikipedia.org/wiki/Jim_Harding_%28basketball%29) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 10,556 |
+| 2026-09-30 08:52:21 | [Michael I. Handel](https://en.wikipedia.org/wiki/Michael_I._Handel) | [Aboudaqn](https://en.wikipedia.org/wiki/User:Aboudaqn) | 4,817 |
+| 2026-09-30 08:52:46 | [Ju Chang-il](https://en.wikipedia.org/wiki/Ju_Chang-il) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 4,762 |
+| 2026-09-30 08:54:52 | [Chhote Babu](https://en.wikipedia.org/wiki/Chhote_Babu) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,566 |
+| 2026-09-30 08:59:36 | [Sigit Witjaksono](https://en.wikipedia.org/wiki/Sigit_Witjaksono) | [Jeromi Mikhael](https://en.wikipedia.org/wiki/User:Jeromi_Mikhael) | 7,798 |
+| 2026-09-30 09:02:31 | [Yo! (album)](https://en.wikipedia.org/wiki/Yo%21_%28album%29) | [Areaseven](https://en.wikipedia.org/wiki/User:Areaseven) | 6,428 |
+| 2026-09-30 09:04:26 | [Ancient Dome](https://en.wikipedia.org/wiki/Ancient_Dome) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 5,412 |
+| 2026-09-30 09:07:25 | [Didymin](https://en.wikipedia.org/wiki/Didymin) | [Kakapo Kea](https://en.wikipedia.org/wiki/User:Kakapo_Kea) | 14,629 |
+| 2026-09-30 09:09:39 | [Aakhri Dao (1958 film)](https://en.wikipedia.org/wiki/Aakhri_Dao_%281958_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,281 |
+| 2026-09-30 09:10:12 | [Peng Ziming](https://en.wikipedia.org/wiki/Peng_Ziming) | [EtVVV](https://en.wikipedia.org/wiki/User:EtVVV) | 8,333 |
