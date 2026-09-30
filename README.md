@@ -13,45 +13,41 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-09-30 03:19 UTC](data/en/new-articles-2026-09-30T03-19-40Z.csv) | 13 |
-| Japanese | `ja` | [2026-09-30 03:19 UTC](data/ja/new-articles-2026-09-30T03-19-40Z.csv) | 7 |
-| Chinese | `zh` | [2026-09-30 03:19 UTC](data/zh/new-articles-2026-09-30T03-19-40Z.csv) | 13 |
-| French | `fr` | [2026-09-30 03:19 UTC](data/fr/new-articles-2026-09-30T03-19-40Z.csv) | 7 |
-| German | `de` | [2026-09-30 03:19 UTC](data/de/new-articles-2026-09-30T03-19-40Z.csv) | 1 |
-| Russian | `ru` | [2026-09-30 03:19 UTC](data/ru/new-articles-2026-09-30T03-19-40Z.csv) | 2 |
-| Spanish | `es` | [2026-09-30 03:19 UTC](data/es/new-articles-2026-09-30T03-19-40Z.csv) | 3 |
-| Italian | `it` | [2026-09-30 03:19 UTC](data/it/new-articles-2026-09-30T03-19-40Z.csv) | 1 |
-| Portuguese | `pt` | [2026-09-30 03:19 UTC](data/pt/new-articles-2026-09-30T03-19-40Z.csv) | 4 |
-| Polish | `pl` | [2026-09-30 03:19 UTC](data/pl/new-articles-2026-09-30T03-19-40Z.csv) | 1 |
-| Arabic | `ar` | [2026-09-30 03:19 UTC](data/ar/new-articles-2026-09-30T03-19-40Z.csv) | 5 |
-| Persian | `fa` | [2026-09-30 03:19 UTC](data/fa/new-articles-2026-09-30T03-19-40Z.csv) | 9 |
+| English | `en` | [2026-09-30 04:18 UTC](data/en/new-articles-2026-09-30T04-18-56Z.csv) | 9 |
+| Japanese | `ja` | [2026-09-30 04:18 UTC](data/ja/new-articles-2026-09-30T04-18-56Z.csv) | 6 |
+| Chinese | `zh` | [2026-09-30 04:18 UTC](data/zh/new-articles-2026-09-30T04-18-56Z.csv) | 6 |
+| French | `fr` | [2026-09-30 04:18 UTC](data/fr/new-articles-2026-09-30T04-18-56Z.csv) | 3 |
+| German | `de` | [2026-09-30 04:18 UTC](data/de/new-articles-2026-09-30T04-18-56Z.csv) | 21 |
+| Russian | `ru` | [2026-09-30 04:18 UTC](data/ru/new-articles-2026-09-30T04-18-56Z.csv) | 2 |
+| Spanish | `es` | [2026-09-30 04:18 UTC](data/es/new-articles-2026-09-30T04-18-56Z.csv) | 7 |
+| Italian | `it` | [2026-09-30 04:18 UTC](data/it/new-articles-2026-09-30T04-18-56Z.csv) | 1 |
+| Portuguese | `pt` | [2026-09-30 04:18 UTC](data/pt/new-articles-2026-09-30T04-18-56Z.csv) | 7 |
+| Polish | `pl` | [2026-09-30 04:18 UTC](data/pl/new-articles-2026-09-30T04-18-56Z.csv) | 4 |
+| Arabic | `ar` | [2026-09-30 04:18 UTC](data/ar/new-articles-2026-09-30T04-18-56Z.csv) | 3 |
+| Persian | `fa` | [2026-09-30 04:18 UTC](data/fa/new-articles-2026-09-30T04-18-56Z.csv) | 9 |
 | Turkish | `tr` | [2026-09-30 00:19 UTC](data/tr/new-articles-2026-09-30T00-19-39Z.csv) | 1 |
-| Hebrew | `he` | [2026-09-30 03:19 UTC](data/he/new-articles-2026-09-30T03-19-40Z.csv) | 1 |
+| Hebrew | `he` | [2026-09-30 04:18 UTC](data/he/new-articles-2026-09-30T04-18-56Z.csv) | 1 |
 | Swedish | `sv` | [2026-09-30 03:19 UTC](data/sv/new-articles-2026-09-30T03-19-40Z.csv) | 1 |
-| Dutch | `nl` | [2026-09-30 03:19 UTC](data/nl/new-articles-2026-09-30T03-19-40Z.csv) | 4 |
-| Korean | `ko` | [2026-09-30 03:19 UTC](data/ko/new-articles-2026-09-30T03-19-40Z.csv) | 2 |
-| Indonesian | `id` | [2026-09-30 03:19 UTC](data/id/new-articles-2026-09-30T03-19-40Z.csv) | 23 |
-| Ukrainian | `uk` | [2026-09-30 03:19 UTC](data/uk/new-articles-2026-09-30T03-19-40Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-09-30 02:21 UTC](data/vi/new-articles-2026-09-30T02-21-10Z.csv) | 3 |
+| Dutch | `nl` | [2026-09-30 04:18 UTC](data/nl/new-articles-2026-09-30T04-18-56Z.csv) | 2 |
+| Korean | `ko` | [2026-09-30 04:18 UTC](data/ko/new-articles-2026-09-30T04-18-56Z.csv) | 3 |
+| Indonesian | `id` | [2026-09-30 04:18 UTC](data/id/new-articles-2026-09-30T04-18-56Z.csv) | 32 |
+| Ukrainian | `uk` | [2026-09-30 04:18 UTC](data/uk/new-articles-2026-09-30T04-18-56Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-09-30 04:18 UTC](data/vi/new-articles-2026-09-30T04-18-56Z.csv) | 2 |
 
-## English (en) — 2026-09-30 03:19 UTC
+## English (en) — 2026-09-30 04:18 UTC
 
-New articles created between 2026-09-30 02:21 UTC and 2026-09-30 03:19 UTC.
+New articles created between 2026-09-30 03:19 UTC and 2026-09-30 04:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-09-30T03-19-40Z.csv)
+[Full CSV](data/en/new-articles-2026-09-30T04-18-56Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-09-30 02:25:36 | [Potomac Valley](https://en.wikipedia.org/wiki/Potomac_Valley) | [Grizfan37](https://en.wikipedia.org/wiki/User:Grizfan37) | 7,024 |
-| 2026-09-30 02:32:16 | [2026–27 PWHL Las Vegas season](https://en.wikipedia.org/wiki/2026%E2%80%9327_PWHL_Las_Vegas_season) | [MikeVitale](https://en.wikipedia.org/wiki/User:MikeVitale) | 15,010 |
-| 2026-09-30 02:36:53 | [Ancistrocerus unifasciatus](https://en.wikipedia.org/wiki/Ancistrocerus_unifasciatus) | [Reider22](https://en.wikipedia.org/wiki/User:Reider22) | 1,148 |
-| 2026-09-30 02:37:07 | [The Traitors Telugu](https://en.wikipedia.org/wiki/The_Traitors_Telugu) | [Alex X](https://en.wikipedia.org/wiki/User:Alex_X) | 7,548 |
-| 2026-09-30 02:37:59 | [Ahool](https://en.wikipedia.org/wiki/Ahool) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 1,610 |
-| 2026-09-30 02:40:15 | [1974 Michigan Secretary of State election](https://en.wikipedia.org/wiki/1974_Michigan_Secretary_of_State_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 7,075 |
-| 2026-09-30 02:43:49 | [Hull-Kauffmann agreement](https://en.wikipedia.org/wiki/Hull-Kauffmann_agreement) | [TiMike](https://en.wikipedia.org/wiki/User:TiMike) | 3,858 |
-| 2026-09-30 02:48:21 | [Alexandra Magistro](https://en.wikipedia.org/wiki/Alexandra_Magistro) | [Thisisherstory](https://en.wikipedia.org/wiki/User:Thisisherstory) | 4,053 |
-| 2026-09-30 02:51:10 | [Hylaeus sculptus](https://en.wikipedia.org/wiki/Hylaeus_sculptus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,291 |
-| 2026-09-30 02:51:42 | [Korynetinae](https://en.wikipedia.org/wiki/Korynetinae) | [Ratothy](https://en.wikipedia.org/wiki/User:Ratothy) | 1,822 |
-| 2026-09-30 02:56:02 | [Squash at the 2028 Summer Olympics – Qualification](https://en.wikipedia.org/wiki/Squash_at_the_2028_Summer_Olympics_%E2%80%93_Qualification) | [Amnom Darius](https://en.wikipedia.org/wiki/User:Amnom_Darius) | 7,411 |
-| 2026-09-30 03:01:21 | [Turkalo](https://en.wikipedia.org/wiki/Turkalo) | [Fskel](https://en.wikipedia.org/wiki/User:Fskel) | 237 |
-| 2026-09-30 03:05:39 | [2026 Ontario gay bashing](https://en.wikipedia.org/wiki/2026_Ontario_gay_bashing) | [Xvmn110](https://en.wikipedia.org/wiki/User:Xvmn110) | 1,757 |
+| 2026-09-30 03:23:28 | [Van Meter Visitor](https://en.wikipedia.org/wiki/Van_Meter_Visitor) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 1,095 |
+| 2026-09-30 03:25:43 | [Andrew Marshall (cornerback)](https://en.wikipedia.org/wiki/Andrew_Marshall_%28cornerback%29) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 79 |
+| 2026-09-30 03:39:14 | [Vorohué Formation](https://en.wikipedia.org/wiki/Vorohu%C3%A9_Formation) | [TerribleReptiles77](https://en.wikipedia.org/wiki/User:TerribleReptiles77) | 6,317 |
+| 2026-09-30 03:44:30 | [Bedre Byggeskik](https://en.wikipedia.org/wiki/Bedre_Byggeskik) | [Glebushko0703](https://en.wikipedia.org/wiki/User:Glebushko0703) | 2,708 |
+| 2026-09-30 03:49:01 | [GPT-6.1](https://en.wikipedia.org/wiki/GPT-6.1) | [CharlieRidesRollerCoasters](https://en.wikipedia.org/wiki/User:CharlieRidesRollerCoasters) | 2,486 |
+| 2026-09-30 03:53:36 | [Bundoora Park Homestead](https://en.wikipedia.org/wiki/Bundoora_Park_Homestead) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 13,170 |
+| 2026-09-30 04:03:19 | [2024 NAIA Football National Championship](https://en.wikipedia.org/wiki/2024_NAIA_Football_National_Championship) | [PutABoatOnTheWater](https://en.wikipedia.org/wiki/User:PutABoatOnTheWater) | 17,933 |
+| 2026-09-30 04:13:56 | [Ronald Tackmann](https://en.wikipedia.org/wiki/Ronald_Tackmann) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,654 |
+| 2026-09-30 04:14:41 | [Luis Jiménez (footballer, born 2004)](https://en.wikipedia.org/wiki/Luis_Jim%C3%A9nez_%28footballer%2C_born_2004%29) | [Intruder007](https://en.wikipedia.org/wiki/User:Intruder007) | 3,730 |
