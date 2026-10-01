@@ -13,50 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-01 20:18 UTC](data/en/new-articles-2026-10-01T20-18-35Z.csv) | 18 |
+| English | `en` | [2026-10-01 21:18 UTC](data/en/new-articles-2026-10-01T21-18-33Z.csv) | 19 |
 | Japanese | `ja` | [2026-10-01 20:18 UTC](data/ja/new-articles-2026-10-01T20-18-35Z.csv) | 1 |
 | Chinese | `zh` | [2026-10-01 20:18 UTC](data/zh/new-articles-2026-10-01T20-18-35Z.csv) | 1 |
-| French | `fr` | [2026-10-01 20:18 UTC](data/fr/new-articles-2026-10-01T20-18-35Z.csv) | 8 |
-| German | `de` | [2026-10-01 20:18 UTC](data/de/new-articles-2026-10-01T20-18-35Z.csv) | 14 |
-| Russian | `ru` | [2026-10-01 20:18 UTC](data/ru/new-articles-2026-10-01T20-18-35Z.csv) | 8 |
-| Spanish | `es` | [2026-10-01 20:18 UTC](data/es/new-articles-2026-10-01T20-18-35Z.csv) | 7 |
-| Italian | `it` | [2026-10-01 20:18 UTC](data/it/new-articles-2026-10-01T20-18-35Z.csv) | 8 |
-| Portuguese | `pt` | [2026-10-01 20:18 UTC](data/pt/new-articles-2026-10-01T20-18-35Z.csv) | 4 |
-| Polish | `pl` | [2026-10-01 20:18 UTC](data/pl/new-articles-2026-10-01T20-18-35Z.csv) | 9 |
-| Arabic | `ar` | [2026-10-01 20:18 UTC](data/ar/new-articles-2026-10-01T20-18-35Z.csv) | 15 |
-| Persian | `fa` | [2026-10-01 20:18 UTC](data/fa/new-articles-2026-10-01T20-18-35Z.csv) | 18 |
-| Turkish | `tr` | [2026-10-01 20:18 UTC](data/tr/new-articles-2026-10-01T20-18-35Z.csv) | 11 |
-| Hebrew | `he` | [2026-10-01 20:18 UTC](data/he/new-articles-2026-10-01T20-18-35Z.csv) | 1 |
+| French | `fr` | [2026-10-01 21:18 UTC](data/fr/new-articles-2026-10-01T21-18-33Z.csv) | 9 |
+| German | `de` | [2026-10-01 21:18 UTC](data/de/new-articles-2026-10-01T21-18-33Z.csv) | 6 |
+| Russian | `ru` | [2026-10-01 21:18 UTC](data/ru/new-articles-2026-10-01T21-18-33Z.csv) | 10 |
+| Spanish | `es` | [2026-10-01 21:18 UTC](data/es/new-articles-2026-10-01T21-18-33Z.csv) | 7 |
+| Italian | `it` | [2026-10-01 21:18 UTC](data/it/new-articles-2026-10-01T21-18-33Z.csv) | 12 |
+| Portuguese | `pt` | [2026-10-01 21:18 UTC](data/pt/new-articles-2026-10-01T21-18-33Z.csv) | 4 |
+| Polish | `pl` | [2026-10-01 21:18 UTC](data/pl/new-articles-2026-10-01T21-18-33Z.csv) | 13 |
+| Arabic | `ar` | [2026-10-01 21:18 UTC](data/ar/new-articles-2026-10-01T21-18-33Z.csv) | 5 |
+| Persian | `fa` | [2026-10-01 21:18 UTC](data/fa/new-articles-2026-10-01T21-18-33Z.csv) | 26 |
+| Turkish | `tr` | [2026-10-01 21:18 UTC](data/tr/new-articles-2026-10-01T21-18-33Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-01 21:18 UTC](data/he/new-articles-2026-10-01T21-18-33Z.csv) | 2 |
 | Swedish | `sv` | [2026-10-01 20:18 UTC](data/sv/new-articles-2026-10-01T20-18-35Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-01 20:18 UTC](data/nl/new-articles-2026-10-01T20-18-35Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-01 21:18 UTC](data/nl/new-articles-2026-10-01T21-18-33Z.csv) | 2 |
 | Korean | `ko` | [2026-10-01 20:18 UTC](data/ko/new-articles-2026-10-01T20-18-35Z.csv) | 3 |
 | Indonesian | `id` | [2026-10-01 20:18 UTC](data/id/new-articles-2026-10-01T20-18-35Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-10-01 20:18 UTC](data/uk/new-articles-2026-10-01T20-18-35Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-10-01 21:18 UTC](data/uk/new-articles-2026-10-01T21-18-33Z.csv) | 9 |
 | Vietnamese | `vi` | [2026-10-01 20:18 UTC](data/vi/new-articles-2026-10-01T20-18-35Z.csv) | 1 |
 
-## English (en) — 2026-10-01 20:18 UTC
+## English (en) — 2026-10-01 21:18 UTC
 
-New articles created between 2026-10-01 19:18 UTC and 2026-10-01 20:18 UTC.
+New articles created between 2026-10-01 20:18 UTC and 2026-10-01 21:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-01T20-18-35Z.csv)
+[Full CSV](data/en/new-articles-2026-10-01T21-18-33Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-01 19:18:42 | [Coordinating Ministry for Downstreaming and Energy Transition](https://en.wikipedia.org/wiki/Coordinating_Ministry_for_Downstreaming_and_Energy_Transition) | [Mmnashrullah](https://en.wikipedia.org/wiki/User:Mmnashrullah) | 3,740 |
-| 2026-10-01 19:24:34 | [Suraj Chand](https://en.wikipedia.org/wiki/Suraj_Chand) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,153 |
-| 2026-10-01 19:27:27 | [Incremental Development Alliance](https://en.wikipedia.org/wiki/Incremental_Development_Alliance) | [Superb Owl](https://en.wikipedia.org/wiki/User:Superb_Owl) | 2,425 |
-| 2026-10-01 19:31:06 | [2031 FIBA Basketball World Cup qualification](https://en.wikipedia.org/wiki/2031_FIBA_Basketball_World_Cup_qualification) | [ShinyBoat28](https://en.wikipedia.org/wiki/User:ShinyBoat28) | 5,033 |
-| 2026-10-01 19:32:50 | [Primitivo Evanán Poma](https://en.wikipedia.org/wiki/Primitivo_Evan%C3%A1n_Poma) | [GreenLipstickLesbian](https://en.wikipedia.org/wiki/User:GreenLipstickLesbian) | 1,538 |
-| 2026-10-01 19:41:56 | [Eugeniusz Ignacy Romer](https://en.wikipedia.org/wiki/Eugeniusz_Ignacy_Romer) | [Marcelus](https://en.wikipedia.org/wiki/User:Marcelus) | 10,224 |
-| 2026-10-01 19:45:09 | [2026 World Aquatics Swimming World Cup](https://en.wikipedia.org/wiki/2026_World_Aquatics_Swimming_World_Cup) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 9,841 |
-| 2026-10-01 19:47:47 | [François Provost (CEO)](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Provost_%28CEO%29) | [Wikicapitaineben](https://en.wikipedia.org/wiki/User:Wikicapitaineben) | 4,608 |
-| 2026-10-01 19:50:07 | [Ferdousi Ahmed Mishti](https://en.wikipedia.org/wiki/Ferdousi_Ahmed_Mishti) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 7,437 |
-| 2026-10-01 19:52:42 | [2031 FIBA Basketball World Cup qualification (Europe)](https://en.wikipedia.org/wiki/2031_FIBA_Basketball_World_Cup_qualification_%28Europe%29) | [ShinyBoat28](https://en.wikipedia.org/wiki/User:ShinyBoat28) | 4,265 |
-| 2026-10-01 19:54:34 | [Boris Kunz](https://en.wikipedia.org/wiki/Boris_Kunz) | [Sojour](https://en.wikipedia.org/wiki/User:Sojour) | 2,167 |
-| 2026-10-01 19:57:38 | [2026 Pan American U19 Water Polo Championship – Men's tournament](https://en.wikipedia.org/wiki/2026_Pan_American_U19_Water_Polo_Championship_%E2%80%93_Men%27s_tournament) | [Maiō T.](https://en.wikipedia.org/wiki/User:Mai%C5%8D_T.) | 7,949 |
-| 2026-10-01 19:59:28 | [Siouxland United FC](https://en.wikipedia.org/wiki/Siouxland_United_FC) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 1,318 |
-| 2026-10-01 20:01:18 | [International Think Tank for Landlocked Developing Countries](https://en.wikipedia.org/wiki/International_Think_Tank_for_Landlocked_Developing_Countries) | [HarrowAdelphus](https://en.wikipedia.org/wiki/User:HarrowAdelphus) | 21,742 |
-| 2026-10-01 20:12:18 | [Tabley, Windy Day](https://en.wikipedia.org/wiki/Tabley%2C_Windy_Day) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,248 |
-| 2026-10-01 20:15:11 | [Andrew Perez](https://en.wikipedia.org/wiki/Andrew_Perez) | [Ajadams94](https://en.wikipedia.org/wiki/User:Ajadams94) | 3,657 |
-| 2026-10-01 20:15:20 | [Meat N' Bone](https://en.wikipedia.org/wiki/Meat_N%27_Bone) | [Klaaraa](https://en.wikipedia.org/wiki/User:Klaaraa) | 19,387 |
-| 2026-10-01 20:17:33 | [Alessandro Pastacci](https://en.wikipedia.org/wiki/Alessandro_Pastacci) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,826 |
+| 2026-10-01 20:19:12 | [2030 FIBA Women's Basketball World Cup qualification](https://en.wikipedia.org/wiki/2030_FIBA_Women%27s_Basketball_World_Cup_qualification) | [ShinyBoat28](https://en.wikipedia.org/wiki/User:ShinyBoat28) | 4,398 |
+| 2026-10-01 20:25:02 | [Via Po](https://en.wikipedia.org/wiki/Via_Po) | [Plumbago Capensis](https://en.wikipedia.org/wiki/User:Plumbago_Capensis) | 2,952 |
+| 2026-10-01 20:28:18 | [2025 state visit by Xi Jinping to Russia](https://en.wikipedia.org/wiki/2025_state_visit_by_Xi_Jinping_to_Russia) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 19,062 |
+| 2026-10-01 20:28:33 | [O Advogado de Deus](https://en.wikipedia.org/wiki/O_Advogado_de_Deus) | [Cassilvwikis](https://en.wikipedia.org/wiki/User:Cassilvwikis) | 6,125 |
+| 2026-10-01 20:29:38 | [Karma 4](https://en.wikipedia.org/wiki/Karma_4) | [Vvenom974](https://en.wikipedia.org/wiki/User:Vvenom974) | 9,509 |
+| 2026-10-01 20:38:06 | [Jomana](https://en.wikipedia.org/wiki/Jomana) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 289 |
+| 2026-10-01 20:41:09 | [List of A Country Practice episodes (seasons 9–14)](https://en.wikipedia.org/wiki/List_of_A_Country_Practice_episodes_%28seasons_9%E2%80%9314%29) | [Puppies937](https://en.wikipedia.org/wiki/User:Puppies937) | 77,209 |
+| 2026-10-01 20:42:28 | [Battle of Amzacea](https://en.wikipedia.org/wiki/Battle_of_Amzacea) | [Kajmer05](https://en.wikipedia.org/wiki/User:Kajmer05) | 6,033 |
+| 2026-10-01 20:43:12 | [Stictocompe](https://en.wikipedia.org/wiki/Stictocompe) | [Loopy30](https://en.wikipedia.org/wiki/User:Loopy30) | 1,481 |
+| 2026-10-01 20:43:23 | [List of acts of the Parliament of Victoria from 1890](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1890) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 862 |
+| 2026-10-01 20:43:35 | [Tabulosphenoid](https://en.wikipedia.org/wiki/Tabulosphenoid) | [Dysalatornis](https://en.wikipedia.org/wiki/User:Dysalatornis) | 4,053 |
+| 2026-10-01 20:44:44 | [Paulo Ricardo Alves Ibelli](https://en.wikipedia.org/wiki/Paulo_Ricardo_Alves_Ibelli) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 5,794 |
+| 2026-10-01 20:47:42 | [2026 Samsun Open – Women's singles](https://en.wikipedia.org/wiki/2026_Samsun_Open_%E2%80%93_Women%27s_singles) | [0add0n](https://en.wikipedia.org/wiki/User:0add0n) | 10,858 |
+| 2026-10-01 20:52:13 | [Tom Costello (American football)](https://en.wikipedia.org/wiki/Tom_Costello_%28American_football%29) | [Dafootballguy](https://en.wikipedia.org/wiki/User:Dafootballguy) | 411 |
+| 2026-10-01 20:53:39 | [George E. Skinner](https://en.wikipedia.org/wiki/George_E._Skinner) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 12,019 |
+| 2026-10-01 20:53:58 | [Statue of Felipe Calderón](https://en.wikipedia.org/wiki/Statue_of_Felipe_Calder%C3%B3n) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 11,751 |
+| 2026-10-01 20:54:39 | [Bennett Peak (disambiguation)](https://en.wikipedia.org/wiki/Bennett_Peak_%28disambiguation%29) | [Eddie891](https://en.wikipedia.org/wiki/User:Eddie891) | 218 |
+| 2026-10-01 21:02:10 | [Djaya](https://en.wikipedia.org/wiki/Djaya) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 171 |
+| 2026-10-01 21:14:35 | [Jan Koriath](https://en.wikipedia.org/wiki/Jan_Koriath) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,658 |
