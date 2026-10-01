@@ -13,47 +13,44 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-01 05:19 UTC](data/en/new-articles-2026-10-01T05-19-18Z.csv) | 15 |
-| Japanese | `ja` | [2026-10-01 05:19 UTC](data/ja/new-articles-2026-10-01T05-19-18Z.csv) | 5 |
-| Chinese | `zh` | [2026-10-01 05:19 UTC](data/zh/new-articles-2026-10-01T05-19-18Z.csv) | 7 |
-| French | `fr` | [2026-10-01 05:19 UTC](data/fr/new-articles-2026-10-01T05-19-18Z.csv) | 2 |
-| German | `de` | [2026-10-01 05:19 UTC](data/de/new-articles-2026-10-01T05-19-18Z.csv) | 5 |
-| Russian | `ru` | [2026-10-01 05:19 UTC](data/ru/new-articles-2026-10-01T05-19-18Z.csv) | 4 |
-| Spanish | `es` | [2026-10-01 05:19 UTC](data/es/new-articles-2026-10-01T05-19-18Z.csv) | 6 |
-| Italian | `it` | [2026-10-01 05:19 UTC](data/it/new-articles-2026-10-01T05-19-18Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-01 05:19 UTC](data/pt/new-articles-2026-10-01T05-19-18Z.csv) | 5 |
-| Polish | `pl` | [2026-10-01 05:19 UTC](data/pl/new-articles-2026-10-01T05-19-18Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-01 05:19 UTC](data/ar/new-articles-2026-10-01T05-19-18Z.csv) | 5 |
-| Persian | `fa` | [2026-10-01 05:19 UTC](data/fa/new-articles-2026-10-01T05-19-18Z.csv) | 12 |
-| Turkish | `tr` | [2026-10-01 05:19 UTC](data/tr/new-articles-2026-10-01T05-19-18Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-01 05:19 UTC](data/he/new-articles-2026-10-01T05-19-18Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-01 05:19 UTC](data/sv/new-articles-2026-10-01T05-19-18Z.csv) | 6 |
-| Dutch | `nl` | [2026-10-01 04:19 UTC](data/nl/new-articles-2026-10-01T04-19-27Z.csv) | 1 |
+| English | `en` | [2026-10-01 06:19 UTC](data/en/new-articles-2026-10-01T06-19-06Z.csv) | 12 |
+| Japanese | `ja` | [2026-10-01 06:19 UTC](data/ja/new-articles-2026-10-01T06-19-06Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-01 06:19 UTC](data/zh/new-articles-2026-10-01T06-19-06Z.csv) | 2 |
+| French | `fr` | [2026-10-01 06:19 UTC](data/fr/new-articles-2026-10-01T06-19-06Z.csv) | 7 |
+| German | `de` | [2026-10-01 06:19 UTC](data/de/new-articles-2026-10-01T06-19-06Z.csv) | 4 |
+| Russian | `ru` | [2026-10-01 06:19 UTC](data/ru/new-articles-2026-10-01T06-19-06Z.csv) | 1 |
+| Spanish | `es` | [2026-10-01 06:19 UTC](data/es/new-articles-2026-10-01T06-19-06Z.csv) | 17 |
+| Italian | `it` | [2026-10-01 06:19 UTC](data/it/new-articles-2026-10-01T06-19-06Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-01 06:19 UTC](data/pt/new-articles-2026-10-01T06-19-06Z.csv) | 2 |
+| Polish | `pl` | [2026-10-01 06:19 UTC](data/pl/new-articles-2026-10-01T06-19-06Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-01 06:19 UTC](data/ar/new-articles-2026-10-01T06-19-06Z.csv) | 4 |
+| Persian | `fa` | [2026-10-01 06:19 UTC](data/fa/new-articles-2026-10-01T06-19-06Z.csv) | 12 |
+| Turkish | `tr` | [2026-10-01 06:19 UTC](data/tr/new-articles-2026-10-01T06-19-06Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-01 06:19 UTC](data/he/new-articles-2026-10-01T06-19-06Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-01 06:19 UTC](data/sv/new-articles-2026-10-01T06-19-06Z.csv) | 6 |
+| Dutch | `nl` | [2026-10-01 06:19 UTC](data/nl/new-articles-2026-10-01T06-19-06Z.csv) | 3 |
 | Korean | `ko` | [2026-10-01 05:19 UTC](data/ko/new-articles-2026-10-01T05-19-18Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-01 05:19 UTC](data/id/new-articles-2026-10-01T05-19-18Z.csv) | 11 |
-| Ukrainian | `uk` | [2026-10-01 05:19 UTC](data/uk/new-articles-2026-10-01T05-19-18Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-10-01 05:19 UTC](data/vi/new-articles-2026-10-01T05-19-18Z.csv) | 4 |
+| Indonesian | `id` | [2026-10-01 06:19 UTC](data/id/new-articles-2026-10-01T06-19-06Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-10-01 06:19 UTC](data/uk/new-articles-2026-10-01T06-19-06Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-10-01 06:19 UTC](data/vi/new-articles-2026-10-01T06-19-06Z.csv) | 1 |
 
-## English (en) — 2026-10-01 05:19 UTC
+## English (en) — 2026-10-01 06:19 UTC
 
-New articles created between 2026-10-01 04:19 UTC and 2026-10-01 05:19 UTC.
+New articles created between 2026-10-01 05:19 UTC and 2026-10-01 06:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-01T05-19-18Z.csv)
+[Full CSV](data/en/new-articles-2026-10-01T06-19-06Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-01 04:21:55 | [Tom Chapman (basketball)](https://en.wikipedia.org/wiki/Tom_Chapman_%28basketball%29) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 6,042 |
-| 2026-10-01 04:23:37 | [Richard Manoogian](https://en.wikipedia.org/wiki/Richard_Manoogian) | [RaffiKojian](https://en.wikipedia.org/wiki/User:RaffiKojian) | 2,961 |
-| 2026-10-01 04:29:35 | [Shokhiyan](https://en.wikipedia.org/wiki/Shokhiyan) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,647 |
-| 2026-10-01 04:30:13 | [Daryus Dixson](https://en.wikipedia.org/wiki/Daryus_Dixson) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 81 |
-| 2026-10-01 04:32:19 | [1934 London local elections](https://en.wikipedia.org/wiki/1934_London_local_elections) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 7,906 |
-| 2026-10-01 04:35:54 | [Mausoleum of Dato Koyah](https://en.wikipedia.org/wiki/Mausoleum_of_Dato_Koyah) | [M. Adrian Jurhami](https://en.wikipedia.org/wiki/User:M._Adrian_Jurhami) | 3,836 |
-| 2026-10-01 04:42:23 | [The White Man's Burden (book)](https://en.wikipedia.org/wiki/The_White_Man%27s_Burden_%28book%29) | [CromsFury](https://en.wikipedia.org/wiki/User:CromsFury) | 12,378 |
-| 2026-10-01 04:44:02 | [Ashantham](https://en.wikipedia.org/wiki/Ashantham) | [UCCinephilia](https://en.wikipedia.org/wiki/User:UCCinephilia) | 5,774 |
-| 2026-10-01 04:45:29 | [D1L-Duck](https://en.wikipedia.org/wiki/D1L-Duck) | [Wikideas1](https://en.wikipedia.org/wiki/User:Wikideas1) | 5,027 |
-| 2026-10-01 04:51:45 | [Khiladi (1950 film)](https://en.wikipedia.org/wiki/Khiladi_%281950_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,618 |
-| 2026-10-01 04:57:58 | [Explore! (Isyana Sarasvati album)](https://en.wikipedia.org/wiki/Explore%21_%28Isyana_Sarasvati_album%29) | [Ditaap13](https://en.wikipedia.org/wiki/User:Ditaap13) | 17,561 |
-| 2026-10-01 05:01:26 | [2027 men's rugby union internationals](https://en.wikipedia.org/wiki/2027_men%27s_rugby_union_internationals) | [MarioBayo](https://en.wikipedia.org/wiki/User:MarioBayo) | 4,696 |
-| 2026-10-01 05:06:50 | [Tân Hòa, Phú Thọ](https://en.wikipedia.org/wiki/T%C3%A2n_H%C3%B2a%2C_Ph%C3%BA_Th%E1%BB%8D) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,365 |
-| 2026-10-01 05:14:43 | [Manu Francis](https://en.wikipedia.org/wiki/Manu_Francis) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 872 |
-| 2026-10-01 05:14:49 | [Prince Noble](https://en.wikipedia.org/wiki/Prince_Noble) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 872 |
+| 2026-10-01 05:20:17 | [UB-85 monster hoax](https://en.wikipedia.org/wiki/UB-85_monster_hoax) | [Gone Extinct](https://en.wikipedia.org/wiki/User:Gone_Extinct) | 9,980 |
+| 2026-10-01 05:22:47 | [Hylaeus leai](https://en.wikipedia.org/wiki/Hylaeus_leai) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,200 |
+| 2026-10-01 05:32:10 | [Antigo School District](https://en.wikipedia.org/wiki/Antigo_School_District) | [BankSforLifez](https://en.wikipedia.org/wiki/User:BankSforLifez) | 7,117 |
+| 2026-10-01 05:40:14 | [Phan Đình Phùng (ward)](https://en.wikipedia.org/wiki/Phan_%C4%90%C3%ACnh_Ph%C3%B9ng_%28ward%29) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,697 |
+| 2026-10-01 05:43:27 | [Mike Newman (One Nation)](https://en.wikipedia.org/wiki/Mike_Newman_%28One_Nation%29) | [Motovika22](https://en.wikipedia.org/wiki/User:Motovika22) | 6,720 |
+| 2026-10-01 05:48:33 | [Christian Haller (Writer)](https://en.wikipedia.org/wiki/Christian_Haller_%28Writer%29) | [Latvvot](https://en.wikipedia.org/wiki/User:Latvvot) | 21,335 |
+| 2026-10-01 05:54:47 | [Sport climbing at the 2026 Asian Games – Men's speed](https://en.wikipedia.org/wiki/Sport_climbing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_speed) | [Stvbastian](https://en.wikipedia.org/wiki/User:Stvbastian) | 5,480 |
+| 2026-10-01 06:01:14 | [Kangaroo tail soup](https://en.wikipedia.org/wiki/Kangaroo_tail_soup) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 5,277 |
+| 2026-10-01 06:01:46 | [Moshik Aviv](https://en.wikipedia.org/wiki/Moshik_Aviv) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 2,674 |
+| 2026-10-01 06:12:14 | [Swicy](https://en.wikipedia.org/wiki/Swicy) | [Maltazarian](https://en.wikipedia.org/wiki/User:Maltazarian) | 106 |
+| 2026-10-01 06:12:34 | [545th Volksgrenadier Division](https://en.wikipedia.org/wiki/545th_Volksgrenadier_Division) | [Filiep](https://en.wikipedia.org/wiki/User:Filiep) | 3,613 |
+| 2026-10-01 06:13:30 | [Hylaeus kelvini](https://en.wikipedia.org/wiki/Hylaeus_kelvini) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,463 |
