@@ -13,44 +13,41 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-01 06:19 UTC](data/en/new-articles-2026-10-01T06-19-06Z.csv) | 12 |
-| Japanese | `ja` | [2026-10-01 06:19 UTC](data/ja/new-articles-2026-10-01T06-19-06Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-01 06:19 UTC](data/zh/new-articles-2026-10-01T06-19-06Z.csv) | 2 |
-| French | `fr` | [2026-10-01 06:19 UTC](data/fr/new-articles-2026-10-01T06-19-06Z.csv) | 7 |
-| German | `de` | [2026-10-01 06:19 UTC](data/de/new-articles-2026-10-01T06-19-06Z.csv) | 4 |
-| Russian | `ru` | [2026-10-01 06:19 UTC](data/ru/new-articles-2026-10-01T06-19-06Z.csv) | 1 |
-| Spanish | `es` | [2026-10-01 06:19 UTC](data/es/new-articles-2026-10-01T06-19-06Z.csv) | 17 |
-| Italian | `it` | [2026-10-01 06:19 UTC](data/it/new-articles-2026-10-01T06-19-06Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-01 06:19 UTC](data/pt/new-articles-2026-10-01T06-19-06Z.csv) | 2 |
-| Polish | `pl` | [2026-10-01 06:19 UTC](data/pl/new-articles-2026-10-01T06-19-06Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-01 06:19 UTC](data/ar/new-articles-2026-10-01T06-19-06Z.csv) | 4 |
-| Persian | `fa` | [2026-10-01 06:19 UTC](data/fa/new-articles-2026-10-01T06-19-06Z.csv) | 12 |
-| Turkish | `tr` | [2026-10-01 06:19 UTC](data/tr/new-articles-2026-10-01T06-19-06Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-01 06:19 UTC](data/he/new-articles-2026-10-01T06-19-06Z.csv) | 3 |
+| English | `en` | [2026-10-01 07:18 UTC](data/en/new-articles-2026-10-01T07-18-41Z.csv) | 9 |
+| Japanese | `ja` | [2026-10-01 07:18 UTC](data/ja/new-articles-2026-10-01T07-18-41Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-01 07:18 UTC](data/zh/new-articles-2026-10-01T07-18-41Z.csv) | 4 |
+| French | `fr` | [2026-10-01 07:18 UTC](data/fr/new-articles-2026-10-01T07-18-41Z.csv) | 4 |
+| German | `de` | [2026-10-01 07:18 UTC](data/de/new-articles-2026-10-01T07-18-41Z.csv) | 5 |
+| Russian | `ru` | [2026-10-01 07:18 UTC](data/ru/new-articles-2026-10-01T07-18-41Z.csv) | 9 |
+| Spanish | `es` | [2026-10-01 07:18 UTC](data/es/new-articles-2026-10-01T07-18-41Z.csv) | 13 |
+| Italian | `it` | [2026-10-01 07:18 UTC](data/it/new-articles-2026-10-01T07-18-41Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-01 07:18 UTC](data/pt/new-articles-2026-10-01T07-18-41Z.csv) | 6 |
+| Polish | `pl` | [2026-10-01 07:18 UTC](data/pl/new-articles-2026-10-01T07-18-41Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-01 07:18 UTC](data/ar/new-articles-2026-10-01T07-18-41Z.csv) | 7 |
+| Persian | `fa` | [2026-10-01 07:18 UTC](data/fa/new-articles-2026-10-01T07-18-41Z.csv) | 17 |
+| Turkish | `tr` | [2026-10-01 07:18 UTC](data/tr/new-articles-2026-10-01T07-18-41Z.csv) | 7 |
+| Hebrew | `he` | [2026-10-01 07:18 UTC](data/he/new-articles-2026-10-01T07-18-41Z.csv) | 4 |
 | Swedish | `sv` | [2026-10-01 06:19 UTC](data/sv/new-articles-2026-10-01T06-19-06Z.csv) | 6 |
-| Dutch | `nl` | [2026-10-01 06:19 UTC](data/nl/new-articles-2026-10-01T06-19-06Z.csv) | 3 |
-| Korean | `ko` | [2026-10-01 05:19 UTC](data/ko/new-articles-2026-10-01T05-19-18Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-01 06:19 UTC](data/id/new-articles-2026-10-01T06-19-06Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-10-01 06:19 UTC](data/uk/new-articles-2026-10-01T06-19-06Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-10-01 06:19 UTC](data/vi/new-articles-2026-10-01T06-19-06Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-01 07:18 UTC](data/nl/new-articles-2026-10-01T07-18-41Z.csv) | 2 |
+| Korean | `ko` | [2026-10-01 07:18 UTC](data/ko/new-articles-2026-10-01T07-18-41Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-01 07:18 UTC](data/id/new-articles-2026-10-01T07-18-41Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-10-01 07:18 UTC](data/uk/new-articles-2026-10-01T07-18-41Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-10-01 07:18 UTC](data/vi/new-articles-2026-10-01T07-18-41Z.csv) | 2 |
 
-## English (en) — 2026-10-01 06:19 UTC
+## English (en) — 2026-10-01 07:18 UTC
 
-New articles created between 2026-10-01 05:19 UTC and 2026-10-01 06:19 UTC.
+New articles created between 2026-10-01 06:19 UTC and 2026-10-01 07:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-01T06-19-06Z.csv)
+[Full CSV](data/en/new-articles-2026-10-01T07-18-41Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-01 05:20:17 | [UB-85 monster hoax](https://en.wikipedia.org/wiki/UB-85_monster_hoax) | [Gone Extinct](https://en.wikipedia.org/wiki/User:Gone_Extinct) | 9,980 |
-| 2026-10-01 05:22:47 | [Hylaeus leai](https://en.wikipedia.org/wiki/Hylaeus_leai) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,200 |
-| 2026-10-01 05:32:10 | [Antigo School District](https://en.wikipedia.org/wiki/Antigo_School_District) | [BankSforLifez](https://en.wikipedia.org/wiki/User:BankSforLifez) | 7,117 |
-| 2026-10-01 05:40:14 | [Phan Đình Phùng (ward)](https://en.wikipedia.org/wiki/Phan_%C4%90%C3%ACnh_Ph%C3%B9ng_%28ward%29) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,697 |
-| 2026-10-01 05:43:27 | [Mike Newman (One Nation)](https://en.wikipedia.org/wiki/Mike_Newman_%28One_Nation%29) | [Motovika22](https://en.wikipedia.org/wiki/User:Motovika22) | 6,720 |
-| 2026-10-01 05:48:33 | [Christian Haller (Writer)](https://en.wikipedia.org/wiki/Christian_Haller_%28Writer%29) | [Latvvot](https://en.wikipedia.org/wiki/User:Latvvot) | 21,335 |
-| 2026-10-01 05:54:47 | [Sport climbing at the 2026 Asian Games – Men's speed](https://en.wikipedia.org/wiki/Sport_climbing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_speed) | [Stvbastian](https://en.wikipedia.org/wiki/User:Stvbastian) | 5,480 |
-| 2026-10-01 06:01:14 | [Kangaroo tail soup](https://en.wikipedia.org/wiki/Kangaroo_tail_soup) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 5,277 |
-| 2026-10-01 06:01:46 | [Moshik Aviv](https://en.wikipedia.org/wiki/Moshik_Aviv) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 2,674 |
-| 2026-10-01 06:12:14 | [Swicy](https://en.wikipedia.org/wiki/Swicy) | [Maltazarian](https://en.wikipedia.org/wiki/User:Maltazarian) | 106 |
-| 2026-10-01 06:12:34 | [545th Volksgrenadier Division](https://en.wikipedia.org/wiki/545th_Volksgrenadier_Division) | [Filiep](https://en.wikipedia.org/wiki/User:Filiep) | 3,613 |
-| 2026-10-01 06:13:30 | [Hylaeus kelvini](https://en.wikipedia.org/wiki/Hylaeus_kelvini) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,463 |
+| 2026-10-01 06:32:22 | [Qajar-Zand Wars](https://en.wikipedia.org/wiki/Qajar-Zand_Wars) | [ABSIASH](https://en.wikipedia.org/wiki/User:ABSIASH) | 759 |
+| 2026-10-01 06:41:12 | [2026 Men's Junior Oceania Cup](https://en.wikipedia.org/wiki/2026_Men%27s_Junior_Oceania_Cup) | [Axxter99](https://en.wikipedia.org/wiki/User:Axxter99) | 4,153 |
+| 2026-10-01 06:53:22 | [Özlem Yıldız](https://en.wikipedia.org/wiki/%C3%96zlem_Y%C4%B1ld%C4%B1z) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 3,791 |
+| 2026-10-01 06:53:35 | [Al Hada Club](https://en.wikipedia.org/wiki/Al_Hada_Club) | [Montahaha](https://en.wikipedia.org/wiki/User:Montahaha) | 3,337 |
+| 2026-10-01 06:55:04 | [Odontolytes angusticollis](https://en.wikipedia.org/wiki/Odontolytes_angusticollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,980 |
+| 2026-10-01 06:57:12 | [Odontolytes panamensis](https://en.wikipedia.org/wiki/Odontolytes_panamensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,829 |
+| 2026-10-01 06:59:54 | [Odontolytes domingo](https://en.wikipedia.org/wiki/Odontolytes_domingo) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,812 |
+| 2026-10-01 07:13:14 | [Hylaeus albocuneatus](https://en.wikipedia.org/wiki/Hylaeus_albocuneatus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,441 |
+| 2026-10-01 07:15:46 | [Football Manager 27](https://en.wikipedia.org/wiki/Football_Manager_27) | [Icem4k](https://en.wikipedia.org/wiki/User:Icem4k) | 4,125 |
