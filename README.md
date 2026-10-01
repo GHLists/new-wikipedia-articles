@@ -13,63 +13,60 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-01 18:18 UTC](data/en/new-articles-2026-10-01T18-18-35Z.csv) | 31 |
-| Japanese | `ja` | [2026-10-01 18:18 UTC](data/ja/new-articles-2026-10-01T18-18-35Z.csv) | 1 |
+| English | `en` | [2026-10-01 19:18 UTC](data/en/new-articles-2026-10-01T19-18-36Z.csv) | 28 |
+| Japanese | `ja` | [2026-10-01 19:18 UTC](data/ja/new-articles-2026-10-01T19-18-36Z.csv) | 1 |
 | Chinese | `zh` | [2026-10-01 18:18 UTC](data/zh/new-articles-2026-10-01T18-18-35Z.csv) | 1 |
-| French | `fr` | [2026-10-01 18:18 UTC](data/fr/new-articles-2026-10-01T18-18-35Z.csv) | 5 |
-| German | `de` | [2026-10-01 18:18 UTC](data/de/new-articles-2026-10-01T18-18-35Z.csv) | 20 |
-| Russian | `ru` | [2026-10-01 18:18 UTC](data/ru/new-articles-2026-10-01T18-18-35Z.csv) | 7 |
-| Spanish | `es` | [2026-10-01 18:18 UTC](data/es/new-articles-2026-10-01T18-18-35Z.csv) | 12 |
-| Italian | `it` | [2026-10-01 18:18 UTC](data/it/new-articles-2026-10-01T18-18-35Z.csv) | 8 |
-| Portuguese | `pt` | [2026-10-01 18:18 UTC](data/pt/new-articles-2026-10-01T18-18-35Z.csv) | 6 |
-| Polish | `pl` | [2026-10-01 18:18 UTC](data/pl/new-articles-2026-10-01T18-18-35Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-01 18:18 UTC](data/ar/new-articles-2026-10-01T18-18-35Z.csv) | 9 |
-| Persian | `fa` | [2026-10-01 18:18 UTC](data/fa/new-articles-2026-10-01T18-18-35Z.csv) | 21 |
-| Turkish | `tr` | [2026-10-01 18:18 UTC](data/tr/new-articles-2026-10-01T18-18-35Z.csv) | 26 |
-| Hebrew | `he` | [2026-10-01 18:18 UTC](data/he/new-articles-2026-10-01T18-18-35Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-01 18:18 UTC](data/sv/new-articles-2026-10-01T18-18-35Z.csv) | 8 |
-| Dutch | `nl` | [2026-10-01 18:18 UTC](data/nl/new-articles-2026-10-01T18-18-35Z.csv) | 4 |
+| French | `fr` | [2026-10-01 19:18 UTC](data/fr/new-articles-2026-10-01T19-18-36Z.csv) | 7 |
+| German | `de` | [2026-10-01 19:18 UTC](data/de/new-articles-2026-10-01T19-18-36Z.csv) | 9 |
+| Russian | `ru` | [2026-10-01 19:18 UTC](data/ru/new-articles-2026-10-01T19-18-36Z.csv) | 15 |
+| Spanish | `es` | [2026-10-01 19:18 UTC](data/es/new-articles-2026-10-01T19-18-36Z.csv) | 9 |
+| Italian | `it` | [2026-10-01 19:18 UTC](data/it/new-articles-2026-10-01T19-18-36Z.csv) | 7 |
+| Portuguese | `pt` | [2026-10-01 19:18 UTC](data/pt/new-articles-2026-10-01T19-18-36Z.csv) | 5 |
+| Polish | `pl` | [2026-10-01 19:18 UTC](data/pl/new-articles-2026-10-01T19-18-36Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-01 19:18 UTC](data/ar/new-articles-2026-10-01T19-18-36Z.csv) | 6 |
+| Persian | `fa` | [2026-10-01 19:18 UTC](data/fa/new-articles-2026-10-01T19-18-36Z.csv) | 18 |
+| Turkish | `tr` | [2026-10-01 19:18 UTC](data/tr/new-articles-2026-10-01T19-18-36Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-01 19:18 UTC](data/he/new-articles-2026-10-01T19-18-36Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-01 19:18 UTC](data/sv/new-articles-2026-10-01T19-18-36Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-01 19:18 UTC](data/nl/new-articles-2026-10-01T19-18-36Z.csv) | 3 |
 | Korean | `ko` | [2026-10-01 18:18 UTC](data/ko/new-articles-2026-10-01T18-18-35Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-01 18:18 UTC](data/id/new-articles-2026-10-01T18-18-35Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-10-01 18:18 UTC](data/uk/new-articles-2026-10-01T18-18-35Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-10-01 16:18 UTC](data/vi/new-articles-2026-10-01T16-18-37Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-01 19:18 UTC](data/id/new-articles-2026-10-01T19-18-36Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-01 19:18 UTC](data/uk/new-articles-2026-10-01T19-18-36Z.csv) | 7 |
+| Vietnamese | `vi` | [2026-10-01 19:18 UTC](data/vi/new-articles-2026-10-01T19-18-36Z.csv) | 1 |
 
-## English (en) — 2026-10-01 18:18 UTC
+## English (en) — 2026-10-01 19:18 UTC
 
-New articles created between 2026-10-01 17:20 UTC and 2026-10-01 18:18 UTC.
+New articles created between 2026-10-01 18:18 UTC and 2026-10-01 19:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-01T18-18-35Z.csv)
+[Full CSV](data/en/new-articles-2026-10-01T19-18-36Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-01 17:25:51 | [Combat de nègres pendant la nuit](https://en.wikipedia.org/wiki/Combat_de_n%C3%A8gres_pendant_la_nuit) | [Eduardo7z](https://en.wikipedia.org/wiki/User:Eduardo7z) | 12,070 |
-| 2026-10-01 17:27:21 | [Mad, Sad & Bad](https://en.wikipedia.org/wiki/Mad%2C_Sad_%26_Bad) | [Cinemaniac86](https://en.wikipedia.org/wiki/User:Cinemaniac86) | 6,558 |
-| 2026-10-01 17:27:22 | [Black Tiger (military unit)](https://en.wikipedia.org/wiki/Black_Tiger_%28military_unit%29) | [PawWiki2](https://en.wikipedia.org/wiki/User:PawWiki2) | 5,040 |
-| 2026-10-01 17:28:29 | [Gastrotheca aratia](https://en.wikipedia.org/wiki/Gastrotheca_aratia) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 2,841 |
-| 2026-10-01 17:31:06 | [Dantata family](https://en.wikipedia.org/wiki/Dantata_family) | [ChikereMbakwe](https://en.wikipedia.org/wiki/User:ChikereMbakwe) | 9,170 |
-| 2026-10-01 17:31:31 | [Northcote Cable Tramways site](https://en.wikipedia.org/wiki/Northcote_Cable_Tramways_site) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 11,651 |
-| 2026-10-01 17:32:16 | [Witold Langenfeld](https://en.wikipedia.org/wiki/Witold_Langenfeld) | [CrownedeaglePL](https://en.wikipedia.org/wiki/User:CrownedeaglePL) | 16,396 |
-| 2026-10-01 17:36:00 | [Moritz Kalthoff](https://en.wikipedia.org/wiki/Moritz_Kalthoff) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,641 |
-| 2026-10-01 17:36:56 | [Kim Chol-won](https://en.wikipedia.org/wiki/Kim_Chol-won) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 6,746 |
-| 2026-10-01 17:37:18 | [Adesmia sulina](https://en.wikipedia.org/wiki/Adesmia_sulina) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 1,976 |
-| 2026-10-01 17:38:11 | [Boris Muravschi](https://en.wikipedia.org/wiki/Boris_Muravschi) | [HyperMax2021](https://en.wikipedia.org/wiki/User:HyperMax2021) | 2,438 |
-| 2026-10-01 17:41:07 | [Anton Haie](https://en.wikipedia.org/wiki/Anton_Haie) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 6,885 |
-| 2026-10-01 17:41:34 | [Bear Valley Creek](https://en.wikipedia.org/wiki/Bear_Valley_Creek) | [Schmiebel](https://en.wikipedia.org/wiki/User:Schmiebel) | 5,219 |
-| 2026-10-01 17:42:23 | [2026 French high school movement and blockades](https://en.wikipedia.org/wiki/2026_French_high_school_movement_and_blockades) | [Dazetee](https://en.wikipedia.org/wiki/User:Dazetee) | 22,855 |
-| 2026-10-01 17:47:10 | [List of presidential trips made by Bill Clinton (1997)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_Bill_Clinton_%281997%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 25,876 |
-| 2026-10-01 17:47:13 | [To Feel Good)](https://en.wikipedia.org/wiki/To_Feel_Good%29) | [I am RedoStone](https://en.wikipedia.org/wiki/User:I_am_RedoStone) | 45 |
-| 2026-10-01 17:49:26 | [Aria collina](https://en.wikipedia.org/wiki/Aria_collina) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 12,200 |
-| 2026-10-01 17:53:31 | [Hans Sonnleitner](https://en.wikipedia.org/wiki/Hans_Sonnleitner) | [Mitumial](https://en.wikipedia.org/wiki/User:Mitumial) | 4,785 |
-| 2026-10-01 17:54:38 | [Brahim Vargas](https://en.wikipedia.org/wiki/Brahim_Vargas) | [Wfkjfwnw](https://en.wikipedia.org/wiki/User:Wfkjfwnw) | 2,327 |
-| 2026-10-01 17:56:53 | [Leptodactyline](https://en.wikipedia.org/wiki/Leptodactyline) | [Oeryc](https://en.wikipedia.org/wiki/User:Oeryc) | 3,018 |
-| 2026-10-01 17:57:39 | [Flamy Grant](https://en.wikipedia.org/wiki/Flamy_Grant) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 14,504 |
-| 2026-10-01 18:01:22 | [Jason Iqaluq](https://en.wikipedia.org/wiki/Jason_Iqaluq) | [GreenRunner0](https://en.wikipedia.org/wiki/User:GreenRunner0) | 2,292 |
-| 2026-10-01 18:03:45 | [Ozade Îmne](https://en.wikipedia.org/wiki/Ozade_%C3%8Emne) | [Alarichall](https://en.wikipedia.org/wiki/User:Alarichall) | 152 |
-| 2026-10-01 18:03:58 | [Despacio (audio)](https://en.wikipedia.org/wiki/Despacio_%28audio%29) | [Reinyday](https://en.wikipedia.org/wiki/User:Reinyday) | 2,393 |
-| 2026-10-01 18:04:09 | [Robert B. Pickering](https://en.wikipedia.org/wiki/Robert_B._Pickering) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 448 |
-| 2026-10-01 18:05:45 | [Personalised External Aortic Root Support (PEARS)](https://en.wikipedia.org/wiki/Personalised_External_Aortic_Root_Support_%28PEARS%29) | [Tororro](https://en.wikipedia.org/wiki/User:Tororro) | 935 |
-| 2026-10-01 18:06:14 | [Shameena Riaz](https://en.wikipedia.org/wiki/Shameena_Riaz) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,159 |
-| 2026-10-01 18:08:23 | [Lucas Polese](https://en.wikipedia.org/wiki/Lucas_Polese) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,485 |
-| 2026-10-01 18:11:51 | [Karwat (1949 film)](https://en.wikipedia.org/wiki/Karwat_%281949_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,328 |
-| 2026-10-01 18:15:24 | [Choe Chun-gil](https://en.wikipedia.org/wiki/Choe_Chun-gil) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 5,968 |
-| 2026-10-01 18:15:43 | [Carex shortiana](https://en.wikipedia.org/wiki/Carex_shortiana) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 2,120 |
+| 2026-10-01 18:22:29 | [2026–27 Málaga CF season](https://en.wikipedia.org/wiki/2026%E2%80%9327_M%C3%A1laga_CF_season) | [RossEvans19](https://en.wikipedia.org/wiki/User:RossEvans19) | 8,962 |
+| 2026-10-01 18:23:40 | [Carex shortii](https://en.wikipedia.org/wiki/Carex_shortii) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 311 |
+| 2026-10-01 18:25:13 | [Ilypnus gilberti](https://en.wikipedia.org/wiki/Ilypnus_gilberti) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 472 |
+| 2026-10-01 18:29:19 | [Nishane (perfume house)](https://en.wikipedia.org/wiki/Nishane_%28perfume_house%29) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 3,406 |
+| 2026-10-01 18:34:09 | [Uzbekistan at the 2026 Asian Para Games](https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_Asian_Para_Games) | [Umarxon III](https://en.wikipedia.org/wiki/User:Umarxon_III) | 3,728 |
+| 2026-10-01 18:34:13 | [Brachypholis sjoestedti](https://en.wikipedia.org/wiki/Brachypholis_sjoestedti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,085 |
+| 2026-10-01 18:34:33 | [Parliament House, Singha Durbar](https://en.wikipedia.org/wiki/Parliament_House%2C_Singha_Durbar) | [Prayushk](https://en.wikipedia.org/wiki/User:Prayushk) | 2,298 |
+| 2026-10-01 18:35:41 | [Ilypnus luculentus](https://en.wikipedia.org/wiki/Ilypnus_luculentus) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 463 |
+| 2026-10-01 18:37:34 | [Pholidochris sjoestedti](https://en.wikipedia.org/wiki/Pholidochris_sjoestedti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,988 |
+| 2026-10-01 18:38:53 | [Torque seal](https://en.wikipedia.org/wiki/Torque_seal) | [MoritzStorch](https://en.wikipedia.org/wiki/User:MoritzStorch) | 10,237 |
+| 2026-10-01 18:40:32 | [José María Troya Linero](https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Troya_Linero) | [Ccottap](https://en.wikipedia.org/wiki/User:Ccottap) | 11,708 |
+| 2026-10-01 18:41:40 | [Harry Goularte](https://en.wikipedia.org/wiki/Harry_Goularte) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 10,522 |
+| 2026-10-01 18:41:44 | [Decision (fragrance)](https://en.wikipedia.org/wiki/Decision_%28fragrance%29) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 3,442 |
+| 2026-10-01 18:42:37 | [Gillichthys seta](https://en.wikipedia.org/wiki/Gillichthys_seta) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 401 |
+| 2026-10-01 18:45:27 | [Red Star (showaddywaddy album)](https://en.wikipedia.org/wiki/Red_Star_%28showaddywaddy_album%29) | [ItsBri](https://en.wikipedia.org/wiki/User:ItsBri) | 11,864 |
+| 2026-10-01 18:46:20 | [Giulio Silenzi](https://en.wikipedia.org/wiki/Giulio_Silenzi) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,782 |
+| 2026-10-01 18:49:50 | [St. Mary's Hall, University of Dayton](https://en.wikipedia.org/wiki/St._Mary%27s_Hall%2C_University_of_Dayton) | [Hoof Hearted](https://en.wikipedia.org/wiki/User:Hoof_Hearted) | 2,738 |
+| 2026-10-01 18:51:59 | [Aria meierottii](https://en.wikipedia.org/wiki/Aria_meierottii) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 6,750 |
+| 2026-10-01 18:55:36 | [Versandhaus Klingel](https://en.wikipedia.org/wiki/Versandhaus_Klingel) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 14,957 |
+| 2026-10-01 18:57:13 | [Carl Gilbert (disambiguation)](https://en.wikipedia.org/wiki/Carl_Gilbert_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 242 |
+| 2026-10-01 18:59:01 | [Lazulio](https://en.wikipedia.org/wiki/Lazulio) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 2,751 |
+| 2026-10-01 18:59:21 | [Edge of the Earth (The Beaches song)](https://en.wikipedia.org/wiki/Edge_of_the_Earth_%28The_Beaches_song%29) | [Ryanisgreat4444](https://en.wikipedia.org/wiki/User:Ryanisgreat4444) | 1,459 |
+| 2026-10-01 19:00:43 | [John Ackroyd Woodhead](https://en.wikipedia.org/wiki/John_Ackroyd_Woodhead) | [Vinegarymass911](https://en.wikipedia.org/wiki/User:Vinegarymass911) | 7,818 |
+| 2026-10-01 19:08:16 | [Quentin Bisch](https://en.wikipedia.org/wiki/Quentin_Bisch) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 3,304 |
+| 2026-10-01 19:08:43 | [Wooded Landscape with Cattle by a Pool](https://en.wikipedia.org/wiki/Wooded_Landscape_with_Cattle_by_a_Pool) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,024 |
+| 2026-10-01 19:09:30 | [Boghos Snabian](https://en.wikipedia.org/wiki/Boghos_Snabian) | [ShahenWasHere](https://en.wikipedia.org/wiki/User:ShahenWasHere) | 13,273 |
+| 2026-10-01 19:12:14 | [Meister-Anker](https://en.wikipedia.org/wiki/Meister-Anker) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 3,582 |
+| 2026-10-01 19:14:40 | [Good Girl (fragrance)](https://en.wikipedia.org/wiki/Good_Girl_%28fragrance%29) | [Give Up](https://en.wikipedia.org/wiki/User:Give_Up) | 4,505 |
