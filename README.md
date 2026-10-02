@@ -13,59 +13,61 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-02 16:18 UTC](data/en/new-articles-2026-10-02T16-18-47Z.csv) | 27 |
-| Japanese | `ja` | [2026-10-02 16:18 UTC](data/ja/new-articles-2026-10-02T16-18-47Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-02 16:18 UTC](data/zh/new-articles-2026-10-02T16-18-47Z.csv) | 12 |
-| French | `fr` | [2026-10-02 16:18 UTC](data/fr/new-articles-2026-10-02T16-18-47Z.csv) | 12 |
-| German | `de` | [2026-10-02 16:18 UTC](data/de/new-articles-2026-10-02T16-18-47Z.csv) | 9 |
-| Russian | `ru` | [2026-10-02 16:18 UTC](data/ru/new-articles-2026-10-02T16-18-47Z.csv) | 14 |
-| Spanish | `es` | [2026-10-02 16:18 UTC](data/es/new-articles-2026-10-02T16-18-47Z.csv) | 16 |
-| Italian | `it` | [2026-10-02 16:18 UTC](data/it/new-articles-2026-10-02T16-18-47Z.csv) | 9 |
-| Portuguese | `pt` | [2026-10-02 16:18 UTC](data/pt/new-articles-2026-10-02T16-18-47Z.csv) | 8 |
-| Polish | `pl` | [2026-10-02 16:18 UTC](data/pl/new-articles-2026-10-02T16-18-47Z.csv) | 5 |
-| Arabic | `ar` | [2026-10-02 16:18 UTC](data/ar/new-articles-2026-10-02T16-18-47Z.csv) | 11 |
-| Persian | `fa` | [2026-10-02 16:18 UTC](data/fa/new-articles-2026-10-02T16-18-47Z.csv) | 27 |
+| English | `en` | [2026-10-02 17:19 UTC](data/en/new-articles-2026-10-02T17-19-14Z.csv) | 29 |
+| Japanese | `ja` | [2026-10-02 17:19 UTC](data/ja/new-articles-2026-10-02T17-19-14Z.csv) | 2 |
+| Chinese | `zh` | [2026-10-02 17:19 UTC](data/zh/new-articles-2026-10-02T17-19-14Z.csv) | 2 |
+| French | `fr` | [2026-10-02 17:19 UTC](data/fr/new-articles-2026-10-02T17-19-14Z.csv) | 6 |
+| German | `de` | [2026-10-02 17:19 UTC](data/de/new-articles-2026-10-02T17-19-14Z.csv) | 9 |
+| Russian | `ru` | [2026-10-02 17:19 UTC](data/ru/new-articles-2026-10-02T17-19-14Z.csv) | 24 |
+| Spanish | `es` | [2026-10-02 17:19 UTC](data/es/new-articles-2026-10-02T17-19-14Z.csv) | 13 |
+| Italian | `it` | [2026-10-02 17:19 UTC](data/it/new-articles-2026-10-02T17-19-14Z.csv) | 7 |
+| Portuguese | `pt` | [2026-10-02 17:19 UTC](data/pt/new-articles-2026-10-02T17-19-14Z.csv) | 3 |
+| Polish | `pl` | [2026-10-02 17:19 UTC](data/pl/new-articles-2026-10-02T17-19-14Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-02 17:19 UTC](data/ar/new-articles-2026-10-02T17-19-14Z.csv) | 22 |
+| Persian | `fa` | [2026-10-02 17:19 UTC](data/fa/new-articles-2026-10-02T17-19-14Z.csv) | 20 |
 | Turkish | `tr` | [2026-10-02 16:18 UTC](data/tr/new-articles-2026-10-02T16-18-47Z.csv) | 3 |
-| Hebrew | `he` | [2026-10-02 16:18 UTC](data/he/new-articles-2026-10-02T16-18-47Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-02 16:18 UTC](data/sv/new-articles-2026-10-02T16-18-47Z.csv) | 4 |
-| Dutch | `nl` | [2026-10-02 16:18 UTC](data/nl/new-articles-2026-10-02T16-18-47Z.csv) | 7 |
-| Korean | `ko` | [2026-10-02 16:18 UTC](data/ko/new-articles-2026-10-02T16-18-47Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-02 16:18 UTC](data/id/new-articles-2026-10-02T16-18-47Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-10-02 16:18 UTC](data/uk/new-articles-2026-10-02T16-18-47Z.csv) | 9 |
+| Hebrew | `he` | [2026-10-02 17:19 UTC](data/he/new-articles-2026-10-02T17-19-14Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-02 17:19 UTC](data/sv/new-articles-2026-10-02T17-19-14Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-02 17:19 UTC](data/nl/new-articles-2026-10-02T17-19-14Z.csv) | 3 |
+| Korean | `ko` | [2026-10-02 17:19 UTC](data/ko/new-articles-2026-10-02T17-19-14Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-02 17:19 UTC](data/id/new-articles-2026-10-02T17-19-14Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-10-02 17:19 UTC](data/uk/new-articles-2026-10-02T17-19-14Z.csv) | 6 |
 | Vietnamese | `vi` | [2026-10-02 16:18 UTC](data/vi/new-articles-2026-10-02T16-18-47Z.csv) | 3 |
 
-## English (en) — 2026-10-02 16:18 UTC
+## English (en) — 2026-10-02 17:19 UTC
 
-New articles created between 2026-10-02 15:18 UTC and 2026-10-02 16:18 UTC.
+New articles created between 2026-10-02 16:18 UTC and 2026-10-02 17:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-02T16-18-47Z.csv)
+[Full CSV](data/en/new-articles-2026-10-02T17-19-14Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-02 15:20:24 | [Augmented Intelligence (Christies)](https://en.wikipedia.org/wiki/Augmented_Intelligence_%28Christies%29) | [Lucaspdantas](https://en.wikipedia.org/wiki/User:Lucaspdantas) | 7,774 |
-| 2026-10-02 15:22:03 | [Sofia Shtykhetskaya](https://en.wikipedia.org/wiki/Sofia_Shtykhetskaya) | [Mypurplelightsaber](https://en.wikipedia.org/wiki/User:Mypurplelightsaber) | 8,534 |
-| 2026-10-02 15:29:37 | [Tomáš Hanus](https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Hanus) | [Gerda Arendt](https://en.wikipedia.org/wiki/User:Gerda_Arendt) | 2,500 |
-| 2026-10-02 15:34:10 | [Learning Planet Institute](https://en.wikipedia.org/wiki/Learning_Planet_Institute) | [French Thutmose III](https://en.wikipedia.org/wiki/User:French_Thutmose_III) | 8,095 |
-| 2026-10-02 15:34:32 | [Progressivism in Iran](https://en.wikipedia.org/wiki/Progressivism_in_Iran) | [Afternaan](https://en.wikipedia.org/wiki/User:Afternaan) | 1,402 |
-| 2026-10-02 15:40:10 | [2026 Pan American U19 Water Polo Championship – Women's tournament](https://en.wikipedia.org/wiki/2026_Pan_American_U19_Water_Polo_Championship_%E2%80%93_Women%27s_tournament) | [Maiō T.](https://en.wikipedia.org/wiki/User:Mai%C5%8D_T.) | 6,835 |
-| 2026-10-02 15:42:27 | [Sport climbing at the 2026 Asian Games – Men's lead](https://en.wikipedia.org/wiki/Sport_climbing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_lead) | [Stvbastian](https://en.wikipedia.org/wiki/User:Stvbastian) | 3,858 |
-| 2026-10-02 15:42:39 | [Diego Franco Peraza](https://en.wikipedia.org/wiki/Diego_Franco_Peraza) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 6,105 |
-| 2026-10-02 15:43:10 | [Cycling at the 2026 Asian Games – Men's omnium](https://en.wikipedia.org/wiki/Cycling_at_the_2026_Asian_Games_%E2%80%93_Men%27s_omnium) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 11,945 |
-| 2026-10-02 15:46:39 | [Bob James (commissioner)](https://en.wikipedia.org/wiki/Bob_James_%28commissioner%29) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 4,436 |
-| 2026-10-02 15:47:09 | [2019 KwaZulu-Natal provincial election](https://en.wikipedia.org/wiki/2019_KwaZulu-Natal_provincial_election) | [CaydynLendrum5000](https://en.wikipedia.org/wiki/User:CaydynLendrum5000) | 2,400 |
-| 2026-10-02 15:55:38 | [Julian Aguon](https://en.wikipedia.org/wiki/Julian_Aguon) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 12,022 |
-| 2026-10-02 15:58:19 | [Leopoldo Fontaine](https://en.wikipedia.org/wiki/Leopoldo_Fontaine) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 5,916 |
-| 2026-10-02 16:01:13 | [OurProperty NG](https://en.wikipedia.org/wiki/OurProperty_NG) | [Kofan Galadimaa](https://en.wikipedia.org/wiki/User:Kofan_Galadimaa) | 8,323 |
-| 2026-10-02 16:02:23 | [Acep Somantri](https://en.wikipedia.org/wiki/Acep_Somantri) | [Jeromi Mikhael](https://en.wikipedia.org/wiki/User:Jeromi_Mikhael) | 8,016 |
-| 2026-10-02 16:05:56 | [Hernán Cubillos Leiva](https://en.wikipedia.org/wiki/Hern%C3%A1n_Cubillos_Leiva) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,660 |
-| 2026-10-02 16:06:19 | [Never Stop Texting Me](https://en.wikipedia.org/wiki/Never_Stop_Texting_Me) | [Roc0ast3r](https://en.wikipedia.org/wiki/User:Roc0ast3r) | 15,593 |
-| 2026-10-02 16:07:45 | [Hoa Lư (ward)](https://en.wikipedia.org/wiki/Hoa_L%C6%B0_%28ward%29) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,495 |
-| 2026-10-02 16:09:10 | [Jacobo Neumann](https://en.wikipedia.org/wiki/Jacobo_Neumann) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 1,780 |
-| 2026-10-02 16:09:58 | [Quiel](https://en.wikipedia.org/wiki/Quiel) | [MarcusAbacus](https://en.wikipedia.org/wiki/User:MarcusAbacus) | 239 |
-| 2026-10-02 16:11:45 | [Federico Macías](https://en.wikipedia.org/wiki/Federico_Mac%C3%ADas) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 4,283 |
-| 2026-10-02 16:13:22 | [Ramón Barros González](https://en.wikipedia.org/wiki/Ram%C3%B3n_Barros_Gonz%C3%A1lez) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,128 |
-| 2026-10-02 16:15:08 | [Angraecum magdalenae](https://en.wikipedia.org/wiki/Angraecum_magdalenae) | [FloppaDude](https://en.wikipedia.org/wiki/User:FloppaDude) | 1,882 |
-| 2026-10-02 16:15:08 | [Fernando Porta](https://en.wikipedia.org/wiki/Fernando_Porta) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,576 |
-| 2026-10-02 16:15:21 | [Shrimp Welfare Project](https://en.wikipedia.org/wiki/Shrimp_Welfare_Project) | [Sentience Scholar](https://en.wikipedia.org/wiki/User:Sentience_Scholar) | 11,168 |
-| 2026-10-02 16:16:47 | [Hugo Tirado](https://en.wikipedia.org/wiki/Hugo_Tirado) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,172 |
-| 2026-10-02 16:18:33 | [Sabbath School (Seventh-day Adventist)](https://en.wikipedia.org/wiki/Sabbath_School_%28Seventh-day_Adventist%29) | [Suriname0](https://en.wikipedia.org/wiki/User:Suriname0) | 5,629 |
+| 2026-10-02 16:18:47 | [Đông A](https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_A) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,427 |
+| 2026-10-02 16:19:34 | [Banco Prodem](https://en.wikipedia.org/wiki/Banco_Prodem) | [ReyAlvarez2](https://en.wikipedia.org/wiki/User:ReyAlvarez2) | 3,611 |
+| 2026-10-02 16:23:28 | [Enrique Lagreze](https://en.wikipedia.org/wiki/Enrique_Lagreze) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,660 |
+| 2026-10-02 16:25:48 | [Danilo Bassi Galleguillos](https://en.wikipedia.org/wiki/Danilo_Bassi_Galleguillos) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,131 |
+| 2026-10-02 16:29:55 | [Terastia africana](https://en.wikipedia.org/wiki/Terastia_africana) | [Smithsqrd](https://en.wikipedia.org/wiki/User:Smithsqrd) | 717 |
+| 2026-10-02 16:33:54 | [Emilio Daroch](https://en.wikipedia.org/wiki/Emilio_Daroch) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,119 |
+| 2026-10-02 16:35:40 | [Hôtel de Ville, Le Plessis-Trévise](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Le_Plessis-Tr%C3%A9vise) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 7,286 |
+| 2026-10-02 16:36:49 | [Olegario Reyes](https://en.wikipedia.org/wiki/Olegario_Reyes) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,036 |
+| 2026-10-02 16:37:30 | [Emmanuel Garibay](https://en.wikipedia.org/wiki/Emmanuel_Garibay) | [HolaQuetzalcoatl](https://en.wikipedia.org/wiki/User:HolaQuetzalcoatl) | 9,300 |
+| 2026-10-02 16:38:02 | [William Tennent, Jr](https://en.wikipedia.org/wiki/William_Tennent%2C_Jr) | [Gwillhickers](https://en.wikipedia.org/wiki/User:Gwillhickers) | 1,223 |
+| 2026-10-02 16:38:56 | [Đông Hoa Lư](https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_Hoa_L%C6%B0) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,482 |
+| 2026-10-02 16:39:46 | [Luis Alvarez Jaramillo](https://en.wikipedia.org/wiki/Luis_Alvarez_Jaramillo) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,522 |
+| 2026-10-02 16:41:58 | [Cycling at the 2026 Asian Games – Women's sprint](https://en.wikipedia.org/wiki/Cycling_at_the_2026_Asian_Games_%E2%80%93_Women%27s_sprint) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 16,871 |
+| 2026-10-02 16:42:59 | [Carlos Jouanne](https://en.wikipedia.org/wiki/Carlos_Jouanne) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,353 |
+| 2026-10-02 16:45:30 | [Morosaphycita interniplagella](https://en.wikipedia.org/wiki/Morosaphycita_interniplagella) | [Smithsqrd](https://en.wikipedia.org/wiki/User:Smithsqrd) | 780 |
+| 2026-10-02 16:48:21 | [Jan Michał Jackowiak](https://en.wikipedia.org/wiki/Jan_Micha%C5%82_Jackowiak) | [Seacactus 13](https://en.wikipedia.org/wiki/User:Seacactus_13) | 3,428 |
+| 2026-10-02 16:51:55 | [Felipe Wiegand](https://en.wikipedia.org/wiki/Felipe_Wiegand) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,959 |
+| 2026-10-02 16:56:41 | [Tây Hoa Lư](https://en.wikipedia.org/wiki/T%C3%A2y_Hoa_L%C6%B0) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,772 |
+| 2026-10-02 16:56:43 | [Portrait of John Hare](https://en.wikipedia.org/wiki/Portrait_of_John_Hare) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,133 |
+| 2026-10-02 16:57:53 | [José Toribio Merino Saavedra](https://en.wikipedia.org/wiki/Jos%C3%A9_Toribio_Merino_Saavedra) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,543 |
+| 2026-10-02 16:58:20 | [Jagdish Narain Singh](https://en.wikipedia.org/wiki/Jagdish_Narain_Singh) | [Avinash232020](https://en.wikipedia.org/wiki/User:Avinash232020) | 3,834 |
+| 2026-10-02 17:00:21 | [Juan Schroeder Peña](https://en.wikipedia.org/wiki/Juan_Schroeder_Pe%C3%B1a) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,404 |
+| 2026-10-02 17:01:51 | [Giovanni Gugliotti](https://en.wikipedia.org/wiki/Giovanni_Gugliotti) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 6,888 |
+| 2026-10-02 17:02:48 | [2026 Swiss Federal Council election](https://en.wikipedia.org/wiki/2026_Swiss_Federal_Council_election) | [CastleFort1](https://en.wikipedia.org/wiki/User:CastleFort1) | 1,196 |
+| 2026-10-02 17:05:12 | [Nam Hoa Lư](https://en.wikipedia.org/wiki/Nam_Hoa_L%C6%B0) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,506 |
+| 2026-10-02 17:06:42 | [Kurdistan Coalition](https://en.wikipedia.org/wiki/Kurdistan_Coalition) | [Brwa Gillee](https://en.wikipedia.org/wiki/User:Brwa_Gillee) | 1 |
+| 2026-10-02 17:16:41 | [Sport climbing at the 2026 Asian Games – Women's lead](https://en.wikipedia.org/wiki/Sport_climbing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_lead) | [Stvbastian](https://en.wikipedia.org/wiki/User:Stvbastian) | 3,794 |
+| 2026-10-02 17:17:00 | [Force of Nature (TV series)](https://en.wikipedia.org/wiki/Force_of_Nature_%28TV_series%29) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,550 |
+| 2026-10-02 17:19:02 | [Felipe Zenobio](https://en.wikipedia.org/wiki/Felipe_Zenobio) | [Ligaventura95](https://en.wikipedia.org/wiki/User:Ligaventura95) | 7,167 |
