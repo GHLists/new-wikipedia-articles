@@ -13,55 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-02 21:20 UTC](data/en/new-articles-2026-10-02T21-20-33Z.csv) | 23 |
-| Japanese | `ja` | [2026-10-02 21:20 UTC](data/ja/new-articles-2026-10-02T21-20-33Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-02 21:20 UTC](data/zh/new-articles-2026-10-02T21-20-33Z.csv) | 1 |
-| French | `fr` | [2026-10-02 21:20 UTC](data/fr/new-articles-2026-10-02T21-20-33Z.csv) | 9 |
-| German | `de` | [2026-10-02 21:20 UTC](data/de/new-articles-2026-10-02T21-20-33Z.csv) | 12 |
-| Russian | `ru` | [2026-10-02 21:20 UTC](data/ru/new-articles-2026-10-02T21-20-33Z.csv) | 8 |
-| Spanish | `es` | [2026-10-02 21:20 UTC](data/es/new-articles-2026-10-02T21-20-33Z.csv) | 7 |
-| Italian | `it` | [2026-10-02 21:20 UTC](data/it/new-articles-2026-10-02T21-20-33Z.csv) | 7 |
-| Portuguese | `pt` | [2026-10-02 21:20 UTC](data/pt/new-articles-2026-10-02T21-20-33Z.csv) | 14 |
-| Polish | `pl` | [2026-10-02 21:20 UTC](data/pl/new-articles-2026-10-02T21-20-33Z.csv) | 5 |
-| Arabic | `ar` | [2026-10-02 21:20 UTC](data/ar/new-articles-2026-10-02T21-20-33Z.csv) | 6 |
-| Persian | `fa` | [2026-10-02 21:20 UTC](data/fa/new-articles-2026-10-02T21-20-33Z.csv) | 24 |
-| Turkish | `tr` | [2026-10-02 21:20 UTC](data/tr/new-articles-2026-10-02T21-20-33Z.csv) | 2 |
+| English | `en` | [2026-10-02 22:19 UTC](data/en/new-articles-2026-10-02T22-19-03Z.csv) | 14 |
+| Japanese | `ja` | [2026-10-02 22:19 UTC](data/ja/new-articles-2026-10-02T22-19-03Z.csv) | 3 |
+| Chinese | `zh` | [2026-10-02 22:19 UTC](data/zh/new-articles-2026-10-02T22-19-03Z.csv) | 2 |
+| French | `fr` | [2026-10-02 22:19 UTC](data/fr/new-articles-2026-10-02T22-19-03Z.csv) | 9 |
+| German | `de` | [2026-10-02 22:19 UTC](data/de/new-articles-2026-10-02T22-19-03Z.csv) | 7 |
+| Russian | `ru` | [2026-10-02 22:19 UTC](data/ru/new-articles-2026-10-02T22-19-03Z.csv) | 11 |
+| Spanish | `es` | [2026-10-02 22:19 UTC](data/es/new-articles-2026-10-02T22-19-03Z.csv) | 3 |
+| Italian | `it` | [2026-10-02 22:19 UTC](data/it/new-articles-2026-10-02T22-19-03Z.csv) | 12 |
+| Portuguese | `pt` | [2026-10-02 22:19 UTC](data/pt/new-articles-2026-10-02T22-19-03Z.csv) | 5 |
+| Polish | `pl` | [2026-10-02 22:19 UTC](data/pl/new-articles-2026-10-02T22-19-03Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-02 22:19 UTC](data/ar/new-articles-2026-10-02T22-19-03Z.csv) | 12 |
+| Persian | `fa` | [2026-10-02 22:19 UTC](data/fa/new-articles-2026-10-02T22-19-03Z.csv) | 20 |
+| Turkish | `tr` | [2026-10-02 22:19 UTC](data/tr/new-articles-2026-10-02T22-19-03Z.csv) | 5 |
 | Hebrew | `he` | [2026-10-02 20:21 UTC](data/he/new-articles-2026-10-02T20-21-46Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-02 21:20 UTC](data/sv/new-articles-2026-10-02T21-20-33Z.csv) | 5 |
-| Dutch | `nl` | [2026-10-02 21:20 UTC](data/nl/new-articles-2026-10-02T21-20-33Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-02 22:19 UTC](data/sv/new-articles-2026-10-02T22-19-03Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-02 22:19 UTC](data/nl/new-articles-2026-10-02T22-19-03Z.csv) | 3 |
 | Korean | `ko` | [2026-10-02 20:21 UTC](data/ko/new-articles-2026-10-02T20-21-46Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-02 17:19 UTC](data/id/new-articles-2026-10-02T17-19-14Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-10-02 21:20 UTC](data/uk/new-articles-2026-10-02T21-20-33Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-02 22:19 UTC](data/id/new-articles-2026-10-02T22-19-03Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-02 22:19 UTC](data/uk/new-articles-2026-10-02T22-19-03Z.csv) | 5 |
 | Vietnamese | `vi` | [2026-10-02 19:18 UTC](data/vi/new-articles-2026-10-02T19-18-32Z.csv) | 1 |
 
-## English (en) — 2026-10-02 21:20 UTC
+## English (en) — 2026-10-02 22:19 UTC
 
-New articles created between 2026-10-02 20:21 UTC and 2026-10-02 21:20 UTC.
+New articles created between 2026-10-02 21:20 UTC and 2026-10-02 22:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-02T21-20-33Z.csv)
+[Full CSV](data/en/new-articles-2026-10-02T22-19-03Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-02 20:21:48 | [Dan Hovskär](https://en.wikipedia.org/wiki/Dan_Hovsk%C3%A4r) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,423 |
-| 2026-10-02 20:25:01 | [Panagiotis Andreou](https://en.wikipedia.org/wiki/Panagiotis_Andreou) | [Cainsagnes](https://en.wikipedia.org/wiki/User:Cainsagnes) | 10,874 |
-| 2026-10-02 20:29:04 | [1994 ITU Long Distance Triathlon World Championships](https://en.wikipedia.org/wiki/1994_ITU_Long_Distance_Triathlon_World_Championships) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 4,774 |
-| 2026-10-02 20:36:26 | [Work 'n' Play](https://en.wikipedia.org/wiki/Work_%27n%27_Play) | [VirreFriberg](https://en.wikipedia.org/wiki/User:VirreFriberg) | 13,775 |
-| 2026-10-02 20:36:44 | [Little River attacks](https://en.wikipedia.org/wiki/Little_River_attacks) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 8,144 |
-| 2026-10-02 20:37:32 | [Johanna Holmdahl](https://en.wikipedia.org/wiki/Johanna_Holmdahl) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,942 |
-| 2026-10-02 20:44:33 | [Cottonwood Fire (Nebraska, 2026)](https://en.wikipedia.org/wiki/Cottonwood_Fire_%28Nebraska%2C_2026%29) | [CostalCal](https://en.wikipedia.org/wiki/User:CostalCal) | 8,778 |
-| 2026-10-02 20:48:13 | [Šeganovac](https://en.wikipedia.org/wiki/%C5%A0eganovac) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 2,425 |
-| 2026-10-02 20:49:59 | [One Haven Music](https://en.wikipedia.org/wiki/One_Haven_Music) | [BuickRiviera99](https://en.wikipedia.org/wiki/User:BuickRiviera99) | 594 |
-| 2026-10-02 20:50:23 | [Christine Darve](https://en.wikipedia.org/wiki/Christine_Darve) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 4,612 |
-| 2026-10-02 20:54:37 | [John Burridge (disambiguation)](https://en.wikipedia.org/wiki/John_Burridge_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 276 |
-| 2026-10-02 21:00:25 | [Flying Blind (Slash Album)](https://en.wikipedia.org/wiki/Flying_Blind_%28Slash_Album%29) | [AniGamerNX](https://en.wikipedia.org/wiki/User:AniGamerNX) | 3,242 |
-| 2026-10-02 21:02:10 | [Kenworth Renton Plant](https://en.wikipedia.org/wiki/Kenworth_Renton_Plant) | [Thomasfan1916](https://en.wikipedia.org/wiki/User:Thomasfan1916) | 7,548 |
-| 2026-10-02 21:02:19 | [A History of Women in 101 Objects](https://en.wikipedia.org/wiki/A_History_of_Women_in_101_Objects) | [BKHealy](https://en.wikipedia.org/wiki/User:BKHealy) | 5,028 |
-| 2026-10-02 21:04:45 | [Tahiti–Cook Islands football rivalry](https://en.wikipedia.org/wiki/Tahiti%E2%80%93Cook_Islands_football_rivalry) | [Ci.football.supporters](https://en.wikipedia.org/wiki/User:Ci.football.supporters) | 8,927 |
-| 2026-10-02 21:08:24 | [Intentional manslaughter,](https://en.wikipedia.org/wiki/Intentional_manslaughter%2C) | [Skysmith](https://en.wikipedia.org/wiki/User:Skysmith) | 36 |
-| 2026-10-02 21:11:51 | [Muddy Waters House](https://en.wikipedia.org/wiki/Muddy_Waters_House) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 2,585 |
-| 2026-10-02 21:13:57 | [Marcus Willershausen](https://en.wikipedia.org/wiki/Marcus_Willershausen) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,708 |
-| 2026-10-02 21:14:08 | [Herut Center for Israeli Liberty](https://en.wikipedia.org/wiki/Herut_Center_for_Israeli_Liberty) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 3,104 |
-| 2026-10-02 21:14:28 | [Carex leavenworthii](https://en.wikipedia.org/wiki/Carex_leavenworthii) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 2,262 |
-| 2026-10-02 21:14:55 | [Henry Irving as Philip II of Spain](https://en.wikipedia.org/wiki/Henry_Irving_as_Philip_II_of_Spain) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,472 |
-| 2026-10-02 21:16:36 | [Spielberg (horse)](https://en.wikipedia.org/wiki/Spielberg_%28horse%29) | [Lowyat Slyder](https://en.wikipedia.org/wiki/User:Lowyat_Slyder) | 27,208 |
-| 2026-10-02 21:17:45 | [List of Amanita species known to contain psychoactive compounds](https://en.wikipedia.org/wiki/List_of_Amanita_species_known_to_contain_psychoactive_compounds) | [Oeryc](https://en.wikipedia.org/wiki/User:Oeryc) | 2,083 |
+| 2026-10-02 21:21:02 | [Willershausen](https://en.wikipedia.org/wiki/Willershausen) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 275 |
+| 2026-10-02 21:22:21 | [Idle hands (disambiguation)](https://en.wikipedia.org/wiki/Idle_hands_%28disambiguation%29) | [Darkwarriorblake](https://en.wikipedia.org/wiki/User:Darkwarriorblake) | 676 |
+| 2026-10-02 21:23:15 | [Cerro El Tamoco](https://en.wikipedia.org/wiki/Cerro_El_Tamoco) | [Тараненко Артем](https://en.wikipedia.org/wiki/User:%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_%D0%90%D1%80%D1%82%D0%B5%D0%BC) | 8,517 |
+| 2026-10-02 21:30:54 | [Ariadna Arantes](https://en.wikipedia.org/wiki/Ariadna_Arantes) | [Questionadora ávida](https://en.wikipedia.org/wiki/User:Questionadora_%C3%A1vida) | 6,584 |
+| 2026-10-02 21:32:41 | [Luciana Gurgel](https://en.wikipedia.org/wiki/Luciana_Gurgel) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,320 |
+| 2026-10-02 21:37:26 | [MOS Caen](https://en.wikipedia.org/wiki/MOS_Caen) | [Babylon77](https://en.wikipedia.org/wiki/User:Babylon77) | 1,671 |
+| 2026-10-02 21:39:10 | [Amaree Williams](https://en.wikipedia.org/wiki/Amaree_Williams) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 88 |
+| 2026-10-02 21:43:45 | [Results breakdown of the 2026 Moroccan general election](https://en.wikipedia.org/wiki/Results_breakdown_of_the_2026_Moroccan_general_election) | [Tidjani Saleh](https://en.wikipedia.org/wiki/User:Tidjani_Saleh) | 213,766 |
+| 2026-10-02 21:53:35 | [Rosalie Bernstein](https://en.wikipedia.org/wiki/Rosalie_Bernstein) | [Aciram](https://en.wikipedia.org/wiki/User:Aciram) | 3,754 |
+| 2026-10-02 21:54:10 | [Rainey Meszaros](https://en.wikipedia.org/wiki/Rainey_Meszaros) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 2,943 |
+| 2026-10-02 22:00:27 | [John of Noyon](https://en.wikipedia.org/wiki/John_of_Noyon) | [Surtsicna](https://en.wikipedia.org/wiki/User:Surtsicna) | 3,603 |
+| 2026-10-02 22:10:21 | [Stone Temple Baptist Church](https://en.wikipedia.org/wiki/Stone_Temple_Baptist_Church) | [Hskaggs](https://en.wikipedia.org/wiki/User:Hskaggs) | 1,930 |
+| 2026-10-02 22:10:23 | [Capture of Durrës (1368)](https://en.wikipedia.org/wiki/Capture_of_Durr%C3%ABs_%281368%29) | [Killerdani12](https://en.wikipedia.org/wiki/User:Killerdani12) | 5,844 |
+| 2026-10-02 22:12:44 | [1970 Michigan Senate election](https://en.wikipedia.org/wiki/1970_Michigan_Senate_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 35,263 |
