@@ -13,57 +13,72 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-02 11:18 UTC](data/en/new-articles-2026-10-02T11-18-39Z.csv) | 25 |
-| Japanese | `ja` | [2026-10-02 11:18 UTC](data/ja/new-articles-2026-10-02T11-18-39Z.csv) | 10 |
-| Chinese | `zh` | [2026-10-02 11:18 UTC](data/zh/new-articles-2026-10-02T11-18-39Z.csv) | 7 |
-| French | `fr` | [2026-10-02 11:18 UTC](data/fr/new-articles-2026-10-02T11-18-39Z.csv) | 10 |
-| German | `de` | [2026-10-02 11:18 UTC](data/de/new-articles-2026-10-02T11-18-39Z.csv) | 6 |
-| Russian | `ru` | [2026-10-02 11:18 UTC](data/ru/new-articles-2026-10-02T11-18-39Z.csv) | 13 |
-| Spanish | `es` | [2026-10-02 11:18 UTC](data/es/new-articles-2026-10-02T11-18-39Z.csv) | 4 |
-| Italian | `it` | [2026-10-02 11:18 UTC](data/it/new-articles-2026-10-02T11-18-39Z.csv) | 9 |
-| Portuguese | `pt` | [2026-10-02 11:18 UTC](data/pt/new-articles-2026-10-02T11-18-39Z.csv) | 2 |
-| Polish | `pl` | [2026-10-02 11:18 UTC](data/pl/new-articles-2026-10-02T11-18-39Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-02 11:18 UTC](data/ar/new-articles-2026-10-02T11-18-39Z.csv) | 6 |
-| Persian | `fa` | [2026-10-02 11:18 UTC](data/fa/new-articles-2026-10-02T11-18-39Z.csv) | 27 |
-| Turkish | `tr` | [2026-10-02 11:18 UTC](data/tr/new-articles-2026-10-02T11-18-39Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-02 11:18 UTC](data/he/new-articles-2026-10-02T11-18-39Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-02 11:18 UTC](data/sv/new-articles-2026-10-02T11-18-39Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-02 11:18 UTC](data/nl/new-articles-2026-10-02T11-18-39Z.csv) | 4 |
+| English | `en` | [2026-10-02 12:20 UTC](data/en/new-articles-2026-10-02T12-20-42Z.csv) | 40 |
+| Japanese | `ja` | [2026-10-02 12:20 UTC](data/ja/new-articles-2026-10-02T12-20-42Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-02 12:20 UTC](data/zh/new-articles-2026-10-02T12-20-42Z.csv) | 9 |
+| French | `fr` | [2026-10-02 12:20 UTC](data/fr/new-articles-2026-10-02T12-20-42Z.csv) | 6 |
+| German | `de` | [2026-10-02 12:20 UTC](data/de/new-articles-2026-10-02T12-20-42Z.csv) | 11 |
+| Russian | `ru` | [2026-10-02 12:20 UTC](data/ru/new-articles-2026-10-02T12-20-42Z.csv) | 14 |
+| Spanish | `es` | [2026-10-02 12:20 UTC](data/es/new-articles-2026-10-02T12-20-42Z.csv) | 9 |
+| Italian | `it` | [2026-10-02 12:20 UTC](data/it/new-articles-2026-10-02T12-20-42Z.csv) | 6 |
+| Portuguese | `pt` | [2026-10-02 12:20 UTC](data/pt/new-articles-2026-10-02T12-20-42Z.csv) | 2 |
+| Polish | `pl` | [2026-10-02 12:20 UTC](data/pl/new-articles-2026-10-02T12-20-42Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-02 12:20 UTC](data/ar/new-articles-2026-10-02T12-20-42Z.csv) | 6 |
+| Persian | `fa` | [2026-10-02 12:20 UTC](data/fa/new-articles-2026-10-02T12-20-42Z.csv) | 21 |
+| Turkish | `tr` | [2026-10-02 12:20 UTC](data/tr/new-articles-2026-10-02T12-20-42Z.csv) | 11 |
+| Hebrew | `he` | [2026-10-02 12:20 UTC](data/he/new-articles-2026-10-02T12-20-42Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-02 12:20 UTC](data/sv/new-articles-2026-10-02T12-20-42Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-02 12:20 UTC](data/nl/new-articles-2026-10-02T12-20-42Z.csv) | 2 |
 | Korean | `ko` | [2026-10-02 10:18 UTC](data/ko/new-articles-2026-10-02T10-18-56Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-02 11:18 UTC](data/id/new-articles-2026-10-02T11-18-39Z.csv) | 16 |
-| Ukrainian | `uk` | [2026-10-02 11:18 UTC](data/uk/new-articles-2026-10-02T11-18-39Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-02 11:18 UTC](data/vi/new-articles-2026-10-02T11-18-39Z.csv) | 8 |
+| Indonesian | `id` | [2026-10-02 12:20 UTC](data/id/new-articles-2026-10-02T12-20-42Z.csv) | 13 |
+| Ukrainian | `uk` | [2026-10-02 12:20 UTC](data/uk/new-articles-2026-10-02T12-20-42Z.csv) | 8 |
+| Vietnamese | `vi` | [2026-10-02 12:20 UTC](data/vi/new-articles-2026-10-02T12-20-42Z.csv) | 4 |
 
-## English (en) — 2026-10-02 11:18 UTC
+## English (en) — 2026-10-02 12:20 UTC
 
-New articles created between 2026-10-02 10:18 UTC and 2026-10-02 11:18 UTC.
+New articles created between 2026-10-02 11:18 UTC and 2026-10-02 12:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-02T11-18-39Z.csv)
+[Full CSV](data/en/new-articles-2026-10-02T12-20-42Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-02 10:19:35 | [H. Boyd McWhorter](https://en.wikipedia.org/wiki/H._Boyd_McWhorter) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 4,212 |
-| 2026-10-02 10:20:06 | [2026–27 Premier League (disambiguation)](https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League_%28disambiguation%29) | [Horcrux](https://en.wikipedia.org/wiki/User:Horcrux) | 994 |
-| 2026-10-02 10:20:20 | [Pooja Mere Jaan](https://en.wikipedia.org/wiki/Pooja_Mere_Jaan) | [Official06](https://en.wikipedia.org/wiki/User:Official06) | 7,825 |
-| 2026-10-02 10:24:13 | [Pozzuoli Solfatara railway station](https://en.wikipedia.org/wiki/Pozzuoli_Solfatara_railway_station) | [Yeagvr](https://en.wikipedia.org/wiki/User:Yeagvr) | 4,788 |
-| 2026-10-02 10:24:32 | [Łukasz Ronduda](https://en.wikipedia.org/wiki/%C5%81ukasz_Ronduda) | [Franek Vetulani](https://en.wikipedia.org/wiki/User:Franek_Vetulani) | 1,270 |
-| 2026-10-02 10:28:38 | [Anuja Kulung Rai](https://en.wikipedia.org/wiki/Anuja_Kulung_Rai) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,412 |
-| 2026-10-02 10:34:13 | [Long Quảng](https://en.wikipedia.org/wiki/Long_Qu%E1%BA%A3ng) | [Vietic2](https://en.wikipedia.org/wiki/User:Vietic2) | 2,880 |
-| 2026-10-02 10:36:52 | [Asian Games Champions Cycling Women's team sprint](https://en.wikipedia.org/wiki/Asian_Games_Champions_Cycling_Women%27s_team_sprint) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 1,128 |
-| 2026-10-02 10:38:34 | [Bagnoli–Agnano Terme railway station](https://en.wikipedia.org/wiki/Bagnoli%E2%80%93Agnano_Terme_railway_station) | [Yeagvr](https://en.wikipedia.org/wiki/User:Yeagvr) | 3,185 |
-| 2026-10-02 10:39:18 | [Elias I of Armenia](https://en.wikipedia.org/wiki/Elias_I_of_Armenia) | [MerlinsCodex](https://en.wikipedia.org/wiki/User:MerlinsCodex) | 2,132 |
-| 2026-10-02 10:39:49 | [Hasan Imam Zangipuri](https://en.wikipedia.org/wiki/Hasan_Imam_Zangipuri) | [HaiderMujtaba](https://en.wikipedia.org/wiki/User:HaiderMujtaba) | 12,482 |
-| 2026-10-02 10:40:04 | [2026–27 Portland State Vikings women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Portland_State_Vikings_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 28,936 |
-| 2026-10-02 10:41:28 | [Crisco (disambiguation)](https://en.wikipedia.org/wiki/Crisco_%28disambiguation%29) | [Frost](https://en.wikipedia.org/wiki/User:Frost) | 302 |
-| 2026-10-02 10:48:15 | [Arpana Chaudhary](https://en.wikipedia.org/wiki/Arpana_Chaudhary) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,136 |
-| 2026-10-02 10:50:18 | [Napoli Piazza Leopardi railway station](https://en.wikipedia.org/wiki/Napoli_Piazza_Leopardi_railway_station) | [Yeagvr](https://en.wikipedia.org/wiki/User:Yeagvr) | 3,851 |
-| 2026-10-02 10:52:24 | [Tell Me What You Feel](https://en.wikipedia.org/wiki/Tell_Me_What_You_Feel) | [Franek Vetulani](https://en.wikipedia.org/wiki/User:Franek_Vetulani) | 2,076 |
-| 2026-10-02 10:56:23 | [Nationalism in Japan](https://en.wikipedia.org/wiki/Nationalism_in_Japan) | [ProgramT](https://en.wikipedia.org/wiki/User:ProgramT) | 251 |
-| 2026-10-02 11:05:07 | [Napoli Piazza Cavour railway station](https://en.wikipedia.org/wiki/Napoli_Piazza_Cavour_railway_station) | [Yeagvr](https://en.wikipedia.org/wiki/User:Yeagvr) | 4,110 |
-| 2026-10-02 11:07:56 | [Sunita Thapa](https://en.wikipedia.org/wiki/Sunita_Thapa) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 2,668 |
-| 2026-10-02 11:08:25 | [Gastrobothrus](https://en.wikipedia.org/wiki/Gastrobothrus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,603 |
-| 2026-10-02 11:13:16 | [Gastrobothrus angustus](https://en.wikipedia.org/wiki/Gastrobothrus_angustus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,201 |
-| 2026-10-02 11:13:54 | [Israel I of Armenia](https://en.wikipedia.org/wiki/Israel_I_of_Armenia) | [MerlinsCodex](https://en.wikipedia.org/wiki/User:MerlinsCodex) | 1,729 |
-| 2026-10-02 11:15:23 | [Gastrobothrus biligo](https://en.wikipedia.org/wiki/Gastrobothrus_biligo) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,176 |
-| 2026-10-02 11:16:40 | [Banashankari TTMC](https://en.wikipedia.org/wiki/Banashankari_TTMC) | [Shaymmm](https://en.wikipedia.org/wiki/User:Shaymmm) | 5,211 |
-| 2026-10-02 11:16:56 | [Nitu Gurung](https://en.wikipedia.org/wiki/Nitu_Gurung) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,705 |
+| 2026-10-02 11:19:03 | [Gastrobothrus buckleyi](https://en.wikipedia.org/wiki/Gastrobothrus_buckleyi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,832 |
+| 2026-10-02 11:20:54 | [Gastrobothrus directus](https://en.wikipedia.org/wiki/Gastrobothrus_directus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,141 |
+| 2026-10-02 11:22:10 | [Kanpur, Odisha](https://en.wikipedia.org/wiki/Kanpur%2C_Odisha) | [Rajdhani Fan Person](https://en.wikipedia.org/wiki/User:Rajdhani_Fan_Person) | 5,440 |
+| 2026-10-02 11:22:46 | [Gastrobothrus giganteus](https://en.wikipedia.org/wiki/Gastrobothrus_giganteus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,176 |
+| 2026-10-02 11:24:14 | [Gastrobothrus grossus](https://en.wikipedia.org/wiki/Gastrobothrus_grossus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,036 |
+| 2026-10-02 11:24:58 | [Al-Khatib al-Tibrizi](https://en.wikipedia.org/wiki/Al-Khatib_al-Tibrizi) | [Sourdaughing11](https://en.wikipedia.org/wiki/User:Sourdaughing11) | 2,648 |
+| 2026-10-02 11:26:31 | [Gastrobothrus ignotus](https://en.wikipedia.org/wiki/Gastrobothrus_ignotus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,892 |
+| 2026-10-02 11:26:53 | [The Church of Marissel](https://en.wikipedia.org/wiki/The_Church_of_Marissel) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,770 |
+| 2026-10-02 11:29:34 | [Gastrobothrus inflatus](https://en.wikipedia.org/wiki/Gastrobothrus_inflatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,111 |
+| 2026-10-02 11:32:02 | [Gastrobothrus lunatus](https://en.wikipedia.org/wiki/Gastrobothrus_lunatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,097 |
+| 2026-10-02 11:32:23 | [Mother (2020 film)](https://en.wikipedia.org/wiki/Mother_%282020_film%29) | [DanieleJava](https://en.wikipedia.org/wiki/User:DanieleJava) | 11,496 |
+| 2026-10-02 11:33:47 | [Gastrobothrus occultus](https://en.wikipedia.org/wiki/Gastrobothrus_occultus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,175 |
+| 2026-10-02 11:34:08 | [2026 Men's U23 NORCECA Pan American Cup](https://en.wikipedia.org/wiki/2026_Men%27s_U23_NORCECA_Pan_American_Cup) | [Stevencocoboy](https://en.wikipedia.org/wiki/User:Stevencocoboy) | 1,060 |
+| 2026-10-02 11:35:42 | [Gastrobothrus pilosus](https://en.wikipedia.org/wiki/Gastrobothrus_pilosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,192 |
+| 2026-10-02 11:36:04 | [Indonesia–Singapore football rivalry](https://en.wikipedia.org/wiki/Indonesia%E2%80%93Singapore_football_rivalry) | [HiNimo](https://en.wikipedia.org/wiki/User:HiNimo) | 21,134 |
+| 2026-10-02 11:36:53 | [2026–27 Eastern Washington Eagles women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Eastern_Washington_Eagles_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 29,290 |
+| 2026-10-02 11:37:44 | [Anti-Beijing camp](https://en.wikipedia.org/wiki/Anti-Beijing_camp) | [ProgramT](https://en.wikipedia.org/wiki/User:ProgramT) | 264 |
+| 2026-10-02 11:37:58 | [Gastrobothrus planiventris](https://en.wikipedia.org/wiki/Gastrobothrus_planiventris) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,218 |
+| 2026-10-02 11:38:55 | [South Korea at the 2028 Summer Olympics](https://en.wikipedia.org/wiki/South_Korea_at_the_2028_Summer_Olympics) | [Amnom Darius](https://en.wikipedia.org/wiki/User:Amnom_Darius) | 2,319 |
+| 2026-10-02 11:41:01 | [Gastrobothrus platynotus](https://en.wikipedia.org/wiki/Gastrobothrus_platynotus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,985 |
+| 2026-10-02 11:41:05 | [Engin Deniz Akarlı](https://en.wikipedia.org/wiki/Engin_Deniz_Akarl%C4%B1) | [Orin NirO](https://en.wikipedia.org/wiki/User:Orin_NirO) | 10,571 |
+| 2026-10-02 11:43:09 | [2026–27 Rayo Vallecano season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Rayo_Vallecano_season) | [RossEvans19](https://en.wikipedia.org/wiki/User:RossEvans19) | 10,187 |
+| 2026-10-02 11:43:21 | [Gastrobothrus pumilus](https://en.wikipedia.org/wiki/Gastrobothrus_pumilus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,099 |
+| 2026-10-02 11:44:02 | [Kuala Lumpur and Selangor Chinese Assembly Hall](https://en.wikipedia.org/wiki/Kuala_Lumpur_and_Selangor_Chinese_Assembly_Hall) | [Chipmunkdavis](https://en.wikipedia.org/wiki/User:Chipmunkdavis) | 13,522 |
+| 2026-10-02 11:45:11 | [Gastrobothrus quadrus](https://en.wikipedia.org/wiki/Gastrobothrus_quadrus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,181 |
+| 2026-10-02 11:46:42 | [Gastrobothrus retusus](https://en.wikipedia.org/wiki/Gastrobothrus_retusus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,173 |
+| 2026-10-02 11:47:53 | [Bengt Holmquist](https://en.wikipedia.org/wiki/Bengt_Holmquist) | [Saftgurka](https://en.wikipedia.org/wiki/User:Saftgurka) | 10,663 |
+| 2026-10-02 11:49:16 | [Gastrobothrus sharpi](https://en.wikipedia.org/wiki/Gastrobothrus_sharpi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,157 |
+| 2026-10-02 11:51:43 | [Gastrobothrus spinifer](https://en.wikipedia.org/wiki/Gastrobothrus_spinifer) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,150 |
+| 2026-10-02 11:53:54 | [Anastasius I of Armenia](https://en.wikipedia.org/wiki/Anastasius_I_of_Armenia) | [MerlinsCodex](https://en.wikipedia.org/wiki/User:MerlinsCodex) | 1,558 |
+| 2026-10-02 11:54:50 | [Gastrobothrus sulcipennis](https://en.wikipedia.org/wiki/Gastrobothrus_sulcipennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,109 |
+| 2026-10-02 11:58:31 | [Roy Gonzales](https://en.wikipedia.org/wiki/Roy_Gonzales) | [FiveGeekabytes](https://en.wikipedia.org/wiki/User:FiveGeekabytes) | 6,938 |
+| 2026-10-02 11:59:11 | [St. Coloman's Church, Schwangau](https://en.wikipedia.org/wiki/St._Coloman%27s_Church%2C_Schwangau) | [Julius Barclay](https://en.wikipedia.org/wiki/User:Julius_Barclay) | 4,220 |
+| 2026-10-02 12:00:26 | [Ezra of Armenia](https://en.wikipedia.org/wiki/Ezra_of_Armenia) | [MerlinsCodex](https://en.wikipedia.org/wiki/User:MerlinsCodex) | 1,000 |
+| 2026-10-02 12:02:50 | [Ganzorigiin Munkhbayar](https://en.wikipedia.org/wiki/Ganzorigiin_Munkhbayar) | [BurningBlaze05](https://en.wikipedia.org/wiki/User:BurningBlaze05) | 209 |
+| 2026-10-02 12:03:16 | [Gastrobothrus trigonus](https://en.wikipedia.org/wiki/Gastrobothrus_trigonus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,159 |
+| 2026-10-02 12:16:45 | [Ayşenur Budak](https://en.wikipedia.org/wiki/Ay%C5%9Fenur_Budak) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 3,319 |
+| 2026-10-02 12:18:31 | [Zhou Hongxu](https://en.wikipedia.org/wiki/Zhou_Hongxu) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 4,281 |
+| 2026-10-02 12:19:38 | [Andreas Schlagenhaufer](https://en.wikipedia.org/wiki/Andreas_Schlagenhaufer) | [Fronbergerin](https://en.wikipedia.org/wiki/User:Fronbergerin) | 11,233 |
+| 2026-10-02 12:19:44 | [Karel Zelenko](https://en.wikipedia.org/wiki/Karel_Zelenko) | [Skaterlight2013](https://en.wikipedia.org/wiki/User:Skaterlight2013) | 5,568 |
