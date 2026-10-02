@@ -13,41 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-02 04:18 UTC](data/en/new-articles-2026-10-02T04-18-44Z.csv) | 9 |
-| Japanese | `ja` | [2026-10-02 04:18 UTC](data/ja/new-articles-2026-10-02T04-18-44Z.csv) | 3 |
-| Chinese | `zh` | [2026-10-02 04:18 UTC](data/zh/new-articles-2026-10-02T04-18-44Z.csv) | 5 |
-| French | `fr` | [2026-10-02 04:18 UTC](data/fr/new-articles-2026-10-02T04-18-44Z.csv) | 1 |
-| German | `de` | [2026-10-02 04:18 UTC](data/de/new-articles-2026-10-02T04-18-44Z.csv) | 2 |
-| Russian | `ru` | [2026-10-02 04:18 UTC](data/ru/new-articles-2026-10-02T04-18-44Z.csv) | 6 |
-| Spanish | `es` | [2026-10-02 04:18 UTC](data/es/new-articles-2026-10-02T04-18-44Z.csv) | 28 |
-| Italian | `it` | [2026-10-02 04:18 UTC](data/it/new-articles-2026-10-02T04-18-44Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-02 04:18 UTC](data/pt/new-articles-2026-10-02T04-18-44Z.csv) | 4 |
+| English | `en` | [2026-10-02 05:18 UTC](data/en/new-articles-2026-10-02T05-18-40Z.csv) | 13 |
+| Japanese | `ja` | [2026-10-02 05:18 UTC](data/ja/new-articles-2026-10-02T05-18-40Z.csv) | 7 |
+| Chinese | `zh` | [2026-10-02 05:18 UTC](data/zh/new-articles-2026-10-02T05-18-40Z.csv) | 3 |
+| French | `fr` | [2026-10-02 05:18 UTC](data/fr/new-articles-2026-10-02T05-18-40Z.csv) | 3 |
+| German | `de` | [2026-10-02 05:18 UTC](data/de/new-articles-2026-10-02T05-18-40Z.csv) | 4 |
+| Russian | `ru` | [2026-10-02 05:18 UTC](data/ru/new-articles-2026-10-02T05-18-40Z.csv) | 4 |
+| Spanish | `es` | [2026-10-02 05:18 UTC](data/es/new-articles-2026-10-02T05-18-40Z.csv) | 14 |
+| Italian | `it` | [2026-10-02 05:18 UTC](data/it/new-articles-2026-10-02T05-18-40Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-02 05:18 UTC](data/pt/new-articles-2026-10-02T05-18-40Z.csv) | 2 |
 | Polish | `pl` | [2026-10-02 04:18 UTC](data/pl/new-articles-2026-10-02T04-18-44Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-02 04:18 UTC](data/ar/new-articles-2026-10-02T04-18-44Z.csv) | 3 |
-| Persian | `fa` | [2026-10-02 04:18 UTC](data/fa/new-articles-2026-10-02T04-18-44Z.csv) | 11 |
+| Arabic | `ar` | [2026-10-02 05:18 UTC](data/ar/new-articles-2026-10-02T05-18-40Z.csv) | 3 |
+| Persian | `fa` | [2026-10-02 05:18 UTC](data/fa/new-articles-2026-10-02T05-18-40Z.csv) | 17 |
 | Turkish | `tr` | [2026-10-02 04:18 UTC](data/tr/new-articles-2026-10-02T04-18-44Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-02 04:18 UTC](data/he/new-articles-2026-10-02T04-18-44Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-02 04:18 UTC](data/sv/new-articles-2026-10-02T04-18-44Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-02 01:18 UTC](data/nl/new-articles-2026-10-02T01-18-38Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-02 05:18 UTC](data/he/new-articles-2026-10-02T05-18-40Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-02 05:18 UTC](data/sv/new-articles-2026-10-02T05-18-40Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-02 05:18 UTC](data/nl/new-articles-2026-10-02T05-18-40Z.csv) | 1 |
 | Korean | `ko` | [2026-10-02 04:18 UTC](data/ko/new-articles-2026-10-02T04-18-44Z.csv) | 8 |
-| Indonesian | `id` | [2026-10-02 03:18 UTC](data/id/new-articles-2026-10-02T03-18-42Z.csv) | 10 |
+| Indonesian | `id` | [2026-10-02 05:18 UTC](data/id/new-articles-2026-10-02T05-18-40Z.csv) | 9 |
 | Ukrainian | `uk` | [2026-10-02 04:18 UTC](data/uk/new-articles-2026-10-02T04-18-44Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-10-02 01:18 UTC](data/vi/new-articles-2026-10-02T01-18-38Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-10-02 05:18 UTC](data/vi/new-articles-2026-10-02T05-18-40Z.csv) | 1 |
 
-## English (en) — 2026-10-02 04:18 UTC
+## English (en) — 2026-10-02 05:18 UTC
 
-New articles created between 2026-10-02 03:18 UTC and 2026-10-02 04:18 UTC.
+New articles created between 2026-10-02 04:18 UTC and 2026-10-02 05:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-02T04-18-44Z.csv)
+[Full CSV](data/en/new-articles-2026-10-02T05-18-40Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-02 03:20:48 | [Lucette Korsoff](https://en.wikipedia.org/wiki/Lucette_Korsoff) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 4,453 |
-| 2026-10-02 03:31:07 | [Sex selective abortion in Taiwan](https://en.wikipedia.org/wiki/Sex_selective_abortion_in_Taiwan) | [Wasilwilt](https://en.wikipedia.org/wiki/User:Wasilwilt) | 3,368 |
-| 2026-10-02 03:45:15 | [Aura Creations](https://en.wikipedia.org/wiki/Aura_Creations) | [Boopathy Art](https://en.wikipedia.org/wiki/User:Boopathy_Art) | 1,971 |
-| 2026-10-02 03:52:10 | [Pacific Link pipeline](https://en.wikipedia.org/wiki/Pacific_Link_pipeline) | [WildComet](https://en.wikipedia.org/wiki/User:WildComet) | 5,909 |
-| 2026-10-02 04:03:28 | [Maybe We Could (album)](https://en.wikipedia.org/wiki/Maybe_We_Could_%28album%29) | [Loveclubxo](https://en.wikipedia.org/wiki/User:Loveclubxo) | 6,289 |
-| 2026-10-02 04:12:02 | [Netali Shem Tov](https://en.wikipedia.org/wiki/Netali_Shem_Tov) | [TeddyRoosevelt1912](https://en.wikipedia.org/wiki/User:TeddyRoosevelt1912) | 6,322 |
-| 2026-10-02 04:12:53 | [Mottke the Thief](https://en.wikipedia.org/wiki/Mottke_the_Thief) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 2,682 |
-| 2026-10-02 04:13:39 | [Hylaeus mediovirens](https://en.wikipedia.org/wiki/Hylaeus_mediovirens) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,319 |
-| 2026-10-02 04:15:25 | [Eda Ra](https://en.wikipedia.org/wiki/Eda_Ra) | [Supun.Wijerathne](https://en.wikipedia.org/wiki/User:Supun.Wijerathne) | 3,000 |
+| 2026-10-02 04:23:17 | [Eda Rae : One Voice, Million Hearts](https://en.wikipedia.org/wiki/Eda_Rae_%3A_One_Voice%2C_Million_Hearts) | [Supun.Wijerathne](https://en.wikipedia.org/wiki/User:Supun.Wijerathne) | 6,214 |
+| 2026-10-02 04:30:43 | [Efrati](https://en.wikipedia.org/wiki/Efrati) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 353 |
+| 2026-10-02 04:32:01 | [Eda Raa](https://en.wikipedia.org/wiki/Eda_Raa) | [Supun.Wijerathne](https://en.wikipedia.org/wiki/User:Supun.Wijerathne) | 6,214 |
+| 2026-10-02 04:33:46 | [Intrenchment Creek Community Stewardship Council](https://en.wikipedia.org/wiki/Intrenchment_Creek_Community_Stewardship_Council) | [Nobbled thoroughbred](https://en.wikipedia.org/wiki/User:Nobbled_thoroughbred) | 16,573 |
+| 2026-10-02 04:36:34 | [Sahyadriana](https://en.wikipedia.org/wiki/Sahyadriana) | [Chess enjoyer](https://en.wikipedia.org/wiki/User:Chess_enjoyer) | 1,632 |
+| 2026-10-02 04:37:06 | [Soundodger](https://en.wikipedia.org/wiki/Soundodger) | [Vrxces](https://en.wikipedia.org/wiki/User:Vrxces) | 5,128 |
+| 2026-10-02 04:50:10 | [Ineymig Hernández Gil](https://en.wikipedia.org/wiki/Ineymig_Hern%C3%A1ndez_Gil) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 1,818 |
+| 2026-10-02 05:00:53 | [Yan Yean Water Supply System](https://en.wikipedia.org/wiki/Yan_Yean_Water_Supply_System) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 13,502 |
+| 2026-10-02 05:01:39 | [Wreck Beach (Corangamite Shire)](https://en.wikipedia.org/wiki/Wreck_Beach_%28Corangamite_Shire%29) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 6,717 |
+| 2026-10-02 05:06:18 | [Jeus Yape](https://en.wikipedia.org/wiki/Jeus_Yape) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 5,100 |
+| 2026-10-02 05:07:29 | [Vesna Mihelič](https://en.wikipedia.org/wiki/Vesna_Miheli%C4%8D) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 2,221 |
+| 2026-10-02 05:08:02 | [Flower Mission (disambiguation)](https://en.wikipedia.org/wiki/Flower_Mission_%28disambiguation%29) | [Rosiestep](https://en.wikipedia.org/wiki/User:Rosiestep) | 424 |
+| 2026-10-02 05:14:18 | [List of Dissomphalus species](https://en.wikipedia.org/wiki/List_of_Dissomphalus_species) | [Versions111](https://en.wikipedia.org/wiki/User:Versions111) | 14,746 |
