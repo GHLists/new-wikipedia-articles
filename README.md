@@ -13,46 +13,55 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-03 01:18 UTC](data/en/new-articles-2026-10-03T01-18-37Z.csv) | 14 |
-| Japanese | `ja` | [2026-10-03 01:18 UTC](data/ja/new-articles-2026-10-03T01-18-37Z.csv) | 10 |
-| Chinese | `zh` | [2026-10-03 01:18 UTC](data/zh/new-articles-2026-10-03T01-18-37Z.csv) | 3 |
-| French | `fr` | [2026-10-03 01:18 UTC](data/fr/new-articles-2026-10-03T01-18-37Z.csv) | 5 |
-| German | `de` | [2026-10-03 01:18 UTC](data/de/new-articles-2026-10-03T01-18-37Z.csv) | 2 |
-| Russian | `ru` | [2026-10-03 00:18 UTC](data/ru/new-articles-2026-10-03T00-18-59Z.csv) | 3 |
-| Spanish | `es` | [2026-10-03 01:18 UTC](data/es/new-articles-2026-10-03T01-18-37Z.csv) | 12 |
+| English | `en` | [2026-10-03 02:21 UTC](data/en/new-articles-2026-10-03T02-21-12Z.csv) | 23 |
+| Japanese | `ja` | [2026-10-03 02:21 UTC](data/ja/new-articles-2026-10-03T02-21-12Z.csv) | 9 |
+| Chinese | `zh` | [2026-10-03 02:21 UTC](data/zh/new-articles-2026-10-03T02-21-12Z.csv) | 5 |
+| French | `fr` | [2026-10-03 02:21 UTC](data/fr/new-articles-2026-10-03T02-21-12Z.csv) | 3 |
+| German | `de` | [2026-10-03 02:21 UTC](data/de/new-articles-2026-10-03T02-21-12Z.csv) | 2 |
+| Russian | `ru` | [2026-10-03 02:21 UTC](data/ru/new-articles-2026-10-03T02-21-12Z.csv) | 2 |
+| Spanish | `es` | [2026-10-03 02:21 UTC](data/es/new-articles-2026-10-03T02-21-12Z.csv) | 10 |
 | Italian | `it` | [2026-10-03 01:18 UTC](data/it/new-articles-2026-10-03T01-18-37Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-03 01:18 UTC](data/pt/new-articles-2026-10-03T01-18-37Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-03 02:21 UTC](data/pt/new-articles-2026-10-03T02-21-12Z.csv) | 9 |
 | Polish | `pl` | [2026-10-02 23:20 UTC](data/pl/new-articles-2026-10-02T23-20-54Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-03 01:18 UTC](data/ar/new-articles-2026-10-03T01-18-37Z.csv) | 1 |
-| Persian | `fa` | [2026-10-03 01:18 UTC](data/fa/new-articles-2026-10-03T01-18-37Z.csv) | 19 |
-| Turkish | `tr` | [2026-10-03 01:18 UTC](data/tr/new-articles-2026-10-03T01-18-37Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-03 02:21 UTC](data/ar/new-articles-2026-10-03T02-21-12Z.csv) | 1 |
+| Persian | `fa` | [2026-10-03 02:21 UTC](data/fa/new-articles-2026-10-03T02-21-12Z.csv) | 23 |
+| Turkish | `tr` | [2026-10-03 02:21 UTC](data/tr/new-articles-2026-10-03T02-21-12Z.csv) | 1 |
 | Hebrew | `he` | [2026-10-03 01:18 UTC](data/he/new-articles-2026-10-03T01-18-37Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-02 22:19 UTC](data/sv/new-articles-2026-10-02T22-19-03Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-03 01:18 UTC](data/nl/new-articles-2026-10-03T01-18-37Z.csv) | 5 |
-| Korean | `ko` | [2026-10-03 01:18 UTC](data/ko/new-articles-2026-10-03T01-18-37Z.csv) | 11 |
-| Indonesian | `id` | [2026-10-03 01:18 UTC](data/id/new-articles-2026-10-03T01-18-37Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-10-03 01:18 UTC](data/uk/new-articles-2026-10-03T01-18-37Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-03 01:18 UTC](data/vi/new-articles-2026-10-03T01-18-37Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-03 02:21 UTC](data/sv/new-articles-2026-10-03T02-21-12Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-03 02:21 UTC](data/nl/new-articles-2026-10-03T02-21-12Z.csv) | 6 |
+| Korean | `ko` | [2026-10-03 02:21 UTC](data/ko/new-articles-2026-10-03T02-21-12Z.csv) | 4 |
+| Indonesian | `id` | [2026-10-03 02:21 UTC](data/id/new-articles-2026-10-03T02-21-12Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-10-03 02:21 UTC](data/uk/new-articles-2026-10-03T02-21-12Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-10-03 02:21 UTC](data/vi/new-articles-2026-10-03T02-21-12Z.csv) | 1 |
 
-## English (en) — 2026-10-03 01:18 UTC
+## English (en) — 2026-10-03 02:21 UTC
 
-New articles created between 2026-10-03 00:18 UTC and 2026-10-03 01:18 UTC.
+New articles created between 2026-10-03 01:18 UTC and 2026-10-03 02:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-03T01-18-37Z.csv)
+[Full CSV](data/en/new-articles-2026-10-03T02-21-12Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-03 00:27:02 | [Loch Doilet](https://en.wikipedia.org/wiki/Loch_Doilet) | [Scope creep](https://en.wikipedia.org/wiki/User:Scope_creep) | 1,055 |
-| 2026-10-03 00:27:37 | [Milton Ray Guevara](https://en.wikipedia.org/wiki/Milton_Ray_Guevara) | [OpenDomi](https://en.wikipedia.org/wiki/User:OpenDomi) | 6,371 |
-| 2026-10-03 00:29:25 | [The Enemy (2020 film)](https://en.wikipedia.org/wiki/The_Enemy_%282020_film%29) | [Cinemaniac86](https://en.wikipedia.org/wiki/User:Cinemaniac86) | 5,258 |
-| 2026-10-03 00:29:32 | [I Remember When I Loved Her](https://en.wikipedia.org/wiki/I_Remember_When_I_Loved_Her) | [VirreFriberg](https://en.wikipedia.org/wiki/User:VirreFriberg) | 20,834 |
-| 2026-10-03 00:30:18 | [Our Lady of Perpetual Help Church, Market Weighton](https://en.wikipedia.org/wiki/Our_Lady_of_Perpetual_Help_Church%2C_Market_Weighton) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 2,105 |
-| 2026-10-03 00:31:01 | [Golden Youth 1960s era in Greece](https://en.wikipedia.org/wiki/Golden_Youth_1960s_era_in_Greece) | [Cdaskala](https://en.wikipedia.org/wiki/User:Cdaskala) | 5,608 |
-| 2026-10-03 00:32:00 | [John Michels (disambiguation)](https://en.wikipedia.org/wiki/John_Michels_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 291 |
-| 2026-10-03 00:34:45 | [Glenville Race Track](https://en.wikipedia.org/wiki/Glenville_Race_Track) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 12,337 |
-| 2026-10-03 00:42:05 | [Alba Luisa Beard Marcos](https://en.wikipedia.org/wiki/Alba_Luisa_Beard_Marcos) | [OpenDomi](https://en.wikipedia.org/wiki/User:OpenDomi) | 10,475 |
-| 2026-10-03 00:42:22 | [Cagayan's at-large congressional district](https://en.wikipedia.org/wiki/Cagayan%27s_at-large_congressional_district) | [FiveGeekabytes](https://en.wikipedia.org/wiki/User:FiveGeekabytes) | 12,866 |
-| 2026-10-03 00:46:01 | [Sweets Kendama](https://en.wikipedia.org/wiki/Sweets_Kendama) | [Bennett Li11](https://en.wikipedia.org/wiki/User:Bennett_Li11) | 994 |
-| 2026-10-03 00:53:25 | [List of Warren Wilson College people](https://en.wikipedia.org/wiki/List_of_Warren_Wilson_College_people) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 15,139 |
-| 2026-10-03 01:05:25 | [Kenneth Womack (Canadian football)](https://en.wikipedia.org/wiki/Kenneth_Womack_%28Canadian_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,048 |
-| 2026-10-03 01:08:47 | [Dalpada](https://en.wikipedia.org/wiki/Dalpada) | [Roy Bateman](https://en.wikipedia.org/wiki/User:Roy_Bateman) | 2,129 |
+| 2026-10-03 01:19:08 | [Dmytro Bratishko](https://en.wikipedia.org/wiki/Dmytro_Bratishko) | [Ivan Milenin](https://en.wikipedia.org/wiki/User:Ivan_Milenin) | 6,338 |
+| 2026-10-03 01:20:19 | [Bend (Alex Calder album)](https://en.wikipedia.org/wiki/Bend_%28Alex_Calder_album%29) | [Niko Kwel](https://en.wikipedia.org/wiki/User:Niko_Kwel) | 12,662 |
+| 2026-10-03 01:25:25 | [Nythosaurus](https://en.wikipedia.org/wiki/Nythosaurus) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 1,850 |
+| 2026-10-03 01:29:39 | [Gastrotheca spectabilis](https://en.wikipedia.org/wiki/Gastrotheca_spectabilis) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 2,320 |
+| 2026-10-03 01:32:40 | [X drive](https://en.wikipedia.org/wiki/X_drive) | [Excludinq](https://en.wikipedia.org/wiki/User:Excludinq) | 3,018 |
+| 2026-10-03 01:35:23 | [Burnermunde](https://en.wikipedia.org/wiki/Burnermunde) | [I'llbeyourmirror](https://en.wikipedia.org/wiki/User:I%27llbeyourmirror) | 3,016 |
+| 2026-10-03 01:36:49 | [2026–27 Boston Fleet season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Boston_Fleet_season) | [MikeVitale](https://en.wikipedia.org/wiki/User:MikeVitale) | 17,443 |
+| 2026-10-03 01:40:40 | [Mia Tijam](https://en.wikipedia.org/wiki/Mia_Tijam) | [Filipinayzd](https://en.wikipedia.org/wiki/User:Filipinayzd) | 3,562 |
+| 2026-10-03 01:42:04 | [Kumareniño](https://en.wikipedia.org/wiki/Kumareni%C3%B1o) | [Regular Jamb](https://en.wikipedia.org/wiki/User:Regular_Jamb) | 5,711 |
+| 2026-10-03 01:43:30 | [Dialogo (sculpture)](https://en.wikipedia.org/wiki/Dialogo_%28sculpture%29) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,005 |
+| 2026-10-03 01:50:43 | [José Escorcia](https://en.wikipedia.org/wiki/Jos%C3%A9_Escorcia) | [Bostero91](https://en.wikipedia.org/wiki/User:Bostero91) | 15,648 |
+| 2026-10-03 01:52:31 | [SLC48A1](https://en.wikipedia.org/wiki/SLC48A1) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 1,738 |
+| 2026-10-03 01:53:09 | [2026 Ferrero Challenger](https://en.wikipedia.org/wiki/2026_Ferrero_Challenger) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,261 |
+| 2026-10-03 01:57:06 | [2026 Ferrero Challenger – Singles](https://en.wikipedia.org/wiki/2026_Ferrero_Challenger_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,856 |
+| 2026-10-03 02:02:56 | [2026 Ferrero Challenger – Doubles](https://en.wikipedia.org/wiki/2026_Ferrero_Challenger_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,090 |
+| 2026-10-03 02:03:55 | [Pangasinan's at-large congressional district](https://en.wikipedia.org/wiki/Pangasinan%27s_at-large_congressional_district) | [FiveGeekabytes](https://en.wikipedia.org/wiki/User:FiveGeekabytes) | 17,190 |
+| 2026-10-03 02:08:10 | [2026 Antofagasta Challenger](https://en.wikipedia.org/wiki/2026_Antofagasta_Challenger) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,151 |
+| 2026-10-03 02:11:46 | [2026 Antofagasta Challenger – Singles](https://en.wikipedia.org/wiki/2026_Antofagasta_Challenger_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,837 |
+| 2026-10-03 02:12:17 | [Semisoft](https://en.wikipedia.org/wiki/Semisoft) | [Dekimasu](https://en.wikipedia.org/wiki/User:Dekimasu) | 248 |
+| 2026-10-03 02:14:24 | [SLC68A1](https://en.wikipedia.org/wiki/SLC68A1) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 583 |
+| 2026-10-03 02:16:16 | [2026 Antofagasta Challenger – Doubles](https://en.wikipedia.org/wiki/2026_Antofagasta_Challenger_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,122 |
+| 2026-10-03 02:16:40 | [Francisco Molinas](https://en.wikipedia.org/wiki/Francisco_Molinas) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,677 |
+| 2026-10-03 02:17:50 | [Nicoraella](https://en.wikipedia.org/wiki/Nicoraella) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 3,119 |
