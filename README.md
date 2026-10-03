@@ -13,53 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-03 14:18 UTC](data/en/new-articles-2026-10-03T14-18-35Z.csv) | 21 |
-| Japanese | `ja` | [2026-10-03 14:18 UTC](data/ja/new-articles-2026-10-03T14-18-35Z.csv) | 9 |
-| Chinese | `zh` | [2026-10-03 14:18 UTC](data/zh/new-articles-2026-10-03T14-18-35Z.csv) | 9 |
-| French | `fr` | [2026-10-03 14:18 UTC](data/fr/new-articles-2026-10-03T14-18-35Z.csv) | 9 |
-| German | `de` | [2026-10-03 14:18 UTC](data/de/new-articles-2026-10-03T14-18-35Z.csv) | 13 |
-| Russian | `ru` | [2026-10-03 14:18 UTC](data/ru/new-articles-2026-10-03T14-18-35Z.csv) | 16 |
-| Spanish | `es` | [2026-10-03 14:18 UTC](data/es/new-articles-2026-10-03T14-18-35Z.csv) | 21 |
-| Italian | `it` | [2026-10-03 14:18 UTC](data/it/new-articles-2026-10-03T14-18-35Z.csv) | 7 |
-| Portuguese | `pt` | [2026-10-03 14:18 UTC](data/pt/new-articles-2026-10-03T14-18-35Z.csv) | 9 |
-| Polish | `pl` | [2026-10-03 14:18 UTC](data/pl/new-articles-2026-10-03T14-18-35Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-03 14:18 UTC](data/ar/new-articles-2026-10-03T14-18-35Z.csv) | 13 |
-| Persian | `fa` | [2026-10-03 14:18 UTC](data/fa/new-articles-2026-10-03T14-18-35Z.csv) | 32 |
-| Turkish | `tr` | [2026-10-03 14:18 UTC](data/tr/new-articles-2026-10-03T14-18-35Z.csv) | 3 |
-| Hebrew | `he` | [2026-10-03 14:18 UTC](data/he/new-articles-2026-10-03T14-18-35Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-03 14:18 UTC](data/sv/new-articles-2026-10-03T14-18-35Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-03 14:18 UTC](data/nl/new-articles-2026-10-03T14-18-35Z.csv) | 11 |
-| Korean | `ko` | [2026-10-03 14:18 UTC](data/ko/new-articles-2026-10-03T14-18-35Z.csv) | 7 |
-| Indonesian | `id` | [2026-10-03 14:18 UTC](data/id/new-articles-2026-10-03T14-18-35Z.csv) | 11 |
-| Ukrainian | `uk` | [2026-10-03 14:18 UTC](data/uk/new-articles-2026-10-03T14-18-35Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-10-03 14:18 UTC](data/vi/new-articles-2026-10-03T14-18-35Z.csv) | 1 |
+| English | `en` | [2026-10-03 15:18 UTC](data/en/new-articles-2026-10-03T15-18-32Z.csv) | 21 |
+| Japanese | `ja` | [2026-10-03 15:18 UTC](data/ja/new-articles-2026-10-03T15-18-32Z.csv) | 8 |
+| Chinese | `zh` | [2026-10-03 15:18 UTC](data/zh/new-articles-2026-10-03T15-18-32Z.csv) | 11 |
+| French | `fr` | [2026-10-03 15:18 UTC](data/fr/new-articles-2026-10-03T15-18-32Z.csv) | 16 |
+| German | `de` | [2026-10-03 15:18 UTC](data/de/new-articles-2026-10-03T15-18-32Z.csv) | 19 |
+| Russian | `ru` | [2026-10-03 15:18 UTC](data/ru/new-articles-2026-10-03T15-18-32Z.csv) | 9 |
+| Spanish | `es` | [2026-10-03 15:18 UTC](data/es/new-articles-2026-10-03T15-18-32Z.csv) | 25 |
+| Italian | `it` | [2026-10-03 15:18 UTC](data/it/new-articles-2026-10-03T15-18-32Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-03 15:18 UTC](data/pt/new-articles-2026-10-03T15-18-32Z.csv) | 6 |
+| Polish | `pl` | [2026-10-03 15:18 UTC](data/pl/new-articles-2026-10-03T15-18-32Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-03 15:18 UTC](data/ar/new-articles-2026-10-03T15-18-32Z.csv) | 8 |
+| Persian | `fa` | [2026-10-03 15:18 UTC](data/fa/new-articles-2026-10-03T15-18-32Z.csv) | 36 |
+| Turkish | `tr` | [2026-10-03 15:18 UTC](data/tr/new-articles-2026-10-03T15-18-32Z.csv) | 10 |
+| Hebrew | `he` | [2026-10-03 15:18 UTC](data/he/new-articles-2026-10-03T15-18-32Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-03 15:18 UTC](data/sv/new-articles-2026-10-03T15-18-32Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-03 15:18 UTC](data/nl/new-articles-2026-10-03T15-18-32Z.csv) | 7 |
+| Korean | `ko` | [2026-10-03 15:18 UTC](data/ko/new-articles-2026-10-03T15-18-32Z.csv) | 4 |
+| Indonesian | `id` | [2026-10-03 15:18 UTC](data/id/new-articles-2026-10-03T15-18-32Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-10-03 15:18 UTC](data/uk/new-articles-2026-10-03T15-18-32Z.csv) | 11 |
+| Vietnamese | `vi` | [2026-10-03 15:18 UTC](data/vi/new-articles-2026-10-03T15-18-32Z.csv) | 2 |
 
-## English (en) — 2026-10-03 14:18 UTC
+## English (en) — 2026-10-03 15:18 UTC
 
-New articles created between 2026-10-03 13:18 UTC and 2026-10-03 14:18 UTC.
+New articles created between 2026-10-03 14:18 UTC and 2026-10-03 15:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-03T14-18-35Z.csv)
+[Full CSV](data/en/new-articles-2026-10-03T15-18-32Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-03 13:21:11 | [Cohors I Cantabrorum](https://en.wikipedia.org/wiki/Cohors_I_Cantabrorum) | [Agentjoerg](https://en.wikipedia.org/wiki/User:Agentjoerg) | 8,299 |
-| 2026-10-03 13:23:39 | [Fantas Variations](https://en.wikipedia.org/wiki/Fantas_Variations) | [フランベ](https://en.wikipedia.org/wiki/User:%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99) | 7,745 |
-| 2026-10-03 13:23:40 | [Bruno Pilia](https://en.wikipedia.org/wiki/Bruno_Pilia) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 5,626 |
-| 2026-10-03 13:28:52 | [Hylaeus bacillarius](https://en.wikipedia.org/wiki/Hylaeus_bacillarius) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,418 |
-| 2026-10-03 13:34:02 | [Nuno Braga](https://en.wikipedia.org/wiki/Nuno_Braga) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 3,987 |
-| 2026-10-03 13:36:35 | [Trường Vinh](https://en.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Vinh) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 3,664 |
-| 2026-10-03 13:38:27 | [Hariharan Amsakarunan](https://en.wikipedia.org/wiki/Hariharan_Amsakarunan) | [Gudibettumane](https://en.wikipedia.org/wiki/User:Gudibettumane) | 2,867 |
-| 2026-10-03 13:39:53 | [1972 East Tennessee State Buccaneers football team](https://en.wikipedia.org/wiki/1972_East_Tennessee_State_Buccaneers_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 7,039 |
-| 2026-10-03 13:43:05 | [Somali given names](https://en.wikipedia.org/wiki/Somali_given_names) | [Ladan mahad](https://en.wikipedia.org/wiki/User:Ladan_mahad) | 54 |
-| 2026-10-03 13:44:13 | [Pier Luigi Carta](https://en.wikipedia.org/wiki/Pier_Luigi_Carta) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,120 |
-| 2026-10-03 13:45:36 | [Chiayi County Constituency 1](https://en.wikipedia.org/wiki/Chiayi_County_Constituency_1) | [CptnPhasma](https://en.wikipedia.org/wiki/User:CptnPhasma) | 2,168 |
-| 2026-10-03 13:55:58 | [Chiel von Meijenfeldt](https://en.wikipedia.org/wiki/Chiel_von_Meijenfeldt) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 16,287 |
-| 2026-10-03 13:57:03 | [Rosalvo Cordeiro de Lima](https://en.wikipedia.org/wiki/Rosalvo_Cordeiro_de_Lima) | [Noel baran](https://en.wikipedia.org/wiki/User:Noel_baran) | 6,245 |
-| 2026-10-03 13:58:38 | [Egyptian minesweeper El Miniya](https://en.wikipedia.org/wiki/Egyptian_minesweeper_El_Miniya) | [JouniKuisma](https://en.wikipedia.org/wiki/User:JouniKuisma) | 8,624 |
-| 2026-10-03 14:01:59 | [List of deputies of the House of Representatives of Morocco, 2026–2031](https://en.wikipedia.org/wiki/List_of_deputies_of_the_House_of_Representatives_of_Morocco%2C_2026%E2%80%932031) | [Tidjani Saleh](https://en.wikipedia.org/wiki/User:Tidjani_Saleh) | 3,695 |
-| 2026-10-03 14:04:11 | [Grant Colfax](https://en.wikipedia.org/wiki/Grant_Colfax) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 1,728 |
-| 2026-10-03 14:05:15 | [1871 New Jersey General Assembly election](https://en.wikipedia.org/wiki/1871_New_Jersey_General_Assembly_election) | [JerseyTodd](https://en.wikipedia.org/wiki/User:JerseyTodd) | 3,578 |
-| 2026-10-03 14:05:51 | [Twisted Tower Dire](https://en.wikipedia.org/wiki/Twisted_Tower_Dire) | [Lofi Gurl](https://en.wikipedia.org/wiki/User:Lofi_Gurl) | 391 |
-| 2026-10-03 14:08:22 | [Mosaic distinction](https://en.wikipedia.org/wiki/Mosaic_distinction) | [Wester2](https://en.wikipedia.org/wiki/User:Wester2) | 6,560 |
-| 2026-10-03 14:17:30 | [Diana Khakimova](https://en.wikipedia.org/wiki/Diana_Khakimova) | [Maniakilljoy97](https://en.wikipedia.org/wiki/User:Maniakilljoy97) | 5,133 |
-| 2026-10-03 14:17:38 | [Namini Wijedasa](https://en.wikipedia.org/wiki/Namini_Wijedasa) | [Zoe3456](https://en.wikipedia.org/wiki/User:Zoe3456) | 7,238 |
+| 2026-10-03 14:23:57 | [Francisco Ruiz (public health official)](https://en.wikipedia.org/wiki/Francisco_Ruiz_%28public_health_official%29) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 1,587 |
+| 2026-10-03 14:23:58 | [Abesalom Vekua](https://en.wikipedia.org/wiki/Abesalom_Vekua) | [Kober](https://en.wikipedia.org/wiki/User:Kober) | 4,826 |
+| 2026-10-03 14:24:04 | [Subniso hipolitensis](https://en.wikipedia.org/wiki/Subniso_hipolitensis) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,017 |
+| 2026-10-03 14:27:12 | [Liselotte Forsberg](https://en.wikipedia.org/wiki/Liselotte_Forsberg) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,837 |
+| 2026-10-03 14:34:35 | [Into the Flames (Waterdown album)](https://en.wikipedia.org/wiki/Into_the_Flames_%28Waterdown_album%29) | [Calvados905](https://en.wikipedia.org/wiki/User:Calvados905) | 9,624 |
+| 2026-10-03 14:38:55 | [No Place for Me (album)](https://en.wikipedia.org/wiki/No_Place_for_Me_%28album%29) | [Randy Nicholas](https://en.wikipedia.org/wiki/User:Randy_Nicholas) | 4,966 |
+| 2026-10-03 14:44:48 | [Killing of Sonia Exelby](https://en.wikipedia.org/wiki/Killing_of_Sonia_Exelby) | [ItsShandog](https://en.wikipedia.org/wiki/User:ItsShandog) | 10,108 |
+| 2026-10-03 14:51:16 | [Dirt Road to Lafayette](https://en.wikipedia.org/wiki/Dirt_Road_to_Lafayette) | [InkstoneAtlas](https://en.wikipedia.org/wiki/User:InkstoneAtlas) | 8,656 |
+| 2026-10-03 14:53:02 | [Jennifer Merelaid Hankins](https://en.wikipedia.org/wiki/Jennifer_Merelaid_Hankins) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 4,556 |
+| 2026-10-03 14:59:08 | [Madhouse Act 1828](https://en.wikipedia.org/wiki/Madhouse_Act_1828) | [Hughbe98](https://en.wikipedia.org/wiki/User:Hughbe98) | 3,932 |
+| 2026-10-03 15:03:01 | [Kong: Survivor Instinct](https://en.wikipedia.org/wiki/Kong%3A_Survivor_Instinct) | [The Editor 155](https://en.wikipedia.org/wiki/User:The_Editor_155) | 4,245 |
+| 2026-10-03 15:04:06 | [Pyongyang City Committee of the Workers' Party of Korea](https://en.wikipedia.org/wiki/Pyongyang_City_Committee_of_the_Workers%27_Party_of_Korea) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 7,919 |
+| 2026-10-03 15:04:23 | [Fluisteraars](https://en.wikipedia.org/wiki/Fluisteraars) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 11,195 |
+| 2026-10-03 15:04:53 | [My Wife, My Horse and Myself](https://en.wikipedia.org/wiki/My_Wife%2C_My_Horse_and_Myself) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,851 |
+| 2026-10-03 15:05:22 | [Subniso rangii](https://en.wikipedia.org/wiki/Subniso_rangii) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,341 |
+| 2026-10-03 15:07:01 | [Cycling at the 2026 Asian Games – Women's omnium](https://en.wikipedia.org/wiki/Cycling_at_the_2026_Asian_Games_%E2%80%93_Women%27s_omnium) | [Alibene567](https://en.wikipedia.org/wiki/User:Alibene567) | 11,287 |
+| 2026-10-03 15:07:49 | [What We Leave Behind (album)](https://en.wikipedia.org/wiki/What_We_Leave_Behind_%28album%29) | [SirZPthundergod9001](https://en.wikipedia.org/wiki/User:SirZPthundergod9001) | 4,182 |
+| 2026-10-03 15:10:50 | [Henty House](https://en.wikipedia.org/wiki/Henty_House) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 10,982 |
+| 2026-10-03 15:11:47 | [Capture of Baghdad (1055)](https://en.wikipedia.org/wiki/Capture_of_Baghdad_%281055%29) | [YounggRealIceTalha](https://en.wikipedia.org/wiki/User:YounggRealIceTalha) | 5,491 |
+| 2026-10-03 15:17:56 | [Sirjana Shrestha](https://en.wikipedia.org/wiki/Sirjana_Shrestha) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 5,649 |
+| 2026-10-03 15:18:03 | [Shoon Mitsunaga](https://en.wikipedia.org/wiki/Shoon_Mitsunaga) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,887 |
