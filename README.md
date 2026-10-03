@@ -13,48 +13,44 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-03 09:18 UTC](data/en/new-articles-2026-10-03T09-18-38Z.csv) | 16 |
-| Japanese | `ja` | [2026-10-03 09:18 UTC](data/ja/new-articles-2026-10-03T09-18-38Z.csv) | 8 |
-| Chinese | `zh` | [2026-10-03 09:18 UTC](data/zh/new-articles-2026-10-03T09-18-38Z.csv) | 5 |
-| French | `fr` | [2026-10-03 09:18 UTC](data/fr/new-articles-2026-10-03T09-18-38Z.csv) | 8 |
-| German | `de` | [2026-10-03 09:18 UTC](data/de/new-articles-2026-10-03T09-18-38Z.csv) | 6 |
-| Russian | `ru` | [2026-10-03 09:18 UTC](data/ru/new-articles-2026-10-03T09-18-38Z.csv) | 7 |
-| Spanish | `es` | [2026-10-03 09:18 UTC](data/es/new-articles-2026-10-03T09-18-38Z.csv) | 3 |
-| Italian | `it` | [2026-10-03 09:18 UTC](data/it/new-articles-2026-10-03T09-18-38Z.csv) | 10 |
-| Portuguese | `pt` | [2026-10-03 09:18 UTC](data/pt/new-articles-2026-10-03T09-18-38Z.csv) | 1 |
-| Polish | `pl` | [2026-10-03 09:18 UTC](data/pl/new-articles-2026-10-03T09-18-38Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-03 09:18 UTC](data/ar/new-articles-2026-10-03T09-18-38Z.csv) | 15 |
-| Persian | `fa` | [2026-10-03 09:18 UTC](data/fa/new-articles-2026-10-03T09-18-38Z.csv) | 65 |
+| English | `en` | [2026-10-03 10:19 UTC](data/en/new-articles-2026-10-03T10-19-49Z.csv) | 12 |
+| Japanese | `ja` | [2026-10-03 10:19 UTC](data/ja/new-articles-2026-10-03T10-19-49Z.csv) | 8 |
+| Chinese | `zh` | [2026-10-03 10:19 UTC](data/zh/new-articles-2026-10-03T10-19-49Z.csv) | 6 |
+| French | `fr` | [2026-10-03 10:19 UTC](data/fr/new-articles-2026-10-03T10-19-49Z.csv) | 7 |
+| German | `de` | [2026-10-03 10:19 UTC](data/de/new-articles-2026-10-03T10-19-49Z.csv) | 15 |
+| Russian | `ru` | [2026-10-03 10:19 UTC](data/ru/new-articles-2026-10-03T10-19-49Z.csv) | 13 |
+| Spanish | `es` | [2026-10-03 10:19 UTC](data/es/new-articles-2026-10-03T10-19-49Z.csv) | 7 |
+| Italian | `it` | [2026-10-03 10:19 UTC](data/it/new-articles-2026-10-03T10-19-49Z.csv) | 19 |
+| Portuguese | `pt` | [2026-10-03 10:19 UTC](data/pt/new-articles-2026-10-03T10-19-49Z.csv) | 2 |
+| Polish | `pl` | [2026-10-03 10:19 UTC](data/pl/new-articles-2026-10-03T10-19-49Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-03 10:19 UTC](data/ar/new-articles-2026-10-03T10-19-49Z.csv) | 6 |
+| Persian | `fa` | [2026-10-03 10:19 UTC](data/fa/new-articles-2026-10-03T10-19-49Z.csv) | 132 |
 | Turkish | `tr` | [2026-10-03 09:18 UTC](data/tr/new-articles-2026-10-03T09-18-38Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-03 09:18 UTC](data/he/new-articles-2026-10-03T09-18-38Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-03 09:18 UTC](data/sv/new-articles-2026-10-03T09-18-38Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-03 09:18 UTC](data/nl/new-articles-2026-10-03T09-18-38Z.csv) | 7 |
-| Korean | `ko` | [2026-10-03 09:18 UTC](data/ko/new-articles-2026-10-03T09-18-38Z.csv) | 16 |
-| Indonesian | `id` | [2026-10-03 09:18 UTC](data/id/new-articles-2026-10-03T09-18-38Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-03 09:18 UTC](data/uk/new-articles-2026-10-03T09-18-38Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-10-03 09:18 UTC](data/vi/new-articles-2026-10-03T09-18-38Z.csv) | 3 |
+| Hebrew | `he` | [2026-10-03 10:19 UTC](data/he/new-articles-2026-10-03T10-19-49Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-03 10:19 UTC](data/sv/new-articles-2026-10-03T10-19-49Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-03 10:19 UTC](data/nl/new-articles-2026-10-03T10-19-49Z.csv) | 6 |
+| Korean | `ko` | [2026-10-03 10:19 UTC](data/ko/new-articles-2026-10-03T10-19-49Z.csv) | 7 |
+| Indonesian | `id` | [2026-10-03 10:19 UTC](data/id/new-articles-2026-10-03T10-19-49Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-10-03 10:19 UTC](data/uk/new-articles-2026-10-03T10-19-49Z.csv) | 7 |
+| Vietnamese | `vi` | [2026-10-03 10:19 UTC](data/vi/new-articles-2026-10-03T10-19-49Z.csv) | 3 |
 
-## English (en) — 2026-10-03 09:18 UTC
+## English (en) — 2026-10-03 10:19 UTC
 
-New articles created between 2026-10-03 08:19 UTC and 2026-10-03 09:18 UTC.
+New articles created between 2026-10-03 09:18 UTC and 2026-10-03 10:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-03T09-18-38Z.csv)
+[Full CSV](data/en/new-articles-2026-10-03T10-19-49Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-03 08:20:25 | [La bola negra (play)](https://en.wikipedia.org/wiki/La_bola_negra_%28play%29) | [NoonIcarus](https://en.wikipedia.org/wiki/User:NoonIcarus) | 2,928 |
-| 2026-10-03 08:26:37 | [TTF Vasan](https://en.wikipedia.org/wiki/TTF_Vasan) | [Amanda.De.Santa](https://en.wikipedia.org/wiki/User:Amanda.De.Santa) | 7,845 |
-| 2026-10-03 08:26:37 | [1900 Bethnal Green Borough Council election](https://en.wikipedia.org/wiki/1900_Bethnal_Green_Borough_Council_election) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 15,537 |
-| 2026-10-03 08:35:44 | [Đồng Văn, Ninh Bình](https://en.wikipedia.org/wiki/%C4%90%E1%BB%93ng_V%C4%83n%2C_Ninh_B%C3%ACnh) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,382 |
-| 2026-10-03 08:39:13 | [Rui Yamaguchi](https://en.wikipedia.org/wiki/Rui_Yamaguchi) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 2,840 |
-| 2026-10-03 08:41:46 | [Kamil Pulec](https://en.wikipedia.org/wiki/Kamil_Pulec) | [Skaterlight2013](https://en.wikipedia.org/wiki/User:Skaterlight2013) | 6,371 |
-| 2026-10-03 08:42:30 | [Coastal erosion at Happisburgh](https://en.wikipedia.org/wiki/Coastal_erosion_at_Happisburgh) | [Purplejumper](https://en.wikipedia.org/wiki/User:Purplejumper) | 3,708 |
-| 2026-10-03 08:43:29 | [Chester Rushing](https://en.wikipedia.org/wiki/Chester_Rushing) | [InkstoneAtlas](https://en.wikipedia.org/wiki/User:InkstoneAtlas) | 9,936 |
-| 2026-10-03 08:44:54 | [The Psychedelic Experience (1965 film)](https://en.wikipedia.org/wiki/The_Psychedelic_Experience_%281965_film%29) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 4,555 |
-| 2026-10-03 08:47:42 | [List of Uzbekistan people](https://en.wikipedia.org/wiki/List_of_Uzbekistan_people) | [Aziza Umarova](https://en.wikipedia.org/wiki/User:Aziza_Umarova) | 10,193 |
-| 2026-10-03 08:48:15 | [The Lost Chick](https://en.wikipedia.org/wiki/The_Lost_Chick) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 3,401 |
-| 2026-10-03 09:00:27 | [Sugababes 2027 Tour](https://en.wikipedia.org/wiki/Sugababes_2027_Tour) | [Meena](https://en.wikipedia.org/wiki/User:Meena) | 7,284 |
-| 2026-10-03 09:04:24 | [Robert Dawson (general)](https://en.wikipedia.org/wiki/Robert_Dawson_%28general%29) | [Zawed](https://en.wikipedia.org/wiki/User:Zawed) | 10,879 |
-| 2026-10-03 09:05:04 | [Piotr Wójcik (disambiguation)](https://en.wikipedia.org/wiki/Piotr_W%C3%B3jcik_%28disambiguation%29) | [Timtrent](https://en.wikipedia.org/wiki/User:Timtrent) | 222 |
-| 2026-10-03 09:10:25 | [Property tax revolt](https://en.wikipedia.org/wiki/Property_tax_revolt) | [Beland](https://en.wikipedia.org/wiki/User:Beland) | 751 |
-| 2026-10-03 09:18:09 | [Mandrake d'Or](https://en.wikipedia.org/wiki/Mandrake_d%27Or) | [Gaeldeodat0](https://en.wikipedia.org/wiki/User:Gaeldeodat0) | 9,459 |
+| 2026-10-03 09:18:51 | [2025–26 ADO Den Haag season](https://en.wikipedia.org/wiki/2025%E2%80%9326_ADO_Den_Haag_season) | [CottonTraders](https://en.wikipedia.org/wiki/User:CottonTraders) | 7,580 |
+| 2026-10-03 09:26:28 | [Nikola Tunići](https://en.wikipedia.org/wiki/Nikola_Tuni%C4%87i) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,595 |
+| 2026-10-03 09:31:04 | [Knife in the Clear Water](https://en.wikipedia.org/wiki/Knife_in_the_Clear_Water) | [Bagabondo](https://en.wikipedia.org/wiki/User:Bagabondo) | 4,502 |
+| 2026-10-03 09:41:32 | [2026–27 in Indonesian football](https://en.wikipedia.org/wiki/2026%E2%80%9327_in_Indonesian_football) | [Catalyszczowski](https://en.wikipedia.org/wiki/User:Catalyszczowski) | 5,587 |
+| 2026-10-03 09:44:51 | [My Father Die (2016 film)](https://en.wikipedia.org/wiki/My_Father_Die_%282016_film%29) | [InkstoneAtlas](https://en.wikipedia.org/wiki/User:InkstoneAtlas) | 7,394 |
+| 2026-10-03 09:49:39 | [Plitvica Selo](https://en.wikipedia.org/wiki/Plitvica_Selo) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 2,114 |
+| 2026-10-03 09:54:59 | [Fc tbilisi 2025](https://en.wikipedia.org/wiki/Fc_tbilisi_2025) | [Zurabalomtadze](https://en.wikipedia.org/wiki/User:Zurabalomtadze) | 1,534 |
+| 2026-10-03 09:56:37 | [Zhang Yuetong](https://en.wikipedia.org/wiki/Zhang_Yuetong) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,831 |
+| 2026-10-03 10:01:48 | [Maho Ono](https://en.wikipedia.org/wiki/Maho_Ono) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 5,965 |
+| 2026-10-03 10:10:00 | [Alfred Johnson (author)](https://en.wikipedia.org/wiki/Alfred_Johnson_%28author%29) | [Moonraker](https://en.wikipedia.org/wiki/User:Moonraker) | 1,465 |
+| 2026-10-03 10:13:02 | [Fading Grandeur](https://en.wikipedia.org/wiki/Fading_Grandeur) | [Asqueladd](https://en.wikipedia.org/wiki/User:Asqueladd) | 4,669 |
+| 2026-10-03 10:14:22 | [Syama Prasad Mookerjee: Life and Times](https://en.wikipedia.org/wiki/Syama_Prasad_Mookerjee%3A_Life_and_Times) | [Sameeksha2019](https://en.wikipedia.org/wiki/User:Sameeksha2019) | 2,742 |
