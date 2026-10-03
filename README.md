@@ -13,66 +13,68 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-03 18:18 UTC](data/en/new-articles-2026-10-03T18-18-34Z.csv) | 34 |
-| Japanese | `ja` | [2026-10-03 18:18 UTC](data/ja/new-articles-2026-10-03T18-18-34Z.csv) | 2 |
+| English | `en` | [2026-10-03 19:18 UTC](data/en/new-articles-2026-10-03T19-18-38Z.csv) | 36 |
+| Japanese | `ja` | [2026-10-03 19:18 UTC](data/ja/new-articles-2026-10-03T19-18-38Z.csv) | 2 |
 | Chinese | `zh` | [2026-10-03 18:18 UTC](data/zh/new-articles-2026-10-03T18-18-34Z.csv) | 7 |
-| French | `fr` | [2026-10-03 18:18 UTC](data/fr/new-articles-2026-10-03T18-18-34Z.csv) | 14 |
-| German | `de` | [2026-10-03 18:18 UTC](data/de/new-articles-2026-10-03T18-18-34Z.csv) | 12 |
-| Russian | `ru` | [2026-10-03 18:18 UTC](data/ru/new-articles-2026-10-03T18-18-34Z.csv) | 17 |
-| Spanish | `es` | [2026-10-03 18:18 UTC](data/es/new-articles-2026-10-03T18-18-34Z.csv) | 11 |
-| Italian | `it` | [2026-10-03 18:18 UTC](data/it/new-articles-2026-10-03T18-18-34Z.csv) | 8 |
-| Portuguese | `pt` | [2026-10-03 18:18 UTC](data/pt/new-articles-2026-10-03T18-18-34Z.csv) | 9 |
-| Polish | `pl` | [2026-10-03 18:18 UTC](data/pl/new-articles-2026-10-03T18-18-34Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-03 18:18 UTC](data/ar/new-articles-2026-10-03T18-18-34Z.csv) | 7 |
-| Persian | `fa` | [2026-10-03 18:18 UTC](data/fa/new-articles-2026-10-03T18-18-34Z.csv) | 40 |
-| Turkish | `tr` | [2026-10-03 18:18 UTC](data/tr/new-articles-2026-10-03T18-18-34Z.csv) | 11 |
-| Hebrew | `he` | [2026-10-03 18:18 UTC](data/he/new-articles-2026-10-03T18-18-34Z.csv) | 5 |
-| Swedish | `sv` | [2026-10-03 18:18 UTC](data/sv/new-articles-2026-10-03T18-18-34Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-03 18:18 UTC](data/nl/new-articles-2026-10-03T18-18-34Z.csv) | 12 |
-| Korean | `ko` | [2026-10-03 18:18 UTC](data/ko/new-articles-2026-10-03T18-18-34Z.csv) | 6 |
-| Indonesian | `id` | [2026-10-03 18:18 UTC](data/id/new-articles-2026-10-03T18-18-34Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-10-03 18:18 UTC](data/uk/new-articles-2026-10-03T18-18-34Z.csv) | 17 |
+| French | `fr` | [2026-10-03 19:18 UTC](data/fr/new-articles-2026-10-03T19-18-38Z.csv) | 6 |
+| German | `de` | [2026-10-03 19:18 UTC](data/de/new-articles-2026-10-03T19-18-38Z.csv) | 9 |
+| Russian | `ru` | [2026-10-03 19:18 UTC](data/ru/new-articles-2026-10-03T19-18-38Z.csv) | 12 |
+| Spanish | `es` | [2026-10-03 19:18 UTC](data/es/new-articles-2026-10-03T19-18-38Z.csv) | 24 |
+| Italian | `it` | [2026-10-03 19:18 UTC](data/it/new-articles-2026-10-03T19-18-38Z.csv) | 7 |
+| Portuguese | `pt` | [2026-10-03 19:18 UTC](data/pt/new-articles-2026-10-03T19-18-38Z.csv) | 6 |
+| Polish | `pl` | [2026-10-03 19:18 UTC](data/pl/new-articles-2026-10-03T19-18-38Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-03 19:18 UTC](data/ar/new-articles-2026-10-03T19-18-38Z.csv) | 9 |
+| Persian | `fa` | [2026-10-03 19:18 UTC](data/fa/new-articles-2026-10-03T19-18-38Z.csv) | 35 |
+| Turkish | `tr` | [2026-10-03 19:18 UTC](data/tr/new-articles-2026-10-03T19-18-38Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-03 19:18 UTC](data/he/new-articles-2026-10-03T19-18-38Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-03 19:18 UTC](data/sv/new-articles-2026-10-03T19-18-38Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-03 19:18 UTC](data/nl/new-articles-2026-10-03T19-18-38Z.csv) | 3 |
+| Korean | `ko` | [2026-10-03 19:18 UTC](data/ko/new-articles-2026-10-03T19-18-38Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-03 19:18 UTC](data/id/new-articles-2026-10-03T19-18-38Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-03 19:18 UTC](data/uk/new-articles-2026-10-03T19-18-38Z.csv) | 10 |
 | Vietnamese | `vi` | [2026-10-03 17:18 UTC](data/vi/new-articles-2026-10-03T17-18-52Z.csv) | 1 |
 
-## English (en) — 2026-10-03 18:18 UTC
+## English (en) — 2026-10-03 19:18 UTC
 
-New articles created between 2026-10-03 17:18 UTC and 2026-10-03 18:18 UTC.
+New articles created between 2026-10-03 18:18 UTC and 2026-10-03 19:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-03T18-18-34Z.csv)
+[Full CSV](data/en/new-articles-2026-10-03T19-18-38Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-03 17:21:19 | [Santissima Annunziata, Turin](https://en.wikipedia.org/wiki/Santissima_Annunziata%2C_Turin) | [Plumbago Capensis](https://en.wikipedia.org/wiki/User:Plumbago_Capensis) | 2,848 |
-| 2026-10-03 17:21:27 | [Lillie's paradox](https://en.wikipedia.org/wiki/Lillie%27s_paradox) | [ARoseThorn](https://en.wikipedia.org/wiki/User:ARoseThorn) | 3,000 |
-| 2026-10-03 17:22:59 | [Luis Silva Silva](https://en.wikipedia.org/wiki/Luis_Silva_Silva) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 1,766 |
-| 2026-10-03 17:24:41 | [Carlos Varas Herrera](https://en.wikipedia.org/wiki/Carlos_Varas_Herrera) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,328 |
-| 2026-10-03 17:26:16 | [Eduardo Castillo Vicuña](https://en.wikipedia.org/wiki/Eduardo_Castillo_Vicu%C3%B1a) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,806 |
-| 2026-10-03 17:26:56 | [Zinaida Kajevic](https://en.wikipedia.org/wiki/Zinaida_Kajevic) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 5,090 |
-| 2026-10-03 17:28:19 | [Eleazar Donoso](https://en.wikipedia.org/wiki/Eleazar_Donoso) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,987 |
-| 2026-10-03 17:31:21 | [Leopoldo Urrutia](https://en.wikipedia.org/wiki/Leopoldo_Urrutia) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,847 |
-| 2026-10-03 17:32:02 | [Bally Bagayoko](https://en.wikipedia.org/wiki/Bally_Bagayoko) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,025 |
-| 2026-10-03 17:33:46 | [Kajevic](https://en.wikipedia.org/wiki/Kajevic) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 312 |
-| 2026-10-03 17:34:15 | [Leoncio Rodríguez](https://en.wikipedia.org/wiki/Leoncio_Rodr%C3%ADguez) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 1,786 |
-| 2026-10-03 17:36:15 | [Wolfgang Emanuel Schmidt](https://en.wikipedia.org/wiki/Wolfgang_Emanuel_Schmidt) | [Gerda Arendt](https://en.wikipedia.org/wiki/User:Gerda_Arendt) | 4,950 |
-| 2026-10-03 17:37:46 | [Gabriel Palma Guzmán](https://en.wikipedia.org/wiki/Gabriel_Palma_Guzm%C3%A1n) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,126 |
-| 2026-10-03 17:39:12 | [Homat Torat Yisrael](https://en.wikipedia.org/wiki/Homat_Torat_Yisrael) | [David O. Johnson](https://en.wikipedia.org/wiki/User:David_O._Johnson) | 4,308 |
-| 2026-10-03 17:40:00 | [Hôtel de Ville, Mons-en-Barœul](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Mons-en-Bar%C5%93ul) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 7,672 |
-| 2026-10-03 17:40:53 | [Vicente Aguirre Vargas](https://en.wikipedia.org/wiki/Vicente_Aguirre_Vargas) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,120 |
-| 2026-10-03 17:43:33 | [Galvarino Gallardo Font](https://en.wikipedia.org/wiki/Galvarino_Gallardo_Font) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,192 |
-| 2026-10-03 17:45:29 | [Luis Vial](https://en.wikipedia.org/wiki/Luis_Vial) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,381 |
-| 2026-10-03 17:47:57 | [José de Bernales Mancheño](https://en.wikipedia.org/wiki/Jos%C3%A9_de_Bernales_Manche%C3%B1o) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,422 |
-| 2026-10-03 17:48:37 | [Ter Apel application centre](https://en.wikipedia.org/wiki/Ter_Apel_application_centre) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 12,889 |
-| 2026-10-03 17:53:22 | [2026 World Judo Championships – Men's 66 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Men%27s_66_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 5,942 |
-| 2026-10-03 17:54:19 | [Mioaetus](https://en.wikipedia.org/wiki/Mioaetus) | [Irritatorchallengeri313](https://en.wikipedia.org/wiki/User:Irritatorchallengeri313) | 1,047 |
-| 2026-10-03 17:55:30 | [Sean Brosnan (filmmaker)](https://en.wikipedia.org/wiki/Sean_Brosnan_%28filmmaker%29) | [InkstoneAtlas](https://en.wikipedia.org/wiki/User:InkstoneAtlas) | 9,377 |
-| 2026-10-03 17:56:03 | [Nobles of Udaipur](https://en.wikipedia.org/wiki/Nobles_of_Udaipur) | [WikiWhizKid1999](https://en.wikipedia.org/wiki/User:WikiWhizKid1999) | 40,049 |
-| 2026-10-03 17:59:40 | [2026 World Judo Championships – Men's 73 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Men%27s_73_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 6,175 |
-| 2026-10-03 18:00:45 | [Broadband Infraco](https://en.wikipedia.org/wiki/Broadband_Infraco) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 19,084 |
-| 2026-10-03 18:04:05 | [Wajahat](https://en.wikipedia.org/wiki/Wajahat) | [Cardifform](https://en.wikipedia.org/wiki/User:Cardifform) | 1,002 |
-| 2026-10-03 18:04:55 | [2026 World Judo Championships – Women's 57 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Women%27s_57_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 5,861 |
-| 2026-10-03 18:07:54 | [2026 World Judo Championships – Women's 63 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Women%27s_63_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 5,956 |
-| 2026-10-03 18:09:57 | [2026 World Judo Championships – Men's 81 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Men%27s_81_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 6,013 |
-| 2026-10-03 18:12:15 | [2026 World Judo Championships – Men's 90 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Men%27s_90_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 5,986 |
-| 2026-10-03 18:13:46 | [Bavaricarbo](https://en.wikipedia.org/wiki/Bavaricarbo) | [Irritatorchallengeri313](https://en.wikipedia.org/wiki/User:Irritatorchallengeri313) | 1,323 |
-| 2026-10-03 18:15:15 | [2026 World Judo Championships – Women's 70 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Women%27s_70_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 5,829 |
-| 2026-10-03 18:17:41 | [2026 World Judo Championships – Women's 78 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Women%27s_78_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 5,783 |
+| 2026-10-03 18:20:12 | [2026 World Judo Championships – Men's 100 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Men%27s_100_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 6,468 |
+| 2026-10-03 18:23:25 | [2026 World Judo Championships – Men's +100 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Men%27s_%2B100_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 5,906 |
+| 2026-10-03 18:25:19 | [Orders, decorations, and medals of Nepal](https://en.wikipedia.org/wiki/Orders%2C_decorations%2C_and_medals_of_Nepal) | [Prayushk](https://en.wikipedia.org/wiki/User:Prayushk) | 53 |
+| 2026-10-03 18:25:37 | [2026 World Judo Championships – Women's +78 kg](https://en.wikipedia.org/wiki/2026_World_Judo_Championships_%E2%80%93_Women%27s_%2B78_kg) | [CLalgo](https://en.wikipedia.org/wiki/User:CLalgo) | 5,384 |
+| 2026-10-03 18:26:14 | [Enrique Foster](https://en.wikipedia.org/wiki/Enrique_Foster) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,594 |
+| 2026-10-03 18:29:02 | [Ramon Huidobro](https://en.wikipedia.org/wiki/Ramon_Huidobro) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,833 |
+| 2026-10-03 18:29:51 | [Christoph Trebesch](https://en.wikipedia.org/wiki/Christoph_Trebesch) | [Arbraxan](https://en.wikipedia.org/wiki/User:Arbraxan) | 17,638 |
+| 2026-10-03 18:31:37 | [Carlos Casanueva Ramos](https://en.wikipedia.org/wiki/Carlos_Casanueva_Ramos) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,432 |
+| 2026-10-03 18:34:24 | [2026–27 LVBP season](https://en.wikipedia.org/wiki/2026%E2%80%9327_LVBP_season) | [Captain Parmenter](https://en.wikipedia.org/wiki/User:Captain_Parmenter) | 6,816 |
+| 2026-10-03 18:34:39 | [Renzo Braz](https://en.wikipedia.org/wiki/Renzo_Braz) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,606 |
+| 2026-10-03 18:37:20 | [Gregorio Argomedo](https://en.wikipedia.org/wiki/Gregorio_Argomedo) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,407 |
+| 2026-10-03 18:38:00 | [Chamaedorea woodsoniana](https://en.wikipedia.org/wiki/Chamaedorea_woodsoniana) | [Gaiacoyote](https://en.wikipedia.org/wiki/User:Gaiacoyote) | 12,656 |
+| 2026-10-03 18:39:10 | [Claude King (disambiguation)](https://en.wikipedia.org/wiki/Claude_King_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 279 |
+| 2026-10-03 18:43:11 | [Máximo Flores](https://en.wikipedia.org/wiki/M%C3%A1ximo_Flores) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,384 |
+| 2026-10-03 18:44:58 | [Andres Sanhueza](https://en.wikipedia.org/wiki/Andres_Sanhueza) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 1,442 |
+| 2026-10-03 18:45:06 | [Aedinia gens](https://en.wikipedia.org/wiki/Aedinia_gens) | [Graearms](https://en.wikipedia.org/wiki/User:Graearms) | 4,831 |
+| 2026-10-03 18:45:30 | [Forminx (band)](https://en.wikipedia.org/wiki/Forminx_%28band%29) | [Cdaskala](https://en.wikipedia.org/wiki/User:Cdaskala) | 3,930 |
+| 2026-10-03 18:46:26 | [Agbara Nla: The Return](https://en.wikipedia.org/wiki/Agbara_Nla%3A_The_Return) | [B.Korlah](https://en.wikipedia.org/wiki/User:B.Korlah) | 1,898 |
+| 2026-10-03 18:46:54 | [Nuer Gatkuoth](https://en.wikipedia.org/wiki/Nuer_Gatkuoth) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 10,088 |
+| 2026-10-03 18:49:45 | [José Miguel Barriga](https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Barriga) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,041 |
+| 2026-10-03 18:49:58 | [Penstemon deamii](https://en.wikipedia.org/wiki/Penstemon_deamii) | [MtBotany](https://en.wikipedia.org/wiki/User:MtBotany) | 7,247 |
+| 2026-10-03 18:51:42 | [2026 Ningbo Open](https://en.wikipedia.org/wiki/2026_Ningbo_Open) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 2,656 |
+| 2026-10-03 18:51:45 | [Mimi Aarden](https://en.wikipedia.org/wiki/Mimi_Aarden) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 5,132 |
+| 2026-10-03 18:53:04 | [Battle of Adabiya](https://en.wikipedia.org/wiki/Battle_of_Adabiya) | [Tomlbatis](https://en.wikipedia.org/wiki/User:Tomlbatis) | 4,340 |
+| 2026-10-03 18:53:13 | [Erick Musso](https://en.wikipedia.org/wiki/Erick_Musso) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,882 |
+| 2026-10-03 18:56:40 | [2021-22 Ethiopian First League](https://en.wikipedia.org/wiki/2021-22_Ethiopian_First_League) | [Arifly kaio7](https://en.wikipedia.org/wiki/User:Arifly_kaio7) | 2,432 |
+| 2026-10-03 18:58:21 | [Susan Clark (disambiguation)](https://en.wikipedia.org/wiki/Susan_Clark_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 372 |
+| 2026-10-03 18:59:14 | [José Bernales Urmeneta](https://en.wikipedia.org/wiki/Jos%C3%A9_Bernales_Urmeneta) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,042 |
+| 2026-10-03 19:00:27 | [Triodontella murina](https://en.wikipedia.org/wiki/Triodontella_murina) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,917 |
+| 2026-10-03 19:02:36 | [José Cousiño](https://en.wikipedia.org/wiki/Jos%C3%A9_Cousi%C3%B1o) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,557 |
+| 2026-10-03 19:03:36 | [2021-22 Ethiopian First league](https://en.wikipedia.org/wiki/2021-22_Ethiopian_First_league) | [Arifly kaio7](https://en.wikipedia.org/wiki/User:Arifly_kaio7) | 2,286 |
+| 2026-10-03 19:05:29 | [2026 Japan Women's Open](https://en.wikipedia.org/wiki/2026_Japan_Women%27s_Open) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 3,091 |
+| 2026-10-03 19:05:57 | [Aias Gastouni F.C.](https://en.wikipedia.org/wiki/Aias_Gastouni_F.C.) | [Seanjackson67](https://en.wikipedia.org/wiki/User:Seanjackson67) | 7,347 |
+| 2026-10-03 19:06:45 | [Belisario Prats Perez](https://en.wikipedia.org/wiki/Belisario_Prats_Perez) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,765 |
+| 2026-10-03 19:14:58 | [Occupational Health and Safety Act (Ontario)](https://en.wikipedia.org/wiki/Occupational_Health_and_Safety_Act_%28Ontario%29) | [Alanli1996](https://en.wikipedia.org/wiki/User:Alanli1996) | 1,409 |
+| 2026-10-03 19:15:47 | [1966 Bavarian state election](https://en.wikipedia.org/wiki/1966_Bavarian_state_election) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 5,729 |
