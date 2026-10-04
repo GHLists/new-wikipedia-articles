@@ -13,48 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-04 11:19 UTC](data/en/new-articles-2026-10-04T11-19-45Z.csv) | 16 |
-| Japanese | `ja` | [2026-10-04 11:19 UTC](data/ja/new-articles-2026-10-04T11-19-45Z.csv) | 12 |
-| Chinese | `zh` | [2026-10-04 11:19 UTC](data/zh/new-articles-2026-10-04T11-19-45Z.csv) | 9 |
-| French | `fr` | [2026-10-04 11:19 UTC](data/fr/new-articles-2026-10-04T11-19-45Z.csv) | 6 |
-| German | `de` | [2026-10-04 11:19 UTC](data/de/new-articles-2026-10-04T11-19-45Z.csv) | 11 |
-| Russian | `ru` | [2026-10-04 11:19 UTC](data/ru/new-articles-2026-10-04T11-19-45Z.csv) | 9 |
-| Spanish | `es` | [2026-10-04 11:19 UTC](data/es/new-articles-2026-10-04T11-19-45Z.csv) | 6 |
-| Italian | `it` | [2026-10-04 11:19 UTC](data/it/new-articles-2026-10-04T11-19-45Z.csv) | 12 |
-| Portuguese | `pt` | [2026-10-04 11:19 UTC](data/pt/new-articles-2026-10-04T11-19-45Z.csv) | 1 |
-| Polish | `pl` | [2026-10-04 11:19 UTC](data/pl/new-articles-2026-10-04T11-19-45Z.csv) | 13 |
-| Arabic | `ar` | [2026-10-04 11:19 UTC](data/ar/new-articles-2026-10-04T11-19-45Z.csv) | 16 |
-| Persian | `fa` | [2026-10-04 11:19 UTC](data/fa/new-articles-2026-10-04T11-19-45Z.csv) | 25 |
-| Turkish | `tr` | [2026-10-04 11:19 UTC](data/tr/new-articles-2026-10-04T11-19-45Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-04 11:19 UTC](data/he/new-articles-2026-10-04T11-19-45Z.csv) | 7 |
-| Swedish | `sv` | [2026-10-04 11:19 UTC](data/sv/new-articles-2026-10-04T11-19-45Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-04 11:19 UTC](data/nl/new-articles-2026-10-04T11-19-45Z.csv) | 3 |
-| Korean | `ko` | [2026-10-04 11:19 UTC](data/ko/new-articles-2026-10-04T11-19-45Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-04 11:19 UTC](data/id/new-articles-2026-10-04T11-19-45Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-04 11:19 UTC](data/uk/new-articles-2026-10-04T11-19-45Z.csv) | 9 |
-| Vietnamese | `vi` | [2026-10-04 11:19 UTC](data/vi/new-articles-2026-10-04T11-19-45Z.csv) | 1 |
+| English | `en` | [2026-10-04 12:18 UTC](data/en/new-articles-2026-10-04T12-18-33Z.csv) | 22 |
+| Japanese | `ja` | [2026-10-04 12:18 UTC](data/ja/new-articles-2026-10-04T12-18-33Z.csv) | 11 |
+| Chinese | `zh` | [2026-10-04 12:18 UTC](data/zh/new-articles-2026-10-04T12-18-33Z.csv) | 17 |
+| French | `fr` | [2026-10-04 12:18 UTC](data/fr/new-articles-2026-10-04T12-18-33Z.csv) | 9 |
+| German | `de` | [2026-10-04 12:18 UTC](data/de/new-articles-2026-10-04T12-18-33Z.csv) | 15 |
+| Russian | `ru` | [2026-10-04 12:18 UTC](data/ru/new-articles-2026-10-04T12-18-33Z.csv) | 10 |
+| Spanish | `es` | [2026-10-04 12:18 UTC](data/es/new-articles-2026-10-04T12-18-33Z.csv) | 8 |
+| Italian | `it` | [2026-10-04 12:18 UTC](data/it/new-articles-2026-10-04T12-18-33Z.csv) | 9 |
+| Portuguese | `pt` | [2026-10-04 12:18 UTC](data/pt/new-articles-2026-10-04T12-18-33Z.csv) | 4 |
+| Polish | `pl` | [2026-10-04 12:18 UTC](data/pl/new-articles-2026-10-04T12-18-33Z.csv) | 11 |
+| Arabic | `ar` | [2026-10-04 12:18 UTC](data/ar/new-articles-2026-10-04T12-18-33Z.csv) | 12 |
+| Persian | `fa` | [2026-10-04 12:18 UTC](data/fa/new-articles-2026-10-04T12-18-33Z.csv) | 18 |
+| Turkish | `tr` | [2026-10-04 12:18 UTC](data/tr/new-articles-2026-10-04T12-18-33Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-04 12:18 UTC](data/he/new-articles-2026-10-04T12-18-33Z.csv) | 7 |
+| Swedish | `sv` | [2026-10-04 12:18 UTC](data/sv/new-articles-2026-10-04T12-18-33Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-04 12:18 UTC](data/nl/new-articles-2026-10-04T12-18-33Z.csv) | 5 |
+| Korean | `ko` | [2026-10-04 12:18 UTC](data/ko/new-articles-2026-10-04T12-18-33Z.csv) | 8 |
+| Indonesian | `id` | [2026-10-04 12:18 UTC](data/id/new-articles-2026-10-04T12-18-33Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-10-04 12:18 UTC](data/uk/new-articles-2026-10-04T12-18-33Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-04 12:18 UTC](data/vi/new-articles-2026-10-04T12-18-33Z.csv) | 1 |
 
-## English (en) — 2026-10-04 11:19 UTC
+## English (en) — 2026-10-04 12:18 UTC
 
-New articles created between 2026-10-04 10:18 UTC and 2026-10-04 11:19 UTC.
+New articles created between 2026-10-04 11:19 UTC and 2026-10-04 12:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-04T11-19-45Z.csv)
+[Full CSV](data/en/new-articles-2026-10-04T12-18-33Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-04 10:23:27 | [Katherine El-Salahi](https://en.wikipedia.org/wiki/Katherine_El-Salahi) | [Joshihaze](https://en.wikipedia.org/wiki/User:Joshihaze) | 3,438 |
-| 2026-10-04 10:23:48 | [Galactic Agency](https://en.wikipedia.org/wiki/Galactic_Agency) | [Wee Willie Mitchell](https://en.wikipedia.org/wiki/User:Wee_Willie_Mitchell) | 934 |
-| 2026-10-04 10:26:42 | [Tanya Mishra](https://en.wikipedia.org/wiki/Tanya_Mishra) | [Official06](https://en.wikipedia.org/wiki/User:Official06) | 8,018 |
-| 2026-10-04 10:28:54 | [Yuri Nakazato](https://en.wikipedia.org/wiki/Yuri_Nakazato) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,435 |
-| 2026-10-04 10:30:05 | [Edwardsiella anguillarum](https://en.wikipedia.org/wiki/Edwardsiella_anguillarum) | [Kelubact](https://en.wikipedia.org/wiki/User:Kelubact) | 1,073 |
-| 2026-10-04 10:30:12 | [Büşra Akay](https://en.wikipedia.org/wiki/B%C3%BC%C5%9Fra_Akay) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 2,785 |
-| 2026-10-04 10:34:57 | [2027 Netball World Cup qualification – Africa](https://en.wikipedia.org/wiki/2027_Netball_World_Cup_qualification_%E2%80%93_Africa) | [Lunar Spectrum96](https://en.wikipedia.org/wiki/User:Lunar_Spectrum96) | 16,575 |
-| 2026-10-04 10:45:46 | [Sakurako Ohashi](https://en.wikipedia.org/wiki/Sakurako_Ohashi) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,957 |
-| 2026-10-04 10:56:11 | [Funa Yanase](https://en.wikipedia.org/wiki/Funa_Yanase) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,109 |
-| 2026-10-04 11:01:55 | [Meulengracht](https://en.wikipedia.org/wiki/Meulengracht) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 194 |
-| 2026-10-04 11:02:18 | [Mercedes López Romero](https://en.wikipedia.org/wiki/Mercedes_L%C3%B3pez_Romero) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,487 |
-| 2026-10-04 11:02:33 | [Heløe](https://en.wikipedia.org/wiki/Hel%C3%B8e) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 130 |
-| 2026-10-04 11:03:16 | [Husebø](https://en.wikipedia.org/wiki/Huseb%C3%B8) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 129 |
-| 2026-10-04 11:06:22 | [Megu Hamada](https://en.wikipedia.org/wiki/Megu_Hamada) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,011 |
-| 2026-10-04 11:12:43 | [Andy Warhol's Index (Book)](https://en.wikipedia.org/wiki/Andy_Warhol%27s_Index_%28Book%29) | [Twixister](https://en.wikipedia.org/wiki/User:Twixister) | 11,100 |
-| 2026-10-04 11:16:24 | [Ai Kuwahara](https://en.wikipedia.org/wiki/Ai_Kuwahara) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,854 |
+| 2026-10-04 11:22:53 | [Fujitsu Arrows X F-10D](https://en.wikipedia.org/wiki/Fujitsu_Arrows_X_F-10D) | [JGBlue1509](https://en.wikipedia.org/wiki/User:JGBlue1509) | 9,193 |
+| 2026-10-04 11:27:43 | [Shah Qasim Haqqani](https://en.wikipedia.org/wiki/Shah_Qasim_Haqqani) | [Extra.Insight](https://en.wikipedia.org/wiki/User:Extra.Insight) | 929 |
+| 2026-10-04 11:33:25 | [Juri Ito](https://en.wikipedia.org/wiki/Juri_Ito) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,861 |
+| 2026-10-04 11:35:17 | [Ivan Erdeli](https://en.wikipedia.org/wiki/Ivan_Erdeli) | [MarcusTraianus](https://en.wikipedia.org/wiki/User:MarcusTraianus) | 20,050 |
+| 2026-10-04 11:42:06 | [Jörg Baumann](https://en.wikipedia.org/wiki/J%C3%B6rg_Baumann) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,647 |
+| 2026-10-04 11:43:19 | [Imron Hayiyusoh](https://en.wikipedia.org/wiki/Imron_Hayiyusoh) | [HiNimo](https://en.wikipedia.org/wiki/User:HiNimo) | 5,363 |
+| 2026-10-04 11:45:24 | [Pryme (surname)](https://en.wikipedia.org/wiki/Pryme_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 235 |
+| 2026-10-04 11:48:04 | [Hal Dale](https://en.wikipedia.org/wiki/Hal_Dale) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 6,453 |
+| 2026-10-04 11:48:16 | [Wrestle Princess VII](https://en.wikipedia.org/wiki/Wrestle_Princess_VII) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 7,747 |
+| 2026-10-04 11:50:03 | [Trochalus maynei](https://en.wikipedia.org/wiki/Trochalus_maynei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,079 |
+| 2026-10-04 11:53:05 | [Trochalus ealanus](https://en.wikipedia.org/wiki/Trochalus_ealanus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,068 |
+| 2026-10-04 11:57:10 | [Pseudotrochalus densicollis](https://en.wikipedia.org/wiki/Pseudotrochalus_densicollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,051 |
+| 2026-10-04 12:00:46 | [Hylaeus distractus](https://en.wikipedia.org/wiki/Hylaeus_distractus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,222 |
+| 2026-10-04 12:01:22 | [Melanocamenta rufocastanea](https://en.wikipedia.org/wiki/Melanocamenta_rufocastanea) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,124 |
+| 2026-10-04 12:02:43 | [A.J. Goodwin, Jr.](https://en.wikipedia.org/wiki/A.J._Goodwin%2C_Jr.) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 1,760 |
+| 2026-10-04 12:09:28 | [Hval](https://en.wikipedia.org/wiki/Hval) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 240 |
+| 2026-10-04 12:11:53 | [Grung](https://en.wikipedia.org/wiki/Grung) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 273 |
+| 2026-10-04 12:11:59 | [Francis M. Wheat](https://en.wikipedia.org/wiki/Francis_M._Wheat) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 1,709 |
+| 2026-10-04 12:12:32 | [Guttormsgaard](https://en.wikipedia.org/wiki/Guttormsgaard) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 151 |
+| 2026-10-04 12:13:42 | [Deila](https://en.wikipedia.org/wiki/Deila) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 190 |
+| 2026-10-04 12:14:29 | [Bleness](https://en.wikipedia.org/wiki/Bleness) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 133 |
+| 2026-10-04 12:16:03 | [Mio Shirakane](https://en.wikipedia.org/wiki/Mio_Shirakane) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,605 |
