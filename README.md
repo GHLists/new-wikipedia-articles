@@ -13,54 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-04 02:19 UTC](data/en/new-articles-2026-10-04T02-19-03Z.csv) | 22 |
-| Japanese | `ja` | [2026-10-04 02:19 UTC](data/ja/new-articles-2026-10-04T02-19-03Z.csv) | 8 |
-| Chinese | `zh` | [2026-10-04 02:19 UTC](data/zh/new-articles-2026-10-04T02-19-03Z.csv) | 2 |
+| English | `en` | [2026-10-04 03:19 UTC](data/en/new-articles-2026-10-04T03-19-02Z.csv) | 19 |
+| Japanese | `ja` | [2026-10-04 03:19 UTC](data/ja/new-articles-2026-10-04T03-19-02Z.csv) | 7 |
+| Chinese | `zh` | [2026-10-04 03:19 UTC](data/zh/new-articles-2026-10-04T03-19-02Z.csv) | 8 |
 | French | `fr` | [2026-10-04 01:19 UTC](data/fr/new-articles-2026-10-04T01-19-43Z.csv) | 2 |
-| German | `de` | [2026-10-04 02:19 UTC](data/de/new-articles-2026-10-04T02-19-03Z.csv) | 3 |
-| Russian | `ru` | [2026-10-04 02:19 UTC](data/ru/new-articles-2026-10-04T02-19-03Z.csv) | 4 |
-| Spanish | `es` | [2026-10-04 02:19 UTC](data/es/new-articles-2026-10-04T02-19-03Z.csv) | 8 |
+| German | `de` | [2026-10-04 03:19 UTC](data/de/new-articles-2026-10-04T03-19-02Z.csv) | 4 |
+| Russian | `ru` | [2026-10-04 03:19 UTC](data/ru/new-articles-2026-10-04T03-19-02Z.csv) | 3 |
+| Spanish | `es` | [2026-10-04 03:19 UTC](data/es/new-articles-2026-10-04T03-19-02Z.csv) | 17 |
 | Italian | `it` | [2026-10-04 01:19 UTC](data/it/new-articles-2026-10-04T01-19-43Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-04 02:19 UTC](data/pt/new-articles-2026-10-04T02-19-03Z.csv) | 4 |
-| Polish | `pl` | [2026-10-04 02:19 UTC](data/pl/new-articles-2026-10-04T02-19-03Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-04 02:19 UTC](data/ar/new-articles-2026-10-04T02-19-03Z.csv) | 2 |
-| Persian | `fa` | [2026-10-04 02:19 UTC](data/fa/new-articles-2026-10-04T02-19-03Z.csv) | 19 |
-| Turkish | `tr` | [2026-10-04 02:19 UTC](data/tr/new-articles-2026-10-04T02-19-03Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-04 01:19 UTC](data/he/new-articles-2026-10-04T01-19-43Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-04 00:19 UTC](data/sv/new-articles-2026-10-04T00-19-57Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-04 02:19 UTC](data/nl/new-articles-2026-10-04T02-19-03Z.csv) | 7 |
-| Korean | `ko` | [2026-10-04 02:19 UTC](data/ko/new-articles-2026-10-04T02-19-03Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-04 02:19 UTC](data/id/new-articles-2026-10-04T02-19-03Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-10-04 01:19 UTC](data/uk/new-articles-2026-10-04T01-19-43Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-04 03:19 UTC](data/pt/new-articles-2026-10-04T03-19-02Z.csv) | 2 |
+| Polish | `pl` | [2026-10-04 03:19 UTC](data/pl/new-articles-2026-10-04T03-19-02Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-04 03:19 UTC](data/ar/new-articles-2026-10-04T03-19-02Z.csv) | 6 |
+| Persian | `fa` | [2026-10-04 03:19 UTC](data/fa/new-articles-2026-10-04T03-19-02Z.csv) | 58 |
+| Turkish | `tr` | [2026-10-04 03:19 UTC](data/tr/new-articles-2026-10-04T03-19-02Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-04 03:19 UTC](data/he/new-articles-2026-10-04T03-19-02Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-04 03:19 UTC](data/sv/new-articles-2026-10-04T03-19-02Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-04 03:19 UTC](data/nl/new-articles-2026-10-04T03-19-02Z.csv) | 5 |
+| Korean | `ko` | [2026-10-04 03:19 UTC](data/ko/new-articles-2026-10-04T03-19-02Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-04 03:19 UTC](data/id/new-articles-2026-10-04T03-19-02Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-04 03:19 UTC](data/uk/new-articles-2026-10-04T03-19-02Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-10-04 00:19 UTC](data/vi/new-articles-2026-10-04T00-19-57Z.csv) | 1 |
 
-## English (en) — 2026-10-04 02:19 UTC
+## English (en) — 2026-10-04 03:19 UTC
 
-New articles created between 2026-10-04 01:19 UTC and 2026-10-04 02:19 UTC.
+New articles created between 2026-10-04 02:19 UTC and 2026-10-04 03:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-04T02-19-03Z.csv)
+[Full CSV](data/en/new-articles-2026-10-04T03-19-02Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-04 01:20:09 | [Portland Latin American Film Festival](https://en.wikipedia.org/wiki/Portland_Latin_American_Film_Festival) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 5,464 |
-| 2026-10-04 01:20:22 | [Carlos Correa y Toro](https://en.wikipedia.org/wiki/Carlos_Correa_y_Toro) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,689 |
-| 2026-10-04 01:23:38 | [Owen Presthus](https://en.wikipedia.org/wiki/Owen_Presthus) | [Ewyourfaceew](https://en.wikipedia.org/wiki/User:Ewyourfaceew) | 8,985 |
-| 2026-10-04 01:25:12 | [2001 FBC Melgar season](https://en.wikipedia.org/wiki/2001_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,079 |
-| 2026-10-04 01:26:51 | [Hilton Fyle](https://en.wikipedia.org/wiki/Hilton_Fyle) | [JM04093](https://en.wikipedia.org/wiki/User:JM04093) | 3,506 |
-| 2026-10-04 01:27:50 | [2026–27 Big West Conference women's basketball season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Big_West_Conference_women%27s_basketball_season) | [Jeppsna](https://en.wikipedia.org/wiki/User:Jeppsna) | 20,656 |
-| 2026-10-04 01:31:29 | [Kwazi Gilmer](https://en.wikipedia.org/wiki/Kwazi_Gilmer) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 79 |
-| 2026-10-04 01:41:32 | [White Porcelain Jar with Grape and Monkey Design in Underglaze Iron](https://en.wikipedia.org/wiki/White_Porcelain_Jar_with_Grape_and_Monkey_Design_in_Underglaze_Iron) | [Mar del Este](https://en.wikipedia.org/wiki/User:Mar_del_Este) | 5,578 |
-| 2026-10-04 01:41:32 | [Song Da-bin](https://en.wikipedia.org/wiki/Song_Da-bin) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,849 |
-| 2026-10-04 01:43:34 | [2002 FBC Melgar season](https://en.wikipedia.org/wiki/2002_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
-| 2026-10-04 01:47:46 | [Hinchman House](https://en.wikipedia.org/wiki/Hinchman_House) | [McNugget240](https://en.wikipedia.org/wiki/User:McNugget240) | 3,629 |
-| 2026-10-04 01:52:08 | [Rash Bihari Ghosh](https://en.wikipedia.org/wiki/Rash_Bihari_Ghosh) | [Rmutombo](https://en.wikipedia.org/wiki/User:Rmutombo) | 54,007 |
-| 2026-10-04 01:52:15 | [Margaret Strekas](https://en.wikipedia.org/wiki/Margaret_Strekas) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 3,585 |
-| 2026-10-04 02:00:12 | [Fort Slava](https://en.wikipedia.org/wiki/Fort_Slava) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 2,523 |
-| 2026-10-04 02:02:00 | [Flying W logo](https://en.wikipedia.org/wiki/Flying_W_logo) | [Zacnascarguy 88 fan](https://en.wikipedia.org/wiki/User:Zacnascarguy_88_fan) | 7,685 |
-| 2026-10-04 02:03:23 | [2005 FBC Melgar season](https://en.wikipedia.org/wiki/2005_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
-| 2026-10-04 02:04:58 | [Abu Jumiza and the History of Dar Eringa](https://en.wikipedia.org/wiki/Abu_Jumiza_and_the_History_of_Dar_Eringa) | [Badaouig](https://en.wikipedia.org/wiki/User:Badaouig) | 3,013 |
-| 2026-10-04 02:12:32 | [Music of Dance Dance Revolution (1998–2012)](https://en.wikipedia.org/wiki/Music_of_Dance_Dance_Revolution_%281998%E2%80%932012%29) | [Phrasia](https://en.wikipedia.org/wiki/User:Phrasia) | 316,573 |
-| 2026-10-04 02:13:46 | [I Can't Make Up My Mind](https://en.wikipedia.org/wiki/I_Can%27t_Make_Up_My_Mind) | [VirreFriberg](https://en.wikipedia.org/wiki/User:VirreFriberg) | 18,229 |
-| 2026-10-04 02:15:50 | [Atlanta Department of Watershed Management](https://en.wikipedia.org/wiki/Atlanta_Department_of_Watershed_Management) | [Duncan pinderhughes](https://en.wikipedia.org/wiki/User:Duncan_pinderhughes) | 76,579 |
-| 2026-10-04 02:16:32 | [Net Zero Economy Authority](https://en.wikipedia.org/wiki/Net_Zero_Economy_Authority) | [Laterthanyouthink](https://en.wikipedia.org/wiki/User:Laterthanyouthink) | 9,853 |
-| 2026-10-04 02:17:24 | [Diane Sare](https://en.wikipedia.org/wiki/Diane_Sare) | [AnitaStewart](https://en.wikipedia.org/wiki/User:AnitaStewart) | 4,746 |
+| 2026-10-04 02:23:32 | [Andrea Stewart (author)](https://en.wikipedia.org/wiki/Andrea_Stewart_%28author%29) | [Michelangelo1992](https://en.wikipedia.org/wiki/User:Michelangelo1992) | 6,940 |
+| 2026-10-04 02:24:43 | [Judy Cho](https://en.wikipedia.org/wiki/Judy_Cho) | [Coqui002](https://en.wikipedia.org/wiki/User:Coqui002) | 2,984 |
+| 2026-10-04 02:29:10 | [Riku Okada](https://en.wikipedia.org/wiki/Riku_Okada) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,211 |
+| 2026-10-04 02:29:43 | [2006 FBC Melgar season](https://en.wikipedia.org/wiki/2006_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
+| 2026-10-04 02:36:15 | [Baar-Qulay](https://en.wikipedia.org/wiki/Baar-Qulay) | [Turwaq](https://en.wikipedia.org/wiki/User:Turwaq) | 1,270 |
+| 2026-10-04 02:36:33 | [Marina Escudero](https://en.wikipedia.org/wiki/Marina_Escudero) | [Snailchildren](https://en.wikipedia.org/wiki/User:Snailchildren) | 16,613 |
+| 2026-10-04 02:40:30 | [2027 UCI America Tour](https://en.wikipedia.org/wiki/2027_UCI_America_Tour) | [Peoya](https://en.wikipedia.org/wiki/User:Peoya) | 11,643 |
+| 2026-10-04 02:41:00 | [Castle Cove (Victoria)](https://en.wikipedia.org/wiki/Castle_Cove_%28Victoria%29) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 5,588 |
+| 2026-10-04 02:45:27 | [Hylaeus accipitris](https://en.wikipedia.org/wiki/Hylaeus_accipitris) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,246 |
+| 2026-10-04 02:47:06 | [Niklas Henning (American football)](https://en.wikipedia.org/wiki/Niklas_Henning_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,063 |
+| 2026-10-04 02:47:11 | [Celadon Melon-shaped Bottle](https://en.wikipedia.org/wiki/Celadon_Melon-shaped_Bottle) | [Mar del Este](https://en.wikipedia.org/wiki/User:Mar_del_Este) | 6,389 |
+| 2026-10-04 02:49:26 | [2007 FBC Melgar season](https://en.wikipedia.org/wiki/2007_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
+| 2026-10-04 02:50:31 | [Vladimir Đorđević (politician)](https://en.wikipedia.org/wiki/Vladimir_%C4%90or%C4%91evi%C4%87_%28politician%29) | [CJCurrie](https://en.wikipedia.org/wiki/User:CJCurrie) | 10,065 |
+| 2026-10-04 02:50:59 | [Luuq Jeelow](https://en.wikipedia.org/wiki/Luuq_Jeelow) | [Turwaq](https://en.wikipedia.org/wiki/User:Turwaq) | 1,982 |
+| 2026-10-04 03:01:36 | [Mizuki Sugimura](https://en.wikipedia.org/wiki/Mizuki_Sugimura) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,555 |
+| 2026-10-04 03:07:32 | [1614 in Japan](https://en.wikipedia.org/wiki/1614_in_Japan) | [Grand muncher](https://en.wikipedia.org/wiki/User:Grand_muncher) | 2,875 |
+| 2026-10-04 03:10:44 | [Rupayanamaha (2026 film)](https://en.wikipedia.org/wiki/Rupayanamaha_%282026_film%29) | [Creativefrog](https://en.wikipedia.org/wiki/User:Creativefrog) | 6,862 |
+| 2026-10-04 03:15:53 | [2027 FBC Melgar season](https://en.wikipedia.org/wiki/2027_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
+| 2026-10-04 03:18:30 | [Curitiba Open](https://en.wikipedia.org/wiki/Curitiba_Open) | [Rafter913](https://en.wikipedia.org/wiki/User:Rafter913) | 2,542 |
