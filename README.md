@@ -13,43 +13,42 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-04 06:18 UTC](data/en/new-articles-2026-10-04T06-18-53Z.csv) | 11 |
-| Japanese | `ja` | [2026-10-04 06:18 UTC](data/ja/new-articles-2026-10-04T06-18-53Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-04 06:18 UTC](data/zh/new-articles-2026-10-04T06-18-53Z.csv) | 9 |
-| French | `fr` | [2026-10-04 06:18 UTC](data/fr/new-articles-2026-10-04T06-18-53Z.csv) | 3 |
-| German | `de` | [2026-10-04 06:18 UTC](data/de/new-articles-2026-10-04T06-18-53Z.csv) | 6 |
-| Russian | `ru` | [2026-10-04 06:18 UTC](data/ru/new-articles-2026-10-04T06-18-53Z.csv) | 9 |
-| Spanish | `es` | [2026-10-04 06:18 UTC](data/es/new-articles-2026-10-04T06-18-53Z.csv) | 9 |
-| Italian | `it` | [2026-10-04 06:18 UTC](data/it/new-articles-2026-10-04T06-18-53Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-04 06:18 UTC](data/pt/new-articles-2026-10-04T06-18-53Z.csv) | 7 |
-| Polish | `pl` | [2026-10-04 06:18 UTC](data/pl/new-articles-2026-10-04T06-18-53Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-04 06:18 UTC](data/ar/new-articles-2026-10-04T06-18-53Z.csv) | 6 |
-| Persian | `fa` | [2026-10-04 06:18 UTC](data/fa/new-articles-2026-10-04T06-18-53Z.csv) | 17 |
-| Turkish | `tr` | [2026-10-04 05:19 UTC](data/tr/new-articles-2026-10-04T05-19-43Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-04 06:18 UTC](data/he/new-articles-2026-10-04T06-18-53Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-04 06:18 UTC](data/sv/new-articles-2026-10-04T06-18-53Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-04 06:18 UTC](data/nl/new-articles-2026-10-04T06-18-53Z.csv) | 2 |
-| Korean | `ko` | [2026-10-04 06:18 UTC](data/ko/new-articles-2026-10-04T06-18-53Z.csv) | 8 |
-| Indonesian | `id` | [2026-10-04 06:18 UTC](data/id/new-articles-2026-10-04T06-18-53Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-10-04 06:18 UTC](data/uk/new-articles-2026-10-04T06-18-53Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-10-04 06:18 UTC](data/vi/new-articles-2026-10-04T06-18-53Z.csv) | 2 |
+| English | `en` | [2026-10-04 07:18 UTC](data/en/new-articles-2026-10-04T07-18-43Z.csv) | 10 |
+| Japanese | `ja` | [2026-10-04 07:18 UTC](data/ja/new-articles-2026-10-04T07-18-43Z.csv) | 17 |
+| Chinese | `zh` | [2026-10-04 07:18 UTC](data/zh/new-articles-2026-10-04T07-18-43Z.csv) | 10 |
+| French | `fr` | [2026-10-04 07:18 UTC](data/fr/new-articles-2026-10-04T07-18-43Z.csv) | 7 |
+| German | `de` | [2026-10-04 07:18 UTC](data/de/new-articles-2026-10-04T07-18-43Z.csv) | 7 |
+| Russian | `ru` | [2026-10-04 07:18 UTC](data/ru/new-articles-2026-10-04T07-18-43Z.csv) | 5 |
+| Spanish | `es` | [2026-10-04 07:18 UTC](data/es/new-articles-2026-10-04T07-18-43Z.csv) | 8 |
+| Italian | `it` | [2026-10-04 07:18 UTC](data/it/new-articles-2026-10-04T07-18-43Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-04 07:18 UTC](data/pt/new-articles-2026-10-04T07-18-43Z.csv) | 3 |
+| Polish | `pl` | [2026-10-04 07:18 UTC](data/pl/new-articles-2026-10-04T07-18-43Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-04 07:18 UTC](data/ar/new-articles-2026-10-04T07-18-43Z.csv) | 3 |
+| Persian | `fa` | [2026-10-04 07:18 UTC](data/fa/new-articles-2026-10-04T07-18-43Z.csv) | 9 |
+| Turkish | `tr` | [2026-10-04 07:18 UTC](data/tr/new-articles-2026-10-04T07-18-43Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-04 07:18 UTC](data/he/new-articles-2026-10-04T07-18-43Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-04 07:18 UTC](data/sv/new-articles-2026-10-04T07-18-43Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-04 07:18 UTC](data/nl/new-articles-2026-10-04T07-18-43Z.csv) | 3 |
+| Korean | `ko` | [2026-10-04 07:18 UTC](data/ko/new-articles-2026-10-04T07-18-43Z.csv) | 9 |
+| Indonesian | `id` | [2026-10-04 07:18 UTC](data/id/new-articles-2026-10-04T07-18-43Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-10-04 07:18 UTC](data/uk/new-articles-2026-10-04T07-18-43Z.csv) | 11 |
+| Vietnamese | `vi` | [2026-10-04 07:18 UTC](data/vi/new-articles-2026-10-04T07-18-43Z.csv) | 2 |
 
-## English (en) — 2026-10-04 06:18 UTC
+## English (en) — 2026-10-04 07:18 UTC
 
-New articles created between 2026-10-04 05:19 UTC and 2026-10-04 06:18 UTC.
+New articles created between 2026-10-04 06:18 UTC and 2026-10-04 07:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-04T06-18-53Z.csv)
+[Full CSV](data/en/new-articles-2026-10-04T07-18-43Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-04 05:20:25 | [Agbonifo](https://en.wikipedia.org/wiki/Agbonifo) | [Dieter Lloyd Wexler](https://en.wikipedia.org/wiki/User:Dieter_Lloyd_Wexler) | 243 |
-| 2026-10-04 05:22:27 | [Naaka Bandi](https://en.wikipedia.org/wiki/Naaka_Bandi) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,522 |
-| 2026-10-04 05:33:46 | [Raja Hari Prasad Mall](https://en.wikipedia.org/wiki/Raja_Hari_Prasad_Mall) | [Avinash232020](https://en.wikipedia.org/wiki/User:Avinash232020) | 6,840 |
-| 2026-10-04 05:34:57 | [India men's national field hockey team results](https://en.wikipedia.org/wiki/India_men%27s_national_field_hockey_team_results) | [Xandercorvus389](https://en.wikipedia.org/wiki/User:Xandercorvus389) | 2,380 |
-| 2026-10-04 05:37:28 | [Fabrice Arfi](https://en.wikipedia.org/wiki/Fabrice_Arfi) | [Ansony89](https://en.wikipedia.org/wiki/User:Ansony89) | 13,926 |
-| 2026-10-04 05:38:39 | [Pécsbányai Bányász](https://en.wikipedia.org/wiki/P%C3%A9csb%C3%A1nyai_B%C3%A1ny%C3%A1sz) | [RuthStevens](https://en.wikipedia.org/wiki/User:RuthStevens) | 2,921 |
-| 2026-10-04 05:45:52 | [1900 London local elections](https://en.wikipedia.org/wiki/1900_London_local_elections) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 7,079 |
-| 2026-10-04 05:54:03 | [United States–Russia oil deal](https://en.wikipedia.org/wiki/United_States%E2%80%93Russia_oil_deal) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 2,703 |
-| 2026-10-04 06:02:29 | [Chawdron](https://en.wikipedia.org/wiki/Chawdron) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 2,976 |
-| 2026-10-04 06:06:21 | [Bergstrom-Walker Theorem](https://en.wikipedia.org/wiki/Bergstrom-Walker_Theorem) | [SirfHaru](https://en.wikipedia.org/wiki/User:SirfHaru) | 939 |
-| 2026-10-04 06:17:37 | [Megalabops](https://en.wikipedia.org/wiki/Megalabops) | [Nephila121](https://en.wikipedia.org/wiki/User:Nephila121) | 1,836 |
+| 2026-10-04 06:23:09 | [India men's national field hockey team results (2025–2028)](https://en.wikipedia.org/wiki/India_men%27s_national_field_hockey_team_results_%282025%E2%80%932028%29) | [Xandercorvus389](https://en.wikipedia.org/wiki/User:Xandercorvus389) | 930 |
+| 2026-10-04 06:23:57 | [Carlos Gaytán](https://en.wikipedia.org/wiki/Carlos_Gayt%C3%A1n) | [Yaoshiiscool](https://en.wikipedia.org/wiki/User:Yaoshiiscool) | 1,458 |
+| 2026-10-04 06:27:31 | [Amos Food](https://en.wikipedia.org/wiki/Amos_Food) | [OrdinariusFingius](https://en.wikipedia.org/wiki/User:OrdinariusFingius) | 2,960 |
+| 2026-10-04 06:31:15 | [Colonial Drift](https://en.wikipedia.org/wiki/Colonial_Drift) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 5,112 |
+| 2026-10-04 06:32:58 | [Terézvárosi SK](https://en.wikipedia.org/wiki/Ter%C3%A9zv%C3%A1rosi_SK) | [RuthStevens](https://en.wikipedia.org/wiki/User:RuthStevens) | 4,711 |
+| 2026-10-04 06:37:10 | [Mughal war of succession (1712–1720)](https://en.wikipedia.org/wiki/Mughal_war_of_succession_%281712%E2%80%931720%29) | [ZDRX](https://en.wikipedia.org/wiki/User:ZDRX) | 1,602 |
+| 2026-10-04 06:48:33 | [Bruce Manor](https://en.wikipedia.org/wiki/Bruce_Manor) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 12,485 |
+| 2026-10-04 06:49:08 | [Popple (surname)](https://en.wikipedia.org/wiki/Popple_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 549 |
+| 2026-10-04 06:53:26 | [The Fight for Privacy: Protecting Dignity, Identity, and Love in the Digital Age](https://en.wikipedia.org/wiki/The_Fight_for_Privacy%3A_Protecting_Dignity%2C_Identity%2C_and_Love_in_the_Digital_Age) | [KernelCurious](https://en.wikipedia.org/wiki/User:KernelCurious) | 1,987 |
+| 2026-10-04 06:53:59 | [Mzisguli](https://en.wikipedia.org/wiki/Mzisguli) | [Screwhead95](https://en.wikipedia.org/wiki/User:Screwhead95) | 9,358 |
