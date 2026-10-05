@@ -13,64 +13,55 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-05 06:18 UTC](data/en/new-articles-2026-10-05T06-18-33Z.csv) | 32 |
-| Japanese | `ja` | [2026-10-05 06:18 UTC](data/ja/new-articles-2026-10-05T06-18-33Z.csv) | 9 |
-| Chinese | `zh` | [2026-10-05 06:18 UTC](data/zh/new-articles-2026-10-05T06-18-33Z.csv) | 4 |
-| French | `fr` | [2026-10-05 06:18 UTC](data/fr/new-articles-2026-10-05T06-18-33Z.csv) | 2 |
-| German | `de` | [2026-10-05 06:18 UTC](data/de/new-articles-2026-10-05T06-18-33Z.csv) | 3 |
-| Russian | `ru` | [2026-10-05 06:18 UTC](data/ru/new-articles-2026-10-05T06-18-33Z.csv) | 8 |
-| Spanish | `es` | [2026-10-05 06:18 UTC](data/es/new-articles-2026-10-05T06-18-33Z.csv) | 5 |
-| Italian | `it` | [2026-10-05 06:18 UTC](data/it/new-articles-2026-10-05T06-18-33Z.csv) | 3 |
-| Portuguese | `pt` | [2026-10-05 06:18 UTC](data/pt/new-articles-2026-10-05T06-18-33Z.csv) | 8 |
-| Polish | `pl` | [2026-10-05 06:18 UTC](data/pl/new-articles-2026-10-05T06-18-33Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-05 06:18 UTC](data/ar/new-articles-2026-10-05T06-18-33Z.csv) | 8 |
-| Persian | `fa` | [2026-10-05 06:18 UTC](data/fa/new-articles-2026-10-05T06-18-33Z.csv) | 4 |
-| Turkish | `tr` | [2026-10-05 02:20 UTC](data/tr/new-articles-2026-10-05T02-20-34Z.csv) | 1 |
+| English | `en` | [2026-10-05 07:19 UTC](data/en/new-articles-2026-10-05T07-19-26Z.csv) | 23 |
+| Japanese | `ja` | [2026-10-05 07:19 UTC](data/ja/new-articles-2026-10-05T07-19-26Z.csv) | 2 |
+| Chinese | `zh` | [2026-10-05 07:19 UTC](data/zh/new-articles-2026-10-05T07-19-26Z.csv) | 5 |
+| French | `fr` | [2026-10-05 07:19 UTC](data/fr/new-articles-2026-10-05T07-19-26Z.csv) | 6 |
+| German | `de` | [2026-10-05 07:19 UTC](data/de/new-articles-2026-10-05T07-19-26Z.csv) | 8 |
+| Russian | `ru` | [2026-10-05 07:19 UTC](data/ru/new-articles-2026-10-05T07-19-26Z.csv) | 8 |
+| Spanish | `es` | [2026-10-05 07:19 UTC](data/es/new-articles-2026-10-05T07-19-26Z.csv) | 7 |
+| Italian | `it` | [2026-10-05 07:19 UTC](data/it/new-articles-2026-10-05T07-19-26Z.csv) | 7 |
+| Portuguese | `pt` | [2026-10-05 07:19 UTC](data/pt/new-articles-2026-10-05T07-19-26Z.csv) | 5 |
+| Polish | `pl` | [2026-10-05 07:19 UTC](data/pl/new-articles-2026-10-05T07-19-26Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-05 07:19 UTC](data/ar/new-articles-2026-10-05T07-19-26Z.csv) | 3 |
+| Persian | `fa` | [2026-10-05 07:19 UTC](data/fa/new-articles-2026-10-05T07-19-26Z.csv) | 13 |
+| Turkish | `tr` | [2026-10-05 07:19 UTC](data/tr/new-articles-2026-10-05T07-19-26Z.csv) | 4 |
 | Hebrew | `he` | [2026-10-05 06:18 UTC](data/he/new-articles-2026-10-05T06-18-33Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-05 06:18 UTC](data/sv/new-articles-2026-10-05T06-18-33Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-05 06:18 UTC](data/nl/new-articles-2026-10-05T06-18-33Z.csv) | 3 |
-| Korean | `ko` | [2026-10-05 06:18 UTC](data/ko/new-articles-2026-10-05T06-18-33Z.csv) | 5 |
-| Indonesian | `id` | [2026-10-05 06:18 UTC](data/id/new-articles-2026-10-05T06-18-33Z.csv) | 14 |
-| Ukrainian | `uk` | [2026-10-05 06:18 UTC](data/uk/new-articles-2026-10-05T06-18-33Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-10-05 06:18 UTC](data/vi/new-articles-2026-10-05T06-18-33Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-05 07:19 UTC](data/sv/new-articles-2026-10-05T07-19-26Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-05 07:19 UTC](data/nl/new-articles-2026-10-05T07-19-26Z.csv) | 2 |
+| Korean | `ko` | [2026-10-05 07:19 UTC](data/ko/new-articles-2026-10-05T07-19-26Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-05 07:19 UTC](data/id/new-articles-2026-10-05T07-19-26Z.csv) | 17 |
+| Ukrainian | `uk` | [2026-10-05 07:19 UTC](data/uk/new-articles-2026-10-05T07-19-26Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-10-05 07:19 UTC](data/vi/new-articles-2026-10-05T07-19-26Z.csv) | 6 |
 
-## English (en) — 2026-10-05 06:18 UTC
+## English (en) — 2026-10-05 07:19 UTC
 
-New articles created between 2026-10-05 05:20 UTC and 2026-10-05 06:18 UTC.
+New articles created between 2026-10-05 06:18 UTC and 2026-10-05 07:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-05T06-18-33Z.csv)
+[Full CSV](data/en/new-articles-2026-10-05T07-19-26Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-05 05:22:52 | [Hylaeus sublateralis](https://en.wikipedia.org/wiki/Hylaeus_sublateralis) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,252 |
-| 2026-10-05 05:26:16 | [The Great Canadian Baking Show season 10](https://en.wikipedia.org/wiki/The_Great_Canadian_Baking_Show_season_10) | [EikaKou](https://en.wikipedia.org/wiki/User:EikaKou) | 6,993 |
-| 2026-10-05 05:34:31 | [AHR-1709](https://en.wikipedia.org/wiki/AHR-1709) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 7,696 |
-| 2026-10-05 05:34:35 | [Arbery (surname)](https://en.wikipedia.org/wiki/Arbery_%28surname%29) | [Mathguy2718](https://en.wikipedia.org/wiki/User:Mathguy2718) | 267 |
-| 2026-10-05 05:35:46 | [Berkelium trihydride](https://en.wikipedia.org/wiki/Berkelium_trihydride) | [Lamro](https://en.wikipedia.org/wiki/User:Lamro) | 3,353 |
-| 2026-10-05 05:37:11 | [Zinc transporter ZIP5](https://en.wikipedia.org/wiki/Zinc_transporter_ZIP5) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 526 |
-| 2026-10-05 05:38:28 | [Zinc transporter ZIP14](https://en.wikipedia.org/wiki/Zinc_transporter_ZIP14) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 529 |
-| 2026-10-05 05:43:40 | [Phu Pha Lek National Park](https://en.wikipedia.org/wiki/Phu_Pha_Lek_National_Park) | [Declangi](https://en.wikipedia.org/wiki/User:Declangi) | 3,472 |
-| 2026-10-05 05:44:47 | [Lois Nadean Smith](https://en.wikipedia.org/wiki/Lois_Nadean_Smith) | [Bairdsparrow](https://en.wikipedia.org/wiki/User:Bairdsparrow) | 4,256 |
-| 2026-10-05 05:45:38 | [Robert Messiter](https://en.wikipedia.org/wiki/Robert_Messiter) | [Oscarx22](https://en.wikipedia.org/wiki/User:Oscarx22) | 92 |
-| 2026-10-05 05:52:31 | [Canoeing at the 2026 Asian Games – Men's K-4 500 metres](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_K-4_500_metres) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 7,334 |
-| 2026-10-05 05:53:27 | [Canoeing at the 2026 Asian Games – Women's K-1 500 metres](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_K-1_500_metres) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 3,042 |
-| 2026-10-05 05:54:11 | [Canoeing at the 2026 Asian Games – Women's K-4 500 metres](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_K-4_500_metres) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 3,861 |
-| 2026-10-05 05:54:41 | [Canoeing at the 2026 Asian Games – Mixed C-2 500 metres](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Mixed_C-2_500_metres) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 3,311 |
-| 2026-10-05 05:55:16 | [Canoeing at the 2026 Asian Games – Mixed K-2 500 metres](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Mixed_K-2_500_metres) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 5,824 |
-| 2026-10-05 05:57:17 | [Creature in the Well](https://en.wikipedia.org/wiki/Creature_in_the_Well) | [Haleth](https://en.wikipedia.org/wiki/User:Haleth) | 17,644 |
-| 2026-10-05 05:58:09 | [Tootsen](https://en.wikipedia.org/wiki/Tootsen) | [Mathguy2718](https://en.wikipedia.org/wiki/User:Mathguy2718) | 414 |
-| 2026-10-05 06:02:23 | [SFXN5](https://en.wikipedia.org/wiki/SFXN5) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 636 |
-| 2026-10-05 06:02:30 | [SFXN4](https://en.wikipedia.org/wiki/SFXN4) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 689 |
-| 2026-10-05 06:02:34 | [SFXN3](https://en.wikipedia.org/wiki/SFXN3) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 680 |
-| 2026-10-05 06:02:38 | [SFXN2](https://en.wikipedia.org/wiki/SFXN2) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 646 |
-| 2026-10-05 06:02:49 | [War of Positions](https://en.wikipedia.org/wiki/War_of_Positions) | [Labratscientist](https://en.wikipedia.org/wiki/User:Labratscientist) | 5,112 |
-| 2026-10-05 06:02:52 | [1964 Michigan Senate election](https://en.wikipedia.org/wiki/1964_Michigan_Senate_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 32,341 |
-| 2026-10-05 06:07:49 | [List of contributing properties in the Spring Street Financial District](https://en.wikipedia.org/wiki/List_of_contributing_properties_in_the_Spring_Street_Financial_District) | [Gb321](https://en.wikipedia.org/wiki/User:Gb321) | 8,470 |
-| 2026-10-05 06:09:31 | [LETM2](https://en.wikipedia.org/wiki/LETM2) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 950 |
-| 2026-10-05 06:11:06 | [Claire Burbridge](https://en.wikipedia.org/wiki/Claire_Burbridge) | [Northwest observer](https://en.wikipedia.org/wiki/User:Northwest_observer) | 7,197 |
-| 2026-10-05 06:12:24 | [List of screensavers](https://en.wikipedia.org/wiki/List_of_screensavers) | [DigitalIceAge](https://en.wikipedia.org/wiki/User:DigitalIceAge) | 11,504 |
-| 2026-10-05 06:12:53 | [Turkish Marine Research Foundation](https://en.wikipedia.org/wiki/Turkish_Marine_Research_Foundation) | [Chidgk1](https://en.wikipedia.org/wiki/User:Chidgk1) | 1,427 |
-| 2026-10-05 06:16:02 | [Fernando José de Portugal e Castro](https://en.wikipedia.org/wiki/Fernando_Jos%C3%A9_de_Portugal_e_Castro) | [Filiep](https://en.wikipedia.org/wiki/User:Filiep) | 4,462 |
-| 2026-10-05 06:16:32 | [Aitkurman Omarbekov](https://en.wikipedia.org/wiki/Aitkurman_Omarbekov) | [Sleepycatinacap](https://en.wikipedia.org/wiki/User:Sleepycatinacap) | 3,551 |
-| 2026-10-05 06:17:03 | [Lantana trifolia](https://en.wikipedia.org/wiki/Lantana_trifolia) | [PyotrRossetti](https://en.wikipedia.org/wiki/User:PyotrRossetti) | 1,651 |
-| 2026-10-05 06:17:57 | [MPC1L](https://en.wikipedia.org/wiki/MPC1L) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 731 |
+| 2026-10-05 06:21:18 | [İstanbul Gençlik SK](https://en.wikipedia.org/wiki/%C4%B0stanbul_Gen%C3%A7lik_SK) | [Oltnilhn](https://en.wikipedia.org/wiki/User:Oltnilhn) | 4,496 |
+| 2026-10-05 06:31:13 | [Margaret Pearson (cooking instructor)](https://en.wikipedia.org/wiki/Margaret_Pearson_%28cooking_instructor%29) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 1,482 |
+| 2026-10-05 06:33:37 | [Trioscope Studios](https://en.wikipedia.org/wiki/Trioscope_Studios) | [Boomfour](https://en.wikipedia.org/wiki/User:Boomfour) | 1,359 |
+| 2026-10-05 06:38:09 | [Mashaal (1950 film)](https://en.wikipedia.org/wiki/Mashaal_%281950_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,116 |
+| 2026-10-05 06:38:36 | [Ram Kumar Sharma (sepak takraw)](https://en.wikipedia.org/wiki/Ram_Kumar_Sharma_%28sepak_takraw%29) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 4,681 |
+| 2026-10-05 06:44:04 | [Sujata Tamang](https://en.wikipedia.org/wiki/Sujata_Tamang) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 4,573 |
+| 2026-10-05 06:47:57 | [Hemicamenta theryi](https://en.wikipedia.org/wiki/Hemicamenta_theryi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,820 |
+| 2026-10-05 06:50:26 | [Off That!](https://en.wikipedia.org/wiki/Off_That%21) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 3,473 |
+| 2026-10-05 06:50:38 | [Canoeing at the 2026 Asian Games – Men's slalom C-1](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_slalom_C-1) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 6,860 |
+| 2026-10-05 06:53:10 | [Hoplebaea congoana](https://en.wikipedia.org/wiki/Hoplebaea_congoana) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,155 |
+| 2026-10-05 06:55:28 | [Canoeing at the 2026 Asian Games – Women's slalom C-1](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_slalom_C-1) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 6,374 |
+| 2026-10-05 06:55:54 | [Canoeing at the 2026 Asian Games – Men's slalom K-1](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_slalom_K-1) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 8,794 |
+| 2026-10-05 06:56:32 | [Canoeing at the 2026 Asian Games – Women's slalom K-1](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_slalom_K-1) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 7,029 |
+| 2026-10-05 06:57:43 | [Photyna](https://en.wikipedia.org/wiki/Photyna) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,410 |
+| 2026-10-05 07:02:08 | [Photyna rugicollis](https://en.wikipedia.org/wiki/Photyna_rugicollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,878 |
+| 2026-10-05 07:02:44 | [Alvinho Lira](https://en.wikipedia.org/wiki/Alvinho_Lira) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,142 |
+| 2026-10-05 07:03:50 | [Netherlands–Zambia relations](https://en.wikipedia.org/wiki/Netherlands%E2%80%93Zambia_relations) | [Spotana Falls](https://en.wikipedia.org/wiki/User:Spotana_Falls) | 4,866 |
+| 2026-10-05 07:05:14 | [Let's Do It All Again](https://en.wikipedia.org/wiki/Let%27s_Do_It_All_Again) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 4,875 |
+| 2026-10-05 07:09:18 | [Canoeing at the 2026 Asian Games – Men's slalom kayak cross](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Men%27s_slalom_kayak_cross) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 12,877 |
+| 2026-10-05 07:09:31 | [Tinjure-Milke-Jaljale area.](https://en.wikipedia.org/wiki/Tinjure-Milke-Jaljale_area.) | [Agus Damanik](https://en.wikipedia.org/wiki/User:Agus_Damanik) | 1,758 |
+| 2026-10-05 07:10:11 | [Canoeing at the 2026 Asian Games – Women's slalom kayak cross](https://en.wikipedia.org/wiki/Canoeing_at_the_2026_Asian_Games_%E2%80%93_Women%27s_slalom_kayak_cross) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 10,979 |
+| 2026-10-05 07:12:39 | [Nels Minne](https://en.wikipedia.org/wiki/Nels_Minne) | [Minnastronomer](https://en.wikipedia.org/wiki/User:Minnastronomer) | 4,506 |
+| 2026-10-05 07:12:53 | [Photyna tomentosa](https://en.wikipedia.org/wiki/Photyna_tomentosa) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,337 |
