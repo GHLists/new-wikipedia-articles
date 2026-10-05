@@ -13,54 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-05 11:19 UTC](data/en/new-articles-2026-10-05T11-19-26Z.csv) | 22 |
-| Japanese | `ja` | [2026-10-05 11:19 UTC](data/ja/new-articles-2026-10-05T11-19-26Z.csv) | 13 |
-| Chinese | `zh` | [2026-10-05 11:19 UTC](data/zh/new-articles-2026-10-05T11-19-26Z.csv) | 3 |
-| French | `fr` | [2026-10-05 11:19 UTC](data/fr/new-articles-2026-10-05T11-19-26Z.csv) | 8 |
-| German | `de` | [2026-10-05 11:19 UTC](data/de/new-articles-2026-10-05T11-19-26Z.csv) | 2 |
-| Russian | `ru` | [2026-10-05 11:19 UTC](data/ru/new-articles-2026-10-05T11-19-26Z.csv) | 18 |
-| Spanish | `es` | [2026-10-05 11:19 UTC](data/es/new-articles-2026-10-05T11-19-26Z.csv) | 9 |
-| Italian | `it` | [2026-10-05 11:19 UTC](data/it/new-articles-2026-10-05T11-19-26Z.csv) | 6 |
-| Portuguese | `pt` | [2026-10-05 11:19 UTC](data/pt/new-articles-2026-10-05T11-19-26Z.csv) | 2 |
+| English | `en` | [2026-10-05 12:20 UTC](data/en/new-articles-2026-10-05T12-20-17Z.csv) | 27 |
+| Japanese | `ja` | [2026-10-05 12:20 UTC](data/ja/new-articles-2026-10-05T12-20-17Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-05 12:20 UTC](data/zh/new-articles-2026-10-05T12-20-17Z.csv) | 12 |
+| French | `fr` | [2026-10-05 12:20 UTC](data/fr/new-articles-2026-10-05T12-20-17Z.csv) | 9 |
+| German | `de` | [2026-10-05 12:20 UTC](data/de/new-articles-2026-10-05T12-20-17Z.csv) | 29 |
+| Russian | `ru` | [2026-10-05 12:20 UTC](data/ru/new-articles-2026-10-05T12-20-17Z.csv) | 6 |
+| Spanish | `es` | [2026-10-05 12:20 UTC](data/es/new-articles-2026-10-05T12-20-17Z.csv) | 9 |
+| Italian | `it` | [2026-10-05 12:20 UTC](data/it/new-articles-2026-10-05T12-20-17Z.csv) | 6 |
+| Portuguese | `pt` | [2026-10-05 12:20 UTC](data/pt/new-articles-2026-10-05T12-20-17Z.csv) | 4 |
 | Polish | `pl` | [2026-10-05 11:19 UTC](data/pl/new-articles-2026-10-05T11-19-26Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-05 11:19 UTC](data/ar/new-articles-2026-10-05T11-19-26Z.csv) | 11 |
-| Persian | `fa` | [2026-10-05 11:19 UTC](data/fa/new-articles-2026-10-05T11-19-26Z.csv) | 8 |
-| Turkish | `tr` | [2026-10-05 11:19 UTC](data/tr/new-articles-2026-10-05T11-19-26Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-05 11:19 UTC](data/he/new-articles-2026-10-05T11-19-26Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-05 11:19 UTC](data/sv/new-articles-2026-10-05T11-19-26Z.csv) | 11 |
-| Dutch | `nl` | [2026-10-05 11:19 UTC](data/nl/new-articles-2026-10-05T11-19-26Z.csv) | 5 |
-| Korean | `ko` | [2026-10-05 11:19 UTC](data/ko/new-articles-2026-10-05T11-19-26Z.csv) | 9 |
-| Indonesian | `id` | [2026-10-05 11:19 UTC](data/id/new-articles-2026-10-05T11-19-26Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-05 11:19 UTC](data/uk/new-articles-2026-10-05T11-19-26Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-05 12:20 UTC](data/ar/new-articles-2026-10-05T12-20-17Z.csv) | 8 |
+| Persian | `fa` | [2026-10-05 12:20 UTC](data/fa/new-articles-2026-10-05T12-20-17Z.csv) | 5 |
+| Turkish | `tr` | [2026-10-05 12:20 UTC](data/tr/new-articles-2026-10-05T12-20-17Z.csv) | 7 |
+| Hebrew | `he` | [2026-10-05 12:20 UTC](data/he/new-articles-2026-10-05T12-20-17Z.csv) | 5 |
+| Swedish | `sv` | [2026-10-05 12:20 UTC](data/sv/new-articles-2026-10-05T12-20-17Z.csv) | 7 |
+| Dutch | `nl` | [2026-10-05 12:20 UTC](data/nl/new-articles-2026-10-05T12-20-17Z.csv) | 3 |
+| Korean | `ko` | [2026-10-05 12:20 UTC](data/ko/new-articles-2026-10-05T12-20-17Z.csv) | 4 |
+| Indonesian | `id` | [2026-10-05 12:20 UTC](data/id/new-articles-2026-10-05T12-20-17Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-10-05 12:20 UTC](data/uk/new-articles-2026-10-05T12-20-17Z.csv) | 5 |
 | Vietnamese | `vi` | [2026-10-05 11:19 UTC](data/vi/new-articles-2026-10-05T11-19-26Z.csv) | 2 |
 
-## English (en) — 2026-10-05 11:19 UTC
+## English (en) — 2026-10-05 12:20 UTC
 
-New articles created between 2026-10-05 10:19 UTC and 2026-10-05 11:19 UTC.
+New articles created between 2026-10-05 11:19 UTC and 2026-10-05 12:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-05T11-19-26Z.csv)
+[Full CSV](data/en/new-articles-2026-10-05T12-20-17Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-05 10:20:54 | [Rayssa Furlan](https://en.wikipedia.org/wiki/Rayssa_Furlan) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,770 |
-| 2026-10-05 10:23:21 | [Temiloluwa Johnson](https://en.wikipedia.org/wiki/Temiloluwa_Johnson) | [Obinna Tony](https://en.wikipedia.org/wiki/User:Obinna_Tony) | 4,344 |
-| 2026-10-05 10:29:18 | [Mohammad Valizadeh](https://en.wikipedia.org/wiki/Mohammad_Valizadeh) | [Guard active](https://en.wikipedia.org/wiki/User:Guard_active) | 2,219 |
-| 2026-10-05 10:31:07 | [Mt. Falcon](https://en.wikipedia.org/wiki/Mt._Falcon) | [TheRandomResearcher](https://en.wikipedia.org/wiki/User:TheRandomResearcher) | 802 |
-| 2026-10-05 10:31:52 | [Aposchiza](https://en.wikipedia.org/wiki/Aposchiza) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,134 |
-| 2026-10-05 10:39:09 | [Ducabrook Formation](https://en.wikipedia.org/wiki/Ducabrook_Formation) | [Tonacoyotl1521](https://en.wikipedia.org/wiki/User:Tonacoyotl1521) | 7,359 |
-| 2026-10-05 10:39:20 | [Crepischiza usambarae](https://en.wikipedia.org/wiki/Crepischiza_usambarae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,905 |
-| 2026-10-05 10:41:19 | [Sumit Sharma Brahmacharimayum](https://en.wikipedia.org/wiki/Sumit_Sharma_Brahmacharimayum) | [Azuredream](https://en.wikipedia.org/wiki/User:Azuredream) | 2,303 |
-| 2026-10-05 10:45:18 | [Rhizoproctus usambarae](https://en.wikipedia.org/wiki/Rhizoproctus_usambarae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,871 |
-| 2026-10-05 10:47:01 | [Tanzania Safari Channel](https://en.wikipedia.org/wiki/Tanzania_Safari_Channel) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 2,553 |
-| 2026-10-05 10:48:58 | [Dea Nutrix](https://en.wikipedia.org/wiki/Dea_Nutrix) | [Brigade Piron](https://en.wikipedia.org/wiki/User:Brigade_Piron) | 1,417 |
-| 2026-10-05 10:49:05 | [Vasilis Mastrakoulis](https://en.wikipedia.org/wiki/Vasilis_Mastrakoulis) | [BEN917](https://en.wikipedia.org/wiki/User:BEN917) | 7,809 |
-| 2026-10-05 10:51:15 | [Pedro Rousseff](https://en.wikipedia.org/wiki/Pedro_Rousseff) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,031 |
-| 2026-10-05 10:52:20 | [Ali Haghparast](https://en.wikipedia.org/wiki/Ali_Haghparast) | [Guard active](https://en.wikipedia.org/wiki/User:Guard_active) | 3,233 |
-| 2026-10-05 10:52:39 | [Ayumi Leiva Sánchez](https://en.wikipedia.org/wiki/Ayumi_Leiva_S%C3%A1nchez) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,941 |
-| 2026-10-05 10:53:45 | [Sićevo Monastery](https://en.wikipedia.org/wiki/Si%C4%87evo_Monastery) | [Mmns21](https://en.wikipedia.org/wiki/User:Mmns21) | 22,090 |
-| 2026-10-05 10:58:57 | [Starmobile Diamond](https://en.wikipedia.org/wiki/Starmobile_Diamond) | [JGBlue1509](https://en.wikipedia.org/wiki/User:JGBlue1509) | 3,311 |
-| 2026-10-05 10:59:56 | [Gortner](https://en.wikipedia.org/wiki/Gortner) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 221 |
-| 2026-10-05 11:05:43 | [Marie Zelníčková](https://en.wikipedia.org/wiki/Marie_Zeln%C3%AD%C4%8Dkov%C3%A1) | [JancIroni](https://en.wikipedia.org/wiki/User:JancIroni) | 1,827 |
-| 2026-10-05 11:06:08 | [Super Typhoon Choi-wan(2026)](https://en.wikipedia.org/wiki/Super_Typhoon_Choi-wan%282026%29) | [LeUser24](https://en.wikipedia.org/wiki/User:LeUser24) | 157 |
-| 2026-10-05 11:08:15 | [Typhoon Choi-wan(2026)](https://en.wikipedia.org/wiki/Typhoon_Choi-wan%282026%29) | [LeUser24](https://en.wikipedia.org/wiki/User:LeUser24) | 132 |
-| 2026-10-05 11:13:54 | [Hossein Shabzandehdar Jahromi](https://en.wikipedia.org/wiki/Hossein_Shabzandehdar_Jahromi) | [Re000searchist](https://en.wikipedia.org/wiki/User:Re000searchist) | 1,300 |
+| 2026-10-05 11:21:55 | [Listed buildings in Wressle](https://en.wikipedia.org/wiki/Listed_buildings_in_Wressle) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 10,162 |
+| 2026-10-05 11:25:35 | [Max Manfredi](https://en.wikipedia.org/wiki/Max_Manfredi) | [Cavarrone](https://en.wikipedia.org/wiki/User:Cavarrone) | 3,547 |
+| 2026-10-05 11:28:55 | [Dromeryda Agyapong](https://en.wikipedia.org/wiki/Dromeryda_Agyapong) | [Vigilante eye 1](https://en.wikipedia.org/wiki/User:Vigilante_eye_1) | 6,145 |
+| 2026-10-05 11:31:08 | [Omaloplia flava](https://en.wikipedia.org/wiki/Omaloplia_flava) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,210 |
+| 2026-10-05 11:37:20 | [Dichecephala bilaminifrons](https://en.wikipedia.org/wiki/Dichecephala_bilaminifrons) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,523 |
+| 2026-10-05 11:41:40 | [Claude Naissant](https://en.wikipedia.org/wiki/Claude_Naissant) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 1,562 |
+| 2026-10-05 11:44:27 | [Pachycamenta](https://en.wikipedia.org/wiki/Pachycamenta) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,832 |
+| 2026-10-05 11:45:39 | [Fernando Lekatompessy](https://en.wikipedia.org/wiki/Fernando_Lekatompessy) | [HiNimo](https://en.wikipedia.org/wiki/User:HiNimo) | 4,097 |
+| 2026-10-05 11:47:36 | [Julia de Castro](https://en.wikipedia.org/wiki/Julia_de_Castro) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,885 |
+| 2026-10-05 11:52:15 | [Pegylis gestroi](https://en.wikipedia.org/wiki/Pegylis_gestroi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,788 |
+| 2026-10-05 11:53:16 | [Sydani](https://en.wikipedia.org/wiki/Sydani) | [RachelD95](https://en.wikipedia.org/wiki/User:RachelD95) | 9,143 |
+| 2026-10-05 11:56:20 | [Pegylis vestita](https://en.wikipedia.org/wiki/Pegylis_vestita) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,178 |
+| 2026-10-05 11:58:09 | [2014 ITU Long Distance Triathlon World Championships](https://en.wikipedia.org/wiki/2014_ITU_Long_Distance_Triathlon_World_Championships) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 10,284 |
+| 2026-10-05 12:00:27 | [Schizonycha squamulata](https://en.wikipedia.org/wiki/Schizonycha_squamulata) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,183 |
+| 2026-10-05 12:03:29 | [Moderate nationalism](https://en.wikipedia.org/wiki/Moderate_nationalism) | [Sevdayeli28](https://en.wikipedia.org/wiki/User:Sevdayeli28) | 1,884 |
+| 2026-10-05 12:04:47 | [Mary Ellen Holden](https://en.wikipedia.org/wiki/Mary_Ellen_Holden) | [Quetzal1964](https://en.wikipedia.org/wiki/User:Quetzal1964) | 42 |
+| 2026-10-05 12:05:00 | [Schizonycha parvula](https://en.wikipedia.org/wiki/Schizonycha_parvula) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,218 |
+| 2026-10-05 12:05:28 | [Greenland Township, McCook County, South Dakota](https://en.wikipedia.org/wiki/Greenland_Township%2C_McCook_County%2C_South_Dakota) | [Mrmoustache12](https://en.wikipedia.org/wiki/User:Mrmoustache12) | 1,425 |
+| 2026-10-05 12:10:23 | [2026 Israel–Lebanon Framework Agreement](https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_Framework_Agreement) | [Fadi.Yammine](https://en.wikipedia.org/wiki/User:Fadi.Yammine) | 8,570 |
+| 2026-10-05 12:13:19 | [Rajani Shrestha](https://en.wikipedia.org/wiki/Rajani_Shrestha) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 6,860 |
+| 2026-10-05 12:13:39 | [2026 US–Denmark–Greenland agreement](https://en.wikipedia.org/wiki/2026_US%E2%80%93Denmark%E2%80%93Greenland_agreement) | [Brodmann10](https://en.wikipedia.org/wiki/User:Brodmann10) | 13,089 |
+| 2026-10-05 12:13:52 | [Propyl cinnamate](https://en.wikipedia.org/wiki/Propyl_cinnamate) | [Miko3002](https://en.wikipedia.org/wiki/User:Miko3002) | 1,413 |
+| 2026-10-05 12:15:53 | [Ballando con le Stelle series 21](https://en.wikipedia.org/wiki/Ballando_con_le_Stelle_series_21) | [GiaKa](https://en.wikipedia.org/wiki/User:GiaKa) | 7,343 |
+| 2026-10-05 12:16:39 | [Yrarrázaval (surname)](https://en.wikipedia.org/wiki/Yrarr%C3%A1zaval_%28surname%29) | [GoMSTL](https://en.wikipedia.org/wiki/User:GoMSTL) | 380 |
+| 2026-10-05 12:16:49 | [Ana Elisa](https://en.wikipedia.org/wiki/Ana_Elisa) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,973 |
+| 2026-10-05 12:19:39 | [Aitziber Garmendia](https://en.wikipedia.org/wiki/Aitziber_Garmendia) | [Yadsalohcin](https://en.wikipedia.org/wiki/User:Yadsalohcin) | 7,060 |
+| 2026-10-05 12:19:50 | [Atromitos Patras F.C.](https://en.wikipedia.org/wiki/Atromitos_Patras_F.C.) | [Seanjackson67](https://en.wikipedia.org/wiki/User:Seanjackson67) | 5,695 |
