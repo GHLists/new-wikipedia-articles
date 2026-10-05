@@ -13,51 +13,66 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-05 18:18 UTC](data/en/new-articles-2026-10-05T18-18-34Z.csv) | 19 |
-| Japanese | `ja` | [2026-10-05 18:18 UTC](data/ja/new-articles-2026-10-05T18-18-34Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-05 18:18 UTC](data/zh/new-articles-2026-10-05T18-18-34Z.csv) | 19 |
-| French | `fr` | [2026-10-05 18:18 UTC](data/fr/new-articles-2026-10-05T18-18-34Z.csv) | 8 |
-| German | `de` | [2026-10-05 18:18 UTC](data/de/new-articles-2026-10-05T18-18-34Z.csv) | 14 |
-| Russian | `ru` | [2026-10-05 18:18 UTC](data/ru/new-articles-2026-10-05T18-18-34Z.csv) | 13 |
-| Spanish | `es` | [2026-10-05 18:18 UTC](data/es/new-articles-2026-10-05T18-18-34Z.csv) | 11 |
-| Italian | `it` | [2026-10-05 18:18 UTC](data/it/new-articles-2026-10-05T18-18-34Z.csv) | 13 |
-| Portuguese | `pt` | [2026-10-05 18:18 UTC](data/pt/new-articles-2026-10-05T18-18-34Z.csv) | 11 |
-| Polish | `pl` | [2026-10-05 18:18 UTC](data/pl/new-articles-2026-10-05T18-18-34Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-05 18:18 UTC](data/ar/new-articles-2026-10-05T18-18-34Z.csv) | 3 |
-| Persian | `fa` | [2026-10-05 18:18 UTC](data/fa/new-articles-2026-10-05T18-18-34Z.csv) | 8 |
-| Turkish | `tr` | [2026-10-05 18:18 UTC](data/tr/new-articles-2026-10-05T18-18-34Z.csv) | 6 |
-| Hebrew | `he` | [2026-10-05 18:18 UTC](data/he/new-articles-2026-10-05T18-18-34Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-05 18:18 UTC](data/sv/new-articles-2026-10-05T18-18-34Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-05 18:18 UTC](data/nl/new-articles-2026-10-05T18-18-34Z.csv) | 5 |
-| Korean | `ko` | [2026-10-05 17:20 UTC](data/ko/new-articles-2026-10-05T17-20-09Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-05 18:18 UTC](data/id/new-articles-2026-10-05T18-18-34Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-05 18:18 UTC](data/uk/new-articles-2026-10-05T18-18-34Z.csv) | 5 |
+| English | `en` | [2026-10-05 19:22 UTC](data/en/new-articles-2026-10-05T19-22-31Z.csv) | 34 |
+| Japanese | `ja` | [2026-10-05 19:22 UTC](data/ja/new-articles-2026-10-05T19-22-31Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-05 19:22 UTC](data/zh/new-articles-2026-10-05T19-22-31Z.csv) | 2 |
+| French | `fr` | [2026-10-05 19:22 UTC](data/fr/new-articles-2026-10-05T19-22-31Z.csv) | 4 |
+| German | `de` | [2026-10-05 19:22 UTC](data/de/new-articles-2026-10-05T19-22-31Z.csv) | 26 |
+| Russian | `ru` | [2026-10-05 19:22 UTC](data/ru/new-articles-2026-10-05T19-22-31Z.csv) | 12 |
+| Spanish | `es` | [2026-10-05 19:22 UTC](data/es/new-articles-2026-10-05T19-22-31Z.csv) | 32 |
+| Italian | `it` | [2026-10-05 19:22 UTC](data/it/new-articles-2026-10-05T19-22-31Z.csv) | 10 |
+| Portuguese | `pt` | [2026-10-05 19:22 UTC](data/pt/new-articles-2026-10-05T19-22-31Z.csv) | 9 |
+| Polish | `pl` | [2026-10-05 19:22 UTC](data/pl/new-articles-2026-10-05T19-22-31Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-05 19:22 UTC](data/ar/new-articles-2026-10-05T19-22-31Z.csv) | 8 |
+| Persian | `fa` | [2026-10-05 19:22 UTC](data/fa/new-articles-2026-10-05T19-22-31Z.csv) | 6 |
+| Turkish | `tr` | [2026-10-05 19:22 UTC](data/tr/new-articles-2026-10-05T19-22-31Z.csv) | 9 |
+| Hebrew | `he` | [2026-10-05 19:22 UTC](data/he/new-articles-2026-10-05T19-22-31Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-05 19:22 UTC](data/sv/new-articles-2026-10-05T19-22-31Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-05 19:22 UTC](data/nl/new-articles-2026-10-05T19-22-31Z.csv) | 9 |
+| Korean | `ko` | [2026-10-05 19:22 UTC](data/ko/new-articles-2026-10-05T19-22-31Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-05 19:22 UTC](data/id/new-articles-2026-10-05T19-22-31Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-10-05 19:22 UTC](data/uk/new-articles-2026-10-05T19-22-31Z.csv) | 4 |
 | Vietnamese | `vi` | [2026-10-05 16:19 UTC](data/vi/new-articles-2026-10-05T16-19-24Z.csv) | 1 |
 
-## English (en) — 2026-10-05 18:18 UTC
+## English (en) — 2026-10-05 19:22 UTC
 
-New articles created between 2026-10-05 17:20 UTC and 2026-10-05 18:18 UTC.
+New articles created between 2026-10-05 18:18 UTC and 2026-10-05 19:22 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-05T18-18-34Z.csv)
+[Full CSV](data/en/new-articles-2026-10-05T19-22-31Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-05 17:20:45 | [Rafael Casanova Zenteno](https://en.wikipedia.org/wiki/Rafael_Casanova_Zenteno) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,191 |
-| 2026-10-05 17:24:40 | [Eastern General Hospital (Singapore)](https://en.wikipedia.org/wiki/Eastern_General_Hospital_%28Singapore%29) | [Kaiixin](https://en.wikipedia.org/wiki/User:Kaiixin) | 2,678 |
-| 2026-10-05 17:26:52 | [Luis Lamas Benavente](https://en.wikipedia.org/wiki/Luis_Lamas_Benavente) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,380 |
-| 2026-10-05 17:31:21 | [Juan Mira](https://en.wikipedia.org/wiki/Juan_Mira) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,659 |
-| 2026-10-05 17:34:41 | [Francisco Pinto Cruz](https://en.wikipedia.org/wiki/Francisco_Pinto_Cruz) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,697 |
-| 2026-10-05 17:35:53 | [2017–18 SC Telstar season](https://en.wikipedia.org/wiki/2017%E2%80%9318_SC_Telstar_season) | [Magawla61](https://en.wikipedia.org/wiki/User:Magawla61) | 3,056 |
-| 2026-10-05 17:43:18 | [Maria Lease](https://en.wikipedia.org/wiki/Maria_Lease) | [Asher Mave](https://en.wikipedia.org/wiki/User:Asher_Mave) | 5,336 |
-| 2026-10-05 17:44:24 | [Hurricane Before Saint Malo](https://en.wikipedia.org/wiki/Hurricane_Before_Saint_Malo) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,876 |
-| 2026-10-05 17:48:02 | [National Union for Territories Group](https://en.wikipedia.org/wiki/National_Union_for_Territories_Group) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 10,776 |
-| 2026-10-05 17:48:13 | [Reclining Liberty](https://en.wikipedia.org/wiki/Reclining_Liberty) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 3,081 |
-| 2026-10-05 17:48:17 | [2027 24 Hours of Daytona](https://en.wikipedia.org/wiki/2027_24_Hours_of_Daytona) | [KAMiKAZOW](https://en.wikipedia.org/wiki/User:KAMiKAZOW) | 1,379 |
-| 2026-10-05 17:55:50 | [Luna Zarattini](https://en.wikipedia.org/wiki/Luna_Zarattini) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,126 |
-| 2026-10-05 18:06:01 | [Oak Township, Kansas](https://en.wikipedia.org/wiki/Oak_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,788 |
-| 2026-10-05 18:08:38 | [Antoon (singer)](https://en.wikipedia.org/wiki/Antoon_%28singer%29) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 15,399 |
-| 2026-10-05 18:10:26 | [Bright Lights (Showaddywaddy album)](https://en.wikipedia.org/wiki/Bright_Lights_%28Showaddywaddy_album%29) | [ItsBri](https://en.wikipedia.org/wiki/User:ItsBri) | 11,733 |
-| 2026-10-05 18:12:24 | [Liogenys](https://en.wikipedia.org/wiki/Liogenys) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 7,061 |
-| 2026-10-05 18:17:01 | [Aai (1995 film)](https://en.wikipedia.org/wiki/Aai_%281995_film%29) | [Goalata](https://en.wikipedia.org/wiki/User:Goalata) | 5,188 |
-| 2026-10-05 18:17:54 | [C.I. Mordant Black 9](https://en.wikipedia.org/wiki/C.I._Mordant_Black_9) | [Minihaa](https://en.wikipedia.org/wiki/User:Minihaa) | 2,314 |
-| 2026-10-05 18:18:22 | [Gnaeus Cornelius Scipio (disambiguation)](https://en.wikipedia.org/wiki/Gnaeus_Cornelius_Scipio_%28disambiguation%29) | [TurmaFilosofia](https://en.wikipedia.org/wiki/User:TurmaFilosofia) | 364 |
+| 2026-10-05 18:19:13 | [Reactive Black 5](https://en.wikipedia.org/wiki/Reactive_Black_5) | [Minihaa](https://en.wikipedia.org/wiki/User:Minihaa) | 3,648 |
+| 2026-10-05 18:20:31 | [Taotang clan](https://en.wikipedia.org/wiki/Taotang_clan) | [Shira the Mogul](https://en.wikipedia.org/wiki/User:Shira_the_Mogul) | 11,911 |
+| 2026-10-05 18:21:09 | [Louis Erlo](https://en.wikipedia.org/wiki/Louis_Erlo) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 2,099 |
+| 2026-10-05 18:28:39 | [Rick Azevedo](https://en.wikipedia.org/wiki/Rick_Azevedo) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,859 |
+| 2026-10-05 18:30:31 | [Pawnee Township, Smith County, Kansas](https://en.wikipedia.org/wiki/Pawnee_Township%2C_Smith_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,788 |
+| 2026-10-05 18:33:40 | [Amander H. Bartlett](https://en.wikipedia.org/wiki/Amander_H._Bartlett) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 5,054 |
+| 2026-10-05 18:34:00 | [National Highway 163G (India)](https://en.wikipedia.org/wiki/National_Highway_163G_%28India%29) | [Sandeep kumar 83](https://en.wikipedia.org/wiki/User:Sandeep_kumar_83) | 1,331 |
+| 2026-10-05 18:36:38 | [2026 Malaysia Super 100](https://en.wikipedia.org/wiki/2026_Malaysia_Super_100) | [Ricks215](https://en.wikipedia.org/wiki/User:Ricks215) | 55,496 |
+| 2026-10-05 18:38:00 | [Teramnus labialis](https://en.wikipedia.org/wiki/Teramnus_labialis) | [PyotrRossetti](https://en.wikipedia.org/wiki/User:PyotrRossetti) | 1,408 |
+| 2026-10-05 18:43:43 | [Karateke, Tire](https://en.wikipedia.org/wiki/Karateke%2C_Tire) | [StormL00ver](https://en.wikipedia.org/wiki/User:StormL00ver) | 3,458 |
+| 2026-10-05 18:44:09 | [Gnaeus Cornelius (disambiguation)](https://en.wikipedia.org/wiki/Gnaeus_Cornelius_%28disambiguation%29) | [TurmaFilosofia](https://en.wikipedia.org/wiki/User:TurmaFilosofia) | 486 |
+| 2026-10-05 18:46:31 | [Keith Clayton](https://en.wikipedia.org/wiki/Keith_Clayton) | [EnthusiastWorld37](https://en.wikipedia.org/wiki/User:EnthusiastWorld37) | 15,731 |
+| 2026-10-05 18:50:18 | [Gnaeus Cornelius Cossus (disambiguation)](https://en.wikipedia.org/wiki/Gnaeus_Cornelius_Cossus_%28disambiguation%29) | [TurmaFilosofia](https://en.wikipedia.org/wiki/User:TurmaFilosofia) | 362 |
+| 2026-10-05 18:51:14 | [2026 French Open (badminton)](https://en.wikipedia.org/wiki/2026_French_Open_%28badminton%29) | [Ricks215](https://en.wikipedia.org/wiki/User:Ricks215) | 44,165 |
+| 2026-10-05 18:52:58 | [Pleasant Township, Smith County, Kansas](https://en.wikipedia.org/wiki/Pleasant_Township%2C_Smith_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,699 |
+| 2026-10-05 18:54:06 | [Nermin Ogrešević](https://en.wikipedia.org/wiki/Nermin_Ogre%C5%A1evi%C4%87) | [Zee21y](https://en.wikipedia.org/wiki/User:Zee21y) | 3,499 |
+| 2026-10-05 18:54:14 | [2025–26 Orlando Pirates F.C. season](https://en.wikipedia.org/wiki/2025%E2%80%9326_Orlando_Pirates_F.C._season) | [Mbalentle Sinalo](https://en.wikipedia.org/wiki/User:Mbalentle_Sinalo) | 1,635 |
+| 2026-10-05 18:57:07 | [2026–27 Frauen-Regionalliga](https://en.wikipedia.org/wiki/2026%E2%80%9327_Frauen-Regionalliga) | [MbahGondrong](https://en.wikipedia.org/wiki/User:MbahGondrong) | 4,116 |
+| 2026-10-05 18:58:12 | [Gnaeus Cornelius Dolabella (disambiguation)](https://en.wikipedia.org/wiki/Gnaeus_Cornelius_Dolabella_%28disambiguation%29) | [TurmaFilosofia](https://en.wikipedia.org/wiki/User:TurmaFilosofia) | 405 |
+| 2026-10-05 19:00:59 | [Zulfan Djiaulhaq](https://en.wikipedia.org/wiki/Zulfan_Djiaulhaq) | [HiNimo](https://en.wikipedia.org/wiki/User:HiNimo) | 6,074 |
+| 2026-10-05 19:02:55 | [Regina Tarín](https://en.wikipedia.org/wiki/Regina_Tar%C3%ADn) | [Hassiel3409](https://en.wikipedia.org/wiki/User:Hassiel3409) | 8,907 |
+| 2026-10-05 19:06:07 | [Véronique Venne](https://en.wikipedia.org/wiki/V%C3%A9ronique_Venne) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 832 |
+| 2026-10-05 19:07:33 | [Swan Township, Kansas](https://en.wikipedia.org/wiki/Swan_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,493 |
+| 2026-10-05 19:08:28 | [Eḫulḫul](https://en.wikipedia.org/wiki/E%E1%B8%ABul%E1%B8%ABul) | [Wester2](https://en.wikipedia.org/wiki/User:Wester2) | 363 |
+| 2026-10-05 19:09:06 | [David Sueiro Muiños](https://en.wikipedia.org/wiki/David_Sueiro_Mui%C3%B1os) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 4,994 |
+| 2026-10-05 19:12:29 | [Francisco Subercaseaux](https://en.wikipedia.org/wiki/Francisco_Subercaseaux) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,617 |
+| 2026-10-05 19:12:50 | [Harry Stewart (disambiguation)](https://en.wikipedia.org/wiki/Harry_Stewart_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 491 |
+| 2026-10-05 19:14:09 | [Daniel Espejo](https://en.wikipedia.org/wiki/Daniel_Espejo) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,476 |
+| 2026-10-05 19:14:52 | [Bruno Scheid](https://en.wikipedia.org/wiki/Bruno_Scheid) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,749 |
+| 2026-10-05 19:16:06 | [Progress Party Ontario](https://en.wikipedia.org/wiki/Progress_Party_Ontario) | [Whatsthedealwithairplanefood](https://en.wikipedia.org/wiki/User:Whatsthedealwithairplanefood) | 866 |
+| 2026-10-05 19:18:20 | [Enrique García-Huidobro](https://en.wikipedia.org/wiki/Enrique_Garc%C3%ADa-Huidobro) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,883 |
+| 2026-10-05 19:19:03 | [Bogura Development Authority](https://en.wikipedia.org/wiki/Bogura_Development_Authority) | [Uss157](https://en.wikipedia.org/wiki/User:Uss157) | 2,264 |
+| 2026-10-05 19:20:01 | [Ramón Rivas Ramírez](https://en.wikipedia.org/wiki/Ram%C3%B3n_Rivas_Ram%C3%ADrez) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,207 |
+| 2026-10-05 19:21:23 | [Francisco Izquierdo Vargas](https://en.wikipedia.org/wiki/Francisco_Izquierdo_Vargas) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,642 |
