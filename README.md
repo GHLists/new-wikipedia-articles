@@ -13,58 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-05 14:21 UTC](data/en/new-articles-2026-10-05T14-21-02Z.csv) | 26 |
-| Japanese | `ja` | [2026-10-05 14:21 UTC](data/ja/new-articles-2026-10-05T14-21-02Z.csv) | 7 |
-| Chinese | `zh` | [2026-10-05 14:21 UTC](data/zh/new-articles-2026-10-05T14-21-02Z.csv) | 14 |
-| French | `fr` | [2026-10-05 14:21 UTC](data/fr/new-articles-2026-10-05T14-21-02Z.csv) | 12 |
-| German | `de` | [2026-10-05 14:21 UTC](data/de/new-articles-2026-10-05T14-21-02Z.csv) | 13 |
-| Russian | `ru` | [2026-10-05 14:21 UTC](data/ru/new-articles-2026-10-05T14-21-02Z.csv) | 9 |
-| Spanish | `es` | [2026-10-05 14:21 UTC](data/es/new-articles-2026-10-05T14-21-02Z.csv) | 35 |
-| Italian | `it` | [2026-10-05 14:21 UTC](data/it/new-articles-2026-10-05T14-21-02Z.csv) | 11 |
-| Portuguese | `pt` | [2026-10-05 14:21 UTC](data/pt/new-articles-2026-10-05T14-21-02Z.csv) | 4 |
-| Polish | `pl` | [2026-10-05 14:21 UTC](data/pl/new-articles-2026-10-05T14-21-02Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-05 14:21 UTC](data/ar/new-articles-2026-10-05T14-21-02Z.csv) | 8 |
-| Persian | `fa` | [2026-10-05 14:21 UTC](data/fa/new-articles-2026-10-05T14-21-02Z.csv) | 2 |
-| Turkish | `tr` | [2026-10-05 14:21 UTC](data/tr/new-articles-2026-10-05T14-21-02Z.csv) | 7 |
-| Hebrew | `he` | [2026-10-05 14:21 UTC](data/he/new-articles-2026-10-05T14-21-02Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-05 14:21 UTC](data/sv/new-articles-2026-10-05T14-21-02Z.csv) | 5 |
-| Dutch | `nl` | [2026-10-05 14:21 UTC](data/nl/new-articles-2026-10-05T14-21-02Z.csv) | 8 |
-| Korean | `ko` | [2026-10-05 14:21 UTC](data/ko/new-articles-2026-10-05T14-21-02Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-05 14:21 UTC](data/id/new-articles-2026-10-05T14-21-02Z.csv) | 16 |
-| Ukrainian | `uk` | [2026-10-05 14:21 UTC](data/uk/new-articles-2026-10-05T14-21-02Z.csv) | 7 |
+| English | `en` | [2026-10-05 15:18 UTC](data/en/new-articles-2026-10-05T15-18-36Z.csv) | 22 |
+| Japanese | `ja` | [2026-10-05 15:18 UTC](data/ja/new-articles-2026-10-05T15-18-36Z.csv) | 7 |
+| Chinese | `zh` | [2026-10-05 15:18 UTC](data/zh/new-articles-2026-10-05T15-18-36Z.csv) | 34 |
+| French | `fr` | [2026-10-05 15:18 UTC](data/fr/new-articles-2026-10-05T15-18-36Z.csv) | 17 |
+| German | `de` | [2026-10-05 15:18 UTC](data/de/new-articles-2026-10-05T15-18-36Z.csv) | 11 |
+| Russian | `ru` | [2026-10-05 15:18 UTC](data/ru/new-articles-2026-10-05T15-18-36Z.csv) | 10 |
+| Spanish | `es` | [2026-10-05 15:18 UTC](data/es/new-articles-2026-10-05T15-18-36Z.csv) | 23 |
+| Italian | `it` | [2026-10-05 15:18 UTC](data/it/new-articles-2026-10-05T15-18-36Z.csv) | 4 |
+| Portuguese | `pt` | [2026-10-05 15:18 UTC](data/pt/new-articles-2026-10-05T15-18-36Z.csv) | 8 |
+| Polish | `pl` | [2026-10-05 15:18 UTC](data/pl/new-articles-2026-10-05T15-18-36Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-05 15:18 UTC](data/ar/new-articles-2026-10-05T15-18-36Z.csv) | 7 |
+| Persian | `fa` | [2026-10-05 15:18 UTC](data/fa/new-articles-2026-10-05T15-18-36Z.csv) | 3 |
+| Turkish | `tr` | [2026-10-05 15:18 UTC](data/tr/new-articles-2026-10-05T15-18-36Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-05 15:18 UTC](data/he/new-articles-2026-10-05T15-18-36Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-05 15:18 UTC](data/sv/new-articles-2026-10-05T15-18-36Z.csv) | 6 |
+| Dutch | `nl` | [2026-10-05 15:18 UTC](data/nl/new-articles-2026-10-05T15-18-36Z.csv) | 9 |
+| Korean | `ko` | [2026-10-05 15:18 UTC](data/ko/new-articles-2026-10-05T15-18-36Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-05 15:18 UTC](data/id/new-articles-2026-10-05T15-18-36Z.csv) | 14 |
+| Ukrainian | `uk` | [2026-10-05 15:18 UTC](data/uk/new-articles-2026-10-05T15-18-36Z.csv) | 7 |
 | Vietnamese | `vi` | [2026-10-05 13:23 UTC](data/vi/new-articles-2026-10-05T13-23-27Z.csv) | 3 |
 
-## English (en) — 2026-10-05 14:21 UTC
+## English (en) — 2026-10-05 15:18 UTC
 
-New articles created between 2026-10-05 13:23 UTC and 2026-10-05 14:21 UTC.
+New articles created between 2026-10-05 14:21 UTC and 2026-10-05 15:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-05T14-21-02Z.csv)
+[Full CSV](data/en/new-articles-2026-10-05T15-18-36Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-05 13:24:43 | [Vijaya Diagnostic Centre](https://en.wikipedia.org/wiki/Vijaya_Diagnostic_Centre) | [DesiDebugger](https://en.wikipedia.org/wiki/User:DesiDebugger) | 8,991 |
-| 2026-10-05 13:26:30 | [Niso imbricata](https://en.wikipedia.org/wiki/Niso_imbricata) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,268 |
-| 2026-10-05 13:26:54 | [Hymenoplia arragonica](https://en.wikipedia.org/wiki/Hymenoplia_arragonica) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,201 |
-| 2026-10-05 13:27:20 | [Eva Cárdenas](https://en.wikipedia.org/wiki/Eva_C%C3%A1rdenas) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,689 |
-| 2026-10-05 13:27:57 | [Ju-jitsu at the 2026 Asian Games – Men's 94 kg](https://en.wikipedia.org/wiki/Ju-jitsu_at_the_2026_Asian_Games_%E2%80%93_Men%27s_94_kg) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 7,839 |
-| 2026-10-05 13:28:47 | [Ju-jitsu at the 2026 Asian Games – Women's 48 kg](https://en.wikipedia.org/wiki/Ju-jitsu_at_the_2026_Asian_Games_%E2%80%93_Women%27s_48_kg) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 7,543 |
-| 2026-10-05 13:29:35 | [Ju-jitsu at the 2026 Asian Games – Women's 52 kg](https://en.wikipedia.org/wiki/Ju-jitsu_at_the_2026_Asian_Games_%E2%80%93_Women%27s_52_kg) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 7,472 |
-| 2026-10-05 13:30:21 | [Ju-jitsu at the 2026 Asian Games – Women's 63 kg](https://en.wikipedia.org/wiki/Ju-jitsu_at_the_2026_Asian_Games_%E2%80%93_Women%27s_63_kg) | [Yikesaiting](https://en.wikipedia.org/wiki/User:Yikesaiting) | 8,617 |
-| 2026-10-05 13:30:50 | [Addisbrough F.C.](https://en.wikipedia.org/wiki/Addisbrough_F.C.) | [SandroChess](https://en.wikipedia.org/wiki/User:SandroChess) | 710 |
-| 2026-10-05 13:30:54 | [Giuseppe Mascia](https://en.wikipedia.org/wiki/Giuseppe_Mascia) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,744 |
-| 2026-10-05 13:31:28 | [Laura Sarti](https://en.wikipedia.org/wiki/Laura_Sarti) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 1,090 |
-| 2026-10-05 13:32:05 | [Davit Tserediani](https://en.wikipedia.org/wiki/Davit_Tserediani) | [J4keeS237](https://en.wikipedia.org/wiki/User:J4keeS237) | 1,751 |
-| 2026-10-05 13:36:12 | [Hymenoplia pardoalcaidei](https://en.wikipedia.org/wiki/Hymenoplia_pardoalcaidei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,863 |
-| 2026-10-05 13:37:36 | [Florida Geological Survey](https://en.wikipedia.org/wiki/Florida_Geological_Survey) | [Operator 16](https://en.wikipedia.org/wiki/User:Operator_16) | 2,282 |
-| 2026-10-05 13:39:47 | [Martin Matoušek](https://en.wikipedia.org/wiki/Martin_Matou%C5%A1ek) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 1,067 |
-| 2026-10-05 13:41:30 | [Listed buildings in Yapham](https://en.wikipedia.org/wiki/Listed_buildings_in_Yapham) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 3,758 |
-| 2026-10-05 13:53:56 | [Hybalus](https://en.wikipedia.org/wiki/Hybalus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,466 |
-| 2026-10-05 14:01:19 | [Simon's Burger](https://en.wikipedia.org/wiki/Simon%27s_Burger) | [MrSilesian](https://en.wikipedia.org/wiki/User:MrSilesian) | 8,888 |
-| 2026-10-05 14:02:48 | [Röhss Fjord](https://en.wikipedia.org/wiki/R%C3%B6hss_Fjord) | [IBDJacobsen](https://en.wikipedia.org/wiki/User:IBDJacobsen) | 2,126 |
-| 2026-10-05 14:03:41 | [Hybalus alonsoi](https://en.wikipedia.org/wiki/Hybalus_alonsoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,017 |
-| 2026-10-05 14:05:39 | [Harlan Township, Smith County, Kansas](https://en.wikipedia.org/wiki/Harlan_Township%2C_Smith_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,658 |
-| 2026-10-05 14:07:10 | [Jiraphop Bhuridej](https://en.wikipedia.org/wiki/Jiraphop_Bhuridej) | [HappyHippo1990](https://en.wikipedia.org/wiki/User:HappyHippo1990) | 5,799 |
-| 2026-10-05 14:07:16 | [Hymenoplia castiliana](https://en.wikipedia.org/wiki/Hymenoplia_castiliana) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,727 |
-| 2026-10-05 14:12:03 | [Monotropus](https://en.wikipedia.org/wiki/Monotropus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,942 |
-| 2026-10-05 14:15:35 | [Monotropus marquezi](https://en.wikipedia.org/wiki/Monotropus_marquezi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,452 |
-| 2026-10-05 14:17:23 | [Monotropus brancoi](https://en.wikipedia.org/wiki/Monotropus_brancoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,643 |
+| 2026-10-05 14:24:02 | [2026 term opinions of the Supreme Court of the United States](https://en.wikipedia.org/wiki/2026_term_opinions_of_the_Supreme_Court_of_the_United_States) | [Jdavi333](https://en.wikipedia.org/wiki/User:Jdavi333) | 4,020 |
+| 2026-10-05 14:26:08 | [Harvey Township, Smith County, Kansas](https://en.wikipedia.org/wiki/Harvey_Township%2C_Smith_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,668 |
+| 2026-10-05 14:27:31 | [Eduarda Campopiano](https://en.wikipedia.org/wiki/Eduarda_Campopiano) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,882 |
+| 2026-10-05 14:34:56 | [Albert Rueprecht](https://en.wikipedia.org/wiki/Albert_Rueprecht) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 377 |
+| 2026-10-05 14:35:17 | [A. W. Prihandita](https://en.wikipedia.org/wiki/A._W._Prihandita) | [BPK2](https://en.wikipedia.org/wiki/User:BPK2) | 3,637 |
+| 2026-10-05 14:43:08 | [16th Congress of Deputies](https://en.wikipedia.org/wiki/16th_Congress_of_Deputies) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 4,688 |
+| 2026-10-05 14:44:46 | [Scottsdale Galleria (Arizona)](https://en.wikipedia.org/wiki/Scottsdale_Galleria_%28Arizona%29) | [Louloureagan9](https://en.wikipedia.org/wiki/User:Louloureagan9) | 5,040 |
+| 2026-10-05 14:47:10 | [Cladochoristidae](https://en.wikipedia.org/wiki/Cladochoristidae) | [TennisFish from Earth](https://en.wikipedia.org/wiki/User:TennisFish_from_Earth) | 1,051 |
+| 2026-10-05 14:49:26 | [Coloceras restinctus](https://en.wikipedia.org/wiki/Coloceras_restinctus) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 416 |
+| 2026-10-05 14:49:48 | [Manash Ranjan Pathak](https://en.wikipedia.org/wiki/Manash_Ranjan_Pathak) | [Aruunn](https://en.wikipedia.org/wiki/User:Aruunn) | 5,583 |
+| 2026-10-05 14:53:00 | [Coloceras hemiphagae](https://en.wikipedia.org/wiki/Coloceras_hemiphagae) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 415 |
+| 2026-10-05 14:54:29 | [Niso antiselli](https://en.wikipedia.org/wiki/Niso_antiselli) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,975 |
+| 2026-10-05 14:56:44 | [Emran Kook Jili](https://en.wikipedia.org/wiki/Emran_Kook_Jili) | [Guard active](https://en.wikipedia.org/wiki/User:Guard_active) | 1,606 |
+| 2026-10-05 14:57:19 | [John Little (American painter)](https://en.wikipedia.org/wiki/John_Little_%28American_painter%29) | [Jahaza](https://en.wikipedia.org/wiki/User:Jahaza) | 1,527 |
+| 2026-10-05 14:59:13 | [Bryan Lunduke (journalist)](https://en.wikipedia.org/wiki/Bryan_Lunduke_%28journalist%29) | [MrGemStar](https://en.wikipedia.org/wiki/User:MrGemStar) | 3,104 |
+| 2026-10-05 15:05:16 | [Houston Township, Kansas](https://en.wikipedia.org/wiki/Houston_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,674 |
+| 2026-10-05 15:06:19 | [Edward Dashwood Haggitt](https://en.wikipedia.org/wiki/Edward_Dashwood_Haggitt) | [Takvaal](https://en.wikipedia.org/wiki/User:Takvaal) | 3,706 |
+| 2026-10-05 15:06:31 | [Basurco](https://en.wikipedia.org/wiki/Basurco) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 199 |
+| 2026-10-05 15:06:42 | [Shraddha Kunwar Chhetri](https://en.wikipedia.org/wiki/Shraddha_Kunwar_Chhetri) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 5,027 |
+| 2026-10-05 15:07:11 | [Brenda Yasie Lee](https://en.wikipedia.org/wiki/Brenda_Yasie_Lee) | [Dnllnd](https://en.wikipedia.org/wiki/User:Dnllnd) | 6,164 |
+| 2026-10-05 15:11:35 | [Linda Asher](https://en.wikipedia.org/wiki/Linda_Asher) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 475 |
+| 2026-10-05 15:15:22 | [Julian Lægreid](https://en.wikipedia.org/wiki/Julian_L%C3%A6greid) | [Tomatomawo](https://en.wikipedia.org/wiki/User:Tomatomawo) | 1,087 |
