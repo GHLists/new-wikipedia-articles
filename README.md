@@ -13,50 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-05 09:18 UTC](data/en/new-articles-2026-10-05T09-18-36Z.csv) | 18 |
-| Japanese | `ja` | [2026-10-05 09:18 UTC](data/ja/new-articles-2026-10-05T09-18-36Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-05 09:18 UTC](data/zh/new-articles-2026-10-05T09-18-36Z.csv) | 9 |
-| French | `fr` | [2026-10-05 09:18 UTC](data/fr/new-articles-2026-10-05T09-18-36Z.csv) | 12 |
-| German | `de` | [2026-10-05 09:18 UTC](data/de/new-articles-2026-10-05T09-18-36Z.csv) | 9 |
-| Russian | `ru` | [2026-10-05 09:18 UTC](data/ru/new-articles-2026-10-05T09-18-36Z.csv) | 9 |
-| Spanish | `es` | [2026-10-05 08:19 UTC](data/es/new-articles-2026-10-05T08-19-19Z.csv) | 8 |
-| Italian | `it` | [2026-10-05 09:18 UTC](data/it/new-articles-2026-10-05T09-18-36Z.csv) | 8 |
+| English | `en` | [2026-10-05 10:19 UTC](data/en/new-articles-2026-10-05T10-19-06Z.csv) | 19 |
+| Japanese | `ja` | [2026-10-05 10:19 UTC](data/ja/new-articles-2026-10-05T10-19-06Z.csv) | 2 |
+| Chinese | `zh` | [2026-10-05 10:19 UTC](data/zh/new-articles-2026-10-05T10-19-06Z.csv) | 7 |
+| French | `fr` | [2026-10-05 10:19 UTC](data/fr/new-articles-2026-10-05T10-19-06Z.csv) | 10 |
+| German | `de` | [2026-10-05 10:19 UTC](data/de/new-articles-2026-10-05T10-19-06Z.csv) | 10 |
+| Russian | `ru` | [2026-10-05 10:19 UTC](data/ru/new-articles-2026-10-05T10-19-06Z.csv) | 14 |
+| Spanish | `es` | [2026-10-05 10:19 UTC](data/es/new-articles-2026-10-05T10-19-06Z.csv) | 8 |
+| Italian | `it` | [2026-10-05 10:19 UTC](data/it/new-articles-2026-10-05T10-19-06Z.csv) | 13 |
 | Portuguese | `pt` | [2026-10-05 08:19 UTC](data/pt/new-articles-2026-10-05T08-19-19Z.csv) | 1 |
-| Polish | `pl` | [2026-10-05 09:18 UTC](data/pl/new-articles-2026-10-05T09-18-36Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-05 09:18 UTC](data/ar/new-articles-2026-10-05T09-18-36Z.csv) | 2 |
-| Persian | `fa` | [2026-10-05 09:18 UTC](data/fa/new-articles-2026-10-05T09-18-36Z.csv) | 5 |
-| Turkish | `tr` | [2026-10-05 09:18 UTC](data/tr/new-articles-2026-10-05T09-18-36Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-05 09:18 UTC](data/he/new-articles-2026-10-05T09-18-36Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-05 09:18 UTC](data/sv/new-articles-2026-10-05T09-18-36Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-05 09:18 UTC](data/nl/new-articles-2026-10-05T09-18-36Z.csv) | 3 |
-| Korean | `ko` | [2026-10-05 09:18 UTC](data/ko/new-articles-2026-10-05T09-18-36Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-05 09:18 UTC](data/id/new-articles-2026-10-05T09-18-36Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-10-05 09:18 UTC](data/uk/new-articles-2026-10-05T09-18-36Z.csv) | 3 |
+| Polish | `pl` | [2026-10-05 10:19 UTC](data/pl/new-articles-2026-10-05T10-19-06Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-05 10:19 UTC](data/ar/new-articles-2026-10-05T10-19-06Z.csv) | 9 |
+| Persian | `fa` | [2026-10-05 10:19 UTC](data/fa/new-articles-2026-10-05T10-19-06Z.csv) | 13 |
+| Turkish | `tr` | [2026-10-05 10:19 UTC](data/tr/new-articles-2026-10-05T10-19-06Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-05 10:19 UTC](data/he/new-articles-2026-10-05T10-19-06Z.csv) | 5 |
+| Swedish | `sv` | [2026-10-05 10:19 UTC](data/sv/new-articles-2026-10-05T10-19-06Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-05 10:19 UTC](data/nl/new-articles-2026-10-05T10-19-06Z.csv) | 2 |
+| Korean | `ko` | [2026-10-05 10:19 UTC](data/ko/new-articles-2026-10-05T10-19-06Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-05 10:19 UTC](data/id/new-articles-2026-10-05T10-19-06Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-10-05 10:19 UTC](data/uk/new-articles-2026-10-05T10-19-06Z.csv) | 11 |
 | Vietnamese | `vi` | [2026-10-05 08:19 UTC](data/vi/new-articles-2026-10-05T08-19-19Z.csv) | 7 |
 
-## English (en) — 2026-10-05 09:18 UTC
+## English (en) — 2026-10-05 10:19 UTC
 
-New articles created between 2026-10-05 08:19 UTC and 2026-10-05 09:18 UTC.
+New articles created between 2026-10-05 09:18 UTC and 2026-10-05 10:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-05T09-18-36Z.csv)
+[Full CSV](data/en/new-articles-2026-10-05T10-19-06Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-05 08:21:11 | [Homoeoschiza flavescens](https://en.wikipedia.org/wiki/Homoeoschiza_flavescens) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,938 |
-| 2026-10-05 08:22:45 | [Killswitch (video game)](https://en.wikipedia.org/wiki/Killswitch_%28video_game%29) | [ToonAdventurer](https://en.wikipedia.org/wiki/User:ToonAdventurer) | 2,656 |
-| 2026-10-05 08:23:13 | [Malashree raga](https://en.wikipedia.org/wiki/Malashree_raga) | [Rizanb](https://en.wikipedia.org/wiki/User:Rizanb) | 4,746 |
-| 2026-10-05 08:31:03 | [Jeffrey Chiquini](https://en.wikipedia.org/wiki/Jeffrey_Chiquini) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,735 |
-| 2026-10-05 08:32:07 | [Stainless & Special Steel Executive of the Year](https://en.wikipedia.org/wiki/Stainless_%26_Special_Steel_Executive_of_the_Year) | [Perohanych](https://en.wikipedia.org/wiki/User:Perohanych) | 538 |
-| 2026-10-05 08:33:05 | [Hayim Malakh](https://en.wikipedia.org/wiki/Hayim_Malakh) | [Masterofthename](https://en.wikipedia.org/wiki/User:Masterofthename) | 12,925 |
-| 2026-10-05 08:34:03 | [Rachana Khatiwada Khatri](https://en.wikipedia.org/wiki/Rachana_Khatiwada_Khatri) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 6,247 |
-| 2026-10-05 08:37:47 | [ZTE Grand S](https://en.wikipedia.org/wiki/ZTE_Grand_S) | [JGBlue1509](https://en.wikipedia.org/wiki/User:JGBlue1509) | 4,223 |
-| 2026-10-05 08:42:05 | [Colin Hodge](https://en.wikipedia.org/wiki/Colin_Hodge) | [Joshihaze](https://en.wikipedia.org/wiki/User:Joshihaze) | 7,983 |
-| 2026-10-05 08:44:27 | [Hasheem Ahmad Siddiqui](https://en.wikipedia.org/wiki/Hasheem_Ahmad_Siddiqui) | [LPIND21](https://en.wikipedia.org/wiki/User:LPIND21) | 10,458 |
-| 2026-10-05 08:44:56 | [Guilherme Kilter](https://en.wikipedia.org/wiki/Guilherme_Kilter) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,678 |
-| 2026-10-05 08:49:29 | [16th Senate of Spain](https://en.wikipedia.org/wiki/16th_Senate_of_Spain) | [Alejandro.marlam](https://en.wikipedia.org/wiki/User:Alejandro.marlam) | 162,505 |
-| 2026-10-05 09:01:09 | [Synonym (album)](https://en.wikipedia.org/wiki/Synonym_%28album%29) | [Někdo úplně jiný](https://en.wikipedia.org/wiki/User:N%C4%9Bkdo_%C3%BApln%C4%9B_jin%C3%BD) | 4,068 |
-| 2026-10-05 09:01:28 | [Portrait of Thomas Girtin](https://en.wikipedia.org/wiki/Portrait_of_Thomas_Girtin) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,419 |
-| 2026-10-05 09:01:42 | [Aliyu namangi](https://en.wikipedia.org/wiki/Aliyu_namangi) | [Aisha Saleh Adamu](https://en.wikipedia.org/wiki/User:Aisha_Saleh_Adamu) | 6,196 |
-| 2026-10-05 09:09:39 | [Philacelota sulana](https://en.wikipedia.org/wiki/Philacelota_sulana) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,414 |
-| 2026-10-05 09:11:46 | [Krishnakant](https://en.wikipedia.org/wiki/Krishnakant) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 4,333 |
-| 2026-10-05 09:16:32 | [Philacelota jakli](https://en.wikipedia.org/wiki/Philacelota_jakli) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,539 |
+| 2026-10-05 09:20:20 | [Cop This (TV movie)](https://en.wikipedia.org/wiki/Cop_This_%28TV_movie%29) | [Hoppeboy13](https://en.wikipedia.org/wiki/User:Hoppeboy13) | 2,493 |
+| 2026-10-05 09:20:50 | [Arthur Morrow](https://en.wikipedia.org/wiki/Arthur_Morrow) | [Zawed](https://en.wikipedia.org/wiki/User:Zawed) | 10,478 |
+| 2026-10-05 09:28:54 | [Ashish Tani Purti](https://en.wikipedia.org/wiki/Ashish_Tani_Purti) | [Xandercorvus389](https://en.wikipedia.org/wiki/User:Xandercorvus389) | 2,676 |
+| 2026-10-05 09:31:27 | [Archaly, Alamüdün](https://en.wikipedia.org/wiki/Archaly%2C_Alam%C3%BCd%C3%BCn) | [Thermokarst](https://en.wikipedia.org/wiki/User:Thermokarst) | 2,958 |
+| 2026-10-05 09:31:51 | [Kurdistan Center for Arts and Culture](https://en.wikipedia.org/wiki/Kurdistan_Center_for_Arts_and_Culture) | [Ravan](https://en.wikipedia.org/wiki/User:Ravan) | 2,118 |
+| 2026-10-05 09:31:58 | [Philacelota leucothea](https://en.wikipedia.org/wiki/Philacelota_leucothea) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,574 |
+| 2026-10-05 09:40:13 | [Fox Stake](https://en.wikipedia.org/wiki/Fox_Stake) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 7,849 |
+| 2026-10-05 09:40:18 | [Panasonic Eluga P](https://en.wikipedia.org/wiki/Panasonic_Eluga_P) | [JGBlue1509](https://en.wikipedia.org/wiki/User:JGBlue1509) | 5,773 |
+| 2026-10-05 09:47:03 | [Balbera reflexa](https://en.wikipedia.org/wiki/Balbera_reflexa) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,856 |
+| 2026-10-05 09:56:14 | [Totland Pier](https://en.wikipedia.org/wiki/Totland_Pier) | [Scribwik](https://en.wikipedia.org/wiki/User:Scribwik) | 8,018 |
+| 2026-10-05 10:00:36 | [Waiuku League Football Club](https://en.wikipedia.org/wiki/Waiuku_League_Football_Club) | [Yamis](https://en.wikipedia.org/wiki/User:Yamis) | 34,348 |
+| 2026-10-05 10:01:49 | [Melanocamenta rufina](https://en.wikipedia.org/wiki/Melanocamenta_rufina) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,444 |
+| 2026-10-05 10:04:28 | [Starmobile Knight](https://en.wikipedia.org/wiki/Starmobile_Knight) | [JGBlue1509](https://en.wikipedia.org/wiki/User:JGBlue1509) | 4,678 |
+| 2026-10-05 10:04:44 | [Melanocamenta kolbei](https://en.wikipedia.org/wiki/Melanocamenta_kolbei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,965 |
+| 2026-10-05 10:05:02 | [Neer Choto Khoti Nei](https://en.wikipedia.org/wiki/Neer_Choto_Khoti_Nei) | [Babin Mew](https://en.wikipedia.org/wiki/User:Babin_Mew) | 10,794 |
+| 2026-10-05 10:08:51 | [Nicolaus Handjery](https://en.wikipedia.org/wiki/Nicolaus_Handjery) | [Edward Mike005](https://en.wikipedia.org/wiki/User:Edward_Mike005) | 13,364 |
+| 2026-10-05 10:10:35 | [Diego Quaquá](https://en.wikipedia.org/wiki/Diego_Quaqu%C3%A1) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,209 |
+| 2026-10-05 10:12:26 | [Mitracamenta lineella](https://en.wikipedia.org/wiki/Mitracamenta_lineella) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,465 |
+| 2026-10-05 10:12:47 | [Mad Sandhu](https://en.wikipedia.org/wiki/Mad_Sandhu) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 2,058 |
