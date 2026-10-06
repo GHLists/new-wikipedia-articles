@@ -13,52 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-05 23:18 UTC](data/en/new-articles-2026-10-05T23-18-35Z.csv) | 20 |
-| Japanese | `ja` | [2026-10-05 23:18 UTC](data/ja/new-articles-2026-10-05T23-18-35Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-05 23:18 UTC](data/zh/new-articles-2026-10-05T23-18-35Z.csv) | 2 |
-| French | `fr` | [2026-10-05 23:18 UTC](data/fr/new-articles-2026-10-05T23-18-35Z.csv) | 3 |
-| German | `de` | [2026-10-05 23:18 UTC](data/de/new-articles-2026-10-05T23-18-35Z.csv) | 3 |
-| Russian | `ru` | [2026-10-05 23:18 UTC](data/ru/new-articles-2026-10-05T23-18-35Z.csv) | 6 |
-| Spanish | `es` | [2026-10-05 23:18 UTC](data/es/new-articles-2026-10-05T23-18-35Z.csv) | 7 |
-| Italian | `it` | [2026-10-05 23:18 UTC](data/it/new-articles-2026-10-05T23-18-35Z.csv) | 6 |
-| Portuguese | `pt` | [2026-10-05 23:18 UTC](data/pt/new-articles-2026-10-05T23-18-35Z.csv) | 4 |
-| Polish | `pl` | [2026-10-05 23:18 UTC](data/pl/new-articles-2026-10-05T23-18-35Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-05 23:18 UTC](data/ar/new-articles-2026-10-05T23-18-35Z.csv) | 4 |
-| Persian | `fa` | [2026-10-05 23:18 UTC](data/fa/new-articles-2026-10-05T23-18-35Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-05 23:18 UTC](data/tr/new-articles-2026-10-05T23-18-35Z.csv) | 3 |
+| English | `en` | [2026-10-06 00:18 UTC](data/en/new-articles-2026-10-06T00-18-53Z.csv) | 18 |
+| Japanese | `ja` | [2026-10-06 00:18 UTC](data/ja/new-articles-2026-10-06T00-18-53Z.csv) | 14 |
+| Chinese | `zh` | [2026-10-06 00:18 UTC](data/zh/new-articles-2026-10-06T00-18-53Z.csv) | 3 |
+| French | `fr` | [2026-10-06 00:18 UTC](data/fr/new-articles-2026-10-06T00-18-53Z.csv) | 4 |
+| German | `de` | [2026-10-06 00:18 UTC](data/de/new-articles-2026-10-06T00-18-53Z.csv) | 2 |
+| Russian | `ru` | [2026-10-06 00:18 UTC](data/ru/new-articles-2026-10-06T00-18-53Z.csv) | 7 |
+| Spanish | `es` | [2026-10-06 00:18 UTC](data/es/new-articles-2026-10-06T00-18-53Z.csv) | 4 |
+| Italian | `it` | [2026-10-06 00:18 UTC](data/it/new-articles-2026-10-06T00-18-53Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-06 00:18 UTC](data/pt/new-articles-2026-10-06T00-18-53Z.csv) | 6 |
+| Polish | `pl` | [2026-10-06 00:18 UTC](data/pl/new-articles-2026-10-06T00-18-53Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-06 00:18 UTC](data/ar/new-articles-2026-10-06T00-18-53Z.csv) | 2 |
+| Persian | `fa` | [2026-10-06 00:18 UTC](data/fa/new-articles-2026-10-06T00-18-53Z.csv) | 3 |
+| Turkish | `tr` | [2026-10-06 00:18 UTC](data/tr/new-articles-2026-10-06T00-18-53Z.csv) | 1 |
 | Hebrew | `he` | [2026-10-05 22:21 UTC](data/he/new-articles-2026-10-05T22-21-34Z.csv) | 1 |
 | Swedish | `sv` | [2026-10-05 23:18 UTC](data/sv/new-articles-2026-10-05T23-18-35Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-05 22:21 UTC](data/nl/new-articles-2026-10-05T22-21-34Z.csv) | 3 |
-| Korean | `ko` | [2026-10-05 21:19 UTC](data/ko/new-articles-2026-10-05T21-19-36Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-05 23:18 UTC](data/id/new-articles-2026-10-05T23-18-35Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-05 23:18 UTC](data/uk/new-articles-2026-10-05T23-18-35Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-06 00:18 UTC](data/nl/new-articles-2026-10-06T00-18-53Z.csv) | 1 |
+| Korean | `ko` | [2026-10-06 00:18 UTC](data/ko/new-articles-2026-10-06T00-18-53Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-06 00:18 UTC](data/id/new-articles-2026-10-06T00-18-53Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-10-06 00:18 UTC](data/uk/new-articles-2026-10-06T00-18-53Z.csv) | 5 |
 | Vietnamese | `vi` | [2026-10-05 23:18 UTC](data/vi/new-articles-2026-10-05T23-18-35Z.csv) | 2 |
 
-## English (en) — 2026-10-05 23:18 UTC
+## English (en) — 2026-10-06 00:18 UTC
 
-New articles created between 2026-10-05 22:21 UTC and 2026-10-05 23:18 UTC.
+New articles created between 2026-10-05 23:18 UTC and 2026-10-06 00:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-05T23-18-35Z.csv)
+[Full CSV](data/en/new-articles-2026-10-06T00-18-53Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-05 22:24:16 | [Damaris Wambui Waiganjo](https://en.wikipedia.org/wiki/Damaris_Wambui_Waiganjo) | [Kamaukeega9](https://en.wikipedia.org/wiki/User:Kamaukeega9) | 7,177 |
-| 2026-10-05 22:33:30 | [SLB Most Valuable Player Award](https://en.wikipedia.org/wiki/SLB_Most_Valuable_Player_Award) | [Redcricket65](https://en.wikipedia.org/wiki/User:Redcricket65) | 973 |
-| 2026-10-05 22:37:07 | [Sébastien D'Astous](https://en.wikipedia.org/wiki/S%C3%A9bastien_D%27Astous) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 1,301 |
-| 2026-10-05 22:47:24 | [Novelty bias](https://en.wikipedia.org/wiki/Novelty_bias) | [Superb Owl](https://en.wikipedia.org/wiki/User:Superb_Owl) | 2,757 |
-| 2026-10-05 22:48:45 | [2027 Basingstoke and Deane Borough Council election](https://en.wikipedia.org/wiki/2027_Basingstoke_and_Deane_Borough_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 11,838 |
-| 2026-10-05 22:52:01 | [Dušan Uhlíř](https://en.wikipedia.org/wiki/Du%C5%A1an_Uhl%C3%AD%C5%99) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 287 |
-| 2026-10-05 22:54:27 | [Jaha (given name)](https://en.wikipedia.org/wiki/Jaha_%28given_name%29) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 188 |
-| 2026-10-05 22:54:59 | [Ede Oloko](https://en.wikipedia.org/wiki/Ede_Oloko) | [Cainsagnes](https://en.wikipedia.org/wiki/User:Cainsagnes) | 8,167 |
-| 2026-10-05 22:55:22 | [Diane Dallaire](https://en.wikipedia.org/wiki/Diane_Dallaire) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 1,383 |
-| 2026-10-05 22:56:46 | [Emily Collins (disambiguation)](https://en.wikipedia.org/wiki/Emily_Collins_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 274 |
-| 2026-10-05 22:57:23 | [Hayden Harris (defensive lineman)](https://en.wikipedia.org/wiki/Hayden_Harris_%28defensive_lineman%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 10,201 |
-| 2026-10-05 22:58:41 | [LDHD](https://en.wikipedia.org/wiki/LDHD) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 539 |
-| 2026-10-05 22:59:00 | [Stéphane Handfield](https://en.wikipedia.org/wiki/St%C3%A9phane_Handfield) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 866 |
-| 2026-10-05 23:00:03 | [Feda Musa Zaid Abdelhady](https://en.wikipedia.org/wiki/Feda_Musa_Zaid_Abdelhady) | [HarrowAdelphus](https://en.wikipedia.org/wiki/User:HarrowAdelphus) | 6,069 |
-| 2026-10-05 23:02:39 | [Linda Vaillant](https://en.wikipedia.org/wiki/Linda_Vaillant) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 895 |
-| 2026-10-05 23:02:46 | [Account Takeover](https://en.wikipedia.org/wiki/Account_Takeover) | [RealTimeAir](https://en.wikipedia.org/wiki/User:RealTimeAir) | 1,430 |
-| 2026-10-05 23:06:05 | [Stephan Fogaing](https://en.wikipedia.org/wiki/Stephan_Fogaing) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 830 |
-| 2026-10-05 23:08:24 | [Mathieu Lebrun](https://en.wikipedia.org/wiki/Mathieu_Lebrun) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 842 |
-| 2026-10-05 23:12:00 | [Alexandre Daneau](https://en.wikipedia.org/wiki/Alexandre_Daneau) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 898 |
-| 2026-10-05 23:16:34 | [Maxime Laporte](https://en.wikipedia.org/wiki/Maxime_Laporte) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 870 |
+| 2026-10-05 23:20:54 | [Patrick Paquet](https://en.wikipedia.org/wiki/Patrick_Paquet) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 950 |
+| 2026-10-05 23:23:08 | [Caroline De Guire](https://en.wikipedia.org/wiki/Caroline_De_Guire) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 811 |
+| 2026-10-05 23:26:40 | [Karine Laflamme](https://en.wikipedia.org/wiki/Karine_Laflamme) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 957 |
+| 2026-10-05 23:26:57 | [Charlottetown Hops FC](https://en.wikipedia.org/wiki/Charlottetown_Hops_FC) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 1,362 |
+| 2026-10-05 23:29:06 | [Jan van Leeuwen (mystic)](https://en.wikipedia.org/wiki/Jan_van_Leeuwen_%28mystic%29) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 12,887 |
+| 2026-10-05 23:36:16 | [Jenny Ellida Åkesson](https://en.wikipedia.org/wiki/Jenny_Ellida_%C3%85kesson) | [Diogenes99](https://en.wikipedia.org/wiki/User:Diogenes99) | 29,090 |
+| 2026-10-05 23:39:04 | [David Logue](https://en.wikipedia.org/wiki/David_Logue) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 775 |
+| 2026-10-05 23:39:28 | [Astrid Alcayaga](https://en.wikipedia.org/wiki/Astrid_Alcayaga) | [Hay264](https://en.wikipedia.org/wiki/User:Hay264) | 40,757 |
+| 2026-10-05 23:42:16 | [Cécile Tremblay](https://en.wikipedia.org/wiki/C%C3%A9cile_Tremblay) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 942 |
+| 2026-10-05 23:43:35 | [Samsung Sens 810](https://en.wikipedia.org/wiki/Samsung_Sens_810) | [DigitalIceAge](https://en.wikipedia.org/wiki/User:DigitalIceAge) | 10,684 |
+| 2026-10-05 23:46:47 | [Louis Ialenti](https://en.wikipedia.org/wiki/Louis_Ialenti) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 841 |
+| 2026-10-05 23:50:40 | [Renaud Labrecque](https://en.wikipedia.org/wiki/Renaud_Labrecque) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 788 |
+| 2026-10-05 23:52:13 | [Doormats (play)](https://en.wikipedia.org/wiki/Doormats_%28play%29) | [Saratoga Sam](https://en.wikipedia.org/wiki/User:Saratoga_Sam) | 13,078 |
+| 2026-10-05 23:54:14 | [Olivier Bertin-Mahieux](https://en.wikipedia.org/wiki/Olivier_Bertin-Mahieux) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 856 |
+| 2026-10-05 23:54:36 | [List of constituencies and constituency associations of the Weimar Republic](https://en.wikipedia.org/wiki/List_of_constituencies_and_constituency_associations_of_the_Weimar_Republic) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 29,729 |
+| 2026-10-06 00:01:17 | [Robert Watson (comedian)](https://en.wikipedia.org/wiki/Robert_Watson_%28comedian%29) | [Bearcat](https://en.wikipedia.org/wiki/User:Bearcat) | 5,779 |
+| 2026-10-06 00:01:32 | [Ty Anderson (Canadian football)](https://en.wikipedia.org/wiki/Ty_Anderson_%28Canadian_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,061 |
+| 2026-10-06 00:10:13 | [165th Division](https://en.wikipedia.org/wiki/165th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 336 |
