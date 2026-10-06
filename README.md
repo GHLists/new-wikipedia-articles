@@ -13,48 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-06 13:19 UTC](data/en/new-articles-2026-10-06T13-19-12Z.csv) | 16 |
-| Japanese | `ja` | [2026-10-06 13:19 UTC](data/ja/new-articles-2026-10-06T13-19-12Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-06 13:19 UTC](data/zh/new-articles-2026-10-06T13-19-12Z.csv) | 4 |
-| French | `fr` | [2026-10-06 13:19 UTC](data/fr/new-articles-2026-10-06T13-19-12Z.csv) | 11 |
-| German | `de` | [2026-10-06 13:19 UTC](data/de/new-articles-2026-10-06T13-19-12Z.csv) | 12 |
-| Russian | `ru` | [2026-10-06 13:19 UTC](data/ru/new-articles-2026-10-06T13-19-12Z.csv) | 11 |
-| Spanish | `es` | [2026-10-06 13:19 UTC](data/es/new-articles-2026-10-06T13-19-12Z.csv) | 12 |
-| Italian | `it` | [2026-10-06 13:19 UTC](data/it/new-articles-2026-10-06T13-19-12Z.csv) | 7 |
-| Portuguese | `pt` | [2026-10-06 13:19 UTC](data/pt/new-articles-2026-10-06T13-19-12Z.csv) | 15 |
-| Polish | `pl` | [2026-10-06 13:19 UTC](data/pl/new-articles-2026-10-06T13-19-12Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-06 13:19 UTC](data/ar/new-articles-2026-10-06T13-19-12Z.csv) | 7 |
-| Persian | `fa` | [2026-10-06 13:19 UTC](data/fa/new-articles-2026-10-06T13-19-12Z.csv) | 4 |
-| Turkish | `tr` | [2026-10-06 13:19 UTC](data/tr/new-articles-2026-10-06T13-19-12Z.csv) | 8 |
-| Hebrew | `he` | [2026-10-06 13:19 UTC](data/he/new-articles-2026-10-06T13-19-12Z.csv) | 10 |
-| Swedish | `sv` | [2026-10-06 13:19 UTC](data/sv/new-articles-2026-10-06T13-19-12Z.csv) | 6 |
-| Dutch | `nl` | [2026-10-06 13:19 UTC](data/nl/new-articles-2026-10-06T13-19-12Z.csv) | 6 |
-| Korean | `ko` | [2026-10-06 13:19 UTC](data/ko/new-articles-2026-10-06T13-19-12Z.csv) | 8 |
-| Indonesian | `id` | [2026-10-06 13:19 UTC](data/id/new-articles-2026-10-06T13-19-12Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-10-06 13:19 UTC](data/uk/new-articles-2026-10-06T13-19-12Z.csv) | 9 |
+| English | `en` | [2026-10-06 14:18 UTC](data/en/new-articles-2026-10-06T14-18-33Z.csv) | 21 |
+| Japanese | `ja` | [2026-10-06 14:18 UTC](data/ja/new-articles-2026-10-06T14-18-33Z.csv) | 9 |
+| Chinese | `zh` | [2026-10-06 14:18 UTC](data/zh/new-articles-2026-10-06T14-18-33Z.csv) | 8 |
+| French | `fr` | [2026-10-06 14:18 UTC](data/fr/new-articles-2026-10-06T14-18-33Z.csv) | 14 |
+| German | `de` | [2026-10-06 14:18 UTC](data/de/new-articles-2026-10-06T14-18-33Z.csv) | 7 |
+| Russian | `ru` | [2026-10-06 14:18 UTC](data/ru/new-articles-2026-10-06T14-18-33Z.csv) | 13 |
+| Spanish | `es` | [2026-10-06 14:18 UTC](data/es/new-articles-2026-10-06T14-18-33Z.csv) | 38 |
+| Italian | `it` | [2026-10-06 14:18 UTC](data/it/new-articles-2026-10-06T14-18-33Z.csv) | 11 |
+| Portuguese | `pt` | [2026-10-06 14:18 UTC](data/pt/new-articles-2026-10-06T14-18-33Z.csv) | 8 |
+| Polish | `pl` | [2026-10-06 14:18 UTC](data/pl/new-articles-2026-10-06T14-18-33Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-06 14:18 UTC](data/ar/new-articles-2026-10-06T14-18-33Z.csv) | 3 |
+| Persian | `fa` | [2026-10-06 14:18 UTC](data/fa/new-articles-2026-10-06T14-18-33Z.csv) | 7 |
+| Turkish | `tr` | [2026-10-06 14:18 UTC](data/tr/new-articles-2026-10-06T14-18-33Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-06 14:18 UTC](data/he/new-articles-2026-10-06T14-18-33Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-06 14:18 UTC](data/sv/new-articles-2026-10-06T14-18-33Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-06 14:18 UTC](data/nl/new-articles-2026-10-06T14-18-33Z.csv) | 4 |
+| Korean | `ko` | [2026-10-06 14:18 UTC](data/ko/new-articles-2026-10-06T14-18-33Z.csv) | 11 |
+| Indonesian | `id` | [2026-10-06 14:18 UTC](data/id/new-articles-2026-10-06T14-18-33Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-10-06 14:18 UTC](data/uk/new-articles-2026-10-06T14-18-33Z.csv) | 10 |
 | Vietnamese | `vi` | [2026-10-06 13:19 UTC](data/vi/new-articles-2026-10-06T13-19-12Z.csv) | 3 |
 
-## English (en) — 2026-10-06 13:19 UTC
+## English (en) — 2026-10-06 14:18 UTC
 
-New articles created between 2026-10-06 12:19 UTC and 2026-10-06 13:19 UTC.
+New articles created between 2026-10-06 13:19 UTC and 2026-10-06 14:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-06T13-19-12Z.csv)
+[Full CSV](data/en/new-articles-2026-10-06T14-18-33Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-06 12:28:50 | [Chaoui confederations](https://en.wikipedia.org/wiki/Chaoui_confederations) | [Deceptecon](https://en.wikipedia.org/wiki/User:Deceptecon) | 17,342 |
-| 2026-10-06 12:29:43 | [Stanislao Zurlo](https://en.wikipedia.org/wiki/Stanislao_Zurlo) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,867 |
-| 2026-10-06 12:32:38 | [Tingban-Paab](https://en.wikipedia.org/wiki/Tingban-Paab) | [Score Beethoven](https://en.wikipedia.org/wiki/User:Score_Beethoven) | 5,671 |
-| 2026-10-06 12:34:10 | [Ornaghi](https://en.wikipedia.org/wiki/Ornaghi) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 205 |
-| 2026-10-06 12:35:02 | [Upper Geary River Falls](https://en.wikipedia.org/wiki/Upper_Geary_River_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,165 |
-| 2026-10-06 12:40:22 | [Changhua County Constituency 1](https://en.wikipedia.org/wiki/Changhua_County_Constituency_1) | [CptnPhasma](https://en.wikipedia.org/wiki/User:CptnPhasma) | 2,871 |
-| 2026-10-06 12:43:58 | [2026 Estonian education workers' strike](https://en.wikipedia.org/wiki/2026_Estonian_education_workers%27_strike) | [AWorldWithout](https://en.wikipedia.org/wiki/User:AWorldWithout) | 1,306 |
-| 2026-10-06 12:45:42 | [Geary River Falls](https://en.wikipedia.org/wiki/Geary_River_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,645 |
-| 2026-10-06 12:51:33 | [Panthadikkaam!](https://en.wikipedia.org/wiki/Panthadikkaam%21) | [DavidDiscoverer](https://en.wikipedia.org/wiki/User:DavidDiscoverer) | 5,156 |
-| 2026-10-06 12:56:27 | [Iluka Falls](https://en.wikipedia.org/wiki/Iluka_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,404 |
-| 2026-10-06 12:58:30 | [State Liability and the Law: A Historical and Comparative Analysis](https://en.wikipedia.org/wiki/State_Liability_and_the_Law%3A_A_Historical_and_Comparative_Analysis) | [RetiredResearchKing123](https://en.wikipedia.org/wiki/User:RetiredResearchKing123) | 9,533 |
-| 2026-10-06 12:59:22 | [Hồng Quang](https://en.wikipedia.org/wiki/H%E1%BB%93ng_Quang) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,421 |
-| 2026-10-06 13:02:09 | [Sonia Draga](https://en.wikipedia.org/wiki/Sonia_Draga) | [ELindas](https://en.wikipedia.org/wiki/User:ELindas) | 1,872 |
-| 2026-10-06 13:06:43 | [Mirage Falls](https://en.wikipedia.org/wiki/Mirage_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,364 |
-| 2026-10-06 13:07:20 | [2026 Bahçeşehir School Attack](https://en.wikipedia.org/wiki/2026_Bah%C3%A7e%C5%9Fehir_School_Attack) | [Wikipedist Historian](https://en.wikipedia.org/wiki/User:Wikipedist_Historian) | 1,548 |
-| 2026-10-06 13:18:44 | [Commander D](https://en.wikipedia.org/wiki/Commander_D) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 2,391 |
+| 2026-10-06 13:21:07 | [Nemzeti Lovarda](https://en.wikipedia.org/wiki/Nemzeti_Lovarda) | [Berocca Addict](https://en.wikipedia.org/wiki/User:Berocca_Addict) | 20,498 |
+| 2026-10-06 13:22:57 | [Unai Sordo](https://en.wikipedia.org/wiki/Unai_Sordo) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,414 |
+| 2026-10-06 13:24:08 | [Upper Elliot River Falls](https://en.wikipedia.org/wiki/Upper_Elliot_River_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,263 |
+| 2026-10-06 13:30:57 | [Tainah Marinho](https://en.wikipedia.org/wiki/Tainah_Marinho) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,866 |
+| 2026-10-06 13:31:04 | [Giannis Stavrou](https://en.wikipedia.org/wiki/Giannis_Stavrou) | [BEN917](https://en.wikipedia.org/wiki/User:BEN917) | 3,710 |
+| 2026-10-06 13:41:17 | [Elliot River Falls](https://en.wikipedia.org/wiki/Elliot_River_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,968 |
+| 2026-10-06 13:46:53 | [History of World Baseball Classic](https://en.wikipedia.org/wiki/History_of_World_Baseball_Classic) | [Vebaseball9](https://en.wikipedia.org/wiki/User:Vebaseball9) | 35,600 |
+| 2026-10-06 13:47:55 | [Oak House, Richmond](https://en.wikipedia.org/wiki/Oak_House%2C_Richmond) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 2,839 |
+| 2026-10-06 13:48:18 | [Irkutsk Anti-Plague Institute](https://en.wikipedia.org/wiki/Irkutsk_Anti-Plague_Institute) | [CharlieMehta](https://en.wikipedia.org/wiki/User:CharlieMehta) | 9,238 |
+| 2026-10-06 13:48:21 | [Old Palace Place](https://en.wikipedia.org/wiki/Old_Palace_Place) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,360 |
+| 2026-10-06 13:52:55 | [Samanda de Lula](https://en.wikipedia.org/wiki/Samanda_de_Lula) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,927 |
+| 2026-10-06 13:53:03 | [Rakshit Tandon](https://en.wikipedia.org/wiki/Rakshit_Tandon) | [Letsmakeitofficial](https://en.wikipedia.org/wiki/User:Letsmakeitofficial) | 16,515 |
+| 2026-10-06 13:55:13 | [.meow](https://en.wikipedia.org/wiki/.meow) | [PhotographyEdits](https://en.wikipedia.org/wiki/User:PhotographyEdits) | 875 |
+| 2026-10-06 13:59:50 | [Aion 2 (video game)](https://en.wikipedia.org/wiki/Aion_2_%28video_game%29) | [Farhanansari1994](https://en.wikipedia.org/wiki/User:Farhanansari1994) | 30,113 |
+| 2026-10-06 14:00:38 | [Bdjobs](https://en.wikipedia.org/wiki/Bdjobs) | [Greatder](https://en.wikipedia.org/wiki/User:Greatder) | 1,846 |
+| 2026-10-06 14:05:12 | [Old Friars](https://en.wikipedia.org/wiki/Old_Friars) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,279 |
+| 2026-10-06 14:05:44 | [Aidos Myrzahmetov](https://en.wikipedia.org/wiki/Aidos_Myrzahmetov) | [Aaina26](https://en.wikipedia.org/wiki/User:Aaina26) | 3,439 |
+| 2026-10-06 14:06:57 | [Aqueduc d'Azille](https://en.wikipedia.org/wiki/Aqueduc_d%27Azille) | [Skopien](https://en.wikipedia.org/wiki/User:Skopien) | 4,339 |
+| 2026-10-06 14:09:11 | [Julie White (politician)](https://en.wikipedia.org/wiki/Julie_White_%28politician%29) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 571 |
+| 2026-10-06 14:10:48 | [Sala Unirii](https://en.wikipedia.org/wiki/Sala_Unirii) | [Boubloub](https://en.wikipedia.org/wiki/User:Boubloub) | 5,022 |
+| 2026-10-06 14:17:18 | [Pürevdorj Mörön](https://en.wikipedia.org/wiki/P%C3%BCrevdorj_M%C3%B6r%C3%B6n) | [Tschin As](https://en.wikipedia.org/wiki/User:Tschin_As) | 826 |
