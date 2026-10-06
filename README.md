@@ -13,53 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-06 14:18 UTC](data/en/new-articles-2026-10-06T14-18-33Z.csv) | 21 |
-| Japanese | `ja` | [2026-10-06 14:18 UTC](data/ja/new-articles-2026-10-06T14-18-33Z.csv) | 9 |
-| Chinese | `zh` | [2026-10-06 14:18 UTC](data/zh/new-articles-2026-10-06T14-18-33Z.csv) | 8 |
-| French | `fr` | [2026-10-06 14:18 UTC](data/fr/new-articles-2026-10-06T14-18-33Z.csv) | 14 |
-| German | `de` | [2026-10-06 14:18 UTC](data/de/new-articles-2026-10-06T14-18-33Z.csv) | 7 |
-| Russian | `ru` | [2026-10-06 14:18 UTC](data/ru/new-articles-2026-10-06T14-18-33Z.csv) | 13 |
-| Spanish | `es` | [2026-10-06 14:18 UTC](data/es/new-articles-2026-10-06T14-18-33Z.csv) | 38 |
-| Italian | `it` | [2026-10-06 14:18 UTC](data/it/new-articles-2026-10-06T14-18-33Z.csv) | 11 |
-| Portuguese | `pt` | [2026-10-06 14:18 UTC](data/pt/new-articles-2026-10-06T14-18-33Z.csv) | 8 |
-| Polish | `pl` | [2026-10-06 14:18 UTC](data/pl/new-articles-2026-10-06T14-18-33Z.csv) | 5 |
-| Arabic | `ar` | [2026-10-06 14:18 UTC](data/ar/new-articles-2026-10-06T14-18-33Z.csv) | 3 |
-| Persian | `fa` | [2026-10-06 14:18 UTC](data/fa/new-articles-2026-10-06T14-18-33Z.csv) | 7 |
-| Turkish | `tr` | [2026-10-06 14:18 UTC](data/tr/new-articles-2026-10-06T14-18-33Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-06 14:18 UTC](data/he/new-articles-2026-10-06T14-18-33Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-06 14:18 UTC](data/sv/new-articles-2026-10-06T14-18-33Z.csv) | 5 |
-| Dutch | `nl` | [2026-10-06 14:18 UTC](data/nl/new-articles-2026-10-06T14-18-33Z.csv) | 4 |
-| Korean | `ko` | [2026-10-06 14:18 UTC](data/ko/new-articles-2026-10-06T14-18-33Z.csv) | 11 |
-| Indonesian | `id` | [2026-10-06 14:18 UTC](data/id/new-articles-2026-10-06T14-18-33Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-10-06 14:18 UTC](data/uk/new-articles-2026-10-06T14-18-33Z.csv) | 10 |
-| Vietnamese | `vi` | [2026-10-06 13:19 UTC](data/vi/new-articles-2026-10-06T13-19-12Z.csv) | 3 |
+| English | `en` | [2026-10-06 15:20 UTC](data/en/new-articles-2026-10-06T15-20-54Z.csv) | 16 |
+| Japanese | `ja` | [2026-10-06 15:20 UTC](data/ja/new-articles-2026-10-06T15-20-54Z.csv) | 14 |
+| Chinese | `zh` | [2026-10-06 15:20 UTC](data/zh/new-articles-2026-10-06T15-20-54Z.csv) | 14 |
+| French | `fr` | [2026-10-06 15:20 UTC](data/fr/new-articles-2026-10-06T15-20-54Z.csv) | 20 |
+| German | `de` | [2026-10-06 15:20 UTC](data/de/new-articles-2026-10-06T15-20-54Z.csv) | 13 |
+| Russian | `ru` | [2026-10-06 15:20 UTC](data/ru/new-articles-2026-10-06T15-20-54Z.csv) | 9 |
+| Spanish | `es` | [2026-10-06 15:20 UTC](data/es/new-articles-2026-10-06T15-20-54Z.csv) | 24 |
+| Italian | `it` | [2026-10-06 15:20 UTC](data/it/new-articles-2026-10-06T15-20-54Z.csv) | 9 |
+| Portuguese | `pt` | [2026-10-06 15:20 UTC](data/pt/new-articles-2026-10-06T15-20-54Z.csv) | 8 |
+| Polish | `pl` | [2026-10-06 15:20 UTC](data/pl/new-articles-2026-10-06T15-20-54Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-06 15:20 UTC](data/ar/new-articles-2026-10-06T15-20-54Z.csv) | 3 |
+| Persian | `fa` | [2026-10-06 15:20 UTC](data/fa/new-articles-2026-10-06T15-20-54Z.csv) | 13 |
+| Turkish | `tr` | [2026-10-06 15:20 UTC](data/tr/new-articles-2026-10-06T15-20-54Z.csv) | 8 |
+| Hebrew | `he` | [2026-10-06 15:20 UTC](data/he/new-articles-2026-10-06T15-20-54Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-06 15:20 UTC](data/sv/new-articles-2026-10-06T15-20-54Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-06 15:20 UTC](data/nl/new-articles-2026-10-06T15-20-54Z.csv) | 6 |
+| Korean | `ko` | [2026-10-06 15:20 UTC](data/ko/new-articles-2026-10-06T15-20-54Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-06 15:20 UTC](data/id/new-articles-2026-10-06T15-20-54Z.csv) | 16 |
+| Ukrainian | `uk` | [2026-10-06 15:20 UTC](data/uk/new-articles-2026-10-06T15-20-54Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-10-06 15:20 UTC](data/vi/new-articles-2026-10-06T15-20-54Z.csv) | 1 |
 
-## English (en) — 2026-10-06 14:18 UTC
+## English (en) — 2026-10-06 15:20 UTC
 
-New articles created between 2026-10-06 13:19 UTC and 2026-10-06 14:18 UTC.
+New articles created between 2026-10-06 14:18 UTC and 2026-10-06 15:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-06T14-18-33Z.csv)
+[Full CSV](data/en/new-articles-2026-10-06T15-20-54Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-06 13:21:07 | [Nemzeti Lovarda](https://en.wikipedia.org/wiki/Nemzeti_Lovarda) | [Berocca Addict](https://en.wikipedia.org/wiki/User:Berocca_Addict) | 20,498 |
-| 2026-10-06 13:22:57 | [Unai Sordo](https://en.wikipedia.org/wiki/Unai_Sordo) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,414 |
-| 2026-10-06 13:24:08 | [Upper Elliot River Falls](https://en.wikipedia.org/wiki/Upper_Elliot_River_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,263 |
-| 2026-10-06 13:30:57 | [Tainah Marinho](https://en.wikipedia.org/wiki/Tainah_Marinho) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,866 |
-| 2026-10-06 13:31:04 | [Giannis Stavrou](https://en.wikipedia.org/wiki/Giannis_Stavrou) | [BEN917](https://en.wikipedia.org/wiki/User:BEN917) | 3,710 |
-| 2026-10-06 13:41:17 | [Elliot River Falls](https://en.wikipedia.org/wiki/Elliot_River_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,968 |
-| 2026-10-06 13:46:53 | [History of World Baseball Classic](https://en.wikipedia.org/wiki/History_of_World_Baseball_Classic) | [Vebaseball9](https://en.wikipedia.org/wiki/User:Vebaseball9) | 35,600 |
-| 2026-10-06 13:47:55 | [Oak House, Richmond](https://en.wikipedia.org/wiki/Oak_House%2C_Richmond) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 2,839 |
-| 2026-10-06 13:48:18 | [Irkutsk Anti-Plague Institute](https://en.wikipedia.org/wiki/Irkutsk_Anti-Plague_Institute) | [CharlieMehta](https://en.wikipedia.org/wiki/User:CharlieMehta) | 9,238 |
-| 2026-10-06 13:48:21 | [Old Palace Place](https://en.wikipedia.org/wiki/Old_Palace_Place) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,360 |
-| 2026-10-06 13:52:55 | [Samanda de Lula](https://en.wikipedia.org/wiki/Samanda_de_Lula) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,927 |
-| 2026-10-06 13:53:03 | [Rakshit Tandon](https://en.wikipedia.org/wiki/Rakshit_Tandon) | [Letsmakeitofficial](https://en.wikipedia.org/wiki/User:Letsmakeitofficial) | 16,515 |
-| 2026-10-06 13:55:13 | [.meow](https://en.wikipedia.org/wiki/.meow) | [PhotographyEdits](https://en.wikipedia.org/wiki/User:PhotographyEdits) | 875 |
-| 2026-10-06 13:59:50 | [Aion 2 (video game)](https://en.wikipedia.org/wiki/Aion_2_%28video_game%29) | [Farhanansari1994](https://en.wikipedia.org/wiki/User:Farhanansari1994) | 30,113 |
-| 2026-10-06 14:00:38 | [Bdjobs](https://en.wikipedia.org/wiki/Bdjobs) | [Greatder](https://en.wikipedia.org/wiki/User:Greatder) | 1,846 |
-| 2026-10-06 14:05:12 | [Old Friars](https://en.wikipedia.org/wiki/Old_Friars) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,279 |
-| 2026-10-06 14:05:44 | [Aidos Myrzahmetov](https://en.wikipedia.org/wiki/Aidos_Myrzahmetov) | [Aaina26](https://en.wikipedia.org/wiki/User:Aaina26) | 3,439 |
-| 2026-10-06 14:06:57 | [Aqueduc d'Azille](https://en.wikipedia.org/wiki/Aqueduc_d%27Azille) | [Skopien](https://en.wikipedia.org/wiki/User:Skopien) | 4,339 |
-| 2026-10-06 14:09:11 | [Julie White (politician)](https://en.wikipedia.org/wiki/Julie_White_%28politician%29) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 571 |
-| 2026-10-06 14:10:48 | [Sala Unirii](https://en.wikipedia.org/wiki/Sala_Unirii) | [Boubloub](https://en.wikipedia.org/wiki/User:Boubloub) | 5,022 |
-| 2026-10-06 14:17:18 | [Pürevdorj Mörön](https://en.wikipedia.org/wiki/P%C3%BCrevdorj_M%C3%B6r%C3%B6n) | [Tschin As](https://en.wikipedia.org/wiki/User:Tschin_As) | 826 |
+| 2026-10-06 14:19:34 | [Yal (TV series)](https://en.wikipedia.org/wiki/Yal_%28TV_series%29) | [KianXBe](https://en.wikipedia.org/wiki/User:KianXBe) | 1,157 |
+| 2026-10-06 14:22:38 | [Karel Rusov](https://en.wikipedia.org/wiki/Karel_Rusov) | [Aaina26](https://en.wikipedia.org/wiki/User:Aaina26) | 1,855 |
+| 2026-10-06 14:24:26 | [2025–26 Orlando Pirates F.C. season](https://en.wikipedia.org/wiki/2025%E2%80%9326_Orlando_Pirates_F.C._season) | [Mbalentle Sinalo](https://en.wikipedia.org/wiki/User:Mbalentle_Sinalo) | 4,859 |
+| 2026-10-06 14:27:01 | [Edward Francis (bacteriologist)](https://en.wikipedia.org/wiki/Edward_Francis_%28bacteriologist%29) | [Kelubact](https://en.wikipedia.org/wiki/User:Kelubact) | 1,230 |
+| 2026-10-06 14:34:22 | [Spanish destroyer Proserpina](https://en.wikipedia.org/wiki/Spanish_destroyer_Proserpina) | [Mdnavman](https://en.wikipedia.org/wiki/User:Mdnavman) | 24,205 |
+| 2026-10-06 14:39:48 | [Bitten (2023 film)](https://en.wikipedia.org/wiki/Bitten_%282023_film%29) | [Normospheric](https://en.wikipedia.org/wiki/User:Normospheric) | 7,054 |
+| 2026-10-06 14:40:41 | [Project Appraisal and Valuation of the Environment](https://en.wikipedia.org/wiki/Project_Appraisal_and_Valuation_of_the_Environment) | [RetiredResearchKing123](https://en.wikipedia.org/wiki/User:RetiredResearchKing123) | 11,348 |
+| 2026-10-06 14:41:05 | [Gatton (surname)](https://en.wikipedia.org/wiki/Gatton_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 190 |
+| 2026-10-06 14:42:59 | [Celia Jakubowicz](https://en.wikipedia.org/wiki/Celia_Jakubowicz) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 7,403 |
+| 2026-10-06 14:45:06 | [Spanish ship Proserpina](https://en.wikipedia.org/wiki/Spanish_ship_Proserpina) | [Mdnavman](https://en.wikipedia.org/wiki/User:Mdnavman) | 691 |
+| 2026-10-06 14:52:49 | [Hôtel de Ville, Villeneuve-le-Roi](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Villeneuve-le-Roi) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 8,160 |
+| 2026-10-06 14:57:32 | [Natália Boulos](https://en.wikipedia.org/wiki/Nat%C3%A1lia_Boulos) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,984 |
+| 2026-10-06 15:04:02 | [Terry C. Carney](https://en.wikipedia.org/wiki/Terry_C._Carney) | [Salaviska](https://en.wikipedia.org/wiki/User:Salaviska) | 3,520 |
+| 2026-10-06 15:07:08 | [Andreas, 8th Prince of Leiningen](https://en.wikipedia.org/wiki/Andreas%2C_8th_Prince_of_Leiningen) | [Mrstupid692](https://en.wikipedia.org/wiki/User:Mrstupid692) | 1,390 |
+| 2026-10-06 15:11:37 | [Lichliter Mound and Village Site](https://en.wikipedia.org/wiki/Lichliter_Mound_and_Village_Site) | [Hoof Hearted](https://en.wikipedia.org/wiki/User:Hoof_Hearted) | 3,172 |
+| 2026-10-06 15:12:47 | [Carew Manor](https://en.wikipedia.org/wiki/Carew_Manor) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,736 |
