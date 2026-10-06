@@ -13,50 +13,55 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-06 00:18 UTC](data/en/new-articles-2026-10-06T00-18-53Z.csv) | 18 |
-| Japanese | `ja` | [2026-10-06 00:18 UTC](data/ja/new-articles-2026-10-06T00-18-53Z.csv) | 14 |
-| Chinese | `zh` | [2026-10-06 00:18 UTC](data/zh/new-articles-2026-10-06T00-18-53Z.csv) | 3 |
-| French | `fr` | [2026-10-06 00:18 UTC](data/fr/new-articles-2026-10-06T00-18-53Z.csv) | 4 |
-| German | `de` | [2026-10-06 00:18 UTC](data/de/new-articles-2026-10-06T00-18-53Z.csv) | 2 |
-| Russian | `ru` | [2026-10-06 00:18 UTC](data/ru/new-articles-2026-10-06T00-18-53Z.csv) | 7 |
-| Spanish | `es` | [2026-10-06 00:18 UTC](data/es/new-articles-2026-10-06T00-18-53Z.csv) | 4 |
-| Italian | `it` | [2026-10-06 00:18 UTC](data/it/new-articles-2026-10-06T00-18-53Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-06 00:18 UTC](data/pt/new-articles-2026-10-06T00-18-53Z.csv) | 6 |
+| English | `en` | [2026-10-06 01:19 UTC](data/en/new-articles-2026-10-06T01-19-09Z.csv) | 23 |
+| Japanese | `ja` | [2026-10-06 01:19 UTC](data/ja/new-articles-2026-10-06T01-19-09Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-06 01:19 UTC](data/zh/new-articles-2026-10-06T01-19-09Z.csv) | 1 |
+| French | `fr` | [2026-10-06 01:19 UTC](data/fr/new-articles-2026-10-06T01-19-09Z.csv) | 5 |
+| German | `de` | [2026-10-06 01:19 UTC](data/de/new-articles-2026-10-06T01-19-09Z.csv) | 1 |
+| Russian | `ru` | [2026-10-06 01:19 UTC](data/ru/new-articles-2026-10-06T01-19-09Z.csv) | 5 |
+| Spanish | `es` | [2026-10-06 01:19 UTC](data/es/new-articles-2026-10-06T01-19-09Z.csv) | 3 |
+| Italian | `it` | [2026-10-06 01:19 UTC](data/it/new-articles-2026-10-06T01-19-09Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-06 01:19 UTC](data/pt/new-articles-2026-10-06T01-19-09Z.csv) | 6 |
 | Polish | `pl` | [2026-10-06 00:18 UTC](data/pl/new-articles-2026-10-06T00-18-53Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-06 00:18 UTC](data/ar/new-articles-2026-10-06T00-18-53Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-06 01:19 UTC](data/ar/new-articles-2026-10-06T01-19-09Z.csv) | 8 |
 | Persian | `fa` | [2026-10-06 00:18 UTC](data/fa/new-articles-2026-10-06T00-18-53Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-06 00:18 UTC](data/tr/new-articles-2026-10-06T00-18-53Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-06 01:19 UTC](data/tr/new-articles-2026-10-06T01-19-09Z.csv) | 1 |
 | Hebrew | `he` | [2026-10-05 22:21 UTC](data/he/new-articles-2026-10-05T22-21-34Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-05 23:18 UTC](data/sv/new-articles-2026-10-05T23-18-35Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-06 00:18 UTC](data/nl/new-articles-2026-10-06T00-18-53Z.csv) | 1 |
-| Korean | `ko` | [2026-10-06 00:18 UTC](data/ko/new-articles-2026-10-06T00-18-53Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-06 00:18 UTC](data/id/new-articles-2026-10-06T00-18-53Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-10-06 00:18 UTC](data/uk/new-articles-2026-10-06T00-18-53Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-05 23:18 UTC](data/vi/new-articles-2026-10-05T23-18-35Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-06 01:19 UTC](data/sv/new-articles-2026-10-06T01-19-09Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-06 01:19 UTC](data/nl/new-articles-2026-10-06T01-19-09Z.csv) | 1 |
+| Korean | `ko` | [2026-10-06 01:19 UTC](data/ko/new-articles-2026-10-06T01-19-09Z.csv) | 4 |
+| Indonesian | `id` | [2026-10-06 01:19 UTC](data/id/new-articles-2026-10-06T01-19-09Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-06 01:19 UTC](data/uk/new-articles-2026-10-06T01-19-09Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-10-06 01:19 UTC](data/vi/new-articles-2026-10-06T01-19-09Z.csv) | 2 |
 
-## English (en) — 2026-10-06 00:18 UTC
+## English (en) — 2026-10-06 01:19 UTC
 
-New articles created between 2026-10-05 23:18 UTC and 2026-10-06 00:18 UTC.
+New articles created between 2026-10-06 00:18 UTC and 2026-10-06 01:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-06T00-18-53Z.csv)
+[Full CSV](data/en/new-articles-2026-10-06T01-19-09Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-05 23:20:54 | [Patrick Paquet](https://en.wikipedia.org/wiki/Patrick_Paquet) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 950 |
-| 2026-10-05 23:23:08 | [Caroline De Guire](https://en.wikipedia.org/wiki/Caroline_De_Guire) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 811 |
-| 2026-10-05 23:26:40 | [Karine Laflamme](https://en.wikipedia.org/wiki/Karine_Laflamme) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 957 |
-| 2026-10-05 23:26:57 | [Charlottetown Hops FC](https://en.wikipedia.org/wiki/Charlottetown_Hops_FC) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 1,362 |
-| 2026-10-05 23:29:06 | [Jan van Leeuwen (mystic)](https://en.wikipedia.org/wiki/Jan_van_Leeuwen_%28mystic%29) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 12,887 |
-| 2026-10-05 23:36:16 | [Jenny Ellida Åkesson](https://en.wikipedia.org/wiki/Jenny_Ellida_%C3%85kesson) | [Diogenes99](https://en.wikipedia.org/wiki/User:Diogenes99) | 29,090 |
-| 2026-10-05 23:39:04 | [David Logue](https://en.wikipedia.org/wiki/David_Logue) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 775 |
-| 2026-10-05 23:39:28 | [Astrid Alcayaga](https://en.wikipedia.org/wiki/Astrid_Alcayaga) | [Hay264](https://en.wikipedia.org/wiki/User:Hay264) | 40,757 |
-| 2026-10-05 23:42:16 | [Cécile Tremblay](https://en.wikipedia.org/wiki/C%C3%A9cile_Tremblay) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 942 |
-| 2026-10-05 23:43:35 | [Samsung Sens 810](https://en.wikipedia.org/wiki/Samsung_Sens_810) | [DigitalIceAge](https://en.wikipedia.org/wiki/User:DigitalIceAge) | 10,684 |
-| 2026-10-05 23:46:47 | [Louis Ialenti](https://en.wikipedia.org/wiki/Louis_Ialenti) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 841 |
-| 2026-10-05 23:50:40 | [Renaud Labrecque](https://en.wikipedia.org/wiki/Renaud_Labrecque) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 788 |
-| 2026-10-05 23:52:13 | [Doormats (play)](https://en.wikipedia.org/wiki/Doormats_%28play%29) | [Saratoga Sam](https://en.wikipedia.org/wiki/User:Saratoga_Sam) | 13,078 |
-| 2026-10-05 23:54:14 | [Olivier Bertin-Mahieux](https://en.wikipedia.org/wiki/Olivier_Bertin-Mahieux) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 856 |
-| 2026-10-05 23:54:36 | [List of constituencies and constituency associations of the Weimar Republic](https://en.wikipedia.org/wiki/List_of_constituencies_and_constituency_associations_of_the_Weimar_Republic) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 29,729 |
-| 2026-10-06 00:01:17 | [Robert Watson (comedian)](https://en.wikipedia.org/wiki/Robert_Watson_%28comedian%29) | [Bearcat](https://en.wikipedia.org/wiki/User:Bearcat) | 5,779 |
-| 2026-10-06 00:01:32 | [Ty Anderson (Canadian football)](https://en.wikipedia.org/wiki/Ty_Anderson_%28Canadian_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,061 |
-| 2026-10-06 00:10:13 | [165th Division](https://en.wikipedia.org/wiki/165th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 336 |
+| 2026-10-06 00:19:09 | [166th Division](https://en.wikipedia.org/wiki/166th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 493 |
+| 2026-10-06 00:21:35 | [Endiandra montana](https://en.wikipedia.org/wiki/Endiandra_montana) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 6,950 |
+| 2026-10-06 00:22:09 | [Ronald Smoko](https://en.wikipedia.org/wiki/Ronald_Smoko) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,434 |
+| 2026-10-06 00:26:35 | [Hylaeus aralis](https://en.wikipedia.org/wiki/Hylaeus_aralis) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,556 |
+| 2026-10-06 00:26:38 | [167th Division](https://en.wikipedia.org/wiki/167th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 431 |
+| 2026-10-06 00:28:07 | [Thaainilam](https://en.wikipedia.org/wiki/Thaainilam) | [KBaboo](https://en.wikipedia.org/wiki/User:KBaboo) | 5,175 |
+| 2026-10-06 00:30:11 | [Lefty Reitz](https://en.wikipedia.org/wiki/Lefty_Reitz) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 9,307 |
+| 2026-10-06 00:30:17 | [168th Division](https://en.wikipedia.org/wiki/168th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 300 |
+| 2026-10-06 00:35:44 | [Sage Lake](https://en.wikipedia.org/wiki/Sage_Lake) | [AmatureHistorian47](https://en.wikipedia.org/wiki/User:AmatureHistorian47) | 2,996 |
+| 2026-10-06 00:48:15 | [Dieudonné Ella Oyono](https://en.wikipedia.org/wiki/Dieudonn%C3%A9_Ella_Oyono) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 25 |
+| 2026-10-06 00:50:43 | [Éloïse Coulombe](https://en.wikipedia.org/wiki/%C3%89lo%C3%AFse_Coulombe) | [Ornithoptera](https://en.wikipedia.org/wiki/User:Ornithoptera) | 433 |
+| 2026-10-06 00:55:39 | [Pat Mintey](https://en.wikipedia.org/wiki/Pat_Mintey) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 11,579 |
+| 2026-10-06 00:59:46 | [Karhongo](https://en.wikipedia.org/wiki/Karhongo) | [EdwinAlden.1995](https://en.wikipedia.org/wiki/User:EdwinAlden.1995) | 14,105 |
+| 2026-10-06 01:00:03 | [171st Division](https://en.wikipedia.org/wiki/171st_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 347 |
+| 2026-10-06 01:00:36 | [Madeleine Féquière](https://en.wikipedia.org/wiki/Madeleine_F%C3%A9qui%C3%A8re) | [Ornithoptera](https://en.wikipedia.org/wiki/User:Ornithoptera) | 187 |
+| 2026-10-06 01:00:42 | [Guy Lapointe Jr.](https://en.wikipedia.org/wiki/Guy_Lapointe_Jr.) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 68 |
+| 2026-10-06 01:02:27 | [Kylan Guidry](https://en.wikipedia.org/wiki/Kylan_Guidry) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,210 |
+| 2026-10-06 01:03:30 | [172nd Division](https://en.wikipedia.org/wiki/172nd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 299 |
+| 2026-10-06 01:04:24 | [Edward Wiley (actor)](https://en.wikipedia.org/wiki/Edward_Wiley_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,231 |
+| 2026-10-06 01:06:30 | [173rd Division](https://en.wikipedia.org/wiki/173rd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 263 |
+| 2026-10-06 01:06:52 | [Odette Lavigne](https://en.wikipedia.org/wiki/Odette_Lavigne) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 907 |
+| 2026-10-06 01:10:21 | [Covert Public Schools](https://en.wikipedia.org/wiki/Covert_Public_Schools) | [Deepsnowi80](https://en.wikipedia.org/wiki/User:Deepsnowi80) | 4,573 |
+| 2026-10-06 01:17:09 | [Antoine Dionne-Charest](https://en.wikipedia.org/wiki/Antoine_Dionne-Charest) | [Ornithoptera](https://en.wikipedia.org/wiki/User:Ornithoptera) | 414 |
