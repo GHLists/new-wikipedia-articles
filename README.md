@@ -13,53 +13,56 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-07 09:18 UTC](data/en/new-articles-2026-10-07T09-18-41Z.csv) | 21 |
-| Japanese | `ja` | [2026-10-07 09:18 UTC](data/ja/new-articles-2026-10-07T09-18-41Z.csv) | 7 |
-| Chinese | `zh` | [2026-10-07 09:18 UTC](data/zh/new-articles-2026-10-07T09-18-41Z.csv) | 10 |
-| French | `fr` | [2026-10-07 09:18 UTC](data/fr/new-articles-2026-10-07T09-18-41Z.csv) | 5 |
-| German | `de` | [2026-10-07 09:18 UTC](data/de/new-articles-2026-10-07T09-18-41Z.csv) | 13 |
-| Russian | `ru` | [2026-10-07 09:18 UTC](data/ru/new-articles-2026-10-07T09-18-41Z.csv) | 12 |
-| Spanish | `es` | [2026-10-07 09:18 UTC](data/es/new-articles-2026-10-07T09-18-41Z.csv) | 5 |
-| Italian | `it` | [2026-10-07 09:18 UTC](data/it/new-articles-2026-10-07T09-18-41Z.csv) | 10 |
-| Portuguese | `pt` | [2026-10-07 08:19 UTC](data/pt/new-articles-2026-10-07T08-19-19Z.csv) | 1 |
-| Polish | `pl` | [2026-10-07 09:18 UTC](data/pl/new-articles-2026-10-07T09-18-41Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-07 09:18 UTC](data/ar/new-articles-2026-10-07T09-18-41Z.csv) | 4 |
-| Persian | `fa` | [2026-10-07 09:18 UTC](data/fa/new-articles-2026-10-07T09-18-41Z.csv) | 10 |
-| Turkish | `tr` | [2026-10-07 07:19 UTC](data/tr/new-articles-2026-10-07T07-19-23Z.csv) | 3 |
-| Hebrew | `he` | [2026-10-07 09:18 UTC](data/he/new-articles-2026-10-07T09-18-41Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-07 09:18 UTC](data/sv/new-articles-2026-10-07T09-18-41Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-07 09:18 UTC](data/nl/new-articles-2026-10-07T09-18-41Z.csv) | 9 |
-| Korean | `ko` | [2026-10-07 09:18 UTC](data/ko/new-articles-2026-10-07T09-18-41Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-07 09:18 UTC](data/id/new-articles-2026-10-07T09-18-41Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-10-07 08:19 UTC](data/uk/new-articles-2026-10-07T08-19-19Z.csv) | 3 |
+| English | `en` | [2026-10-07 10:18 UTC](data/en/new-articles-2026-10-07T10-18-37Z.csv) | 24 |
+| Japanese | `ja` | [2026-10-07 10:18 UTC](data/ja/new-articles-2026-10-07T10-18-37Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-07 10:18 UTC](data/zh/new-articles-2026-10-07T10-18-37Z.csv) | 6 |
+| French | `fr` | [2026-10-07 10:18 UTC](data/fr/new-articles-2026-10-07T10-18-37Z.csv) | 17 |
+| German | `de` | [2026-10-07 10:18 UTC](data/de/new-articles-2026-10-07T10-18-37Z.csv) | 23 |
+| Russian | `ru` | [2026-10-07 10:18 UTC](data/ru/new-articles-2026-10-07T10-18-37Z.csv) | 16 |
+| Spanish | `es` | [2026-10-07 10:18 UTC](data/es/new-articles-2026-10-07T10-18-37Z.csv) | 1 |
+| Italian | `it` | [2026-10-07 10:18 UTC](data/it/new-articles-2026-10-07T10-18-37Z.csv) | 14 |
+| Portuguese | `pt` | [2026-10-07 10:18 UTC](data/pt/new-articles-2026-10-07T10-18-37Z.csv) | 1 |
+| Polish | `pl` | [2026-10-07 10:18 UTC](data/pl/new-articles-2026-10-07T10-18-37Z.csv) | 8 |
+| Arabic | `ar` | [2026-10-07 10:18 UTC](data/ar/new-articles-2026-10-07T10-18-37Z.csv) | 5 |
+| Persian | `fa` | [2026-10-07 10:18 UTC](data/fa/new-articles-2026-10-07T10-18-37Z.csv) | 6 |
+| Turkish | `tr` | [2026-10-07 10:18 UTC](data/tr/new-articles-2026-10-07T10-18-37Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-07 10:18 UTC](data/he/new-articles-2026-10-07T10-18-37Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-07 10:18 UTC](data/sv/new-articles-2026-10-07T10-18-37Z.csv) | 7 |
+| Dutch | `nl` | [2026-10-07 10:18 UTC](data/nl/new-articles-2026-10-07T10-18-37Z.csv) | 3 |
+| Korean | `ko` | [2026-10-07 10:18 UTC](data/ko/new-articles-2026-10-07T10-18-37Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-07 10:18 UTC](data/id/new-articles-2026-10-07T10-18-37Z.csv) | 9 |
+| Ukrainian | `uk` | [2026-10-07 10:18 UTC](data/uk/new-articles-2026-10-07T10-18-37Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-07 08:19 UTC](data/vi/new-articles-2026-10-07T08-19-19Z.csv) | 2 |
 
-## English (en) — 2026-10-07 09:18 UTC
+## English (en) — 2026-10-07 10:18 UTC
 
-New articles created between 2026-10-07 08:19 UTC and 2026-10-07 09:18 UTC.
+New articles created between 2026-10-07 09:18 UTC and 2026-10-07 10:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-07T09-18-41Z.csv)
+[Full CSV](data/en/new-articles-2026-10-07T10-18-37Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-07 08:19:39 | [Wendelstein 7-A](https://en.wikipedia.org/wiki/Wendelstein_7-A) | [Phranosaur](https://en.wikipedia.org/wiki/User:Phranosaur) | 4,619 |
-| 2026-10-07 08:21:12 | [Image of Purity](https://en.wikipedia.org/wiki/Image_of_Purity) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 3,267 |
-| 2026-10-07 08:22:43 | [Gilletianus reichei](https://en.wikipedia.org/wiki/Gilletianus_reichei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,156 |
-| 2026-10-07 08:26:02 | [Moduli:Sister project links/bar/styles.css](https://en.wikipedia.org/wiki/Moduli%3ASister_project_links/bar/styles.css) | [Fallbackintoreality](https://en.wikipedia.org/wiki/User:Fallbackintoreality) | 1,634 |
-| 2026-10-07 08:26:09 | [Georgie Smithers](https://en.wikipedia.org/wiki/Georgie_Smithers) | [Lachie23](https://en.wikipedia.org/wiki/User:Lachie23) | 5,686 |
-| 2026-10-07 08:29:20 | [R. Jitendra Gowd](https://en.wikipedia.org/wiki/R._Jitendra_Gowd) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,449 |
-| 2026-10-07 08:36:03 | [Katharina Wincor](https://en.wikipedia.org/wiki/Katharina_Wincor) | [Yadsalohcin](https://en.wikipedia.org/wiki/User:Yadsalohcin) | 7,078 |
-| 2026-10-07 08:36:36 | [Trichaphodius divisus](https://en.wikipedia.org/wiki/Trichaphodius_divisus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,996 |
-| 2026-10-07 08:39:53 | [Ozodius](https://en.wikipedia.org/wiki/Ozodius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,824 |
-| 2026-10-07 08:41:40 | [Sargento Nantes](https://en.wikipedia.org/wiki/Sargento_Nantes) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,714 |
-| 2026-10-07 08:42:30 | [Abdul Ahad (educationist)](https://en.wikipedia.org/wiki/Abdul_Ahad_%28educationist%29) | [Tender980](https://en.wikipedia.org/wiki/User:Tender980) | 3,244 |
-| 2026-10-07 08:44:25 | [Ozodius neglectus](https://en.wikipedia.org/wiki/Ozodius_neglectus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,239 |
-| 2026-10-07 08:44:44 | [Giuseppe Ravasio](https://en.wikipedia.org/wiki/Giuseppe_Ravasio) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,501 |
-| 2026-10-07 08:46:53 | [The Jubilee, York](https://en.wikipedia.org/wiki/The_Jubilee%2C_York) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 13,932 |
-| 2026-10-07 08:48:47 | [11th Critics' Choice Documentary Awards](https://en.wikipedia.org/wiki/11th_Critics%27_Choice_Documentary_Awards) | [Rickyurs](https://en.wikipedia.org/wiki/User:Rickyurs) | 2,580 |
-| 2026-10-07 08:50:27 | [Maria Kambuzi](https://en.wikipedia.org/wiki/Maria_Kambuzi) | [Victuallers](https://en.wikipedia.org/wiki/User:Victuallers) | 2,762 |
-| 2026-10-07 08:53:11 | [2026 Russian plague](https://en.wikipedia.org/wiki/2026_Russian_plague) | [Starkex](https://en.wikipedia.org/wiki/User:Starkex) | 1,300 |
-| 2026-10-07 08:57:46 | [Ozodius windyensis](https://en.wikipedia.org/wiki/Ozodius_windyensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,985 |
-| 2026-10-07 09:15:10 | [Ozodius canberrae](https://en.wikipedia.org/wiki/Ozodius_canberrae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,982 |
-| 2026-10-07 09:17:23 | [Kistarcsa internment camp](https://en.wikipedia.org/wiki/Kistarcsa_internment_camp) | [Berocca Addict](https://en.wikipedia.org/wiki/User:Berocca_Addict) | 28,144 |
-| 2026-10-07 09:17:30 | [Ozodius walpolensis](https://en.wikipedia.org/wiki/Ozodius_walpolensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,987 |
+| 2026-10-07 09:21:37 | [Acrossidius pseudotasmaniae](https://en.wikipedia.org/wiki/Acrossidius_pseudotasmaniae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,001 |
+| 2026-10-07 09:21:52 | [Thiago dos Reis](https://en.wikipedia.org/wiki/Thiago_dos_Reis) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,323 |
+| 2026-10-07 09:25:14 | [Battle of Aïn Charbou](https://en.wikipedia.org/wiki/Battle_of_A%C3%AFn_Charbou) | [Based tunisian](https://en.wikipedia.org/wiki/User:Based_tunisian) | 3,385 |
+| 2026-10-07 09:29:05 | [Part of Eternity (חלק מהנצח)](https://en.wikipedia.org/wiki/Part_of_Eternity_%28%D7%97%D7%9C%D7%A7_%D7%9E%D7%94%D7%A0%D7%A6%D7%97%29) | [Dominacorta](https://en.wikipedia.org/wiki/User:Dominacorta) | 8,933 |
+| 2026-10-07 09:30:15 | [Acrossoides](https://en.wikipedia.org/wiki/Acrossoides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,706 |
+| 2026-10-07 09:31:24 | [The Orange Plague](https://en.wikipedia.org/wiki/The_Orange_Plague) | [Strattonsmith](https://en.wikipedia.org/wiki/User:Strattonsmith) | 692 |
+| 2026-10-07 09:33:00 | [Acrossoides yorkensis](https://en.wikipedia.org/wiki/Acrossoides_yorkensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,917 |
+| 2026-10-07 09:35:26 | [Acrossoides brittoni](https://en.wikipedia.org/wiki/Acrossoides_brittoni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,839 |
+| 2026-10-07 09:38:50 | [Candezeollus](https://en.wikipedia.org/wiki/Candezeollus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,782 |
+| 2026-10-07 09:41:35 | [Candezeollus bicrenulatus](https://en.wikipedia.org/wiki/Candezeollus_bicrenulatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,902 |
+| 2026-10-07 09:44:22 | [Candezeollus candezei](https://en.wikipedia.org/wiki/Candezeollus_candezei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,918 |
+| 2026-10-07 09:44:46 | [The Chinese Nightingale](https://en.wikipedia.org/wiki/The_Chinese_Nightingale) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 3,300 |
+| 2026-10-07 09:49:07 | [Candezeollus pseudocandezei](https://en.wikipedia.org/wiki/Candezeollus_pseudocandezei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,998 |
+| 2026-10-07 09:49:53 | [Gyanu Poudyal](https://en.wikipedia.org/wiki/Gyanu_Poudyal) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 7,355 |
+| 2026-10-07 09:50:17 | [1925 London local elections](https://en.wikipedia.org/wiki/1925_London_local_elections) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 8,539 |
+| 2026-10-07 09:51:49 | [2026 Fijian constitutional referendum](https://en.wikipedia.org/wiki/2026_Fijian_constitutional_referendum) | [BastianMAT](https://en.wikipedia.org/wiki/User:BastianMAT) | 23,578 |
+| 2026-10-07 09:51:50 | [Self-expression](https://en.wikipedia.org/wiki/Self-expression) | [Sahaib](https://en.wikipedia.org/wiki/User:Sahaib) | 23 |
+| 2026-10-07 09:56:34 | [Capture of the Santa Mafalda](https://en.wikipedia.org/wiki/Capture_of_the_Santa_Mafalda) | [Canzuk](https://en.wikipedia.org/wiki/User:Canzuk) | 3,594 |
+| 2026-10-07 09:59:17 | [Ivan Guarducci](https://en.wikipedia.org/wiki/Ivan_Guarducci) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,006 |
+| 2026-10-07 10:00:34 | [Douglas Gomes](https://en.wikipedia.org/wiki/Douglas_Gomes) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,105 |
+| 2026-10-07 10:07:27 | [Podotenus](https://en.wikipedia.org/wiki/Podotenus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,914 |
+| 2026-10-07 10:15:28 | [Miha Matjašec](https://en.wikipedia.org/wiki/Miha_Matja%C5%A1ec) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,958 |
+| 2026-10-07 10:16:42 | [Catholic writers about animal rights and welfare](https://en.wikipedia.org/wiki/Catholic_writers_about_animal_rights_and_welfare) | [Sentience Scholar](https://en.wikipedia.org/wiki/User:Sentience_Scholar) | 358 |
+| 2026-10-07 10:18:23 | [Podotenus integrifrons](https://en.wikipedia.org/wiki/Podotenus_integrifrons) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,082 |
