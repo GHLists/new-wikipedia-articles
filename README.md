@@ -13,66 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-07 00:18 UTC](data/en/new-articles-2026-10-07T00-18-38Z.csv) | 34 |
-| Japanese | `ja` | [2026-10-07 00:18 UTC](data/ja/new-articles-2026-10-07T00-18-38Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-07 00:18 UTC](data/zh/new-articles-2026-10-07T00-18-38Z.csv) | 7 |
-| French | `fr` | [2026-10-07 00:18 UTC](data/fr/new-articles-2026-10-07T00-18-38Z.csv) | 4 |
+| English | `en` | [2026-10-07 01:19 UTC](data/en/new-articles-2026-10-07T01-19-07Z.csv) | 18 |
+| Japanese | `ja` | [2026-10-07 01:19 UTC](data/ja/new-articles-2026-10-07T01-19-07Z.csv) | 9 |
+| Chinese | `zh` | [2026-10-07 01:19 UTC](data/zh/new-articles-2026-10-07T01-19-07Z.csv) | 2 |
+| French | `fr` | [2026-10-07 01:19 UTC](data/fr/new-articles-2026-10-07T01-19-07Z.csv) | 2 |
 | German | `de` | [2026-10-06 23:20 UTC](data/de/new-articles-2026-10-06T23-20-00Z.csv) | 1 |
-| Russian | `ru` | [2026-10-07 00:18 UTC](data/ru/new-articles-2026-10-07T00-18-38Z.csv) | 4 |
-| Spanish | `es` | [2026-10-07 00:18 UTC](data/es/new-articles-2026-10-07T00-18-38Z.csv) | 4 |
-| Italian | `it` | [2026-10-07 00:18 UTC](data/it/new-articles-2026-10-07T00-18-38Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-07 00:18 UTC](data/pt/new-articles-2026-10-07T00-18-38Z.csv) | 10 |
-| Polish | `pl` | [2026-10-07 00:18 UTC](data/pl/new-articles-2026-10-07T00-18-38Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-07 00:18 UTC](data/ar/new-articles-2026-10-07T00-18-38Z.csv) | 2 |
+| Russian | `ru` | [2026-10-07 01:19 UTC](data/ru/new-articles-2026-10-07T01-19-07Z.csv) | 5 |
+| Spanish | `es` | [2026-10-07 01:19 UTC](data/es/new-articles-2026-10-07T01-19-07Z.csv) | 17 |
+| Italian | `it` | [2026-10-07 01:19 UTC](data/it/new-articles-2026-10-07T01-19-07Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-07 01:19 UTC](data/pt/new-articles-2026-10-07T01-19-07Z.csv) | 17 |
+| Polish | `pl` | [2026-10-07 01:19 UTC](data/pl/new-articles-2026-10-07T01-19-07Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-07 01:19 UTC](data/ar/new-articles-2026-10-07T01-19-07Z.csv) | 2 |
 | Persian | `fa` | [2026-10-06 23:20 UTC](data/fa/new-articles-2026-10-06T23-20-00Z.csv) | 2 |
-| Turkish | `tr` | [2026-10-07 00:18 UTC](data/tr/new-articles-2026-10-07T00-18-38Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-07 01:19 UTC](data/tr/new-articles-2026-10-07T01-19-07Z.csv) | 1 |
 | Hebrew | `he` | [2026-10-07 00:18 UTC](data/he/new-articles-2026-10-07T00-18-38Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-07 00:18 UTC](data/sv/new-articles-2026-10-07T00-18-38Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-07 00:18 UTC](data/nl/new-articles-2026-10-07T00-18-38Z.csv) | 1 |
-| Korean | `ko` | [2026-10-07 00:18 UTC](data/ko/new-articles-2026-10-07T00-18-38Z.csv) | 8 |
-| Indonesian | `id` | [2026-10-07 00:18 UTC](data/id/new-articles-2026-10-07T00-18-38Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-10-07 00:18 UTC](data/uk/new-articles-2026-10-07T00-18-38Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-07 01:19 UTC](data/sv/new-articles-2026-10-07T01-19-07Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-07 01:19 UTC](data/nl/new-articles-2026-10-07T01-19-07Z.csv) | 4 |
+| Korean | `ko` | [2026-10-07 01:19 UTC](data/ko/new-articles-2026-10-07T01-19-07Z.csv) | 8 |
+| Indonesian | `id` | [2026-10-07 01:19 UTC](data/id/new-articles-2026-10-07T01-19-07Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-10-07 01:19 UTC](data/uk/new-articles-2026-10-07T01-19-07Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-10-06 21:19 UTC](data/vi/new-articles-2026-10-06T21-19-31Z.csv) | 1 |
 
-## English (en) — 2026-10-07 00:18 UTC
+## English (en) — 2026-10-07 01:19 UTC
 
-New articles created between 2026-10-06 23:20 UTC and 2026-10-07 00:18 UTC.
+New articles created between 2026-10-07 00:18 UTC and 2026-10-07 01:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-07T00-18-38Z.csv)
+[Full CSV](data/en/new-articles-2026-10-07T01-19-07Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-06 23:20:20 | [1970 Michigan Secretary of State election](https://en.wikipedia.org/wiki/1970_Michigan_Secretary_of_State_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 14,612 |
-| 2026-10-06 23:21:58 | [Ismael Pérez Montt](https://en.wikipedia.org/wiki/Ismael_P%C3%A9rez_Montt) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,802 |
-| 2026-10-06 23:22:02 | [Ericks](https://en.wikipedia.org/wiki/Ericks) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 147 |
-| 2026-10-06 23:24:17 | [Ewerlöf](https://en.wikipedia.org/wiki/Ewerl%C3%B6f) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 216 |
-| 2026-10-06 23:24:50 | [Gregorio Donoso](https://en.wikipedia.org/wiki/Gregorio_Donoso) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,739 |
-| 2026-10-06 23:25:04 | [Degerman](https://en.wikipedia.org/wiki/Degerman) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 135 |
-| 2026-10-06 23:25:45 | [Dolkens](https://en.wikipedia.org/wiki/Dolkens) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 131 |
-| 2026-10-06 23:27:53 | [Bergelin](https://en.wikipedia.org/wiki/Bergelin) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 193 |
-| 2026-10-06 23:28:41 | [187th Division](https://en.wikipedia.org/wiki/187th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 428 |
-| 2026-10-06 23:29:07 | [Berthel](https://en.wikipedia.org/wiki/Berthel) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 248 |
-| 2026-10-06 23:29:52 | [Bjelfvenstam](https://en.wikipedia.org/wiki/Bjelfvenstam) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 169 |
-| 2026-10-06 23:35:08 | [Ashton Miller-Melancon](https://en.wikipedia.org/wiki/Ashton_Miller-Melancon) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,213 |
-| 2026-10-06 23:35:50 | [Boman (name)](https://en.wikipedia.org/wiki/Boman_%28name%29) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 584 |
-| 2026-10-06 23:36:15 | [Afrim Bunjaku](https://en.wikipedia.org/wiki/Afrim_Bunjaku) | [Kreshnik Prizreni](https://en.wikipedia.org/wiki/User:Kreshnik_Prizreni) | 5,302 |
-| 2026-10-06 23:36:41 | [Borssén](https://en.wikipedia.org/wiki/Borss%C3%A9n) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 135 |
-| 2026-10-06 23:38:08 | [Carlqvist](https://en.wikipedia.org/wiki/Carlqvist) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 190 |
-| 2026-10-06 23:39:20 | [Cederlund](https://en.wikipedia.org/wiki/Cederlund) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 145 |
-| 2026-10-06 23:40:04 | [188th Division](https://en.wikipedia.org/wiki/188th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 400 |
-| 2026-10-06 23:40:42 | [Acetone 2,4-dinitrophenylhydrazone](https://en.wikipedia.org/wiki/Acetone_2%2C4-dinitrophenylhydrazone) | [Marshy60000](https://en.wikipedia.org/wiki/User:Marshy60000) | 856 |
-| 2026-10-06 23:44:40 | [Enrique Sanfuentes](https://en.wikipedia.org/wiki/Enrique_Sanfuentes) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 6,140 |
-| 2026-10-06 23:48:32 | [Simon Weller](https://en.wikipedia.org/wiki/Simon_Weller) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 2,627 |
-| 2026-10-06 23:49:10 | [Guillermo Mackenna Serrano](https://en.wikipedia.org/wiki/Guillermo_Mackenna_Serrano) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,688 |
-| 2026-10-06 23:51:21 | [Aleks Zeković](https://en.wikipedia.org/wiki/Aleks_Zekovi%C4%87) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 6,466 |
-| 2026-10-06 23:52:59 | [Justiniano Sotomayor Guzmán](https://en.wikipedia.org/wiki/Justiniano_Sotomayor_Guzm%C3%A1n) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 4,427 |
-| 2026-10-06 23:57:26 | [191st Division](https://en.wikipedia.org/wiki/191st_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 266 |
-| 2026-10-06 23:57:53 | [Landor's Cottage](https://en.wikipedia.org/wiki/Landor%27s_Cottage) | [CCReiger](https://en.wikipedia.org/wiki/User:CCReiger) | 4,670 |
-| 2026-10-06 23:59:59 | [Asphalt Coatings Company, Inc.](https://en.wikipedia.org/wiki/Asphalt_Coatings_Company%2C_Inc.) | [Wenttowall](https://en.wikipedia.org/wiki/User:Wenttowall) | 2,131 |
-| 2026-10-07 00:01:34 | [Lover"s"mile](https://en.wikipedia.org/wiki/Lover%22s%22mile) | [N1ghthwk](https://en.wikipedia.org/wiki/User:N1ghthwk) | 8,136 |
-| 2026-10-07 00:03:56 | [192nd Division](https://en.wikipedia.org/wiki/192nd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 527 |
-| 2026-10-07 00:08:39 | [José Manuel Casanova Diviño](https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Casanova_Divi%C3%B1o) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 9,762 |
-| 2026-10-07 00:09:25 | [Malik Munir Iqbal Channar](https://en.wikipedia.org/wiki/Malik_Munir_Iqbal_Channar) | [Muzzzmuzzmuzzz](https://en.wikipedia.org/wiki/User:Muzzzmuzzmuzzz) | 1,442 |
-| 2026-10-07 00:09:29 | [Herugavialis](https://en.wikipedia.org/wiki/Herugavialis) | [Roadrunnerfromhell](https://en.wikipedia.org/wiki/User:Roadrunnerfromhell) | 336 |
-| 2026-10-07 00:15:24 | [1993 Rado Swiss Open – Doubles](https://en.wikipedia.org/wiki/1993_Rado_Swiss_Open_%E2%80%93_Doubles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 4,610 |
-| 2026-10-07 00:16:11 | [Samsung Galaxy Buds On](https://en.wikipedia.org/wiki/Samsung_Galaxy_Buds_On) | [WikiQuokka](https://en.wikipedia.org/wiki/User:WikiQuokka) | 13,206 |
+| 2026-10-07 00:22:06 | [Daniel Wogsland](https://en.wikipedia.org/wiki/Daniel_Wogsland) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,170 |
+| 2026-10-07 00:22:18 | [Iuri Fernandes](https://en.wikipedia.org/wiki/Iuri_Fernandes) | [Khonda8](https://en.wikipedia.org/wiki/User:Khonda8) | 14,660 |
+| 2026-10-07 00:25:23 | [Naari](https://en.wikipedia.org/wiki/Naari) | [1isall](https://en.wikipedia.org/wiki/User:1isall) | 152 |
+| 2026-10-07 00:30:46 | [Percaso](https://en.wikipedia.org/wiki/Percaso) | [Gdshordy](https://en.wikipedia.org/wiki/User:Gdshordy) | 6,124 |
+| 2026-10-07 00:31:04 | [Peggy Norris](https://en.wikipedia.org/wiki/Peggy_Norris) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 5,934 |
+| 2026-10-07 00:32:08 | [Marvin Nasnas](https://en.wikipedia.org/wiki/Marvin_Nasnas) | [Ortizesp](https://en.wikipedia.org/wiki/User:Ortizesp) | 3,359 |
+| 2026-10-07 00:39:43 | [Disappearance of Serenity Dennard](https://en.wikipedia.org/wiki/Disappearance_of_Serenity_Dennard) | [Reptileraptor52](https://en.wikipedia.org/wiki/User:Reptileraptor52) | 6,668 |
+| 2026-10-07 00:45:09 | [2-(β-D-glucopyranosyl)-5-methyl-1,3,4-oxadiazole](https://en.wikipedia.org/wiki/2-%28%CE%B2-D-glucopyranosyl%29-5-methyl-1%2C3%2C4-oxadiazole) | [Marshy60000](https://en.wikipedia.org/wiki/User:Marshy60000) | 3,158 |
+| 2026-10-07 00:45:22 | [Jacarandá (song)](https://en.wikipedia.org/wiki/Jacarand%C3%A1_%28song%29) | [ManuelButera](https://en.wikipedia.org/wiki/User:ManuelButera) | 6,956 |
+| 2026-10-07 00:49:13 | [Atlético de Gujarat](https://en.wikipedia.org/wiki/Atl%C3%A9tico_de_Gujarat) | [Bibin725](https://en.wikipedia.org/wiki/User:Bibin725) | 2 |
+| 2026-10-07 00:50:09 | [Jared Peck (American football)](https://en.wikipedia.org/wiki/Jared_Peck_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,744 |
+| 2026-10-07 01:00:24 | [2026 Pacific League Climax Series](https://en.wikipedia.org/wiki/2026_Pacific_League_Climax_Series) | [Torsodog](https://en.wikipedia.org/wiki/User:Torsodog) | 2,768 |
+| 2026-10-07 01:05:11 | [193rd Division](https://en.wikipedia.org/wiki/193rd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 337 |
+| 2026-10-07 01:05:16 | [Domingo Santa Maria cabinet ministers](https://en.wikipedia.org/wiki/Domingo_Santa_Maria_cabinet_ministers) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,260 |
+| 2026-10-07 01:10:24 | [Anibal Pinto cabinet ministers](https://en.wikipedia.org/wiki/Anibal_Pinto_cabinet_ministers) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 3,785 |
+| 2026-10-07 01:13:53 | [Federico Errazuriz Zañartu cabinet ministers](https://en.wikipedia.org/wiki/Federico_Errazuriz_Za%C3%B1artu_cabinet_ministers) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,177 |
+| 2026-10-07 01:16:54 | [194th Division](https://en.wikipedia.org/wiki/194th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 303 |
+| 2026-10-07 01:18:06 | [Jose Joaquin Perez cabinet ministers](https://en.wikipedia.org/wiki/Jose_Joaquin_Perez_cabinet_ministers) | [Carigval.97](https://en.wikipedia.org/wiki/User:Carigval.97) | 2,951 |
