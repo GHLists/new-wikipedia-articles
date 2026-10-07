@@ -13,45 +13,43 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-07 05:19 UTC](data/en/new-articles-2026-10-07T05-19-44Z.csv) | 13 |
-| Japanese | `ja` | [2026-10-07 05:19 UTC](data/ja/new-articles-2026-10-07T05-19-44Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-07 05:19 UTC](data/zh/new-articles-2026-10-07T05-19-44Z.csv) | 3 |
-| French | `fr` | [2026-10-07 02:19 UTC](data/fr/new-articles-2026-10-07T02-19-38Z.csv) | 4 |
-| German | `de` | [2026-10-07 05:19 UTC](data/de/new-articles-2026-10-07T05-19-44Z.csv) | 9 |
-| Russian | `ru` | [2026-10-07 05:19 UTC](data/ru/new-articles-2026-10-07T05-19-44Z.csv) | 2 |
-| Spanish | `es` | [2026-10-07 05:19 UTC](data/es/new-articles-2026-10-07T05-19-44Z.csv) | 8 |
-| Italian | `it` | [2026-10-07 05:19 UTC](data/it/new-articles-2026-10-07T05-19-44Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-07 05:19 UTC](data/pt/new-articles-2026-10-07T05-19-44Z.csv) | 5 |
-| Polish | `pl` | [2026-10-07 04:18 UTC](data/pl/new-articles-2026-10-07T04-18-41Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-07 05:19 UTC](data/ar/new-articles-2026-10-07T05-19-44Z.csv) | 7 |
-| Persian | `fa` | [2026-10-07 05:19 UTC](data/fa/new-articles-2026-10-07T05-19-44Z.csv) | 11 |
-| Turkish | `tr` | [2026-10-07 05:19 UTC](data/tr/new-articles-2026-10-07T05-19-44Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-07 05:19 UTC](data/he/new-articles-2026-10-07T05-19-44Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-07 05:19 UTC](data/sv/new-articles-2026-10-07T05-19-44Z.csv) | 3 |
+| English | `en` | [2026-10-07 06:18 UTC](data/en/new-articles-2026-10-07T06-18-43Z.csv) | 11 |
+| Japanese | `ja` | [2026-10-07 06:18 UTC](data/ja/new-articles-2026-10-07T06-18-43Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-07 06:18 UTC](data/zh/new-articles-2026-10-07T06-18-43Z.csv) | 8 |
+| French | `fr` | [2026-10-07 06:18 UTC](data/fr/new-articles-2026-10-07T06-18-43Z.csv) | 2 |
+| German | `de` | [2026-10-07 06:18 UTC](data/de/new-articles-2026-10-07T06-18-43Z.csv) | 3 |
+| Russian | `ru` | [2026-10-07 06:18 UTC](data/ru/new-articles-2026-10-07T06-18-43Z.csv) | 4 |
+| Spanish | `es` | [2026-10-07 06:18 UTC](data/es/new-articles-2026-10-07T06-18-43Z.csv) | 4 |
+| Italian | `it` | [2026-10-07 06:18 UTC](data/it/new-articles-2026-10-07T06-18-43Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-07 06:18 UTC](data/pt/new-articles-2026-10-07T06-18-43Z.csv) | 2 |
+| Polish | `pl` | [2026-10-07 06:18 UTC](data/pl/new-articles-2026-10-07T06-18-43Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-07 06:18 UTC](data/ar/new-articles-2026-10-07T06-18-43Z.csv) | 3 |
+| Persian | `fa` | [2026-10-07 06:18 UTC](data/fa/new-articles-2026-10-07T06-18-43Z.csv) | 4 |
+| Turkish | `tr` | [2026-10-07 06:18 UTC](data/tr/new-articles-2026-10-07T06-18-43Z.csv) | 4 |
+| Hebrew | `he` | [2026-10-07 06:18 UTC](data/he/new-articles-2026-10-07T06-18-43Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-07 06:18 UTC](data/sv/new-articles-2026-10-07T06-18-43Z.csv) | 5 |
 | Dutch | `nl` | [2026-10-07 02:19 UTC](data/nl/new-articles-2026-10-07T02-19-38Z.csv) | 1 |
-| Korean | `ko` | [2026-10-07 05:19 UTC](data/ko/new-articles-2026-10-07T05-19-44Z.csv) | 6 |
-| Indonesian | `id` | [2026-10-07 05:19 UTC](data/id/new-articles-2026-10-07T05-19-44Z.csv) | 23 |
+| Korean | `ko` | [2026-10-07 06:18 UTC](data/ko/new-articles-2026-10-07T06-18-43Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-07 06:18 UTC](data/id/new-articles-2026-10-07T06-18-43Z.csv) | 3 |
 | Ukrainian | `uk` | [2026-10-07 05:19 UTC](data/uk/new-articles-2026-10-07T05-19-44Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-10-07 05:19 UTC](data/vi/new-articles-2026-10-07T05-19-44Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-10-07 06:18 UTC](data/vi/new-articles-2026-10-07T06-18-43Z.csv) | 3 |
 
-## English (en) — 2026-10-07 05:19 UTC
+## English (en) — 2026-10-07 06:18 UTC
 
-New articles created between 2026-10-07 04:18 UTC and 2026-10-07 05:19 UTC.
+New articles created between 2026-10-07 05:19 UTC and 2026-10-07 06:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-07T05-19-44Z.csv)
+[Full CSV](data/en/new-articles-2026-10-07T06-18-43Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-07 04:22:32 | [Waagenoconcha](https://en.wikipedia.org/wiki/Waagenoconcha) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 4,437 |
-| 2026-10-07 04:27:30 | [Cao Zihan](https://en.wikipedia.org/wiki/Cao_Zihan) | [Ricks215](https://en.wikipedia.org/wiki/User:Ricks215) | 12,640 |
-| 2026-10-07 04:35:54 | [2016 Women's Hockey U18 Asia Cup](https://en.wikipedia.org/wiki/2016_Women%27s_Hockey_U18_Asia_Cup) | [Xandercorvus389](https://en.wikipedia.org/wiki/User:Xandercorvus389) | 2,247 |
-| 2026-10-07 04:35:59 | [Ain't It Cool?: Hollywood's Redheaded Stepchild Speaks Out](https://en.wikipedia.org/wiki/Ain%27t_It_Cool%3F%3A_Hollywood%27s_Redheaded_Stepchild_Speaks_Out) | [Donut Men](https://en.wikipedia.org/wiki/User:Donut_Men) | 4,738 |
-| 2026-10-07 04:39:27 | [Shobha Khanal](https://en.wikipedia.org/wiki/Shobha_Khanal) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 4,676 |
-| 2026-10-07 04:45:35 | [Earl Carroll's Sketch Book](https://en.wikipedia.org/wiki/Earl_Carroll%27s_Sketch_Book) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 3,753 |
-| 2026-10-07 04:46:36 | [Ban Keun Airport](https://en.wikipedia.org/wiki/Ban_Keun_Airport) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 1,404 |
-| 2026-10-07 04:49:47 | [Satkania North Upazila](https://en.wikipedia.org/wiki/Satkania_North_Upazila) | [Junaid Purangor](https://en.wikipedia.org/wiki/User:Junaid_Purangor) | 3,249 |
-| 2026-10-07 04:55:37 | [Richard S. Bucy](https://en.wikipedia.org/wiki/Richard_S._Bucy) | [VaudevillianScientist](https://en.wikipedia.org/wiki/User:VaudevillianScientist) | 4,288 |
-| 2026-10-07 04:57:27 | [Till the Bells Ring](https://en.wikipedia.org/wiki/Till_the_Bells_Ring) | [DrThneed](https://en.wikipedia.org/wiki/User:DrThneed) | 1,070 |
-| 2026-10-07 04:59:15 | [Opinder Kaur Sekhon](https://en.wikipedia.org/wiki/Opinder_Kaur_Sekhon) | [Kalakhalvania](https://en.wikipedia.org/wiki/User:Kalakhalvania) | 10,614 |
-| 2026-10-07 05:01:34 | [Bianca Zurrer](https://en.wikipedia.org/wiki/Bianca_Zurrer) | [Lachie23](https://en.wikipedia.org/wiki/User:Lachie23) | 6,286 |
-| 2026-10-07 05:16:37 | [Brunswick Falls (Victoria)](https://en.wikipedia.org/wiki/Brunswick_Falls_%28Victoria%29) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,649 |
+| 2026-10-07 05:26:52 | [Hylaeus brevior](https://en.wikipedia.org/wiki/Hylaeus_brevior) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,383 |
+| 2026-10-07 05:27:50 | [Gabriel Biafore](https://en.wikipedia.org/wiki/Gabriel_Biafore) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,808 |
+| 2026-10-07 05:32:34 | [Cumberland Falls (Surf Coast Shire)](https://en.wikipedia.org/wiki/Cumberland_Falls_%28Surf_Coast_Shire%29) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,466 |
+| 2026-10-07 05:35:00 | [Hotel Saltwater](https://en.wikipedia.org/wiki/Hotel_Saltwater) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 6,731 |
+| 2026-10-07 05:43:28 | [Netweb Technologies](https://en.wikipedia.org/wiki/Netweb_Technologies) | [Cppfront](https://en.wikipedia.org/wiki/User:Cppfront) | 861 |
+| 2026-10-07 05:50:21 | [Yannathan Falls](https://en.wikipedia.org/wiki/Yannathan_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,943 |
+| 2026-10-07 05:54:00 | [Office of the Legislative Auditor (Minnesota)](https://en.wikipedia.org/wiki/Office_of_the_Legislative_Auditor_%28Minnesota%29) | [Mcvayn](https://en.wikipedia.org/wiki/User:Mcvayn) | 22,006 |
+| 2026-10-07 06:02:47 | [Malibu (Falling Over the Edge)](https://en.wikipedia.org/wiki/Malibu_%28Falling_Over_the_Edge%29) | [Paradisetoshutdown](https://en.wikipedia.org/wiki/User:Paradisetoshutdown) | 7,485 |
+| 2026-10-07 06:04:42 | [Mabel Brands](https://en.wikipedia.org/wiki/Mabel_Brands) | [Lachie23](https://en.wikipedia.org/wiki/User:Lachie23) | 5,974 |
+| 2026-10-07 06:07:01 | [Energy Club WA](https://en.wikipedia.org/wiki/Energy_Club_WA) | [Ddbon](https://en.wikipedia.org/wiki/User:Ddbon) | 17,233 |
+| 2026-10-07 06:12:32 | [Masonic Centre, Sandringham](https://en.wikipedia.org/wiki/Masonic_Centre%2C_Sandringham) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 10,231 |
