@@ -13,56 +13,69 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-08 12:20 UTC](data/en/new-articles-2026-10-08T12-20-13Z.csv) | 24 |
-| Japanese | `ja` | [2026-10-08 12:20 UTC](data/ja/new-articles-2026-10-08T12-20-13Z.csv) | 5 |
-| Chinese | `zh` | [2026-10-08 12:20 UTC](data/zh/new-articles-2026-10-08T12-20-13Z.csv) | 10 |
-| French | `fr` | [2026-10-08 12:20 UTC](data/fr/new-articles-2026-10-08T12-20-13Z.csv) | 10 |
-| German | `de` | [2026-10-08 12:20 UTC](data/de/new-articles-2026-10-08T12-20-13Z.csv) | 10 |
-| Russian | `ru` | [2026-10-08 12:20 UTC](data/ru/new-articles-2026-10-08T12-20-13Z.csv) | 14 |
-| Spanish | `es` | [2026-10-08 12:20 UTC](data/es/new-articles-2026-10-08T12-20-13Z.csv) | 9 |
-| Italian | `it` | [2026-10-08 12:20 UTC](data/it/new-articles-2026-10-08T12-20-13Z.csv) | 9 |
-| Portuguese | `pt` | [2026-10-08 12:20 UTC](data/pt/new-articles-2026-10-08T12-20-13Z.csv) | 4 |
-| Polish | `pl` | [2026-10-08 12:20 UTC](data/pl/new-articles-2026-10-08T12-20-13Z.csv) | 9 |
-| Arabic | `ar` | [2026-10-08 12:20 UTC](data/ar/new-articles-2026-10-08T12-20-13Z.csv) | 10 |
-| Persian | `fa` | [2026-10-08 12:20 UTC](data/fa/new-articles-2026-10-08T12-20-13Z.csv) | 8 |
-| Turkish | `tr` | [2026-10-08 12:20 UTC](data/tr/new-articles-2026-10-08T12-20-13Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-08 12:20 UTC](data/he/new-articles-2026-10-08T12-20-13Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-08 12:20 UTC](data/sv/new-articles-2026-10-08T12-20-13Z.csv) | 6 |
-| Dutch | `nl` | [2026-10-08 12:20 UTC](data/nl/new-articles-2026-10-08T12-20-13Z.csv) | 6 |
-| Korean | `ko` | [2026-10-08 12:20 UTC](data/ko/new-articles-2026-10-08T12-20-13Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-08 12:20 UTC](data/id/new-articles-2026-10-08T12-20-13Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-10-08 12:20 UTC](data/uk/new-articles-2026-10-08T12-20-13Z.csv) | 10 |
-| Vietnamese | `vi` | [2026-10-08 12:20 UTC](data/vi/new-articles-2026-10-08T12-20-13Z.csv) | 5 |
+| English | `en` | [2026-10-08 13:22 UTC](data/en/new-articles-2026-10-08T13-22-26Z.csv) | 37 |
+| Japanese | `ja` | [2026-10-08 13:22 UTC](data/ja/new-articles-2026-10-08T13-22-26Z.csv) | 11 |
+| Chinese | `zh` | [2026-10-08 13:22 UTC](data/zh/new-articles-2026-10-08T13-22-26Z.csv) | 4 |
+| French | `fr` | [2026-10-08 13:22 UTC](data/fr/new-articles-2026-10-08T13-22-26Z.csv) | 9 |
+| German | `de` | [2026-10-08 13:22 UTC](data/de/new-articles-2026-10-08T13-22-26Z.csv) | 3 |
+| Russian | `ru` | [2026-10-08 13:22 UTC](data/ru/new-articles-2026-10-08T13-22-26Z.csv) | 12 |
+| Spanish | `es` | [2026-10-08 13:22 UTC](data/es/new-articles-2026-10-08T13-22-26Z.csv) | 7 |
+| Italian | `it` | [2026-10-08 13:22 UTC](data/it/new-articles-2026-10-08T13-22-26Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-08 13:22 UTC](data/pt/new-articles-2026-10-08T13-22-26Z.csv) | 4 |
+| Polish | `pl` | [2026-10-08 13:22 UTC](data/pl/new-articles-2026-10-08T13-22-26Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-08 13:22 UTC](data/ar/new-articles-2026-10-08T13-22-26Z.csv) | 5 |
+| Persian | `fa` | [2026-10-08 13:22 UTC](data/fa/new-articles-2026-10-08T13-22-26Z.csv) | 17 |
+| Turkish | `tr` | [2026-10-08 13:22 UTC](data/tr/new-articles-2026-10-08T13-22-26Z.csv) | 9 |
+| Hebrew | `he` | [2026-10-08 13:22 UTC](data/he/new-articles-2026-10-08T13-22-26Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-08 13:22 UTC](data/sv/new-articles-2026-10-08T13-22-26Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-08 13:22 UTC](data/nl/new-articles-2026-10-08T13-22-26Z.csv) | 2 |
+| Korean | `ko` | [2026-10-08 13:22 UTC](data/ko/new-articles-2026-10-08T13-22-26Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-08 13:22 UTC](data/id/new-articles-2026-10-08T13-22-26Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-08 13:22 UTC](data/uk/new-articles-2026-10-08T13-22-26Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-10-08 13:22 UTC](data/vi/new-articles-2026-10-08T13-22-26Z.csv) | 1 |
 
-## English (en) — 2026-10-08 12:20 UTC
+## English (en) — 2026-10-08 13:22 UTC
 
-New articles created between 2026-10-08 11:21 UTC and 2026-10-08 12:20 UTC.
+New articles created between 2026-10-08 12:20 UTC and 2026-10-08 13:22 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-08T12-20-13Z.csv)
+[Full CSV](data/en/new-articles-2026-10-08T13-22-26Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-08 11:21:46 | [Nauana Silva](https://en.wikipedia.org/wiki/Nauana_Silva) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 6,750 |
-| 2026-10-08 11:29:22 | [1811 Chilean parliamentary election](https://en.wikipedia.org/wiki/1811_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 28,937 |
-| 2026-10-08 11:30:40 | [Tuğbanur Koz](https://en.wikipedia.org/wiki/Tu%C4%9Fbanur_Koz) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 3,100 |
-| 2026-10-08 11:31:08 | [Changhua County Constituency 2](https://en.wikipedia.org/wiki/Changhua_County_Constituency_2) | [CptnPhasma](https://en.wikipedia.org/wiki/User:CptnPhasma) | 5,449 |
-| 2026-10-08 11:40:23 | [1894 Chilean parliamentary election](https://en.wikipedia.org/wiki/1894_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 7,236 |
-| 2026-10-08 11:50:50 | [Jason Rowles](https://en.wikipedia.org/wiki/Jason_Rowles) | [Independent26](https://en.wikipedia.org/wiki/User:Independent26) | 2,921 |
-| 2026-10-08 11:51:16 | [Cryptonatica hirasei](https://en.wikipedia.org/wiki/Cryptonatica_hirasei) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 3,268 |
-| 2026-10-08 11:53:07 | [October 1891 Chilean parliamentary election](https://en.wikipedia.org/wiki/October_1891_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 7,733 |
-| 2026-10-08 11:58:06 | [March 1891 Chilean parliamentary election](https://en.wikipedia.org/wiki/March_1891_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 13,020 |
-| 2026-10-08 12:04:18 | [1888 Chilean parliamentary election](https://en.wikipedia.org/wiki/1888_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 11,138 |
-| 2026-10-08 12:04:41 | [Q Acoustics](https://en.wikipedia.org/wiki/Q_Acoustics) | [Nickrenshaw](https://en.wikipedia.org/wiki/User:Nickrenshaw) | 316 |
-| 2026-10-08 12:05:19 | [END. Clothing](https://en.wikipedia.org/wiki/END._Clothing) | [Yulshen](https://en.wikipedia.org/wiki/User:Yulshen) | 8,126 |
-| 2026-10-08 12:08:06 | [Chanje](https://en.wikipedia.org/wiki/Chanje) | [Sntshkumar750](https://en.wikipedia.org/wiki/User:Sntshkumar750) | 2,540 |
-| 2026-10-08 12:08:16 | [Rebellion of the Three Earls (1363)](https://en.wikipedia.org/wiki/Rebellion_of_the_Three_Earls_%281363%29) | [Harrybean07](https://en.wikipedia.org/wiki/User:Harrybean07) | 4,675 |
-| 2026-10-08 12:09:58 | [Minzner](https://en.wikipedia.org/wiki/Minzner) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 186 |
-| 2026-10-08 12:09:58 | [Gustaf Ljungman](https://en.wikipedia.org/wiki/Gustaf_Ljungman) | [Grit Myth](https://en.wikipedia.org/wiki/User:Grit_Myth) | 8,472 |
-| 2026-10-08 12:11:12 | [1885 Chilean parliamentary election](https://en.wikipedia.org/wiki/1885_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 11,021 |
-| 2026-10-08 12:13:35 | [Shinji Takashima (basketball)](https://en.wikipedia.org/wiki/Shinji_Takashima_%28basketball%29) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 5,337 |
-| 2026-10-08 12:14:46 | [1882 Chilean parliamentary election](https://en.wikipedia.org/wiki/1882_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 10,244 |
-| 2026-10-08 12:15:24 | [Moisés Tambini del Valle](https://en.wikipedia.org/wiki/Mois%C3%A9s_Tambini_del_Valle) | [Piedrafeller99](https://en.wikipedia.org/wiki/User:Piedrafeller99) | 10,988 |
-| 2026-10-08 12:15:35 | [Changhua County Constituency 3](https://en.wikipedia.org/wiki/Changhua_County_Constituency_3) | [CptnPhasma](https://en.wikipedia.org/wiki/User:CptnPhasma) | 6,043 |
-| 2026-10-08 12:16:52 | [Abhinav Arora](https://en.wikipedia.org/wiki/Abhinav_Arora) | [Official06](https://en.wikipedia.org/wiki/User:Official06) | 5,816 |
-| 2026-10-08 12:17:59 | [1879 Chilean parliamentary election](https://en.wikipedia.org/wiki/1879_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 10,978 |
-| 2026-10-08 12:18:47 | [Ja till livet](https://en.wikipedia.org/wiki/Ja_till_livet) | [Grilledcheeseisgreat](https://en.wikipedia.org/wiki/User:Grilledcheeseisgreat) | 3,999 |
+| 2026-10-08 12:20:45 | [2027 San Diego Padres season](https://en.wikipedia.org/wiki/2027_San_Diego_Padres_season) | [Spanneraol](https://en.wikipedia.org/wiki/User:Spanneraol) | 2,795 |
+| 2026-10-08 12:26:35 | [Jaheru Yamauchi](https://en.wikipedia.org/wiki/Jaheru_Yamauchi) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 9,670 |
+| 2026-10-08 12:26:55 | [1876 Chilean parliamentary election](https://en.wikipedia.org/wiki/1876_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 12,338 |
+| 2026-10-08 12:32:10 | [Changhua County Constituency 4](https://en.wikipedia.org/wiki/Changhua_County_Constituency_4) | [CptnPhasma](https://en.wikipedia.org/wiki/User:CptnPhasma) | 3,355 |
+| 2026-10-08 12:32:13 | [1873 Chilean parliamentary election](https://en.wikipedia.org/wiki/1873_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 9,342 |
+| 2026-10-08 12:36:29 | [Romanian Revival](https://en.wikipedia.org/wiki/Romanian_Revival) | [(G)jabz](https://en.wikipedia.org/wiki/User:%28G%29jabz) | 14,089 |
+| 2026-10-08 12:36:53 | [1870 Chilean parliamentary election](https://en.wikipedia.org/wiki/1870_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 12,161 |
+| 2026-10-08 12:38:01 | [Lahesio Bonfim](https://en.wikipedia.org/wiki/Lahesio_Bonfim) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,739 |
+| 2026-10-08 12:39:39 | [1867 Chilean parliamentary election](https://en.wikipedia.org/wiki/1867_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 13,925 |
+| 2026-10-08 12:40:31 | [Atsuya Ogawa](https://en.wikipedia.org/wiki/Atsuya_Ogawa) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 8,200 |
+| 2026-10-08 12:44:20 | [Nikon Z5IIC](https://en.wikipedia.org/wiki/Nikon_Z5IIC) | [昼落ち](https://en.wikipedia.org/wiki/User:%E6%98%BC%E8%90%BD%E3%81%A1) | 5,813 |
+| 2026-10-08 12:46:09 | [1861 Chilean parliamentary election](https://en.wikipedia.org/wiki/1861_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 9,698 |
+| 2026-10-08 12:48:26 | [1858 Chilean parliamentary election](https://en.wikipedia.org/wiki/1858_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 10,689 |
+| 2026-10-08 12:50:29 | [1855 Chilean parliamentary election](https://en.wikipedia.org/wiki/1855_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 10,623 |
+| 2026-10-08 12:51:48 | [Heliacus enoshimensis](https://en.wikipedia.org/wiki/Heliacus_enoshimensis) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 3,238 |
+| 2026-10-08 12:52:22 | [1852 Chilean parliamentary election](https://en.wikipedia.org/wiki/1852_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 11,406 |
+| 2026-10-08 12:53:09 | [Enrique Melgar Moscoso](https://en.wikipedia.org/wiki/Enrique_Melgar_Moscoso) | [Piedrafeller99](https://en.wikipedia.org/wiki/User:Piedrafeller99) | 7,892 |
+| 2026-10-08 12:53:13 | [Kazuma Tsuya](https://en.wikipedia.org/wiki/Kazuma_Tsuya) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,924 |
+| 2026-10-08 12:54:33 | [1849 Chilean parliamentary election](https://en.wikipedia.org/wiki/1849_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 14,443 |
+| 2026-10-08 12:55:24 | [Airapus pygidialis](https://en.wikipedia.org/wiki/Airapus_pygidialis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,043 |
+| 2026-10-08 12:56:36 | [1846 Chilean parliamentary election](https://en.wikipedia.org/wiki/1846_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 13,888 |
+| 2026-10-08 12:59:02 | [Visanu Prasattongosoth](https://en.wikipedia.org/wiki/Visanu_Prasattongosoth) | [Olivia Dlamini](https://en.wikipedia.org/wiki/User:Olivia_Dlamini) | 3,999 |
+| 2026-10-08 13:00:41 | [Euparotrix](https://en.wikipedia.org/wiki/Euparotrix) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,231 |
+| 2026-10-08 13:00:45 | [1843 Chilean parliamentary election](https://en.wikipedia.org/wiki/1843_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 11,381 |
+| 2026-10-08 13:03:42 | [Australammoecius](https://en.wikipedia.org/wiki/Australammoecius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,047 |
+| 2026-10-08 13:03:50 | [1840 Chilean parliamentary election](https://en.wikipedia.org/wiki/1840_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 13,768 |
+| 2026-10-08 13:05:27 | [Belarus at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Belarus_at_the_2026_Summer_Youth_Olympics) | [Hlidk](https://en.wikipedia.org/wiki/User:Hlidk) | 1,700 |
+| 2026-10-08 13:05:29 | [1837 Chilean parliamentary election](https://en.wikipedia.org/wiki/1837_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 13,842 |
+| 2026-10-08 13:06:55 | [Australammoecius aphodioides](https://en.wikipedia.org/wiki/Australammoecius_aphodioides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,023 |
+| 2026-10-08 13:07:21 | [1834 Chilean parliamentary election](https://en.wikipedia.org/wiki/1834_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 15,430 |
+| 2026-10-08 13:11:29 | [Australammoecius persimilis](https://en.wikipedia.org/wiki/Australammoecius_persimilis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,445 |
+| 2026-10-08 13:11:30 | [1829 Chilean parliamentary election](https://en.wikipedia.org/wiki/1829_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 9,372 |
+| 2026-10-08 13:14:01 | [1828 Chilean parliamentary election](https://en.wikipedia.org/wiki/1828_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 9,971 |
+| 2026-10-08 13:16:52 | [1827 Chilean parliamentary election](https://en.wikipedia.org/wiki/1827_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 9,060 |
+| 2026-10-08 13:19:30 | [1824 Chilean parliamentary election](https://en.wikipedia.org/wiki/1824_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 9,169 |
+| 2026-10-08 13:20:09 | [Australammoecius coloratus](https://en.wikipedia.org/wiki/Australammoecius_coloratus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,239 |
+| 2026-10-08 13:21:40 | [1823 Chilean parliamentary election](https://en.wikipedia.org/wiki/1823_Chilean_parliamentary_election) | [Pristino](https://en.wikipedia.org/wiki/User:Pristino) | 9,749 |
