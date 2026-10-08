@@ -13,57 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-08 22:20 UTC](data/en/new-articles-2026-10-08T22-20-15Z.csv) | 25 |
-| Japanese | `ja` | [2026-10-08 22:20 UTC](data/ja/new-articles-2026-10-08T22-20-15Z.csv) | 1 |
-| Chinese | `zh` | [2026-10-08 20:18 UTC](data/zh/new-articles-2026-10-08T20-18-36Z.csv) | 4 |
-| French | `fr` | [2026-10-08 22:20 UTC](data/fr/new-articles-2026-10-08T22-20-15Z.csv) | 11 |
-| German | `de` | [2026-10-08 22:20 UTC](data/de/new-articles-2026-10-08T22-20-15Z.csv) | 12 |
-| Russian | `ru` | [2026-10-08 22:20 UTC](data/ru/new-articles-2026-10-08T22-20-15Z.csv) | 4 |
-| Spanish | `es` | [2026-10-08 22:20 UTC](data/es/new-articles-2026-10-08T22-20-15Z.csv) | 5 |
-| Italian | `it` | [2026-10-08 22:20 UTC](data/it/new-articles-2026-10-08T22-20-15Z.csv) | 4 |
-| Portuguese | `pt` | [2026-10-08 22:20 UTC](data/pt/new-articles-2026-10-08T22-20-15Z.csv) | 8 |
-| Polish | `pl` | [2026-10-08 22:20 UTC](data/pl/new-articles-2026-10-08T22-20-15Z.csv) | 2 |
+| English | `en` | [2026-10-08 23:19 UTC](data/en/new-articles-2026-10-08T23-19-07Z.csv) | 14 |
+| Japanese | `ja` | [2026-10-08 23:19 UTC](data/ja/new-articles-2026-10-08T23-19-07Z.csv) | 1 |
+| Chinese | `zh` | [2026-10-08 23:19 UTC](data/zh/new-articles-2026-10-08T23-19-07Z.csv) | 4 |
+| French | `fr` | [2026-10-08 23:19 UTC](data/fr/new-articles-2026-10-08T23-19-07Z.csv) | 6 |
+| German | `de` | [2026-10-08 23:19 UTC](data/de/new-articles-2026-10-08T23-19-07Z.csv) | 5 |
+| Russian | `ru` | [2026-10-08 23:19 UTC](data/ru/new-articles-2026-10-08T23-19-07Z.csv) | 2 |
+| Spanish | `es` | [2026-10-08 23:19 UTC](data/es/new-articles-2026-10-08T23-19-07Z.csv) | 2 |
+| Italian | `it` | [2026-10-08 23:19 UTC](data/it/new-articles-2026-10-08T23-19-07Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-08 23:19 UTC](data/pt/new-articles-2026-10-08T23-19-07Z.csv) | 7 |
+| Polish | `pl` | [2026-10-08 23:19 UTC](data/pl/new-articles-2026-10-08T23-19-07Z.csv) | 4 |
 | Arabic | `ar` | [2026-10-08 22:20 UTC](data/ar/new-articles-2026-10-08T22-20-15Z.csv) | 11 |
-| Persian | `fa` | [2026-10-08 22:20 UTC](data/fa/new-articles-2026-10-08T22-20-15Z.csv) | 9 |
-| Turkish | `tr` | [2026-10-08 22:20 UTC](data/tr/new-articles-2026-10-08T22-20-15Z.csv) | 6 |
+| Persian | `fa` | [2026-10-08 23:19 UTC](data/fa/new-articles-2026-10-08T23-19-07Z.csv) | 8 |
+| Turkish | `tr` | [2026-10-08 23:19 UTC](data/tr/new-articles-2026-10-08T23-19-07Z.csv) | 6 |
 | Hebrew | `he` | [2026-10-08 22:20 UTC](data/he/new-articles-2026-10-08T22-20-15Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-08 22:20 UTC](data/sv/new-articles-2026-10-08T22-20-15Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-08 22:20 UTC](data/nl/new-articles-2026-10-08T22-20-15Z.csv) | 5 |
+| Swedish | `sv` | [2026-10-08 23:19 UTC](data/sv/new-articles-2026-10-08T23-19-07Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-08 23:19 UTC](data/nl/new-articles-2026-10-08T23-19-07Z.csv) | 4 |
 | Korean | `ko` | [2026-10-08 20:18 UTC](data/ko/new-articles-2026-10-08T20-18-36Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-08 22:20 UTC](data/id/new-articles-2026-10-08T22-20-15Z.csv) | 20 |
-| Ukrainian | `uk` | [2026-10-08 22:20 UTC](data/uk/new-articles-2026-10-08T22-20-15Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-08 23:19 UTC](data/id/new-articles-2026-10-08T23-19-07Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-08 23:19 UTC](data/uk/new-articles-2026-10-08T23-19-07Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-10-08 18:18 UTC](data/vi/new-articles-2026-10-08T18-18-38Z.csv) | 1 |
 
-## English (en) — 2026-10-08 22:20 UTC
+## English (en) — 2026-10-08 23:19 UTC
 
-New articles created between 2026-10-08 21:19 UTC and 2026-10-08 22:20 UTC.
+New articles created between 2026-10-08 22:20 UTC and 2026-10-08 23:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-08T22-20-15Z.csv)
+[Full CSV](data/en/new-articles-2026-10-08T23-19-07Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-08 21:22:54 | [Ranunculus simulans](https://en.wikipedia.org/wiki/Ranunculus_simulans) | [Ambrosia10](https://en.wikipedia.org/wiki/User:Ambrosia10) | 1,226 |
-| 2026-10-08 21:30:15 | [Hey Rock and Roll](https://en.wikipedia.org/wiki/Hey_Rock_and_Roll) | [ItsBri](https://en.wikipedia.org/wiki/User:ItsBri) | 6,480 |
-| 2026-10-08 21:33:19 | [Ismael Pérez](https://en.wikipedia.org/wiki/Ismael_P%C3%A9rez) | [Moscow Mule](https://en.wikipedia.org/wiki/User:Moscow_Mule) | 448 |
-| 2026-10-08 21:34:41 | [Denver Civic Center Classroom Building](https://en.wikipedia.org/wiki/Denver_Civic_Center_Classroom_Building) | [Dclemens1971](https://en.wikipedia.org/wiki/User:Dclemens1971) | 3,233 |
-| 2026-10-08 21:34:53 | [Antonia Goldner](https://en.wikipedia.org/wiki/Antonia_Goldner) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,678 |
-| 2026-10-08 21:35:21 | [2026 Champaign County, Illinois Executive election](https://en.wikipedia.org/wiki/2026_Champaign_County%2C_Illinois_Executive_election) | [Srekcins](https://en.wikipedia.org/wiki/User:Srekcins) | 4,186 |
-| 2026-10-08 21:35:36 | [Trams in Molochne](https://en.wikipedia.org/wiki/Trams_in_Molochne) | [120Hz USB type C HDMI cable cord](https://en.wikipedia.org/wiki/User:120Hz_USB_type_C_HDMI_cable_cord) | 6,091 |
-| 2026-10-08 21:36:39 | [Petrônio Portella](https://en.wikipedia.org/wiki/Petr%C3%B4nio_Portella) | [S1r Gawa1n 2004](https://en.wikipedia.org/wiki/User:S1r_Gawa1n_2004) | 10,825 |
-| 2026-10-08 21:36:50 | [Perfeição (song)](https://en.wikipedia.org/wiki/Perfei%C3%A7%C3%A3o_%28song%29) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,419 |
-| 2026-10-08 21:39:17 | [Anna Harrison (disambiguation)](https://en.wikipedia.org/wiki/Anna_Harrison_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 290 |
-| 2026-10-08 21:40:24 | [The Enchanted Hinny](https://en.wikipedia.org/wiki/The_Enchanted_Hinny) | [KHR FolkMyth](https://en.wikipedia.org/wiki/User:KHR_FolkMyth) | 17,376 |
-| 2026-10-08 21:41:44 | [Where's One?](https://en.wikipedia.org/wiki/Where%27s_One%3F) | [Thrashbandicoot01](https://en.wikipedia.org/wiki/User:Thrashbandicoot01) | 5,415 |
-| 2026-10-08 21:44:28 | [Franco Gussoni](https://en.wikipedia.org/wiki/Franco_Gussoni) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,918 |
-| 2026-10-08 21:45:25 | [OpenAI October 2026 release of mathematical papers](https://en.wikipedia.org/wiki/OpenAI_October_2026_release_of_mathematical_papers) | [Squid45](https://en.wikipedia.org/wiki/User:Squid45) | 13,858 |
-| 2026-10-08 21:46:36 | [Ranunculus mirus](https://en.wikipedia.org/wiki/Ranunculus_mirus) | [Ambrosia10](https://en.wikipedia.org/wiki/User:Ambrosia10) | 1,240 |
-| 2026-10-08 21:50:10 | [Mary E. Brewster](https://en.wikipedia.org/wiki/Mary_E._Brewster) | [Paulukon](https://en.wikipedia.org/wiki/User:Paulukon) | 1,059 |
-| 2026-10-08 21:51:54 | [Maros culture](https://en.wikipedia.org/wiki/Maros_culture) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 1,139 |
-| 2026-10-08 21:52:19 | [Bilal Hasan](https://en.wikipedia.org/wiki/Bilal_Hasan) | [Moneyonlyboy](https://en.wikipedia.org/wiki/User:Moneyonlyboy) | 9,203 |
-| 2026-10-08 21:59:20 | [2003 FBC Melgar season](https://en.wikipedia.org/wiki/2003_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
-| 2026-10-08 21:59:22 | [Fernanda Louback](https://en.wikipedia.org/wiki/Fernanda_Louback) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,119 |
-| 2026-10-08 21:59:41 | [Ranunculus membranifolius](https://en.wikipedia.org/wiki/Ranunculus_membranifolius) | [Ambrosia10](https://en.wikipedia.org/wiki/User:Ambrosia10) | 1,340 |
-| 2026-10-08 22:07:24 | [Riccardo Cassano (footballer)](https://en.wikipedia.org/wiki/Riccardo_Cassano_%28footballer%29) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,491 |
-| 2026-10-08 22:08:28 | [Ministry of Economic Development and Investment Promotion](https://en.wikipedia.org/wiki/Ministry_of_Economic_Development_and_Investment_Promotion) | [Mangwanani](https://en.wikipedia.org/wiki/User:Mangwanani) | 2,491 |
-| 2026-10-08 22:12:50 | [2027 South American U-20 Championship](https://en.wikipedia.org/wiki/2027_South_American_U-20_Championship) | [ShinyBoat28](https://en.wikipedia.org/wiki/User:ShinyBoat28) | 4,117 |
-| 2026-10-08 22:15:36 | [2004 FBC Melgar season](https://en.wikipedia.org/wiki/2004_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
+| 2026-10-08 22:23:44 | [Anna Kocková-Kratochvílova](https://en.wikipedia.org/wiki/Anna_Kockov%C3%A1-Kratochv%C3%ADlova) | [SDGB1217](https://en.wikipedia.org/wiki/User:SDGB1217) | 5,437 |
+| 2026-10-08 22:35:25 | [2008 FBC Melgar season](https://en.wikipedia.org/wiki/2008_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
+| 2026-10-08 22:40:00 | [Zereoue Williams](https://en.wikipedia.org/wiki/Zereoue_Williams) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 75 |
+| 2026-10-08 22:41:25 | [Rich Myers (wrestler)](https://en.wikipedia.org/wiki/Rich_Myers_%28wrestler%29) | [Kingzwest](https://en.wikipedia.org/wiki/User:Kingzwest) | 2,406 |
+| 2026-10-08 22:42:18 | [Birchwood Country Club](https://en.wikipedia.org/wiki/Birchwood_Country_Club) | [Dlions1](https://en.wikipedia.org/wiki/User:Dlions1) | 7,220 |
+| 2026-10-08 22:48:50 | [Sol Violinsky](https://en.wikipedia.org/wiki/Sol_Violinsky) | [Maineartists](https://en.wikipedia.org/wiki/User:Maineartists) | 4,523 |
+| 2026-10-08 22:51:21 | [2009 FBC Melgar season](https://en.wikipedia.org/wiki/2009_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,070 |
+| 2026-10-08 22:55:37 | [St Andrew's Church, Middleton-on-the-Wolds](https://en.wikipedia.org/wiki/St_Andrew%27s_Church%2C_Middleton-on-the-Wolds) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 1,953 |
+| 2026-10-08 22:57:51 | [Amazon Alexa Tablets](https://en.wikipedia.org/wiki/Amazon_Alexa_Tablets) | [Contents6762](https://en.wikipedia.org/wiki/User:Contents6762) | 800 |
+| 2026-10-08 23:00:58 | [Cjdns](https://en.wikipedia.org/wiki/Cjdns) | [RingtailedFox](https://en.wikipedia.org/wiki/User:RingtailedFox) | 5,742 |
+| 2026-10-08 23:04:10 | [Calvey](https://en.wikipedia.org/wiki/Calvey) | [Bkonrad](https://en.wikipedia.org/wiki/User:Bkonrad) | 457 |
+| 2026-10-08 23:05:20 | [Thiago Auricchio](https://en.wikipedia.org/wiki/Thiago_Auricchio) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,167 |
+| 2026-10-08 23:07:09 | [2010 FBC Melgar season](https://en.wikipedia.org/wiki/2010_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,054 |
+| 2026-10-08 23:13:25 | [2027 America East Conference men's basketball tournament](https://en.wikipedia.org/wiki/2027_America_East_Conference_men%27s_basketball_tournament) | [Elijah 1022](https://en.wikipedia.org/wiki/User:Elijah_1022) | 3,887 |
