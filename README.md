@@ -13,57 +13,61 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-08 19:18 UTC](data/en/new-articles-2026-10-08T19-18-40Z.csv) | 25 |
-| Japanese | `ja` | [2026-10-08 19:18 UTC](data/ja/new-articles-2026-10-08T19-18-40Z.csv) | 3 |
-| Chinese | `zh` | [2026-10-08 19:18 UTC](data/zh/new-articles-2026-10-08T19-18-40Z.csv) | 15 |
-| French | `fr` | [2026-10-08 19:18 UTC](data/fr/new-articles-2026-10-08T19-18-40Z.csv) | 7 |
-| German | `de` | [2026-10-08 19:18 UTC](data/de/new-articles-2026-10-08T19-18-40Z.csv) | 12 |
-| Russian | `ru` | [2026-10-08 19:18 UTC](data/ru/new-articles-2026-10-08T19-18-40Z.csv) | 10 |
-| Spanish | `es` | [2026-10-08 19:18 UTC](data/es/new-articles-2026-10-08T19-18-40Z.csv) | 6 |
-| Italian | `it` | [2026-10-08 19:18 UTC](data/it/new-articles-2026-10-08T19-18-40Z.csv) | 7 |
-| Portuguese | `pt` | [2026-10-08 19:18 UTC](data/pt/new-articles-2026-10-08T19-18-40Z.csv) | 8 |
-| Polish | `pl` | [2026-10-08 19:18 UTC](data/pl/new-articles-2026-10-08T19-18-40Z.csv) | 10 |
-| Arabic | `ar` | [2026-10-08 19:18 UTC](data/ar/new-articles-2026-10-08T19-18-40Z.csv) | 4 |
-| Persian | `fa` | [2026-10-08 19:18 UTC](data/fa/new-articles-2026-10-08T19-18-40Z.csv) | 2 |
-| Turkish | `tr` | [2026-10-08 19:18 UTC](data/tr/new-articles-2026-10-08T19-18-40Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-08 19:18 UTC](data/he/new-articles-2026-10-08T19-18-40Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-08 19:18 UTC](data/sv/new-articles-2026-10-08T19-18-40Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-08 19:18 UTC](data/nl/new-articles-2026-10-08T19-18-40Z.csv) | 4 |
-| Korean | `ko` | [2026-10-08 17:18 UTC](data/ko/new-articles-2026-10-08T17-18-34Z.csv) | 1 |
+| English | `en` | [2026-10-08 20:18 UTC](data/en/new-articles-2026-10-08T20-18-36Z.csv) | 29 |
+| Japanese | `ja` | [2026-10-08 20:18 UTC](data/ja/new-articles-2026-10-08T20-18-36Z.csv) | 2 |
+| Chinese | `zh` | [2026-10-08 20:18 UTC](data/zh/new-articles-2026-10-08T20-18-36Z.csv) | 4 |
+| French | `fr` | [2026-10-08 20:18 UTC](data/fr/new-articles-2026-10-08T20-18-36Z.csv) | 9 |
+| German | `de` | [2026-10-08 20:18 UTC](data/de/new-articles-2026-10-08T20-18-36Z.csv) | 12 |
+| Russian | `ru` | [2026-10-08 20:18 UTC](data/ru/new-articles-2026-10-08T20-18-36Z.csv) | 5 |
+| Spanish | `es` | [2026-10-08 20:18 UTC](data/es/new-articles-2026-10-08T20-18-36Z.csv) | 3 |
+| Italian | `it` | [2026-10-08 20:18 UTC](data/it/new-articles-2026-10-08T20-18-36Z.csv) | 13 |
+| Portuguese | `pt` | [2026-10-08 20:18 UTC](data/pt/new-articles-2026-10-08T20-18-36Z.csv) | 9 |
+| Polish | `pl` | [2026-10-08 20:18 UTC](data/pl/new-articles-2026-10-08T20-18-36Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-08 20:18 UTC](data/ar/new-articles-2026-10-08T20-18-36Z.csv) | 3 |
+| Persian | `fa` | [2026-10-08 20:18 UTC](data/fa/new-articles-2026-10-08T20-18-36Z.csv) | 4 |
+| Turkish | `tr` | [2026-10-08 20:18 UTC](data/tr/new-articles-2026-10-08T20-18-36Z.csv) | 13 |
+| Hebrew | `he` | [2026-10-08 20:18 UTC](data/he/new-articles-2026-10-08T20-18-36Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-08 20:18 UTC](data/sv/new-articles-2026-10-08T20-18-36Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-08 20:18 UTC](data/nl/new-articles-2026-10-08T20-18-36Z.csv) | 4 |
+| Korean | `ko` | [2026-10-08 20:18 UTC](data/ko/new-articles-2026-10-08T20-18-36Z.csv) | 1 |
 | Indonesian | `id` | [2026-10-08 19:18 UTC](data/id/new-articles-2026-10-08T19-18-40Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-10-08 19:18 UTC](data/uk/new-articles-2026-10-08T19-18-40Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-08 20:18 UTC](data/uk/new-articles-2026-10-08T20-18-36Z.csv) | 11 |
 | Vietnamese | `vi` | [2026-10-08 18:18 UTC](data/vi/new-articles-2026-10-08T18-18-38Z.csv) | 1 |
 
-## English (en) — 2026-10-08 19:18 UTC
+## English (en) — 2026-10-08 20:18 UTC
 
-New articles created between 2026-10-08 18:18 UTC and 2026-10-08 19:18 UTC.
+New articles created between 2026-10-08 19:18 UTC and 2026-10-08 20:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-08T19-18-40Z.csv)
+[Full CSV](data/en/new-articles-2026-10-08T20-18-36Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-08 18:18:56 | [Ataenius peregrinator](https://en.wikipedia.org/wiki/Ataenius_peregrinator) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,584 |
-| 2026-10-08 18:19:56 | [Esther Bol](https://en.wikipedia.org/wiki/Esther_Bol) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 2,272 |
-| 2026-10-08 18:21:06 | [North Seward Township, Kansas](https://en.wikipedia.org/wiki/North_Seward_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,339 |
-| 2026-10-08 18:21:52 | [D. M. Terblanche](https://en.wikipedia.org/wiki/D._M._Terblanche) | [O.ominirabluejack](https://en.wikipedia.org/wiki/User:O.ominirabluejack) | 743 |
-| 2026-10-08 18:21:53 | [Manglou](https://en.wikipedia.org/wiki/Manglou) | [Vycl1994](https://en.wikipedia.org/wiki/User:Vycl1994) | 186 |
-| 2026-10-08 18:23:21 | [Ataenius rakovici](https://en.wikipedia.org/wiki/Ataenius_rakovici) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,047 |
-| 2026-10-08 18:23:25 | [Lucila Edelman](https://en.wikipedia.org/wiki/Lucila_Edelman) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 8,011 |
-| 2026-10-08 18:23:37 | [Diana Kordon](https://en.wikipedia.org/wiki/Diana_Kordon) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 6,411 |
-| 2026-10-08 18:24:21 | [Hunter Reno](https://en.wikipedia.org/wiki/Hunter_Reno) | [Hameltion](https://en.wikipedia.org/wiki/User:Hameltion) | 9,549 |
-| 2026-10-08 18:26:30 | [Kappo Kappo](https://en.wikipedia.org/wiki/Kappo_Kappo) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,308 |
-| 2026-10-08 18:28:22 | [Kursat Jonathan Pekgoz](https://en.wikipedia.org/wiki/Kursat_Jonathan_Pekgoz) | [Tjklnr123](https://en.wikipedia.org/wiki/User:Tjklnr123) | 5,576 |
-| 2026-10-08 18:34:09 | [Fabio Ceccherini](https://en.wikipedia.org/wiki/Fabio_Ceccherini) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,270 |
-| 2026-10-08 18:34:47 | [Phineas and Ferb season 6](https://en.wikipedia.org/wiki/Phineas_and_Ferb_season_6) | [Rocmonster](https://en.wikipedia.org/wiki/User:Rocmonster) | 4,474 |
-| 2026-10-08 18:36:49 | [Issoufou Labo](https://en.wikipedia.org/wiki/Issoufou_Labo) | [Jebiguess](https://en.wikipedia.org/wiki/User:Jebiguess) | 5,032 |
-| 2026-10-08 18:38:21 | [45–49 Micklegate and 1 St Martin's Lane](https://en.wikipedia.org/wiki/45%E2%80%9349_Micklegate_and_1_St_Martin%27s_Lane) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 12,018 |
-| 2026-10-08 18:41:34 | [Adam & Eve (novel)](https://en.wikipedia.org/wiki/Adam_%26_Eve_%28novel%29) | [Giffgaff Parody](https://en.wikipedia.org/wiki/User:Giffgaff_Parody) | 1,153 |
-| 2026-10-08 18:43:03 | [Cameron (actress)](https://en.wikipedia.org/wiki/Cameron_%28actress%29) | [KamillaŚ](https://en.wikipedia.org/wiki/User:Kamilla%C5%9A) | 7,072 |
-| 2026-10-08 18:49:26 | [Dan Larson (American football coach)](https://en.wikipedia.org/wiki/Dan_Larson_%28American_football_coach%29) | [PutABoatOnTheWater](https://en.wikipedia.org/wiki/User:PutABoatOnTheWater) | 9,947 |
-| 2026-10-08 18:52:28 | [Jakub Schwarz Trojan](https://en.wikipedia.org/wiki/Jakub_Schwarz_Trojan) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 455 |
-| 2026-10-08 18:57:44 | [London Keyes](https://en.wikipedia.org/wiki/London_Keyes) | [S1r Gawa1n 2004](https://en.wikipedia.org/wiki/User:S1r_Gawa1n_2004) | 2,750 |
-| 2026-10-08 18:58:50 | [Byron E. Pay (Medal of Honor)](https://en.wikipedia.org/wiki/Byron_E._Pay_%28Medal_of_Honor%29) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 11,124 |
-| 2026-10-08 19:01:12 | [Bill Sutherland (activist)](https://en.wikipedia.org/wiki/Bill_Sutherland_%28activist%29) | [Ndoshinw](https://en.wikipedia.org/wiki/User:Ndoshinw) | 12,628 |
-| 2026-10-08 19:06:54 | [Dmitry Igdisamov](https://en.wikipedia.org/wiki/Dmitry_Igdisamov) | [Djprasadian](https://en.wikipedia.org/wiki/User:Djprasadian) | 141 |
-| 2026-10-08 19:15:49 | [Thiago Manzoni](https://en.wikipedia.org/wiki/Thiago_Manzoni) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,894 |
-| 2026-10-08 19:17:53 | [Katie Wiles](https://en.wikipedia.org/wiki/Katie_Wiles) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 3,407 |
+| 2026-10-08 19:21:48 | [Redžić](https://en.wikipedia.org/wiki/Red%C5%BEi%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 437 |
+| 2026-10-08 19:21:56 | [Pakra Monastery](https://en.wikipedia.org/wiki/Pakra_Monastery) | [Mmns21](https://en.wikipedia.org/wiki/User:Mmns21) | 13,842 |
+| 2026-10-08 19:27:09 | [Pink Blush](https://en.wikipedia.org/wiki/Pink_Blush) | [Alékoloco](https://en.wikipedia.org/wiki/User:Al%C3%A9koloco) | 2,979 |
+| 2026-10-08 19:29:03 | [Narciso Buffoni](https://en.wikipedia.org/wiki/Narciso_Buffoni) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,804 |
+| 2026-10-08 19:32:21 | [List of acts of the Parliament of Victoria from 1893](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1893) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 1,958 |
+| 2026-10-08 19:32:30 | [2-(Indol-3-yl)cyclopropylamines](https://en.wikipedia.org/wiki/2-%28Indol-3-yl%29cyclopropylamines) | [Oeryc](https://en.wikipedia.org/wiki/User:Oeryc) | 1,650 |
+| 2026-10-08 19:33:21 | [Mummy Cave Ancestor](https://en.wikipedia.org/wiki/Mummy_Cave_Ancestor) | [IfShrimpHadABarbie](https://en.wikipedia.org/wiki/User:IfShrimpHadABarbie) | 28,831 |
+| 2026-10-08 19:40:14 | [Pyridaben](https://en.wikipedia.org/wiki/Pyridaben) | [Minihaa](https://en.wikipedia.org/wiki/User:Minihaa) | 3,556 |
+| 2026-10-08 19:42:02 | [List of acts of the Parliament of Victoria from 1891](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1891) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 567 |
+| 2026-10-08 19:42:12 | [List of acts of the Parliament of Victoria from 1894](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1894) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 567 |
+| 2026-10-08 19:42:22 | [List of acts of the Parliament of Victoria from 1897](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1897) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 567 |
+| 2026-10-08 19:42:35 | [List of acts of the Parliament of Victoria from 1898](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1898) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 567 |
+| 2026-10-08 19:43:05 | [List of acts of the Parliament of Victoria from 1929](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1929) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 567 |
+| 2026-10-08 19:43:13 | [List of acts of the Parliament of Victoria from 1928](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1928) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 567 |
+| 2026-10-08 19:43:27 | [List of acts of the Parliament of Victoria from 1915](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1915) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 567 |
+| 2026-10-08 19:48:22 | [LUVMI](https://en.wikipedia.org/wiki/LUVMI) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 3,447 |
+| 2026-10-08 19:51:48 | [Billy E. Jones](https://en.wikipedia.org/wiki/Billy_E._Jones) | [Engrigg22](https://en.wikipedia.org/wiki/User:Engrigg22) | 4,392 |
+| 2026-10-08 19:55:36 | [Doushantuophyton](https://en.wikipedia.org/wiki/Doushantuophyton) | [DevonHalDraedle](https://en.wikipedia.org/wiki/User:DevonHalDraedle) | 10,874 |
+| 2026-10-08 19:55:47 | [List of Param Vishisht Seva Medal recipients (2020–2029)](https://en.wikipedia.org/wiki/List_of_Param_Vishisht_Seva_Medal_recipients_%282020%E2%80%932029%29) | [Aumnamahashiva](https://en.wikipedia.org/wiki/User:Aumnamahashiva) | 9,933 |
+| 2026-10-08 19:59:03 | [Huevos al albañil](https://en.wikipedia.org/wiki/Huevos_al_alba%C3%B1il) | [Heroeswithmetaphors](https://en.wikipedia.org/wiki/User:Heroeswithmetaphors) | 499 |
+| 2026-10-08 20:02:55 | [Catherine Muller (Filmmarker)](https://en.wikipedia.org/wiki/Catherine_Muller_%28Filmmarker%29) | [Slippery slope302](https://en.wikipedia.org/wiki/User:Slippery_slope302) | 6,720 |
+| 2026-10-08 20:04:36 | [Cooke's Presbyterian Church](https://en.wikipedia.org/wiki/Cooke%27s_Presbyterian_Church) | [Walco1](https://en.wikipedia.org/wiki/User:Walco1) | 5,340 |
+| 2026-10-08 20:07:07 | [Henriette Perrin-Duportal](https://en.wikipedia.org/wiki/Henriette_Perrin-Duportal) | [MumphingSquirrel](https://en.wikipedia.org/wiki/User:MumphingSquirrel) | 8,418 |
+| 2026-10-08 20:07:14 | [Aria latisedes](https://en.wikipedia.org/wiki/Aria_latisedes) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 5,740 |
+| 2026-10-08 20:07:45 | [Datsun Sado](https://en.wikipedia.org/wiki/Datsun_Sado) | [Mr.choppers](https://en.wikipedia.org/wiki/User:Mr.choppers) | 1,493 |
+| 2026-10-08 20:07:57 | [John Woodhouse (Nonconformist minister)](https://en.wikipedia.org/wiki/John_Woodhouse_%28Nonconformist_minister%29) | [Sjwells53](https://en.wikipedia.org/wiki/User:Sjwells53) | 32,251 |
+| 2026-10-08 20:10:16 | [Pedro Vidal](https://en.wikipedia.org/wiki/Pedro_Vidal) | [Moscow Mule](https://en.wikipedia.org/wiki/User:Moscow_Mule) | 487 |
+| 2026-10-08 20:14:12 | [Joseph Peltier](https://en.wikipedia.org/wiki/Joseph_Peltier) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 5,595 |
+| 2026-10-08 20:15:57 | [Viktor Danilov (historian)](https://en.wikipedia.org/wiki/Viktor_Danilov_%28historian%29) | [Carrite](https://en.wikipedia.org/wiki/User:Carrite) | 1,295 |
