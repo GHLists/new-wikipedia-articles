@@ -13,45 +13,43 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-08 03:18 UTC](data/en/new-articles-2026-10-08T03-18-34Z.csv) | 13 |
-| Japanese | `ja` | [2026-10-08 03:18 UTC](data/ja/new-articles-2026-10-08T03-18-34Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-08 03:18 UTC](data/zh/new-articles-2026-10-08T03-18-34Z.csv) | 5 |
-| French | `fr` | [2026-10-08 03:18 UTC](data/fr/new-articles-2026-10-08T03-18-34Z.csv) | 1 |
+| English | `en` | [2026-10-08 04:18 UTC](data/en/new-articles-2026-10-08T04-18-53Z.csv) | 11 |
+| Japanese | `ja` | [2026-10-08 04:18 UTC](data/ja/new-articles-2026-10-08T04-18-53Z.csv) | 7 |
+| Chinese | `zh` | [2026-10-08 04:18 UTC](data/zh/new-articles-2026-10-08T04-18-53Z.csv) | 7 |
+| French | `fr` | [2026-10-08 04:18 UTC](data/fr/new-articles-2026-10-08T04-18-53Z.csv) | 5 |
 | German | `de` | [2026-10-08 03:18 UTC](data/de/new-articles-2026-10-08T03-18-34Z.csv) | 3 |
-| Russian | `ru` | [2026-10-08 03:18 UTC](data/ru/new-articles-2026-10-08T03-18-34Z.csv) | 5 |
-| Spanish | `es` | [2026-10-08 03:18 UTC](data/es/new-articles-2026-10-08T03-18-34Z.csv) | 1 |
+| Russian | `ru` | [2026-10-08 04:18 UTC](data/ru/new-articles-2026-10-08T04-18-53Z.csv) | 2 |
+| Spanish | `es` | [2026-10-08 04:18 UTC](data/es/new-articles-2026-10-08T04-18-53Z.csv) | 4 |
 | Italian | `it` | [2026-10-08 03:18 UTC](data/it/new-articles-2026-10-08T03-18-34Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-08 03:18 UTC](data/pt/new-articles-2026-10-08T03-18-34Z.csv) | 1 |
-| Polish | `pl` | [2026-10-08 02:19 UTC](data/pl/new-articles-2026-10-08T02-19-55Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-08 03:18 UTC](data/ar/new-articles-2026-10-08T03-18-34Z.csv) | 1 |
-| Persian | `fa` | [2026-10-08 03:18 UTC](data/fa/new-articles-2026-10-08T03-18-34Z.csv) | 1 |
-| Turkish | `tr` | [2026-10-08 02:19 UTC](data/tr/new-articles-2026-10-08T02-19-55Z.csv) | 9 |
-| Hebrew | `he` | [2026-10-08 03:18 UTC](data/he/new-articles-2026-10-08T03-18-34Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-08 04:18 UTC](data/pt/new-articles-2026-10-08T04-18-53Z.csv) | 1 |
+| Polish | `pl` | [2026-10-08 04:18 UTC](data/pl/new-articles-2026-10-08T04-18-53Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-08 04:18 UTC](data/ar/new-articles-2026-10-08T04-18-53Z.csv) | 2 |
+| Persian | `fa` | [2026-10-08 04:18 UTC](data/fa/new-articles-2026-10-08T04-18-53Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-08 04:18 UTC](data/tr/new-articles-2026-10-08T04-18-53Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-08 04:18 UTC](data/he/new-articles-2026-10-08T04-18-53Z.csv) | 1 |
 | Swedish | `sv` | [2026-10-08 01:21 UTC](data/sv/new-articles-2026-10-08T01-21-20Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-08 03:18 UTC](data/nl/new-articles-2026-10-08T03-18-34Z.csv) | 1 |
-| Korean | `ko` | [2026-10-08 03:18 UTC](data/ko/new-articles-2026-10-08T03-18-34Z.csv) | 5 |
-| Indonesian | `id` | [2026-10-08 03:18 UTC](data/id/new-articles-2026-10-08T03-18-34Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-10-08 03:18 UTC](data/uk/new-articles-2026-10-08T03-18-34Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-10-08 03:18 UTC](data/vi/new-articles-2026-10-08T03-18-34Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-08 04:18 UTC](data/nl/new-articles-2026-10-08T04-18-53Z.csv) | 1 |
+| Korean | `ko` | [2026-10-08 04:18 UTC](data/ko/new-articles-2026-10-08T04-18-53Z.csv) | 4 |
+| Indonesian | `id` | [2026-10-08 04:18 UTC](data/id/new-articles-2026-10-08T04-18-53Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-10-08 04:18 UTC](data/uk/new-articles-2026-10-08T04-18-53Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-10-08 04:18 UTC](data/vi/new-articles-2026-10-08T04-18-53Z.csv) | 2 |
 
-## English (en) — 2026-10-08 03:18 UTC
+## English (en) — 2026-10-08 04:18 UTC
 
-New articles created between 2026-10-08 02:19 UTC and 2026-10-08 03:18 UTC.
+New articles created between 2026-10-08 03:18 UTC and 2026-10-08 04:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-08T03-18-34Z.csv)
+[Full CSV](data/en/new-articles-2026-10-08T04-18-53Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-08 02:26:15 | [Hylaeus amatulus](https://en.wikipedia.org/wiki/Hylaeus_amatulus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,195 |
-| 2026-10-08 02:33:43 | [2026 Eritrean incursion into Ethiopia](https://en.wikipedia.org/wiki/2026_Eritrean_incursion_into_Ethiopia) | [PopularGames](https://en.wikipedia.org/wiki/User:PopularGames) | 1,583 |
-| 2026-10-08 02:39:03 | [Biak people](https://en.wikipedia.org/wiki/Biak_people) | [PharyngealImplosive7](https://en.wikipedia.org/wiki/User:PharyngealImplosive7) | 9,898 |
-| 2026-10-08 02:52:08 | [Tsubi Club](https://en.wikipedia.org/wiki/Tsubi_Club) | [Dwarfroe](https://en.wikipedia.org/wiki/User:Dwarfroe) | 6,790 |
-| 2026-10-08 02:57:16 | [Nil Gimeno](https://en.wikipedia.org/wiki/Nil_Gimeno) | [Peoya](https://en.wikipedia.org/wiki/User:Peoya) | 3,134 |
-| 2026-10-08 02:59:27 | [Ruslan Martsinkiv](https://en.wikipedia.org/wiki/Ruslan_Martsinkiv) | [Scanlan](https://en.wikipedia.org/wiki/User:Scanlan) | 3,321 |
-| 2026-10-08 03:00:01 | [Universal Boxing Organization (UBO)](https://en.wikipedia.org/wiki/Universal_Boxing_Organization_%28UBO%29) | [Wvhistory1](https://en.wikipedia.org/wiki/User:Wvhistory1) | 8,699 |
-| 2026-10-08 03:03:30 | [Federica D'Auria](https://en.wikipedia.org/wiki/Federica_D%27Auria) | [Cozy1298](https://en.wikipedia.org/wiki/User:Cozy1298) | 3,614 |
-| 2026-10-08 03:08:50 | [From the Faces of the Mirror](https://en.wikipedia.org/wiki/From_the_Faces_of_the_Mirror) | [Bleff](https://en.wikipedia.org/wiki/User:Bleff) | 7,998 |
-| 2026-10-08 03:13:40 | [2027 New York Yankees season](https://en.wikipedia.org/wiki/2027_New_York_Yankees_season) | [Spanneraol](https://en.wikipedia.org/wiki/User:Spanneraol) | 3,003 |
-| 2026-10-08 03:14:48 | [Non-Berengaudus](https://en.wikipedia.org/wiki/Non-Berengaudus) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 4,762 |
-| 2026-10-08 03:15:17 | [Emma Yap](https://en.wikipedia.org/wiki/Emma_Yap) | [Snailchildren](https://en.wikipedia.org/wiki/User:Snailchildren) | 17,442 |
-| 2026-10-08 03:18:09 | [Catholic Church Reform International](https://en.wikipedia.org/wiki/Catholic_Church_Reform_International) | [WhenSeptEnds](https://en.wikipedia.org/wiki/User:WhenSeptEnds) | 12,204 |
+| 2026-10-08 03:34:21 | [Qorof](https://en.wikipedia.org/wiki/Qorof) | [Turwaq](https://en.wikipedia.org/wiki/User:Turwaq) | 826 |
+| 2026-10-08 03:43:37 | [2026 Veteran Fencing World Championships](https://en.wikipedia.org/wiki/2026_Veteran_Fencing_World_Championships) | [Stevencocoboy](https://en.wikipedia.org/wiki/User:Stevencocoboy) | 894 |
+| 2026-10-08 03:47:09 | [Chery Tiggo V](https://en.wikipedia.org/wiki/Chery_Tiggo_V) | [Anycar](https://en.wikipedia.org/wiki/User:Anycar) | 2,922 |
+| 2026-10-08 03:50:43 | [Omar Rajabli](https://en.wikipedia.org/wiki/Omar_Rajabli) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 7,555 |
+| 2026-10-08 03:50:56 | [Ulrich van den Berg (footballer)](https://en.wikipedia.org/wiki/Ulrich_van_den_Berg_%28footballer%29) | [SuperSkaterDude45](https://en.wikipedia.org/wiki/User:SuperSkaterDude45) | 4,809 |
+| 2026-10-08 03:51:47 | [Gamers Nexus](https://en.wikipedia.org/wiki/Gamers_Nexus) | [Guninvalid](https://en.wikipedia.org/wiki/User:Guninvalid) | 0 |
+| 2026-10-08 03:56:22 | [2027 Big West Conference men's basketball tournament](https://en.wikipedia.org/wiki/2027_Big_West_Conference_men%27s_basketball_tournament) | [Elijah 1022](https://en.wikipedia.org/wiki/User:Elijah_1022) | 5,360 |
+| 2026-10-08 03:58:30 | [Belle Gardens](https://en.wikipedia.org/wiki/Belle_Gardens) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,062 |
+| 2026-10-08 03:59:41 | [2027 LPGA Tour](https://en.wikipedia.org/wiki/2027_LPGA_Tour) | [Derlinus](https://en.wikipedia.org/wiki/User:Derlinus) | 7,676 |
+| 2026-10-08 04:10:08 | [Isopentylamine](https://en.wikipedia.org/wiki/Isopentylamine) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 4,606 |
+| 2026-10-08 04:12:08 | [Quartier Notre-Dame (Paris)](https://en.wikipedia.org/wiki/Quartier_Notre-Dame_%28Paris%29) | [Parisàvie](https://en.wikipedia.org/wiki/User:Paris%C3%A0vie) | 3,534 |
