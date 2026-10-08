@@ -1,124 +1,124 @@
 {
   "languages": {
     "ar": {
-      "count": 4,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/ar/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 8,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/ar/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "de": {
-      "count": 11,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/de/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 7,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/de/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "en": {
-      "count": 25,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/en/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 21,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/en/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "es": {
-      "count": 5,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/es/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 8,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/es/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "fa": {
-      "count": 16,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/fa/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 9,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/fa/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "fr": {
-      "count": 14,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/fr/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 17,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/fr/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "he": {
-      "count": 1,
-      "from": "2026-10-08T08:20:27Z",
-      "path": "data/he/new-articles-2026-10-08T09-19-52Z.csv",
-      "to": "2026-10-08T09:19:52Z"
+      "count": 2,
+      "from": "2026-10-08T09:19:52Z",
+      "path": "data/he/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "id": {
       "count": 15,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/id/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/id/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "it": {
-      "count": 15,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/it/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 8,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/it/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "ja": {
-      "count": 10,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/ja/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 12,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/ja/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "ko": {
-      "count": 3,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/ko/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 2,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/ko/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "nl": {
-      "count": 3,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/nl/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 8,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/nl/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "pl": {
-      "count": 5,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/pl/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 6,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/pl/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "pt": {
       "count": 4,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/pt/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/pt/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "ru": {
-      "count": 12,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/ru/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 13,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/ru/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "sv": {
-      "count": 5,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/sv/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 3,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/sv/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "tr": {
       "count": 5,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/tr/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/tr/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "uk": {
-      "count": 5,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/uk/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 10,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/uk/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "vi": {
-      "count": 2,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/vi/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 4,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/vi/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     },
     "zh": {
-      "count": 7,
-      "from": "2026-10-08T09:19:52Z",
-      "path": "data/zh/new-articles-2026-10-08T10-20-12Z.csv",
-      "to": "2026-10-08T10:20:12Z"
+      "count": 8,
+      "from": "2026-10-08T10:20:12Z",
+      "path": "data/zh/new-articles-2026-10-08T11-21-32Z.csv",
+      "to": "2026-10-08T11:21:32Z"
     }
   }
 }
