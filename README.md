@@ -13,44 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-09 07:19 UTC](data/en/new-articles-2026-10-09T07-19-18Z.csv) | 12 |
-| Japanese | `ja` | [2026-10-09 07:19 UTC](data/ja/new-articles-2026-10-09T07-19-18Z.csv) | 5 |
-| Chinese | `zh` | [2026-10-09 07:19 UTC](data/zh/new-articles-2026-10-09T07-19-18Z.csv) | 4 |
-| French | `fr` | [2026-10-09 07:19 UTC](data/fr/new-articles-2026-10-09T07-19-18Z.csv) | 8 |
-| German | `de` | [2026-10-09 07:19 UTC](data/de/new-articles-2026-10-09T07-19-18Z.csv) | 6 |
-| Russian | `ru` | [2026-10-09 07:19 UTC](data/ru/new-articles-2026-10-09T07-19-18Z.csv) | 9 |
-| Spanish | `es` | [2026-10-09 07:19 UTC](data/es/new-articles-2026-10-09T07-19-18Z.csv) | 9 |
-| Italian | `it` | [2026-10-09 07:19 UTC](data/it/new-articles-2026-10-09T07-19-18Z.csv) | 7 |
+| English | `en` | [2026-10-09 08:19 UTC](data/en/new-articles-2026-10-09T08-19-20Z.csv) | 13 |
+| Japanese | `ja` | [2026-10-09 08:19 UTC](data/ja/new-articles-2026-10-09T08-19-20Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-09 08:19 UTC](data/zh/new-articles-2026-10-09T08-19-20Z.csv) | 8 |
+| French | `fr` | [2026-10-09 08:19 UTC](data/fr/new-articles-2026-10-09T08-19-20Z.csv) | 8 |
+| German | `de` | [2026-10-09 08:19 UTC](data/de/new-articles-2026-10-09T08-19-20Z.csv) | 14 |
+| Russian | `ru` | [2026-10-09 08:19 UTC](data/ru/new-articles-2026-10-09T08-19-20Z.csv) | 12 |
+| Spanish | `es` | [2026-10-09 08:19 UTC](data/es/new-articles-2026-10-09T08-19-20Z.csv) | 10 |
+| Italian | `it` | [2026-10-09 08:19 UTC](data/it/new-articles-2026-10-09T08-19-20Z.csv) | 5 |
 | Portuguese | `pt` | [2026-10-09 06:19 UTC](data/pt/new-articles-2026-10-09T06-19-31Z.csv) | 6 |
-| Polish | `pl` | [2026-10-09 07:19 UTC](data/pl/new-articles-2026-10-09T07-19-18Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-09 07:19 UTC](data/ar/new-articles-2026-10-09T07-19-18Z.csv) | 6 |
-| Persian | `fa` | [2026-10-09 07:19 UTC](data/fa/new-articles-2026-10-09T07-19-18Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-09 07:19 UTC](data/tr/new-articles-2026-10-09T07-19-18Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-09 07:19 UTC](data/he/new-articles-2026-10-09T07-19-18Z.csv) | 7 |
-| Swedish | `sv` | [2026-10-09 07:19 UTC](data/sv/new-articles-2026-10-09T07-19-18Z.csv) | 4 |
-| Dutch | `nl` | [2026-10-09 06:19 UTC](data/nl/new-articles-2026-10-09T06-19-31Z.csv) | 1 |
-| Korean | `ko` | [2026-10-09 05:19 UTC](data/ko/new-articles-2026-10-09T05-19-16Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-09 07:19 UTC](data/id/new-articles-2026-10-09T07-19-18Z.csv) | 21 |
-| Ukrainian | `uk` | [2026-10-09 07:19 UTC](data/uk/new-articles-2026-10-09T07-19-18Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-09 07:19 UTC](data/vi/new-articles-2026-10-09T07-19-18Z.csv) | 2 |
+| Polish | `pl` | [2026-10-09 08:19 UTC](data/pl/new-articles-2026-10-09T08-19-20Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-09 08:19 UTC](data/ar/new-articles-2026-10-09T08-19-20Z.csv) | 7 |
+| Persian | `fa` | [2026-10-09 08:19 UTC](data/fa/new-articles-2026-10-09T08-19-20Z.csv) | 11 |
+| Turkish | `tr` | [2026-10-09 08:19 UTC](data/tr/new-articles-2026-10-09T08-19-20Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-09 08:19 UTC](data/he/new-articles-2026-10-09T08-19-20Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-09 08:19 UTC](data/sv/new-articles-2026-10-09T08-19-20Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-09 08:19 UTC](data/nl/new-articles-2026-10-09T08-19-20Z.csv) | 4 |
+| Korean | `ko` | [2026-10-09 08:19 UTC](data/ko/new-articles-2026-10-09T08-19-20Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-09 08:19 UTC](data/id/new-articles-2026-10-09T08-19-20Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-10-09 08:19 UTC](data/uk/new-articles-2026-10-09T08-19-20Z.csv) | 4 |
+| Vietnamese | `vi` | [2026-10-09 08:19 UTC](data/vi/new-articles-2026-10-09T08-19-20Z.csv) | 7 |
 
-## English (en) — 2026-10-09 07:19 UTC
+## English (en) — 2026-10-09 08:19 UTC
 
-New articles created between 2026-10-09 06:19 UTC and 2026-10-09 07:19 UTC.
+New articles created between 2026-10-09 07:19 UTC and 2026-10-09 08:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-09T07-19-18Z.csv)
+[Full CSV](data/en/new-articles-2026-10-09T08-19-20Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-09 06:23:44 | [Tatvam (2026 film)](https://en.wikipedia.org/wiki/Tatvam_%282026_film%29) | [Creativefrog](https://en.wikipedia.org/wiki/User:Creativefrog) | 8,243 |
-| 2026-10-09 06:26:06 | [2026 BWF World Junior Championships – girls' doubles](https://en.wikipedia.org/wiki/2026_BWF_World_Junior_Championships_%E2%80%93_girls%27_doubles) | [Harmoniwan](https://en.wikipedia.org/wiki/User:Harmoniwan) | 34,325 |
-| 2026-10-09 06:26:30 | [Forced conscription of Rohingya in Myanmar](https://en.wikipedia.org/wiki/Forced_conscription_of_Rohingya_in_Myanmar) | [Dahkfellow](https://en.wikipedia.org/wiki/User:Dahkfellow) | 3,584 |
-| 2026-10-09 06:32:29 | [FŐTAXI SC](https://en.wikipedia.org/wiki/F%C5%90TAXI_SC) | [RuthStevens](https://en.wikipedia.org/wiki/User:RuthStevens) | 1,890 |
-| 2026-10-09 06:37:08 | [2026 BWF World Junior Championships – mixed doubles](https://en.wikipedia.org/wiki/2026_BWF_World_Junior_Championships_%E2%80%93_mixed_doubles) | [Harmoniwan](https://en.wikipedia.org/wiki/User:Harmoniwan) | 34,191 |
-| 2026-10-09 06:37:55 | [Victoria colombiana](https://en.wikipedia.org/wiki/Victoria_colombiana) | [Roy Bateman](https://en.wikipedia.org/wiki/User:Roy_Bateman) | 1,122 |
-| 2026-10-09 06:49:52 | [Hlobyne urban hromada](https://en.wikipedia.org/wiki/Hlobyne_urban_hromada) | [Almanbet Janışev](https://en.wikipedia.org/wiki/User:Almanbet_Jan%C4%B1%C5%9Fev) | 8,807 |
-| 2026-10-09 06:50:42 | [Yosuke Kamide](https://en.wikipedia.org/wiki/Yosuke_Kamide) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 972 |
-| 2026-10-09 06:53:44 | [Eld (surname)](https://en.wikipedia.org/wiki/Eld_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 310 |
-| 2026-10-09 06:54:44 | [Aijan Aimaganova](https://en.wikipedia.org/wiki/Aijan_Aimaganova) | [Айдос Сақбергенұлы](https://en.wikipedia.org/wiki/User:%D0%90%D0%B9%D0%B4%D0%BE%D1%81_%D0%A1%D0%B0%D2%9B%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D2%B1%D0%BB%D1%8B) | 9,864 |
-| 2026-10-09 07:05:08 | [Larry Creger](https://en.wikipedia.org/wiki/Larry_Creger) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 6,659 |
-| 2026-10-09 07:06:59 | [Horishni Plavni urban hromada](https://en.wikipedia.org/wiki/Horishni_Plavni_urban_hromada) | [Almanbet Janışev](https://en.wikipedia.org/wiki/User:Almanbet_Jan%C4%B1%C5%9Fev) | 3,563 |
+| 2026-10-09 07:33:52 | [Šuqamuna](https://en.wikipedia.org/wiki/%C5%A0uqamuna) | [Al Joa noha](https://en.wikipedia.org/wiki/User:Al_Joa_noha) | 3,522 |
+| 2026-10-09 07:34:17 | [Joseph Zhao Fengchang](https://en.wikipedia.org/wiki/Joseph_Zhao_Fengchang) | [Noel baran](https://en.wikipedia.org/wiki/User:Noel_baran) | 6,274 |
+| 2026-10-09 07:36:16 | [Cyaneolytta](https://en.wikipedia.org/wiki/Cyaneolytta) | [OlEnglish](https://en.wikipedia.org/wiki/User:OlEnglish) | 1,955 |
+| 2026-10-09 07:36:18 | [Benidorm Fest 2027](https://en.wikipedia.org/wiki/Benidorm_Fest_2027) | [Michele1999](https://en.wikipedia.org/wiki/User:Michele1999) | 1,250 |
+| 2026-10-09 07:43:05 | [Battle of Ceuta (1144)](https://en.wikipedia.org/wiki/Battle_of_Ceuta_%281144%29) | [Massel77](https://en.wikipedia.org/wiki/User:Massel77) | 8,175 |
+| 2026-10-09 07:45:05 | [Piero Polito](https://en.wikipedia.org/wiki/Piero_Polito) | [Malcomx2026](https://en.wikipedia.org/wiki/User:Malcomx2026) | 2,154 |
+| 2026-10-09 07:47:26 | [Kurla To Vengurla](https://en.wikipedia.org/wiki/Kurla_To_Vengurla) | [Yellowsnowman123](https://en.wikipedia.org/wiki/User:Yellowsnowman123) | 16,639 |
+| 2026-10-09 07:48:20 | [Timeline of the Andrew Johnson presidency](https://en.wikipedia.org/wiki/Timeline_of_the_Andrew_Johnson_presidency) | [Thebiguglyalien](https://en.wikipedia.org/wiki/User:Thebiguglyalien) | 20,235 |
+| 2026-10-09 07:49:19 | [Soldier – 24×7 On Duty](https://en.wikipedia.org/wiki/Soldier_%E2%80%93_24%C3%977_On_Duty) | [Kartheek1025](https://en.wikipedia.org/wiki/User:Kartheek1025) | 2,430 |
+| 2026-10-09 07:51:33 | [Raed Yassin](https://en.wikipedia.org/wiki/Raed_Yassin) | [StoppedTime](https://en.wikipedia.org/wiki/User:StoppedTime) | 4,036 |
+| 2026-10-09 07:59:35 | [Streetsia challengeri](https://en.wikipedia.org/wiki/Streetsia_challengeri) | [Anthropophoca](https://en.wikipedia.org/wiki/User:Anthropophoca) | 3,010 |
+| 2026-10-09 08:09:56 | [Santa Maria degli Agonizzanti](https://en.wikipedia.org/wiki/Santa_Maria_degli_Agonizzanti) | [MrKeefeJohn](https://en.wikipedia.org/wiki/User:MrKeefeJohn) | 161 |
+| 2026-10-09 08:10:19 | [Battle of Engines](https://en.wikipedia.org/wiki/Battle_of_Engines) | [Nikolai Kurbatov](https://en.wikipedia.org/wiki/User:Nikolai_Kurbatov) | 1,132 |
