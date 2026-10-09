@@ -13,46 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-09 01:18 UTC](data/en/new-articles-2026-10-09T01-18-54Z.csv) | 14 |
-| Japanese | `ja` | [2026-10-09 01:18 UTC](data/ja/new-articles-2026-10-09T01-18-54Z.csv) | 5 |
-| Chinese | `zh` | [2026-10-09 01:18 UTC](data/zh/new-articles-2026-10-09T01-18-54Z.csv) | 4 |
-| French | `fr` | [2026-10-09 01:18 UTC](data/fr/new-articles-2026-10-09T01-18-54Z.csv) | 4 |
-| German | `de` | [2026-10-09 01:18 UTC](data/de/new-articles-2026-10-09T01-18-54Z.csv) | 1 |
-| Russian | `ru` | [2026-10-09 01:18 UTC](data/ru/new-articles-2026-10-09T01-18-54Z.csv) | 1 |
-| Spanish | `es` | [2026-10-09 01:18 UTC](data/es/new-articles-2026-10-09T01-18-54Z.csv) | 5 |
-| Italian | `it` | [2026-10-09 01:18 UTC](data/it/new-articles-2026-10-09T01-18-54Z.csv) | 3 |
-| Portuguese | `pt` | [2026-10-09 01:18 UTC](data/pt/new-articles-2026-10-09T01-18-54Z.csv) | 7 |
+| English | `en` | [2026-10-09 02:18 UTC](data/en/new-articles-2026-10-09T02-18-36Z.csv) | 13 |
+| Japanese | `ja` | [2026-10-09 02:18 UTC](data/ja/new-articles-2026-10-09T02-18-36Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-09 02:18 UTC](data/zh/new-articles-2026-10-09T02-18-36Z.csv) | 11 |
+| French | `fr` | [2026-10-09 02:18 UTC](data/fr/new-articles-2026-10-09T02-18-36Z.csv) | 2 |
+| German | `de` | [2026-10-09 02:18 UTC](data/de/new-articles-2026-10-09T02-18-36Z.csv) | 2 |
+| Russian | `ru` | [2026-10-09 02:18 UTC](data/ru/new-articles-2026-10-09T02-18-36Z.csv) | 4 |
+| Spanish | `es` | [2026-10-09 02:18 UTC](data/es/new-articles-2026-10-09T02-18-36Z.csv) | 10 |
+| Italian | `it` | [2026-10-09 02:18 UTC](data/it/new-articles-2026-10-09T02-18-36Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-09 02:18 UTC](data/pt/new-articles-2026-10-09T02-18-36Z.csv) | 3 |
 | Polish | `pl` | [2026-10-08 23:19 UTC](data/pl/new-articles-2026-10-08T23-19-07Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-09 01:18 UTC](data/ar/new-articles-2026-10-09T01-18-54Z.csv) | 1 |
-| Persian | `fa` | [2026-10-09 00:20 UTC](data/fa/new-articles-2026-10-09T00-20-09Z.csv) | 1 |
-| Turkish | `tr` | [2026-10-09 01:18 UTC](data/tr/new-articles-2026-10-09T01-18-54Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-09 00:20 UTC](data/he/new-articles-2026-10-09T00-20-09Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-09 01:18 UTC](data/sv/new-articles-2026-10-09T01-18-54Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-09 02:18 UTC](data/ar/new-articles-2026-10-09T02-18-36Z.csv) | 2 |
+| Persian | `fa` | [2026-10-09 02:18 UTC](data/fa/new-articles-2026-10-09T02-18-36Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-09 02:18 UTC](data/tr/new-articles-2026-10-09T02-18-36Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-09 02:18 UTC](data/he/new-articles-2026-10-09T02-18-36Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-09 02:18 UTC](data/sv/new-articles-2026-10-09T02-18-36Z.csv) | 1 |
 | Dutch | `nl` | [2026-10-09 00:20 UTC](data/nl/new-articles-2026-10-09T00-20-09Z.csv) | 1 |
-| Korean | `ko` | [2026-10-09 01:18 UTC](data/ko/new-articles-2026-10-09T01-18-54Z.csv) | 11 |
-| Indonesian | `id` | [2026-10-09 01:18 UTC](data/id/new-articles-2026-10-09T01-18-54Z.csv) | 11 |
-| Ukrainian | `uk` | [2026-10-09 01:18 UTC](data/uk/new-articles-2026-10-09T01-18-54Z.csv) | 3 |
+| Korean | `ko` | [2026-10-09 02:18 UTC](data/ko/new-articles-2026-10-09T02-18-36Z.csv) | 23 |
+| Indonesian | `id` | [2026-10-09 02:18 UTC](data/id/new-articles-2026-10-09T02-18-36Z.csv) | 30 |
+| Ukrainian | `uk` | [2026-10-09 02:18 UTC](data/uk/new-articles-2026-10-09T02-18-36Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-10-09 01:18 UTC](data/vi/new-articles-2026-10-09T01-18-54Z.csv) | 1 |
 
-## English (en) — 2026-10-09 01:18 UTC
+## English (en) — 2026-10-09 02:18 UTC
 
-New articles created between 2026-10-09 00:20 UTC and 2026-10-09 01:18 UTC.
+New articles created between 2026-10-09 01:18 UTC and 2026-10-09 02:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-09T01-18-54Z.csv)
+[Full CSV](data/en/new-articles-2026-10-09T02-18-36Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-09 00:22:57 | [Xi'anguojizuqiuzhongxin station](https://en.wikipedia.org/wiki/Xi%27anguojizuqiuzhongxin_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 2,593 |
-| 2026-10-09 00:24:53 | [1962 East Tennessee State Buccaneers football team](https://en.wikipedia.org/wiki/1962_East_Tennessee_State_Buccaneers_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 7,172 |
-| 2026-10-09 00:26:54 | [List of North Dakota State University people](https://en.wikipedia.org/wiki/List_of_North_Dakota_State_University_people) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 26,304 |
-| 2026-10-09 00:27:31 | [Leontius, presbyter of Constantinople](https://en.wikipedia.org/wiki/Leontius%2C_presbyter_of_Constantinople) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 2,485 |
-| 2026-10-09 00:32:41 | [229th Division](https://en.wikipedia.org/wiki/229th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 262 |
-| 2026-10-09 00:40:00 | [1994 Indonesia Open – Doubles](https://en.wikipedia.org/wiki/1994_Indonesia_Open_%E2%80%93_Doubles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 4,456 |
-| 2026-10-09 00:52:56 | [Nicanor, North Carolina](https://en.wikipedia.org/wiki/Nicanor%2C_North_Carolina) | [Nicholas Oren Rawlings](https://en.wikipedia.org/wiki/User:Nicholas_Oren_Rawlings) | 3,841 |
-| 2026-10-09 01:02:12 | [Zaleti](https://en.wikipedia.org/wiki/Zaleti) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 2,314 |
-| 2026-10-09 01:03:01 | [Crotonaldehyde 2,4-dinitrophenylhydrazone](https://en.wikipedia.org/wiki/Crotonaldehyde_2%2C4-dinitrophenylhydrazone) | [Marshy60000](https://en.wikipedia.org/wiki/User:Marshy60000) | 3,799 |
-| 2026-10-09 01:06:01 | [Edward Lam](https://en.wikipedia.org/wiki/Edward_Lam) | [Ansony89](https://en.wikipedia.org/wiki/User:Ansony89) | 9,510 |
-| 2026-10-09 01:07:35 | [Altin Azemi](https://en.wikipedia.org/wiki/Altin_Azemi) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 5,907 |
-| 2026-10-09 01:09:55 | [Penstemon hesperius](https://en.wikipedia.org/wiki/Penstemon_hesperius) | [MtBotany](https://en.wikipedia.org/wiki/User:MtBotany) | 9,045 |
-| 2026-10-09 01:11:50 | [Culture of Nova Friburgo](https://en.wikipedia.org/wiki/Culture_of_Nova_Friburgo) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 3,743 |
-| 2026-10-09 01:16:40 | [ILands](https://en.wikipedia.org/wiki/ILands) | [A412](https://en.wikipedia.org/wiki/User:A412) | 570 |
+| 2026-10-09 01:19:14 | [Beguina semiorbiculata](https://en.wikipedia.org/wiki/Beguina_semiorbiculata) | [Anthropophoca](https://en.wikipedia.org/wiki/User:Anthropophoca) | 2,657 |
+| 2026-10-09 01:19:29 | [Jason Richards (Canadian football)](https://en.wikipedia.org/wiki/Jason_Richards_%28Canadian_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 10,067 |
+| 2026-10-09 01:23:12 | [Mixed Two Person Offshore World Championship](https://en.wikipedia.org/wiki/Mixed_Two_Person_Offshore_World_Championship) | [Yachty4000](https://en.wikipedia.org/wiki/User:Yachty4000) | 5,755 |
+| 2026-10-09 01:25:46 | [C3H8OS](https://en.wikipedia.org/wiki/C3H8OS) | [Marshy60000](https://en.wikipedia.org/wiki/User:Marshy60000) | 359 |
+| 2026-10-09 01:34:22 | [Jessica Ramírez Cisneros](https://en.wikipedia.org/wiki/Jessica_Ram%C3%ADrez_Cisneros) | [Moscow Mule](https://en.wikipedia.org/wiki/User:Moscow_Mule) | 4,432 |
+| 2026-10-09 01:45:41 | [Lisa Dahl](https://en.wikipedia.org/wiki/Lisa_Dahl) | [Seasider53](https://en.wikipedia.org/wiki/User:Seasider53) | 6,198 |
+| 2026-10-09 01:45:59 | [1961 East Tennessee State Buccaneers football team](https://en.wikipedia.org/wiki/1961_East_Tennessee_State_Buccaneers_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 6,971 |
+| 2026-10-09 01:46:13 | [Boris Rutović](https://en.wikipedia.org/wiki/Boris_Rutovi%C4%87) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,878 |
+| 2026-10-09 01:51:55 | [List of Airbus A400M Atlas orders and deliveries](https://en.wikipedia.org/wiki/List_of_Airbus_A400M_Atlas_orders_and_deliveries) | [Fabrice Ram](https://en.wikipedia.org/wiki/User:Fabrice_Ram) | 22,400 |
+| 2026-10-09 01:52:37 | [Women of Afrofuturism](https://en.wikipedia.org/wiki/Women_of_Afrofuturism) | [Viriditas](https://en.wikipedia.org/wiki/User:Viriditas) | 2,537 |
+| 2026-10-09 02:00:14 | [2027 Asian Tour](https://en.wikipedia.org/wiki/2027_Asian_Tour) | [Derlinus](https://en.wikipedia.org/wiki/User:Derlinus) | 4,374 |
+| 2026-10-09 02:07:18 | [Trinity Uniting Church Brighton](https://en.wikipedia.org/wiki/Trinity_Uniting_Church_Brighton) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 8,581 |
+| 2026-10-09 02:16:01 | [November 2026 Alabama Amendment 2](https://en.wikipedia.org/wiki/November_2026_Alabama_Amendment_2) | [Yoblyblob](https://en.wikipedia.org/wiki/User:Yoblyblob) | 2,617 |
