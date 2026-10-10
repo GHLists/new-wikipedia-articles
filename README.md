@@ -13,54 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-10 08:19 UTC](data/en/new-articles-2026-10-10T08-19-38Z.csv) | 22 |
-| Japanese | `ja` | [2026-10-10 08:19 UTC](data/ja/new-articles-2026-10-10T08-19-38Z.csv) | 12 |
-| Chinese | `zh` | [2026-10-10 08:19 UTC](data/zh/new-articles-2026-10-10T08-19-38Z.csv) | 11 |
-| French | `fr` | [2026-10-10 08:19 UTC](data/fr/new-articles-2026-10-10T08-19-38Z.csv) | 3 |
-| German | `de` | [2026-10-10 08:19 UTC](data/de/new-articles-2026-10-10T08-19-38Z.csv) | 4 |
-| Russian | `ru` | [2026-10-10 08:19 UTC](data/ru/new-articles-2026-10-10T08-19-38Z.csv) | 3 |
-| Spanish | `es` | [2026-10-10 08:19 UTC](data/es/new-articles-2026-10-10T08-19-38Z.csv) | 8 |
-| Italian | `it` | [2026-10-10 08:19 UTC](data/it/new-articles-2026-10-10T08-19-38Z.csv) | 8 |
+| English | `en` | [2026-10-10 09:18 UTC](data/en/new-articles-2026-10-10T09-18-41Z.csv) | 19 |
+| Japanese | `ja` | [2026-10-10 09:18 UTC](data/ja/new-articles-2026-10-10T09-18-41Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-10 09:18 UTC](data/zh/new-articles-2026-10-10T09-18-41Z.csv) | 1 |
+| French | `fr` | [2026-10-10 09:18 UTC](data/fr/new-articles-2026-10-10T09-18-41Z.csv) | 5 |
+| German | `de` | [2026-10-10 09:18 UTC](data/de/new-articles-2026-10-10T09-18-41Z.csv) | 11 |
+| Russian | `ru` | [2026-10-10 09:18 UTC](data/ru/new-articles-2026-10-10T09-18-41Z.csv) | 12 |
+| Spanish | `es` | [2026-10-10 09:18 UTC](data/es/new-articles-2026-10-10T09-18-41Z.csv) | 3 |
+| Italian | `it` | [2026-10-10 09:18 UTC](data/it/new-articles-2026-10-10T09-18-41Z.csv) | 3 |
 | Portuguese | `pt` | [2026-10-10 07:18 UTC](data/pt/new-articles-2026-10-10T07-18-56Z.csv) | 11 |
-| Polish | `pl` | [2026-10-10 08:19 UTC](data/pl/new-articles-2026-10-10T08-19-38Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-10 08:19 UTC](data/ar/new-articles-2026-10-10T08-19-38Z.csv) | 9 |
-| Persian | `fa` | [2026-10-10 08:19 UTC](data/fa/new-articles-2026-10-10T08-19-38Z.csv) | 10 |
-| Turkish | `tr` | [2026-10-10 08:19 UTC](data/tr/new-articles-2026-10-10T08-19-38Z.csv) | 3 |
-| Hebrew | `he` | [2026-10-10 08:19 UTC](data/he/new-articles-2026-10-10T08-19-38Z.csv) | 8 |
-| Swedish | `sv` | [2026-10-10 08:19 UTC](data/sv/new-articles-2026-10-10T08-19-38Z.csv) | 6 |
-| Dutch | `nl` | [2026-10-10 07:18 UTC](data/nl/new-articles-2026-10-10T07-18-56Z.csv) | 2 |
-| Korean | `ko` | [2026-10-10 08:19 UTC](data/ko/new-articles-2026-10-10T08-19-38Z.csv) | 17 |
-| Indonesian | `id` | [2026-10-10 08:19 UTC](data/id/new-articles-2026-10-10T08-19-38Z.csv) | 13 |
-| Ukrainian | `uk` | [2026-10-10 08:19 UTC](data/uk/new-articles-2026-10-10T08-19-38Z.csv) | 8 |
-| Vietnamese | `vi` | [2026-10-10 07:18 UTC](data/vi/new-articles-2026-10-10T07-18-56Z.csv) | 4 |
+| Polish | `pl` | [2026-10-10 09:18 UTC](data/pl/new-articles-2026-10-10T09-18-41Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-10 09:18 UTC](data/ar/new-articles-2026-10-10T09-18-41Z.csv) | 5 |
+| Persian | `fa` | [2026-10-10 09:18 UTC](data/fa/new-articles-2026-10-10T09-18-41Z.csv) | 10 |
+| Turkish | `tr` | [2026-10-10 09:18 UTC](data/tr/new-articles-2026-10-10T09-18-41Z.csv) | 4 |
+| Hebrew | `he` | [2026-10-10 09:18 UTC](data/he/new-articles-2026-10-10T09-18-41Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-10 09:18 UTC](data/sv/new-articles-2026-10-10T09-18-41Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-10 09:18 UTC](data/nl/new-articles-2026-10-10T09-18-41Z.csv) | 2 |
+| Korean | `ko` | [2026-10-10 09:18 UTC](data/ko/new-articles-2026-10-10T09-18-41Z.csv) | 9 |
+| Indonesian | `id` | [2026-10-10 09:18 UTC](data/id/new-articles-2026-10-10T09-18-41Z.csv) | 9 |
+| Ukrainian | `uk` | [2026-10-10 09:18 UTC](data/uk/new-articles-2026-10-10T09-18-41Z.csv) | 10 |
+| Vietnamese | `vi` | [2026-10-10 09:18 UTC](data/vi/new-articles-2026-10-10T09-18-41Z.csv) | 3 |
 
-## English (en) — 2026-10-10 08:19 UTC
+## English (en) — 2026-10-10 09:18 UTC
 
-New articles created between 2026-10-10 07:18 UTC and 2026-10-10 08:19 UTC.
+New articles created between 2026-10-10 08:19 UTC and 2026-10-10 09:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-10T08-19-38Z.csv)
+[Full CSV](data/en/new-articles-2026-10-10T09-18-41Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-10 07:25:33 | [Haruki Suyama](https://en.wikipedia.org/wiki/Haruki_Suyama) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 5,194 |
-| 2026-10-10 07:27:34 | [Patricia Kathleen Abbott](https://en.wikipedia.org/wiki/Patricia_Kathleen_Abbott) | [Oronsay](https://en.wikipedia.org/wiki/User:Oronsay) | 5,353 |
-| 2026-10-10 07:31:34 | [West of Eden (film)](https://en.wikipedia.org/wiki/West_of_Eden_%28film%29) | [Cinemaniac86](https://en.wikipedia.org/wiki/User:Cinemaniac86) | 3,424 |
-| 2026-10-10 07:37:01 | [Senri Ikuma](https://en.wikipedia.org/wiki/Senri_Ikuma) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,975 |
-| 2026-10-10 07:37:50 | [258th Division](https://en.wikipedia.org/wiki/258th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 199 |
-| 2026-10-10 07:41:19 | [Urquharts Falls](https://en.wikipedia.org/wiki/Urquharts_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,871 |
-| 2026-10-10 07:41:48 | [260th Division](https://en.wikipedia.org/wiki/260th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 199 |
-| 2026-10-10 07:42:14 | [Dominar 400](https://en.wikipedia.org/wiki/Dominar_400) | [Cppfront](https://en.wikipedia.org/wiki/User:Cppfront) | 2,989 |
-| 2026-10-10 07:42:35 | [António Vitalino Fernandes Dantas](https://en.wikipedia.org/wiki/Ant%C3%B3nio_Vitalino_Fernandes_Dantas) | [Noel baran](https://en.wikipedia.org/wiki/User:Noel_baran) | 6,271 |
-| 2026-10-10 07:45:57 | [Shido Tsumori](https://en.wikipedia.org/wiki/Shido_Tsumori) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,761 |
-| 2026-10-10 07:46:32 | [1738 in Iceland](https://en.wikipedia.org/wiki/1738_in_Iceland) | [Quince&Medlar](https://en.wikipedia.org/wiki/User:Quince%26Medlar) | 1,164 |
-| 2026-10-10 07:54:01 | [Hayato Tsubo](https://en.wikipedia.org/wiki/Hayato_Tsubo) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,722 |
-| 2026-10-10 07:56:28 | [F.C. Bekasi City (women)](https://en.wikipedia.org/wiki/F.C._Bekasi_City_%28women%29) | [Cesare Faragò](https://en.wikipedia.org/wiki/User:Cesare_Farag%C3%B2) | 1,136 |
-| 2026-10-10 08:00:08 | [Naicker (name)](https://en.wikipedia.org/wiki/Naicker_%28name%29) | [Laterthanyouthink](https://en.wikipedia.org/wiki/User:Laterthanyouthink) | 2,328 |
-| 2026-10-10 08:01:44 | [Cyberpreneurship](https://en.wikipedia.org/wiki/Cyberpreneurship) | [CyberExpert1416](https://en.wikipedia.org/wiki/User:CyberExpert1416) | 7,172 |
-| 2026-10-10 08:05:05 | [Marina Goudi](https://en.wikipedia.org/wiki/Marina_Goudi) | [CromsFury](https://en.wikipedia.org/wiki/User:CromsFury) | 8,874 |
-| 2026-10-10 08:06:09 | [Mao Kokubo](https://en.wikipedia.org/wiki/Mao_Kokubo) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 6,192 |
-| 2026-10-10 08:06:56 | [NIC Haryana State Centre](https://en.wikipedia.org/wiki/NIC_Haryana_State_Centre) | [Jack Shukla](https://en.wikipedia.org/wiki/User:Jack_Shukla) | 14,920 |
-| 2026-10-10 08:10:23 | [Depp (surname)](https://en.wikipedia.org/wiki/Depp_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 283 |
-| 2026-10-10 08:12:44 | [Wild Dog Falls](https://en.wikipedia.org/wiki/Wild_Dog_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,435 |
-| 2026-10-10 08:17:23 | [Serra's Landing](https://en.wikipedia.org/wiki/Serra%27s_Landing) | [Guylaen](https://en.wikipedia.org/wiki/User:Guylaen) | 4,613 |
-| 2026-10-10 08:18:34 | [Pacar](https://en.wikipedia.org/wiki/Pacar) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 229 |
+| 2026-10-10 08:24:29 | [Wangerrip Falls](https://en.wikipedia.org/wiki/Wangerrip_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,425 |
+| 2026-10-10 08:25:11 | [Arsenio Rodríguez (footballer)](https://en.wikipedia.org/wiki/Arsenio_Rodr%C3%ADguez_%28footballer%29) | [Ghaly](https://en.wikipedia.org/wiki/User:Ghaly) | 4,299 |
+| 2026-10-10 08:28:30 | [Charles Frederick Kandler](https://en.wikipedia.org/wiki/Charles_Frederick_Kandler) | [Викидим](https://en.wikipedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B8%D0%BC) | 19,819 |
+| 2026-10-10 08:28:44 | [2025–26 Honduran Liga Nacional](https://en.wikipedia.org/wiki/2025%E2%80%9326_Honduran_Liga_Nacional) | [CottonTraders](https://en.wikipedia.org/wiki/User:CottonTraders) | 20,740 |
+| 2026-10-10 08:30:06 | [David H. Slade](https://en.wikipedia.org/wiki/David_H._Slade) | [HesioneHushabye](https://en.wikipedia.org/wiki/User:HesioneHushabye) | 5,266 |
+| 2026-10-10 08:31:46 | [Ahmedzai (surname)](https://en.wikipedia.org/wiki/Ahmedzai_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 449 |
+| 2026-10-10 08:37:39 | [Ashaolu (surname)](https://en.wikipedia.org/wiki/Ashaolu_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 250 |
+| 2026-10-10 08:40:08 | [Rock 'n' Roll Lady](https://en.wikipedia.org/wiki/Rock_%27n%27_Roll_Lady) | [ItsBri](https://en.wikipedia.org/wiki/User:ItsBri) | 5,894 |
+| 2026-10-10 08:43:28 | [Haru Owaki](https://en.wikipedia.org/wiki/Haru_Owaki) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,823 |
+| 2026-10-10 08:46:19 | [Ameyaw](https://en.wikipedia.org/wiki/Ameyaw) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 345 |
+| 2026-10-10 08:47:09 | [Venancio Paredes](https://en.wikipedia.org/wiki/Venancio_Paredes) | [Ghaly](https://en.wikipedia.org/wiki/User:Ghaly) | 9,103 |
+| 2026-10-10 08:50:06 | [Suzuno Higuchi](https://en.wikipedia.org/wiki/Suzuno_Higuchi) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,234 |
+| 2026-10-10 09:00:34 | [Maho Awatani](https://en.wikipedia.org/wiki/Maho_Awatani) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 3,783 |
+| 2026-10-10 09:11:02 | [Darragh Nelson](https://en.wikipedia.org/wiki/Darragh_Nelson) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 6,837 |
+| 2026-10-10 09:15:19 | [Robert Laly](https://en.wikipedia.org/wiki/Robert_Laly) | [In Vitrio](https://en.wikipedia.org/wiki/User:In_Vitrio) | 7,089 |
+| 2026-10-10 09:16:18 | [Pribićević](https://en.wikipedia.org/wiki/Pribi%C4%87evi%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 434 |
+| 2026-10-10 09:17:43 | [Uffikon](https://en.wikipedia.org/wiki/Uffikon) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,227 |
+| 2026-10-10 09:18:12 | [Alexandre César Chavannes](https://en.wikipedia.org/wiki/Alexandre_C%C3%A9sar_Chavannes) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,798 |
+| 2026-10-10 09:18:23 | [Johann Georg Bürkli](https://en.wikipedia.org/wiki/Johann_Georg_B%C3%BCrkli) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,995 |
