@@ -13,65 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-10 16:18 UTC](data/en/new-articles-2026-10-10T16-18-38Z.csv) | 33 |
-| Japanese | `ja` | [2026-10-10 16:18 UTC](data/ja/new-articles-2026-10-10T16-18-38Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-10 16:18 UTC](data/zh/new-articles-2026-10-10T16-18-38Z.csv) | 27 |
-| French | `fr` | [2026-10-10 16:18 UTC](data/fr/new-articles-2026-10-10T16-18-38Z.csv) | 13 |
-| German | `de` | [2026-10-10 16:18 UTC](data/de/new-articles-2026-10-10T16-18-38Z.csv) | 15 |
-| Russian | `ru` | [2026-10-10 16:18 UTC](data/ru/new-articles-2026-10-10T16-18-38Z.csv) | 14 |
-| Spanish | `es` | [2026-10-10 16:18 UTC](data/es/new-articles-2026-10-10T16-18-38Z.csv) | 10 |
-| Italian | `it` | [2026-10-10 16:18 UTC](data/it/new-articles-2026-10-10T16-18-38Z.csv) | 6 |
-| Portuguese | `pt` | [2026-10-10 16:18 UTC](data/pt/new-articles-2026-10-10T16-18-38Z.csv) | 3 |
-| Polish | `pl` | [2026-10-10 16:18 UTC](data/pl/new-articles-2026-10-10T16-18-38Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-10 16:18 UTC](data/ar/new-articles-2026-10-10T16-18-38Z.csv) | 7 |
-| Persian | `fa` | [2026-10-10 16:18 UTC](data/fa/new-articles-2026-10-10T16-18-38Z.csv) | 4 |
-| Turkish | `tr` | [2026-10-10 16:18 UTC](data/tr/new-articles-2026-10-10T16-18-38Z.csv) | 9 |
-| Hebrew | `he` | [2026-10-10 16:18 UTC](data/he/new-articles-2026-10-10T16-18-38Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-10 16:18 UTC](data/sv/new-articles-2026-10-10T16-18-38Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-10 16:18 UTC](data/nl/new-articles-2026-10-10T16-18-38Z.csv) | 4 |
-| Korean | `ko` | [2026-10-10 16:18 UTC](data/ko/new-articles-2026-10-10T16-18-38Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-10 16:18 UTC](data/id/new-articles-2026-10-10T16-18-38Z.csv) | 21 |
-| Ukrainian | `uk` | [2026-10-10 16:18 UTC](data/uk/new-articles-2026-10-10T16-18-38Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-10 16:18 UTC](data/vi/new-articles-2026-10-10T16-18-38Z.csv) | 3 |
+| English | `en` | [2026-10-10 17:20 UTC](data/en/new-articles-2026-10-10T17-20-33Z.csv) | 27 |
+| Japanese | `ja` | [2026-10-10 17:20 UTC](data/ja/new-articles-2026-10-10T17-20-33Z.csv) | 5 |
+| Chinese | `zh` | [2026-10-10 17:20 UTC](data/zh/new-articles-2026-10-10T17-20-33Z.csv) | 39 |
+| French | `fr` | [2026-10-10 17:20 UTC](data/fr/new-articles-2026-10-10T17-20-33Z.csv) | 9 |
+| German | `de` | [2026-10-10 17:20 UTC](data/de/new-articles-2026-10-10T17-20-33Z.csv) | 16 |
+| Russian | `ru` | [2026-10-10 17:20 UTC](data/ru/new-articles-2026-10-10T17-20-33Z.csv) | 11 |
+| Spanish | `es` | [2026-10-10 17:20 UTC](data/es/new-articles-2026-10-10T17-20-33Z.csv) | 8 |
+| Italian | `it` | [2026-10-10 17:20 UTC](data/it/new-articles-2026-10-10T17-20-33Z.csv) | 11 |
+| Portuguese | `pt` | [2026-10-10 17:20 UTC](data/pt/new-articles-2026-10-10T17-20-33Z.csv) | 10 |
+| Polish | `pl` | [2026-10-10 17:20 UTC](data/pl/new-articles-2026-10-10T17-20-33Z.csv) | 15 |
+| Arabic | `ar` | [2026-10-10 17:20 UTC](data/ar/new-articles-2026-10-10T17-20-33Z.csv) | 2 |
+| Persian | `fa` | [2026-10-10 17:20 UTC](data/fa/new-articles-2026-10-10T17-20-33Z.csv) | 9 |
+| Turkish | `tr` | [2026-10-10 17:20 UTC](data/tr/new-articles-2026-10-10T17-20-33Z.csv) | 33 |
+| Hebrew | `he` | [2026-10-10 17:20 UTC](data/he/new-articles-2026-10-10T17-20-33Z.csv) | 7 |
+| Swedish | `sv` | [2026-10-10 17:20 UTC](data/sv/new-articles-2026-10-10T17-20-33Z.csv) | 9 |
+| Dutch | `nl` | [2026-10-10 17:20 UTC](data/nl/new-articles-2026-10-10T17-20-33Z.csv) | 9 |
+| Korean | `ko` | [2026-10-10 17:20 UTC](data/ko/new-articles-2026-10-10T17-20-33Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-10 17:20 UTC](data/id/new-articles-2026-10-10T17-20-33Z.csv) | 54 |
+| Ukrainian | `uk` | [2026-10-10 17:20 UTC](data/uk/new-articles-2026-10-10T17-20-33Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-10-10 17:20 UTC](data/vi/new-articles-2026-10-10T17-20-33Z.csv) | 1 |
 
-## English (en) — 2026-10-10 16:18 UTC
+## English (en) — 2026-10-10 17:20 UTC
 
-New articles created between 2026-10-10 15:19 UTC and 2026-10-10 16:18 UTC.
+New articles created between 2026-10-10 16:18 UTC and 2026-10-10 17:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-10T16-18-38Z.csv)
+[Full CSV](data/en/new-articles-2026-10-10T17-20-33Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-10 15:19:14 | [Martina Cheung](https://en.wikipedia.org/wiki/Martina_Cheung) | [Blythwood](https://en.wikipedia.org/wiki/User:Blythwood) | 1,870 |
-| 2026-10-10 15:19:22 | [Chatham Islander](https://en.wikipedia.org/wiki/Chatham_Islander) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 1,783 |
-| 2026-10-10 15:20:19 | [Portrait of Comtesse Daru](https://en.wikipedia.org/wiki/Portrait_of_Comtesse_Daru) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,864 |
-| 2026-10-10 15:24:49 | [Cicero J. Hamlin](https://en.wikipedia.org/wiki/Cicero_J._Hamlin) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 10,461 |
-| 2026-10-10 15:31:59 | [Schielandshuis](https://en.wikipedia.org/wiki/Schielandshuis) | [Ymblanter](https://en.wikipedia.org/wiki/User:Ymblanter) | 213 |
-| 2026-10-10 15:33:24 | [Stainbank (surname)](https://en.wikipedia.org/wiki/Stainbank_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 313 |
-| 2026-10-10 15:34:58 | [Deborah Calmeyer](https://en.wikipedia.org/wiki/Deborah_Calmeyer) | [Kaptain Kebab Heart](https://en.wikipedia.org/wiki/User:Kaptain_Kebab_Heart) | 4,749 |
-| 2026-10-10 15:38:50 | [Comprehensive Law-Based Governance](https://en.wikipedia.org/wiki/Comprehensive_Law-Based_Governance) | [JArthur1984](https://en.wikipedia.org/wiki/User:JArthur1984) | 5,092 |
-| 2026-10-10 15:41:54 | [Chessani](https://en.wikipedia.org/wiki/Chessani) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 262 |
-| 2026-10-10 15:43:48 | [1954 East Tennessee State Buccaneers football team](https://en.wikipedia.org/wiki/1954_East_Tennessee_State_Buccaneers_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 7,383 |
-| 2026-10-10 15:45:01 | [Victor S. E. Davis](https://en.wikipedia.org/wiki/Victor_S._E._Davis) | [The Watcher5292](https://en.wikipedia.org/wiki/User:The_Watcher5292) | 38,032 |
-| 2026-10-10 15:49:43 | [S. H. Kress and Co. Building (Durham, North Carolina)](https://en.wikipedia.org/wiki/S._H._Kress_and_Co._Building_%28Durham%2C_North_Carolina%29) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 3,107 |
-| 2026-10-10 15:51:06 | [Seal Cove River](https://en.wikipedia.org/wiki/Seal_Cove_River) | [Marianika](https://en.wikipedia.org/wiki/User:Marianika) | 5,241 |
-| 2026-10-10 15:51:45 | [Blackslash](https://en.wikipedia.org/wiki/Blackslash) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 6,364 |
-| 2026-10-10 15:52:41 | [Schloesser](https://en.wikipedia.org/wiki/Schloesser) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 292 |
-| 2026-10-10 15:52:41 | [GETZ Entertainment Centre](https://en.wikipedia.org/wiki/GETZ_Entertainment_Centre) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 26,234 |
-| 2026-10-10 15:53:32 | [Alexander Schölch](https://en.wikipedia.org/wiki/Alexander_Sch%C3%B6lch) | [Jayen466](https://en.wikipedia.org/wiki/User:Jayen466) | 3,322 |
-| 2026-10-10 15:53:52 | [Dota O Ako](https://en.wikipedia.org/wiki/Dota_O_Ako) | [Arconning](https://en.wikipedia.org/wiki/User:Arconning) | 10,580 |
-| 2026-10-10 15:54:52 | [Science and technology in the My Little Pony: Friendship Is Magic fandom](https://en.wikipedia.org/wiki/Science_and_technology_in_the_My_Little_Pony%3A_Friendship_Is_Magic_fandom) | [Silvers Rayleigh](https://en.wikipedia.org/wiki/User:Silvers_Rayleigh) | 3,065 |
-| 2026-10-10 15:55:15 | [Johan Cruijff Boulevard](https://en.wikipedia.org/wiki/Johan_Cruijff_Boulevard) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 8,114 |
-| 2026-10-10 15:57:02 | [Sora Ishikawa](https://en.wikipedia.org/wiki/Sora_Ishikawa) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 7,017 |
-| 2026-10-10 15:57:44 | [Collegiata of Castiglione Olona](https://en.wikipedia.org/wiki/Collegiata_of_Castiglione_Olona) | [Julius Barclay](https://en.wikipedia.org/wiki/User:Julius_Barclay) | 6,951 |
-| 2026-10-10 16:02:16 | [Ceroni](https://en.wikipedia.org/wiki/Ceroni) | [Miracle Pen](https://en.wikipedia.org/wiki/User:Miracle_Pen) | 484 |
-| 2026-10-10 16:03:47 | [Miss Nude World](https://en.wikipedia.org/wiki/Miss_Nude_World) | [Pachu Kannan](https://en.wikipedia.org/wiki/User:Pachu_Kannan) | 3,293 |
-| 2026-10-10 16:04:19 | [Vyacheslav Dorovskikh](https://en.wikipedia.org/wiki/Vyacheslav_Dorovskikh) | [Geregen2](https://en.wikipedia.org/wiki/User:Geregen2) | 5,424 |
-| 2026-10-10 16:06:46 | [Kaede Higa](https://en.wikipedia.org/wiki/Kaede_Higa) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 7,111 |
-| 2026-10-10 16:07:51 | [Seglin](https://en.wikipedia.org/wiki/Seglin) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 21 |
-| 2026-10-10 16:08:35 | [Modaxo](https://en.wikipedia.org/wiki/Modaxo) | [42-BRT](https://en.wikipedia.org/wiki/User:42-BRT) | 2,858 |
-| 2026-10-10 16:08:45 | [I Hear a Rhapsody (Jerry Vale album)](https://en.wikipedia.org/wiki/I_Hear_a_Rhapsody_%28Jerry_Vale_album%29) | [HazelAlbertSheriff](https://en.wikipedia.org/wiki/User:HazelAlbertSheriff) | 6,291 |
-| 2026-10-10 16:12:55 | [Jihan Dimack](https://en.wikipedia.org/wiki/Jihan_Dimack) | [Rc ramz](https://en.wikipedia.org/wiki/User:Rc_ramz) | 3,110 |
-| 2026-10-10 16:15:06 | [Tainan City Constituency 6](https://en.wikipedia.org/wiki/Tainan_City_Constituency_6) | [CptnPhasma](https://en.wikipedia.org/wiki/User:CptnPhasma) | 5,049 |
-| 2026-10-10 16:15:46 | [Maigret and the Reluctant Witnesses](https://en.wikipedia.org/wiki/Maigret_and_the_Reluctant_Witnesses) | [Kencf0618](https://en.wikipedia.org/wiki/User:Kencf0618) | 1,508 |
-| 2026-10-10 16:17:25 | [Aki Ueshima](https://en.wikipedia.org/wiki/Aki_Ueshima) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 8,174 |
+| 2026-10-10 16:20:58 | [Puljić](https://en.wikipedia.org/wiki/Pulji%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 444 |
+| 2026-10-10 16:21:51 | [Marquis of Sabugosa](https://en.wikipedia.org/wiki/Marquis_of_Sabugosa) | [Mornholt](https://en.wikipedia.org/wiki/User:Mornholt) | 17,423 |
+| 2026-10-10 16:23:51 | [Madhveshwar Nath Mahadev Mandir, Darbhanga](https://en.wikipedia.org/wiki/Madhveshwar_Nath_Mahadev_Mandir%2C_Darbhanga) | [Sntshkumar750](https://en.wikipedia.org/wiki/User:Sntshkumar750) | 2,674 |
+| 2026-10-10 16:24:25 | [Samuel Bevington](https://en.wikipedia.org/wiki/Samuel_Bevington) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,919 |
+| 2026-10-10 16:27:19 | [Dice (Boy band)](https://en.wikipedia.org/wiki/Dice_%28Boy_band%29) | [Skbeoxh](https://en.wikipedia.org/wiki/User:Skbeoxh) | 11,812 |
+| 2026-10-10 16:29:01 | [Montalvan](https://en.wikipedia.org/wiki/Montalvan) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 629 |
+| 2026-10-10 16:31:37 | [Prince Waly](https://en.wikipedia.org/wiki/Prince_Waly) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,194 |
+| 2026-10-10 16:31:40 | [North Crimean Plain](https://en.wikipedia.org/wiki/North_Crimean_Plain) | [Skoropadsky](https://en.wikipedia.org/wiki/User:Skoropadsky) | 2,761 |
+| 2026-10-10 16:32:05 | [Count of São Lourenço](https://en.wikipedia.org/wiki/Count_of_S%C3%A3o_Louren%C3%A7o) | [Mornholt](https://en.wikipedia.org/wiki/User:Mornholt) | 25,736 |
+| 2026-10-10 16:32:14 | [Ajinkya Shinde](https://en.wikipedia.org/wiki/Ajinkya_Shinde) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 2,371 |
+| 2026-10-10 16:32:49 | [Trust Building (Durham, North Carolina)](https://en.wikipedia.org/wiki/Trust_Building_%28Durham%2C_North_Carolina%29) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 2,855 |
+| 2026-10-10 16:41:02 | [Charles Gulick](https://en.wikipedia.org/wiki/Charles_Gulick) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 206 |
+| 2026-10-10 16:41:16 | [Varupula Subbarao](https://en.wikipedia.org/wiki/Varupula_Subbarao) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 3,717 |
+| 2026-10-10 16:44:16 | [Delantero](https://en.wikipedia.org/wiki/Delantero) | [Cinemaniac86](https://en.wikipedia.org/wiki/User:Cinemaniac86) | 4,036 |
+| 2026-10-10 16:49:30 | [Rachit Singh](https://en.wikipedia.org/wiki/Rachit_Singh) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 13,693 |
+| 2026-10-10 16:51:42 | [Ataenius parvus](https://en.wikipedia.org/wiki/Ataenius_parvus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,935 |
+| 2026-10-10 16:51:54 | [Charles Kandler](https://en.wikipedia.org/wiki/Charles_Kandler) | [Викидим](https://en.wikipedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B8%D0%BC) | 308 |
+| 2026-10-10 16:54:57 | [Ataenius nudus](https://en.wikipedia.org/wiki/Ataenius_nudus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,073 |
+| 2026-10-10 16:55:36 | [KJ Edwards](https://en.wikipedia.org/wiki/KJ_Edwards) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 72 |
+| 2026-10-10 16:58:08 | [Prosoeca umbrosa](https://en.wikipedia.org/wiki/Prosoeca_umbrosa) | [Dwergenpaartje](https://en.wikipedia.org/wiki/User:Dwergenpaartje) | 283 |
+| 2026-10-10 16:58:12 | [Zamira Kuzieva](https://en.wikipedia.org/wiki/Zamira_Kuzieva) | [Айдос Сақбергенұлы](https://en.wikipedia.org/wiki/User:%D0%90%D0%B9%D0%B4%D0%BE%D1%81_%D0%A1%D0%B0%D2%9B%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D2%B1%D0%BB%D1%8B) | 8,142 |
+| 2026-10-10 17:00:58 | [Statue of Samuel Bourne Bevington](https://en.wikipedia.org/wiki/Statue_of_Samuel_Bourne_Bevington) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,306 |
+| 2026-10-10 17:01:06 | [Hsinchu County Constituency 1](https://en.wikipedia.org/wiki/Hsinchu_County_Constituency_1) | [CptnPhasma](https://en.wikipedia.org/wiki/User:CptnPhasma) | 4,758 |
+| 2026-10-10 17:02:59 | [Performing Arts and Culture Center](https://en.wikipedia.org/wiki/Performing_Arts_and_Culture_Center) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,805 |
+| 2026-10-10 17:09:00 | [MarkEdit](https://en.wikipedia.org/wiki/MarkEdit) | [Leon3289](https://en.wikipedia.org/wiki/User:Leon3289) | 2,828 |
+| 2026-10-10 17:11:14 | [Riera de Rubí](https://en.wikipedia.org/wiki/Riera_de_Rub%C3%AD) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 2,895 |
+| 2026-10-10 17:17:46 | [Brazilian Revolution of 1930 in Pará](https://en.wikipedia.org/wiki/Brazilian_Revolution_of_1930_in_Par%C3%A1) | [Torimem](https://en.wikipedia.org/wiki/User:Torimem) | 36,041 |
