@@ -13,64 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-10 18:19 UTC](data/en/new-articles-2026-10-10T18-19-38Z.csv) | 32 |
-| Japanese | `ja` | [2026-10-10 18:19 UTC](data/ja/new-articles-2026-10-10T18-19-38Z.csv) | 4 |
+| English | `en` | [2026-10-10 19:19 UTC](data/en/new-articles-2026-10-10T19-19-47Z.csv) | 21 |
+| Japanese | `ja` | [2026-10-10 19:19 UTC](data/ja/new-articles-2026-10-10T19-19-47Z.csv) | 2 |
 | Chinese | `zh` | [2026-10-10 18:19 UTC](data/zh/new-articles-2026-10-10T18-19-38Z.csv) | 32 |
-| French | `fr` | [2026-10-10 18:19 UTC](data/fr/new-articles-2026-10-10T18-19-38Z.csv) | 22 |
-| German | `de` | [2026-10-10 18:19 UTC](data/de/new-articles-2026-10-10T18-19-38Z.csv) | 8 |
-| Russian | `ru` | [2026-10-10 18:19 UTC](data/ru/new-articles-2026-10-10T18-19-38Z.csv) | 7 |
-| Spanish | `es` | [2026-10-10 18:19 UTC](data/es/new-articles-2026-10-10T18-19-38Z.csv) | 10 |
-| Italian | `it` | [2026-10-10 18:19 UTC](data/it/new-articles-2026-10-10T18-19-38Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-10 18:19 UTC](data/pt/new-articles-2026-10-10T18-19-38Z.csv) | 6 |
-| Polish | `pl` | [2026-10-10 18:19 UTC](data/pl/new-articles-2026-10-10T18-19-38Z.csv) | 14 |
-| Arabic | `ar` | [2026-10-10 18:19 UTC](data/ar/new-articles-2026-10-10T18-19-38Z.csv) | 7 |
-| Persian | `fa` | [2026-10-10 18:19 UTC](data/fa/new-articles-2026-10-10T18-19-38Z.csv) | 20 |
-| Turkish | `tr` | [2026-10-10 18:19 UTC](data/tr/new-articles-2026-10-10T18-19-38Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-10 18:19 UTC](data/he/new-articles-2026-10-10T18-19-38Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-10 18:19 UTC](data/sv/new-articles-2026-10-10T18-19-38Z.csv) | 4 |
-| Dutch | `nl` | [2026-10-10 18:19 UTC](data/nl/new-articles-2026-10-10T18-19-38Z.csv) | 8 |
+| French | `fr` | [2026-10-10 19:19 UTC](data/fr/new-articles-2026-10-10T19-19-47Z.csv) | 6 |
+| German | `de` | [2026-10-10 19:19 UTC](data/de/new-articles-2026-10-10T19-19-47Z.csv) | 13 |
+| Russian | `ru` | [2026-10-10 19:19 UTC](data/ru/new-articles-2026-10-10T19-19-47Z.csv) | 13 |
+| Spanish | `es` | [2026-10-10 19:19 UTC](data/es/new-articles-2026-10-10T19-19-47Z.csv) | 7 |
+| Italian | `it` | [2026-10-10 19:19 UTC](data/it/new-articles-2026-10-10T19-19-47Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-10 19:19 UTC](data/pt/new-articles-2026-10-10T19-19-47Z.csv) | 3 |
+| Polish | `pl` | [2026-10-10 19:19 UTC](data/pl/new-articles-2026-10-10T19-19-47Z.csv) | 13 |
+| Arabic | `ar` | [2026-10-10 19:19 UTC](data/ar/new-articles-2026-10-10T19-19-47Z.csv) | 6 |
+| Persian | `fa` | [2026-10-10 19:19 UTC](data/fa/new-articles-2026-10-10T19-19-47Z.csv) | 7 |
+| Turkish | `tr` | [2026-10-10 19:19 UTC](data/tr/new-articles-2026-10-10T19-19-47Z.csv) | 9 |
+| Hebrew | `he` | [2026-10-10 19:19 UTC](data/he/new-articles-2026-10-10T19-19-47Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-10 19:19 UTC](data/sv/new-articles-2026-10-10T19-19-47Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-10 19:19 UTC](data/nl/new-articles-2026-10-10T19-19-47Z.csv) | 6 |
 | Korean | `ko` | [2026-10-10 17:20 UTC](data/ko/new-articles-2026-10-10T17-20-33Z.csv) | 5 |
-| Indonesian | `id` | [2026-10-10 18:19 UTC](data/id/new-articles-2026-10-10T18-19-38Z.csv) | 11 |
-| Ukrainian | `uk` | [2026-10-10 18:19 UTC](data/uk/new-articles-2026-10-10T18-19-38Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-10-10 18:19 UTC](data/vi/new-articles-2026-10-10T18-19-38Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-10 19:19 UTC](data/id/new-articles-2026-10-10T19-19-47Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-10 19:19 UTC](data/uk/new-articles-2026-10-10T19-19-47Z.csv) | 4 |
+| Vietnamese | `vi` | [2026-10-10 19:19 UTC](data/vi/new-articles-2026-10-10T19-19-47Z.csv) | 1 |
 
-## English (en) — 2026-10-10 18:19 UTC
+## English (en) — 2026-10-10 19:19 UTC
 
-New articles created between 2026-10-10 17:20 UTC and 2026-10-10 18:19 UTC.
+New articles created between 2026-10-10 18:19 UTC and 2026-10-10 19:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-10T18-19-38Z.csv)
+[Full CSV](data/en/new-articles-2026-10-10T19-19-47Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-10 17:22:13 | [2026 Internazionali di Tennis Città di Rovereto – Singles](https://en.wikipedia.org/wiki/2026_Internazionali_di_Tennis_Citt%C3%A0_di_Rovereto_%E2%80%93_Singles) | [0add0n](https://en.wikipedia.org/wiki/User:0add0n) | 11,690 |
-| 2026-10-10 17:29:14 | [Kim Chang-man](https://en.wikipedia.org/wiki/Kim_Chang-man) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 6,572 |
-| 2026-10-10 17:31:58 | [Juan Pablo Torres (Colombian footballer)](https://en.wikipedia.org/wiki/Juan_Pablo_Torres_%28Colombian_footballer%29) | [Ligaventura95](https://en.wikipedia.org/wiki/User:Ligaventura95) | 8,712 |
-| 2026-10-10 17:34:00 | [Ghent Light Festival](https://en.wikipedia.org/wiki/Ghent_Light_Festival) | [UkPaolo](https://en.wikipedia.org/wiki/User:UkPaolo) | 18,871 |
-| 2026-10-10 17:35:48 | [Charles Harding](https://en.wikipedia.org/wiki/Charles_Harding) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 279 |
-| 2026-10-10 17:35:52 | [Domelipa](https://en.wikipedia.org/wiki/Domelipa) | [Hameltion](https://en.wikipedia.org/wiki/User:Hameltion) | 12,986 |
-| 2026-10-10 17:38:33 | [Christine Gerrard](https://en.wikipedia.org/wiki/Christine_Gerrard) | [Gaia Octavia Agrippa](https://en.wikipedia.org/wiki/User:Gaia_Octavia_Agrippa) | 1,842 |
-| 2026-10-10 17:38:48 | [2026 Erie shooting](https://en.wikipedia.org/wiki/2026_Erie_shooting) | [AnthonyTheGuy](https://en.wikipedia.org/wiki/User:AnthonyTheGuy) | 529 |
-| 2026-10-10 17:40:29 | [Gymnastics at the 2027 Pan American Games – Qualification](https://en.wikipedia.org/wiki/Gymnastics_at_the_2027_Pan_American_Games_%E2%80%93_Qualification) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 10,953 |
-| 2026-10-10 17:42:49 | [Hennens](https://en.wikipedia.org/wiki/Hennens) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,641 |
-| 2026-10-10 17:42:57 | [Middes](https://en.wikipedia.org/wiki/Middes) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,945 |
-| 2026-10-10 17:43:07 | [Torny-le-Grand](https://en.wikipedia.org/wiki/Torny-le-Grand) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,500 |
-| 2026-10-10 17:43:09 | [It's Magic (Jerry Vale album)](https://en.wikipedia.org/wiki/It%27s_Magic_%28Jerry_Vale_album%29) | [HazelAlbertSheriff](https://en.wikipedia.org/wiki/User:HazelAlbertSheriff) | 7,469 |
-| 2026-10-10 17:43:43 | [Le Saulgy](https://en.wikipedia.org/wiki/Le_Saulgy) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 1,887 |
-| 2026-10-10 17:43:52 | [Samuel Dietrich Schindler](https://en.wikipedia.org/wiki/Samuel_Dietrich_Schindler) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,092 |
-| 2026-10-10 17:44:05 | [Dietrich Schindler (jurist, born 1924)](https://en.wikipedia.org/wiki/Dietrich_Schindler_%28jurist%2C_born_1924%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,928 |
-| 2026-10-10 17:44:08 | [Antigone Association](https://en.wikipedia.org/wiki/Antigone_Association) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,690 |
-| 2026-10-10 17:44:14 | [Dietrich Schindler (politician)](https://en.wikipedia.org/wiki/Dietrich_Schindler_%28politician%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,850 |
-| 2026-10-10 17:44:20 | [Dietrich Schindler](https://en.wikipedia.org/wiki/Dietrich_Schindler) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 532 |
-| 2026-10-10 17:44:32 | [Hercules Salis (died 1575)](https://en.wikipedia.org/wiki/Hercules_Salis_%28died_1575%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,024 |
-| 2026-10-10 17:46:08 | [Emma Ramadan](https://en.wikipedia.org/wiki/Emma_Ramadan) | [LewisLapham420](https://en.wikipedia.org/wiki/User:LewisLapham420) | 18,324 |
-| 2026-10-10 17:47:30 | [Beromünster Abbey](https://en.wikipedia.org/wiki/Berom%C3%BCnster_Abbey) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 11,231 |
-| 2026-10-10 17:48:16 | [Reiden Commandery](https://en.wikipedia.org/wiki/Reiden_Commandery) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,069 |
-| 2026-10-10 17:48:32 | [Michelsamt](https://en.wikipedia.org/wiki/Michelsamt) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,716 |
-| 2026-10-10 17:49:50 | [Foord Asset Management](https://en.wikipedia.org/wiki/Foord_Asset_Management) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 7,611 |
-| 2026-10-10 17:50:14 | [2026 Erie, Pennsylvania shooting](https://en.wikipedia.org/wiki/2026_Erie%2C_Pennsylvania_shooting) | [Pondering my orb](https://en.wikipedia.org/wiki/User:Pondering_my_orb) | 729 |
-| 2026-10-10 18:00:24 | [2026 Asian Table Tennis Championships – Men's singles](https://en.wikipedia.org/wiki/2026_Asian_Table_Tennis_Championships_%E2%80%93_Men%27s_singles) | [Kk1603](https://en.wikipedia.org/wiki/User:Kk1603) | 40,624 |
-| 2026-10-10 18:08:03 | [Asturias in the Reconquista](https://en.wikipedia.org/wiki/Asturias_in_the_Reconquista) | [Wareno](https://en.wikipedia.org/wiki/User:Wareno) | 32,090 |
-| 2026-10-10 18:11:10 | [1892 United Kingdom general election in Wales](https://en.wikipedia.org/wiki/1892_United_Kingdom_general_election_in_Wales) | [BlueCrowns](https://en.wikipedia.org/wiki/User:BlueCrowns) | 15,047 |
-| 2026-10-10 18:13:34 | [Sylvanus Burgess](https://en.wikipedia.org/wiki/Sylvanus_Burgess) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 3,763 |
-| 2026-10-10 18:17:43 | [Klarić](https://en.wikipedia.org/wiki/Klari%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 350 |
-| 2026-10-10 18:19:26 | [La Fève (rapper)](https://en.wikipedia.org/wiki/La_F%C3%A8ve_%28rapper%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 5,194 |
+| 2026-10-10 18:22:10 | [Sarkand, India](https://en.wikipedia.org/wiki/Sarkand%2C_India) | [Rajdhani Fan Person](https://en.wikipedia.org/wiki/User:Rajdhani_Fan_Person) | 1,493 |
+| 2026-10-10 18:22:52 | [Disambiguation: Aranese](https://en.wikipedia.org/wiki/Disambiguation%3A_Aranese) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 262 |
+| 2026-10-10 18:25:08 | [Wauwilermoos (moor)](https://en.wikipedia.org/wiki/Wauwilermoos_%28moor%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 6,247 |
+| 2026-10-10 18:25:20 | [Vice-Presidents of the Assembly of the Republic (Portugal)](https://en.wikipedia.org/wiki/Vice-Presidents_of_the_Assembly_of_the_Republic_%28Portugal%29) | [DarthVaderRafa](https://en.wikipedia.org/wiki/User:DarthVaderRafa) | 2,414 |
+| 2026-10-10 18:25:32 | [Dhood(film)](https://en.wikipedia.org/wiki/Dhood%28film%29) | [Anandrajkumar0000](https://en.wikipedia.org/wiki/User:Anandrajkumar0000) | 3,930 |
+| 2026-10-10 18:29:11 | [Lordship of Wolhusen](https://en.wikipedia.org/wiki/Lordship_of_Wolhusen) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 6,999 |
+| 2026-10-10 18:32:18 | [Luftwaffe raid on Poltava](https://en.wikipedia.org/wiki/Luftwaffe_raid_on_Poltava) | [Dead Mary](https://en.wikipedia.org/wiki/User:Dead_Mary) | 8,538 |
+| 2026-10-10 18:32:26 | [Leo Moss](https://en.wikipedia.org/wiki/Leo_Moss) | [Rich Farmbrough](https://en.wikipedia.org/wiki/User:Rich_Farmbrough) | 1,067 |
+| 2026-10-10 18:33:50 | [2018 WPT Valladolid Open](https://en.wikipedia.org/wiki/2018_WPT_Valladolid_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 42,433 |
+| 2026-10-10 18:34:15 | [Kruščica, Croatia](https://en.wikipedia.org/wiki/Kru%C5%A1%C4%8Dica%2C_Croatia) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 2,201 |
+| 2026-10-10 18:34:43 | [Miniscule 61](https://en.wikipedia.org/wiki/Miniscule_61) | [Uruiamme](https://en.wikipedia.org/wiki/User:Uruiamme) | 33 |
+| 2026-10-10 18:39:51 | [Tenorinho Malta](https://en.wikipedia.org/wiki/Tenorinho_Malta) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 1,187 |
+| 2026-10-10 18:43:34 | [Appofeniacs](https://en.wikipedia.org/wiki/Appofeniacs) | [Sojour](https://en.wikipedia.org/wiki/User:Sojour) | 1,898 |
+| 2026-10-10 18:48:27 | [Fox Theatre (Brooklyn)](https://en.wikipedia.org/wiki/Fox_Theatre_%28Brooklyn%29) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 3,212 |
+| 2026-10-10 18:49:33 | [Scamander River, Tasmania](https://en.wikipedia.org/wiki/Scamander_River%2C_Tasmania) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 2,044 |
+| 2026-10-10 18:55:10 | [Wolfgang Breuer](https://en.wikipedia.org/wiki/Wolfgang_Breuer) | [SuperSkaterDude45](https://en.wikipedia.org/wiki/User:SuperSkaterDude45) | 14,952 |
+| 2026-10-10 19:02:27 | [Charles Heyd](https://en.wikipedia.org/wiki/Charles_Heyd) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 200 |
+| 2026-10-10 19:06:50 | [Ahmad Yusifov](https://en.wikipedia.org/wiki/Ahmad_Yusifov) | [Orkhano](https://en.wikipedia.org/wiki/User:Orkhano) | 17,416 |
+| 2026-10-10 19:12:20 | [2026 Rolex Paris Masters](https://en.wikipedia.org/wiki/2026_Rolex_Paris_Masters) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 10,484 |
+| 2026-10-10 19:13:08 | [Happy Romance of the Three Kingdoms](https://en.wikipedia.org/wiki/Happy_Romance_of_the_Three_Kingdoms) | [Chineseliteraturemans](https://en.wikipedia.org/wiki/User:Chineseliteraturemans) | 874 |
+| 2026-10-10 19:19:43 | [Adedamola Ajani](https://en.wikipedia.org/wiki/Adedamola_Ajani) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 5,924 |
