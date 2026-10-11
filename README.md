@@ -13,56 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-11 01:19 UTC](data/en/new-articles-2026-10-11T01-19-35Z.csv) | 24 |
-| Japanese | `ja` | [2026-10-11 01:19 UTC](data/ja/new-articles-2026-10-11T01-19-35Z.csv) | 3 |
-| Chinese | `zh` | [2026-10-11 01:19 UTC](data/zh/new-articles-2026-10-11T01-19-35Z.csv) | 3 |
-| French | `fr` | [2026-10-11 01:19 UTC](data/fr/new-articles-2026-10-11T01-19-35Z.csv) | 3 |
+| English | `en` | [2026-10-11 02:19 UTC](data/en/new-articles-2026-10-11T02-19-01Z.csv) | 19 |
+| Japanese | `ja` | [2026-10-11 02:19 UTC](data/ja/new-articles-2026-10-11T02-19-01Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-11 02:19 UTC](data/zh/new-articles-2026-10-11T02-19-01Z.csv) | 9 |
+| French | `fr` | [2026-10-11 02:19 UTC](data/fr/new-articles-2026-10-11T02-19-01Z.csv) | 11 |
 | German | `de` | [2026-10-11 01:19 UTC](data/de/new-articles-2026-10-11T01-19-35Z.csv) | 1 |
-| Russian | `ru` | [2026-10-11 01:19 UTC](data/ru/new-articles-2026-10-11T01-19-35Z.csv) | 2 |
-| Spanish | `es` | [2026-10-11 01:19 UTC](data/es/new-articles-2026-10-11T01-19-35Z.csv) | 7 |
-| Italian | `it` | [2026-10-11 01:19 UTC](data/it/new-articles-2026-10-11T01-19-35Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-11 01:19 UTC](data/pt/new-articles-2026-10-11T01-19-35Z.csv) | 10 |
-| Polish | `pl` | [2026-10-11 01:19 UTC](data/pl/new-articles-2026-10-11T01-19-35Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-11 01:19 UTC](data/ar/new-articles-2026-10-11T01-19-35Z.csv) | 2 |
-| Persian | `fa` | [2026-10-11 01:19 UTC](data/fa/new-articles-2026-10-11T01-19-35Z.csv) | 1 |
-| Turkish | `tr` | [2026-10-11 01:19 UTC](data/tr/new-articles-2026-10-11T01-19-35Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-11 00:18 UTC](data/he/new-articles-2026-10-11T00-18-32Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-11 01:19 UTC](data/sv/new-articles-2026-10-11T01-19-35Z.csv) | 5 |
+| Russian | `ru` | [2026-10-11 02:19 UTC](data/ru/new-articles-2026-10-11T02-19-01Z.csv) | 2 |
+| Spanish | `es` | [2026-10-11 02:19 UTC](data/es/new-articles-2026-10-11T02-19-01Z.csv) | 8 |
+| Italian | `it` | [2026-10-11 02:19 UTC](data/it/new-articles-2026-10-11T02-19-01Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-11 02:19 UTC](data/pt/new-articles-2026-10-11T02-19-01Z.csv) | 5 |
+| Polish | `pl` | [2026-10-11 02:19 UTC](data/pl/new-articles-2026-10-11T02-19-01Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-11 02:19 UTC](data/ar/new-articles-2026-10-11T02-19-01Z.csv) | 1 |
+| Persian | `fa` | [2026-10-11 02:19 UTC](data/fa/new-articles-2026-10-11T02-19-01Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-11 02:19 UTC](data/tr/new-articles-2026-10-11T02-19-01Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-11 02:19 UTC](data/he/new-articles-2026-10-11T02-19-01Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-11 02:19 UTC](data/sv/new-articles-2026-10-11T02-19-01Z.csv) | 2 |
 | Dutch | `nl` | [2026-10-10 23:19 UTC](data/nl/new-articles-2026-10-10T23-19-45Z.csv) | 3 |
-| Korean | `ko` | [2026-10-11 01:19 UTC](data/ko/new-articles-2026-10-11T01-19-35Z.csv) | 10 |
-| Indonesian | `id` | [2026-10-11 01:19 UTC](data/id/new-articles-2026-10-11T01-19-35Z.csv) | 29 |
+| Korean | `ko` | [2026-10-11 02:19 UTC](data/ko/new-articles-2026-10-11T02-19-01Z.csv) | 4 |
+| Indonesian | `id` | [2026-10-11 02:19 UTC](data/id/new-articles-2026-10-11T02-19-01Z.csv) | 34 |
 | Ukrainian | `uk` | [2026-10-11 01:19 UTC](data/uk/new-articles-2026-10-11T01-19-35Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-11 01:19 UTC](data/vi/new-articles-2026-10-11T01-19-35Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-10-11 02:19 UTC](data/vi/new-articles-2026-10-11T02-19-01Z.csv) | 2 |
 
-## English (en) — 2026-10-11 01:19 UTC
+## English (en) — 2026-10-11 02:19 UTC
 
-New articles created between 2026-10-11 00:18 UTC and 2026-10-11 01:19 UTC.
+New articles created between 2026-10-11 01:19 UTC and 2026-10-11 02:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-11T01-19-35Z.csv)
+[Full CSV](data/en/new-articles-2026-10-11T02-19-01Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-11 00:18:46 | [Hylaeus hobartiellus](https://en.wikipedia.org/wiki/Hylaeus_hobartiellus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,065 |
-| 2026-10-11 00:18:58 | [Comatose Music](https://en.wikipedia.org/wiki/Comatose_Music) | [Lofi Gurl](https://en.wikipedia.org/wiki/User:Lofi_Gurl) | 905 |
-| 2026-10-11 00:19:54 | [Karl Kuhn (disambiguation)](https://en.wikipedia.org/wiki/Karl_Kuhn_%28disambiguation%29) | [KConWiki](https://en.wikipedia.org/wiki/User:KConWiki) | 498 |
-| 2026-10-11 00:21:36 | [271st Division](https://en.wikipedia.org/wiki/271st_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 198 |
-| 2026-10-11 00:22:10 | [Dylan Hazen](https://en.wikipedia.org/wiki/Dylan_Hazen) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,934 |
-| 2026-10-11 00:25:50 | [Adebunmi Gbadebo](https://en.wikipedia.org/wiki/Adebunmi_Gbadebo) | [Taipei64](https://en.wikipedia.org/wiki/User:Taipei64) | 5,038 |
-| 2026-10-11 00:25:55 | [Carimara](https://en.wikipedia.org/wiki/Carimara) | [Shapeyness](https://en.wikipedia.org/wiki/User:Shapeyness) | 5,220 |
-| 2026-10-11 00:26:03 | [272nd Division](https://en.wikipedia.org/wiki/272nd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 314 |
-| 2026-10-11 00:26:17 | [Makui](https://en.wikipedia.org/wiki/Makui) | [Kautilya3](https://en.wikipedia.org/wiki/User:Kautilya3) | 14,206 |
-| 2026-10-11 00:29:15 | [Redefining Darkness Records](https://en.wikipedia.org/wiki/Redefining_Darkness_Records) | [Lofi Gurl](https://en.wikipedia.org/wiki/User:Lofi_Gurl) | 977 |
-| 2026-10-11 00:29:23 | [273rd Division](https://en.wikipedia.org/wiki/273rd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 253 |
-| 2026-10-11 00:31:57 | [274th Division](https://en.wikipedia.org/wiki/274th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 198 |
-| 2026-10-11 00:33:57 | [275th Division](https://en.wikipedia.org/wiki/275th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 198 |
-| 2026-10-11 00:34:12 | [Moscow Township, Kansas](https://en.wikipedia.org/wiki/Moscow_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,431 |
-| 2026-10-11 00:39:18 | [Coll d'Estenalles](https://en.wikipedia.org/wiki/Coll_d%27Estenalles) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 5,073 |
-| 2026-10-11 00:48:05 | [2005 National Amateur Cup](https://en.wikipedia.org/wiki/2005_National_Amateur_Cup) | [Libro0](https://en.wikipedia.org/wiki/User:Libro0) | 12,704 |
-| 2026-10-11 00:51:24 | [Voorhees Township, Kansas](https://en.wikipedia.org/wiki/Voorhees_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,167 |
-| 2026-10-11 00:53:32 | [Jimmy in Saigon](https://en.wikipedia.org/wiki/Jimmy_in_Saigon) | [Cinemaniac86](https://en.wikipedia.org/wiki/User:Cinemaniac86) | 3,604 |
-| 2026-10-11 00:54:34 | [Guardians of the temple](https://en.wikipedia.org/wiki/Guardians_of_the_temple) | [MarioeMary](https://en.wikipedia.org/wiki/User:MarioeMary) | 1,211 |
-| 2026-10-11 00:56:55 | [Lammert Huitema](https://en.wikipedia.org/wiki/Lammert_Huitema) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 16,363 |
-| 2026-10-11 01:03:48 | [West Center Township, Kansas](https://en.wikipedia.org/wiki/West_Center_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,088 |
-| 2026-10-11 01:04:12 | [1934–35 Boston Trojans season](https://en.wikipedia.org/wiki/1934%E2%80%9335_Boston_Trojans_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 7,509 |
-| 2026-10-11 01:08:15 | [Satanath Records](https://en.wikipedia.org/wiki/Satanath_Records) | [Lofi Gurl](https://en.wikipedia.org/wiki/User:Lofi_Gurl) | 1,222 |
-| 2026-10-11 01:15:26 | [2026–27 Richmond Spiders women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Richmond_Spiders_women%27s_basketball_team) | [WildCowboy](https://en.wikipedia.org/wiki/User:WildCowboy) | 25,122 |
+| 2026-10-11 01:23:19 | [276th Division](https://en.wikipedia.org/wiki/276th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 204 |
+| 2026-10-11 01:25:30 | [Saka saka](https://en.wikipedia.org/wiki/Saka_saka) | [Catjacket](https://en.wikipedia.org/wiki/User:Catjacket) | 421 |
+| 2026-10-11 01:28:27 | [Sławomir Pietrzyk](https://en.wikipedia.org/wiki/S%C5%82awomir_Pietrzyk) | [Brat Forelli](https://en.wikipedia.org/wiki/User:Brat_Forelli) | 18,389 |
+| 2026-10-11 01:29:16 | [277th Division](https://en.wikipedia.org/wiki/277th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 198 |
+| 2026-10-11 01:29:23 | [Avuttepe](https://en.wikipedia.org/wiki/Avuttepe) | [Rizamax24](https://en.wikipedia.org/wiki/User:Rizamax24) | 1,017 |
+| 2026-10-11 01:29:23 | [Hylaeus wynyardensis](https://en.wikipedia.org/wiki/Hylaeus_wynyardensis) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,086 |
+| 2026-10-11 01:33:15 | [278th Division](https://en.wikipedia.org/wiki/278th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 198 |
+| 2026-10-11 01:35:31 | [RKO Bushwick Theatre](https://en.wikipedia.org/wiki/RKO_Bushwick_Theatre) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 2,340 |
+| 2026-10-11 01:35:35 | [279th Division](https://en.wikipedia.org/wiki/279th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 198 |
+| 2026-10-11 01:37:14 | [Brazilian Revolution of 1930 in the Northeast](https://en.wikipedia.org/wiki/Brazilian_Revolution_of_1930_in_the_Northeast) | [Torimem](https://en.wikipedia.org/wiki/User:Torimem) | 31,355 |
+| 2026-10-11 01:38:08 | [280th Division](https://en.wikipedia.org/wiki/280th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 198 |
+| 2026-10-11 01:48:57 | [Kanan Nasibov](https://en.wikipedia.org/wiki/Kanan_Nasibov) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 5,217 |
+| 2026-10-11 01:49:35 | [Oatnasio da Silva](https://en.wikipedia.org/wiki/Oatnasio_da_Silva) | [ShadowBallX](https://en.wikipedia.org/wiki/User:ShadowBallX) | 5,023 |
+| 2026-10-11 01:50:31 | [Texas (given name or surname)](https://en.wikipedia.org/wiki/Texas_%28given_name_or_surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 4,781 |
+| 2026-10-11 01:55:56 | [Radha Kant Ojha](https://en.wikipedia.org/wiki/Radha_Kant_Ojha) | [Independent26](https://en.wikipedia.org/wiki/User:Independent26) | 1,313 |
+| 2026-10-11 01:56:50 | [Daniel Grzesiak](https://en.wikipedia.org/wiki/Daniel_Grzesiak) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 14,105 |
+| 2026-10-11 02:01:27 | [Brody Jones](https://en.wikipedia.org/wiki/Brody_Jones) | [Finn Shipley](https://en.wikipedia.org/wiki/User:Finn_Shipley) | 5,753 |
+| 2026-10-11 02:12:48 | [2026 Hong Kong Cyclothon](https://en.wikipedia.org/wiki/2026_Hong_Kong_Cyclothon) | [Peoya](https://en.wikipedia.org/wiki/User:Peoya) | 5,275 |
+| 2026-10-11 02:13:54 | [Multnomah Arts Center](https://en.wikipedia.org/wiki/Multnomah_Arts_Center) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,915 |
