@@ -13,44 +13,52 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-12 06:19 UTC](data/en/new-articles-2026-10-12T06-19-14Z.csv) | 12 |
-| Japanese | `ja` | [2026-10-12 06:19 UTC](data/ja/new-articles-2026-10-12T06-19-14Z.csv) | 12 |
-| Chinese | `zh` | [2026-10-12 06:19 UTC](data/zh/new-articles-2026-10-12T06-19-14Z.csv) | 17 |
-| French | `fr` | [2026-10-12 06:19 UTC](data/fr/new-articles-2026-10-12T06-19-14Z.csv) | 1 |
-| German | `de` | [2026-10-12 06:19 UTC](data/de/new-articles-2026-10-12T06-19-14Z.csv) | 1 |
-| Russian | `ru` | [2026-10-12 06:19 UTC](data/ru/new-articles-2026-10-12T06-19-14Z.csv) | 2 |
-| Spanish | `es` | [2026-10-12 06:19 UTC](data/es/new-articles-2026-10-12T06-19-14Z.csv) | 5 |
-| Italian | `it` | [2026-10-12 06:19 UTC](data/it/new-articles-2026-10-12T06-19-14Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-12 06:19 UTC](data/pt/new-articles-2026-10-12T06-19-14Z.csv) | 1 |
-| Polish | `pl` | [2026-10-12 06:19 UTC](data/pl/new-articles-2026-10-12T06-19-14Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-12 06:19 UTC](data/ar/new-articles-2026-10-12T06-19-14Z.csv) | 5 |
-| Persian | `fa` | [2026-10-12 06:19 UTC](data/fa/new-articles-2026-10-12T06-19-14Z.csv) | 5 |
-| Turkish | `tr` | [2026-10-12 06:19 UTC](data/tr/new-articles-2026-10-12T06-19-14Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-12 05:18 UTC](data/he/new-articles-2026-10-12T05-18-43Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-12 06:19 UTC](data/sv/new-articles-2026-10-12T06-19-14Z.csv) | 4 |
-| Dutch | `nl` | [2026-10-12 06:19 UTC](data/nl/new-articles-2026-10-12T06-19-14Z.csv) | 2 |
-| Korean | `ko` | [2026-10-12 06:19 UTC](data/ko/new-articles-2026-10-12T06-19-14Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-12 06:19 UTC](data/id/new-articles-2026-10-12T06-19-14Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-10-12 06:19 UTC](data/uk/new-articles-2026-10-12T06-19-14Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-10-12 06:19 UTC](data/vi/new-articles-2026-10-12T06-19-14Z.csv) | 1 |
+| English | `en` | [2026-10-12 07:18 UTC](data/en/new-articles-2026-10-12T07-18-53Z.csv) | 20 |
+| Japanese | `ja` | [2026-10-12 07:18 UTC](data/ja/new-articles-2026-10-12T07-18-53Z.csv) | 17 |
+| Chinese | `zh` | [2026-10-12 07:18 UTC](data/zh/new-articles-2026-10-12T07-18-53Z.csv) | 12 |
+| French | `fr` | [2026-10-12 07:18 UTC](data/fr/new-articles-2026-10-12T07-18-53Z.csv) | 5 |
+| German | `de` | [2026-10-12 07:18 UTC](data/de/new-articles-2026-10-12T07-18-53Z.csv) | 10 |
+| Russian | `ru` | [2026-10-12 07:18 UTC](data/ru/new-articles-2026-10-12T07-18-53Z.csv) | 6 |
+| Spanish | `es` | [2026-10-12 07:18 UTC](data/es/new-articles-2026-10-12T07-18-53Z.csv) | 7 |
+| Italian | `it` | [2026-10-12 07:18 UTC](data/it/new-articles-2026-10-12T07-18-53Z.csv) | 7 |
+| Portuguese | `pt` | [2026-10-12 07:18 UTC](data/pt/new-articles-2026-10-12T07-18-53Z.csv) | 1 |
+| Polish | `pl` | [2026-10-12 07:18 UTC](data/pl/new-articles-2026-10-12T07-18-53Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-12 07:18 UTC](data/ar/new-articles-2026-10-12T07-18-53Z.csv) | 4 |
+| Persian | `fa` | [2026-10-12 07:18 UTC](data/fa/new-articles-2026-10-12T07-18-53Z.csv) | 8 |
+| Turkish | `tr` | [2026-10-12 07:18 UTC](data/tr/new-articles-2026-10-12T07-18-53Z.csv) | 9 |
+| Hebrew | `he` | [2026-10-12 07:18 UTC](data/he/new-articles-2026-10-12T07-18-53Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-12 07:18 UTC](data/sv/new-articles-2026-10-12T07-18-53Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-12 07:18 UTC](data/nl/new-articles-2026-10-12T07-18-53Z.csv) | 5 |
+| Korean | `ko` | [2026-10-12 07:18 UTC](data/ko/new-articles-2026-10-12T07-18-53Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-12 07:18 UTC](data/id/new-articles-2026-10-12T07-18-53Z.csv) | 20 |
+| Ukrainian | `uk` | [2026-10-12 07:18 UTC](data/uk/new-articles-2026-10-12T07-18-53Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-12 07:18 UTC](data/vi/new-articles-2026-10-12T07-18-53Z.csv) | 1 |
 
-## English (en) — 2026-10-12 06:19 UTC
+## English (en) — 2026-10-12 07:18 UTC
 
-New articles created between 2026-10-12 05:18 UTC and 2026-10-12 06:19 UTC.
+New articles created between 2026-10-12 06:19 UTC and 2026-10-12 07:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-12T06-19-14Z.csv)
+[Full CSV](data/en/new-articles-2026-10-12T07-18-53Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-12 05:30:32 | [2026 Adelaide 500](https://en.wikipedia.org/wiki/2026_Adelaide_500) | [DexDaRacer](https://en.wikipedia.org/wiki/User:DexDaRacer) | 23,493 |
-| 2026-10-12 05:31:14 | [Tel Aviv Foundation](https://en.wikipedia.org/wiki/Tel_Aviv_Foundation) | [Avigail56](https://en.wikipedia.org/wiki/User:Avigail56) | 13,448 |
-| 2026-10-12 05:34:31 | [Beth (surname)](https://en.wikipedia.org/wiki/Beth_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 290 |
-| 2026-10-12 05:39:24 | [Wisconsin's Crawford–Chippewa Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Crawford%E2%80%93Chippewa_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 4,672 |
-| 2026-10-12 05:39:47 | [26th Gawad Urian Awards](https://en.wikipedia.org/wiki/26th_Gawad_Urian_Awards) | [Hawksl](https://en.wikipedia.org/wiki/User:Hawksl) | 6,522 |
-| 2026-10-12 05:46:01 | [Bert (surname)](https://en.wikipedia.org/wiki/Bert_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 404 |
-| 2026-10-12 05:50:27 | [Utana Terada](https://en.wikipedia.org/wiki/Utana_Terada) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,539 |
-| 2026-10-12 06:00:30 | [Do It Yourself (Violin)](https://en.wikipedia.org/wiki/Do_It_Yourself_%28Violin%29) | [Twixister](https://en.wikipedia.org/wiki/User:Twixister) | 6,526 |
-| 2026-10-12 06:04:27 | [Hagar Ophir](https://en.wikipedia.org/wiki/Hagar_Ophir) | [Taipei64](https://en.wikipedia.org/wiki/User:Taipei64) | 4,492 |
-| 2026-10-12 06:08:25 | [RCA International Division](https://en.wikipedia.org/wiki/RCA_International_Division) | [Rainflash](https://en.wikipedia.org/wiki/User:Rainflash) | 11,942 |
-| 2026-10-12 06:13:12 | [Shinsei Hattori](https://en.wikipedia.org/wiki/Shinsei_Hattori) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 6,085 |
-| 2026-10-12 06:15:55 | [Ting Shou-chung](https://en.wikipedia.org/wiki/Ting_Shou-chung) | [Jay-Wiki](https://en.wikipedia.org/wiki/User:Jay-Wiki) | 20,680 |
+| 2026-10-12 06:22:32 | [Double pipe heat exchanger](https://en.wikipedia.org/wiki/Double_pipe_heat_exchanger) | [Gowthamsaravanakumar](https://en.wikipedia.org/wiki/User:Gowthamsaravanakumar) | 11,219 |
+| 2026-10-12 06:26:52 | [Bart (surname)](https://en.wikipedia.org/wiki/Bart_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 927 |
+| 2026-10-12 06:31:20 | [Léonard Pongo](https://en.wikipedia.org/wiki/L%C3%A9onard_Pongo) | [Taipei64](https://en.wikipedia.org/wiki/User:Taipei64) | 5,304 |
+| 2026-10-12 06:32:41 | [Tatsuki Ishihara](https://en.wikipedia.org/wiki/Tatsuki_Ishihara) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 5,385 |
+| 2026-10-12 06:34:53 | [Chaubara, Pakistan](https://en.wikipedia.org/wiki/Chaubara%2C_Pakistan) | [Prince.445](https://en.wikipedia.org/wiki/User:Prince.445) | 1,968 |
+| 2026-10-12 06:48:01 | [Mohammed Z. Rahman](https://en.wikipedia.org/wiki/Mohammed_Z._Rahman) | [Taipei64](https://en.wikipedia.org/wiki/User:Taipei64) | 4,149 |
+| 2026-10-12 06:48:09 | [Ataenius gibbus](https://en.wikipedia.org/wiki/Ataenius_gibbus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,989 |
+| 2026-10-12 06:49:56 | [Ebor Inn](https://en.wikipedia.org/wiki/Ebor_Inn) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 6,701 |
+| 2026-10-12 06:50:45 | [Ataenius eurynotus](https://en.wikipedia.org/wiki/Ataenius_eurynotus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,942 |
+| 2026-10-12 06:51:09 | [Wisconsin's Sauk County Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Sauk_County_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 8,548 |
+| 2026-10-12 06:51:09 | [Miki Mukunoki](https://en.wikipedia.org/wiki/Miki_Mukunoki) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 5,429 |
+| 2026-10-12 06:53:08 | [Brett Goodroad](https://en.wikipedia.org/wiki/Brett_Goodroad) | [ColHell](https://en.wikipedia.org/wiki/User:ColHell) | 9,470 |
+| 2026-10-12 06:53:34 | [Ataenius semicoecus](https://en.wikipedia.org/wiki/Ataenius_semicoecus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,011 |
+| 2026-10-12 06:59:04 | [Ataenius australasiae](https://en.wikipedia.org/wiki/Ataenius_australasiae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,600 |
+| 2026-10-12 07:03:02 | [Jesse H. Arnup](https://en.wikipedia.org/wiki/Jesse_H._Arnup) | [Guinness323](https://en.wikipedia.org/wiki/User:Guinness323) | 8,739 |
+| 2026-10-12 07:07:53 | [Moa Ono](https://en.wikipedia.org/wiki/Moa_Ono) | [ᱤᱧ ᱢᱟᱛᱟᱞ](https://en.wikipedia.org/wiki/User:%E1%B1%A4%E1%B1%A7_%E1%B1%A2%E1%B1%9F%E1%B1%9B%E1%B1%9F%E1%B1%9E) | 4,644 |
+| 2026-10-12 07:08:22 | [Hala Schoukair](https://en.wikipedia.org/wiki/Hala_Schoukair) | [Taipei64](https://en.wikipedia.org/wiki/User:Taipei64) | 4,449 |
+| 2026-10-12 07:08:24 | [Lost Lear](https://en.wikipedia.org/wiki/Lost_Lear) | [HesioneHushabye](https://en.wikipedia.org/wiki/User:HesioneHushabye) | 5,882 |
+| 2026-10-12 07:08:33 | [Kaag Tihar](https://en.wikipedia.org/wiki/Kaag_Tihar) | [Prayushk](https://en.wikipedia.org/wiki/User:Prayushk) | 2,083 |
+| 2026-10-12 07:18:02 | [Ataenius koebelei](https://en.wikipedia.org/wiki/Ataenius_koebelei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,073 |
