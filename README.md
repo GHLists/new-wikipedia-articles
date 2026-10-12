@@ -13,42 +13,43 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-12 04:21 UTC](data/en/new-articles-2026-10-12T04-21-38Z.csv) | 10 |
-| Japanese | `ja` | [2026-10-12 04:21 UTC](data/ja/new-articles-2026-10-12T04-21-38Z.csv) | 14 |
-| Chinese | `zh` | [2026-10-12 04:21 UTC](data/zh/new-articles-2026-10-12T04-21-38Z.csv) | 5 |
-| French | `fr` | [2026-10-12 04:21 UTC](data/fr/new-articles-2026-10-12T04-21-38Z.csv) | 2 |
-| German | `de` | [2026-10-12 03:19 UTC](data/de/new-articles-2026-10-12T03-19-51Z.csv) | 1 |
-| Russian | `ru` | [2026-10-12 04:21 UTC](data/ru/new-articles-2026-10-12T04-21-38Z.csv) | 3 |
-| Spanish | `es` | [2026-10-12 04:21 UTC](data/es/new-articles-2026-10-12T04-21-38Z.csv) | 14 |
-| Italian | `it` | [2026-10-12 04:21 UTC](data/it/new-articles-2026-10-12T04-21-38Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-12 04:21 UTC](data/pt/new-articles-2026-10-12T04-21-38Z.csv) | 13 |
+| English | `en` | [2026-10-12 05:18 UTC](data/en/new-articles-2026-10-12T05-18-43Z.csv) | 11 |
+| Japanese | `ja` | [2026-10-12 05:18 UTC](data/ja/new-articles-2026-10-12T05-18-43Z.csv) | 14 |
+| Chinese | `zh` | [2026-10-12 05:18 UTC](data/zh/new-articles-2026-10-12T05-18-43Z.csv) | 6 |
+| French | `fr` | [2026-10-12 05:18 UTC](data/fr/new-articles-2026-10-12T05-18-43Z.csv) | 2 |
+| German | `de` | [2026-10-12 05:18 UTC](data/de/new-articles-2026-10-12T05-18-43Z.csv) | 3 |
+| Russian | `ru` | [2026-10-12 05:18 UTC](data/ru/new-articles-2026-10-12T05-18-43Z.csv) | 2 |
+| Spanish | `es` | [2026-10-12 05:18 UTC](data/es/new-articles-2026-10-12T05-18-43Z.csv) | 7 |
+| Italian | `it` | [2026-10-12 05:18 UTC](data/it/new-articles-2026-10-12T05-18-43Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-12 05:18 UTC](data/pt/new-articles-2026-10-12T05-18-43Z.csv) | 2 |
 | Polish | `pl` | [2026-10-12 04:21 UTC](data/pl/new-articles-2026-10-12T04-21-38Z.csv) | 4 |
 | Arabic | `ar` | [2026-10-12 04:21 UTC](data/ar/new-articles-2026-10-12T04-21-38Z.csv) | 3 |
-| Persian | `fa` | [2026-10-12 04:21 UTC](data/fa/new-articles-2026-10-12T04-21-38Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-12 03:19 UTC](data/tr/new-articles-2026-10-12T03-19-51Z.csv) | 9 |
-| Hebrew | `he` | [2026-10-12 04:21 UTC](data/he/new-articles-2026-10-12T04-21-38Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-12 04:21 UTC](data/sv/new-articles-2026-10-12T04-21-38Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-12 04:21 UTC](data/nl/new-articles-2026-10-12T04-21-38Z.csv) | 1 |
-| Korean | `ko` | [2026-10-12 03:19 UTC](data/ko/new-articles-2026-10-12T03-19-51Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-12 04:21 UTC](data/id/new-articles-2026-10-12T04-21-38Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-10-12 03:19 UTC](data/uk/new-articles-2026-10-12T03-19-51Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-10-12 02:18 UTC](data/vi/new-articles-2026-10-12T02-18-38Z.csv) | 1 |
+| Persian | `fa` | [2026-10-12 05:18 UTC](data/fa/new-articles-2026-10-12T05-18-43Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-12 05:18 UTC](data/tr/new-articles-2026-10-12T05-18-43Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-12 05:18 UTC](data/he/new-articles-2026-10-12T05-18-43Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-12 05:18 UTC](data/sv/new-articles-2026-10-12T05-18-43Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-12 05:18 UTC](data/nl/new-articles-2026-10-12T05-18-43Z.csv) | 1 |
+| Korean | `ko` | [2026-10-12 05:18 UTC](data/ko/new-articles-2026-10-12T05-18-43Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-12 05:18 UTC](data/id/new-articles-2026-10-12T05-18-43Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-12 05:18 UTC](data/uk/new-articles-2026-10-12T05-18-43Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-10-12 05:18 UTC](data/vi/new-articles-2026-10-12T05-18-43Z.csv) | 1 |
 
-## English (en) — 2026-10-12 04:21 UTC
+## English (en) — 2026-10-12 05:18 UTC
 
-New articles created between 2026-10-12 03:19 UTC and 2026-10-12 04:21 UTC.
+New articles created between 2026-10-12 04:21 UTC and 2026-10-12 05:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-12T04-21-38Z.csv)
+[Full CSV](data/en/new-articles-2026-10-12T05-18-43Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-12 03:20:10 | [Eustaquio Neves](https://en.wikipedia.org/wiki/Eustaquio_Neves) | [Taipei64](https://en.wikipedia.org/wiki/User:Taipei64) | 4,883 |
-| 2026-10-12 03:26:15 | [Altar de los Reyes](https://en.wikipedia.org/wiki/Altar_de_los_Reyes) | [Juan g. regino](https://en.wikipedia.org/wiki/User:Juan_g._regino) | 8,161 |
-| 2026-10-12 03:27:30 | [2026 Gold Coast 500](https://en.wikipedia.org/wiki/2026_Gold_Coast_500) | [DexDaRacer](https://en.wikipedia.org/wiki/User:DexDaRacer) | 16,249 |
-| 2026-10-12 03:30:52 | [Gli anni](https://en.wikipedia.org/wiki/Gli_anni) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 6,703 |
-| 2026-10-12 03:34:29 | [Wailu airstrike](https://en.wikipedia.org/wiki/Wailu_airstrike) | [Jebiguess](https://en.wikipedia.org/wiki/User:Jebiguess) | 3,196 |
-| 2026-10-12 03:35:39 | [Sinphar Pharmaceutical](https://en.wikipedia.org/wiki/Sinphar_Pharmaceutical) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 2,298 |
-| 2026-10-12 03:39:59 | [Mortgage Guarantee Building](https://en.wikipedia.org/wiki/Mortgage_Guarantee_Building) | [Gb321](https://en.wikipedia.org/wiki/User:Gb321) | 4,290 |
-| 2026-10-12 03:42:15 | [Lower Blanket Bay Falls](https://en.wikipedia.org/wiki/Lower_Blanket_Bay_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,228 |
-| 2026-10-12 03:53:57 | [2026 Sandown 500](https://en.wikipedia.org/wiki/2026_Sandown_500) | [DexDaRacer](https://en.wikipedia.org/wiki/User:DexDaRacer) | 15,614 |
-| 2026-10-12 04:14:53 | [Old Melbourne Goal Burial Markers](https://en.wikipedia.org/wiki/Old_Melbourne_Goal_Burial_Markers) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 9,067 |
+| 2026-10-12 04:35:57 | [Divertor and Injection Tokamak Experiment](https://en.wikipedia.org/wiki/Divertor_and_Injection_Tokamak_Experiment) | [Phranosaur](https://en.wikipedia.org/wiki/User:Phranosaur) | 2,906 |
+| 2026-10-12 04:36:24 | [Wisconsin's Columbia County Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Columbia_County_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 7,493 |
+| 2026-10-12 04:36:55 | [47th Blue Dragon Film Awards](https://en.wikipedia.org/wiki/47th_Blue_Dragon_Film_Awards) | [Rickyurs](https://en.wikipedia.org/wiki/User:Rickyurs) | 2,240 |
+| 2026-10-12 04:37:38 | [Suzhou-Jiaxing-Shanghai Suppression Campaign (1942)](https://en.wikipedia.org/wiki/Suzhou-Jiaxing-Shanghai_Suppression_Campaign_%281942%29) | [Cent58](https://en.wikipedia.org/wiki/User:Cent58) | 52,422 |
+| 2026-10-12 04:44:44 | [Fugee School](https://en.wikipedia.org/wiki/Fugee_School) | [Redding13](https://en.wikipedia.org/wiki/User:Redding13) | 7,344 |
+| 2026-10-12 05:02:17 | [Wayne Lawson](https://en.wikipedia.org/wiki/Wayne_Lawson) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 279 |
+| 2026-10-12 05:07:45 | [Upper Blanket Bay Falls](https://en.wikipedia.org/wiki/Upper_Blanket_Bay_Falls) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,198 |
+| 2026-10-12 05:07:52 | [Berth (surname)](https://en.wikipedia.org/wiki/Berth_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 249 |
+| 2026-10-12 05:13:16 | [Arie Eriks](https://en.wikipedia.org/wiki/Arie_Eriks) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 10,933 |
+| 2026-10-12 05:14:24 | [Paul Knierim](https://en.wikipedia.org/wiki/Paul_Knierim) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,520 |
+| 2026-10-12 05:14:50 | [Eastern Conference (PWHL)](https://en.wikipedia.org/wiki/Eastern_Conference_%28PWHL%29) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 2,192 |
