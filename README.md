@@ -13,56 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-12 12:19 UTC](data/en/new-articles-2026-10-12T12-19-18Z.csv) | 24 |
-| Japanese | `ja` | [2026-10-12 12:19 UTC](data/ja/new-articles-2026-10-12T12-19-18Z.csv) | 14 |
-| Chinese | `zh` | [2026-10-12 12:19 UTC](data/zh/new-articles-2026-10-12T12-19-18Z.csv) | 11 |
-| French | `fr` | [2026-10-12 12:19 UTC](data/fr/new-articles-2026-10-12T12-19-18Z.csv) | 9 |
-| German | `de` | [2026-10-12 12:19 UTC](data/de/new-articles-2026-10-12T12-19-18Z.csv) | 8 |
-| Russian | `ru` | [2026-10-12 12:19 UTC](data/ru/new-articles-2026-10-12T12-19-18Z.csv) | 22 |
-| Spanish | `es` | [2026-10-12 12:19 UTC](data/es/new-articles-2026-10-12T12-19-18Z.csv) | 5 |
-| Italian | `it` | [2026-10-12 12:19 UTC](data/it/new-articles-2026-10-12T12-19-18Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-12 12:19 UTC](data/pt/new-articles-2026-10-12T12-19-18Z.csv) | 2 |
-| Polish | `pl` | [2026-10-12 12:19 UTC](data/pl/new-articles-2026-10-12T12-19-18Z.csv) | 5 |
-| Arabic | `ar` | [2026-10-12 12:19 UTC](data/ar/new-articles-2026-10-12T12-19-18Z.csv) | 8 |
-| Persian | `fa` | [2026-10-12 12:19 UTC](data/fa/new-articles-2026-10-12T12-19-18Z.csv) | 32 |
-| Turkish | `tr` | [2026-10-12 12:19 UTC](data/tr/new-articles-2026-10-12T12-19-18Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-12 12:19 UTC](data/he/new-articles-2026-10-12T12-19-18Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-12 12:19 UTC](data/sv/new-articles-2026-10-12T12-19-18Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-12 12:19 UTC](data/nl/new-articles-2026-10-12T12-19-18Z.csv) | 4 |
-| Korean | `ko` | [2026-10-12 12:19 UTC](data/ko/new-articles-2026-10-12T12-19-18Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-12 12:19 UTC](data/id/new-articles-2026-10-12T12-19-18Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-12 12:19 UTC](data/uk/new-articles-2026-10-12T12-19-18Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-10-12 12:19 UTC](data/vi/new-articles-2026-10-12T12-19-18Z.csv) | 2 |
+| English | `en` | [2026-10-12 13:18 UTC](data/en/new-articles-2026-10-12T13-18-52Z.csv) | 21 |
+| Japanese | `ja` | [2026-10-12 13:18 UTC](data/ja/new-articles-2026-10-12T13-18-52Z.csv) | 19 |
+| Chinese | `zh` | [2026-10-12 13:18 UTC](data/zh/new-articles-2026-10-12T13-18-52Z.csv) | 19 |
+| French | `fr` | [2026-10-12 13:18 UTC](data/fr/new-articles-2026-10-12T13-18-52Z.csv) | 11 |
+| German | `de` | [2026-10-12 13:18 UTC](data/de/new-articles-2026-10-12T13-18-52Z.csv) | 12 |
+| Russian | `ru` | [2026-10-12 13:18 UTC](data/ru/new-articles-2026-10-12T13-18-52Z.csv) | 13 |
+| Spanish | `es` | [2026-10-12 13:18 UTC](data/es/new-articles-2026-10-12T13-18-52Z.csv) | 9 |
+| Italian | `it` | [2026-10-12 13:18 UTC](data/it/new-articles-2026-10-12T13-18-52Z.csv) | 14 |
+| Portuguese | `pt` | [2026-10-12 13:18 UTC](data/pt/new-articles-2026-10-12T13-18-52Z.csv) | 4 |
+| Polish | `pl` | [2026-10-12 13:18 UTC](data/pl/new-articles-2026-10-12T13-18-52Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-12 13:18 UTC](data/ar/new-articles-2026-10-12T13-18-52Z.csv) | 18 |
+| Persian | `fa` | [2026-10-12 13:18 UTC](data/fa/new-articles-2026-10-12T13-18-52Z.csv) | 29 |
+| Turkish | `tr` | [2026-10-12 13:18 UTC](data/tr/new-articles-2026-10-12T13-18-52Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-12 13:18 UTC](data/he/new-articles-2026-10-12T13-18-52Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-12 13:18 UTC](data/sv/new-articles-2026-10-12T13-18-52Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-12 13:18 UTC](data/nl/new-articles-2026-10-12T13-18-52Z.csv) | 7 |
+| Korean | `ko` | [2026-10-12 13:18 UTC](data/ko/new-articles-2026-10-12T13-18-52Z.csv) | 7 |
+| Indonesian | `id` | [2026-10-12 13:18 UTC](data/id/new-articles-2026-10-12T13-18-52Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-10-12 13:18 UTC](data/uk/new-articles-2026-10-12T13-18-52Z.csv) | 10 |
+| Vietnamese | `vi` | [2026-10-12 13:18 UTC](data/vi/new-articles-2026-10-12T13-18-52Z.csv) | 2 |
 
-## English (en) — 2026-10-12 12:19 UTC
+## English (en) — 2026-10-12 13:18 UTC
 
-New articles created between 2026-10-12 11:18 UTC and 2026-10-12 12:19 UTC.
+New articles created between 2026-10-12 12:19 UTC and 2026-10-12 13:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-12T12-19-18Z.csv)
+[Full CSV](data/en/new-articles-2026-10-12T13-18-52Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-12 11:21:37 | [Ataenius seaforthensis](https://en.wikipedia.org/wiki/Ataenius_seaforthensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,950 |
-| 2026-10-12 11:24:08 | [Garudayaksa F.C. (women)](https://en.wikipedia.org/wiki/Garudayaksa_F.C._%28women%29) | [Cesare Faragò](https://en.wikipedia.org/wiki/User:Cesare_Farag%C3%B2) | 2,997 |
-| 2026-10-12 11:26:27 | [2026–27 West Florida Argonauts men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_West_Florida_Argonauts_men%27s_basketball_team) | [KIRSILAND](https://en.wikipedia.org/wiki/User:KIRSILAND) | 1,005 |
-| 2026-10-12 11:31:50 | [Alapakkam metro station](https://en.wikipedia.org/wiki/Alapakkam_metro_station) | [Sameer2905](https://en.wikipedia.org/wiki/User:Sameer2905) | 11,306 |
-| 2026-10-12 11:32:17 | [Ankur Narula](https://en.wikipedia.org/wiki/Ankur_Narula) | [Aimtoaddvalue](https://en.wikipedia.org/wiki/User:Aimtoaddvalue) | 2,024 |
-| 2026-10-12 11:32:55 | [Hylaeus asperithorax](https://en.wikipedia.org/wiki/Hylaeus_asperithorax) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,662 |
-| 2026-10-12 11:34:30 | [Invariant imbedding](https://en.wikipedia.org/wiki/Invariant_imbedding) | [Treichelstier](https://en.wikipedia.org/wiki/User:Treichelstier) | 7,290 |
-| 2026-10-12 11:43:59 | [Ataenius benarabyensis](https://en.wikipedia.org/wiki/Ataenius_benarabyensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,941 |
-| 2026-10-12 11:46:46 | [Ataenius humptydooensis](https://en.wikipedia.org/wiki/Ataenius_humptydooensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,862 |
-| 2026-10-12 11:48:40 | [Ataenius edungalbae](https://en.wikipedia.org/wiki/Ataenius_edungalbae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,811 |
-| 2026-10-12 11:49:25 | [Kiora (house)](https://en.wikipedia.org/wiki/Kiora_%28house%29) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 10,634 |
-| 2026-10-12 11:49:32 | [Ji Qiang](https://en.wikipedia.org/wiki/Ji_Qiang) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 96 |
-| 2026-10-12 11:54:37 | [Jack Nicholls (jockey)](https://en.wikipedia.org/wiki/Jack_Nicholls_%28jockey%29) | [Southdevonian](https://en.wikipedia.org/wiki/User:Southdevonian) | 3,382 |
-| 2026-10-12 11:57:34 | [Passaliolla cossonoides](https://en.wikipedia.org/wiki/Passaliolla_cossonoides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,243 |
-| 2026-10-12 11:59:14 | [Ogaal Advert Inc](https://en.wikipedia.org/wiki/Ogaal_Advert_Inc) | [Califarax1990](https://en.wikipedia.org/wiki/User:Califarax1990) | 1,767 |
-| 2026-10-12 12:02:16 | [Ataenius gungareei](https://en.wikipedia.org/wiki/Ataenius_gungareei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,883 |
-| 2026-10-12 12:02:37 | [Table tennis at the 2027 Pan American Games](https://en.wikipedia.org/wiki/Table_tennis_at_the_2027_Pan_American_Games) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 4,736 |
-| 2026-10-12 12:04:51 | [Karambakkam metro station](https://en.wikipedia.org/wiki/Karambakkam_metro_station) | [Sameer2905](https://en.wikipedia.org/wiki/User:Sameer2905) | 11,756 |
-| 2026-10-12 12:06:49 | [The Kennedy Soundtrack](https://en.wikipedia.org/wiki/The_Kennedy_Soundtrack) | [SilkMoth37](https://en.wikipedia.org/wiki/User:SilkMoth37) | 2,620 |
-| 2026-10-12 12:11:39 | [Ataenius brevitarsis](https://en.wikipedia.org/wiki/Ataenius_brevitarsis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,942 |
-| 2026-10-12 12:13:48 | [Ataenius circulusbrumalis](https://en.wikipedia.org/wiki/Ataenius_circulusbrumalis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,043 |
-| 2026-10-12 12:15:01 | [Squella](https://en.wikipedia.org/wiki/Squella) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 526 |
-| 2026-10-12 12:15:20 | [Acuity Law](https://en.wikipedia.org/wiki/Acuity_Law) | [Kaptain Kebab Heart](https://en.wikipedia.org/wiki/User:Kaptain_Kebab_Heart) | 1,827 |
-| 2026-10-12 12:15:21 | [Table tennis at the 2027 Pan American Games – Qualification](https://en.wikipedia.org/wiki/Table_tennis_at_the_2027_Pan_American_Games_%E2%80%93_Qualification) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 5,331 |
+| 2026-10-12 12:23:47 | [Else (2024 film)](https://en.wikipedia.org/wiki/Else_%282024_film%29) | [Normospheric](https://en.wikipedia.org/wiki/User:Normospheric) | 7,841 |
+| 2026-10-12 12:31:28 | [Jessé Sangalli](https://en.wikipedia.org/wiki/Jess%C3%A9_Sangalli) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,375 |
+| 2026-10-12 12:36:22 | [Ataenius deserti](https://en.wikipedia.org/wiki/Ataenius_deserti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,073 |
+| 2026-10-12 12:44:13 | [Ataenius excisicollis](https://en.wikipedia.org/wiki/Ataenius_excisicollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,941 |
+| 2026-10-12 12:48:20 | [Lilyan Kaiv](https://en.wikipedia.org/wiki/Lilyan_Kaiv) | [Yadsalohcin](https://en.wikipedia.org/wiki/User:Yadsalohcin) | 4,752 |
+| 2026-10-12 12:49:01 | [2026–27 Southern Utah Thunderbirds women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Utah_Thunderbirds_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 30,059 |
+| 2026-10-12 12:49:33 | [Cristina Korniychuk](https://en.wikipedia.org/wiki/Cristina_Korniychuk) | [Maniakilljoy97](https://en.wikipedia.org/wiki/User:Maniakilljoy97) | 8,911 |
+| 2026-10-12 12:49:57 | [Siege of Tsori Tower (1832)](https://en.wikipedia.org/wiki/Siege_of_Tsori_Tower_%281832%29) | [Sur7ho](https://en.wikipedia.org/wiki/User:Sur7ho) | 10,463 |
+| 2026-10-12 12:53:07 | [Ataenius insularis](https://en.wikipedia.org/wiki/Ataenius_insularis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,998 |
+| 2026-10-12 12:55:16 | [The West Pier, Brighton](https://en.wikipedia.org/wiki/The_West_Pier%2C_Brighton) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,715 |
+| 2026-10-12 12:58:27 | [Atar Singh Bhadana](https://en.wikipedia.org/wiki/Atar_Singh_Bhadana) | [Dsrprj](https://en.wikipedia.org/wiki/User:Dsrprj) | 489 |
+| 2026-10-12 13:01:47 | [Ataenius illaetabilis](https://en.wikipedia.org/wiki/Ataenius_illaetabilis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,117 |
+| 2026-10-12 13:04:51 | [Ataenius elongatulus](https://en.wikipedia.org/wiki/Ataenius_elongatulus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,035 |
+| 2026-10-12 13:04:51 | [Handball at the 2027 Pan American Games](https://en.wikipedia.org/wiki/Handball_at_the_2027_Pan_American_Games) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 4,667 |
+| 2026-10-12 13:07:26 | [Codona (disambiguation)](https://en.wikipedia.org/wiki/Codona_%28disambiguation%29) | [UltrasonicMadness](https://en.wikipedia.org/wiki/User:UltrasonicMadness) | 503 |
+| 2026-10-12 13:11:49 | [Vị Khê](https://en.wikipedia.org/wiki/V%E1%BB%8B_Kh%C3%AA) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,414 |
+| 2026-10-12 13:12:41 | [Great cake](https://en.wikipedia.org/wiki/Great_cake) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 2,735 |
+| 2026-10-12 13:14:04 | [2009 Philadelphia municipal election](https://en.wikipedia.org/wiki/2009_Philadelphia_municipal_election) | [Average Pennsylvanian](https://en.wikipedia.org/wiki/User:Average_Pennsylvanian) | 31,329 |
+| 2026-10-12 13:17:43 | [Stone Group](https://en.wikipedia.org/wiki/Stone_Group) | [Chipmunkdavis](https://en.wikipedia.org/wiki/User:Chipmunkdavis) | 30,118 |
+| 2026-10-12 13:17:48 | [Ben Bishop (wrestler)](https://en.wikipedia.org/wiki/Ben_Bishop_%28wrestler%29) | [Thief-River-Faller](https://en.wikipedia.org/wiki/User:Thief-River-Faller) | 2,841 |
+| 2026-10-12 13:18:29 | [Ataenius torridus](https://en.wikipedia.org/wiki/Ataenius_torridus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,268 |
