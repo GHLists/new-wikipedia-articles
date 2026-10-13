@@ -13,68 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-13 16:18 UTC](data/en/new-articles-2026-10-13T16-18-57Z.csv) | 36 |
-| Japanese | `ja` | [2026-10-13 16:18 UTC](data/ja/new-articles-2026-10-13T16-18-57Z.csv) | 7 |
-| Chinese | `zh` | [2026-10-13 16:18 UTC](data/zh/new-articles-2026-10-13T16-18-57Z.csv) | 14 |
-| French | `fr` | [2026-10-13 16:18 UTC](data/fr/new-articles-2026-10-13T16-18-57Z.csv) | 17 |
-| German | `de` | [2026-10-13 16:18 UTC](data/de/new-articles-2026-10-13T16-18-57Z.csv) | 19 |
-| Russian | `ru` | [2026-10-13 16:18 UTC](data/ru/new-articles-2026-10-13T16-18-57Z.csv) | 13 |
-| Spanish | `es` | [2026-10-13 16:18 UTC](data/es/new-articles-2026-10-13T16-18-57Z.csv) | 18 |
-| Italian | `it` | [2026-10-13 16:18 UTC](data/it/new-articles-2026-10-13T16-18-57Z.csv) | 11 |
-| Portuguese | `pt` | [2026-10-13 16:18 UTC](data/pt/new-articles-2026-10-13T16-18-57Z.csv) | 8 |
-| Polish | `pl` | [2026-10-13 16:18 UTC](data/pl/new-articles-2026-10-13T16-18-57Z.csv) | 5 |
-| Arabic | `ar` | [2026-10-13 16:18 UTC](data/ar/new-articles-2026-10-13T16-18-57Z.csv) | 20 |
-| Persian | `fa` | [2026-10-13 16:18 UTC](data/fa/new-articles-2026-10-13T16-18-57Z.csv) | 9 |
-| Turkish | `tr` | [2026-10-13 16:18 UTC](data/tr/new-articles-2026-10-13T16-18-57Z.csv) | 24 |
-| Hebrew | `he` | [2026-10-13 16:18 UTC](data/he/new-articles-2026-10-13T16-18-57Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-13 16:18 UTC](data/sv/new-articles-2026-10-13T16-18-57Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-13 16:18 UTC](data/nl/new-articles-2026-10-13T16-18-57Z.csv) | 5 |
-| Korean | `ko` | [2026-10-13 16:18 UTC](data/ko/new-articles-2026-10-13T16-18-57Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-13 16:18 UTC](data/id/new-articles-2026-10-13T16-18-57Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-13 16:18 UTC](data/uk/new-articles-2026-10-13T16-18-57Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-10-13 16:18 UTC](data/vi/new-articles-2026-10-13T16-18-57Z.csv) | 1 |
+| English | `en` | [2026-10-13 17:20 UTC](data/en/new-articles-2026-10-13T17-20-43Z.csv) | 16 |
+| Japanese | `ja` | [2026-10-13 17:20 UTC](data/ja/new-articles-2026-10-13T17-20-43Z.csv) | 2 |
+| Chinese | `zh` | [2026-10-13 17:20 UTC](data/zh/new-articles-2026-10-13T17-20-43Z.csv) | 28 |
+| French | `fr` | [2026-10-13 17:20 UTC](data/fr/new-articles-2026-10-13T17-20-43Z.csv) | 8 |
+| German | `de` | [2026-10-13 17:20 UTC](data/de/new-articles-2026-10-13T17-20-43Z.csv) | 16 |
+| Russian | `ru` | [2026-10-13 17:20 UTC](data/ru/new-articles-2026-10-13T17-20-43Z.csv) | 3 |
+| Spanish | `es` | [2026-10-13 17:20 UTC](data/es/new-articles-2026-10-13T17-20-43Z.csv) | 14 |
+| Italian | `it` | [2026-10-13 17:20 UTC](data/it/new-articles-2026-10-13T17-20-43Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-13 17:20 UTC](data/pt/new-articles-2026-10-13T17-20-43Z.csv) | 6 |
+| Polish | `pl` | [2026-10-13 17:20 UTC](data/pl/new-articles-2026-10-13T17-20-43Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-13 17:20 UTC](data/ar/new-articles-2026-10-13T17-20-43Z.csv) | 21 |
+| Persian | `fa` | [2026-10-13 17:20 UTC](data/fa/new-articles-2026-10-13T17-20-43Z.csv) | 13 |
+| Turkish | `tr` | [2026-10-13 17:20 UTC](data/tr/new-articles-2026-10-13T17-20-43Z.csv) | 4 |
+| Hebrew | `he` | [2026-10-13 17:20 UTC](data/he/new-articles-2026-10-13T17-20-43Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-13 17:20 UTC](data/sv/new-articles-2026-10-13T17-20-43Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-13 17:20 UTC](data/nl/new-articles-2026-10-13T17-20-43Z.csv) | 4 |
+| Korean | `ko` | [2026-10-13 17:20 UTC](data/ko/new-articles-2026-10-13T17-20-43Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-13 17:20 UTC](data/id/new-articles-2026-10-13T17-20-43Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-13 17:20 UTC](data/uk/new-articles-2026-10-13T17-20-43Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-10-13 17:20 UTC](data/vi/new-articles-2026-10-13T17-20-43Z.csv) | 2 |
 
-## English (en) — 2026-10-13 16:18 UTC
+## English (en) — 2026-10-13 17:20 UTC
 
-New articles created between 2026-10-13 15:19 UTC and 2026-10-13 16:18 UTC.
+New articles created between 2026-10-13 16:18 UTC and 2026-10-13 17:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-13T16-18-57Z.csv)
+[Full CSV](data/en/new-articles-2026-10-13T17-20-43Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-13 15:19:35 | [Bell Boulevard](https://en.wikipedia.org/wiki/Bell_Boulevard) | [Lurkingherern](https://en.wikipedia.org/wiki/User:Lurkingherern) | 6,990 |
-| 2026-10-13 15:21:42 | [Honduras at the 2027 Pan American Games](https://en.wikipedia.org/wiki/Honduras_at_the_2027_Pan_American_Games) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 3,775 |
-| 2026-10-13 15:24:50 | [Bieszczady Starry-Sky Park](https://en.wikipedia.org/wiki/Bieszczady_Starry-Sky_Park) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 2,807 |
-| 2026-10-13 15:26:28 | [MobLand season 1](https://en.wikipedia.org/wiki/MobLand_season_1) | [Leodas2623](https://en.wikipedia.org/wiki/User:Leodas2623) | 3,336 |
-| 2026-10-13 15:27:49 | [Hearing (film)](https://en.wikipedia.org/wiki/Hearing_%28film%29) | [Semampunya](https://en.wikipedia.org/wiki/User:Semampunya) | 5,054 |
-| 2026-10-13 15:30:59 | [Melanella salvadori](https://en.wikipedia.org/wiki/Melanella_salvadori) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,206 |
-| 2026-10-13 15:31:13 | [Daniel Trindade](https://en.wikipedia.org/wiki/Daniel_Trindade) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,800 |
-| 2026-10-13 15:36:37 | [Abbie Zuena](https://en.wikipedia.org/wiki/Abbie_Zuena) | [Nickson Ochieng Okoth](https://en.wikipedia.org/wiki/User:Nickson_Ochieng_Okoth) | 4,238 |
-| 2026-10-13 15:40:36 | [Mary Arrigoni](https://en.wikipedia.org/wiki/Mary_Arrigoni) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 3,591 |
-| 2026-10-13 15:41:42 | [Robert Fildes](https://en.wikipedia.org/wiki/Robert_Fildes) | [Janitoalevic](https://en.wikipedia.org/wiki/User:Janitoalevic) | 6,210 |
-| 2026-10-13 15:43:26 | [Talbot Square](https://en.wikipedia.org/wiki/Talbot_Square) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,425 |
-| 2026-10-13 15:44:11 | [Anatole Von Lilienfeld](https://en.wikipedia.org/wiki/Anatole_Von_Lilienfeld) | [Cnrowley](https://en.wikipedia.org/wiki/User:Cnrowley) | 9,585 |
-| 2026-10-13 15:45:17 | [The Department (book)](https://en.wikipedia.org/wiki/The_Department_%28book%29) | [Sleepytimecat](https://en.wikipedia.org/wiki/User:Sleepytimecat) | 4,516 |
-| 2026-10-13 15:46:32 | [2026 UCI Track Cycling World Championships – Men's sprint](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_sprint) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,398 |
-| 2026-10-13 15:46:57 | [2026 UCI Track Cycling World Championships – Men's 1 km time trial](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_1_km_time_trial) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,467 |
-| 2026-10-13 15:47:25 | [2026 UCI Track Cycling World Championships – Men's individual pursuit](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_individual_pursuit) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,470 |
-| 2026-10-13 16:00:29 | [Elvira Sweet](https://en.wikipedia.org/wiki/Elvira_Sweet) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 16,070 |
-| 2026-10-13 16:02:04 | [2026 UCI Track Cycling World Championships – Men's keirin](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_keirin) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,386 |
-| 2026-10-13 16:02:20 | [2026 UCI Track Cycling World Championships – Men's scratch](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_scratch) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,395 |
-| 2026-10-13 16:02:33 | [1974–75 Preston North End F.C. season](https://en.wikipedia.org/wiki/1974%E2%80%9375_Preston_North_End_F.C._season) | [CptGrez](https://en.wikipedia.org/wiki/User:CptGrez) | 14,341 |
-| 2026-10-13 16:02:37 | [2026 UCI Track Cycling World Championships – Men's points race](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_points_race) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,431 |
-| 2026-10-13 16:03:03 | [2026 UCI Track Cycling World Championships – Men's madison](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_madison) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,413 |
-| 2026-10-13 16:03:19 | [2026 UCI Track Cycling World Championships – Men's elimination](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_elimination) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,431 |
-| 2026-10-13 16:03:36 | [2026 UCI Track Cycling World Championships – Men's omnium](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Men%27s_omnium) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,386 |
-| 2026-10-13 16:06:00 | [Glycerol kinase 2](https://en.wikipedia.org/wiki/Glycerol_kinase_2) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 1,703 |
-| 2026-10-13 16:07:20 | [2026 UCI Track Cycling World Championships – Women's sprint](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Women%27s_sprint) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,418 |
-| 2026-10-13 16:07:45 | [2026 UCI Track Cycling World Championships – Women's 1 km time trial](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Women%27s_1_km_time_trial) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,487 |
-| 2026-10-13 16:08:00 | [2026 UCI Track Cycling World Championships – Women's individual pursuit](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Women%27s_individual_pursuit) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,514 |
-| 2026-10-13 16:08:15 | [2026 UCI Track Cycling World Championships – Women's keirin](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Women%27s_keirin) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,406 |
-| 2026-10-13 16:10:08 | [2026 UCI Track Cycling World Championships – Women's points race](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Women%27s_points_race) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,432 |
-| 2026-10-13 16:10:26 | [2026 UCI Track Cycling World Championships – Women's madison](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Women%27s_madison) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,433 |
-| 2026-10-13 16:10:44 | [2026 UCI Track Cycling World Championships – Women's elimination](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Women%27s_elimination) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,451 |
-| 2026-10-13 16:11:03 | [2026 UCI Track Cycling World Championships – Women's omnium](https://en.wikipedia.org/wiki/2026_UCI_Track_Cycling_World_Championships_%E2%80%93_Women%27s_omnium) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 1,406 |
-| 2026-10-13 16:14:13 | [Stephen R. Golbeg](https://en.wikipedia.org/wiki/Stephen_R._Golbeg) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
-| 2026-10-13 16:14:59 | [Stephen R. Golberg](https://en.wikipedia.org/wiki/Stephen_R._Golberg) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
-| 2026-10-13 16:17:03 | [Garous Abdolmalekian](https://en.wikipedia.org/wiki/Garous_Abdolmalekian) | [Havimii](https://en.wikipedia.org/wiki/User:Havimii) | 4,974 |
+| 2026-10-13 16:25:57 | [Andrew MacFarlane (sailor)](https://en.wikipedia.org/wiki/Andrew_MacFarlane_%28sailor%29) | [Janitoalevic](https://en.wikipedia.org/wiki/User:Janitoalevic) | 10,868 |
+| 2026-10-13 16:32:53 | [Yordana Martínez](https://en.wikipedia.org/wiki/Yordana_Mart%C3%ADnez) | [ImSnot](https://en.wikipedia.org/wiki/User:ImSnot) | 6,995 |
+| 2026-10-13 16:35:45 | [Ananyo Bhattacharya](https://en.wikipedia.org/wiki/Ananyo_Bhattacharya) | [Jazzilions](https://en.wikipedia.org/wiki/User:Jazzilions) | 9,560 |
+| 2026-10-13 16:41:03 | [Imran Soccer Academy](https://en.wikipedia.org/wiki/Imran_Soccer_Academy) | [HiNimo](https://en.wikipedia.org/wiki/User:HiNimo) | 6,509 |
+| 2026-10-13 16:42:03 | [2026 Azerbaijani protests](https://en.wikipedia.org/wiki/2026_Azerbaijani_protests) | [Geokrieg](https://en.wikipedia.org/wiki/User:Geokrieg) | 4,690 |
+| 2026-10-13 16:46:41 | [Alliance Group (Georgia)](https://en.wikipedia.org/wiki/Alliance_Group_%28Georgia%29) | [Justapoorboey](https://en.wikipedia.org/wiki/User:Justapoorboey) | 1,748 |
+| 2026-10-13 16:52:07 | [Infinite tensor product](https://en.wikipedia.org/wiki/Infinite_tensor_product) | [慈居](https://en.wikipedia.org/wiki/User:%E6%85%88%E5%B1%85) | 2,538 |
+| 2026-10-13 16:53:26 | [Gastrotheca cuencana](https://en.wikipedia.org/wiki/Gastrotheca_cuencana) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 3,835 |
+| 2026-10-13 16:56:15 | [Djruchula Cave](https://en.wikipedia.org/wiki/Djruchula_Cave) | [Kober](https://en.wikipedia.org/wiki/User:Kober) | 9,171 |
+| 2026-10-13 16:57:07 | [Ambracia (play)](https://en.wikipedia.org/wiki/Ambracia_%28play%29) | [Graearms](https://en.wikipedia.org/wiki/User:Graearms) | 4,844 |
+| 2026-10-13 16:57:52 | [United Nations General Assembly Resolution 2832 (XXVI)](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_2832_%28XXVI%29) | [Yash400](https://en.wikipedia.org/wiki/User:Yash400) | 20,974 |
+| 2026-10-13 17:01:33 | [Docomo STYLE series N-01C](https://en.wikipedia.org/wiki/Docomo_STYLE_series_N-01C) | [JGBlue1509](https://en.wikipedia.org/wiki/User:JGBlue1509) | 3,584 |
+| 2026-10-13 17:02:47 | [Rishon LeZion Natural Region](https://en.wikipedia.org/wiki/Rishon_LeZion_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 4,925 |
+| 2026-10-13 17:07:56 | [Aya Ibrahim](https://en.wikipedia.org/wiki/Aya_Ibrahim) | [Chaotic Neutral Jedi](https://en.wikipedia.org/wiki/User:Chaotic_Neutral_Jedi) | 4,536 |
+| 2026-10-13 17:10:04 | [Thomas von Steinaecker](https://en.wikipedia.org/wiki/Thomas_von_Steinaecker) | [Uriahheep228](https://en.wikipedia.org/wiki/User:Uriahheep228) | 3,585 |
+| 2026-10-13 17:14:02 | [Skydance International Networks](https://en.wikipedia.org/wiki/Skydance_International_Networks) | [GM682012](https://en.wikipedia.org/wiki/User:GM682012) | 70,658 |
