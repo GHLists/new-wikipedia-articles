@@ -13,44 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-13 04:18 UTC](data/en/new-articles-2026-10-13T04-18-52Z.csv) | 12 |
-| Japanese | `ja` | [2026-10-13 04:18 UTC](data/ja/new-articles-2026-10-13T04-18-52Z.csv) | 7 |
-| Chinese | `zh` | [2026-10-13 04:18 UTC](data/zh/new-articles-2026-10-13T04-18-52Z.csv) | 4 |
-| French | `fr` | [2026-10-13 04:18 UTC](data/fr/new-articles-2026-10-13T04-18-52Z.csv) | 1 |
-| German | `de` | [2026-10-13 04:18 UTC](data/de/new-articles-2026-10-13T04-18-52Z.csv) | 1 |
-| Russian | `ru` | [2026-10-13 04:18 UTC](data/ru/new-articles-2026-10-13T04-18-52Z.csv) | 8 |
-| Spanish | `es` | [2026-10-13 04:18 UTC](data/es/new-articles-2026-10-13T04-18-52Z.csv) | 6 |
+| English | `en` | [2026-10-13 05:19 UTC](data/en/new-articles-2026-10-13T05-19-00Z.csv) | 16 |
+| Japanese | `ja` | [2026-10-13 05:19 UTC](data/ja/new-articles-2026-10-13T05-19-00Z.csv) | 12 |
+| Chinese | `zh` | [2026-10-13 05:19 UTC](data/zh/new-articles-2026-10-13T05-19-00Z.csv) | 6 |
+| French | `fr` | [2026-10-13 05:19 UTC](data/fr/new-articles-2026-10-13T05-19-00Z.csv) | 3 |
+| German | `de` | [2026-10-13 05:19 UTC](data/de/new-articles-2026-10-13T05-19-00Z.csv) | 3 |
+| Russian | `ru` | [2026-10-13 05:19 UTC](data/ru/new-articles-2026-10-13T05-19-00Z.csv) | 2 |
+| Spanish | `es` | [2026-10-13 05:19 UTC](data/es/new-articles-2026-10-13T05-19-00Z.csv) | 8 |
 | Italian | `it` | [2026-10-13 04:18 UTC](data/it/new-articles-2026-10-13T04-18-52Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-13 04:18 UTC](data/pt/new-articles-2026-10-13T04-18-52Z.csv) | 1 |
-| Polish | `pl` | [2026-10-13 04:18 UTC](data/pl/new-articles-2026-10-13T04-18-52Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-13 04:18 UTC](data/ar/new-articles-2026-10-13T04-18-52Z.csv) | 6 |
-| Persian | `fa` | [2026-10-13 04:18 UTC](data/fa/new-articles-2026-10-13T04-18-52Z.csv) | 10 |
-| Turkish | `tr` | [2026-10-12 22:21 UTC](data/tr/new-articles-2026-10-12T22-21-15Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-13 04:18 UTC](data/he/new-articles-2026-10-13T04-18-52Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-13 04:18 UTC](data/sv/new-articles-2026-10-13T04-18-52Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-13 02:19 UTC](data/nl/new-articles-2026-10-13T02-19-01Z.csv) | 2 |
-| Korean | `ko` | [2026-10-13 04:18 UTC](data/ko/new-articles-2026-10-13T04-18-52Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-13 04:18 UTC](data/id/new-articles-2026-10-13T04-18-52Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-10-13 04:18 UTC](data/uk/new-articles-2026-10-13T04-18-52Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-10-13 04:18 UTC](data/vi/new-articles-2026-10-13T04-18-52Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-13 05:19 UTC](data/pt/new-articles-2026-10-13T05-19-00Z.csv) | 2 |
+| Polish | `pl` | [2026-10-13 05:19 UTC](data/pl/new-articles-2026-10-13T05-19-00Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-13 05:19 UTC](data/ar/new-articles-2026-10-13T05-19-00Z.csv) | 4 |
+| Persian | `fa` | [2026-10-13 05:19 UTC](data/fa/new-articles-2026-10-13T05-19-00Z.csv) | 4 |
+| Turkish | `tr` | [2026-10-13 05:19 UTC](data/tr/new-articles-2026-10-13T05-19-00Z.csv) | 3 |
+| Hebrew | `he` | [2026-10-13 05:19 UTC](data/he/new-articles-2026-10-13T05-19-00Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-13 05:19 UTC](data/sv/new-articles-2026-10-13T05-19-00Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-13 05:19 UTC](data/nl/new-articles-2026-10-13T05-19-00Z.csv) | 1 |
+| Korean | `ko` | [2026-10-13 05:19 UTC](data/ko/new-articles-2026-10-13T05-19-00Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-13 05:19 UTC](data/id/new-articles-2026-10-13T05-19-00Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-13 05:19 UTC](data/uk/new-articles-2026-10-13T05-19-00Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-10-13 05:19 UTC](data/vi/new-articles-2026-10-13T05-19-00Z.csv) | 1 |
 
-## English (en) — 2026-10-13 04:18 UTC
+## English (en) — 2026-10-13 05:19 UTC
 
-New articles created between 2026-10-13 03:18 UTC and 2026-10-13 04:18 UTC.
+New articles created between 2026-10-13 04:18 UTC and 2026-10-13 05:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-13T04-18-52Z.csv)
+[Full CSV](data/en/new-articles-2026-10-13T05-19-00Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-13 03:21:23 | [Love/Life](https://en.wikipedia.org/wiki/Love/Life) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,813 |
-| 2026-10-13 03:29:26 | [Phnom Penh City FC](https://en.wikipedia.org/wiki/Phnom_Penh_City_FC) | [Camboeditor](https://en.wikipedia.org/wiki/User:Camboeditor) | 1,226 |
-| 2026-10-13 03:30:32 | [Hylaeus mirandus](https://en.wikipedia.org/wiki/Hylaeus_mirandus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,505 |
-| 2026-10-13 03:36:35 | [Taiwanese fashion](https://en.wikipedia.org/wiki/Taiwanese_fashion) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 10,108 |
-| 2026-10-13 03:44:13 | [Empire Market](https://en.wikipedia.org/wiki/Empire_Market) | [Kooluser1](https://en.wikipedia.org/wiki/User:Kooluser1) | 1,075 |
-| 2026-10-13 03:44:46 | [Victoria Mata (gymnast)](https://en.wikipedia.org/wiki/Victoria_Mata_%28gymnast%29) | [Snailchildren](https://en.wikipedia.org/wiki/User:Snailchildren) | 12,843 |
-| 2026-10-13 03:47:31 | [Nepali Congress (Deuba Faction)](https://en.wikipedia.org/wiki/Nepali_Congress_%28Deuba_Faction%29) | [Franked2004](https://en.wikipedia.org/wiki/User:Franked2004) | 2,662 |
-| 2026-10-13 03:48:19 | [Voigt (disambiguation)](https://en.wikipedia.org/wiki/Voigt_%28disambiguation%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 282 |
-| 2026-10-13 03:50:43 | [New Street railway gates](https://en.wikipedia.org/wiki/New_Street_railway_gates) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 10,084 |
-| 2026-10-13 03:56:29 | [Matt Leicht](https://en.wikipedia.org/wiki/Matt_Leicht) | [Finn Shipley](https://en.wikipedia.org/wiki/User:Finn_Shipley) | 8,480 |
-| 2026-10-13 03:59:02 | [Woithe](https://en.wikipedia.org/wiki/Woithe) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 16 |
-| 2026-10-13 04:02:26 | [2026 Tour of Holland](https://en.wikipedia.org/wiki/2026_Tour_of_Holland) | [Peoya](https://en.wikipedia.org/wiki/User:Peoya) | 22,446 |
+| 2026-10-13 04:19:26 | [Il mondo insieme a te](https://en.wikipedia.org/wiki/Il_mondo_insieme_a_te) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,254 |
+| 2026-10-13 04:27:49 | [Wisconsin's Marquette County Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Marquette_County_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 9,093 |
+| 2026-10-13 04:30:40 | [Metro City Chow Foods Corporation](https://en.wikipedia.org/wiki/Metro_City_Chow_Foods_Corporation) | [LionFosset](https://en.wikipedia.org/wiki/User:LionFosset) | 6,491 |
+| 2026-10-13 04:31:35 | [Larry Bertlemann](https://en.wikipedia.org/wiki/Larry_Bertlemann) | [Wil540 art](https://en.wikipedia.org/wiki/User:Wil540_art) | 3,833 |
+| 2026-10-13 04:32:50 | [Musquash River (New Brunswick)](https://en.wikipedia.org/wiki/Musquash_River_%28New_Brunswick%29) | [Cobblet](https://en.wikipedia.org/wiki/User:Cobblet) | 19,888 |
+| 2026-10-13 04:36:40 | [2026–27 national figure skating championships](https://en.wikipedia.org/wiki/2026%E2%80%9327_national_figure_skating_championships) | [Banana12938](https://en.wikipedia.org/wiki/User:Banana12938) | 5,690 |
+| 2026-10-13 04:45:17 | [Slesarenko](https://en.wikipedia.org/wiki/Slesarenko) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 283 |
+| 2026-10-13 04:49:01 | [Winanto Adi](https://en.wikipedia.org/wiki/Winanto_Adi) | [Jeromi Mikhael](https://en.wikipedia.org/wiki/User:Jeromi_Mikhael) | 9,981 |
+| 2026-10-13 04:52:16 | [Brandon Hanks](https://en.wikipedia.org/wiki/Brandon_Hanks) | [Finn Shipley](https://en.wikipedia.org/wiki/User:Finn_Shipley) | 6,825 |
+| 2026-10-13 04:55:49 | [Surface elevation](https://en.wikipedia.org/wiki/Surface_elevation) | [Викидим](https://en.wikipedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B8%D0%BC) | 5,698 |
+| 2026-10-13 04:57:19 | [Cyclone Arnab](https://en.wikipedia.org/wiki/Cyclone_Arnab) | [Rojeni](https://en.wikipedia.org/wiki/User:Rojeni) | 72 |
+| 2026-10-13 05:01:38 | [Rainbow Falls (Victoria)](https://en.wikipedia.org/wiki/Rainbow_Falls_%28Victoria%29) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 2,827 |
+| 2026-10-13 05:02:53 | [Melbourne Cobras](https://en.wikipedia.org/wiki/Melbourne_Cobras) | [Lachie23](https://en.wikipedia.org/wiki/User:Lachie23) | 7,190 |
+| 2026-10-13 05:08:34 | [2005 New York City Public Advocate election](https://en.wikipedia.org/wiki/2005_New_York_City_Public_Advocate_election) | [Jacksonjoffe18](https://en.wikipedia.org/wiki/User:Jacksonjoffe18) | 9,816 |
+| 2026-10-13 05:11:37 | [2001 New York City Public Advocate election](https://en.wikipedia.org/wiki/2001_New_York_City_Public_Advocate_election) | [Jacksonjoffe18](https://en.wikipedia.org/wiki/User:Jacksonjoffe18) | 10,974 |
+| 2026-10-13 05:14:13 | [1997 New York City Public Advocate election](https://en.wikipedia.org/wiki/1997_New_York_City_Public_Advocate_election) | [Jacksonjoffe18](https://en.wikipedia.org/wiki/User:Jacksonjoffe18) | 6,831 |
