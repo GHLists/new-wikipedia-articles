@@ -13,43 +13,47 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-14 04:20 UTC](data/en/new-articles-2026-10-14T04-20-15Z.csv) | 11 |
-| Japanese | `ja` | [2026-10-14 04:20 UTC](data/ja/new-articles-2026-10-14T04-20-15Z.csv) | 7 |
-| Chinese | `zh` | [2026-10-14 04:20 UTC](data/zh/new-articles-2026-10-14T04-20-15Z.csv) | 11 |
-| French | `fr` | [2026-10-14 04:20 UTC](data/fr/new-articles-2026-10-14T04-20-15Z.csv) | 3 |
-| German | `de` | [2026-10-14 04:20 UTC](data/de/new-articles-2026-10-14T04-20-15Z.csv) | 4 |
-| Russian | `ru` | [2026-10-14 04:20 UTC](data/ru/new-articles-2026-10-14T04-20-15Z.csv) | 6 |
-| Spanish | `es` | [2026-10-14 04:20 UTC](data/es/new-articles-2026-10-14T04-20-15Z.csv) | 6 |
-| Italian | `it` | [2026-10-14 04:20 UTC](data/it/new-articles-2026-10-14T04-20-15Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-14 04:20 UTC](data/pt/new-articles-2026-10-14T04-20-15Z.csv) | 28 |
-| Polish | `pl` | [2026-10-14 04:20 UTC](data/pl/new-articles-2026-10-14T04-20-15Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-14 04:20 UTC](data/ar/new-articles-2026-10-14T04-20-15Z.csv) | 6 |
-| Persian | `fa` | [2026-10-14 04:20 UTC](data/fa/new-articles-2026-10-14T04-20-15Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-13 22:19 UTC](data/tr/new-articles-2026-10-13T22-19-42Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-14 03:19 UTC](data/he/new-articles-2026-10-14T03-19-05Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-14 03:19 UTC](data/sv/new-articles-2026-10-14T03-19-05Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-14 02:19 UTC](data/nl/new-articles-2026-10-14T02-19-18Z.csv) | 2 |
+| English | `en` | [2026-10-14 05:19 UTC](data/en/new-articles-2026-10-14T05-19-08Z.csv) | 15 |
+| Japanese | `ja` | [2026-10-14 05:19 UTC](data/ja/new-articles-2026-10-14T05-19-08Z.csv) | 3 |
+| Chinese | `zh` | [2026-10-14 05:19 UTC](data/zh/new-articles-2026-10-14T05-19-08Z.csv) | 4 |
+| French | `fr` | [2026-10-14 05:19 UTC](data/fr/new-articles-2026-10-14T05-19-08Z.csv) | 1 |
+| German | `de` | [2026-10-14 05:19 UTC](data/de/new-articles-2026-10-14T05-19-08Z.csv) | 1 |
+| Russian | `ru` | [2026-10-14 05:19 UTC](data/ru/new-articles-2026-10-14T05-19-08Z.csv) | 9 |
+| Spanish | `es` | [2026-10-14 05:19 UTC](data/es/new-articles-2026-10-14T05-19-08Z.csv) | 6 |
+| Italian | `it` | [2026-10-14 05:19 UTC](data/it/new-articles-2026-10-14T05-19-08Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-14 05:19 UTC](data/pt/new-articles-2026-10-14T05-19-08Z.csv) | 1 |
+| Polish | `pl` | [2026-10-14 05:19 UTC](data/pl/new-articles-2026-10-14T05-19-08Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-14 05:19 UTC](data/ar/new-articles-2026-10-14T05-19-08Z.csv) | 2 |
+| Persian | `fa` | [2026-10-14 05:19 UTC](data/fa/new-articles-2026-10-14T05-19-08Z.csv) | 13 |
+| Turkish | `tr` | [2026-10-14 05:19 UTC](data/tr/new-articles-2026-10-14T05-19-08Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-14 05:19 UTC](data/he/new-articles-2026-10-14T05-19-08Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-14 05:19 UTC](data/sv/new-articles-2026-10-14T05-19-08Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-14 05:19 UTC](data/nl/new-articles-2026-10-14T05-19-08Z.csv) | 4 |
 | Korean | `ko` | [2026-10-14 04:20 UTC](data/ko/new-articles-2026-10-14T04-20-15Z.csv) | 8 |
-| Indonesian | `id` | [2026-10-14 04:20 UTC](data/id/new-articles-2026-10-14T04-20-15Z.csv) | 11 |
-| Ukrainian | `uk` | [2026-10-14 04:20 UTC](data/uk/new-articles-2026-10-14T04-20-15Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-14 05:19 UTC](data/id/new-articles-2026-10-14T05-19-08Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-10-14 05:19 UTC](data/uk/new-articles-2026-10-14T05-19-08Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-10-14 04:20 UTC](data/vi/new-articles-2026-10-14T04-20-15Z.csv) | 1 |
 
-## English (en) — 2026-10-14 04:20 UTC
+## English (en) — 2026-10-14 05:19 UTC
 
-New articles created between 2026-10-14 03:19 UTC and 2026-10-14 04:20 UTC.
+New articles created between 2026-10-14 04:20 UTC and 2026-10-14 05:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-14T04-20-15Z.csv)
+[Full CSV](data/en/new-articles-2026-10-14T05-19-08Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-14 03:19:11 | [Wisconsin's Dane County 2nd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Dane_County_2nd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 17,241 |
-| 2026-10-14 03:21:01 | [Orrall & Wright (album)](https://en.wikipedia.org/wiki/Orrall_%26_Wright_%28album%29) | [SwingingDoor76](https://en.wikipedia.org/wiki/User:SwingingDoor76) | 3,994 |
-| 2026-10-14 03:23:31 | [Time Out (Max Pezzali album)](https://en.wikipedia.org/wiki/Time_Out_%28Max_Pezzali_album%29) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,446 |
-| 2026-10-14 03:23:58 | [What's Left](https://en.wikipedia.org/wiki/What%27s_Left) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 4,879 |
-| 2026-10-14 03:25:56 | [Bulbophyllum petrae](https://en.wikipedia.org/wiki/Bulbophyllum_petrae) | [YourLocalUSBport](https://en.wikipedia.org/wiki/User:YourLocalUSBport) | 1,084 |
-| 2026-10-14 03:30:46 | [St Faith's Anglican Church](https://en.wikipedia.org/wiki/St_Faith%27s_Anglican_Church) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 8,456 |
-| 2026-10-14 03:45:45 | [1996 All-Big East Conference football team](https://en.wikipedia.org/wiki/1996_All-Big_East_Conference_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 4,049 |
-| 2026-10-14 03:49:45 | [Maihueniopsis camachoi](https://en.wikipedia.org/wiki/Maihueniopsis_camachoi) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 8,582 |
-| 2026-10-14 03:51:29 | [Liuyue](https://en.wikipedia.org/wiki/Liuyue) | [ILoveHirasawaYui](https://en.wikipedia.org/wiki/User:ILoveHirasawaYui) | 5,365 |
-| 2026-10-14 04:11:04 | [Qiyue](https://en.wikipedia.org/wiki/Qiyue) | [ILoveHirasawaYui](https://en.wikipedia.org/wiki/User:ILoveHirasawaYui) | 5,533 |
-| 2026-10-14 04:14:07 | [Old North, Tel Aviv](https://en.wikipedia.org/wiki/Old_North%2C_Tel_Aviv) | [TeddyRoosevelt1912](https://en.wikipedia.org/wiki/User:TeddyRoosevelt1912) | 2,600 |
+| 2026-10-14 04:22:14 | [Cipocereus laniflorus](https://en.wikipedia.org/wiki/Cipocereus_laniflorus) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 5,651 |
+| 2026-10-14 04:22:34 | [Berryman, Washington](https://en.wikipedia.org/wiki/Berryman%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 3,189 |
+| 2026-10-14 04:23:06 | [Jakubek](https://en.wikipedia.org/wiki/Jakubek) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 420 |
+| 2026-10-14 04:26:40 | [Lauren Servideo](https://en.wikipedia.org/wiki/Lauren_Servideo) | [Hameltion](https://en.wikipedia.org/wiki/User:Hameltion) | 6,921 |
+| 2026-10-14 04:27:59 | [Jakubko](https://en.wikipedia.org/wiki/Jakubko) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 387 |
+| 2026-10-14 04:32:13 | [List of international trips made by Fidel Castro](https://en.wikipedia.org/wiki/List_of_international_trips_made_by_Fidel_Castro) | [RacimV4](https://en.wikipedia.org/wiki/User:RacimV4) | 46,830 |
+| 2026-10-14 04:36:39 | [Jakubkova](https://en.wikipedia.org/wiki/Jakubkova) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 204 |
+| 2026-10-14 04:37:10 | [1997 All-Big East Conference football team](https://en.wikipedia.org/wiki/1997_All-Big_East_Conference_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 3,866 |
+| 2026-10-14 04:39:33 | [Livne (surname)](https://en.wikipedia.org/wiki/Livne_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 142 |
+| 2026-10-14 04:46:02 | [Wisconsin's Dane County 3rd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Dane_County_3rd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 16,669 |
+| 2026-10-14 04:47:29 | [Stover (surname)](https://en.wikipedia.org/wiki/Stover_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 863 |
+| 2026-10-14 04:52:26 | [MCM9](https://en.wikipedia.org/wiki/MCM9) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 1,635 |
+| 2026-10-14 05:09:46 | [List of U.S. men's college basketball national coach of the year awards](https://en.wikipedia.org/wiki/List_of_U.S._men%27s_college_basketball_national_coach_of_the_year_awards) | [SportsGuy789](https://en.wikipedia.org/wiki/User:SportsGuy789) | 41,556 |
+| 2026-10-14 05:13:00 | [1962 Oregon House of Representatives election](https://en.wikipedia.org/wiki/1962_Oregon_House_of_Representatives_election) | [Longestview](https://en.wikipedia.org/wiki/User:Longestview) | 39,066 |
+| 2026-10-14 05:18:53 | [Café Australia](https://en.wikipedia.org/wiki/Caf%C3%A9_Australia) | [Jamesmcardle](https://en.wikipedia.org/wiki/User:Jamesmcardle) | 4,439 |
