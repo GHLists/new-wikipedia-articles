@@ -13,54 +13,63 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-14 18:20 UTC](data/en/new-articles-2026-10-14T18-20-34Z.csv) | 22 |
-| Japanese | `ja` | [2026-10-14 18:20 UTC](data/ja/new-articles-2026-10-14T18-20-34Z.csv) | 3 |
-| Chinese | `zh` | [2026-10-14 18:20 UTC](data/zh/new-articles-2026-10-14T18-20-34Z.csv) | 3 |
-| French | `fr` | [2026-10-14 18:20 UTC](data/fr/new-articles-2026-10-14T18-20-34Z.csv) | 5 |
-| German | `de` | [2026-10-14 18:20 UTC](data/de/new-articles-2026-10-14T18-20-34Z.csv) | 9 |
-| Russian | `ru` | [2026-10-14 18:20 UTC](data/ru/new-articles-2026-10-14T18-20-34Z.csv) | 11 |
-| Spanish | `es` | [2026-10-14 18:20 UTC](data/es/new-articles-2026-10-14T18-20-34Z.csv) | 14 |
-| Italian | `it` | [2026-10-14 18:20 UTC](data/it/new-articles-2026-10-14T18-20-34Z.csv) | 3 |
-| Portuguese | `pt` | [2026-10-14 18:20 UTC](data/pt/new-articles-2026-10-14T18-20-34Z.csv) | 7 |
-| Polish | `pl` | [2026-10-14 18:20 UTC](data/pl/new-articles-2026-10-14T18-20-34Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-14 18:20 UTC](data/ar/new-articles-2026-10-14T18-20-34Z.csv) | 7 |
-| Persian | `fa` | [2026-10-14 18:20 UTC](data/fa/new-articles-2026-10-14T18-20-34Z.csv) | 15 |
-| Turkish | `tr` | [2026-10-14 18:20 UTC](data/tr/new-articles-2026-10-14T18-20-34Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-14 18:20 UTC](data/he/new-articles-2026-10-14T18-20-34Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-14 17:19 UTC](data/sv/new-articles-2026-10-14T17-19-08Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-14 18:20 UTC](data/nl/new-articles-2026-10-14T18-20-34Z.csv) | 5 |
+| English | `en` | [2026-10-14 19:19 UTC](data/en/new-articles-2026-10-14T19-19-10Z.csv) | 31 |
+| Japanese | `ja` | [2026-10-14 19:19 UTC](data/ja/new-articles-2026-10-14T19-19-10Z.csv) | 1 |
+| Chinese | `zh` | [2026-10-14 19:19 UTC](data/zh/new-articles-2026-10-14T19-19-10Z.csv) | 10 |
+| French | `fr` | [2026-10-14 19:19 UTC](data/fr/new-articles-2026-10-14T19-19-10Z.csv) | 7 |
+| German | `de` | [2026-10-14 19:19 UTC](data/de/new-articles-2026-10-14T19-19-10Z.csv) | 14 |
+| Russian | `ru` | [2026-10-14 19:19 UTC](data/ru/new-articles-2026-10-14T19-19-10Z.csv) | 10 |
+| Spanish | `es` | [2026-10-14 19:19 UTC](data/es/new-articles-2026-10-14T19-19-10Z.csv) | 12 |
+| Italian | `it` | [2026-10-14 19:19 UTC](data/it/new-articles-2026-10-14T19-19-10Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-14 19:19 UTC](data/pt/new-articles-2026-10-14T19-19-10Z.csv) | 8 |
+| Polish | `pl` | [2026-10-14 19:19 UTC](data/pl/new-articles-2026-10-14T19-19-10Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-14 19:19 UTC](data/ar/new-articles-2026-10-14T19-19-10Z.csv) | 12 |
+| Persian | `fa` | [2026-10-14 19:19 UTC](data/fa/new-articles-2026-10-14T19-19-10Z.csv) | 9 |
+| Turkish | `tr` | [2026-10-14 19:19 UTC](data/tr/new-articles-2026-10-14T19-19-10Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-14 19:19 UTC](data/he/new-articles-2026-10-14T19-19-10Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-14 19:19 UTC](data/sv/new-articles-2026-10-14T19-19-10Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-14 19:19 UTC](data/nl/new-articles-2026-10-14T19-19-10Z.csv) | 6 |
 | Korean | `ko` | [2026-10-14 17:19 UTC](data/ko/new-articles-2026-10-14T17-19-08Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-14 18:20 UTC](data/id/new-articles-2026-10-14T18-20-34Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-14 18:20 UTC](data/uk/new-articles-2026-10-14T18-20-34Z.csv) | 14 |
-| Vietnamese | `vi` | [2026-10-14 17:19 UTC](data/vi/new-articles-2026-10-14T17-19-08Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-14 19:19 UTC](data/id/new-articles-2026-10-14T19-19-10Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-14 19:19 UTC](data/uk/new-articles-2026-10-14T19-19-10Z.csv) | 16 |
+| Vietnamese | `vi` | [2026-10-14 19:19 UTC](data/vi/new-articles-2026-10-14T19-19-10Z.csv) | 1 |
 
-## English (en) — 2026-10-14 18:20 UTC
+## English (en) — 2026-10-14 19:19 UTC
 
-New articles created between 2026-10-14 17:19 UTC and 2026-10-14 18:20 UTC.
+New articles created between 2026-10-14 18:20 UTC and 2026-10-14 19:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-14T18-20-34Z.csv)
+[Full CSV](data/en/new-articles-2026-10-14T19-19-10Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-14 17:19:43 | [Espostoa utcubambensis](https://en.wikipedia.org/wiki/Espostoa_utcubambensis) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 6,768 |
-| 2026-10-14 17:25:30 | [Todd Pollack](https://en.wikipedia.org/wiki/Todd_Pollack) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 3,292 |
-| 2026-10-14 17:25:35 | [Green Dwarf (hypothetical planet)](https://en.wikipedia.org/wiki/Green_Dwarf_%28hypothetical_planet%29) | [WarpIX](https://en.wikipedia.org/wiki/User:WarpIX) | 1,270 |
-| 2026-10-14 17:37:28 | [Pseudomonas taiwanensis](https://en.wikipedia.org/wiki/Pseudomonas_taiwanensis) | [Kelubact](https://en.wikipedia.org/wiki/User:Kelubact) | 821 |
-| 2026-10-14 17:38:15 | [Clinical Research IO](https://en.wikipedia.org/wiki/Clinical_Research_IO) | [Thebarredboy](https://en.wikipedia.org/wiki/User:Thebarredboy) | 9,910 |
-| 2026-10-14 17:39:57 | [Carinaulus armandidavidi](https://en.wikipedia.org/wiki/Carinaulus_armandidavidi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,272 |
-| 2026-10-14 17:43:03 | [Carinaulus gansuicus](https://en.wikipedia.org/wiki/Carinaulus_gansuicus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,287 |
-| 2026-10-14 17:45:27 | [Jagdeep Singh (judge)](https://en.wikipedia.org/wiki/Jagdeep_Singh_%28judge%29) | [Dsrprj](https://en.wikipedia.org/wiki/User:Dsrprj) | 973 |
-| 2026-10-14 17:46:28 | [Carinaulus vseteckai](https://en.wikipedia.org/wiki/Carinaulus_vseteckai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,146 |
-| 2026-10-14 17:48:57 | [Carinaulus dierli](https://en.wikipedia.org/wiki/Carinaulus_dierli) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,810 |
-| 2026-10-14 17:54:10 | [Hebburn Argyle A.F.C.](https://en.wikipedia.org/wiki/Hebburn_Argyle_A.F.C.) | [In Vitrio](https://en.wikipedia.org/wiki/User:In_Vitrio) | 5,150 |
-| 2026-10-14 17:55:03 | [Wesley Cezar](https://en.wikipedia.org/wiki/Wesley_Cezar) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,850 |
-| 2026-10-14 17:57:04 | [1968–69 Tunisian National Championship](https://en.wikipedia.org/wiki/1968%E2%80%9369_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,573 |
-| 2026-10-14 17:58:34 | [Calatroni](https://en.wikipedia.org/wiki/Calatroni) | [Ingratis](https://en.wikipedia.org/wiki/User:Ingratis) | 256 |
-| 2026-10-14 18:05:17 | [Sucre Municipality, Zulia](https://en.wikipedia.org/wiki/Sucre_Municipality%2C_Zulia) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,190 |
-| 2026-10-14 18:06:42 | [My Soul Summer](https://en.wikipedia.org/wiki/My_Soul_Summer) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,276 |
-| 2026-10-14 18:07:10 | [1969–70 Tunisian National Championship](https://en.wikipedia.org/wiki/1969%E2%80%9370_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,569 |
-| 2026-10-14 18:08:09 | [Garrett Kato](https://en.wikipedia.org/wiki/Garrett_Kato) | [Frost](https://en.wikipedia.org/wiki/User:Frost) | 12,832 |
-| 2026-10-14 18:12:50 | [Pandora Crowned by the Seasons](https://en.wikipedia.org/wiki/Pandora_Crowned_by_the_Seasons) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,198 |
-| 2026-10-14 18:16:57 | [2026–27 George Mason Patriots Men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_George_Mason_Patriots_Men%27s_basketball_team) | [Wikisgmu](https://en.wikipedia.org/wiki/User:Wikisgmu) | 2,951 |
-| 2026-10-14 18:17:13 | [Kerwin Hairston](https://en.wikipedia.org/wiki/Kerwin_Hairston) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 2,615 |
-| 2026-10-14 18:19:09 | [1970–71 Tunisian National Championship](https://en.wikipedia.org/wiki/1970%E2%80%9371_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,792 |
+| 2026-10-14 18:22:12 | [GROK-19](https://en.wikipedia.org/wiki/GROK-19) | [WarpIX](https://en.wikipedia.org/wiki/User:WarpIX) | 2,265 |
+| 2026-10-14 18:24:05 | [Muse Knoxville](https://en.wikipedia.org/wiki/Muse_Knoxville) | [TomasVial](https://en.wikipedia.org/wiki/User:TomasVial) | 4,439 |
+| 2026-10-14 18:26:10 | [Manoela Peres](https://en.wikipedia.org/wiki/Manoela_Peres) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,979 |
+| 2026-10-14 18:27:28 | [Gymnocalycium schickendantzii](https://en.wikipedia.org/wiki/Gymnocalycium_schickendantzii) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 12,735 |
+| 2026-10-14 18:31:25 | [Future one China](https://en.wikipedia.org/wiki/Future_one_China) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 9,219 |
+| 2026-10-14 18:32:15 | [South Haven Township, Kansas](https://en.wikipedia.org/wiki/South_Haven_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,932 |
+| 2026-10-14 18:33:25 | [List of Compositions by Margaret Bonds](https://en.wikipedia.org/wiki/List_of_Compositions_by_Margaret_Bonds) | [Caitib01](https://en.wikipedia.org/wiki/User:Caitib01) | 17,002 |
+| 2026-10-14 18:35:45 | [1971–72 Tunisian National Championship](https://en.wikipedia.org/wiki/1971%E2%80%9372_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,619 |
+| 2026-10-14 18:36:07 | [Dries van Wijhe](https://en.wikipedia.org/wiki/Dries_van_Wijhe) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 6,896 |
+| 2026-10-14 18:38:31 | [Crookedwood GAA](https://en.wikipedia.org/wiki/Crookedwood_GAA) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 4,399 |
+| 2026-10-14 18:42:42 | [Cornelis Vervoorn (politician)](https://en.wikipedia.org/wiki/Cornelis_Vervoorn_%28politician%29) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 6,179 |
+| 2026-10-14 18:45:46 | [Leniel Borel](https://en.wikipedia.org/wiki/Leniel_Borel) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,115 |
+| 2026-10-14 18:46:39 | [Shahid Beheshti Port](https://en.wikipedia.org/wiki/Shahid_Beheshti_Port) | [Arman.Farsi57](https://en.wikipedia.org/wiki/User:Arman.Farsi57) | 6,482 |
+| 2026-10-14 18:51:46 | [1972–73 Tunisian National Championship](https://en.wikipedia.org/wiki/1972%E2%80%9373_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,615 |
+| 2026-10-14 18:52:12 | [Nate Terry](https://en.wikipedia.org/wiki/Nate_Terry) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 2,883 |
+| 2026-10-14 18:53:21 | [Amaël Borzée](https://en.wikipedia.org/wiki/Ama%C3%ABl_Borz%C3%A9e) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-14 18:53:37 | [Shahid Kalantari Port](https://en.wikipedia.org/wiki/Shahid_Kalantari_Port) | [Arman.Farsi57](https://en.wikipedia.org/wiki/User:Arman.Farsi57) | 1,766 |
+| 2026-10-14 18:54:21 | [Zbigniew Szyndlar](https://en.wikipedia.org/wiki/Zbigniew_Szyndlar) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-14 18:55:28 | [Robertina](https://en.wikipedia.org/wiki/Robertina) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 199 |
+| 2026-10-14 18:56:07 | [Lički Ribnik](https://en.wikipedia.org/wiki/Li%C4%8Dki_Ribnik) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 2,096 |
+| 2026-10-14 18:59:26 | [Robertine](https://en.wikipedia.org/wiki/Robertine) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 346 |
+| 2026-10-14 19:01:05 | [Cochin Airport railway station](https://en.wikipedia.org/wiki/Cochin_Airport_railway_station) | [4-RAZOR 01](https://en.wikipedia.org/wiki/User:4-RAZOR_01) | 5,813 |
+| 2026-10-14 19:06:23 | [Gianguido Bonfanti](https://en.wikipedia.org/wiki/Gianguido_Bonfanti) | [Curador de Arte](https://en.wikipedia.org/wiki/User:Curador_de_Arte) | 17,156 |
+| 2026-10-14 19:07:35 | [List of Skydance International Networks channels](https://en.wikipedia.org/wiki/List_of_Skydance_International_Networks_channels) | [Dasomm](https://en.wikipedia.org/wiki/User:Dasomm) | 45,649 |
+| 2026-10-14 19:08:28 | [1973–74 Tunisian National Championship](https://en.wikipedia.org/wiki/1973%E2%80%9374_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,495 |
+| 2026-10-14 19:09:20 | [Anzali Free Trade-Industrial Zone](https://en.wikipedia.org/wiki/Anzali_Free_Trade-Industrial_Zone) | [Arman.Farsi57](https://en.wikipedia.org/wiki/User:Arman.Farsi57) | 2,788 |
+| 2026-10-14 19:12:58 | [Marcio Ribeiro](https://en.wikipedia.org/wiki/Marcio_Ribeiro) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,407 |
+| 2026-10-14 19:17:27 | [The Prodigal Daughter (painting)](https://en.wikipedia.org/wiki/The_Prodigal_Daughter_%28painting%29) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,111 |
+| 2026-10-14 19:17:52 | [1974–75 Tunisian National Championship](https://en.wikipedia.org/wiki/1974%E2%80%9375_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,836 |
+| 2026-10-14 19:18:09 | [Springdale Township, Kansas](https://en.wikipedia.org/wiki/Springdale_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,676 |
+| 2026-10-14 19:18:44 | [Cenarth Mill](https://en.wikipedia.org/wiki/Cenarth_Mill) | [Kimbarrett92](https://en.wikipedia.org/wiki/User:Kimbarrett92) | 339 |
