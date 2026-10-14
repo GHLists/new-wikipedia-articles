@@ -13,50 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-14 22:19 UTC](data/en/new-articles-2026-10-14T22-19-23Z.csv) | 18 |
-| Japanese | `ja` | [2026-10-14 22:19 UTC](data/ja/new-articles-2026-10-14T22-19-23Z.csv) | 2 |
+| English | `en` | [2026-10-14 23:20 UTC](data/en/new-articles-2026-10-14T23-20-40Z.csv) | 18 |
+| Japanese | `ja` | [2026-10-14 23:20 UTC](data/ja/new-articles-2026-10-14T23-20-40Z.csv) | 6 |
 | Chinese | `zh` | [2026-10-14 22:19 UTC](data/zh/new-articles-2026-10-14T22-19-23Z.csv) | 1 |
-| French | `fr` | [2026-10-14 22:19 UTC](data/fr/new-articles-2026-10-14T22-19-23Z.csv) | 8 |
-| German | `de` | [2026-10-14 22:19 UTC](data/de/new-articles-2026-10-14T22-19-23Z.csv) | 10 |
-| Russian | `ru` | [2026-10-14 22:19 UTC](data/ru/new-articles-2026-10-14T22-19-23Z.csv) | 14 |
-| Spanish | `es` | [2026-10-14 22:19 UTC](data/es/new-articles-2026-10-14T22-19-23Z.csv) | 69 |
-| Italian | `it` | [2026-10-14 22:19 UTC](data/it/new-articles-2026-10-14T22-19-23Z.csv) | 8 |
-| Portuguese | `pt` | [2026-10-14 22:19 UTC](data/pt/new-articles-2026-10-14T22-19-23Z.csv) | 19 |
-| Polish | `pl` | [2026-10-14 22:19 UTC](data/pl/new-articles-2026-10-14T22-19-23Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-14 22:19 UTC](data/ar/new-articles-2026-10-14T22-19-23Z.csv) | 9 |
-| Persian | `fa` | [2026-10-14 22:19 UTC](data/fa/new-articles-2026-10-14T22-19-23Z.csv) | 4 |
-| Turkish | `tr` | [2026-10-14 22:19 UTC](data/tr/new-articles-2026-10-14T22-19-23Z.csv) | 3 |
-| Hebrew | `he` | [2026-10-14 22:19 UTC](data/he/new-articles-2026-10-14T22-19-23Z.csv) | 2 |
+| French | `fr` | [2026-10-14 23:20 UTC](data/fr/new-articles-2026-10-14T23-20-40Z.csv) | 7 |
+| German | `de` | [2026-10-14 23:20 UTC](data/de/new-articles-2026-10-14T23-20-40Z.csv) | 8 |
+| Russian | `ru` | [2026-10-14 23:20 UTC](data/ru/new-articles-2026-10-14T23-20-40Z.csv) | 7 |
+| Spanish | `es` | [2026-10-14 23:20 UTC](data/es/new-articles-2026-10-14T23-20-40Z.csv) | 90 |
+| Italian | `it` | [2026-10-14 23:20 UTC](data/it/new-articles-2026-10-14T23-20-40Z.csv) | 8 |
+| Portuguese | `pt` | [2026-10-14 23:20 UTC](data/pt/new-articles-2026-10-14T23-20-40Z.csv) | 5 |
+| Polish | `pl` | [2026-10-14 23:20 UTC](data/pl/new-articles-2026-10-14T23-20-40Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-14 23:20 UTC](data/ar/new-articles-2026-10-14T23-20-40Z.csv) | 5 |
+| Persian | `fa` | [2026-10-14 23:20 UTC](data/fa/new-articles-2026-10-14T23-20-40Z.csv) | 3 |
+| Turkish | `tr` | [2026-10-14 23:20 UTC](data/tr/new-articles-2026-10-14T23-20-40Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-14 23:20 UTC](data/he/new-articles-2026-10-14T23-20-40Z.csv) | 2 |
 | Swedish | `sv` | [2026-10-14 22:19 UTC](data/sv/new-articles-2026-10-14T22-19-23Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-14 22:19 UTC](data/nl/new-articles-2026-10-14T22-19-23Z.csv) | 4 |
-| Korean | `ko` | [2026-10-14 22:19 UTC](data/ko/new-articles-2026-10-14T22-19-23Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-14 23:20 UTC](data/nl/new-articles-2026-10-14T23-20-40Z.csv) | 1 |
+| Korean | `ko` | [2026-10-14 23:20 UTC](data/ko/new-articles-2026-10-14T23-20-40Z.csv) | 3 |
 | Indonesian | `id` | [2026-10-14 22:19 UTC](data/id/new-articles-2026-10-14T22-19-23Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-14 22:19 UTC](data/uk/new-articles-2026-10-14T22-19-23Z.csv) | 24 |
+| Ukrainian | `uk` | [2026-10-14 23:20 UTC](data/uk/new-articles-2026-10-14T23-20-40Z.csv) | 21 |
 | Vietnamese | `vi` | [2026-10-14 19:19 UTC](data/vi/new-articles-2026-10-14T19-19-10Z.csv) | 1 |
 
-## English (en) — 2026-10-14 22:19 UTC
+## English (en) — 2026-10-14 23:20 UTC
 
-New articles created between 2026-10-14 21:20 UTC and 2026-10-14 22:19 UTC.
+New articles created between 2026-10-14 22:19 UTC and 2026-10-14 23:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-14T22-19-23Z.csv)
+[Full CSV](data/en/new-articles-2026-10-14T23-20-40Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-14 21:22:38 | [Algeri (surname)](https://en.wikipedia.org/wiki/Algeri_%28surname%29) | [Ingratis](https://en.wikipedia.org/wiki/User:Ingratis) | 308 |
-| 2026-10-14 21:26:08 | [Melany Letelier](https://en.wikipedia.org/wiki/Melany_Letelier) | [ImSnot](https://en.wikipedia.org/wiki/User:ImSnot) | 8,826 |
-| 2026-10-14 21:29:07 | [René Wagner (disambiguation)](https://en.wikipedia.org/wiki/Ren%C3%A9_Wagner_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 284 |
-| 2026-10-14 21:29:29 | [Al Hassan ibn Abu Muhammad II](https://en.wikipedia.org/wiki/Al_Hassan_ibn_Abu_Muhammad_II) | [Sneakier](https://en.wikipedia.org/wiki/User:Sneakier) | 2,733 |
-| 2026-10-14 21:31:20 | [Patricia Radelet-de Grave](https://en.wikipedia.org/wiki/Patricia_Radelet-de_Grave) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 4,922 |
-| 2026-10-14 21:34:24 | [Radelet](https://en.wikipedia.org/wiki/Radelet) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 382 |
-| 2026-10-14 21:41:01 | [Kebbi United](https://en.wikipedia.org/wiki/Kebbi_United) | [Mstxxx](https://en.wikipedia.org/wiki/User:Mstxxx) | 3,431 |
-| 2026-10-14 21:47:43 | [2026–27 Oregon Ducks men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Oregon_Ducks_men%27s_basketball_team) | [Publicwalrus](https://en.wikipedia.org/wiki/User:Publicwalrus) | 30,395 |
-| 2026-10-14 21:50:20 | [Aliafsar Najafov](https://en.wikipedia.org/wiki/Aliafsar_Najafov) | [Synergy67](https://en.wikipedia.org/wiki/User:Synergy67) | 7,384 |
-| 2026-10-14 21:52:40 | [2000 All-Big East Conference football team](https://en.wikipedia.org/wiki/2000_All-Big_East_Conference_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 2,047 |
-| 2026-10-14 21:55:14 | [Credo (Margaret Bonds)](https://en.wikipedia.org/wiki/Credo_%28Margaret_Bonds%29) | [Caitib01](https://en.wikipedia.org/wiki/User:Caitib01) | 4,488 |
-| 2026-10-14 22:00:43 | [Salisbury Downs Primary School](https://en.wikipedia.org/wiki/Salisbury_Downs_Primary_School) | [Santouche2](https://en.wikipedia.org/wiki/User:Santouche2) | 9,491 |
-| 2026-10-14 22:04:55 | [This Suspicious Figure](https://en.wikipedia.org/wiki/This_Suspicious_Figure) | [Schizo1900](https://en.wikipedia.org/wiki/User:Schizo1900) | 16,170 |
-| 2026-10-14 22:05:50 | [Caroline McCormick](https://en.wikipedia.org/wiki/Caroline_McCormick) | [Proscribe](https://en.wikipedia.org/wiki/User:Proscribe) | 4,352 |
-| 2026-10-14 22:08:28 | [Xavi Tamarit](https://en.wikipedia.org/wiki/Xavi_Tamarit) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,571 |
-| 2026-10-14 22:08:36 | [Tarantino (song)](https://en.wikipedia.org/wiki/Tarantino_%28song%29) | [Flabshoe1](https://en.wikipedia.org/wiki/User:Flabshoe1) | 5,327 |
-| 2026-10-14 22:09:56 | [Upper Herring Lake](https://en.wikipedia.org/wiki/Upper_Herring_Lake) | [AmatureHistorian47](https://en.wikipedia.org/wiki/User:AmatureHistorian47) | 3,365 |
-| 2026-10-14 22:18:53 | [Edel FC](https://en.wikipedia.org/wiki/Edel_FC) | [Mstxxx](https://en.wikipedia.org/wiki/User:Mstxxx) | 3,435 |
+| 2026-10-14 22:24:56 | [Isidora Agurto](https://en.wikipedia.org/wiki/Isidora_Agurto) | [ImSnot](https://en.wikipedia.org/wiki/User:ImSnot) | 6,550 |
+| 2026-10-14 22:28:35 | [High school ice hockey in Illinois](https://en.wikipedia.org/wiki/High_school_ice_hockey_in_Illinois) | [R.L](https://en.wikipedia.org/wiki/User:R.L) | 9,134 |
+| 2026-10-14 22:28:46 | [College Point Boulevard](https://en.wikipedia.org/wiki/College_Point_Boulevard) | [Lurkingherern](https://en.wikipedia.org/wiki/User:Lurkingherern) | 6,213 |
+| 2026-10-14 22:30:53 | [2018 WPT Lugo Open](https://en.wikipedia.org/wiki/2018_WPT_Lugo_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 43,695 |
+| 2026-10-14 22:31:57 | [Tobias Vogt (politician, born 1988)](https://en.wikipedia.org/wiki/Tobias_Vogt_%28politician%2C_born_1988%29) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,968 |
+| 2026-10-14 22:32:31 | [Shawn Bowman (American football)](https://en.wikipedia.org/wiki/Shawn_Bowman_%28American_football%29) | [BeanieFan11](https://en.wikipedia.org/wiki/User:BeanieFan11) | 1,319 |
+| 2026-10-14 22:38:14 | [List of memes in 2026](https://en.wikipedia.org/wiki/List_of_memes_in_2026) | [ToiletWizardWasTaken](https://en.wikipedia.org/wiki/User:ToiletWizardWasTaken) | 517 |
+| 2026-10-14 22:39:27 | [Ronald Draper](https://en.wikipedia.org/wiki/Ronald_Draper) | [Axolitl](https://en.wikipedia.org/wiki/User:Axolitl) | 120 |
+| 2026-10-14 22:42:29 | [List of episodes of Neagley](https://en.wikipedia.org/wiki/List_of_episodes_of_Neagley) | [Leodas2623](https://en.wikipedia.org/wiki/User:Leodas2623) | 10,731 |
+| 2026-10-14 22:47:01 | [NoviSpy](https://en.wikipedia.org/wiki/NoviSpy) | [Vinkovčanin](https://en.wikipedia.org/wiki/User:Vinkov%C4%8Danin) | 4,542 |
+| 2026-10-14 22:48:24 | [Counter-Attack (1960s British TV series)](https://en.wikipedia.org/wiki/Counter-Attack_%281960s_British_TV_series%29) | [LostMedia2005](https://en.wikipedia.org/wiki/User:LostMedia2005) | 4,263 |
+| 2026-10-14 22:55:41 | [Isaac the Good](https://en.wikipedia.org/wiki/Isaac_the_Good) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 2,983 |
+| 2026-10-14 23:00:28 | [Luca Eden](https://en.wikipedia.org/wiki/Luca_Eden) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 3,904 |
+| 2026-10-14 23:01:11 | [Thomas Fullerton (Wisconsin pioneer)](https://en.wikipedia.org/wiki/Thomas_Fullerton_%28Wisconsin_pioneer%29) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 9,124 |
+| 2026-10-14 23:06:13 | [Windward (maritime AI company)](https://en.wikipedia.org/wiki/Windward_%28maritime_AI_company%29) | [BetweenTheFootnotes](https://en.wikipedia.org/wiki/User:BetweenTheFootnotes) | 43,609 |
+| 2026-10-14 23:06:46 | [Plinio Cruz](https://en.wikipedia.org/wiki/Plinio_Cruz) | [Ralexandargustafsson](https://en.wikipedia.org/wiki/User:Ralexandargustafsson) | 19,752 |
+| 2026-10-14 23:08:26 | [Zhyar Abd-Alaziz](https://en.wikipedia.org/wiki/Zhyar_Abd-Alaziz) | [Mar34noos](https://en.wikipedia.org/wiki/User:Mar34noos) | 3,638 |
+| 2026-10-14 23:09:39 | [Cheryl Schmidt](https://en.wikipedia.org/wiki/Cheryl_Schmidt) | [Jorrish Gale](https://en.wikipedia.org/wiki/User:Jorrish_Gale) | 7,363 |
