@@ -13,50 +13,52 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-14 08:22 UTC](data/en/new-articles-2026-10-14T08-22-26Z.csv) | 18 |
-| Japanese | `ja` | [2026-10-14 08:22 UTC](data/ja/new-articles-2026-10-14T08-22-26Z.csv) | 7 |
-| Chinese | `zh` | [2026-10-14 08:22 UTC](data/zh/new-articles-2026-10-14T08-22-26Z.csv) | 21 |
-| French | `fr` | [2026-10-14 08:22 UTC](data/fr/new-articles-2026-10-14T08-22-26Z.csv) | 7 |
-| German | `de` | [2026-10-14 08:22 UTC](data/de/new-articles-2026-10-14T08-22-26Z.csv) | 5 |
-| Russian | `ru` | [2026-10-14 08:22 UTC](data/ru/new-articles-2026-10-14T08-22-26Z.csv) | 31 |
-| Spanish | `es` | [2026-10-14 08:22 UTC](data/es/new-articles-2026-10-14T08-22-26Z.csv) | 6 |
-| Italian | `it` | [2026-10-14 08:22 UTC](data/it/new-articles-2026-10-14T08-22-26Z.csv) | 8 |
+| English | `en` | [2026-10-14 09:19 UTC](data/en/new-articles-2026-10-14T09-19-16Z.csv) | 20 |
+| Japanese | `ja` | [2026-10-14 09:19 UTC](data/ja/new-articles-2026-10-14T09-19-16Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-14 09:19 UTC](data/zh/new-articles-2026-10-14T09-19-16Z.csv) | 12 |
+| French | `fr` | [2026-10-14 09:19 UTC](data/fr/new-articles-2026-10-14T09-19-16Z.csv) | 9 |
+| German | `de` | [2026-10-14 09:19 UTC](data/de/new-articles-2026-10-14T09-19-16Z.csv) | 5 |
+| Russian | `ru` | [2026-10-14 09:19 UTC](data/ru/new-articles-2026-10-14T09-19-16Z.csv) | 10 |
+| Spanish | `es` | [2026-10-14 09:19 UTC](data/es/new-articles-2026-10-14T09-19-16Z.csv) | 3 |
+| Italian | `it` | [2026-10-14 09:19 UTC](data/it/new-articles-2026-10-14T09-19-16Z.csv) | 6 |
 | Portuguese | `pt` | [2026-10-14 08:22 UTC](data/pt/new-articles-2026-10-14T08-22-26Z.csv) | 1 |
-| Polish | `pl` | [2026-10-14 08:22 UTC](data/pl/new-articles-2026-10-14T08-22-26Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-14 08:22 UTC](data/ar/new-articles-2026-10-14T08-22-26Z.csv) | 4 |
-| Persian | `fa` | [2026-10-14 08:22 UTC](data/fa/new-articles-2026-10-14T08-22-26Z.csv) | 10 |
-| Turkish | `tr` | [2026-10-14 08:22 UTC](data/tr/new-articles-2026-10-14T08-22-26Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-14 08:22 UTC](data/he/new-articles-2026-10-14T08-22-26Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-14 08:22 UTC](data/sv/new-articles-2026-10-14T08-22-26Z.csv) | 5 |
-| Dutch | `nl` | [2026-10-14 08:22 UTC](data/nl/new-articles-2026-10-14T08-22-26Z.csv) | 6 |
+| Polish | `pl` | [2026-10-14 09:19 UTC](data/pl/new-articles-2026-10-14T09-19-16Z.csv) | 8 |
+| Arabic | `ar` | [2026-10-14 09:19 UTC](data/ar/new-articles-2026-10-14T09-19-16Z.csv) | 3 |
+| Persian | `fa` | [2026-10-14 09:19 UTC](data/fa/new-articles-2026-10-14T09-19-16Z.csv) | 19 |
+| Turkish | `tr` | [2026-10-14 09:19 UTC](data/tr/new-articles-2026-10-14T09-19-16Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-14 09:19 UTC](data/he/new-articles-2026-10-14T09-19-16Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-14 09:19 UTC](data/sv/new-articles-2026-10-14T09-19-16Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-14 09:19 UTC](data/nl/new-articles-2026-10-14T09-19-16Z.csv) | 2 |
 | Korean | `ko` | [2026-10-14 08:22 UTC](data/ko/new-articles-2026-10-14T08-22-26Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-14 08:22 UTC](data/id/new-articles-2026-10-14T08-22-26Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-10-14 08:22 UTC](data/uk/new-articles-2026-10-14T08-22-26Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-10-14 08:22 UTC](data/vi/new-articles-2026-10-14T08-22-26Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-14 09:19 UTC](data/id/new-articles-2026-10-14T09-19-16Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-10-14 09:19 UTC](data/uk/new-articles-2026-10-14T09-19-16Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-10-14 09:19 UTC](data/vi/new-articles-2026-10-14T09-19-16Z.csv) | 1 |
 
-## English (en) — 2026-10-14 08:22 UTC
+## English (en) — 2026-10-14 09:19 UTC
 
-New articles created between 2026-10-14 07:19 UTC and 2026-10-14 08:22 UTC.
+New articles created between 2026-10-14 08:22 UTC and 2026-10-14 09:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-14T08-22-26Z.csv)
+[Full CSV](data/en/new-articles-2026-10-14T09-19-16Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-14 07:24:52 | [Salabat Khan II](https://en.wikipedia.org/wiki/Salabat_Khan_II) | [WikiWhizKid1999](https://en.wikipedia.org/wiki/User:WikiWhizKid1999) | 5,702 |
-| 2026-10-14 07:32:46 | [Adeloparius](https://en.wikipedia.org/wiki/Adeloparius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,517 |
-| 2026-10-14 07:36:41 | [Adeloparius trimaculatus](https://en.wikipedia.org/wiki/Adeloparius_trimaculatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,106 |
-| 2026-10-14 07:39:18 | [Afrodiapterna](https://en.wikipedia.org/wiki/Afrodiapterna) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,842 |
-| 2026-10-14 07:42:27 | [Jago of Padhola](https://en.wikipedia.org/wiki/Jago_of_Padhola) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 2,650 |
-| 2026-10-14 07:42:35 | [Afrodiapterna heleninae](https://en.wikipedia.org/wiki/Afrodiapterna_heleninae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,090 |
-| 2026-10-14 07:46:15 | [Kekova shipwreck](https://en.wikipedia.org/wiki/Kekova_shipwreck) | [MrCryptoNerd](https://en.wikipedia.org/wiki/User:MrCryptoNerd) | 1,831 |
-| 2026-10-14 07:54:44 | [Let Me Try Again](https://en.wikipedia.org/wiki/Let_Me_Try_Again) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 3,813 |
-| 2026-10-14 07:58:20 | [Aganocrossus postpilosus](https://en.wikipedia.org/wiki/Aganocrossus_postpilosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,330 |
-| 2026-10-14 07:59:38 | [List of ambassadors of Sweden to Sri Lanka](https://en.wikipedia.org/wiki/List_of_ambassadors_of_Sweden_to_Sri_Lanka) | [Saftgurka](https://en.wikipedia.org/wiki/User:Saftgurka) | 27,382 |
-| 2026-10-14 08:04:06 | [Agoliinus congregatus](https://en.wikipedia.org/wiki/Agoliinus_congregatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,203 |
-| 2026-10-14 08:06:33 | [Wat Phra Dhammakaya Melbourne](https://en.wikipedia.org/wiki/Wat_Phra_Dhammakaya_Melbourne) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 14,058 |
-| 2026-10-14 08:09:53 | [List of Cruz Azul records and statistics](https://en.wikipedia.org/wiki/List_of_Cruz_Azul_records_and_statistics) | [Lf20](https://en.wikipedia.org/wiki/User:Lf20) | 80,259 |
-| 2026-10-14 08:11:07 | [Agolius](https://en.wikipedia.org/wiki/Agolius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,873 |
-| 2026-10-14 08:15:30 | [Cloaked (company)](https://en.wikipedia.org/wiki/Cloaked_%28company%29) | [Armollkas](https://en.wikipedia.org/wiki/User:Armollkas) | 5,205 |
-| 2026-10-14 08:17:25 | [Michael Onyeachor](https://en.wikipedia.org/wiki/Michael_Onyeachor) | [HenChicks](https://en.wikipedia.org/wiki/User:HenChicks) | 2,664 |
-| 2026-10-14 08:18:35 | [NEC Casio MEDIAS LTE N-04D](https://en.wikipedia.org/wiki/NEC_Casio_MEDIAS_LTE_N-04D) | [JGBlue1509](https://en.wikipedia.org/wiki/User:JGBlue1509) | 4,313 |
-| 2026-10-14 08:19:13 | [Agolius abdominalis](https://en.wikipedia.org/wiki/Agolius_abdominalis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,620 |
+| 2026-10-14 08:24:12 | [Deafening Silence](https://en.wikipedia.org/wiki/Deafening_Silence) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 3,765 |
+| 2026-10-14 08:35:04 | [Darius Randell](https://en.wikipedia.org/wiki/Darius_Randell) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 5,040 |
+| 2026-10-14 08:35:19 | [Torny-Pittet](https://en.wikipedia.org/wiki/Torny-Pittet) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,874 |
+| 2026-10-14 08:36:10 | [Tours, Fribourg](https://en.wikipedia.org/wiki/Tours%2C_Fribourg) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,498 |
+| 2026-10-14 08:37:26 | [Musard family](https://en.wikipedia.org/wiki/Musard_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,148 |
+| 2026-10-14 08:37:26 | [Ahermodontus](https://en.wikipedia.org/wiki/Ahermodontus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,834 |
+| 2026-10-14 08:37:33 | [Bailiwick of Romont](https://en.wikipedia.org/wiki/Bailiwick_of_Romont) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 7,884 |
+| 2026-10-14 08:37:38 | [Guschelmuth](https://en.wikipedia.org/wiki/Guschelmuth) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,926 |
+| 2026-10-14 08:38:02 | [Liebistorf](https://en.wikipedia.org/wiki/Liebistorf) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,906 |
+| 2026-10-14 08:39:26 | [Ahermodontus marini](https://en.wikipedia.org/wiki/Ahermodontus_marini) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,892 |
+| 2026-10-14 08:39:30 | [Wallenbuch](https://en.wikipedia.org/wiki/Wallenbuch) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,204 |
+| 2026-10-14 08:39:46 | [Monterschu](https://en.wikipedia.org/wiki/Monterschu) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,640 |
+| 2026-10-14 08:42:04 | [Estavayer-le-Gibloux](https://en.wikipedia.org/wiki/Estavayer-le-Gibloux) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,166 |
+| 2026-10-14 08:47:54 | [Allobodilus](https://en.wikipedia.org/wiki/Allobodilus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,004 |
+| 2026-10-14 08:50:42 | [Allobodilus notabilis](https://en.wikipedia.org/wiki/Allobodilus_notabilis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,110 |
+| 2026-10-14 09:01:17 | [Moses Stephen Owor](https://en.wikipedia.org/wiki/Moses_Stephen_Owor) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 4,402 |
+| 2026-10-14 09:13:20 | [Jemadar Jai Lal](https://en.wikipedia.org/wiki/Jemadar_Jai_Lal) | [Alukiahb](https://en.wikipedia.org/wiki/User:Alukiahb) | 2,432 |
+| 2026-10-14 09:13:29 | [Alocoderus](https://en.wikipedia.org/wiki/Alocoderus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,981 |
+| 2026-10-14 09:16:48 | [Darwish (musician)](https://en.wikipedia.org/wiki/Darwish_%28musician%29) | [קואורדינטה84](https://en.wikipedia.org/wiki/User:%D7%A7%D7%95%D7%90%D7%95%D7%A8%D7%93%D7%99%D7%A0%D7%98%D7%9484) | 10,858 |
+| 2026-10-14 09:18:35 | [Zentoshin](https://en.wikipedia.org/wiki/Zentoshin) | [NotJim99](https://en.wikipedia.org/wiki/User:NotJim99) | 1,778 |
