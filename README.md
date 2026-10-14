@@ -13,61 +13,60 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-14 01:19 UTC](data/en/new-articles-2026-10-14T01-19-31Z.csv) | 29 |
-| Japanese | `ja` | [2026-10-14 01:19 UTC](data/ja/new-articles-2026-10-14T01-19-31Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-14 01:19 UTC](data/zh/new-articles-2026-10-14T01-19-31Z.csv) | 1 |
-| French | `fr` | [2026-10-14 01:19 UTC](data/fr/new-articles-2026-10-14T01-19-31Z.csv) | 2 |
+| English | `en` | [2026-10-14 02:19 UTC](data/en/new-articles-2026-10-14T02-19-18Z.csv) | 28 |
+| Japanese | `ja` | [2026-10-14 02:19 UTC](data/ja/new-articles-2026-10-14T02-19-18Z.csv) | 1 |
+| Chinese | `zh` | [2026-10-14 02:19 UTC](data/zh/new-articles-2026-10-14T02-19-18Z.csv) | 1 |
+| French | `fr` | [2026-10-14 02:19 UTC](data/fr/new-articles-2026-10-14T02-19-18Z.csv) | 2 |
 | German | `de` | [2026-10-14 00:20 UTC](data/de/new-articles-2026-10-14T00-20-30Z.csv) | 1 |
-| Russian | `ru` | [2026-10-14 01:19 UTC](data/ru/new-articles-2026-10-14T01-19-31Z.csv) | 2 |
-| Spanish | `es` | [2026-10-14 01:19 UTC](data/es/new-articles-2026-10-14T01-19-31Z.csv) | 7 |
+| Russian | `ru` | [2026-10-14 02:19 UTC](data/ru/new-articles-2026-10-14T02-19-18Z.csv) | 5 |
+| Spanish | `es` | [2026-10-14 02:19 UTC](data/es/new-articles-2026-10-14T02-19-18Z.csv) | 10 |
 | Italian | `it` | [2026-10-14 01:19 UTC](data/it/new-articles-2026-10-14T01-19-31Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-14 01:19 UTC](data/pt/new-articles-2026-10-14T01-19-31Z.csv) | 3 |
-| Polish | `pl` | [2026-10-14 00:20 UTC](data/pl/new-articles-2026-10-14T00-20-30Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-14 01:19 UTC](data/ar/new-articles-2026-10-14T01-19-31Z.csv) | 1 |
-| Persian | `fa` | [2026-10-14 01:19 UTC](data/fa/new-articles-2026-10-14T01-19-31Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-14 02:19 UTC](data/pt/new-articles-2026-10-14T02-19-18Z.csv) | 7 |
+| Polish | `pl` | [2026-10-14 02:19 UTC](data/pl/new-articles-2026-10-14T02-19-18Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-14 02:19 UTC](data/ar/new-articles-2026-10-14T02-19-18Z.csv) | 3 |
+| Persian | `fa` | [2026-10-14 02:19 UTC](data/fa/new-articles-2026-10-14T02-19-18Z.csv) | 3 |
 | Turkish | `tr` | [2026-10-13 22:19 UTC](data/tr/new-articles-2026-10-13T22-19-42Z.csv) | 2 |
 | Hebrew | `he` | [2026-10-14 01:19 UTC](data/he/new-articles-2026-10-14T01-19-31Z.csv) | 1 |
 | Swedish | `sv` | [2026-10-13 22:19 UTC](data/sv/new-articles-2026-10-13T22-19-42Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-14 01:19 UTC](data/nl/new-articles-2026-10-14T01-19-31Z.csv) | 1 |
-| Korean | `ko` | [2026-10-13 22:19 UTC](data/ko/new-articles-2026-10-13T22-19-42Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-14 01:19 UTC](data/id/new-articles-2026-10-14T01-19-31Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-10-14 01:19 UTC](data/uk/new-articles-2026-10-14T01-19-31Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-10-14 01:19 UTC](data/vi/new-articles-2026-10-14T01-19-31Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-14 02:19 UTC](data/nl/new-articles-2026-10-14T02-19-18Z.csv) | 2 |
+| Korean | `ko` | [2026-10-14 02:19 UTC](data/ko/new-articles-2026-10-14T02-19-18Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-14 02:19 UTC](data/id/new-articles-2026-10-14T02-19-18Z.csv) | 27 |
+| Ukrainian | `uk` | [2026-10-14 02:19 UTC](data/uk/new-articles-2026-10-14T02-19-18Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-10-14 02:19 UTC](data/vi/new-articles-2026-10-14T02-19-18Z.csv) | 1 |
 
-## English (en) — 2026-10-14 01:19 UTC
+## English (en) — 2026-10-14 02:19 UTC
 
-New articles created between 2026-10-14 00:20 UTC and 2026-10-14 01:19 UTC.
+New articles created between 2026-10-14 01:19 UTC and 2026-10-14 02:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-14T01-19-31Z.csv)
+[Full CSV](data/en/new-articles-2026-10-14T02-19-18Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-14 00:24:04 | [Invictibellatrix](https://en.wikipedia.org/wiki/Invictibellatrix) | [Colossal Cheetah](https://en.wikipedia.org/wiki/User:Colossal_Cheetah) | 1,108 |
-| 2026-10-14 00:29:18 | [Springfield (surname)](https://en.wikipedia.org/wiki/Springfield_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 2,074 |
-| 2026-10-14 00:30:55 | [West Series races at Evergreen](https://en.wikipedia.org/wiki/West_Series_races_at_Evergreen) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 42,382 |
-| 2026-10-14 00:31:25 | [362nd Division](https://en.wikipedia.org/wiki/362nd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 00:34:19 | [Brigitte Van Tiggelen](https://en.wikipedia.org/wiki/Brigitte_Van_Tiggelen) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 5,610 |
-| 2026-10-14 00:34:40 | [363rd Division](https://en.wikipedia.org/wiki/363rd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 307 |
-| 2026-10-14 00:36:58 | [364th Division](https://en.wikipedia.org/wiki/364th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 00:37:34 | [Samer Sinijlawi](https://en.wikipedia.org/wiki/Samer_Sinijlawi) | [Gitz6666](https://en.wikipedia.org/wiki/User:Gitz6666) | 11,890 |
-| 2026-10-14 00:38:28 | [365th Division](https://en.wikipedia.org/wiki/365th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 00:40:47 | [Morris Township, Kansas](https://en.wikipedia.org/wiki/Morris_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,401 |
-| 2026-10-14 00:41:21 | [Van Tiggelen](https://en.wikipedia.org/wiki/Van_Tiggelen) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 394 |
-| 2026-10-14 00:41:24 | [George Morais (politician)](https://en.wikipedia.org/wiki/George_Morais_%28politician%29) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,126 |
-| 2026-10-14 00:42:10 | [Donald Schoolcraft](https://en.wikipedia.org/wiki/Donald_Schoolcraft) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,767 |
-| 2026-10-14 00:47:46 | [367th Division](https://en.wikipedia.org/wiki/367th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 00:50:10 | [369th Division](https://en.wikipedia.org/wiki/369th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 237 |
-| 2026-10-14 00:53:38 | [Eddy Atoms](https://en.wikipedia.org/wiki/Eddy_Atoms) | [WomanMaleHuman](https://en.wikipedia.org/wiki/User:WomanMaleHuman) | 1,273 |
-| 2026-10-14 00:53:59 | [2007 Philadelphia municipal election](https://en.wikipedia.org/wiki/2007_Philadelphia_municipal_election) | [Average Pennsylvanian](https://en.wikipedia.org/wiki/User:Average_Pennsylvanian) | 42,212 |
-| 2026-10-14 00:54:04 | [370th Division](https://en.wikipedia.org/wiki/370th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 00:56:59 | [371st Division](https://en.wikipedia.org/wiki/371st_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 01:04:33 | [1994 All-Big East Conference football team](https://en.wikipedia.org/wiki/1994_All-Big_East_Conference_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 3,904 |
-| 2026-10-14 01:07:17 | [Bogotá Assembly of Notables](https://en.wikipedia.org/wiki/Bogot%C3%A1_Assembly_of_Notables) | [Danmute](https://en.wikipedia.org/wiki/User:Danmute) | 6,030 |
-| 2026-10-14 01:09:36 | [372nd Division](https://en.wikipedia.org/wiki/372nd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 01:11:51 | [Osborne Township, Sumner County, Kansas](https://en.wikipedia.org/wiki/Osborne_Township%2C_Sumner_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,403 |
-| 2026-10-14 01:13:20 | [Shardaben](https://en.wikipedia.org/wiki/Shardaben) | [KarenRFisher](https://en.wikipedia.org/wiki/User:KarenRFisher) | 210 |
-| 2026-10-14 01:14:54 | [373rd Division](https://en.wikipedia.org/wiki/373rd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 01:16:59 | [Hylaeus perpictus](https://en.wikipedia.org/wiki/Hylaeus_perpictus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 1,956 |
-| 2026-10-14 01:17:24 | [Tringo](https://en.wikipedia.org/wiki/Tringo) | [Timur9008](https://en.wikipedia.org/wiki/User:Timur9008) | 4,993 |
-| 2026-10-14 01:17:31 | [376th Division](https://en.wikipedia.org/wiki/376th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
-| 2026-10-14 01:19:19 | [377th Division](https://en.wikipedia.org/wiki/377th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 01:19:54 | [Andromacha](https://en.wikipedia.org/wiki/Andromacha) | [Graearms](https://en.wikipedia.org/wiki/User:Graearms) | 6,507 |
+| 2026-10-14 01:24:10 | [379th Division](https://en.wikipedia.org/wiki/379th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 01:29:42 | [Eleanor de Quincy](https://en.wikipedia.org/wiki/Eleanor_de_Quincy) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 5,905 |
+| 2026-10-14 01:30:59 | [Portrait of a Woman Holding a Fan (Hals; Stuttgart)](https://en.wikipedia.org/wiki/Portrait_of_a_Woman_Holding_a_Fan_%28Hals%3B_Stuttgart%29) | [Frans Fowler](https://en.wikipedia.org/wiki/User:Frans_Fowler) | 31,916 |
+| 2026-10-14 01:31:38 | [384th Division](https://en.wikipedia.org/wiki/384th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 01:32:34 | [Costa Rica at the 2027 Pan American Games](https://en.wikipedia.org/wiki/Costa_Rica_at_the_2027_Pan_American_Games) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 3,945 |
+| 2026-10-14 01:32:57 | [385th Division](https://en.wikipedia.org/wiki/385th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 01:39:46 | [386th Division](https://en.wikipedia.org/wiki/386th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 227 |
+| 2026-10-14 01:41:30 | [Antonia Pietschmann](https://en.wikipedia.org/wiki/Antonia_Pietschmann) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,805 |
+| 2026-10-14 01:42:06 | [Fate/Apocrypha (anime)](https://en.wikipedia.org/wiki/Fate/Apocrypha_%28anime%29) | [Piotrus](https://en.wikipedia.org/wiki/User:Piotrus) | 12,975 |
+| 2026-10-14 01:42:45 | [387th Division](https://en.wikipedia.org/wiki/387th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 01:45:04 | [388th Division](https://en.wikipedia.org/wiki/388th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 232 |
+| 2026-10-14 01:46:38 | [Pietschmann](https://en.wikipedia.org/wiki/Pietschmann) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 358 |
+| 2026-10-14 01:47:57 | [389th Division](https://en.wikipedia.org/wiki/389th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 01:49:52 | [390th Division](https://en.wikipedia.org/wiki/390th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 232 |
+| 2026-10-14 01:54:40 | [392nd Division](https://en.wikipedia.org/wiki/392nd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 237 |
+| 2026-10-14 01:56:23 | [U.S. Commerce Association](https://en.wikipedia.org/wiki/U.S._Commerce_Association) | [25 years of the free encyclopedea](https://en.wikipedia.org/wiki/User:25_years_of_the_free_encyclopedea) | 547 |
+| 2026-10-14 01:58:10 | [Juno Fountain, Zurich](https://en.wikipedia.org/wiki/Juno_Fountain%2C_Zurich) | [Seasider53](https://en.wikipedia.org/wiki/User:Seasider53) | 2,373 |
+| 2026-10-14 01:58:23 | [393rd Division](https://en.wikipedia.org/wiki/393rd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 02:00:12 | [395th Division](https://en.wikipedia.org/wiki/395th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 02:02:43 | [399th Division](https://en.wikipedia.org/wiki/399th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 02:03:14 | [Jewish Agricultural Society](https://en.wikipedia.org/wiki/Jewish_Agricultural_Society) | [Gingembretropfort](https://en.wikipedia.org/wiki/User:Gingembretropfort) | 1,442 |
+| 2026-10-14 02:07:55 | [403rd Division](https://en.wikipedia.org/wiki/403rd_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
+| 2026-10-14 02:11:44 | [Chappy (drummer)](https://en.wikipedia.org/wiki/Chappy_%28drummer%29) | [Chubbles](https://en.wikipedia.org/wiki/User:Chubbles) | 899 |
+| 2026-10-14 02:12:03 | [Deamia funis](https://en.wikipedia.org/wiki/Deamia_funis) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 5,432 |
+| 2026-10-14 02:13:28 | [Xavier Lewis](https://en.wikipedia.org/wiki/Xavier_Lewis) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 86 |
+| 2026-10-14 02:17:04 | [St Mark's Anglican Church, Camberwell](https://en.wikipedia.org/wiki/St_Mark%27s_Anglican_Church%2C_Camberwell) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 10,664 |
+| 2026-10-14 02:19:13 | [416th Division](https://en.wikipedia.org/wiki/416th_Division) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 226 |
