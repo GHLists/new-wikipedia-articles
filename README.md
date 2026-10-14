@@ -13,48 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-14 06:20 UTC](data/en/new-articles-2026-10-14T06-20-21Z.csv) | 16 |
-| Japanese | `ja` | [2026-10-14 06:20 UTC](data/ja/new-articles-2026-10-14T06-20-21Z.csv) | 7 |
-| Chinese | `zh` | [2026-10-14 06:20 UTC](data/zh/new-articles-2026-10-14T06-20-21Z.csv) | 14 |
-| French | `fr` | [2026-10-14 06:20 UTC](data/fr/new-articles-2026-10-14T06-20-21Z.csv) | 1 |
-| German | `de` | [2026-10-14 06:20 UTC](data/de/new-articles-2026-10-14T06-20-21Z.csv) | 4 |
-| Russian | `ru` | [2026-10-14 06:20 UTC](data/ru/new-articles-2026-10-14T06-20-21Z.csv) | 10 |
-| Spanish | `es` | [2026-10-14 06:20 UTC](data/es/new-articles-2026-10-14T06-20-21Z.csv) | 3 |
-| Italian | `it` | [2026-10-14 06:20 UTC](data/it/new-articles-2026-10-14T06-20-21Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-14 06:20 UTC](data/pt/new-articles-2026-10-14T06-20-21Z.csv) | 2 |
-| Polish | `pl` | [2026-10-14 06:20 UTC](data/pl/new-articles-2026-10-14T06-20-21Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-14 06:20 UTC](data/ar/new-articles-2026-10-14T06-20-21Z.csv) | 9 |
-| Persian | `fa` | [2026-10-14 06:20 UTC](data/fa/new-articles-2026-10-14T06-20-21Z.csv) | 2 |
-| Turkish | `tr` | [2026-10-14 06:20 UTC](data/tr/new-articles-2026-10-14T06-20-21Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-14 05:19 UTC](data/he/new-articles-2026-10-14T05-19-08Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-14 06:20 UTC](data/sv/new-articles-2026-10-14T06-20-21Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-14 06:20 UTC](data/nl/new-articles-2026-10-14T06-20-21Z.csv) | 2 |
-| Korean | `ko` | [2026-10-14 06:20 UTC](data/ko/new-articles-2026-10-14T06-20-21Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-14 06:20 UTC](data/id/new-articles-2026-10-14T06-20-21Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-10-14 06:20 UTC](data/uk/new-articles-2026-10-14T06-20-21Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-10-14 06:20 UTC](data/vi/new-articles-2026-10-14T06-20-21Z.csv) | 2 |
+| English | `en` | [2026-10-14 07:19 UTC](data/en/new-articles-2026-10-14T07-19-09Z.csv) | 16 |
+| Japanese | `ja` | [2026-10-14 07:19 UTC](data/ja/new-articles-2026-10-14T07-19-09Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-14 07:19 UTC](data/zh/new-articles-2026-10-14T07-19-09Z.csv) | 23 |
+| French | `fr` | [2026-10-14 07:19 UTC](data/fr/new-articles-2026-10-14T07-19-09Z.csv) | 11 |
+| German | `de` | [2026-10-14 07:19 UTC](data/de/new-articles-2026-10-14T07-19-09Z.csv) | 9 |
+| Russian | `ru` | [2026-10-14 07:19 UTC](data/ru/new-articles-2026-10-14T07-19-09Z.csv) | 6 |
+| Spanish | `es` | [2026-10-14 07:19 UTC](data/es/new-articles-2026-10-14T07-19-09Z.csv) | 4 |
+| Italian | `it` | [2026-10-14 07:19 UTC](data/it/new-articles-2026-10-14T07-19-09Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-14 07:19 UTC](data/pt/new-articles-2026-10-14T07-19-09Z.csv) | 2 |
+| Polish | `pl` | [2026-10-14 07:19 UTC](data/pl/new-articles-2026-10-14T07-19-09Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-14 07:19 UTC](data/ar/new-articles-2026-10-14T07-19-09Z.csv) | 3 |
+| Persian | `fa` | [2026-10-14 07:19 UTC](data/fa/new-articles-2026-10-14T07-19-09Z.csv) | 3 |
+| Turkish | `tr` | [2026-10-14 07:19 UTC](data/tr/new-articles-2026-10-14T07-19-09Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-14 07:19 UTC](data/he/new-articles-2026-10-14T07-19-09Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-14 07:19 UTC](data/sv/new-articles-2026-10-14T07-19-09Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-14 07:19 UTC](data/nl/new-articles-2026-10-14T07-19-09Z.csv) | 4 |
+| Korean | `ko` | [2026-10-14 07:19 UTC](data/ko/new-articles-2026-10-14T07-19-09Z.csv) | 11 |
+| Indonesian | `id` | [2026-10-14 07:19 UTC](data/id/new-articles-2026-10-14T07-19-09Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-10-14 07:19 UTC](data/uk/new-articles-2026-10-14T07-19-09Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-10-14 07:19 UTC](data/vi/new-articles-2026-10-14T07-19-09Z.csv) | 2 |
 
-## English (en) — 2026-10-14 06:20 UTC
+## English (en) — 2026-10-14 07:19 UTC
 
-New articles created between 2026-10-14 05:19 UTC and 2026-10-14 06:20 UTC.
+New articles created between 2026-10-14 06:20 UTC and 2026-10-14 07:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-14T06-20-21Z.csv)
+[Full CSV](data/en/new-articles-2026-10-14T07-19-09Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-14 05:22:56 | [Thrissur Festival Calendar](https://en.wikipedia.org/wiki/Thrissur_Festival_Calendar) | [Alertjean](https://en.wikipedia.org/wiki/User:Alertjean) | 930 |
-| 2026-10-14 05:26:29 | [Chonlathan Supphaiboonlerd](https://en.wikipedia.org/wiki/Chonlathan_Supphaiboonlerd) | [Skaterlight2013](https://en.wikipedia.org/wiki/User:Skaterlight2013) | 5,860 |
-| 2026-10-14 05:32:17 | [2026 festival calendar](https://en.wikipedia.org/wiki/2026_festival_calendar) | [Alertjean](https://en.wikipedia.org/wiki/User:Alertjean) | 7,588 |
-| 2026-10-14 05:43:06 | [Balbhadra Singh Negi](https://en.wikipedia.org/wiki/Balbhadra_Singh_Negi) | [TypeInfo](https://en.wikipedia.org/wiki/User:TypeInfo) | 2,017 |
-| 2026-10-14 05:47:53 | [Timeline of the Ulysses S. Grant presidency](https://en.wikipedia.org/wiki/Timeline_of_the_Ulysses_S._Grant_presidency) | [Thebiguglyalien](https://en.wikipedia.org/wiki/User:Thebiguglyalien) | 27,234 |
-| 2026-10-14 05:50:39 | [John Tassoni](https://en.wikipedia.org/wiki/John_Tassoni) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,587 |
-| 2026-10-14 05:54:39 | [Sabian Baumann](https://en.wikipedia.org/wiki/Sabian_Baumann) | [StoppedTime](https://en.wikipedia.org/wiki/User:StoppedTime) | 2,011 |
-| 2026-10-14 05:57:26 | [Melocactus peruvianus](https://en.wikipedia.org/wiki/Melocactus_peruvianus) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 10,616 |
-| 2026-10-14 05:57:58 | [Chandarana](https://en.wikipedia.org/wiki/Chandarana) | [KarenRFisher](https://en.wikipedia.org/wiki/User:KarenRFisher) | 229 |
-| 2026-10-14 05:59:11 | [Hylaeus subcoronatus](https://en.wikipedia.org/wiki/Hylaeus_subcoronatus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,124 |
-| 2026-10-14 06:04:07 | [Shiyue (month)](https://en.wikipedia.org/wiki/Shiyue_%28month%29) | [ILoveHirasawaYui](https://en.wikipedia.org/wiki/User:ILoveHirasawaYui) | 6,179 |
-| 2026-10-14 06:06:23 | [Remaudiereana inornata](https://en.wikipedia.org/wiki/Remaudiereana_inornata) | [Sevenstxrsquid](https://en.wikipedia.org/wiki/User:Sevenstxrsquid) | 1,162 |
-| 2026-10-14 06:09:59 | [Greater Georgia Action, Inc.](https://en.wikipedia.org/wiki/Greater_Georgia_Action%2C_Inc.) | [Womzark](https://en.wikipedia.org/wiki/User:Womzark) | 3,532 |
-| 2026-10-14 06:11:53 | [2027 festival calendar](https://en.wikipedia.org/wiki/2027_festival_calendar) | [Alertjean](https://en.wikipedia.org/wiki/User:Alertjean) | 6,775 |
-| 2026-10-14 06:14:47 | [Littleton Fowler (minister)](https://en.wikipedia.org/wiki/Littleton_Fowler_%28minister%29) | [Embyarby](https://en.wikipedia.org/wiki/User:Embyarby) | 7,947 |
-| 2026-10-14 06:16:06 | [Stove (surname)](https://en.wikipedia.org/wiki/Stove_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 169 |
+| 2026-10-14 06:20:50 | [2019–20 FC Nitra season](https://en.wikipedia.org/wiki/2019%E2%80%9320_FC_Nitra_season) | [Lazio](https://en.wikipedia.org/wiki/User:Lazio) | 55,308 |
+| 2026-10-14 06:28:53 | [Shiyiyue](https://en.wikipedia.org/wiki/Shiyiyue) | [ILoveHirasawaYui](https://en.wikipedia.org/wiki/User:ILoveHirasawaYui) | 5,169 |
+| 2026-10-14 06:29:58 | [Brindavihari](https://en.wikipedia.org/wiki/Brindavihari) | [Bangwiki](https://en.wikipedia.org/wiki/User:Bangwiki) | 5,840 |
+| 2026-10-14 06:32:32 | [Sakkuth (disambiguation)](https://en.wikipedia.org/wiki/Sakkuth_%28disambiguation%29) | [ווסטוק](https://en.wikipedia.org/wiki/User:%D7%95%D7%95%D7%A1%D7%98%D7%95%D7%A7) | 18 |
+| 2026-10-14 06:52:18 | [2026 East Asia Baseball Cup](https://en.wikipedia.org/wiki/2026_East_Asia_Baseball_Cup) | [Tete Pul](https://en.wikipedia.org/wiki/User:Tete_Pul) | 4,905 |
+| 2026-10-14 06:52:24 | [1906 United Kingdom general election in Wales](https://en.wikipedia.org/wiki/1906_United_Kingdom_general_election_in_Wales) | [BlueCrowns](https://en.wikipedia.org/wiki/User:BlueCrowns) | 23,606 |
+| 2026-10-14 06:53:53 | [Sony Xperia 5 Series](https://en.wikipedia.org/wiki/Sony_Xperia_5_Series) | [Silvpsclsulistyo](https://en.wikipedia.org/wiki/User:Silvpsclsulistyo) | 9,084 |
+| 2026-10-14 06:54:49 | [BuBu de la Madeleine](https://en.wikipedia.org/wiki/BuBu_de_la_Madeleine) | [StoppedTime](https://en.wikipedia.org/wiki/User:StoppedTime) | 2,914 |
+| 2026-10-14 06:59:37 | [Tshik-á-mī](https://en.wikipedia.org/wiki/Tshik-%C3%A1-m%C4%AB) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 3,224 |
+| 2026-10-14 07:08:56 | [2007 Philadelphia City Council election](https://en.wikipedia.org/wiki/2007_Philadelphia_City_Council_election) | [Average Pennsylvanian](https://en.wikipedia.org/wiki/User:Average_Pennsylvanian) | 35,011 |
+| 2026-10-14 07:09:57 | [Bismillah, c'est les ténèbres](https://en.wikipedia.org/wiki/Bismillah%2C_c%27est_les_t%C3%A9n%C3%A8bres) | [Afonso Dimas Martins](https://en.wikipedia.org/wiki/User:Afonso_Dimas_Martins) | 10,268 |
+| 2026-10-14 07:10:03 | [2018 LA Galaxy–Los Angeles FC game](https://en.wikipedia.org/wiki/2018_LA_Galaxy%E2%80%93Los_Angeles_FC_game) | [RedMuffers](https://en.wikipedia.org/wiki/User:RedMuffers) | 3,574 |
+| 2026-10-14 07:10:49 | [Anni Miettunen](https://en.wikipedia.org/wiki/Anni_Miettunen) | [Schestos](https://en.wikipedia.org/wiki/User:Schestos) | 3,186 |
+| 2026-10-14 07:11:48 | [Health and appearance Ariana Grande](https://en.wikipedia.org/wiki/Health_and_appearance_Ariana_Grande) | [Ejaywy](https://en.wikipedia.org/wiki/User:Ejaywy) | 21,226 |
+| 2026-10-14 07:12:29 | [2026 U23 World Wrestling Championships](https://en.wikipedia.org/wiki/2026_U23_World_Wrestling_Championships) | [Leonen Messi](https://en.wikipedia.org/wiki/User:Leonen_Messi) | 18,017 |
+| 2026-10-14 07:18:16 | [Marie-Josée Parent](https://en.wikipedia.org/wiki/Marie-Jos%C3%A9e_Parent) | [Theevu](https://en.wikipedia.org/wiki/User:Theevu) | 12,745 |
