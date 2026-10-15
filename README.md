@@ -13,60 +13,67 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-15 17:19 UTC](data/en/new-articles-2026-10-15T17-19-53Z.csv) | 28 |
-| Japanese | `ja` | [2026-10-15 17:19 UTC](data/ja/new-articles-2026-10-15T17-19-53Z.csv) | 3 |
-| Chinese | `zh` | [2026-10-15 17:19 UTC](data/zh/new-articles-2026-10-15T17-19-53Z.csv) | 5 |
-| French | `fr` | [2026-10-15 17:19 UTC](data/fr/new-articles-2026-10-15T17-19-53Z.csv) | 8 |
-| German | `de` | [2026-10-15 17:19 UTC](data/de/new-articles-2026-10-15T17-19-53Z.csv) | 9 |
-| Russian | `ru` | [2026-10-15 17:19 UTC](data/ru/new-articles-2026-10-15T17-19-53Z.csv) | 12 |
-| Spanish | `es` | [2026-10-15 17:19 UTC](data/es/new-articles-2026-10-15T17-19-53Z.csv) | 13 |
-| Italian | `it` | [2026-10-15 17:19 UTC](data/it/new-articles-2026-10-15T17-19-53Z.csv) | 8 |
-| Portuguese | `pt` | [2026-10-15 17:19 UTC](data/pt/new-articles-2026-10-15T17-19-53Z.csv) | 6 |
-| Polish | `pl` | [2026-10-15 17:19 UTC](data/pl/new-articles-2026-10-15T17-19-53Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-15 17:19 UTC](data/ar/new-articles-2026-10-15T17-19-53Z.csv) | 11 |
-| Persian | `fa` | [2026-10-15 17:19 UTC](data/fa/new-articles-2026-10-15T17-19-53Z.csv) | 21 |
-| Turkish | `tr` | [2026-10-15 17:19 UTC](data/tr/new-articles-2026-10-15T17-19-53Z.csv) | 6 |
-| Hebrew | `he` | [2026-10-15 17:19 UTC](data/he/new-articles-2026-10-15T17-19-53Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-15 17:19 UTC](data/sv/new-articles-2026-10-15T17-19-53Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-15 17:19 UTC](data/nl/new-articles-2026-10-15T17-19-53Z.csv) | 7 |
+| English | `en` | [2026-10-15 18:20 UTC](data/en/new-articles-2026-10-15T18-20-01Z.csv) | 35 |
+| Japanese | `ja` | [2026-10-15 18:20 UTC](data/ja/new-articles-2026-10-15T18-20-01Z.csv) | 5 |
+| Chinese | `zh` | [2026-10-15 18:20 UTC](data/zh/new-articles-2026-10-15T18-20-01Z.csv) | 2 |
+| French | `fr` | [2026-10-15 18:20 UTC](data/fr/new-articles-2026-10-15T18-20-01Z.csv) | 12 |
+| German | `de` | [2026-10-15 18:20 UTC](data/de/new-articles-2026-10-15T18-20-01Z.csv) | 10 |
+| Russian | `ru` | [2026-10-15 18:20 UTC](data/ru/new-articles-2026-10-15T18-20-01Z.csv) | 10 |
+| Spanish | `es` | [2026-10-15 18:20 UTC](data/es/new-articles-2026-10-15T18-20-01Z.csv) | 23 |
+| Italian | `it` | [2026-10-15 18:20 UTC](data/it/new-articles-2026-10-15T18-20-01Z.csv) | 12 |
+| Portuguese | `pt` | [2026-10-15 18:20 UTC](data/pt/new-articles-2026-10-15T18-20-01Z.csv) | 8 |
+| Polish | `pl` | [2026-10-15 18:20 UTC](data/pl/new-articles-2026-10-15T18-20-01Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-15 18:20 UTC](data/ar/new-articles-2026-10-15T18-20-01Z.csv) | 8 |
+| Persian | `fa` | [2026-10-15 18:20 UTC](data/fa/new-articles-2026-10-15T18-20-01Z.csv) | 10 |
+| Turkish | `tr` | [2026-10-15 18:20 UTC](data/tr/new-articles-2026-10-15T18-20-01Z.csv) | 4 |
+| Hebrew | `he` | [2026-10-15 18:20 UTC](data/he/new-articles-2026-10-15T18-20-01Z.csv) | 8 |
+| Swedish | `sv` | [2026-10-15 18:20 UTC](data/sv/new-articles-2026-10-15T18-20-01Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-15 18:20 UTC](data/nl/new-articles-2026-10-15T18-20-01Z.csv) | 11 |
 | Korean | `ko` | [2026-10-15 15:19 UTC](data/ko/new-articles-2026-10-15T15-19-10Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-15 17:19 UTC](data/id/new-articles-2026-10-15T17-19-53Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-15 17:19 UTC](data/uk/new-articles-2026-10-15T17-19-53Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-10-15 17:19 UTC](data/vi/new-articles-2026-10-15T17-19-53Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-15 18:20 UTC](data/id/new-articles-2026-10-15T18-20-01Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-15 18:20 UTC](data/uk/new-articles-2026-10-15T18-20-01Z.csv) | 10 |
+| Vietnamese | `vi` | [2026-10-15 18:20 UTC](data/vi/new-articles-2026-10-15T18-20-01Z.csv) | 1 |
 
-## English (en) — 2026-10-15 17:19 UTC
+## English (en) — 2026-10-15 18:20 UTC
 
-New articles created between 2026-10-15 16:19 UTC and 2026-10-15 17:19 UTC.
+New articles created between 2026-10-15 17:19 UTC and 2026-10-15 18:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-15T17-19-53Z.csv)
+[Full CSV](data/en/new-articles-2026-10-15T18-20-01Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-15 16:21:35 | [Alexander Healy (sheep rancher)](https://en.wikipedia.org/wiki/Alexander_Healy_%28sheep_rancher%29) | [Meadowlark12345](https://en.wikipedia.org/wiki/User:Meadowlark12345) | 9,932 |
-| 2026-10-15 16:22:43 | [GSAT-7B](https://en.wikipedia.org/wiki/GSAT-7B) | [4-RAZOR 01](https://en.wikipedia.org/wiki/User:4-RAZOR_01) | 0 |
-| 2026-10-15 16:25:44 | [Anatolian Owl](https://en.wikipedia.org/wiki/Anatolian_Owl) | [JohnVerburg](https://en.wikipedia.org/wiki/User:JohnVerburg) | 5,681 |
-| 2026-10-15 16:26:16 | [Hrebinka urban hromada](https://en.wikipedia.org/wiki/Hrebinka_urban_hromada) | [Almanbet Janışev](https://en.wikipedia.org/wiki/User:Almanbet_Jan%C4%B1%C5%9Fev) | 7,973 |
-| 2026-10-15 16:28:35 | [2026–27 UCF Knights men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_UCF_Knights_men%27s_basketball_team) | [Smitty Smitty](https://en.wikipedia.org/wiki/User:Smitty_Smitty) | 13,608 |
-| 2026-10-15 16:36:38 | [Frederick Visscher](https://en.wikipedia.org/wiki/Frederick_Visscher) | [Eclose97](https://en.wikipedia.org/wiki/User:Eclose97) | 5,361 |
-| 2026-10-15 16:36:47 | [Ester Manas](https://en.wikipedia.org/wiki/Ester_Manas) | [CocoaMuse](https://en.wikipedia.org/wiki/User:CocoaMuse) | 16,838 |
-| 2026-10-15 16:37:48 | [Atatürk Cultural Center (Samsun)](https://en.wikipedia.org/wiki/Atat%C3%BCrk_Cultural_Center_%28Samsun%29) | [Chidgk1](https://en.wikipedia.org/wiki/User:Chidgk1) | 1,240 |
-| 2026-10-15 16:39:08 | [Barrett Township, Kansas](https://en.wikipedia.org/wiki/Barrett_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,113 |
-| 2026-10-15 16:40:45 | [Tamarit](https://en.wikipedia.org/wiki/Tamarit) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 466 |
-| 2026-10-15 16:45:14 | [Heikki Mälkiä](https://en.wikipedia.org/wiki/Heikki_M%C3%A4lki%C3%A4) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 2,397 |
-| 2026-10-15 16:47:31 | [Scott Holmes (actor)](https://en.wikipedia.org/wiki/Scott_Holmes_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,404 |
-| 2026-10-15 16:50:29 | [EV11 East Europe Route](https://en.wikipedia.org/wiki/EV11_East_Europe_Route) | [KrzysztofPoplawski](https://en.wikipedia.org/wiki/User:KrzysztofPoplawski) | 40,420 |
-| 2026-10-15 16:51:51 | [Divya Mittal](https://en.wikipedia.org/wiki/Divya_Mittal) | [Dypposent](https://en.wikipedia.org/wiki/User:Dypposent) | 6,791 |
-| 2026-10-15 16:53:17 | [Ciganović](https://en.wikipedia.org/wiki/Ciganovi%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 628 |
-| 2026-10-15 16:55:34 | [George C. Pettie](https://en.wikipedia.org/wiki/George_C._Pettie) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 6,134 |
-| 2026-10-15 16:56:02 | [Iratã Abreu](https://en.wikipedia.org/wiki/Irat%C3%A3_Abreu) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,105 |
-| 2026-10-15 16:57:35 | [Cambodia Indigenous Peoples Democracy Party](https://en.wikipedia.org/wiki/Cambodia_Indigenous_Peoples_Democracy_Party) | [Camsep7](https://en.wikipedia.org/wiki/User:Camsep7) | 3,410 |
-| 2026-10-15 16:58:42 | [East Hale Township, Kansas](https://en.wikipedia.org/wiki/East_Hale_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,045 |
-| 2026-10-15 17:04:11 | [1983–84 Tunisian National Championship](https://en.wikipedia.org/wiki/1983%E2%80%9384_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,936 |
-| 2026-10-15 17:07:05 | [Rhydarwen](https://en.wikipedia.org/wiki/Rhydarwen) | [Kimbarrett92](https://en.wikipedia.org/wiki/User:Kimbarrett92) | 334 |
-| 2026-10-15 17:10:09 | [Kingery Township, Thomas County, Kansas](https://en.wikipedia.org/wiki/Kingery_Township%2C_Thomas_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 4,972 |
-| 2026-10-15 17:10:51 | [Camila Arriagada](https://en.wikipedia.org/wiki/Camila_Arriagada) | [ImSnot](https://en.wikipedia.org/wiki/User:ImSnot) | 6,153 |
-| 2026-10-15 17:11:44 | [Micronations (film)](https://en.wikipedia.org/wiki/Micronations_%28film%29) | [LunaEatsTuna](https://en.wikipedia.org/wiki/User:LunaEatsTuna) | 4,270 |
-| 2026-10-15 17:13:00 | [Werber](https://en.wikipedia.org/wiki/Werber) | [Dart210](https://en.wikipedia.org/wiki/User:Dart210) | 587 |
-| 2026-10-15 17:17:07 | [Dewanoryū Kazuki](https://en.wikipedia.org/wiki/Dewanory%C5%AB_Kazuki) | [OtharLuin](https://en.wikipedia.org/wiki/User:OtharLuin) | 12,126 |
-| 2026-10-15 17:17:08 | [Unity of the Canarian People](https://en.wikipedia.org/wiki/Unity_of_the_Canarian_People) | [Tidjani Saleh](https://en.wikipedia.org/wiki/User:Tidjani_Saleh) | 2,277 |
-| 2026-10-15 17:17:33 | [2026–27 Utah Utes men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Utah_Utes_men%27s_basketball_team) | [Smitty Smitty](https://en.wikipedia.org/wiki/User:Smitty_Smitty) | 8,949 |
+| 2026-10-15 17:23:12 | [1984–85 Tunisian National Championship](https://en.wikipedia.org/wiki/1984%E2%80%9385_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,939 |
+| 2026-10-15 17:23:55 | [James V. Coffey](https://en.wikipedia.org/wiki/James_V._Coffey) | [PequodOnStationAtLZ](https://en.wikipedia.org/wiki/User:PequodOnStationAtLZ) | 10,271 |
+| 2026-10-15 17:25:21 | [Canarian People's Unity](https://en.wikipedia.org/wiki/Canarian_People%27s_Unity) | [Impru20](https://en.wikipedia.org/wiki/User:Impru20) | 2,796 |
+| 2026-10-15 17:25:36 | [Lacey Township, Kansas](https://en.wikipedia.org/wiki/Lacey_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,054 |
+| 2026-10-15 17:27:34 | [West Series races at Mesa Marin](https://en.wikipedia.org/wiki/West_Series_races_at_Mesa_Marin) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 30,586 |
+| 2026-10-15 17:28:36 | [Dahr al-Baydar](https://en.wikipedia.org/wiki/Dahr_al-Baydar) | [Tradedia](https://en.wikipedia.org/wiki/User:Tradedia) | 2,112 |
+| 2026-10-15 17:29:08 | [Jean-Pierre Péroncel-Hugoz](https://en.wikipedia.org/wiki/Jean-Pierre_P%C3%A9roncel-Hugoz) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 4,458 |
+| 2026-10-15 17:29:23 | [Aotizhongxin station (Xi'an)](https://en.wikipedia.org/wiki/Aotizhongxin_station_%28Xi%27an%29) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 4,290 |
+| 2026-10-15 17:34:38 | [Roncelli](https://en.wikipedia.org/wiki/Roncelli) | [Ingratis](https://en.wikipedia.org/wiki/User:Ingratis) | 261 |
+| 2026-10-15 17:40:14 | [Hôtel-Dieu de Château-Thierry](https://en.wikipedia.org/wiki/H%C3%B4tel-Dieu_de_Ch%C3%A2teau-Thierry) | [Amelie75007a](https://en.wikipedia.org/wiki/User:Amelie75007a) | 1,667 |
+| 2026-10-15 17:43:48 | [Bella Carmelo](https://en.wikipedia.org/wiki/Bella_Carmelo) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,033 |
+| 2026-10-15 17:44:06 | [Citylights (bulding)](https://en.wikipedia.org/wiki/Citylights_%28bulding%29) | [Yedaman54](https://en.wikipedia.org/wiki/User:Yedaman54) | 17,144 |
+| 2026-10-15 17:45:17 | [1985–86 Tunisian National Championship](https://en.wikipedia.org/wiki/1985%E2%80%9386_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,277 |
+| 2026-10-15 17:45:33 | [Sacondaga Blockhouse](https://en.wikipedia.org/wiki/Sacondaga_Blockhouse) | [Eclose97](https://en.wikipedia.org/wiki/User:Eclose97) | 5,591 |
+| 2026-10-15 17:46:25 | [Javiera Soto](https://en.wikipedia.org/wiki/Javiera_Soto) | [ImSnot](https://en.wikipedia.org/wiki/User:ImSnot) | 5,782 |
+| 2026-10-15 17:50:40 | [Battle of Jilli](https://en.wikipedia.org/wiki/Battle_of_Jilli) | [Jebiguess](https://en.wikipedia.org/wiki/User:Jebiguess) | 6,934 |
+| 2026-10-15 17:50:41 | [2026 Mallorca Women's Championships – Doubles](https://en.wikipedia.org/wiki/2026_Mallorca_Women%27s_Championships_%E2%80%93_Doubles) | [WildCherry06](https://en.wikipedia.org/wiki/User:WildCherry06) | 3,826 |
+| 2026-10-15 17:55:17 | [Leões/Lions Awards](https://en.wikipedia.org/wiki/Le%C3%B5es/Lions_Awards) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 9,340 |
+| 2026-10-15 17:56:09 | [Panton Square](https://en.wikipedia.org/wiki/Panton_Square) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 4,043 |
+| 2026-10-15 17:57:21 | [Anami Schrijvers](https://en.wikipedia.org/wiki/Anami_Schrijvers) | [BlueTigerBlue00](https://en.wikipedia.org/wiki/User:BlueTigerBlue00) | 6,333 |
+| 2026-10-15 17:57:27 | [1986–87 Tunisian National Championship](https://en.wikipedia.org/wiki/1986%E2%80%9387_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 4,911 |
+| 2026-10-15 18:00:24 | [Adrián Alcaraz](https://en.wikipedia.org/wiki/Adri%C3%A1n_Alcaraz) | [Ligaventura95](https://en.wikipedia.org/wiki/User:Ligaventura95) | 7,855 |
+| 2026-10-15 18:01:38 | [Airport (T5) station](https://en.wikipedia.org/wiki/Airport_%28T5%29_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 3,987 |
+| 2026-10-15 18:05:21 | [2026 WTT Series](https://en.wikipedia.org/wiki/2026_WTT_Series) | [Jctc7714](https://en.wikipedia.org/wiki/User:Jctc7714) | 1,346 |
+| 2026-10-15 18:07:03 | [Elsa Arnold](https://en.wikipedia.org/wiki/Elsa_Arnold) | [StructuredFlorescence](https://en.wikipedia.org/wiki/User:StructuredFlorescence) | 3,181 |
+| 2026-10-15 18:09:09 | [Menlo Township, Thomas County, Kansas](https://en.wikipedia.org/wiki/Menlo_Township%2C_Thomas_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,031 |
+| 2026-10-15 18:09:59 | [Reynolds-Davis Grocery Company](https://en.wikipedia.org/wiki/Reynolds-Davis_Grocery_Company) | [Hope4movies](https://en.wikipedia.org/wiki/User:Hope4movies) | 3,857 |
+| 2026-10-15 18:12:24 | [1987–88 Tunisian National Championship](https://en.wikipedia.org/wiki/1987%E2%80%9388_Tunisian_National_Championship) | [Elly mino2](https://en.wikipedia.org/wiki/User:Elly_mino2) | 5,123 |
+| 2026-10-15 18:13:45 | [Barbados at the 2027 Pan American Games](https://en.wikipedia.org/wiki/Barbados_at_the_2027_Pan_American_Games) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 2,710 |
+| 2026-10-15 18:15:06 | [Stanley Willmott](https://en.wikipedia.org/wiki/Stanley_Willmott) | [ShadowBallX](https://en.wikipedia.org/wiki/User:ShadowBallX) | 2,991 |
+| 2026-10-15 18:17:24 | [Trance Line](https://en.wikipedia.org/wiki/Trance_Line) | [LVRof90sHouse](https://en.wikipedia.org/wiki/User:LVRof90sHouse) | 4,474 |
+| 2026-10-15 18:18:34 | [Rosa von Roeder Kleberg](https://en.wikipedia.org/wiki/Rosa_von_Roeder_Kleberg) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 4,998 |
+| 2026-10-15 18:19:03 | [Fritziana ulei](https://en.wikipedia.org/wiki/Fritziana_ulei) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 3,690 |
+| 2026-10-15 18:19:10 | [Jellis Fonda](https://en.wikipedia.org/wiki/Jellis_Fonda) | [Eclose97](https://en.wikipedia.org/wiki/User:Eclose97) | 1,428 |
+| 2026-10-15 18:19:18 | [Foreground interest](https://en.wikipedia.org/wiki/Foreground_interest) | [MFG471](https://en.wikipedia.org/wiki/User:MFG471) | 549 |
