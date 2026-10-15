@@ -13,54 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-15 14:20 UTC](data/en/new-articles-2026-10-15T14-20-12Z.csv) | 22 |
-| Japanese | `ja` | [2026-10-15 14:20 UTC](data/ja/new-articles-2026-10-15T14-20-12Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-15 14:20 UTC](data/zh/new-articles-2026-10-15T14-20-12Z.csv) | 7 |
-| French | `fr` | [2026-10-15 14:20 UTC](data/fr/new-articles-2026-10-15T14-20-12Z.csv) | 16 |
-| German | `de` | [2026-10-15 14:20 UTC](data/de/new-articles-2026-10-15T14-20-12Z.csv) | 10 |
-| Russian | `ru` | [2026-10-15 14:20 UTC](data/ru/new-articles-2026-10-15T14-20-12Z.csv) | 42 |
-| Spanish | `es` | [2026-10-15 14:20 UTC](data/es/new-articles-2026-10-15T14-20-12Z.csv) | 44 |
-| Italian | `it` | [2026-10-15 14:20 UTC](data/it/new-articles-2026-10-15T14-20-12Z.csv) | 10 |
-| Portuguese | `pt` | [2026-10-15 14:20 UTC](data/pt/new-articles-2026-10-15T14-20-12Z.csv) | 6 |
-| Polish | `pl` | [2026-10-15 14:20 UTC](data/pl/new-articles-2026-10-15T14-20-12Z.csv) | 9 |
-| Arabic | `ar` | [2026-10-15 14:20 UTC](data/ar/new-articles-2026-10-15T14-20-12Z.csv) | 3 |
-| Persian | `fa` | [2026-10-15 14:20 UTC](data/fa/new-articles-2026-10-15T14-20-12Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-15 14:20 UTC](data/tr/new-articles-2026-10-15T14-20-12Z.csv) | 8 |
+| English | `en` | [2026-10-15 15:19 UTC](data/en/new-articles-2026-10-15T15-19-10Z.csv) | 19 |
+| Japanese | `ja` | [2026-10-15 15:19 UTC](data/ja/new-articles-2026-10-15T15-19-10Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-15 15:19 UTC](data/zh/new-articles-2026-10-15T15-19-10Z.csv) | 3 |
+| French | `fr` | [2026-10-15 15:19 UTC](data/fr/new-articles-2026-10-15T15-19-10Z.csv) | 11 |
+| German | `de` | [2026-10-15 15:19 UTC](data/de/new-articles-2026-10-15T15-19-10Z.csv) | 10 |
+| Russian | `ru` | [2026-10-15 15:19 UTC](data/ru/new-articles-2026-10-15T15-19-10Z.csv) | 8 |
+| Spanish | `es` | [2026-10-15 15:19 UTC](data/es/new-articles-2026-10-15T15-19-10Z.csv) | 7 |
+| Italian | `it` | [2026-10-15 15:19 UTC](data/it/new-articles-2026-10-15T15-19-10Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-15 15:19 UTC](data/pt/new-articles-2026-10-15T15-19-10Z.csv) | 9 |
+| Polish | `pl` | [2026-10-15 15:19 UTC](data/pl/new-articles-2026-10-15T15-19-10Z.csv) | 10 |
+| Arabic | `ar` | [2026-10-15 15:19 UTC](data/ar/new-articles-2026-10-15T15-19-10Z.csv) | 12 |
+| Persian | `fa` | [2026-10-15 15:19 UTC](data/fa/new-articles-2026-10-15T15-19-10Z.csv) | 10 |
+| Turkish | `tr` | [2026-10-15 15:19 UTC](data/tr/new-articles-2026-10-15T15-19-10Z.csv) | 9 |
 | Hebrew | `he` | [2026-10-15 13:22 UTC](data/he/new-articles-2026-10-15T13-22-53Z.csv) | 6 |
-| Swedish | `sv` | [2026-10-15 14:20 UTC](data/sv/new-articles-2026-10-15T14-20-12Z.csv) | 5 |
-| Dutch | `nl` | [2026-10-15 14:20 UTC](data/nl/new-articles-2026-10-15T14-20-12Z.csv) | 1 |
-| Korean | `ko` | [2026-10-15 14:20 UTC](data/ko/new-articles-2026-10-15T14-20-12Z.csv) | 6 |
-| Indonesian | `id` | [2026-10-15 14:20 UTC](data/id/new-articles-2026-10-15T14-20-12Z.csv) | 12 |
-| Ukrainian | `uk` | [2026-10-15 14:20 UTC](data/uk/new-articles-2026-10-15T14-20-12Z.csv) | 11 |
-| Vietnamese | `vi` | [2026-10-15 14:20 UTC](data/vi/new-articles-2026-10-15T14-20-12Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-15 15:19 UTC](data/sv/new-articles-2026-10-15T15-19-10Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-15 15:19 UTC](data/nl/new-articles-2026-10-15T15-19-10Z.csv) | 3 |
+| Korean | `ko` | [2026-10-15 15:19 UTC](data/ko/new-articles-2026-10-15T15-19-10Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-15 15:19 UTC](data/id/new-articles-2026-10-15T15-19-10Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-10-15 15:19 UTC](data/uk/new-articles-2026-10-15T15-19-10Z.csv) | 10 |
+| Vietnamese | `vi` | [2026-10-15 15:19 UTC](data/vi/new-articles-2026-10-15T15-19-10Z.csv) | 2 |
 
-## English (en) — 2026-10-15 14:20 UTC
+## English (en) — 2026-10-15 15:19 UTC
 
-New articles created between 2026-10-15 13:22 UTC and 2026-10-15 14:20 UTC.
+New articles created between 2026-10-15 14:20 UTC and 2026-10-15 15:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-15T14-20-12Z.csv)
+[Full CSV](data/en/new-articles-2026-10-15T15-19-10Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-15 13:23:58 | [2026–27 FAW Women's Cup](https://en.wikipedia.org/wiki/2026%E2%80%9327_FAW_Women%27s_Cup) | [Gargaj](https://en.wikipedia.org/wiki/User:Gargaj) | 15,522 |
-| 2026-10-15 13:24:46 | [Cephalocyclus potosinus](https://en.wikipedia.org/wiki/Cephalocyclus_potosinus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,317 |
-| 2026-10-15 13:25:46 | [The Piper's Warning to His Master](https://en.wikipedia.org/wiki/The_Piper%27s_Warning_to_His_Master) | [Panyd](https://en.wikipedia.org/wiki/User:Panyd) | 2,658 |
-| 2026-10-15 13:26:21 | [Emorimor of Teso](https://en.wikipedia.org/wiki/Emorimor_of_Teso) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 5,103 |
-| 2026-10-15 13:28:05 | [Cephalocyclus pullatus](https://en.wikipedia.org/wiki/Cephalocyclus_pullatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,196 |
-| 2026-10-15 13:30:43 | [Cephalocyclus puncticeps](https://en.wikipedia.org/wiki/Cephalocyclus_puncticeps) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,104 |
-| 2026-10-15 13:31:10 | [Franz Martin Kuen](https://en.wikipedia.org/wiki/Franz_Martin_Kuen) | [MisterCake](https://en.wikipedia.org/wiki/User:MisterCake) | 415 |
-| 2026-10-15 13:31:39 | [Null Meta](https://en.wikipedia.org/wiki/Null_Meta) | [Narutolovehinata5](https://en.wikipedia.org/wiki/User:Narutolovehinata5) | 386 |
-| 2026-10-15 13:33:27 | [Cephalocyclus rockefelleri](https://en.wikipedia.org/wiki/Cephalocyclus_rockefelleri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,128 |
-| 2026-10-15 13:36:07 | [Cephalocyclus stebnickae](https://en.wikipedia.org/wiki/Cephalocyclus_stebnickae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,055 |
-| 2026-10-15 13:38:13 | [Cephalocyclus villosipes](https://en.wikipedia.org/wiki/Cephalocyclus_villosipes) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,002 |
-| 2026-10-15 13:44:07 | [2026 Australian Short Course Swimming Championships](https://en.wikipedia.org/wiki/2026_Australian_Short_Course_Swimming_Championships) | [Ianblair23](https://en.wikipedia.org/wiki/User:Ianblair23) | 89,650 |
-| 2026-10-15 13:54:12 | [Rita Nasirumbi](https://en.wikipedia.org/wiki/Rita_Nasirumbi) | [SiniyaEdita](https://en.wikipedia.org/wiki/User:SiniyaEdita) | 4,057 |
-| 2026-10-15 13:58:14 | [Masuma Dam, Hwange](https://en.wikipedia.org/wiki/Masuma_Dam%2C_Hwange) | [Babakathy](https://en.wikipedia.org/wiki/User:Babakathy) | 1,099 |
-| 2026-10-15 14:00:44 | [Theo Wesselo](https://en.wikipedia.org/wiki/Theo_Wesselo) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 2,978 |
-| 2026-10-15 14:01:44 | [European Forensic Institute](https://en.wikipedia.org/wiki/European_Forensic_Institute) | [Info-fem](https://en.wikipedia.org/wiki/User:Info-fem) | 1,670 |
-| 2026-10-15 14:03:19 | [Mamadou Koné (footballer, born 2006)](https://en.wikipedia.org/wiki/Mamadou_Kon%C3%A9_%28footballer%2C_born_2006%29) | [Fan2football](https://en.wikipedia.org/wiki/User:Fan2football) | 5,394 |
-| 2026-10-15 14:09:16 | [Natália do Júnior Garimpeiro](https://en.wikipedia.org/wiki/Nat%C3%A1lia_do_J%C3%BAnior_Garimpeiro) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,295 |
-| 2026-10-15 14:11:13 | [British Ceramics Biennial](https://en.wikipedia.org/wiki/British_Ceramics_Biennial) | [Cbb1](https://en.wikipedia.org/wiki/User:Cbb1) | 1,759 |
-| 2026-10-15 14:11:30 | [David Polanco](https://en.wikipedia.org/wiki/David_Polanco) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 2,301 |
-| 2026-10-15 14:14:50 | [Ringomusume](https://en.wikipedia.org/wiki/Ringomusume) | [EvilInnie](https://en.wikipedia.org/wiki/User:EvilInnie) | 5,720 |
-| 2026-10-15 14:17:32 | [Cephalocyclus pseudofuliginosus](https://en.wikipedia.org/wiki/Cephalocyclus_pseudofuliginosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,253 |
+| 2026-10-15 14:22:55 | [Guarducci](https://en.wikipedia.org/wiki/Guarducci) | [Ingratis](https://en.wikipedia.org/wiki/User:Ingratis) | 476 |
+| 2026-10-15 14:23:44 | [Cephalocyclus moroni](https://en.wikipedia.org/wiki/Cephalocyclus_moroni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,014 |
+| 2026-10-15 14:27:39 | [Acanthocalycium keuhhasii](https://en.wikipedia.org/wiki/Acanthocalycium_keuhhasii) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 5,704 |
+| 2026-10-15 14:28:29 | [Cephalocyclus majomaensis](https://en.wikipedia.org/wiki/Cephalocyclus_majomaensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,043 |
+| 2026-10-15 14:29:16 | [Guo Xin](https://en.wikipedia.org/wiki/Guo_Xin) | [EtVVV](https://en.wikipedia.org/wiki/User:EtVVV) | 6,084 |
+| 2026-10-15 14:31:28 | [Two Little Pups](https://en.wikipedia.org/wiki/Two_Little_Pups) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,900 |
+| 2026-10-15 14:31:59 | [Oscarinus cabreroi](https://en.wikipedia.org/wiki/Oscarinus_cabreroi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,255 |
+| 2026-10-15 14:34:28 | [Oleksandr Shumbarets](https://en.wikipedia.org/wiki/Oleksandr_Shumbarets) | [Oberhof](https://en.wikipedia.org/wiki/User:Oberhof) | 5,410 |
+| 2026-10-15 14:40:06 | [Shiv Raj Singh (entomologist)](https://en.wikipedia.org/wiki/Shiv_Raj_Singh_%28entomologist%29) | [Jaipur.historian](https://en.wikipedia.org/wiki/User:Jaipur.historian) | 9,784 |
+| 2026-10-15 14:45:05 | [Squash at the 2027 Pan American Games](https://en.wikipedia.org/wiki/Squash_at_the_2027_Pan_American_Games) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 3,821 |
+| 2026-10-15 14:48:19 | [Administrative tribunals of Malta](https://en.wikipedia.org/wiki/Administrative_tribunals_of_Malta) | [Dans](https://en.wikipedia.org/wiki/User:Dans) | 7,843 |
+| 2026-10-15 14:50:53 | [Farman Hasanov](https://en.wikipedia.org/wiki/Farman_Hasanov) | [Moneyonlyboy](https://en.wikipedia.org/wiki/User:Moneyonlyboy) | 5,763 |
+| 2026-10-15 14:53:03 | [Philadelphia Bush](https://en.wikipedia.org/wiki/Philadelphia_Bush) | [Eclose97](https://en.wikipedia.org/wiki/User:Eclose97) | 4,420 |
+| 2026-10-15 14:55:05 | [Parastichopus](https://en.wikipedia.org/wiki/Parastichopus) | [Micromesistius](https://en.wikipedia.org/wiki/User:Micromesistius) | 2,246 |
+| 2026-10-15 15:00:11 | [Satoko Always](https://en.wikipedia.org/wiki/Satoko_Always) | [Roniius](https://en.wikipedia.org/wiki/User:Roniius) | 15,529 |
+| 2026-10-15 15:06:55 | [2017 in Oregon](https://en.wikipedia.org/wiki/2017_in_Oregon) | [Doomhope](https://en.wikipedia.org/wiki/User:Doomhope) | 1,783 |
+| 2026-10-15 15:15:52 | [Josh Hart (disambiguation)](https://en.wikipedia.org/wiki/Josh_Hart_%28disambiguation%29) | [Hason-LEK-SIN](https://en.wikipedia.org/wiki/User:Hason-LEK-SIN) | 141 |
+| 2026-10-15 15:17:32 | [Be'er (Grape variety)](https://en.wikipedia.org/wiki/Be%27er_%28Grape_variety%29) | [DoctorLeaf](https://en.wikipedia.org/wiki/User:DoctorLeaf) | 27,799 |
+| 2026-10-15 15:18:54 | [2013–14 FK Dukla Banská Bystrica season](https://en.wikipedia.org/wiki/2013%E2%80%9314_FK_Dukla_Bansk%C3%A1_Bystrica_season) | [Rakeck](https://en.wikipedia.org/wiki/User:Rakeck) | 2,296 |
