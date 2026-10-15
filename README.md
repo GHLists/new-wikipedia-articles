@@ -13,55 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-15 07:19 UTC](data/en/new-articles-2026-10-15T07-19-57Z.csv) | 23 |
-| Japanese | `ja` | [2026-10-15 07:19 UTC](data/ja/new-articles-2026-10-15T07-19-57Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-15 07:19 UTC](data/zh/new-articles-2026-10-15T07-19-57Z.csv) | 10 |
-| French | `fr` | [2026-10-15 07:19 UTC](data/fr/new-articles-2026-10-15T07-19-57Z.csv) | 6 |
-| German | `de` | [2026-10-15 07:19 UTC](data/de/new-articles-2026-10-15T07-19-57Z.csv) | 9 |
-| Russian | `ru` | [2026-10-15 07:19 UTC](data/ru/new-articles-2026-10-15T07-19-57Z.csv) | 6 |
-| Spanish | `es` | [2026-10-15 07:19 UTC](data/es/new-articles-2026-10-15T07-19-57Z.csv) | 4 |
-| Italian | `it` | [2026-10-15 07:19 UTC](data/it/new-articles-2026-10-15T07-19-57Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-15 06:19 UTC](data/pt/new-articles-2026-10-15T06-19-08Z.csv) | 4 |
-| Polish | `pl` | [2026-10-15 07:19 UTC](data/pl/new-articles-2026-10-15T07-19-57Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-15 07:19 UTC](data/ar/new-articles-2026-10-15T07-19-57Z.csv) | 5 |
-| Persian | `fa` | [2026-10-15 07:19 UTC](data/fa/new-articles-2026-10-15T07-19-57Z.csv) | 4 |
-| Turkish | `tr` | [2026-10-15 07:19 UTC](data/tr/new-articles-2026-10-15T07-19-57Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-15 07:19 UTC](data/he/new-articles-2026-10-15T07-19-57Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-15 07:19 UTC](data/sv/new-articles-2026-10-15T07-19-57Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-15 07:19 UTC](data/nl/new-articles-2026-10-15T07-19-57Z.csv) | 2 |
-| Korean | `ko` | [2026-10-15 07:19 UTC](data/ko/new-articles-2026-10-15T07-19-57Z.csv) | 5 |
-| Indonesian | `id` | [2026-10-15 07:19 UTC](data/id/new-articles-2026-10-15T07-19-57Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-10-15 07:19 UTC](data/uk/new-articles-2026-10-15T07-19-57Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-10-15 07:19 UTC](data/vi/new-articles-2026-10-15T07-19-57Z.csv) | 1 |
+| English | `en` | [2026-10-15 08:19 UTC](data/en/new-articles-2026-10-15T08-19-35Z.csv) | 22 |
+| Japanese | `ja` | [2026-10-15 08:19 UTC](data/ja/new-articles-2026-10-15T08-19-35Z.csv) | 7 |
+| Chinese | `zh` | [2026-10-15 08:19 UTC](data/zh/new-articles-2026-10-15T08-19-35Z.csv) | 5 |
+| French | `fr` | [2026-10-15 08:19 UTC](data/fr/new-articles-2026-10-15T08-19-35Z.csv) | 4 |
+| German | `de` | [2026-10-15 08:19 UTC](data/de/new-articles-2026-10-15T08-19-35Z.csv) | 14 |
+| Russian | `ru` | [2026-10-15 08:19 UTC](data/ru/new-articles-2026-10-15T08-19-35Z.csv) | 11 |
+| Spanish | `es` | [2026-10-15 08:19 UTC](data/es/new-articles-2026-10-15T08-19-35Z.csv) | 2 |
+| Italian | `it` | [2026-10-15 08:19 UTC](data/it/new-articles-2026-10-15T08-19-35Z.csv) | 6 |
+| Portuguese | `pt` | [2026-10-15 08:19 UTC](data/pt/new-articles-2026-10-15T08-19-35Z.csv) | 2 |
+| Polish | `pl` | [2026-10-15 08:19 UTC](data/pl/new-articles-2026-10-15T08-19-35Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-15 08:19 UTC](data/ar/new-articles-2026-10-15T08-19-35Z.csv) | 3 |
+| Persian | `fa` | [2026-10-15 08:19 UTC](data/fa/new-articles-2026-10-15T08-19-35Z.csv) | 12 |
+| Turkish | `tr` | [2026-10-15 08:19 UTC](data/tr/new-articles-2026-10-15T08-19-35Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-15 08:19 UTC](data/he/new-articles-2026-10-15T08-19-35Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-15 08:19 UTC](data/sv/new-articles-2026-10-15T08-19-35Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-15 08:19 UTC](data/nl/new-articles-2026-10-15T08-19-35Z.csv) | 3 |
+| Korean | `ko` | [2026-10-15 08:19 UTC](data/ko/new-articles-2026-10-15T08-19-35Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-15 08:19 UTC](data/id/new-articles-2026-10-15T08-19-35Z.csv) | 15 |
+| Ukrainian | `uk` | [2026-10-15 08:19 UTC](data/uk/new-articles-2026-10-15T08-19-35Z.csv) | 11 |
+| Vietnamese | `vi` | [2026-10-15 08:19 UTC](data/vi/new-articles-2026-10-15T08-19-35Z.csv) | 2 |
 
-## English (en) — 2026-10-15 07:19 UTC
+## English (en) — 2026-10-15 08:19 UTC
 
-New articles created between 2026-10-15 06:19 UTC and 2026-10-15 07:19 UTC.
+New articles created between 2026-10-15 07:19 UTC and 2026-10-15 08:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-15T07-19-57Z.csv)
+[Full CSV](data/en/new-articles-2026-10-15T08-19-35Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-15 06:25:31 | [Zvobgo](https://en.wikipedia.org/wiki/Zvobgo) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 310 |
-| 2026-10-15 06:31:20 | [Tshakabika Hot Springs](https://en.wikipedia.org/wiki/Tshakabika_Hot_Springs) | [Babakathy](https://en.wikipedia.org/wiki/User:Babakathy) | 552 |
-| 2026-10-15 06:33:54 | [Masaiti](https://en.wikipedia.org/wiki/Masaiti) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 257 |
-| 2026-10-15 06:34:52 | [Luo Xuehuang](https://en.wikipedia.org/wiki/Luo_Xuehuang) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 5,340 |
-| 2026-10-15 06:36:01 | [List of presidential trips made by George H. W. Bush (1992–93)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_George_H._W._Bush_%281992%E2%80%9393%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 50,173 |
-| 2026-10-15 06:38:07 | [Crayola Make a Masterpiece](https://en.wikipedia.org/wiki/Crayola_Make_a_Masterpiece) | [Timur9008](https://en.wikipedia.org/wiki/User:Timur9008) | 3,022 |
-| 2026-10-15 06:38:55 | [Arubi](https://en.wikipedia.org/wiki/Arubi) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 204 |
-| 2026-10-15 06:43:38 | [Lebbeus (disambiguation)](https://en.wikipedia.org/wiki/Lebbeus_%28disambiguation%29) | [1brianm7](https://en.wikipedia.org/wiki/User:1brianm7) | 959 |
-| 2026-10-15 06:45:05 | [Chafa (surname)](https://en.wikipedia.org/wiki/Chafa_%28surname%29) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 290 |
-| 2026-10-15 06:46:56 | [Zevely](https://en.wikipedia.org/wiki/Zevely) | [1brianm7](https://en.wikipedia.org/wiki/User:1brianm7) | 320 |
-| 2026-10-15 06:48:24 | [Chidzambwa](https://en.wikipedia.org/wiki/Chidzambwa) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 268 |
-| 2026-10-15 06:50:29 | [Chihuri](https://en.wikipedia.org/wiki/Chihuri) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 323 |
-| 2026-10-15 06:51:59 | [Chimedza](https://en.wikipedia.org/wiki/Chimedza) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 311 |
-| 2026-10-15 06:55:05 | [Chinyama](https://en.wikipedia.org/wiki/Chinyama) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 303 |
-| 2026-10-15 06:56:12 | [Chinyengetere](https://en.wikipedia.org/wiki/Chinyengetere) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 248 |
-| 2026-10-15 06:59:38 | [Gwaze](https://en.wikipedia.org/wiki/Gwaze) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 280 |
-| 2026-10-15 07:05:48 | [Lunga (surname)](https://en.wikipedia.org/wiki/Lunga_%28surname%29) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 285 |
-| 2026-10-15 07:10:09 | [Mambare](https://en.wikipedia.org/wiki/Mambare) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 166 |
-| 2026-10-15 07:14:27 | [David Diga Hernandez](https://en.wikipedia.org/wiki/David_Diga_Hernandez) | [Aimtoaddvalue](https://en.wikipedia.org/wiki/User:Aimtoaddvalue) | 1,596 |
-| 2026-10-15 07:15:00 | [Chen Kordova](https://en.wikipedia.org/wiki/Chen_Kordova) | [Dominacorta](https://en.wikipedia.org/wiki/User:Dominacorta) | 2,919 |
-| 2026-10-15 07:15:21 | [2027 NASCAR Whelen Modified Tour](https://en.wikipedia.org/wiki/2027_NASCAR_Whelen_Modified_Tour) | [YoDragster007](https://en.wikipedia.org/wiki/User:YoDragster007) | 1,428 |
-| 2026-10-15 07:15:37 | [Justin McKenzie Smith](https://en.wikipedia.org/wiki/Justin_McKenzie_Smith) | [JM04093](https://en.wikipedia.org/wiki/User:JM04093) | 1,143 |
-| 2026-10-15 07:16:42 | [Maphosa](https://en.wikipedia.org/wiki/Maphosa) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 291 |
+| 2026-10-15 07:20:09 | [Yuezhuornis](https://en.wikipedia.org/wiki/Yuezhuornis) | [SlvrHwk](https://en.wikipedia.org/wiki/User:SlvrHwk) | 8,373 |
+| 2026-10-15 07:21:30 | [Mavunga](https://en.wikipedia.org/wiki/Mavunga) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 379 |
+| 2026-10-15 07:23:04 | [Lamont Harris Jr.](https://en.wikipedia.org/wiki/Lamont_Harris_Jr.) | [AceVolumes](https://en.wikipedia.org/wiki/User:AceVolumes) | 5,767 |
+| 2026-10-15 07:24:40 | [Mbeba](https://en.wikipedia.org/wiki/Mbeba) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 300 |
+| 2026-10-15 07:26:34 | [Mguni](https://en.wikipedia.org/wiki/Mguni) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 229 |
+| 2026-10-15 07:26:48 | [2026 Albanian student riots](https://en.wikipedia.org/wiki/2026_Albanian_student_riots) | [Lightnightx3x](https://en.wikipedia.org/wiki/User:Lightnightx3x) | 3,198 |
+| 2026-10-15 07:30:16 | [Mhlanga](https://en.wikipedia.org/wiki/Mhlanga) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 478 |
+| 2026-10-15 07:33:13 | [Mudehwe](https://en.wikipedia.org/wiki/Mudehwe) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 251 |
+| 2026-10-15 07:34:28 | [Mugeyi](https://en.wikipedia.org/wiki/Mugeyi) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 226 |
+| 2026-10-15 07:37:14 | [Mutizwa](https://en.wikipedia.org/wiki/Mutizwa) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 244 |
+| 2026-10-15 07:41:58 | [Ngodzo](https://en.wikipedia.org/wiki/Ngodzo) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 229 |
+| 2026-10-15 07:43:44 | [Shereni](https://en.wikipedia.org/wiki/Shereni) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 230 |
+| 2026-10-15 07:46:27 | [Sadomba](https://en.wikipedia.org/wiki/Sadomba) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 227 |
+| 2026-10-15 07:49:37 | [Tafirenyika](https://en.wikipedia.org/wiki/Tafirenyika) | [微肿头龙](https://en.wikipedia.org/wiki/User:%E5%BE%AE%E8%82%BF%E5%A4%B4%E9%BE%99) | 251 |
+| 2026-10-15 07:51:05 | [Master of the Reichenau School](https://en.wikipedia.org/wiki/Master_of_the_Reichenau_School) | [MisterCake](https://en.wikipedia.org/wiki/User:MisterCake) | 658 |
+| 2026-10-15 07:57:25 | [Shakedown (TV series)](https://en.wikipedia.org/wiki/Shakedown_%28TV_series%29) | [HungryReptile](https://en.wikipedia.org/wiki/User:HungryReptile) | 4,011 |
+| 2026-10-15 07:57:46 | [Results of the 2019 Philippine House of Representatives elections by congressional district](https://en.wikipedia.org/wiki/Results_of_the_2019_Philippine_House_of_Representatives_elections_by_congressional_district) | [Don Ilagan24](https://en.wikipedia.org/wiki/User:Don_Ilagan24) | 101,230 |
+| 2026-10-15 08:00:40 | [2026–27 Weber State Wildcats women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Weber_State_Wildcats_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 27,568 |
+| 2026-10-15 08:03:20 | [Garifa High School](https://en.wikipedia.org/wiki/Garifa_High_School) | [Gobindo Sarkar](https://en.wikipedia.org/wiki/User:Gobindo_Sarkar) | 8,973 |
+| 2026-10-15 08:03:47 | [Lade baronets of Warbleton (1st creation, 1731)](https://en.wikipedia.org/wiki/Lade_baronets_of_Warbleton_%281st_creation%2C_1731%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 2,263 |
+| 2026-10-15 08:04:21 | [2025–26 FAM Regional Leagues](https://en.wikipedia.org/wiki/2025%E2%80%9326_FAM_Regional_Leagues) | [ZZ47](https://en.wikipedia.org/wiki/User:ZZ47) | 5,134 |
+| 2026-10-15 08:16:56 | [Sigrid Westphal-Hellbusch](https://en.wikipedia.org/wiki/Sigrid_Westphal-Hellbusch) | [Sulav567](https://en.wikipedia.org/wiki/User:Sulav567) | 5,464 |
