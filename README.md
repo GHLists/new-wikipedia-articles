@@ -13,51 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-16 16:19 UTC](data/en/new-articles-2026-10-16T16-19-21Z.csv) | 19 |
-| Japanese | `ja` | [2026-10-16 16:19 UTC](data/ja/new-articles-2026-10-16T16-19-21Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-16 16:19 UTC](data/zh/new-articles-2026-10-16T16-19-21Z.csv) | 15 |
-| French | `fr` | [2026-10-16 16:19 UTC](data/fr/new-articles-2026-10-16T16-19-21Z.csv) | 9 |
-| German | `de` | [2026-10-16 16:19 UTC](data/de/new-articles-2026-10-16T16-19-21Z.csv) | 18 |
-| Russian | `ru` | [2026-10-16 16:19 UTC](data/ru/new-articles-2026-10-16T16-19-21Z.csv) | 9 |
-| Spanish | `es` | [2026-10-16 16:19 UTC](data/es/new-articles-2026-10-16T16-19-21Z.csv) | 10 |
-| Italian | `it` | [2026-10-16 16:19 UTC](data/it/new-articles-2026-10-16T16-19-21Z.csv) | 9 |
-| Portuguese | `pt` | [2026-10-16 16:19 UTC](data/pt/new-articles-2026-10-16T16-19-21Z.csv) | 3 |
-| Polish | `pl` | [2026-10-16 16:19 UTC](data/pl/new-articles-2026-10-16T16-19-21Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-16 16:19 UTC](data/ar/new-articles-2026-10-16T16-19-21Z.csv) | 1 |
-| Persian | `fa` | [2026-10-16 16:19 UTC](data/fa/new-articles-2026-10-16T16-19-21Z.csv) | 9 |
-| Turkish | `tr` | [2026-10-16 16:19 UTC](data/tr/new-articles-2026-10-16T16-19-21Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-16 16:19 UTC](data/he/new-articles-2026-10-16T16-19-21Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-16 16:19 UTC](data/sv/new-articles-2026-10-16T16-19-21Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-16 16:19 UTC](data/nl/new-articles-2026-10-16T16-19-21Z.csv) | 6 |
+| English | `en` | [2026-10-16 17:20 UTC](data/en/new-articles-2026-10-16T17-20-40Z.csv) | 18 |
+| Japanese | `ja` | [2026-10-16 17:20 UTC](data/ja/new-articles-2026-10-16T17-20-40Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-16 17:20 UTC](data/zh/new-articles-2026-10-16T17-20-40Z.csv) | 2 |
+| French | `fr` | [2026-10-16 17:20 UTC](data/fr/new-articles-2026-10-16T17-20-40Z.csv) | 12 |
+| German | `de` | [2026-10-16 17:20 UTC](data/de/new-articles-2026-10-16T17-20-40Z.csv) | 14 |
+| Russian | `ru` | [2026-10-16 17:20 UTC](data/ru/new-articles-2026-10-16T17-20-40Z.csv) | 11 |
+| Spanish | `es` | [2026-10-16 17:20 UTC](data/es/new-articles-2026-10-16T17-20-40Z.csv) | 16 |
+| Italian | `it` | [2026-10-16 17:20 UTC](data/it/new-articles-2026-10-16T17-20-40Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-16 17:20 UTC](data/pt/new-articles-2026-10-16T17-20-40Z.csv) | 7 |
+| Polish | `pl` | [2026-10-16 17:20 UTC](data/pl/new-articles-2026-10-16T17-20-40Z.csv) | 9 |
+| Arabic | `ar` | [2026-10-16 17:20 UTC](data/ar/new-articles-2026-10-16T17-20-40Z.csv) | 2 |
+| Persian | `fa` | [2026-10-16 17:20 UTC](data/fa/new-articles-2026-10-16T17-20-40Z.csv) | 10 |
+| Turkish | `tr` | [2026-10-16 17:20 UTC](data/tr/new-articles-2026-10-16T17-20-40Z.csv) | 6 |
+| Hebrew | `he` | [2026-10-16 17:20 UTC](data/he/new-articles-2026-10-16T17-20-40Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-16 17:20 UTC](data/sv/new-articles-2026-10-16T17-20-40Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-16 17:20 UTC](data/nl/new-articles-2026-10-16T17-20-40Z.csv) | 5 |
 | Korean | `ko` | [2026-10-16 15:19 UTC](data/ko/new-articles-2026-10-16T15-19-15Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-16 16:19 UTC](data/id/new-articles-2026-10-16T16-19-21Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-10-16 16:19 UTC](data/uk/new-articles-2026-10-16T16-19-21Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-10-16 16:19 UTC](data/vi/new-articles-2026-10-16T16-19-21Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-16 17:20 UTC](data/id/new-articles-2026-10-16T17-20-40Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-16 17:20 UTC](data/uk/new-articles-2026-10-16T17-20-40Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-16 17:20 UTC](data/vi/new-articles-2026-10-16T17-20-40Z.csv) | 2 |
 
-## English (en) — 2026-10-16 16:19 UTC
+## English (en) — 2026-10-16 17:20 UTC
 
-New articles created between 2026-10-16 15:19 UTC and 2026-10-16 16:19 UTC.
+New articles created between 2026-10-16 16:19 UTC and 2026-10-16 17:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-16T16-19-21Z.csv)
+[Full CSV](data/en/new-articles-2026-10-16T17-20-40Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-16 15:26:10 | [Sierra Maestra (film)](https://en.wikipedia.org/wiki/Sierra_Maestra_%28film%29) | [Cavarrone](https://en.wikipedia.org/wiki/User:Cavarrone) | 3,159 |
-| 2026-10-16 15:30:51 | [Sciota basilaris](https://en.wikipedia.org/wiki/Sciota_basilaris) | [Smithsqrd](https://en.wikipedia.org/wiki/User:Smithsqrd) | 676 |
-| 2026-10-16 15:32:15 | [Thiruvananthapuram District Panchayat](https://en.wikipedia.org/wiki/Thiruvananthapuram_District_Panchayat) | [Asifalinair](https://en.wikipedia.org/wiki/User:Asifalinair) | 3,651 |
-| 2026-10-16 15:40:50 | [The Boke of Nurture](https://en.wikipedia.org/wiki/The_Boke_of_Nurture) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 4,345 |
-| 2026-10-16 15:41:18 | [Gotham Independent Film Awards 2026](https://en.wikipedia.org/wiki/Gotham_Independent_Film_Awards_2026) | [Felida97](https://en.wikipedia.org/wiki/User:Felida97) | 3,400 |
-| 2026-10-16 15:42:43 | [Muthia Datau](https://en.wikipedia.org/wiki/Muthia_Datau) | [Cesare Faragò](https://en.wikipedia.org/wiki/User:Cesare_Farag%C3%B2) | 7,429 |
-| 2026-10-16 15:44:35 | [Hristić](https://en.wikipedia.org/wiki/Hristi%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 440 |
-| 2026-10-16 15:45:57 | [Women in the Orange Order](https://en.wikipedia.org/wiki/Women_in_the_Orange_Order) | [Nabulowa](https://en.wikipedia.org/wiki/User:Nabulowa) | 25,648 |
-| 2026-10-16 15:48:51 | [Elena Alekseevna Tatarinova](https://en.wikipedia.org/wiki/Elena_Alekseevna_Tatarinova) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 868 |
-| 2026-10-16 15:48:54 | [Prep Expert](https://en.wikipedia.org/wiki/Prep_Expert) | [Tidiem](https://en.wikipedia.org/wiki/User:Tidiem) | 4,145 |
-| 2026-10-16 15:55:12 | [Ladovka](https://en.wikipedia.org/wiki/Ladovka) | [Sof1a510](https://en.wikipedia.org/wiki/User:Sof1a510) | 3,528 |
-| 2026-10-16 15:58:08 | [The Grandmother's Birthday](https://en.wikipedia.org/wiki/The_Grandmother%27s_Birthday) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,961 |
-| 2026-10-16 15:58:09 | [Craterocyphus](https://en.wikipedia.org/wiki/Craterocyphus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,375 |
-| 2026-10-16 16:00:58 | [Bodies and Souls (novel)](https://en.wikipedia.org/wiki/Bodies_and_Souls_%28novel%29) | [Uriahheep228](https://en.wikipedia.org/wiki/User:Uriahheep228) | 2,823 |
-| 2026-10-16 16:07:02 | [California-Canadian Bank Building](https://en.wikipedia.org/wiki/California-Canadian_Bank_Building) | [Gb321](https://en.wikipedia.org/wiki/User:Gb321) | 4,232 |
-| 2026-10-16 16:07:19 | [Kollam District Panchayat](https://en.wikipedia.org/wiki/Kollam_District_Panchayat) | [Asifalinair](https://en.wikipedia.org/wiki/User:Asifalinair) | 3,965 |
-| 2026-10-16 16:12:15 | [Hridoy Baliabil](https://en.wikipedia.org/wiki/Hridoy_Baliabil) | [Hridoy864200](https://en.wikipedia.org/wiki/User:Hridoy864200) | 4,667 |
-| 2026-10-16 16:14:03 | [Sergio Meris](https://en.wikipedia.org/wiki/Sergio_Meris) | [Seacactus 13](https://en.wikipedia.org/wiki/User:Seacactus_13) | 2,820 |
-| 2026-10-16 16:14:32 | [Axel Rombaldoni](https://en.wikipedia.org/wiki/Axel_Rombaldoni) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 1,944 |
+| 2026-10-16 16:19:53 | [2026 Almaty Open – Singles](https://en.wikipedia.org/wiki/2026_Almaty_Open_%E2%80%93_Singles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 10,245 |
+| 2026-10-16 16:28:23 | [Carlos Miguel Salgueiro](https://en.wikipedia.org/wiki/Carlos_Miguel_Salgueiro) | [Seacactus 13](https://en.wikipedia.org/wiki/User:Seacactus_13) | 29 |
+| 2026-10-16 16:29:31 | [Soma Anzai](https://en.wikipedia.org/wiki/Soma_Anzai) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,702 |
+| 2026-10-16 16:30:46 | [Volkswagen ID. Aura L5](https://en.wikipedia.org/wiki/Volkswagen_ID._Aura_L5) | [Afacto](https://en.wikipedia.org/wiki/User:Afacto) | 2,878 |
+| 2026-10-16 16:31:31 | [Luisa Beccaria](https://en.wikipedia.org/wiki/Luisa_Beccaria) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 3,350 |
+| 2026-10-16 16:31:50 | [Chham Chhama Chham](https://en.wikipedia.org/wiki/Chham_Chhama_Chham) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,307 |
+| 2026-10-16 16:35:30 | [Collyer Township, Kansas](https://en.wikipedia.org/wiki/Collyer_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,627 |
+| 2026-10-16 16:42:58 | [List of No Hiding Place episodes](https://en.wikipedia.org/wiki/List_of_No_Hiding_Place_episodes) | [LostMedia2005](https://en.wikipedia.org/wiki/User:LostMedia2005) | 6,032 |
+| 2026-10-16 16:45:30 | [2026 European Open – Singles](https://en.wikipedia.org/wiki/2026_European_Open_%E2%80%93_Singles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 10,237 |
+| 2026-10-16 16:47:11 | [Igor Soares](https://en.wikipedia.org/wiki/Igor_Soares) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,196 |
+| 2026-10-16 16:48:09 | [Lee Jin-woo (singer)](https://en.wikipedia.org/wiki/Lee_Jin-woo_%28singer%29) | [Aidillia](https://en.wikipedia.org/wiki/User:Aidillia) | 18,835 |
+| 2026-10-16 16:50:10 | [Corporation tax in Germany](https://en.wikipedia.org/wiki/Corporation_tax_in_Germany) | [SamLaxarox](https://en.wikipedia.org/wiki/User:SamLaxarox) | 1,062 |
+| 2026-10-16 16:59:19 | [Maigret's Little Joke](https://en.wikipedia.org/wiki/Maigret%27s_Little_Joke) | [Kencf0618](https://en.wikipedia.org/wiki/User:Kencf0618) | 1,505 |
+| 2026-10-16 17:00:19 | [Gilfach-y-Berthog](https://en.wikipedia.org/wiki/Gilfach-y-Berthog) | [Kimbarrett92](https://en.wikipedia.org/wiki/User:Kimbarrett92) | 799 |
+| 2026-10-16 17:02:31 | [Ogallah Township, Trego County, Kansas](https://en.wikipedia.org/wiki/Ogallah_Township%2C_Trego_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,903 |
+| 2026-10-16 17:09:02 | [Bhagam Bhag (1956 film)](https://en.wikipedia.org/wiki/Bhagam_Bhag_%281956_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,602 |
+| 2026-10-16 17:10:22 | [Ashkelon Natural Region](https://en.wikipedia.org/wiki/Ashkelon_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 5,210 |
+| 2026-10-16 17:20:15 | [Kisa Yoshioka](https://en.wikipedia.org/wiki/Kisa_Yoshioka) | [Family27390](https://en.wikipedia.org/wiki/User:Family27390) | 2,402 |
