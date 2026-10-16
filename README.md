@@ -13,48 +13,49 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-16 03:19 UTC](data/en/new-articles-2026-10-16T03-19-47Z.csv) | 16 |
-| Japanese | `ja` | [2026-10-16 03:19 UTC](data/ja/new-articles-2026-10-16T03-19-47Z.csv) | 5 |
-| Chinese | `zh` | [2026-10-16 03:19 UTC](data/zh/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
-| French | `fr` | [2026-10-16 03:19 UTC](data/fr/new-articles-2026-10-16T03-19-47Z.csv) | 1 |
+| English | `en` | [2026-10-16 04:19 UTC](data/en/new-articles-2026-10-16T04-19-07Z.csv) | 17 |
+| Japanese | `ja` | [2026-10-16 04:19 UTC](data/ja/new-articles-2026-10-16T04-19-07Z.csv) | 3 |
+| Chinese | `zh` | [2026-10-16 04:19 UTC](data/zh/new-articles-2026-10-16T04-19-07Z.csv) | 9 |
+| French | `fr` | [2026-10-16 04:19 UTC](data/fr/new-articles-2026-10-16T04-19-07Z.csv) | 1 |
 | German | `de` | [2026-10-16 01:19 UTC](data/de/new-articles-2026-10-16T01-19-20Z.csv) | 1 |
-| Russian | `ru` | [2026-10-16 03:19 UTC](data/ru/new-articles-2026-10-16T03-19-47Z.csv) | 9 |
-| Spanish | `es` | [2026-10-16 03:19 UTC](data/es/new-articles-2026-10-16T03-19-47Z.csv) | 8 |
-| Italian | `it` | [2026-10-16 02:20 UTC](data/it/new-articles-2026-10-16T02-20-09Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-16 03:19 UTC](data/pt/new-articles-2026-10-16T03-19-47Z.csv) | 5 |
-| Polish | `pl` | [2026-10-16 01:19 UTC](data/pl/new-articles-2026-10-16T01-19-20Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-16 03:19 UTC](data/ar/new-articles-2026-10-16T03-19-47Z.csv) | 2 |
+| Russian | `ru` | [2026-10-16 04:19 UTC](data/ru/new-articles-2026-10-16T04-19-07Z.csv) | 6 |
+| Spanish | `es` | [2026-10-16 04:19 UTC](data/es/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
+| Italian | `it` | [2026-10-16 04:19 UTC](data/it/new-articles-2026-10-16T04-19-07Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-16 04:19 UTC](data/pt/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
+| Polish | `pl` | [2026-10-16 04:19 UTC](data/pl/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-16 04:19 UTC](data/ar/new-articles-2026-10-16T04-19-07Z.csv) | 1 |
 | Persian | `fa` | [2026-10-16 02:20 UTC](data/fa/new-articles-2026-10-16T02-20-09Z.csv) | 1 |
 | Turkish | `tr` | [2026-10-16 02:20 UTC](data/tr/new-articles-2026-10-16T02-20-09Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-16 03:19 UTC](data/he/new-articles-2026-10-16T03-19-47Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-16 03:19 UTC](data/sv/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
+| Hebrew | `he` | [2026-10-16 04:19 UTC](data/he/new-articles-2026-10-16T04-19-07Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-16 04:19 UTC](data/sv/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
 | Dutch | `nl` | [2026-10-16 03:19 UTC](data/nl/new-articles-2026-10-16T03-19-47Z.csv) | 2 |
-| Korean | `ko` | [2026-10-16 03:19 UTC](data/ko/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-16 03:19 UTC](data/id/new-articles-2026-10-16T03-19-47Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-16 02:20 UTC](data/uk/new-articles-2026-10-16T02-20-09Z.csv) | 2 |
+| Korean | `ko` | [2026-10-16 04:19 UTC](data/ko/new-articles-2026-10-16T04-19-07Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-16 04:19 UTC](data/id/new-articles-2026-10-16T04-19-07Z.csv) | 9 |
+| Ukrainian | `uk` | [2026-10-16 04:19 UTC](data/uk/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-16 03:19 UTC](data/vi/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
 
-## English (en) — 2026-10-16 03:19 UTC
+## English (en) — 2026-10-16 04:19 UTC
 
-New articles created between 2026-10-16 02:20 UTC and 2026-10-16 03:19 UTC.
+New articles created between 2026-10-16 03:19 UTC and 2026-10-16 04:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-16T03-19-47Z.csv)
+[Full CSV](data/en/new-articles-2026-10-16T04-19-07Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-16 02:21:54 | [Tesla Roadster (third generation)](https://en.wikipedia.org/wiki/Tesla_Roadster_%28third_generation%29) | [Alexysun](https://en.wikipedia.org/wiki/User:Alexysun) | 332 |
-| 2026-10-16 02:22:20 | [Hayyim Ben Kiki](https://en.wikipedia.org/wiki/Hayyim_Ben_Kiki) | [إيان](https://en.wikipedia.org/wiki/User:%D8%A5%D9%8A%D8%A7%D9%86) | 3,034 |
-| 2026-10-16 02:29:44 | [List of international prime ministerial trips made by Lê Minh Hưng](https://en.wikipedia.org/wiki/List_of_international_prime_ministerial_trips_made_by_L%C3%AA_Minh_H%C6%B0ng) | [Sdcnjsdhbcsbckhbvkaf](https://en.wikipedia.org/wiki/User:Sdcnjsdhbcsbckhbvkaf) | 4,955 |
-| 2026-10-16 02:30:06 | [2026 Men's Rugby League World Cup Pool A](https://en.wikipedia.org/wiki/2026_Men%27s_Rugby_League_World_Cup_Pool_A) | [Dm2310416](https://en.wikipedia.org/wiki/User:Dm2310416) | 15,408 |
-| 2026-10-16 02:30:09 | [2026 Men's Rugby League World Cup Pools B & C](https://en.wikipedia.org/wiki/2026_Men%27s_Rugby_League_World_Cup_Pools_B_%26_C) | [Dm2310416](https://en.wikipedia.org/wiki/User:Dm2310416) | 23,048 |
-| 2026-10-16 02:36:56 | [2026 European Table Tennis Championships – Women's singles](https://en.wikipedia.org/wiki/2026_European_Table_Tennis_Championships_%E2%80%93_Women%27s_singles) | [Kk1603](https://en.wikipedia.org/wiki/User:Kk1603) | 15,251 |
-| 2026-10-16 02:37:41 | [Palace of the Counts of San Bartolomé de Xala](https://en.wikipedia.org/wiki/Palace_of_the_Counts_of_San_Bartolom%C3%A9_de_Xala) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 6,829 |
-| 2026-10-16 02:39:37 | [Lorenzo Rodríguez](https://en.wikipedia.org/wiki/Lorenzo_Rodr%C3%ADguez) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 7,773 |
-| 2026-10-16 02:47:04 | [Bremer, Washington](https://en.wikipedia.org/wiki/Bremer%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,653 |
-| 2026-10-16 02:52:55 | [Rodrigo Endrio Azevedo Tiago](https://en.wikipedia.org/wiki/Rodrigo_Endrio_Azevedo_Tiago) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 6,342 |
-| 2026-10-16 02:53:38 | [Juan Germán Roscio Municipality](https://en.wikipedia.org/wiki/Juan_Germ%C3%A1n_Roscio_Municipality) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,288 |
-| 2026-10-16 02:59:32 | [Smiley fries](https://en.wikipedia.org/wiki/Smiley_fries) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 3,122 |
-| 2026-10-16 03:00:41 | [Resume (Bruce Cockburn album)](https://en.wikipedia.org/wiki/Resume_%28Bruce_Cockburn_album%29) | [Dobbyelf62](https://en.wikipedia.org/wiki/User:Dobbyelf62) | 7,944 |
-| 2026-10-16 03:06:01 | [2027 Los Angeles Dodgers season](https://en.wikipedia.org/wiki/2027_Los_Angeles_Dodgers_season) | [Spanneraol](https://en.wikipedia.org/wiki/User:Spanneraol) | 3,987 |
-| 2026-10-16 03:06:06 | [El Socorro Municipality](https://en.wikipedia.org/wiki/El_Socorro_Municipality) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,562 |
-| 2026-10-16 03:08:19 | [David E. Smith (physician)](https://en.wikipedia.org/wiki/David_E._Smith_%28physician%29) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 22,823 |
+| 2026-10-16 03:20:02 | [Rodney Muñoz](https://en.wikipedia.org/wiki/Rodney_Mu%C3%B1oz) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,974 |
+| 2026-10-16 03:21:57 | [Coral grouper (disambiguation)](https://en.wikipedia.org/wiki/Coral_grouper_%28disambiguation%29) | [Bloopityboop](https://en.wikipedia.org/wiki/User:Bloopityboop) | 253 |
+| 2026-10-16 03:22:54 | [Women in motorsport](https://en.wikipedia.org/wiki/Women_in_motorsport) | [LoremIpsum423](https://en.wikipedia.org/wiki/User:LoremIpsum423) | 146,414 |
+| 2026-10-16 03:27:48 | [In Mortal Combat with... Sub-Mariner!](https://en.wikipedia.org/wiki/In_Mortal_Combat_with..._Sub-Mariner%21) | [ModlordD](https://en.wikipedia.org/wiki/User:ModlordD) | 10,337 |
+| 2026-10-16 03:30:16 | [Lateran Treaty Day](https://en.wikipedia.org/wiki/Lateran_Treaty_Day) | [DOSA Catholic](https://en.wikipedia.org/wiki/User:DOSA_Catholic) | 2,667 |
+| 2026-10-16 03:34:42 | [Da'Shaun Harrison](https://en.wikipedia.org/wiki/Da%27Shaun_Harrison) | [Burtsbeespeppermint](https://en.wikipedia.org/wiki/User:Burtsbeespeppermint) | 8,701 |
+| 2026-10-16 03:37:59 | [Lambeth Apocalypse](https://en.wikipedia.org/wiki/Lambeth_Apocalypse) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 4,289 |
+| 2026-10-16 03:40:17 | [Hacker Murphy LLP](https://en.wikipedia.org/wiki/Hacker_Murphy_LLP) | [Duncan pinderhughes](https://en.wikipedia.org/wiki/User:Duncan_pinderhughes) | 23,946 |
+| 2026-10-16 03:51:05 | [Don Bragg](https://en.wikipedia.org/wiki/Don_Bragg) | [Theleekycauldron](https://en.wikipedia.org/wiki/User:Theleekycauldron) | 97 |
+| 2026-10-16 04:00:51 | [2026–27 Air Force Falcons men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Air_Force_Falcons_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 28,463 |
+| 2026-10-16 04:02:56 | [Wisconsin's Buffalo–Pepin–Pierce Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Buffalo%E2%80%93Pepin%E2%80%93Pierce_Assembly_district) | [Talthiel](https://en.wikipedia.org/wiki/User:Talthiel) | 3,083 |
+| 2026-10-16 04:03:29 | [Lawrence Rosenberg](https://en.wikipedia.org/wiki/Lawrence_Rosenberg) | [Kingoflettuce](https://en.wikipedia.org/wiki/User:Kingoflettuce) | 3,134 |
+| 2026-10-16 04:08:08 | [Funkhouserella](https://en.wikipedia.org/wiki/Funkhouserella) | [The Grand Delusion](https://en.wikipedia.org/wiki/User:The_Grand_Delusion) | 1,071 |
+| 2026-10-16 04:10:37 | [Lorenzo Salvetti](https://en.wikipedia.org/wiki/Lorenzo_Salvetti) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 13,296 |
+| 2026-10-16 04:11:04 | [Jin Zhiheng](https://en.wikipedia.org/wiki/Jin_Zhiheng) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,476 |
+| 2026-10-16 04:17:17 | [PVF Hưng Yên Stadium](https://en.wikipedia.org/wiki/PVF_H%C6%B0ng_Y%C3%AAn_Stadium) | [Thplam2004](https://en.wikipedia.org/wiki/User:Thplam2004) | 5,242 |
+| 2026-10-16 04:18:53 | [2026 Greater Visakhapatnam Municipal Corporation election](https://en.wikipedia.org/wiki/2026_Greater_Visakhapatnam_Municipal_Corporation_election) | [Independent26](https://en.wikipedia.org/wiki/User:Independent26) | 3,132 |
