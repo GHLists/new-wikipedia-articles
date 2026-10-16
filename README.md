@@ -13,50 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-16 11:19 UTC](data/en/new-articles-2026-10-16T11-19-54Z.csv) | 18 |
-| Japanese | `ja` | [2026-10-16 11:19 UTC](data/ja/new-articles-2026-10-16T11-19-54Z.csv) | 13 |
-| Chinese | `zh` | [2026-10-16 11:19 UTC](data/zh/new-articles-2026-10-16T11-19-54Z.csv) | 3 |
-| French | `fr` | [2026-10-16 11:19 UTC](data/fr/new-articles-2026-10-16T11-19-54Z.csv) | 5 |
-| German | `de` | [2026-10-16 11:19 UTC](data/de/new-articles-2026-10-16T11-19-54Z.csv) | 11 |
-| Russian | `ru` | [2026-10-16 11:19 UTC](data/ru/new-articles-2026-10-16T11-19-54Z.csv) | 24 |
-| Spanish | `es` | [2026-10-16 11:19 UTC](data/es/new-articles-2026-10-16T11-19-54Z.csv) | 3 |
-| Italian | `it` | [2026-10-16 11:19 UTC](data/it/new-articles-2026-10-16T11-19-54Z.csv) | 10 |
-| Portuguese | `pt` | [2026-10-16 11:19 UTC](data/pt/new-articles-2026-10-16T11-19-54Z.csv) | 7 |
-| Polish | `pl` | [2026-10-16 11:19 UTC](data/pl/new-articles-2026-10-16T11-19-54Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-16 11:19 UTC](data/ar/new-articles-2026-10-16T11-19-54Z.csv) | 4 |
-| Persian | `fa` | [2026-10-16 11:19 UTC](data/fa/new-articles-2026-10-16T11-19-54Z.csv) | 30 |
-| Turkish | `tr` | [2026-10-16 11:19 UTC](data/tr/new-articles-2026-10-16T11-19-54Z.csv) | 3 |
-| Hebrew | `he` | [2026-10-16 11:19 UTC](data/he/new-articles-2026-10-16T11-19-54Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-16 11:19 UTC](data/sv/new-articles-2026-10-16T11-19-54Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-16 11:19 UTC](data/nl/new-articles-2026-10-16T11-19-54Z.csv) | 11 |
-| Korean | `ko` | [2026-10-16 11:19 UTC](data/ko/new-articles-2026-10-16T11-19-54Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-16 11:19 UTC](data/id/new-articles-2026-10-16T11-19-54Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-16 11:19 UTC](data/uk/new-articles-2026-10-16T11-19-54Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-10-16 11:19 UTC](data/vi/new-articles-2026-10-16T11-19-54Z.csv) | 4 |
+| English | `en` | [2026-10-16 12:20 UTC](data/en/new-articles-2026-10-16T12-20-30Z.csv) | 21 |
+| Japanese | `ja` | [2026-10-16 12:20 UTC](data/ja/new-articles-2026-10-16T12-20-30Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-16 12:20 UTC](data/zh/new-articles-2026-10-16T12-20-30Z.csv) | 3 |
+| French | `fr` | [2026-10-16 12:20 UTC](data/fr/new-articles-2026-10-16T12-20-30Z.csv) | 6 |
+| German | `de` | [2026-10-16 12:20 UTC](data/de/new-articles-2026-10-16T12-20-30Z.csv) | 13 |
+| Russian | `ru` | [2026-10-16 12:20 UTC](data/ru/new-articles-2026-10-16T12-20-30Z.csv) | 43 |
+| Spanish | `es` | [2026-10-16 12:20 UTC](data/es/new-articles-2026-10-16T12-20-30Z.csv) | 5 |
+| Italian | `it` | [2026-10-16 12:20 UTC](data/it/new-articles-2026-10-16T12-20-30Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-16 12:20 UTC](data/pt/new-articles-2026-10-16T12-20-30Z.csv) | 1 |
+| Polish | `pl` | [2026-10-16 12:20 UTC](data/pl/new-articles-2026-10-16T12-20-30Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-16 12:20 UTC](data/ar/new-articles-2026-10-16T12-20-30Z.csv) | 7 |
+| Persian | `fa` | [2026-10-16 12:20 UTC](data/fa/new-articles-2026-10-16T12-20-30Z.csv) | 9 |
+| Turkish | `tr` | [2026-10-16 12:20 UTC](data/tr/new-articles-2026-10-16T12-20-30Z.csv) | 12 |
+| Hebrew | `he` | [2026-10-16 12:20 UTC](data/he/new-articles-2026-10-16T12-20-30Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-16 12:20 UTC](data/sv/new-articles-2026-10-16T12-20-30Z.csv) | 6 |
+| Dutch | `nl` | [2026-10-16 12:20 UTC](data/nl/new-articles-2026-10-16T12-20-30Z.csv) | 2 |
+| Korean | `ko` | [2026-10-16 12:20 UTC](data/ko/new-articles-2026-10-16T12-20-30Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-16 12:20 UTC](data/id/new-articles-2026-10-16T12-20-30Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-16 12:20 UTC](data/uk/new-articles-2026-10-16T12-20-30Z.csv) | 25 |
+| Vietnamese | `vi` | [2026-10-16 12:20 UTC](data/vi/new-articles-2026-10-16T12-20-30Z.csv) | 1 |
 
-## English (en) — 2026-10-16 11:19 UTC
+## English (en) — 2026-10-16 12:20 UTC
 
-New articles created between 2026-10-16 10:19 UTC and 2026-10-16 11:19 UTC.
+New articles created between 2026-10-16 11:19 UTC and 2026-10-16 12:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-16T11-19-54Z.csv)
+[Full CSV](data/en/new-articles-2026-10-16T12-20-30Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-16 10:23:28 | [Rémi Le Forestier](https://en.wikipedia.org/wiki/R%C3%A9mi_Le_Forestier) | [Amelie75007a](https://en.wikipedia.org/wiki/User:Amelie75007a) | 9,151 |
-| 2026-10-16 10:25:02 | [Geomyphilus](https://en.wikipedia.org/wiki/Geomyphilus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,142 |
-| 2026-10-16 10:25:57 | [The Heirs (1969 film)](https://en.wikipedia.org/wiki/The_Heirs_%281969_film%29) | [Cavarrone](https://en.wikipedia.org/wiki/User:Cavarrone) | 4,825 |
-| 2026-10-16 10:28:10 | [Geomyphilus barrerai](https://en.wikipedia.org/wiki/Geomyphilus_barrerai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,261 |
-| 2026-10-16 10:31:13 | [Geomyphilus coronadoi](https://en.wikipedia.org/wiki/Geomyphilus_coronadoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,166 |
-| 2026-10-16 10:46:39 | [Geomyphilus essigi](https://en.wikipedia.org/wiki/Geomyphilus_essigi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,177 |
-| 2026-10-16 10:50:23 | [Geomyphilus geronimo](https://en.wikipedia.org/wiki/Geomyphilus_geronimo) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,163 |
-| 2026-10-16 10:58:27 | [List of acts of the Parliament of Victoria from 1935](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1935) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 637 |
-| 2026-10-16 10:58:37 | [List of acts of the Parliament of Victoria from 1945](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1945) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 637 |
-| 2026-10-16 10:58:52 | [List of acts of the Parliament of Victoria from 1965](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1965) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 637 |
-| 2026-10-16 10:59:06 | [List of acts of the Parliament of Victoria from 1975](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1975) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 637 |
-| 2026-10-16 11:01:23 | [Faisal Ramadoni](https://en.wikipedia.org/wiki/Faisal_Ramadoni) | [HiNimo](https://en.wikipedia.org/wiki/User:HiNimo) | 4,491 |
-| 2026-10-16 11:01:52 | [List of acts of the Parliament of Victoria from 1980](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1980) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 637 |
-| 2026-10-16 11:01:54 | [Federal caretaker administration of Tigray](https://en.wikipedia.org/wiki/Federal_caretaker_administration_of_Tigray) | [Mtomg](https://en.wikipedia.org/wiki/User:Mtomg) | 4,529 |
-| 2026-10-16 11:02:46 | [Kenya Volleyball Federation](https://en.wikipedia.org/wiki/Kenya_Volleyball_Federation) | [Kenyan105](https://en.wikipedia.org/wiki/User:Kenyan105) | 5,288 |
-| 2026-10-16 11:03:45 | [Heathcote baronets of Hursley (1733)](https://en.wikipedia.org/wiki/Heathcote_baronets_of_Hursley_%281733%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 6,022 |
-| 2026-10-16 11:12:07 | [List of acts of the Parliament of Victoria from 1997](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1997) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 5,915 |
-| 2026-10-16 11:18:11 | [Casi Gregson](https://en.wikipedia.org/wiki/Casi_Gregson) | [Morwennol](https://en.wikipedia.org/wiki/User:Morwennol) | 5,234 |
+| 2026-10-16 11:20:25 | [Geomyphilus insolitus](https://en.wikipedia.org/wiki/Geomyphilus_insolitus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,291 |
+| 2026-10-16 11:21:00 | [Kate Scharff](https://en.wikipedia.org/wiki/Kate_Scharff) | [Regazal](https://en.wikipedia.org/wiki/User:Regazal) | 13,446 |
+| 2026-10-16 11:22:24 | [Spoil someone rotten](https://en.wikipedia.org/wiki/Spoil_someone_rotten) | [Stormsnsnow](https://en.wikipedia.org/wiki/User:Stormsnsnow) | 23 |
+| 2026-10-16 11:22:33 | [Game (retail chain)](https://en.wikipedia.org/wiki/Game_%28retail_chain%29) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 9,348 |
+| 2026-10-16 11:23:31 | [2026 Cork City F.C. season](https://en.wikipedia.org/wiki/2026_Cork_City_F.C._season) | [CottonTraders](https://en.wikipedia.org/wiki/User:CottonTraders) | 5,823 |
+| 2026-10-16 11:27:09 | [Gurpal Singh Ahluwalia](https://en.wikipedia.org/wiki/Gurpal_Singh_Ahluwalia) | [Dsrprj](https://en.wikipedia.org/wiki/User:Dsrprj) | 536 |
+| 2026-10-16 11:27:56 | [Geomyphilus kiowensis](https://en.wikipedia.org/wiki/Geomyphilus_kiowensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,224 |
+| 2026-10-16 11:30:41 | [Geomyphilus pierai](https://en.wikipedia.org/wiki/Geomyphilus_pierai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,226 |
+| 2026-10-16 11:33:55 | [Geomyphilus rubiginosus](https://en.wikipedia.org/wiki/Geomyphilus_rubiginosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,198 |
+| 2026-10-16 11:41:21 | [Russian corvette Velikiy Ustug](https://en.wikipedia.org/wiki/Russian_corvette_Velikiy_Ustug) | [Thefakeslimshady777](https://en.wikipedia.org/wiki/User:Thefakeslimshady777) | 2,920 |
+| 2026-10-16 11:44:08 | [Manjola Konini](https://en.wikipedia.org/wiki/Manjola_Konini) | [Parcedits](https://en.wikipedia.org/wiki/User:Parcedits) | 2,421 |
+| 2026-10-16 11:48:55 | [Patty Carroll](https://en.wikipedia.org/wiki/Patty_Carroll) | [Graham87](https://en.wikipedia.org/wiki/User:Graham87) | 8,342 |
+| 2026-10-16 11:52:49 | [Kempinski Shekinah Palace Douala](https://en.wikipedia.org/wiki/Kempinski_Shekinah_Palace_Douala) | [Score Beethoven](https://en.wikipedia.org/wiki/User:Score_Beethoven) | 5,822 |
+| 2026-10-16 11:54:37 | [Sachems' Deed](https://en.wikipedia.org/wiki/Sachems%27_Deed) | [Diogenes99](https://en.wikipedia.org/wiki/User:Diogenes99) | 40,486 |
+| 2026-10-16 11:56:39 | [Grisi Koxhaku](https://en.wikipedia.org/wiki/Grisi_Koxhaku) | [Parcedits](https://en.wikipedia.org/wiki/User:Parcedits) | 1,383 |
+| 2026-10-16 12:04:00 | [Hylaeus procurvus](https://en.wikipedia.org/wiki/Hylaeus_procurvus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,196 |
+| 2026-10-16 12:07:14 | [Battle of Gribova](https://en.wikipedia.org/wiki/Battle_of_Gribova) | [Kajmer05](https://en.wikipedia.org/wiki/User:Kajmer05) | 4,856 |
+| 2026-10-16 12:11:53 | [Kaltra Meça](https://en.wikipedia.org/wiki/Kaltra_Me%C3%A7a) | [Parcedits](https://en.wikipedia.org/wiki/User:Parcedits) | 1,765 |
+| 2026-10-16 12:14:24 | [Geomyphilus russeus](https://en.wikipedia.org/wiki/Geomyphilus_russeus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,188 |
+| 2026-10-16 12:19:18 | [Geomyphilus tuzincola](https://en.wikipedia.org/wiki/Geomyphilus_tuzincola) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,427 |
+| 2026-10-16 12:19:48 | [Princess Shōshi (1137–1211)](https://en.wikipedia.org/wiki/Princess_Sh%C5%8Dshi_%281137%E2%80%931211%29) | [Camillz](https://en.wikipedia.org/wiki/User:Camillz) | 9,985 |
