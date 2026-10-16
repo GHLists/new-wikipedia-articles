@@ -13,55 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-16 22:18 UTC](data/en/new-articles-2026-10-16T22-18-59Z.csv) | 23 |
-| Japanese | `ja` | [2026-10-16 22:18 UTC](data/ja/new-articles-2026-10-16T22-18-59Z.csv) | 2 |
+| English | `en` | [2026-10-16 23:18 UTC](data/en/new-articles-2026-10-16T23-18-33Z.csv) | 21 |
+| Japanese | `ja` | [2026-10-16 23:18 UTC](data/ja/new-articles-2026-10-16T23-18-33Z.csv) | 3 |
 | Chinese | `zh` | [2026-10-16 22:18 UTC](data/zh/new-articles-2026-10-16T22-18-59Z.csv) | 2 |
-| French | `fr` | [2026-10-16 22:18 UTC](data/fr/new-articles-2026-10-16T22-18-59Z.csv) | 6 |
-| German | `de` | [2026-10-16 22:18 UTC](data/de/new-articles-2026-10-16T22-18-59Z.csv) | 9 |
-| Russian | `ru` | [2026-10-16 22:18 UTC](data/ru/new-articles-2026-10-16T22-18-59Z.csv) | 8 |
-| Spanish | `es` | [2026-10-16 22:18 UTC](data/es/new-articles-2026-10-16T22-18-59Z.csv) | 11 |
-| Italian | `it` | [2026-10-16 22:18 UTC](data/it/new-articles-2026-10-16T22-18-59Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-16 22:18 UTC](data/pt/new-articles-2026-10-16T22-18-59Z.csv) | 4 |
+| French | `fr` | [2026-10-16 23:18 UTC](data/fr/new-articles-2026-10-16T23-18-33Z.csv) | 10 |
+| German | `de` | [2026-10-16 23:18 UTC](data/de/new-articles-2026-10-16T23-18-33Z.csv) | 5 |
+| Russian | `ru` | [2026-10-16 23:18 UTC](data/ru/new-articles-2026-10-16T23-18-33Z.csv) | 10 |
+| Spanish | `es` | [2026-10-16 23:18 UTC](data/es/new-articles-2026-10-16T23-18-33Z.csv) | 8 |
+| Italian | `it` | [2026-10-16 23:18 UTC](data/it/new-articles-2026-10-16T23-18-33Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-16 23:18 UTC](data/pt/new-articles-2026-10-16T23-18-33Z.csv) | 4 |
 | Polish | `pl` | [2026-10-16 22:18 UTC](data/pl/new-articles-2026-10-16T22-18-59Z.csv) | 12 |
-| Arabic | `ar` | [2026-10-16 22:18 UTC](data/ar/new-articles-2026-10-16T22-18-59Z.csv) | 10 |
-| Persian | `fa` | [2026-10-16 22:18 UTC](data/fa/new-articles-2026-10-16T22-18-59Z.csv) | 1 |
-| Turkish | `tr` | [2026-10-16 22:18 UTC](data/tr/new-articles-2026-10-16T22-18-59Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-16 22:18 UTC](data/he/new-articles-2026-10-16T22-18-59Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-16 22:18 UTC](data/sv/new-articles-2026-10-16T22-18-59Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-16 22:18 UTC](data/nl/new-articles-2026-10-16T22-18-59Z.csv) | 10 |
-| Korean | `ko` | [2026-10-16 22:18 UTC](data/ko/new-articles-2026-10-16T22-18-59Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-16 21:19 UTC](data/id/new-articles-2026-10-16T21-19-50Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-16 22:18 UTC](data/uk/new-articles-2026-10-16T22-18-59Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-16 20:19 UTC](data/vi/new-articles-2026-10-16T20-19-53Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-16 23:18 UTC](data/ar/new-articles-2026-10-16T23-18-33Z.csv) | 9 |
+| Persian | `fa` | [2026-10-16 23:18 UTC](data/fa/new-articles-2026-10-16T23-18-33Z.csv) | 3 |
+| Turkish | `tr` | [2026-10-16 23:18 UTC](data/tr/new-articles-2026-10-16T23-18-33Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-16 23:18 UTC](data/he/new-articles-2026-10-16T23-18-33Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-16 23:18 UTC](data/sv/new-articles-2026-10-16T23-18-33Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-16 23:18 UTC](data/nl/new-articles-2026-10-16T23-18-33Z.csv) | 5 |
+| Korean | `ko` | [2026-10-16 23:18 UTC](data/ko/new-articles-2026-10-16T23-18-33Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-16 23:18 UTC](data/id/new-articles-2026-10-16T23-18-33Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-10-16 23:18 UTC](data/uk/new-articles-2026-10-16T23-18-33Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-10-16 23:18 UTC](data/vi/new-articles-2026-10-16T23-18-33Z.csv) | 1 |
 
-## English (en) — 2026-10-16 22:18 UTC
+## English (en) — 2026-10-16 23:18 UTC
 
-New articles created between 2026-10-16 21:19 UTC and 2026-10-16 22:18 UTC.
+New articles created between 2026-10-16 22:18 UTC and 2026-10-16 23:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-16T22-18-59Z.csv)
+[Full CSV](data/en/new-articles-2026-10-16T23-18-33Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-16 21:20:08 | [Pierre Fischer](https://en.wikipedia.org/wiki/Pierre_Fischer) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,149 |
-| 2026-10-16 21:20:54 | [Jean du Quélennec](https://en.wikipedia.org/wiki/Jean_du_Qu%C3%A9lennec) | [S1r Gawa1n 2004](https://en.wikipedia.org/wiki/User:S1r_Gawa1n_2004) | 1,843 |
-| 2026-10-16 21:21:23 | [Ramdani Tawainella](https://en.wikipedia.org/wiki/Ramdani_Tawainella) | [HiNimo](https://en.wikipedia.org/wiki/User:HiNimo) | 9,171 |
-| 2026-10-16 21:25:02 | [John Melchior Barralet](https://en.wikipedia.org/wiki/John_Melchior_Barralet) | [Smirkybec](https://en.wikipedia.org/wiki/User:Smirkybec) | 4,369 |
-| 2026-10-16 21:27:43 | [2026 Guangzhou International Challenger – Singles](https://en.wikipedia.org/wiki/2026_Guangzhou_International_Challenger_%E2%80%93_Singles) | [Jctc7714](https://en.wikipedia.org/wiki/User:Jctc7714) | 6,596 |
-| 2026-10-16 21:28:25 | [Avraham Hayim Shor](https://en.wikipedia.org/wiki/Avraham_Hayim_Shor) | [-- -- --](https://en.wikipedia.org/wiki/User:--_--_--) | 2,930 |
-| 2026-10-16 21:28:30 | [Neuadd Fawr](https://en.wikipedia.org/wiki/Neuadd_Fawr) | [Kimbarrett92](https://en.wikipedia.org/wiki/User:Kimbarrett92) | 600 |
-| 2026-10-16 21:34:28 | [Martin Bernigeroth](https://en.wikipedia.org/wiki/Martin_Bernigeroth) | [Simon Ellistrand](https://en.wikipedia.org/wiki/User:Simon_Ellistrand) | 3,036 |
-| 2026-10-16 21:36:11 | [Awake Tonight](https://en.wikipedia.org/wiki/Awake_Tonight) | [YasserMeddour](https://en.wikipedia.org/wiki/User:YasserMeddour) | 4,159 |
-| 2026-10-16 21:37:43 | [Hydroxyproline dehydrogenase](https://en.wikipedia.org/wiki/Hydroxyproline_dehydrogenase) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 1,856 |
-| 2026-10-16 21:40:18 | [Fritziana mitus](https://en.wikipedia.org/wiki/Fritziana_mitus) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 4,493 |
-| 2026-10-16 21:44:30 | [2026 European Table Tennis Championships – Mixed doubles](https://en.wikipedia.org/wiki/2026_European_Table_Tennis_Championships_%E2%80%93_Mixed_doubles) | [Kk1603](https://en.wikipedia.org/wiki/User:Kk1603) | 13,402 |
-| 2026-10-16 21:48:47 | [2021–22 SC Telstar season](https://en.wikipedia.org/wiki/2021%E2%80%9322_SC_Telstar_season) | [Magawla61](https://en.wikipedia.org/wiki/User:Magawla61) | 2,787 |
-| 2026-10-16 21:50:17 | [Toghu](https://en.wikipedia.org/wiki/Toghu) | [Score Beethoven](https://en.wikipedia.org/wiki/User:Score_Beethoven) | 3,805 |
-| 2026-10-16 21:55:58 | [Carrell-Kurzenberger Farmstead](https://en.wikipedia.org/wiki/Carrell-Kurzenberger_Farmstead) | [Zeete](https://en.wikipedia.org/wiki/User:Zeete) | 3,146 |
-| 2026-10-16 21:56:24 | [Svilara concentration camp](https://en.wikipedia.org/wiki/Svilara_concentration_camp) | [Vacant0](https://en.wikipedia.org/wiki/User:Vacant0) | 5,247 |
-| 2026-10-16 21:59:04 | [Youlin Chen](https://en.wikipedia.org/wiki/Youlin_Chen) | [Terabyte646](https://en.wikipedia.org/wiki/User:Terabyte646) | 2,777 |
-| 2026-10-16 22:03:28 | [2026 Stockholm Open](https://en.wikipedia.org/wiki/2026_Stockholm_Open) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 3,435 |
-| 2026-10-16 22:04:46 | [2026–27 Chattanooga Mocs men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Chattanooga_Mocs_men%27s_basketball_team) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 21,939 |
-| 2026-10-16 22:06:14 | [2026 Guangzhou International Challenger – Doubles](https://en.wikipedia.org/wiki/2026_Guangzhou_International_Challenger_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,136 |
-| 2026-10-16 22:08:56 | [FF (song)](https://en.wikipedia.org/wiki/FF_%28song%29) | [OrangeOctopus1996](https://en.wikipedia.org/wiki/User:OrangeOctopus1996) | 10,001 |
-| 2026-10-16 22:10:48 | [Young-Kyoon Kim (urologist)](https://en.wikipedia.org/wiki/Young-Kyoon_Kim_%28urologist%29) | [Dithridge](https://en.wikipedia.org/wiki/User:Dithridge) | 11,426 |
-| 2026-10-16 22:12:43 | [2020–21 SC Telstar season](https://en.wikipedia.org/wiki/2020%E2%80%9321_SC_Telstar_season) | [Magawla61](https://en.wikipedia.org/wiki/User:Magawla61) | 2,751 |
+| 2026-10-16 22:23:51 | [RagDeWann](https://en.wikipedia.org/wiki/RagDeWann) | [Sandramariawastakenwastaken](https://en.wikipedia.org/wiki/User:Sandramariawastakenwastaken) | 49 |
+| 2026-10-16 22:26:45 | [Aldo Cantarutti](https://en.wikipedia.org/wiki/Aldo_Cantarutti) | [ShadowBallX](https://en.wikipedia.org/wiki/User:ShadowBallX) | 6,554 |
+| 2026-10-16 22:37:16 | [NGC 1827](https://en.wikipedia.org/wiki/NGC_1827) | [Phantomdj](https://en.wikipedia.org/wiki/User:Phantomdj) | 5,724 |
+| 2026-10-16 22:38:06 | [Bunker, Washington](https://en.wikipedia.org/wiki/Bunker%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,653 |
+| 2026-10-16 22:38:55 | [Amica (song)](https://en.wikipedia.org/wiki/Amica_%28song%29) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 5,436 |
+| 2026-10-16 22:45:57 | [Thamnostylum piriforme](https://en.wikipedia.org/wiki/Thamnostylum_piriforme) | [Kelubact](https://en.wikipedia.org/wiki/User:Kelubact) | 206 |
+| 2026-10-16 22:47:46 | [Cass Lake, Michigan](https://en.wikipedia.org/wiki/Cass_Lake%2C_Michigan) | [CBessert](https://en.wikipedia.org/wiki/User:CBessert) | 7,712 |
+| 2026-10-16 22:49:57 | [Abu Bakr Palace](https://en.wikipedia.org/wiki/Abu_Bakr_Palace) | [Mrpresidentfaris](https://en.wikipedia.org/wiki/User:Mrpresidentfaris) | 471 |
+| 2026-10-16 22:51:29 | [Dolyna Rural Council](https://en.wikipedia.org/wiki/Dolyna_Rural_Council) | [Sof1a510](https://en.wikipedia.org/wiki/User:Sof1a510) | 2,037 |
+| 2026-10-16 22:51:53 | [Moe Iori](https://en.wikipedia.org/wiki/Moe_Iori) | [AussieSurplus1510](https://en.wikipedia.org/wiki/User:AussieSurplus1510) | 55,257 |
+| 2026-10-16 22:54:19 | [Trams in Gisborne](https://en.wikipedia.org/wiki/Trams_in_Gisborne) | [Its-mrb](https://en.wikipedia.org/wiki/User:Its-mrb) | 22,402 |
+| 2026-10-16 22:55:05 | [Fire (name)](https://en.wikipedia.org/wiki/Fire_%28name%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 2,198 |
+| 2026-10-16 22:56:29 | [Canal 55 El Líder](https://en.wikipedia.org/wiki/Canal_55_El_L%C3%ADder) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 3,322 |
+| 2026-10-16 22:57:02 | [Satwik](https://en.wikipedia.org/wiki/Satwik) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 117 |
+| 2026-10-16 22:59:07 | [Statue of José Gervasio Artigas](https://en.wikipedia.org/wiki/Statue_of_Jos%C3%A9_Gervasio_Artigas) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 305 |
+| 2026-10-16 22:59:13 | [Publius Cornelius Scipio Nasica (praetor 93 BC)](https://en.wikipedia.org/wiki/Publius_Cornelius_Scipio_Nasica_%28praetor_93_BC%29) | [Edgar Aetheling 25](https://en.wikipedia.org/wiki/User:Edgar_Aetheling_25) | 1,835 |
+| 2026-10-16 23:00:24 | [Giulietta Della Balda](https://en.wikipedia.org/wiki/Giulietta_Della_Balda) | [Alsor97](https://en.wikipedia.org/wiki/User:Alsor97) | 4,255 |
+| 2026-10-16 23:00:25 | [2026–27 East Carolina Pirates women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_East_Carolina_Pirates_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 31,297 |
+| 2026-10-16 23:11:58 | [Chico Pedro's raids](https://en.wikipedia.org/wiki/Chico_Pedro%27s_raids) | [Nathan.rpk](https://en.wikipedia.org/wiki/User:Nathan.rpk) | 4,436 |
+| 2026-10-16 23:14:01 | [River Casemate](https://en.wikipedia.org/wiki/River_Casemate) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 6,506 |
+| 2026-10-16 23:14:55 | [Sequential (Canadian Comics News Site)](https://en.wikipedia.org/wiki/Sequential_%28Canadian_Comics_News_Site%29) | [On the Bowery](https://en.wikipedia.org/wiki/User:On_the_Bowery) | 7,035 |
