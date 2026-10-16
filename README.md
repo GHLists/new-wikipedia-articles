@@ -13,50 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-16 02:20 UTC](data/en/new-articles-2026-10-16T02-20-09Z.csv) | 18 |
-| Japanese | `ja` | [2026-10-16 02:20 UTC](data/ja/new-articles-2026-10-16T02-20-09Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-16 02:20 UTC](data/zh/new-articles-2026-10-16T02-20-09Z.csv) | 4 |
-| French | `fr` | [2026-10-16 02:20 UTC](data/fr/new-articles-2026-10-16T02-20-09Z.csv) | 2 |
+| English | `en` | [2026-10-16 03:19 UTC](data/en/new-articles-2026-10-16T03-19-47Z.csv) | 16 |
+| Japanese | `ja` | [2026-10-16 03:19 UTC](data/ja/new-articles-2026-10-16T03-19-47Z.csv) | 5 |
+| Chinese | `zh` | [2026-10-16 03:19 UTC](data/zh/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
+| French | `fr` | [2026-10-16 03:19 UTC](data/fr/new-articles-2026-10-16T03-19-47Z.csv) | 1 |
 | German | `de` | [2026-10-16 01:19 UTC](data/de/new-articles-2026-10-16T01-19-20Z.csv) | 1 |
-| Russian | `ru` | [2026-10-16 02:20 UTC](data/ru/new-articles-2026-10-16T02-20-09Z.csv) | 2 |
-| Spanish | `es` | [2026-10-16 02:20 UTC](data/es/new-articles-2026-10-16T02-20-09Z.csv) | 12 |
+| Russian | `ru` | [2026-10-16 03:19 UTC](data/ru/new-articles-2026-10-16T03-19-47Z.csv) | 9 |
+| Spanish | `es` | [2026-10-16 03:19 UTC](data/es/new-articles-2026-10-16T03-19-47Z.csv) | 8 |
 | Italian | `it` | [2026-10-16 02:20 UTC](data/it/new-articles-2026-10-16T02-20-09Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-16 02:20 UTC](data/pt/new-articles-2026-10-16T02-20-09Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-16 03:19 UTC](data/pt/new-articles-2026-10-16T03-19-47Z.csv) | 5 |
 | Polish | `pl` | [2026-10-16 01:19 UTC](data/pl/new-articles-2026-10-16T01-19-20Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-16 02:20 UTC](data/ar/new-articles-2026-10-16T02-20-09Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-16 03:19 UTC](data/ar/new-articles-2026-10-16T03-19-47Z.csv) | 2 |
 | Persian | `fa` | [2026-10-16 02:20 UTC](data/fa/new-articles-2026-10-16T02-20-09Z.csv) | 1 |
 | Turkish | `tr` | [2026-10-16 02:20 UTC](data/tr/new-articles-2026-10-16T02-20-09Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-16 00:21 UTC](data/he/new-articles-2026-10-16T00-21-03Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-16 01:19 UTC](data/sv/new-articles-2026-10-16T01-19-20Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-16 01:19 UTC](data/nl/new-articles-2026-10-16T01-19-20Z.csv) | 1 |
-| Korean | `ko` | [2026-10-16 02:20 UTC](data/ko/new-articles-2026-10-16T02-20-09Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-16 02:20 UTC](data/id/new-articles-2026-10-16T02-20-09Z.csv) | 14 |
+| Hebrew | `he` | [2026-10-16 03:19 UTC](data/he/new-articles-2026-10-16T03-19-47Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-16 03:19 UTC](data/sv/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-16 03:19 UTC](data/nl/new-articles-2026-10-16T03-19-47Z.csv) | 2 |
+| Korean | `ko` | [2026-10-16 03:19 UTC](data/ko/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-16 03:19 UTC](data/id/new-articles-2026-10-16T03-19-47Z.csv) | 9 |
 | Ukrainian | `uk` | [2026-10-16 02:20 UTC](data/uk/new-articles-2026-10-16T02-20-09Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-10-16 01:19 UTC](data/vi/new-articles-2026-10-16T01-19-20Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-10-16 03:19 UTC](data/vi/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
 
-## English (en) — 2026-10-16 02:20 UTC
+## English (en) — 2026-10-16 03:19 UTC
 
-New articles created between 2026-10-16 01:19 UTC and 2026-10-16 02:20 UTC.
+New articles created between 2026-10-16 02:20 UTC and 2026-10-16 03:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-16T02-20-09Z.csv)
+[Full CSV](data/en/new-articles-2026-10-16T03-19-47Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-16 01:24:55 | [Pomerance Award for Scientific Contributions to Archaeology](https://en.wikipedia.org/wiki/Pomerance_Award_for_Scientific_Contributions_to_Archaeology) | [Penny Richards](https://en.wikipedia.org/wiki/User:Penny_Richards) | 7,634 |
-| 2026-10-16 01:30:19 | [Lonehort Battery](https://en.wikipedia.org/wiki/Lonehort_Battery) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 4,231 |
-| 2026-10-16 01:37:08 | [Free African Americans of North Carolina, Virginia, and South Carolina from the Colonial Period to About 1820](https://en.wikipedia.org/wiki/Free_African_Americans_of_North_Carolina%2C_Virginia%2C_and_South_Carolina_from_the_Colonial_Period_to_About_1820) | [Theevu](https://en.wikipedia.org/wiki/User:Theevu) | 9,965 |
-| 2026-10-16 01:41:47 | [Val Napoleon](https://en.wikipedia.org/wiki/Val_Napoleon) | [Maximundi](https://en.wikipedia.org/wiki/User:Maximundi) | 1,787 |
-| 2026-10-16 01:42:06 | [Jeanette Greene](https://en.wikipedia.org/wiki/Jeanette_Greene) | [Tymewalk](https://en.wikipedia.org/wiki/User:Tymewalk) | 3,368 |
-| 2026-10-16 01:51:57 | [Thomas Eddy Dupiton](https://en.wikipedia.org/wiki/Thomas_Eddy_Dupiton) | [Cheney123](https://en.wikipedia.org/wiki/User:Cheney123) | 2,192 |
-| 2026-10-16 01:53:11 | [Jonathan Castagna](https://en.wikipedia.org/wiki/Jonathan_Castagna) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 1,579 |
-| 2026-10-16 01:55:44 | [Edificio Bolivia](https://en.wikipedia.org/wiki/Edificio_Bolivia) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 12,477 |
-| 2026-10-16 01:56:21 | [Simonettoia](https://en.wikipedia.org/wiki/Simonettoia) | [SlvrHwk](https://en.wikipedia.org/wiki/User:SlvrHwk) | 4,897 |
-| 2026-10-16 01:58:05 | [West Series races at Laguna Seca](https://en.wikipedia.org/wiki/West_Series_races_at_Laguna_Seca) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 7,980 |
-| 2026-10-16 02:06:44 | [The Pups' Picnic](https://en.wikipedia.org/wiki/The_Pups%27_Picnic) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,851 |
-| 2026-10-16 02:09:03 | [2026 Girls' U19 South American Volleyball Championship](https://en.wikipedia.org/wiki/2026_Girls%27_U19_South_American_Volleyball_Championship) | [Thiago89](https://en.wikipedia.org/wiki/User:Thiago89) | 21,882 |
-| 2026-10-16 02:12:09 | [Nic Pretorius](https://en.wikipedia.org/wiki/Nic_Pretorius) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 2,781 |
-| 2026-10-16 02:12:59 | [Tony King (artist)](https://en.wikipedia.org/wiki/Tony_King_%28artist%29) | [MisterCake](https://en.wikipedia.org/wiki/User:MisterCake) | 352 |
-| 2026-10-16 02:13:32 | [Gustavo Peñasco Hidalgo](https://en.wikipedia.org/wiki/Gustavo_Pe%C3%B1asco_Hidalgo) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 14,517 |
-| 2026-10-16 02:14:48 | [Tesla Roadster (2028)](https://en.wikipedia.org/wiki/Tesla_Roadster_%282028%29) | [(G)jabz](https://en.wikipedia.org/wiki/User:%28G%29jabz) | 4,973 |
-| 2026-10-16 02:17:39 | [Mexican Herald](https://en.wikipedia.org/wiki/Mexican_Herald) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 11,671 |
-| 2026-10-16 02:18:59 | [George D. Green](https://en.wikipedia.org/wiki/George_D._Green) | [MisterCake](https://en.wikipedia.org/wiki/User:MisterCake) | 480 |
+| 2026-10-16 02:21:54 | [Tesla Roadster (third generation)](https://en.wikipedia.org/wiki/Tesla_Roadster_%28third_generation%29) | [Alexysun](https://en.wikipedia.org/wiki/User:Alexysun) | 332 |
+| 2026-10-16 02:22:20 | [Hayyim Ben Kiki](https://en.wikipedia.org/wiki/Hayyim_Ben_Kiki) | [إيان](https://en.wikipedia.org/wiki/User:%D8%A5%D9%8A%D8%A7%D9%86) | 3,034 |
+| 2026-10-16 02:29:44 | [List of international prime ministerial trips made by Lê Minh Hưng](https://en.wikipedia.org/wiki/List_of_international_prime_ministerial_trips_made_by_L%C3%AA_Minh_H%C6%B0ng) | [Sdcnjsdhbcsbckhbvkaf](https://en.wikipedia.org/wiki/User:Sdcnjsdhbcsbckhbvkaf) | 4,955 |
+| 2026-10-16 02:30:06 | [2026 Men's Rugby League World Cup Pool A](https://en.wikipedia.org/wiki/2026_Men%27s_Rugby_League_World_Cup_Pool_A) | [Dm2310416](https://en.wikipedia.org/wiki/User:Dm2310416) | 15,408 |
+| 2026-10-16 02:30:09 | [2026 Men's Rugby League World Cup Pools B & C](https://en.wikipedia.org/wiki/2026_Men%27s_Rugby_League_World_Cup_Pools_B_%26_C) | [Dm2310416](https://en.wikipedia.org/wiki/User:Dm2310416) | 23,048 |
+| 2026-10-16 02:36:56 | [2026 European Table Tennis Championships – Women's singles](https://en.wikipedia.org/wiki/2026_European_Table_Tennis_Championships_%E2%80%93_Women%27s_singles) | [Kk1603](https://en.wikipedia.org/wiki/User:Kk1603) | 15,251 |
+| 2026-10-16 02:37:41 | [Palace of the Counts of San Bartolomé de Xala](https://en.wikipedia.org/wiki/Palace_of_the_Counts_of_San_Bartolom%C3%A9_de_Xala) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 6,829 |
+| 2026-10-16 02:39:37 | [Lorenzo Rodríguez](https://en.wikipedia.org/wiki/Lorenzo_Rodr%C3%ADguez) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 7,773 |
+| 2026-10-16 02:47:04 | [Bremer, Washington](https://en.wikipedia.org/wiki/Bremer%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,653 |
+| 2026-10-16 02:52:55 | [Rodrigo Endrio Azevedo Tiago](https://en.wikipedia.org/wiki/Rodrigo_Endrio_Azevedo_Tiago) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 6,342 |
+| 2026-10-16 02:53:38 | [Juan Germán Roscio Municipality](https://en.wikipedia.org/wiki/Juan_Germ%C3%A1n_Roscio_Municipality) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,288 |
+| 2026-10-16 02:59:32 | [Smiley fries](https://en.wikipedia.org/wiki/Smiley_fries) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 3,122 |
+| 2026-10-16 03:00:41 | [Resume (Bruce Cockburn album)](https://en.wikipedia.org/wiki/Resume_%28Bruce_Cockburn_album%29) | [Dobbyelf62](https://en.wikipedia.org/wiki/User:Dobbyelf62) | 7,944 |
+| 2026-10-16 03:06:01 | [2027 Los Angeles Dodgers season](https://en.wikipedia.org/wiki/2027_Los_Angeles_Dodgers_season) | [Spanneraol](https://en.wikipedia.org/wiki/User:Spanneraol) | 3,987 |
+| 2026-10-16 03:06:06 | [El Socorro Municipality](https://en.wikipedia.org/wiki/El_Socorro_Municipality) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,562 |
+| 2026-10-16 03:08:19 | [David E. Smith (physician)](https://en.wikipedia.org/wiki/David_E._Smith_%28physician%29) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 22,823 |
