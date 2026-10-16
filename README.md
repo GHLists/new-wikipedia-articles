@@ -13,49 +13,52 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-16 04:19 UTC](data/en/new-articles-2026-10-16T04-19-07Z.csv) | 17 |
-| Japanese | `ja` | [2026-10-16 04:19 UTC](data/ja/new-articles-2026-10-16T04-19-07Z.csv) | 3 |
-| Chinese | `zh` | [2026-10-16 04:19 UTC](data/zh/new-articles-2026-10-16T04-19-07Z.csv) | 9 |
-| French | `fr` | [2026-10-16 04:19 UTC](data/fr/new-articles-2026-10-16T04-19-07Z.csv) | 1 |
-| German | `de` | [2026-10-16 01:19 UTC](data/de/new-articles-2026-10-16T01-19-20Z.csv) | 1 |
-| Russian | `ru` | [2026-10-16 04:19 UTC](data/ru/new-articles-2026-10-16T04-19-07Z.csv) | 6 |
-| Spanish | `es` | [2026-10-16 04:19 UTC](data/es/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
-| Italian | `it` | [2026-10-16 04:19 UTC](data/it/new-articles-2026-10-16T04-19-07Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-16 04:19 UTC](data/pt/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
+| English | `en` | [2026-10-16 05:19 UTC](data/en/new-articles-2026-10-16T05-19-06Z.csv) | 20 |
+| Japanese | `ja` | [2026-10-16 05:19 UTC](data/ja/new-articles-2026-10-16T05-19-06Z.csv) | 9 |
+| Chinese | `zh` | [2026-10-16 05:19 UTC](data/zh/new-articles-2026-10-16T05-19-06Z.csv) | 5 |
+| French | `fr` | [2026-10-16 05:19 UTC](data/fr/new-articles-2026-10-16T05-19-06Z.csv) | 4 |
+| German | `de` | [2026-10-16 05:19 UTC](data/de/new-articles-2026-10-16T05-19-06Z.csv) | 2 |
+| Russian | `ru` | [2026-10-16 05:19 UTC](data/ru/new-articles-2026-10-16T05-19-06Z.csv) | 2 |
+| Spanish | `es` | [2026-10-16 05:19 UTC](data/es/new-articles-2026-10-16T05-19-06Z.csv) | 1 |
+| Italian | `it` | [2026-10-16 05:19 UTC](data/it/new-articles-2026-10-16T05-19-06Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-16 05:19 UTC](data/pt/new-articles-2026-10-16T05-19-06Z.csv) | 5 |
 | Polish | `pl` | [2026-10-16 04:19 UTC](data/pl/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
 | Arabic | `ar` | [2026-10-16 04:19 UTC](data/ar/new-articles-2026-10-16T04-19-07Z.csv) | 1 |
-| Persian | `fa` | [2026-10-16 02:20 UTC](data/fa/new-articles-2026-10-16T02-20-09Z.csv) | 1 |
-| Turkish | `tr` | [2026-10-16 02:20 UTC](data/tr/new-articles-2026-10-16T02-20-09Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-16 04:19 UTC](data/he/new-articles-2026-10-16T04-19-07Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-16 04:19 UTC](data/sv/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-16 03:19 UTC](data/nl/new-articles-2026-10-16T03-19-47Z.csv) | 2 |
-| Korean | `ko` | [2026-10-16 04:19 UTC](data/ko/new-articles-2026-10-16T04-19-07Z.csv) | 6 |
-| Indonesian | `id` | [2026-10-16 04:19 UTC](data/id/new-articles-2026-10-16T04-19-07Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-16 04:19 UTC](data/uk/new-articles-2026-10-16T04-19-07Z.csv) | 2 |
+| Persian | `fa` | [2026-10-16 05:19 UTC](data/fa/new-articles-2026-10-16T05-19-06Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-16 05:19 UTC](data/tr/new-articles-2026-10-16T05-19-06Z.csv) | 3 |
+| Hebrew | `he` | [2026-10-16 05:19 UTC](data/he/new-articles-2026-10-16T05-19-06Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-16 05:19 UTC](data/sv/new-articles-2026-10-16T05-19-06Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-16 05:19 UTC](data/nl/new-articles-2026-10-16T05-19-06Z.csv) | 6 |
+| Korean | `ko` | [2026-10-16 05:19 UTC](data/ko/new-articles-2026-10-16T05-19-06Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-16 05:19 UTC](data/id/new-articles-2026-10-16T05-19-06Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-10-16 05:19 UTC](data/uk/new-articles-2026-10-16T05-19-06Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-16 03:19 UTC](data/vi/new-articles-2026-10-16T03-19-47Z.csv) | 3 |
 
-## English (en) — 2026-10-16 04:19 UTC
+## English (en) — 2026-10-16 05:19 UTC
 
-New articles created between 2026-10-16 03:19 UTC and 2026-10-16 04:19 UTC.
+New articles created between 2026-10-16 04:19 UTC and 2026-10-16 05:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-16T04-19-07Z.csv)
+[Full CSV](data/en/new-articles-2026-10-16T05-19-06Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-16 03:20:02 | [Rodney Muñoz](https://en.wikipedia.org/wiki/Rodney_Mu%C3%B1oz) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,974 |
-| 2026-10-16 03:21:57 | [Coral grouper (disambiguation)](https://en.wikipedia.org/wiki/Coral_grouper_%28disambiguation%29) | [Bloopityboop](https://en.wikipedia.org/wiki/User:Bloopityboop) | 253 |
-| 2026-10-16 03:22:54 | [Women in motorsport](https://en.wikipedia.org/wiki/Women_in_motorsport) | [LoremIpsum423](https://en.wikipedia.org/wiki/User:LoremIpsum423) | 146,414 |
-| 2026-10-16 03:27:48 | [In Mortal Combat with... Sub-Mariner!](https://en.wikipedia.org/wiki/In_Mortal_Combat_with..._Sub-Mariner%21) | [ModlordD](https://en.wikipedia.org/wiki/User:ModlordD) | 10,337 |
-| 2026-10-16 03:30:16 | [Lateran Treaty Day](https://en.wikipedia.org/wiki/Lateran_Treaty_Day) | [DOSA Catholic](https://en.wikipedia.org/wiki/User:DOSA_Catholic) | 2,667 |
-| 2026-10-16 03:34:42 | [Da'Shaun Harrison](https://en.wikipedia.org/wiki/Da%27Shaun_Harrison) | [Burtsbeespeppermint](https://en.wikipedia.org/wiki/User:Burtsbeespeppermint) | 8,701 |
-| 2026-10-16 03:37:59 | [Lambeth Apocalypse](https://en.wikipedia.org/wiki/Lambeth_Apocalypse) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 4,289 |
-| 2026-10-16 03:40:17 | [Hacker Murphy LLP](https://en.wikipedia.org/wiki/Hacker_Murphy_LLP) | [Duncan pinderhughes](https://en.wikipedia.org/wiki/User:Duncan_pinderhughes) | 23,946 |
-| 2026-10-16 03:51:05 | [Don Bragg](https://en.wikipedia.org/wiki/Don_Bragg) | [Theleekycauldron](https://en.wikipedia.org/wiki/User:Theleekycauldron) | 97 |
-| 2026-10-16 04:00:51 | [2026–27 Air Force Falcons men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Air_Force_Falcons_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 28,463 |
-| 2026-10-16 04:02:56 | [Wisconsin's Buffalo–Pepin–Pierce Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Buffalo%E2%80%93Pepin%E2%80%93Pierce_Assembly_district) | [Talthiel](https://en.wikipedia.org/wiki/User:Talthiel) | 3,083 |
-| 2026-10-16 04:03:29 | [Lawrence Rosenberg](https://en.wikipedia.org/wiki/Lawrence_Rosenberg) | [Kingoflettuce](https://en.wikipedia.org/wiki/User:Kingoflettuce) | 3,134 |
-| 2026-10-16 04:08:08 | [Funkhouserella](https://en.wikipedia.org/wiki/Funkhouserella) | [The Grand Delusion](https://en.wikipedia.org/wiki/User:The_Grand_Delusion) | 1,071 |
-| 2026-10-16 04:10:37 | [Lorenzo Salvetti](https://en.wikipedia.org/wiki/Lorenzo_Salvetti) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 13,296 |
-| 2026-10-16 04:11:04 | [Jin Zhiheng](https://en.wikipedia.org/wiki/Jin_Zhiheng) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,476 |
-| 2026-10-16 04:17:17 | [PVF Hưng Yên Stadium](https://en.wikipedia.org/wiki/PVF_H%C6%B0ng_Y%C3%AAn_Stadium) | [Thplam2004](https://en.wikipedia.org/wiki/User:Thplam2004) | 5,242 |
-| 2026-10-16 04:18:53 | [2026 Greater Visakhapatnam Municipal Corporation election](https://en.wikipedia.org/wiki/2026_Greater_Visakhapatnam_Municipal_Corporation_election) | [Independent26](https://en.wikipedia.org/wiki/User:Independent26) | 3,132 |
+| 2026-10-16 04:22:33 | [2026 Summit League women's soccer tournament](https://en.wikipedia.org/wiki/2026_Summit_League_women%27s_soccer_tournament) | [Natethegreat4226](https://en.wikipedia.org/wiki/User:Natethegreat4226) | 5,017 |
+| 2026-10-16 04:23:14 | [Hylaeus meriti](https://en.wikipedia.org/wiki/Hylaeus_meriti) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,107 |
+| 2026-10-16 04:23:22 | [2026–27 Grand Canyon Antelopes men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Grand_Canyon_Antelopes_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 28,274 |
+| 2026-10-16 04:23:23 | [McPherson station](https://en.wikipedia.org/wiki/McPherson_station) | [Szxq](https://en.wikipedia.org/wiki/User:Szxq) | 128 |
+| 2026-10-16 04:25:03 | [Nebraska Legislature 1st district](https://en.wikipedia.org/wiki/Nebraska_Legislature_1st_district) | [Basileus121](https://en.wikipedia.org/wiki/User:Basileus121) | 3,948 |
+| 2026-10-16 04:27:56 | [Robert Eugene Bogner](https://en.wikipedia.org/wiki/Robert_Eugene_Bogner) | [Hersheystein](https://en.wikipedia.org/wiki/User:Hersheystein) | 25,981 |
+| 2026-10-16 04:32:58 | [Li Zhiwei](https://en.wikipedia.org/wiki/Li_Zhiwei) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,605 |
+| 2026-10-16 04:33:59 | [Little Cheeser](https://en.wikipedia.org/wiki/Little_Cheeser) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,842 |
+| 2026-10-16 04:34:06 | [Lee Samowitz](https://en.wikipedia.org/wiki/Lee_Samowitz) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,434 |
+| 2026-10-16 04:38:58 | [La Trinidad Municipality](https://en.wikipedia.org/wiki/La_Trinidad_Municipality) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,372 |
+| 2026-10-16 04:44:00 | [2026–27 Hawaii Rainbow Warriors basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Hawaii_Rainbow_Warriors_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 29,018 |
+| 2026-10-16 04:51:36 | [Hylaeus borchii](https://en.wikipedia.org/wiki/Hylaeus_borchii) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 1,851 |
+| 2026-10-16 04:55:06 | [Sucre Municipality, Yaracuy](https://en.wikipedia.org/wiki/Sucre_Municipality%2C_Yaracuy) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,269 |
+| 2026-10-16 04:59:16 | [The Pups' Christmas](https://en.wikipedia.org/wiki/The_Pups%27_Christmas) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,771 |
+| 2026-10-16 04:59:16 | [2026–27 Nevada Wolf Pack men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Nevada_Wolf_Pack_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 31,593 |
+| 2026-10-16 05:05:39 | [Timeline of the James A. Garfield presidency](https://en.wikipedia.org/wiki/Timeline_of_the_James_A._Garfield_presidency) | [Thebiguglyalien](https://en.wikipedia.org/wiki/User:Thebiguglyalien) | 4,783 |
+| 2026-10-16 05:07:04 | [Baracchini](https://en.wikipedia.org/wiki/Baracchini) | [Ingratis](https://en.wikipedia.org/wiki/User:Ingratis) | 502 |
+| 2026-10-16 05:16:31 | [Jennifer Bransford](https://en.wikipedia.org/wiki/Jennifer_Bransford) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,522 |
+| 2026-10-16 05:18:21 | [Cue (surname)](https://en.wikipedia.org/wiki/Cue_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 1,416 |
+| 2026-10-16 05:18:52 | [2026–27 Summit League men's basketball season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Summit_League_men%27s_basketball_season) | [Natethegreat4226](https://en.wikipedia.org/wiki/User:Natethegreat4226) | 15,313 |
