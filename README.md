@@ -13,52 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-17 10:19 UTC](data/en/new-articles-2026-10-17T10-19-06Z.csv) | 20 |
-| Japanese | `ja` | [2026-10-17 10:19 UTC](data/ja/new-articles-2026-10-17T10-19-06Z.csv) | 12 |
-| Chinese | `zh` | [2026-10-17 10:19 UTC](data/zh/new-articles-2026-10-17T10-19-06Z.csv) | 15 |
-| French | `fr` | [2026-10-17 10:19 UTC](data/fr/new-articles-2026-10-17T10-19-06Z.csv) | 9 |
-| German | `de` | [2026-10-17 10:19 UTC](data/de/new-articles-2026-10-17T10-19-06Z.csv) | 16 |
-| Russian | `ru` | [2026-10-17 10:19 UTC](data/ru/new-articles-2026-10-17T10-19-06Z.csv) | 11 |
-| Spanish | `es` | [2026-10-17 10:19 UTC](data/es/new-articles-2026-10-17T10-19-06Z.csv) | 4 |
-| Italian | `it` | [2026-10-17 10:19 UTC](data/it/new-articles-2026-10-17T10-19-06Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-17 07:18 UTC](data/pt/new-articles-2026-10-17T07-18-39Z.csv) | 1 |
-| Polish | `pl` | [2026-10-17 10:19 UTC](data/pl/new-articles-2026-10-17T10-19-06Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-17 10:19 UTC](data/ar/new-articles-2026-10-17T10-19-06Z.csv) | 25 |
-| Persian | `fa` | [2026-10-17 10:19 UTC](data/fa/new-articles-2026-10-17T10-19-06Z.csv) | 18 |
-| Turkish | `tr` | [2026-10-17 10:19 UTC](data/tr/new-articles-2026-10-17T10-19-06Z.csv) | 10 |
-| Hebrew | `he` | [2026-10-17 10:19 UTC](data/he/new-articles-2026-10-17T10-19-06Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-17 10:19 UTC](data/sv/new-articles-2026-10-17T10-19-06Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-17 10:19 UTC](data/nl/new-articles-2026-10-17T10-19-06Z.csv) | 2 |
-| Korean | `ko` | [2026-10-17 10:19 UTC](data/ko/new-articles-2026-10-17T10-19-06Z.csv) | 6 |
-| Indonesian | `id` | [2026-10-17 10:19 UTC](data/id/new-articles-2026-10-17T10-19-06Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-10-17 10:19 UTC](data/uk/new-articles-2026-10-17T10-19-06Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-17 10:19 UTC](data/vi/new-articles-2026-10-17T10-19-06Z.csv) | 1 |
+| English | `en` | [2026-10-17 11:18 UTC](data/en/new-articles-2026-10-17T11-18-34Z.csv) | 16 |
+| Japanese | `ja` | [2026-10-17 11:18 UTC](data/ja/new-articles-2026-10-17T11-18-34Z.csv) | 11 |
+| Chinese | `zh` | [2026-10-17 11:18 UTC](data/zh/new-articles-2026-10-17T11-18-34Z.csv) | 4 |
+| French | `fr` | [2026-10-17 11:18 UTC](data/fr/new-articles-2026-10-17T11-18-34Z.csv) | 8 |
+| German | `de` | [2026-10-17 11:18 UTC](data/de/new-articles-2026-10-17T11-18-34Z.csv) | 12 |
+| Russian | `ru` | [2026-10-17 11:18 UTC](data/ru/new-articles-2026-10-17T11-18-34Z.csv) | 5 |
+| Spanish | `es` | [2026-10-17 11:18 UTC](data/es/new-articles-2026-10-17T11-18-34Z.csv) | 11 |
+| Italian | `it` | [2026-10-17 11:18 UTC](data/it/new-articles-2026-10-17T11-18-34Z.csv) | 14 |
+| Portuguese | `pt` | [2026-10-17 11:18 UTC](data/pt/new-articles-2026-10-17T11-18-34Z.csv) | 2 |
+| Polish | `pl` | [2026-10-17 11:18 UTC](data/pl/new-articles-2026-10-17T11-18-34Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-17 11:18 UTC](data/ar/new-articles-2026-10-17T11-18-34Z.csv) | 16 |
+| Persian | `fa` | [2026-10-17 11:18 UTC](data/fa/new-articles-2026-10-17T11-18-34Z.csv) | 13 |
+| Turkish | `tr` | [2026-10-17 11:18 UTC](data/tr/new-articles-2026-10-17T11-18-34Z.csv) | 13 |
+| Hebrew | `he` | [2026-10-17 11:18 UTC](data/he/new-articles-2026-10-17T11-18-34Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-17 11:18 UTC](data/sv/new-articles-2026-10-17T11-18-34Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-17 11:18 UTC](data/nl/new-articles-2026-10-17T11-18-34Z.csv) | 6 |
+| Korean | `ko` | [2026-10-17 11:18 UTC](data/ko/new-articles-2026-10-17T11-18-34Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-17 11:18 UTC](data/id/new-articles-2026-10-17T11-18-34Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-10-17 11:18 UTC](data/uk/new-articles-2026-10-17T11-18-34Z.csv) | 9 |
+| Vietnamese | `vi` | [2026-10-17 11:18 UTC](data/vi/new-articles-2026-10-17T11-18-34Z.csv) | 3 |
 
-## English (en) — 2026-10-17 10:19 UTC
+## English (en) — 2026-10-17 11:18 UTC
 
-New articles created between 2026-10-17 09:19 UTC and 2026-10-17 10:19 UTC.
+New articles created between 2026-10-17 10:19 UTC and 2026-10-17 11:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-17T10-19-06Z.csv)
+[Full CSV](data/en/new-articles-2026-10-17T11-18-34Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-17 09:22:09 | [Battle Of Jara](https://en.wikipedia.org/wiki/Battle_Of_Jara) | [SaruBacha](https://en.wikipedia.org/wiki/User:SaruBacha) | 3,408 |
-| 2026-10-17 09:23:15 | [Faith Lungu](https://en.wikipedia.org/wiki/Faith_Lungu) | [ChaloNiZambia](https://en.wikipedia.org/wiki/User:ChaloNiZambia) | 2,667 |
-| 2026-10-17 09:30:18 | [2019–20 ŠKF Sereď season](https://en.wikipedia.org/wiki/2019%E2%80%9320_%C5%A0KF_Sere%C4%8F_season) | [Rakeck](https://en.wikipedia.org/wiki/User:Rakeck) | 4,449 |
-| 2026-10-17 09:35:28 | [Ahmad ibn Muhammad ibn Khalid al-Barqi](https://en.wikipedia.org/wiki/Ahmad_ibn_Muhammad_ibn_Khalid_al-Barqi) | [R.tuor](https://en.wikipedia.org/wiki/User:R.tuor) | 8,224 |
-| 2026-10-17 09:36:05 | [Ponovno zajedno](https://en.wikipedia.org/wiki/Ponovno_zajedno) | [Flamingounicorn](https://en.wikipedia.org/wiki/User:Flamingounicorn) | 4,490 |
-| 2026-10-17 09:38:42 | [Tsumadin-Botlikh Campaign](https://en.wikipedia.org/wiki/Tsumadin-Botlikh_Campaign) | [Moltenn9](https://en.wikipedia.org/wiki/User:Moltenn9) | 4,031 |
-| 2026-10-17 09:39:19 | [Načinović](https://en.wikipedia.org/wiki/Na%C4%8Dinovi%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 656 |
-| 2026-10-17 09:40:38 | [Menor (song)](https://en.wikipedia.org/wiki/Menor_%28song%29) | [DominicanWikiEdit1996](https://en.wikipedia.org/wiki/User:DominicanWikiEdit1996) | 3,691 |
-| 2026-10-17 09:42:28 | [Prabha Dhakal](https://en.wikipedia.org/wiki/Prabha_Dhakal) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 6,010 |
-| 2026-10-17 09:45:15 | [Pseudapoderus](https://en.wikipedia.org/wiki/Pseudapoderus) | [PLBF61371](https://en.wikipedia.org/wiki/User:PLBF61371) | 3,259 |
-| 2026-10-17 09:48:14 | [2026 Ningbo Open – Doubles](https://en.wikipedia.org/wiki/2026_Ningbo_Open_%E2%80%93_Doubles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 5,158 |
-| 2026-10-17 09:51:03 | [Serhat Öztaşdelen](https://en.wikipedia.org/wiki/Serhat_%C3%96zta%C5%9Fdelen) | [MindChronicle](https://en.wikipedia.org/wiki/User:MindChronicle) | 3,728 |
-| 2026-10-17 09:53:14 | [Stiernstedt](https://en.wikipedia.org/wiki/Stiernstedt) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 144 |
-| 2026-10-17 09:53:43 | [Von Plomgren](https://en.wikipedia.org/wiki/Von_Plomgren) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 145 |
-| 2026-10-17 09:56:25 | [Oseen](https://en.wikipedia.org/wiki/Oseen) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 221 |
-| 2026-10-17 09:57:46 | [Van Raemdonck](https://en.wikipedia.org/wiki/Van_Raemdonck) | [Edwardx](https://en.wikipedia.org/wiki/User:Edwardx) | 153 |
-| 2026-10-17 10:10:33 | [2021 Canadian Superbike Championship](https://en.wikipedia.org/wiki/2021_Canadian_Superbike_Championship) | [Pattynotheme](https://en.wikipedia.org/wiki/User:Pattynotheme) | 9,810 |
-| 2026-10-17 10:13:55 | [2026 Almaty Open – Doubles](https://en.wikipedia.org/wiki/2026_Almaty_Open_%E2%80%93_Doubles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 4,722 |
-| 2026-10-17 10:17:30 | [FIBA Micronesian Cup](https://en.wikipedia.org/wiki/FIBA_Micronesian_Cup) | [Maiō T.](https://en.wikipedia.org/wiki/User:Mai%C5%8D_T.) | 5,272 |
-| 2026-10-17 10:17:59 | [The Golden Lady (song)](https://en.wikipedia.org/wiki/The_Golden_Lady_%28song%29) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 3,681 |
+| 2026-10-17 10:22:03 | [List of acts of the Parliament of Victoria from 2003](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_2003) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 475 |
+| 2026-10-17 10:22:29 | [List of acts of the Parliament of Victoria from 1998](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1998) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 475 |
+| 2026-10-17 10:22:47 | [List of acts of the Parliament of Victoria from 1999](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1999) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 475 |
+| 2026-10-17 10:23:09 | [List of acts of the Parliament of Victoria from 2005](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_2005) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 475 |
+| 2026-10-17 10:23:20 | [List of acts of the Parliament of Victoria from 2000](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_2000) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 475 |
+| 2026-10-17 10:28:48 | [Dry lacquer](https://en.wikipedia.org/wiki/Dry_lacquer) | [Superdry1003](https://en.wikipedia.org/wiki/User:Superdry1003) | 7,511 |
+| 2026-10-17 10:31:02 | [2026 Japan Women's Open – Doubles](https://en.wikipedia.org/wiki/2026_Japan_Women%27s_Open_%E2%80%93_Doubles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 4,993 |
+| 2026-10-17 10:31:48 | [List of acts of the Parliament of Victoria from 1996](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1996) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 2,114 |
+| 2026-10-17 10:40:33 | [Mylene Garcia-Albano](https://en.wikipedia.org/wiki/Mylene_Garcia-Albano) | [FiveGeekabytes](https://en.wikipedia.org/wiki/User:FiveGeekabytes) | 10,724 |
+| 2026-10-17 10:50:08 | [Barbera Thornhill](https://en.wikipedia.org/wiki/Barbera_Thornhill) | [Realcosmixyt](https://en.wikipedia.org/wiki/User:Realcosmixyt) | 417 |
+| 2026-10-17 10:52:49 | [Carex littledalei](https://en.wikipedia.org/wiki/Carex_littledalei) | [Hughesdarren](https://en.wikipedia.org/wiki/User:Hughesdarren) | 961 |
+| 2026-10-17 10:57:59 | [Miss Mala](https://en.wikipedia.org/wiki/Miss_Mala) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,590 |
+| 2026-10-17 11:02:39 | [Quercus × kewensis](https://en.wikipedia.org/wiki/Quercus_%C3%97_kewensis) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 1,881 |
+| 2026-10-17 11:09:00 | [Roman Catholic Diocese of Bariadi](https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bariadi) | [SiniyaEdita](https://en.wikipedia.org/wiki/User:SiniyaEdita) | 3,722 |
+| 2026-10-17 11:12:03 | [Espoo Funeral Chapel](https://en.wikipedia.org/wiki/Espoo_Funeral_Chapel) | [Miksuko](https://en.wikipedia.org/wiki/User:Miksuko) | 10,596 |
+| 2026-10-17 11:15:25 | [Claude Duchet](https://en.wikipedia.org/wiki/Claude_Duchet) | [Simon Ellistrand](https://en.wikipedia.org/wiki/User:Simon_Ellistrand) | 4,020 |
