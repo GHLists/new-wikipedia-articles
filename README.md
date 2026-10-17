@@ -13,47 +13,44 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-17 06:20 UTC](data/en/new-articles-2026-10-17T06-20-50Z.csv) | 15 |
-| Japanese | `ja` | [2026-10-17 06:20 UTC](data/ja/new-articles-2026-10-17T06-20-50Z.csv) | 11 |
-| Chinese | `zh` | [2026-10-17 06:20 UTC](data/zh/new-articles-2026-10-17T06-20-50Z.csv) | 8 |
-| French | `fr` | [2026-10-17 06:20 UTC](data/fr/new-articles-2026-10-17T06-20-50Z.csv) | 3 |
-| German | `de` | [2026-10-17 06:20 UTC](data/de/new-articles-2026-10-17T06-20-50Z.csv) | 5 |
-| Russian | `ru` | [2026-10-17 06:20 UTC](data/ru/new-articles-2026-10-17T06-20-50Z.csv) | 7 |
-| Spanish | `es` | [2026-10-17 06:20 UTC](data/es/new-articles-2026-10-17T06-20-50Z.csv) | 7 |
-| Italian | `it` | [2026-10-17 06:20 UTC](data/it/new-articles-2026-10-17T06-20-50Z.csv) | 3 |
-| Portuguese | `pt` | [2026-10-17 06:20 UTC](data/pt/new-articles-2026-10-17T06-20-50Z.csv) | 11 |
-| Polish | `pl` | [2026-10-17 06:20 UTC](data/pl/new-articles-2026-10-17T06-20-50Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-17 06:20 UTC](data/ar/new-articles-2026-10-17T06-20-50Z.csv) | 3 |
-| Persian | `fa` | [2026-10-17 06:20 UTC](data/fa/new-articles-2026-10-17T06-20-50Z.csv) | 6 |
-| Turkish | `tr` | [2026-10-17 06:20 UTC](data/tr/new-articles-2026-10-17T06-20-50Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-17 06:20 UTC](data/he/new-articles-2026-10-17T06-20-50Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-17 06:20 UTC](data/sv/new-articles-2026-10-17T06-20-50Z.csv) | 4 |
-| Dutch | `nl` | [2026-10-17 06:20 UTC](data/nl/new-articles-2026-10-17T06-20-50Z.csv) | 1 |
-| Korean | `ko` | [2026-10-17 06:20 UTC](data/ko/new-articles-2026-10-17T06-20-50Z.csv) | 5 |
-| Indonesian | `id` | [2026-10-17 06:20 UTC](data/id/new-articles-2026-10-17T06-20-50Z.csv) | 10 |
-| Ukrainian | `uk` | [2026-10-17 06:20 UTC](data/uk/new-articles-2026-10-17T06-20-50Z.csv) | 3 |
+| English | `en` | [2026-10-17 07:18 UTC](data/en/new-articles-2026-10-17T07-18-39Z.csv) | 12 |
+| Japanese | `ja` | [2026-10-17 07:18 UTC](data/ja/new-articles-2026-10-17T07-18-39Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-17 07:18 UTC](data/zh/new-articles-2026-10-17T07-18-39Z.csv) | 8 |
+| French | `fr` | [2026-10-17 07:18 UTC](data/fr/new-articles-2026-10-17T07-18-39Z.csv) | 3 |
+| German | `de` | [2026-10-17 07:18 UTC](data/de/new-articles-2026-10-17T07-18-39Z.csv) | 8 |
+| Russian | `ru` | [2026-10-17 07:18 UTC](data/ru/new-articles-2026-10-17T07-18-39Z.csv) | 6 |
+| Spanish | `es` | [2026-10-17 07:18 UTC](data/es/new-articles-2026-10-17T07-18-39Z.csv) | 5 |
+| Italian | `it` | [2026-10-17 07:18 UTC](data/it/new-articles-2026-10-17T07-18-39Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-17 07:18 UTC](data/pt/new-articles-2026-10-17T07-18-39Z.csv) | 1 |
+| Polish | `pl` | [2026-10-17 07:18 UTC](data/pl/new-articles-2026-10-17T07-18-39Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-17 07:18 UTC](data/ar/new-articles-2026-10-17T07-18-39Z.csv) | 4 |
+| Persian | `fa` | [2026-10-17 07:18 UTC](data/fa/new-articles-2026-10-17T07-18-39Z.csv) | 23 |
+| Turkish | `tr` | [2026-10-17 07:18 UTC](data/tr/new-articles-2026-10-17T07-18-39Z.csv) | 3 |
+| Hebrew | `he` | [2026-10-17 07:18 UTC](data/he/new-articles-2026-10-17T07-18-39Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-17 07:18 UTC](data/sv/new-articles-2026-10-17T07-18-39Z.csv) | 6 |
+| Dutch | `nl` | [2026-10-17 07:18 UTC](data/nl/new-articles-2026-10-17T07-18-39Z.csv) | 2 |
+| Korean | `ko` | [2026-10-17 07:18 UTC](data/ko/new-articles-2026-10-17T07-18-39Z.csv) | 10 |
+| Indonesian | `id` | [2026-10-17 07:18 UTC](data/id/new-articles-2026-10-17T07-18-39Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-17 07:18 UTC](data/uk/new-articles-2026-10-17T07-18-39Z.csv) | 6 |
 | Vietnamese | `vi` | [2026-10-17 04:21 UTC](data/vi/new-articles-2026-10-17T04-21-24Z.csv) | 4 |
 
-## English (en) — 2026-10-17 06:20 UTC
+## English (en) — 2026-10-17 07:18 UTC
 
-New articles created between 2026-10-17 05:20 UTC and 2026-10-17 06:20 UTC.
+New articles created between 2026-10-17 06:20 UTC and 2026-10-17 07:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-17T06-20-50Z.csv)
+[Full CSV](data/en/new-articles-2026-10-17T07-18-39Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-17 05:23:28 | [Elton de Souza (speed skater)](https://en.wikipedia.org/wiki/Elton_de_Souza_%28speed_skater%29) | [Electricmaster](https://en.wikipedia.org/wiki/User:Electricmaster) | 4,941 |
-| 2026-10-17 05:29:02 | [Gefurulimab](https://en.wikipedia.org/wiki/Gefurulimab) | [Whywhenwhohow](https://en.wikipedia.org/wiki/User:Whywhenwhohow) | 5,872 |
-| 2026-10-17 05:29:56 | [The Burning of the Valleys (1780)](https://en.wikipedia.org/wiki/The_Burning_of_the_Valleys_%281780%29) | [Eclose97](https://en.wikipedia.org/wiki/User:Eclose97) | 5,511 |
-| 2026-10-17 05:37:10 | [Doug Robinson (stuntman)](https://en.wikipedia.org/wiki/Doug_Robinson_%28stuntman%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,152 |
-| 2026-10-17 05:38:27 | [Jan Eise Kromkamp](https://en.wikipedia.org/wiki/Jan_Eise_Kromkamp) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 13,646 |
-| 2026-10-17 05:49:34 | [Teresa Morrissey](https://en.wikipedia.org/wiki/Teresa_Morrissey) | [Schestos](https://en.wikipedia.org/wiki/User:Schestos) | 3,576 |
-| 2026-10-17 05:57:59 | [Hylaeus basilautus](https://en.wikipedia.org/wiki/Hylaeus_basilautus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,545 |
-| 2026-10-17 05:59:40 | [Pacific Southwest Bank Building](https://en.wikipedia.org/wiki/Pacific_Southwest_Bank_Building) | [Gb321](https://en.wikipedia.org/wiki/User:Gb321) | 6,381 |
-| 2026-10-17 06:01:53 | [Door Waadiyon Mein Kahin](https://en.wikipedia.org/wiki/Door_Waadiyon_Mein_Kahin) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,724 |
-| 2026-10-17 06:03:07 | [Furkan Şeker](https://en.wikipedia.org/wiki/Furkan_%C5%9Eeker) | [MindChronicle](https://en.wikipedia.org/wiki/User:MindChronicle) | 13,544 |
-| 2026-10-17 06:03:38 | [Gunnis (surname)](https://en.wikipedia.org/wiki/Gunnis_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 354 |
-| 2026-10-17 06:04:05 | [William Kadouch-Chassaing](https://en.wikipedia.org/wiki/William_Kadouch-Chassaing) | [Wikicapitaineben](https://en.wikipedia.org/wiki/User:Wikicapitaineben) | 4,238 |
-| 2026-10-17 06:13:14 | [List of programs broadcast by Tooncast](https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Tooncast) | [Champoeia](https://en.wikipedia.org/wiki/User:Champoeia) | 5,681 |
-| 2026-10-17 06:15:30 | [The Power of Mama](https://en.wikipedia.org/wiki/The_Power_of_Mama) | [MahengNet](https://en.wikipedia.org/wiki/User:MahengNet) | 5,615 |
-| 2026-10-17 06:20:17 | [Discobola striata](https://en.wikipedia.org/wiki/Discobola_striata) | [Prosperosity](https://en.wikipedia.org/wiki/User:Prosperosity) | 2,368 |
+| 2026-10-17 06:24:08 | [Kowalski (play)](https://en.wikipedia.org/wiki/Kowalski_%28play%29) | [HesioneHushabye](https://en.wikipedia.org/wiki/User:HesioneHushabye) | 5,308 |
+| 2026-10-17 06:31:40 | [Caron Rawnsley](https://en.wikipedia.org/wiki/Caron_Rawnsley) | [Koshuri Sultan](https://en.wikipedia.org/wiki/User:Koshuri_Sultan) | 1,339 |
+| 2026-10-17 06:44:53 | [Diogo José de Noronha](https://en.wikipedia.org/wiki/Diogo_Jos%C3%A9_de_Noronha) | [Filiep](https://en.wikipedia.org/wiki/User:Filiep) | 4,190 |
+| 2026-10-17 06:50:12 | [Danny Watson (broadcaster)](https://en.wikipedia.org/wiki/Danny_Watson_%28broadcaster%29) | [Grutness](https://en.wikipedia.org/wiki/User:Grutness) | 1,743 |
+| 2026-10-17 06:50:13 | [Cine Las Américas](https://en.wikipedia.org/wiki/Cine_Las_Am%C3%A9ricas) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 12,878 |
+| 2026-10-17 06:53:36 | [1st Military Region](https://en.wikipedia.org/wiki/1st_Military_Region) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 178 |
+| 2026-10-17 06:56:01 | [2nd Military Region](https://en.wikipedia.org/wiki/2nd_Military_Region) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 178 |
+| 2026-10-17 06:57:01 | [3rd Military Region](https://en.wikipedia.org/wiki/3rd_Military_Region) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 178 |
+| 2026-10-17 07:04:12 | [Chinnalingapur](https://en.wikipedia.org/wiki/Chinnalingapur) | [19thcenturyhistory](https://en.wikipedia.org/wiki/User:19thcenturyhistory) | 6,151 |
+| 2026-10-17 07:04:19 | [9th Military Region](https://en.wikipedia.org/wiki/9th_Military_Region) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 141 |
+| 2026-10-17 07:04:56 | [Seer Robotics](https://en.wikipedia.org/wiki/Seer_Robotics) | [ChildhoodC](https://en.wikipedia.org/wiki/User:ChildhoodC) | 6,314 |
+| 2026-10-17 07:06:16 | [7th Military Region](https://en.wikipedia.org/wiki/7th_Military_Region) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 140 |
