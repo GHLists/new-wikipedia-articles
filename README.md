@@ -13,49 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-18 03:19 UTC](data/en/new-articles-2026-10-18T03-19-28Z.csv) | 17 |
-| Japanese | `ja` | [2026-10-18 03:19 UTC](data/ja/new-articles-2026-10-18T03-19-28Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-18 03:19 UTC](data/zh/new-articles-2026-10-18T03-19-28Z.csv) | 6 |
-| French | `fr` | [2026-10-18 03:19 UTC](data/fr/new-articles-2026-10-18T03-19-28Z.csv) | 2 |
-| German | `de` | [2026-10-18 03:19 UTC](data/de/new-articles-2026-10-18T03-19-28Z.csv) | 1 |
-| Russian | `ru` | [2026-10-18 03:19 UTC](data/ru/new-articles-2026-10-18T03-19-28Z.csv) | 2 |
-| Spanish | `es` | [2026-10-18 03:19 UTC](data/es/new-articles-2026-10-18T03-19-28Z.csv) | 6 |
+| English | `en` | [2026-10-18 04:21 UTC](data/en/new-articles-2026-10-18T04-21-49Z.csv) | 18 |
+| Japanese | `ja` | [2026-10-18 04:21 UTC](data/ja/new-articles-2026-10-18T04-21-49Z.csv) | 5 |
+| Chinese | `zh` | [2026-10-18 04:21 UTC](data/zh/new-articles-2026-10-18T04-21-49Z.csv) | 2 |
+| French | `fr` | [2026-10-18 04:21 UTC](data/fr/new-articles-2026-10-18T04-21-49Z.csv) | 3 |
+| German | `de` | [2026-10-18 04:21 UTC](data/de/new-articles-2026-10-18T04-21-49Z.csv) | 2 |
+| Russian | `ru` | [2026-10-18 04:21 UTC](data/ru/new-articles-2026-10-18T04-21-49Z.csv) | 10 |
+| Spanish | `es` | [2026-10-18 04:21 UTC](data/es/new-articles-2026-10-18T04-21-49Z.csv) | 1 |
 | Italian | `it` | [2026-10-18 03:19 UTC](data/it/new-articles-2026-10-18T03-19-28Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-18 03:19 UTC](data/pt/new-articles-2026-10-18T03-19-28Z.csv) | 4 |
-| Polish | `pl` | [2026-10-18 03:19 UTC](data/pl/new-articles-2026-10-18T03-19-28Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-18 03:19 UTC](data/ar/new-articles-2026-10-18T03-19-28Z.csv) | 1 |
-| Persian | `fa` | [2026-10-18 03:19 UTC](data/fa/new-articles-2026-10-18T03-19-28Z.csv) | 4 |
-| Turkish | `tr` | [2026-10-18 02:18 UTC](data/tr/new-articles-2026-10-18T02-18-58Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-18 02:18 UTC](data/he/new-articles-2026-10-18T02-18-58Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-18 03:19 UTC](data/sv/new-articles-2026-10-18T03-19-28Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-18 04:21 UTC](data/pt/new-articles-2026-10-18T04-21-49Z.csv) | 7 |
+| Polish | `pl` | [2026-10-18 04:21 UTC](data/pl/new-articles-2026-10-18T04-21-49Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-18 04:21 UTC](data/ar/new-articles-2026-10-18T04-21-49Z.csv) | 4 |
+| Persian | `fa` | [2026-10-18 04:21 UTC](data/fa/new-articles-2026-10-18T04-21-49Z.csv) | 5 |
+| Turkish | `tr` | [2026-10-18 04:21 UTC](data/tr/new-articles-2026-10-18T04-21-49Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-18 04:21 UTC](data/he/new-articles-2026-10-18T04-21-49Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-18 04:21 UTC](data/sv/new-articles-2026-10-18T04-21-49Z.csv) | 1 |
 | Dutch | `nl` | [2026-10-18 03:19 UTC](data/nl/new-articles-2026-10-18T03-19-28Z.csv) | 1 |
-| Korean | `ko` | [2026-10-18 03:19 UTC](data/ko/new-articles-2026-10-18T03-19-28Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-18 03:19 UTC](data/id/new-articles-2026-10-18T03-19-28Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-18 03:19 UTC](data/uk/new-articles-2026-10-18T03-19-28Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-10-18 03:19 UTC](data/vi/new-articles-2026-10-18T03-19-28Z.csv) | 3 |
+| Korean | `ko` | [2026-10-18 04:21 UTC](data/ko/new-articles-2026-10-18T04-21-49Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-18 04:21 UTC](data/id/new-articles-2026-10-18T04-21-49Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-18 04:21 UTC](data/uk/new-articles-2026-10-18T04-21-49Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-10-18 04:21 UTC](data/vi/new-articles-2026-10-18T04-21-49Z.csv) | 3 |
 
-## English (en) — 2026-10-18 03:19 UTC
+## English (en) — 2026-10-18 04:21 UTC
 
-New articles created between 2026-10-18 02:18 UTC and 2026-10-18 03:19 UTC.
+New articles created between 2026-10-18 03:19 UTC and 2026-10-18 04:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-18T03-19-28Z.csv)
+[Full CSV](data/en/new-articles-2026-10-18T04-21-49Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-18 02:25:32 | [Montanatylopus](https://en.wikipedia.org/wiki/Montanatylopus) | [NGPezz](https://en.wikipedia.org/wiki/User:NGPezz) | 2,721 |
-| 2026-10-18 02:35:31 | [John Leech Gallery](https://en.wikipedia.org/wiki/John_Leech_Gallery) | [Grutness](https://en.wikipedia.org/wiki/User:Grutness) | 2,991 |
-| 2026-10-18 02:35:41 | [Fort Ragogno (Italy)](https://en.wikipedia.org/wiki/Fort_Ragogno_%28Italy%29) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 2,085 |
-| 2026-10-18 02:41:01 | [Fade to Black (Evil Masquerade album)](https://en.wikipedia.org/wiki/Fade_to_Black_%28Evil_Masquerade_album%29) | [SirZPthundergod9001](https://en.wikipedia.org/wiki/User:SirZPthundergod9001) | 3,012 |
-| 2026-10-18 02:41:05 | [Pentagram (Evil Masquerade album)](https://en.wikipedia.org/wiki/Pentagram_%28Evil_Masquerade_album%29) | [SirZPthundergod9001](https://en.wikipedia.org/wiki/User:SirZPthundergod9001) | 3,383 |
-| 2026-10-18 02:44:19 | [Treaty of Friendship, Commerce and Navigation between Siam and Japan](https://en.wikipedia.org/wiki/Treaty_of_Friendship%2C_Commerce_and_Navigation_between_Siam_and_Japan) | [วรุฒ หิ่มสาใจ](https://en.wikipedia.org/wiki/User:%E0%B8%A7%E0%B8%A3%E0%B8%B8%E0%B8%92_%E0%B8%AB%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B9%83%E0%B8%88) | 2,618 |
-| 2026-10-18 02:44:21 | [Atō Sengai](https://en.wikipedia.org/wiki/At%C5%8D_Sengai) | [Wmpearl](https://en.wikipedia.org/wiki/User:Wmpearl) | 827 |
-| 2026-10-18 02:47:53 | [Urachiche Municipality](https://en.wikipedia.org/wiki/Urachiche_Municipality) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 4,937 |
-| 2026-10-18 02:54:36 | [Maradan Carson](https://en.wikipedia.org/wiki/Maradan_Carson) | [Aciram](https://en.wikipedia.org/wiki/User:Aciram) | 3,850 |
-| 2026-10-18 02:55:57 | [Mario Family](https://en.wikipedia.org/wiki/Mario_Family) | [2005-Fan](https://en.wikipedia.org/wiki/User:2005-Fan) | 13,152 |
-| 2026-10-18 03:01:45 | [Zanskar Valley](https://en.wikipedia.org/wiki/Zanskar_Valley) | [Third003](https://en.wikipedia.org/wiki/User:Third003) | 4,762 |
-| 2026-10-18 03:02:37 | [O Concreto Já Rachou](https://en.wikipedia.org/wiki/O_Concreto_J%C3%A1_Rachou) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,660 |
-| 2026-10-18 03:04:31 | [Regime Change (disambiguation)](https://en.wikipedia.org/wiki/Regime_Change_%28disambiguation%29) | [Malerisch](https://en.wikipedia.org/wiki/User:Malerisch) | 366 |
-| 2026-10-18 03:09:36 | [Daylyn Upshaw](https://en.wikipedia.org/wiki/Daylyn_Upshaw) | [Butters.From.SouthPark](https://en.wikipedia.org/wiki/User:Butters.From.SouthPark) | 145 |
-| 2026-10-18 03:12:26 | [Massagris budongo](https://en.wikipedia.org/wiki/Massagris_budongo) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,103 |
-| 2026-10-18 03:12:30 | [Institute for Computer-Aided Reasoning in Mathematics](https://en.wikipedia.org/wiki/Institute_for_Computer-Aided_Reasoning_in_Mathematics) | [Melchoir](https://en.wikipedia.org/wiki/User:Melchoir) | 1,105 |
-| 2026-10-18 03:17:16 | [Wadha Ahmed Al-Khateeb](https://en.wikipedia.org/wiki/Wadha_Ahmed_Al-Khateeb) | [CSIfan2007](https://en.wikipedia.org/wiki/User:CSIfan2007) | 2,135 |
+| 2026-10-18 03:21:24 | [Rumbolt](https://en.wikipedia.org/wiki/Rumbolt) | [EditDude](https://en.wikipedia.org/wiki/User:EditDude) | 242 |
+| 2026-10-18 03:22:32 | [Phintella bella](https://en.wikipedia.org/wiki/Phintella_bella) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,098 |
+| 2026-10-18 03:26:36 | [Lesbian culture in Mexico City](https://en.wikipedia.org/wiki/Lesbian_culture_in_Mexico_City) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 62,086 |
+| 2026-10-18 03:29:51 | [List of Drake samples and sampling disputes](https://en.wikipedia.org/wiki/List_of_Drake_samples_and_sampling_disputes) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 72,241 |
+| 2026-10-18 03:30:00 | [Lorancahyus](https://en.wikipedia.org/wiki/Lorancahyus) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 2,393 |
+| 2026-10-18 03:31:43 | [2026 French protests](https://en.wikipedia.org/wiki/2026_French_protests) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 191 |
+| 2026-10-18 03:35:57 | [Wisconsin's Dodge County 1st Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Dodge_County_1st_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 16,435 |
+| 2026-10-18 03:35:58 | [Chambers, Washington](https://en.wikipedia.org/wiki/Chambers%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 3,011 |
+| 2026-10-18 03:39:56 | [Yo-E Ryou](https://en.wikipedia.org/wiki/Yo-E_Ryou) | [StoppedTime](https://en.wikipedia.org/wiki/User:StoppedTime) | 4,189 |
+| 2026-10-18 03:42:06 | [Langona pallida](https://en.wikipedia.org/wiki/Langona_pallida) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,067 |
+| 2026-10-18 03:45:34 | [4th Anti-tank Regiment, RCA](https://en.wikipedia.org/wiki/4th_Anti-tank_Regiment%2C_RCA) | [SilkCameron](https://en.wikipedia.org/wiki/User:SilkCameron) | 6,937 |
+| 2026-10-18 04:04:33 | [Toniyuh](https://en.wikipedia.org/wiki/Toniyuh) | [AdobongPogi](https://en.wikipedia.org/wiki/User:AdobongPogi) | 6,392 |
+| 2026-10-18 04:05:32 | [Love & Hyperbole Tour](https://en.wikipedia.org/wiki/Love_%26_Hyperbole_Tour) | [LoremIpsum423](https://en.wikipedia.org/wiki/User:LoremIpsum423) | 8,437 |
+| 2026-10-18 04:07:22 | [Sinking of MV Dayang Topaz](https://en.wikipedia.org/wiki/Sinking_of_MV_Dayang_Topaz) | [Shahsukanulis](https://en.wikipedia.org/wiki/User:Shahsukanulis) | 5,818 |
+| 2026-10-18 04:11:22 | [Results of the 2026 South Australian state election](https://en.wikipedia.org/wiki/Results_of_the_2026_South_Australian_state_election) | [GuesanLoyalist](https://en.wikipedia.org/wiki/User:GuesanLoyalist) | 196 |
+| 2026-10-18 04:13:28 | [Ladrón de Guevara](https://en.wikipedia.org/wiki/Ladr%C3%B3n_de_Guevara) | [Moscow Mule](https://en.wikipedia.org/wiki/User:Moscow_Mule) | 1,634 |
+| 2026-10-18 04:16:39 | [Lakshmanaraja I](https://en.wikipedia.org/wiki/Lakshmanaraja_I) | [Utcursch](https://en.wikipedia.org/wiki/User:Utcursch) | 4,154 |
+| 2026-10-18 04:20:45 | [Mokaraka](https://en.wikipedia.org/wiki/Mokaraka) | [Ebalia Nux](https://en.wikipedia.org/wiki/User:Ebalia_Nux) | 219 |
