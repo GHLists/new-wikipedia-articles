@@ -13,58 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-19 20:19 UTC](data/en/new-articles-2026-10-19T20-19-35Z.csv) | 26 |
-| Japanese | `ja` | [2026-10-19 18:22 UTC](data/ja/new-articles-2026-10-19T18-22-14Z.csv) | 1 |
-| Chinese | `zh` | [2026-10-19 19:19 UTC](data/zh/new-articles-2026-10-19T19-19-47Z.csv) | 1 |
-| French | `fr` | [2026-10-19 20:19 UTC](data/fr/new-articles-2026-10-19T20-19-35Z.csv) | 9 |
-| German | `de` | [2026-10-19 20:19 UTC](data/de/new-articles-2026-10-19T20-19-35Z.csv) | 20 |
-| Russian | `ru` | [2026-10-19 20:19 UTC](data/ru/new-articles-2026-10-19T20-19-35Z.csv) | 9 |
-| Spanish | `es` | [2026-10-19 20:19 UTC](data/es/new-articles-2026-10-19T20-19-35Z.csv) | 16 |
-| Italian | `it` | [2026-10-19 20:19 UTC](data/it/new-articles-2026-10-19T20-19-35Z.csv) | 15 |
-| Portuguese | `pt` | [2026-10-19 20:19 UTC](data/pt/new-articles-2026-10-19T20-19-35Z.csv) | 16 |
-| Polish | `pl` | [2026-10-19 20:19 UTC](data/pl/new-articles-2026-10-19T20-19-35Z.csv) | 10 |
-| Arabic | `ar` | [2026-10-19 20:19 UTC](data/ar/new-articles-2026-10-19T20-19-35Z.csv) | 6 |
-| Persian | `fa` | [2026-10-19 20:19 UTC](data/fa/new-articles-2026-10-19T20-19-35Z.csv) | 5 |
-| Turkish | `tr` | [2026-10-19 20:19 UTC](data/tr/new-articles-2026-10-19T20-19-35Z.csv) | 9 |
-| Hebrew | `he` | [2026-10-19 20:19 UTC](data/he/new-articles-2026-10-19T20-19-35Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-19 20:19 UTC](data/sv/new-articles-2026-10-19T20-19-35Z.csv) | 4 |
-| Dutch | `nl` | [2026-10-19 20:19 UTC](data/nl/new-articles-2026-10-19T20-19-35Z.csv) | 7 |
+| English | `en` | [2026-10-19 21:19 UTC](data/en/new-articles-2026-10-19T21-19-42Z.csv) | 19 |
+| Japanese | `ja` | [2026-10-19 21:19 UTC](data/ja/new-articles-2026-10-19T21-19-42Z.csv) | 3 |
+| Chinese | `zh` | [2026-10-19 21:19 UTC](data/zh/new-articles-2026-10-19T21-19-42Z.csv) | 1 |
+| French | `fr` | [2026-10-19 21:19 UTC](data/fr/new-articles-2026-10-19T21-19-42Z.csv) | 8 |
+| German | `de` | [2026-10-19 21:19 UTC](data/de/new-articles-2026-10-19T21-19-42Z.csv) | 4 |
+| Russian | `ru` | [2026-10-19 21:19 UTC](data/ru/new-articles-2026-10-19T21-19-42Z.csv) | 8 |
+| Spanish | `es` | [2026-10-19 21:19 UTC](data/es/new-articles-2026-10-19T21-19-42Z.csv) | 6 |
+| Italian | `it` | [2026-10-19 21:19 UTC](data/it/new-articles-2026-10-19T21-19-42Z.csv) | 9 |
+| Portuguese | `pt` | [2026-10-19 21:19 UTC](data/pt/new-articles-2026-10-19T21-19-42Z.csv) | 16 |
+| Polish | `pl` | [2026-10-19 21:19 UTC](data/pl/new-articles-2026-10-19T21-19-42Z.csv) | 12 |
+| Arabic | `ar` | [2026-10-19 21:19 UTC](data/ar/new-articles-2026-10-19T21-19-42Z.csv) | 5 |
+| Persian | `fa` | [2026-10-19 21:19 UTC](data/fa/new-articles-2026-10-19T21-19-42Z.csv) | 6 |
+| Turkish | `tr` | [2026-10-19 21:19 UTC](data/tr/new-articles-2026-10-19T21-19-42Z.csv) | 85 |
+| Hebrew | `he` | [2026-10-19 21:19 UTC](data/he/new-articles-2026-10-19T21-19-42Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-19 21:19 UTC](data/sv/new-articles-2026-10-19T21-19-42Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-19 21:19 UTC](data/nl/new-articles-2026-10-19T21-19-42Z.csv) | 3 |
 | Korean | `ko` | [2026-10-19 19:19 UTC](data/ko/new-articles-2026-10-19T19-19-47Z.csv) | 1 |
 | Indonesian | `id` | [2026-10-19 17:19 UTC](data/id/new-articles-2026-10-19T17-19-00Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-19 20:19 UTC](data/uk/new-articles-2026-10-19T20-19-35Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-10-19 17:19 UTC](data/vi/new-articles-2026-10-19T17-19-00Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-19 21:19 UTC](data/uk/new-articles-2026-10-19T21-19-42Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-19 21:19 UTC](data/vi/new-articles-2026-10-19T21-19-42Z.csv) | 1 |
 
-## English (en) — 2026-10-19 20:19 UTC
+## English (en) — 2026-10-19 21:19 UTC
 
-New articles created between 2026-10-19 19:19 UTC and 2026-10-19 20:19 UTC.
+New articles created between 2026-10-19 20:19 UTC and 2026-10-19 21:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-19T20-19-35Z.csv)
+[Full CSV](data/en/new-articles-2026-10-19T21-19-42Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-19 19:21:21 | [Natalie Galstyan](https://en.wikipedia.org/wiki/Natalie_Galstyan) | [Yadsalohcin](https://en.wikipedia.org/wiki/User:Yadsalohcin) | 4,511 |
-| 2026-10-19 19:32:14 | [El Sadig El Foka](https://en.wikipedia.org/wiki/El_Sadig_El_Foka) | [Jebiguess](https://en.wikipedia.org/wiki/User:Jebiguess) | 6,320 |
-| 2026-10-19 19:35:45 | [William Hargrave (bass-baritone)](https://en.wikipedia.org/wiki/William_Hargrave_%28bass-baritone%29) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 5,637 |
-| 2026-10-19 19:36:42 | [Fangguo](https://en.wikipedia.org/wiki/Fangguo) | [Shira the Mogul](https://en.wikipedia.org/wiki/User:Shira_the_Mogul) | 15,262 |
-| 2026-10-19 19:36:53 | [Józef Hartman](https://en.wikipedia.org/wiki/J%C3%B3zef_Hartman) | [CrownedeaglePL](https://en.wikipedia.org/wiki/User:CrownedeaglePL) | 23,322 |
-| 2026-10-19 19:37:11 | [Ravi Budigina](https://en.wikipedia.org/wiki/Ravi_Budigina) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,180 |
-| 2026-10-19 19:44:58 | [El precio del rescate: La conspiración de PrincessRose](https://en.wikipedia.org/wiki/El_precio_del_rescate%3A_La_conspiraci%C3%B3n_de_PrincessRose) | [Rosecachelle](https://en.wikipedia.org/wiki/User:Rosecachelle) | 14,064 |
-| 2026-10-19 19:47:37 | [Betty McGuire (actress)](https://en.wikipedia.org/wiki/Betty_McGuire_%28actress%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,937 |
-| 2026-10-19 19:49:14 | [2026-27 Hamrun Spartans F.C. season](https://en.wikipedia.org/wiki/2026-27_Hamrun_Spartans_F.C._season) | [VivaMintoff](https://en.wikipedia.org/wiki/User:VivaMintoff) | 386 |
-| 2026-10-19 19:51:07 | [Onufriyev](https://en.wikipedia.org/wiki/Onufriyev) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 651 |
-| 2026-10-19 19:52:08 | [Nshamba Muzungu](https://en.wikipedia.org/wiki/Nshamba_Muzungu) | [ClementSyuulu](https://en.wikipedia.org/wiki/User:ClementSyuulu) | 438 |
-| 2026-10-19 19:52:17 | [Technical College of the Federal University of Minas Gerais](https://en.wikipedia.org/wiki/Technical_College_of_the_Federal_University_of_Minas_Gerais) | [Andrevruas](https://en.wikipedia.org/wiki/User:Andrevruas) | 6,457 |
-| 2026-10-19 19:52:42 | [Cedrelopsis microfoliolata](https://en.wikipedia.org/wiki/Cedrelopsis_microfoliolata) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 342 |
-| 2026-10-19 19:54:38 | [House of the Wind (film)](https://en.wikipedia.org/wiki/House_of_the_Wind_%28film%29) | [Martineden83](https://en.wikipedia.org/wiki/User:Martineden83) | 5,033 |
-| 2026-10-19 19:56:04 | [Ocean Beach Park (Long Beach, New York)](https://en.wikipedia.org/wiki/Ocean_Beach_Park_%28Long_Beach%2C_New_York%29) | [Infrastorian](https://en.wikipedia.org/wiki/User:Infrastorian) | 6,283 |
-| 2026-10-19 19:56:20 | [Cam Porter](https://en.wikipedia.org/wiki/Cam_Porter) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,436 |
-| 2026-10-19 19:58:43 | [Coryphantha clavata](https://en.wikipedia.org/wiki/Coryphantha_clavata) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 10,952 |
-| 2026-10-19 19:58:58 | [Lord Tyrawley's Regiment of Foot](https://en.wikipedia.org/wiki/Lord_Tyrawley%27s_Regiment_of_Foot) | [DonBeroni](https://en.wikipedia.org/wiki/User:DonBeroni) | 290 |
-| 2026-10-19 19:59:56 | [Ian Ghislain Ngoulou](https://en.wikipedia.org/wiki/Ian_Ghislain_Ngoulou) | [Jebiguess](https://en.wikipedia.org/wiki/User:Jebiguess) | 4,547 |
-| 2026-10-19 20:00:14 | [Kidnapping of Elizabeth Thomas](https://en.wikipedia.org/wiki/Kidnapping_of_Elizabeth_Thomas) | [Bairdsparrow](https://en.wikipedia.org/wiki/User:Bairdsparrow) | 10,988 |
-| 2026-10-19 20:02:58 | [List of presidents of the Province of Medio Campidano](https://en.wikipedia.org/wiki/List_of_presidents_of_the_Province_of_Medio_Campidano) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 6,017 |
-| 2026-10-19 20:04:13 | [Buffalo bills community](https://en.wikipedia.org/wiki/Buffalo_bills_community) | [Businessxeto](https://en.wikipedia.org/wiki/User:Businessxeto) | 1,746 |
-| 2026-10-19 20:10:20 | [1796 United States presidential election in Tennessee](https://en.wikipedia.org/wiki/1796_United_States_presidential_election_in_Tennessee) | [Shorty Baller](https://en.wikipedia.org/wiki/User:Shorty_Baller) | 1,570 |
-| 2026-10-19 20:14:13 | [Ranjit Pun](https://en.wikipedia.org/wiki/Ranjit_Pun) | [PunsingHKUK](https://en.wikipedia.org/wiki/User:PunsingHKUK) | 1,874 |
-| 2026-10-19 20:17:17 | [Fornalski](https://en.wikipedia.org/wiki/Fornalski) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 672 |
-| 2026-10-19 20:18:18 | [Jack Harrer](https://en.wikipedia.org/wiki/Jack_Harrer) | [ValenciaThunderbolt](https://en.wikipedia.org/wiki/User:ValenciaThunderbolt) | 7,713 |
+| 2026-10-19 20:31:08 | [LYGG](https://en.wikipedia.org/wiki/LYGG) | [Class66501](https://en.wikipedia.org/wiki/User:Class66501) | 3,179 |
+| 2026-10-19 20:34:41 | [Responses to the Flint water crisis](https://en.wikipedia.org/wiki/Responses_to_the_Flint_water_crisis) | [Reconrabbit](https://en.wikipedia.org/wiki/User:Reconrabbit) | 51,099 |
+| 2026-10-19 20:43:09 | [Bob Fllay](https://en.wikipedia.org/wiki/Bob_Fllay) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,748 |
+| 2026-10-19 20:46:12 | [SLB Defensive Player of the Year Award](https://en.wikipedia.org/wiki/SLB_Defensive_Player_of_the_Year_Award) | [Redcricket65](https://en.wikipedia.org/wiki/User:Redcricket65) | 2,921 |
+| 2026-10-19 20:49:08 | [Balrog Banter](https://en.wikipedia.org/wiki/Balrog_Banter) | [Guinness323](https://en.wikipedia.org/wiki/User:Guinness323) | 3,579 |
+| 2026-10-19 20:50:09 | [Draw You Out](https://en.wikipedia.org/wiki/Draw_You_Out) | [Alékoloco](https://en.wikipedia.org/wiki/User:Al%C3%A9koloco) | 4,754 |
+| 2026-10-19 20:52:28 | [Lícia Magna](https://en.wikipedia.org/wiki/L%C3%ADcia_Magna) | [LIrala](https://en.wikipedia.org/wiki/User:LIrala) | 11,847 |
+| 2026-10-19 20:52:44 | [1934–35 New Britain Jackaways / Mules season](https://en.wikipedia.org/wiki/1934%E2%80%9335_New_Britain_Jackaways_/_Mules_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 9,114 |
+| 2026-10-19 20:56:46 | [British Glass Industry Research Association](https://en.wikipedia.org/wiki/British_Glass_Industry_Research_Association) | [Kyteto](https://en.wikipedia.org/wiki/User:Kyteto) | 2,885 |
+| 2026-10-19 20:59:04 | [Lucius C. Walker](https://en.wikipedia.org/wiki/Lucius_C._Walker) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 5,586 |
+| 2026-10-19 21:04:53 | [1934–35 New Britain Jackaways season](https://en.wikipedia.org/wiki/1934%E2%80%9335_New_Britain_Jackaways_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 7,277 |
+| 2026-10-19 21:11:37 | [Robert Carlin (disambiguation)](https://en.wikipedia.org/wiki/Robert_Carlin_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 289 |
+| 2026-10-19 21:11:52 | [Nebraska Legislature 34th district](https://en.wikipedia.org/wiki/Nebraska_Legislature_34th_district) | [Basileus121](https://en.wikipedia.org/wiki/User:Basileus121) | 6,412 |
+| 2026-10-19 21:12:26 | [Daniela Stauch](https://en.wikipedia.org/wiki/Daniela_Stauch) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,779 |
+| 2026-10-19 21:15:27 | [92nd Rifle Division](https://en.wikipedia.org/wiki/92nd_Rifle_Division) | [Wreck Smurfy](https://en.wikipedia.org/wiki/User:Wreck_Smurfy) | 3,841 |
+| 2026-10-19 21:18:18 | [Sapieha Madonna](https://en.wikipedia.org/wiki/Sapieha_Madonna) | [Pofka](https://en.wikipedia.org/wiki/User:Pofka) | 8,331 |
+| 2026-10-19 21:18:26 | [9th Infantry Tiger Division](https://en.wikipedia.org/wiki/9th_Infantry_Tiger_Division) | [Yeahimaboss413](https://en.wikipedia.org/wiki/User:Yeahimaboss413) | 2,889 |
+| 2026-10-19 21:18:58 | [2026-27 Sam Houston Bearkats men's basketball team](https://en.wikipedia.org/wiki/2026-27_Sam_Houston_Bearkats_men%27s_basketball_team) | [DMoney1107](https://en.wikipedia.org/wiki/User:DMoney1107) | 25,764 |
+| 2026-10-19 21:19:40 | [1934–35 Newark / New Britain Mules season](https://en.wikipedia.org/wiki/1934%E2%80%9335_Newark_/_New_Britain_Mules_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,502 |
