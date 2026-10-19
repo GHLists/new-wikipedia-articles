@@ -13,51 +13,47 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-19 03:21 UTC](data/en/new-articles-2026-10-19T03-21-32Z.csv) | 19 |
-| Japanese | `ja` | [2026-10-19 03:21 UTC](data/ja/new-articles-2026-10-19T03-21-32Z.csv) | 3 |
-| Chinese | `zh` | [2026-10-19 03:21 UTC](data/zh/new-articles-2026-10-19T03-21-32Z.csv) | 1 |
-| French | `fr` | [2026-10-19 03:21 UTC](data/fr/new-articles-2026-10-19T03-21-32Z.csv) | 8 |
-| German | `de` | [2026-10-19 03:21 UTC](data/de/new-articles-2026-10-19T03-21-32Z.csv) | 4 |
-| Russian | `ru` | [2026-10-19 03:21 UTC](data/ru/new-articles-2026-10-19T03-21-32Z.csv) | 8 |
-| Spanish | `es` | [2026-10-19 03:21 UTC](data/es/new-articles-2026-10-19T03-21-32Z.csv) | 5 |
-| Italian | `it` | [2026-10-19 02:18 UTC](data/it/new-articles-2026-10-19T02-18-59Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-19 03:21 UTC](data/pt/new-articles-2026-10-19T03-21-32Z.csv) | 7 |
-| Polish | `pl` | [2026-10-19 03:21 UTC](data/pl/new-articles-2026-10-19T03-21-32Z.csv) | 1 |
+| English | `en` | [2026-10-19 04:21 UTC](data/en/new-articles-2026-10-19T04-21-03Z.csv) | 15 |
+| Japanese | `ja` | [2026-10-19 04:21 UTC](data/ja/new-articles-2026-10-19T04-21-03Z.csv) | 16 |
+| Chinese | `zh` | [2026-10-19 04:21 UTC](data/zh/new-articles-2026-10-19T04-21-03Z.csv) | 2 |
+| French | `fr` | [2026-10-19 04:21 UTC](data/fr/new-articles-2026-10-19T04-21-03Z.csv) | 5 |
+| German | `de` | [2026-10-19 04:21 UTC](data/de/new-articles-2026-10-19T04-21-03Z.csv) | 1 |
+| Russian | `ru` | [2026-10-19 04:21 UTC](data/ru/new-articles-2026-10-19T04-21-03Z.csv) | 7 |
+| Spanish | `es` | [2026-10-19 04:21 UTC](data/es/new-articles-2026-10-19T04-21-03Z.csv) | 9 |
+| Italian | `it` | [2026-10-19 04:21 UTC](data/it/new-articles-2026-10-19T04-21-03Z.csv) | 4 |
+| Portuguese | `pt` | [2026-10-19 04:21 UTC](data/pt/new-articles-2026-10-19T04-21-03Z.csv) | 14 |
+| Polish | `pl` | [2026-10-19 04:21 UTC](data/pl/new-articles-2026-10-19T04-21-03Z.csv) | 5 |
 | Arabic | `ar` | [2026-10-19 02:18 UTC](data/ar/new-articles-2026-10-19T02-18-59Z.csv) | 2 |
-| Persian | `fa` | [2026-10-19 03:21 UTC](data/fa/new-articles-2026-10-19T03-21-32Z.csv) | 9 |
+| Persian | `fa` | [2026-10-19 04:21 UTC](data/fa/new-articles-2026-10-19T04-21-03Z.csv) | 1 |
 | Turkish | `tr` | [2026-10-19 03:21 UTC](data/tr/new-articles-2026-10-19T03-21-32Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-19 03:21 UTC](data/he/new-articles-2026-10-19T03-21-32Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-19 00:20 UTC](data/sv/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-19 02:18 UTC](data/nl/new-articles-2026-10-19T02-18-59Z.csv) | 1 |
-| Korean | `ko` | [2026-10-19 03:21 UTC](data/ko/new-articles-2026-10-19T03-21-32Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-19 03:21 UTC](data/id/new-articles-2026-10-19T03-21-32Z.csv) | 9 |
+| Hebrew | `he` | [2026-10-19 04:21 UTC](data/he/new-articles-2026-10-19T04-21-03Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-19 04:21 UTC](data/sv/new-articles-2026-10-19T04-21-03Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-19 04:21 UTC](data/nl/new-articles-2026-10-19T04-21-03Z.csv) | 1 |
+| Korean | `ko` | [2026-10-19 04:21 UTC](data/ko/new-articles-2026-10-19T04-21-03Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-19 04:21 UTC](data/id/new-articles-2026-10-19T04-21-03Z.csv) | 5 |
 | Ukrainian | `uk` | [2026-10-19 01:18 UTC](data/uk/new-articles-2026-10-19T01-18-54Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-10-19 03:21 UTC](data/vi/new-articles-2026-10-19T03-21-32Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-10-19 04:21 UTC](data/vi/new-articles-2026-10-19T04-21-03Z.csv) | 1 |
 
-## English (en) — 2026-10-19 03:21 UTC
+## English (en) — 2026-10-19 04:21 UTC
 
-New articles created between 2026-10-19 02:18 UTC and 2026-10-19 03:21 UTC.
+New articles created between 2026-10-19 03:21 UTC and 2026-10-19 04:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-19T03-21-32Z.csv)
+[Full CSV](data/en/new-articles-2026-10-19T04-21-03Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-19 02:21:58 | [Japanese potential form](https://en.wikipedia.org/wiki/Japanese_potential_form) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 63,917 |
-| 2026-10-19 02:26:29 | [The Drama of Inês de Castro](https://en.wikipedia.org/wiki/The_Drama_of_In%C3%AAs_de_Castro) | [Mistico Dois](https://en.wikipedia.org/wiki/User:Mistico_Dois) | 2,549 |
-| 2026-10-19 02:27:17 | [Epigraphic Database Roma](https://en.wikipedia.org/wiki/Epigraphic_Database_Roma) | [Altovolcano](https://en.wikipedia.org/wiki/User:Altovolcano) | 11,243 |
-| 2026-10-19 02:28:13 | [Japanese causative form](https://en.wikipedia.org/wiki/Japanese_causative_form) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 117,499 |
-| 2026-10-19 02:35:25 | [Apsara (TV series)](https://en.wikipedia.org/wiki/Apsara_%28TV_series%29) | [DannyMalhotra](https://en.wikipedia.org/wiki/User:DannyMalhotra) | 3,568 |
-| 2026-10-19 02:35:55 | [Japanese hortative form](https://en.wikipedia.org/wiki/Japanese_hortative_form) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 169,117 |
-| 2026-10-19 02:36:41 | [Hard Scuffle Hurdle Stakes](https://en.wikipedia.org/wiki/Hard_Scuffle_Hurdle_Stakes) | [CaliPharoah6615](https://en.wikipedia.org/wiki/User:CaliPharoah6615) | 3,871 |
-| 2026-10-19 02:36:52 | [Pinka Hapsari](https://en.wikipedia.org/wiki/Pinka_Hapsari) | [OnAir21](https://en.wikipedia.org/wiki/User:OnAir21) | 2,067 |
-| 2026-10-19 02:37:01 | [Poligolet](https://en.wikipedia.org/wiki/Poligolet) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 9,489 |
-| 2026-10-19 02:38:50 | [Leo Gray](https://en.wikipedia.org/wiki/Leo_Gray) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 10,090 |
-| 2026-10-19 02:41:06 | [2005 All-Big East Conference football team](https://en.wikipedia.org/wiki/2005_All-Big_East_Conference_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 4,559 |
-| 2026-10-19 02:51:31 | [List of films released in IMAX (2000s)](https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX_%282000s%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 59,517 |
-| 2026-10-19 02:55:09 | [List of films released in IMAX (2010s)](https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX_%282010s%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 271,098 |
-| 2026-10-19 02:55:42 | [Han Baltussen](https://en.wikipedia.org/wiki/Han_Baltussen) | [Pangalau](https://en.wikipedia.org/wiki/User:Pangalau) | 18,680 |
-| 2026-10-19 03:00:07 | [Aleksandra Anufrieva](https://en.wikipedia.org/wiki/Aleksandra_Anufrieva) | [Moscow Connection](https://en.wikipedia.org/wiki/User:Moscow_Connection) | 2,876 |
-| 2026-10-19 03:03:13 | [List of films released in IMAX (2020s)](https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX_%282020s%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 248,225 |
-| 2026-10-19 03:08:35 | [Konglingiphyton](https://en.wikipedia.org/wiki/Konglingiphyton) | [DevonHalDraedle](https://en.wikipedia.org/wiki/User:DevonHalDraedle) | 10,978 |
-| 2026-10-19 03:15:23 | [Zali Ward](https://en.wikipedia.org/wiki/Zali_Ward) | [Lachie23](https://en.wikipedia.org/wiki/User:Lachie23) | 5,933 |
-| 2026-10-19 03:18:07 | [The Adventures of Ozzie and Harriet season 1](https://en.wikipedia.org/wiki/The_Adventures_of_Ozzie_and_Harriet_season_1) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 61,077 |
+| 2026-10-19 03:22:54 | [Alfred Whitehead (disambiguation)](https://en.wikipedia.org/wiki/Alfred_Whitehead_%28disambiguation%29) | [BD2412](https://en.wikipedia.org/wiki/User:BD2412) | 617 |
+| 2026-10-19 03:34:12 | [List of 2026 albums (July–December)](https://en.wikipedia.org/wiki/List_of_2026_albums_%28July%E2%80%93December%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 329,511 |
+| 2026-10-19 03:39:21 | [2026–27 Davidson Wildcats men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Davidson_Wildcats_men%27s_basketball_team) | [DMoney1107](https://en.wikipedia.org/wiki/User:DMoney1107) | 26,259 |
+| 2026-10-19 03:40:32 | [Anufriev](https://en.wikipedia.org/wiki/Anufriev) | [Moscow Connection](https://en.wikipedia.org/wiki/User:Moscow_Connection) | 611 |
+| 2026-10-19 03:43:53 | [Timor-Leste at the 2026 Asian Para Games](https://en.wikipedia.org/wiki/Timor-Leste_at_the_2026_Asian_Para_Games) | [Jn045](https://en.wikipedia.org/wiki/User:Jn045) | 5,499 |
+| 2026-10-19 03:44:27 | [Treehouse of Horror Presents: The Revengening](https://en.wikipedia.org/wiki/Treehouse_of_Horror_Presents%3A_The_Revengening) | [Reed102](https://en.wikipedia.org/wiki/User:Reed102) | 5,664 |
+| 2026-10-19 03:45:49 | [Timeline of the Chester A. Arthur presidency](https://en.wikipedia.org/wiki/Timeline_of_the_Chester_A._Arthur_presidency) | [Thebiguglyalien](https://en.wikipedia.org/wiki/User:Thebiguglyalien) | 12,881 |
+| 2026-10-19 03:49:22 | [Peugeot E-T16](https://en.wikipedia.org/wiki/Peugeot_E-T16) | [Afacto](https://en.wikipedia.org/wiki/User:Afacto) | 4,361 |
+| 2026-10-19 03:51:17 | [Dossey](https://en.wikipedia.org/wiki/Dossey) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 318 |
+| 2026-10-19 03:54:46 | [Berengar II (archbishop of Narbonne)](https://en.wikipedia.org/wiki/Berengar_II_%28archbishop_of_Narbonne%29) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 6,941 |
+| 2026-10-19 04:03:57 | [Teehan](https://en.wikipedia.org/wiki/Teehan) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 255 |
+| 2026-10-19 04:10:55 | [2026–27 Saint Mary's Gaels men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Saint_Mary%27s_Gaels_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 30,726 |
+| 2026-10-19 04:13:23 | [Afghanistan at the 2026 Asian Para Games](https://en.wikipedia.org/wiki/Afghanistan_at_the_2026_Asian_Para_Games) | [Jn045](https://en.wikipedia.org/wiki/User:Jn045) | 6,442 |
+| 2026-10-19 04:18:21 | [2nd Infantry Regiment of 2nd Call](https://en.wikipedia.org/wiki/2nd_Infantry_Regiment_of_2nd_Call) | [Zoupan](https://en.wikipedia.org/wiki/User:Zoupan) | 6,305 |
+| 2026-10-19 04:20:22 | [2026–27 Denver Pioneers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Denver_Pioneers_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 29,088 |
