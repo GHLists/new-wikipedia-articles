@@ -13,54 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-19 11:21 UTC](data/en/new-articles-2026-10-19T11-21-54Z.csv) | 22 |
-| Japanese | `ja` | [2026-10-19 11:21 UTC](data/ja/new-articles-2026-10-19T11-21-54Z.csv) | 12 |
-| Chinese | `zh` | [2026-10-19 11:21 UTC](data/zh/new-articles-2026-10-19T11-21-54Z.csv) | 2 |
-| French | `fr` | [2026-10-19 11:21 UTC](data/fr/new-articles-2026-10-19T11-21-54Z.csv) | 8 |
-| German | `de` | [2026-10-19 11:21 UTC](data/de/new-articles-2026-10-19T11-21-54Z.csv) | 13 |
-| Russian | `ru` | [2026-10-19 11:21 UTC](data/ru/new-articles-2026-10-19T11-21-54Z.csv) | 13 |
-| Spanish | `es` | [2026-10-19 11:21 UTC](data/es/new-articles-2026-10-19T11-21-54Z.csv) | 11 |
-| Italian | `it` | [2026-10-19 11:21 UTC](data/it/new-articles-2026-10-19T11-21-54Z.csv) | 10 |
-| Portuguese | `pt` | [2026-10-19 11:21 UTC](data/pt/new-articles-2026-10-19T11-21-54Z.csv) | 2 |
-| Polish | `pl` | [2026-10-19 11:21 UTC](data/pl/new-articles-2026-10-19T11-21-54Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-19 11:21 UTC](data/ar/new-articles-2026-10-19T11-21-54Z.csv) | 5 |
-| Persian | `fa` | [2026-10-19 11:21 UTC](data/fa/new-articles-2026-10-19T11-21-54Z.csv) | 17 |
-| Turkish | `tr` | [2026-10-19 11:21 UTC](data/tr/new-articles-2026-10-19T11-21-54Z.csv) | 52 |
-| Hebrew | `he` | [2026-10-19 11:21 UTC](data/he/new-articles-2026-10-19T11-21-54Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-19 11:21 UTC](data/sv/new-articles-2026-10-19T11-21-54Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-19 11:21 UTC](data/nl/new-articles-2026-10-19T11-21-54Z.csv) | 6 |
-| Korean | `ko` | [2026-10-19 10:18 UTC](data/ko/new-articles-2026-10-19T10-18-59Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-19 11:21 UTC](data/id/new-articles-2026-10-19T11-21-54Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-10-19 11:21 UTC](data/uk/new-articles-2026-10-19T11-21-54Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-10-19 11:21 UTC](data/vi/new-articles-2026-10-19T11-21-54Z.csv) | 5 |
+| English | `en` | [2026-10-19 12:18 UTC](data/en/new-articles-2026-10-19T12-18-55Z.csv) | 14 |
+| Japanese | `ja` | [2026-10-19 12:18 UTC](data/ja/new-articles-2026-10-19T12-18-55Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-19 12:18 UTC](data/zh/new-articles-2026-10-19T12-18-55Z.csv) | 15 |
+| French | `fr` | [2026-10-19 12:18 UTC](data/fr/new-articles-2026-10-19T12-18-55Z.csv) | 12 |
+| German | `de` | [2026-10-19 12:18 UTC](data/de/new-articles-2026-10-19T12-18-55Z.csv) | 10 |
+| Russian | `ru` | [2026-10-19 12:18 UTC](data/ru/new-articles-2026-10-19T12-18-55Z.csv) | 4 |
+| Spanish | `es` | [2026-10-19 12:18 UTC](data/es/new-articles-2026-10-19T12-18-55Z.csv) | 11 |
+| Italian | `it` | [2026-10-19 12:18 UTC](data/it/new-articles-2026-10-19T12-18-55Z.csv) | 14 |
+| Portuguese | `pt` | [2026-10-19 12:18 UTC](data/pt/new-articles-2026-10-19T12-18-55Z.csv) | 5 |
+| Polish | `pl` | [2026-10-19 12:18 UTC](data/pl/new-articles-2026-10-19T12-18-55Z.csv) | 10 |
+| Arabic | `ar` | [2026-10-19 12:18 UTC](data/ar/new-articles-2026-10-19T12-18-55Z.csv) | 8 |
+| Persian | `fa` | [2026-10-19 12:18 UTC](data/fa/new-articles-2026-10-19T12-18-55Z.csv) | 12 |
+| Turkish | `tr` | [2026-10-19 12:18 UTC](data/tr/new-articles-2026-10-19T12-18-55Z.csv) | 141 |
+| Hebrew | `he` | [2026-10-19 12:18 UTC](data/he/new-articles-2026-10-19T12-18-55Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-19 12:18 UTC](data/sv/new-articles-2026-10-19T12-18-55Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-19 12:18 UTC](data/nl/new-articles-2026-10-19T12-18-55Z.csv) | 4 |
+| Korean | `ko` | [2026-10-19 12:18 UTC](data/ko/new-articles-2026-10-19T12-18-55Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-19 12:18 UTC](data/id/new-articles-2026-10-19T12-18-55Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-19 12:18 UTC](data/uk/new-articles-2026-10-19T12-18-55Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-10-19 12:18 UTC](data/vi/new-articles-2026-10-19T12-18-55Z.csv) | 2 |
 
-## English (en) — 2026-10-19 11:21 UTC
+## English (en) — 2026-10-19 12:18 UTC
 
-New articles created between 2026-10-19 10:18 UTC and 2026-10-19 11:21 UTC.
+New articles created between 2026-10-19 11:21 UTC and 2026-10-19 12:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-19T11-21-54Z.csv)
+[Full CSV](data/en/new-articles-2026-10-19T12-18-55Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-19 10:19:46 | [Gonaphodioides ratcliffei](https://en.wikipedia.org/wiki/Gonaphodioides_ratcliffei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,171 |
-| 2026-10-19 10:20:12 | [Dalibor Marković (politician)](https://en.wikipedia.org/wiki/Dalibor_Markovi%C4%87_%28politician%29) | [Elserbio00](https://en.wikipedia.org/wiki/User:Elserbio00) | 1,194 |
-| 2026-10-19 10:22:13 | [Gonaphodioides skelleyi](https://en.wikipedia.org/wiki/Gonaphodioides_skelleyi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,098 |
-| 2026-10-19 10:25:54 | [Gonaphodioides cartwrighti](https://en.wikipedia.org/wiki/Gonaphodioides_cartwrighti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,144 |
-| 2026-10-19 10:29:30 | [Radio Bantu](https://en.wikipedia.org/wiki/Radio_Bantu) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 3,753 |
-| 2026-10-19 10:29:31 | [Matt Hagee](https://en.wikipedia.org/wiki/Matt_Hagee) | [Aimtoaddvalue](https://en.wikipedia.org/wiki/User:Aimtoaddvalue) | 2,219 |
-| 2026-10-19 10:33:00 | [2005 Asian Netball Championships](https://en.wikipedia.org/wiki/2005_Asian_Netball_Championships) | [HawkAussie](https://en.wikipedia.org/wiki/User:HawkAussie) | 6,661 |
-| 2026-10-19 10:33:24 | [Gonaphodioides zempoaltepetlensis](https://en.wikipedia.org/wiki/Gonaphodioides_zempoaltepetlensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,235 |
-| 2026-10-19 10:49:49 | [1972–73 Kategoria e Dytë](https://en.wikipedia.org/wiki/1972%E2%80%9373_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 2,929 |
-| 2026-10-19 10:49:52 | [Leave It to Me (1937 film)](https://en.wikipedia.org/wiki/Leave_It_to_Me_%281937_film%29) | [Tobyhoward](https://en.wikipedia.org/wiki/User:Tobyhoward) | 5,310 |
-| 2026-10-19 10:56:00 | [Rohan Rajbhar](https://en.wikipedia.org/wiki/Rohan_Rajbhar) | [Independent26](https://en.wikipedia.org/wiki/User:Independent26) | 1,374 |
-| 2026-10-19 10:56:34 | [Gonaphodiopsis](https://en.wikipedia.org/wiki/Gonaphodiopsis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,078 |
-| 2026-10-19 10:59:06 | [Etomeileng III](https://en.wikipedia.org/wiki/Etomeileng_III) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 4,988 |
-| 2026-10-19 10:59:14 | [Joseph Honeysett](https://en.wikipedia.org/wiki/Joseph_Honeysett) | [Harry Alexander T](https://en.wikipedia.org/wiki/User:Harry_Alexander_T) | 5,528 |
-| 2026-10-19 11:07:32 | [FPG Property Fund](https://en.wikipedia.org/wiki/FPG_Property_Fund) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 14,726 |
-| 2026-10-19 11:07:39 | [1971–72 Kategoria e Dytë](https://en.wikipedia.org/wiki/1971%E2%80%9372_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 4,850 |
-| 2026-10-19 11:10:51 | [Shanghai Baoshan railway station](https://en.wikipedia.org/wiki/Shanghai_Baoshan_railway_station) | [Grahamec](https://en.wikipedia.org/wiki/User:Grahamec) | 8,901 |
-| 2026-10-19 11:12:08 | [1975 Danish Ladies Football Tournament](https://en.wikipedia.org/wiki/1975_Danish_Ladies_Football_Tournament) | [Alexandrianscrolls](https://en.wikipedia.org/wiki/User:Alexandrianscrolls) | 17,008 |
-| 2026-10-19 11:14:15 | [Gonaphodiopsis deloyai](https://en.wikipedia.org/wiki/Gonaphodiopsis_deloyai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,178 |
-| 2026-10-19 11:14:48 | [1970–71 Kategoria e Dytë](https://en.wikipedia.org/wiki/1970%E2%80%9371_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 2,285 |
-| 2026-10-19 11:17:02 | [Gonaphodiopsis hypogea](https://en.wikipedia.org/wiki/Gonaphodiopsis_hypogea) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,220 |
-| 2026-10-19 11:19:50 | [Gonaphodiopsis montesdeocai](https://en.wikipedia.org/wiki/Gonaphodiopsis_montesdeocai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,241 |
+| 2026-10-19 11:21:55 | [Gonaphodiopsis pachecoi](https://en.wikipedia.org/wiki/Gonaphodiopsis_pachecoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,119 |
+| 2026-10-19 11:24:13 | [Gonaphodiopsis teopiscaensis](https://en.wikipedia.org/wiki/Gonaphodiopsis_teopiscaensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,184 |
+| 2026-10-19 11:27:33 | [1969–70 Kategoria e Dytë](https://en.wikipedia.org/wiki/1969%E2%80%9370_Kategoria_e_Dyt%C3%AB) | [Jolicnikola](https://en.wikipedia.org/wiki/User:Jolicnikola) | 4,439 |
+| 2026-10-19 11:31:01 | [Gonaphodius](https://en.wikipedia.org/wiki/Gonaphodius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,193 |
+| 2026-10-19 11:39:29 | [Karan Lamba](https://en.wikipedia.org/wiki/Karan_Lamba) | [Independent26](https://en.wikipedia.org/wiki/User:Independent26) | 2,456 |
+| 2026-10-19 11:39:44 | [Lainey Floeck](https://en.wikipedia.org/wiki/Lainey_Floeck) | [Samuelita Lopez Perez Lapuerca](https://en.wikipedia.org/wiki/User:Samuelita_Lopez_Perez_Lapuerca) | 1,405 |
+| 2026-10-19 11:40:22 | [Gordonius](https://en.wikipedia.org/wiki/Gordonius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,362 |
+| 2026-10-19 11:55:32 | [Harmodactylus](https://en.wikipedia.org/wiki/Harmodactylus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,839 |
+| 2026-10-19 11:56:12 | [Fareb (1953 film)](https://en.wikipedia.org/wiki/Fareb_%281953_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,866 |
+| 2026-10-19 11:57:54 | [2026 Pan Pacific Swimming Championships – Women's 100 metre backstroke](https://en.wikipedia.org/wiki/2026_Pan_Pacific_Swimming_Championships_%E2%80%93_Women%27s_100_metre_backstroke) | [Ianblair23](https://en.wikipedia.org/wiki/User:Ianblair23) | 15,544 |
+| 2026-10-19 12:01:23 | [Bus No. 53 (Bangkok)](https://en.wikipedia.org/wiki/Bus_No._53_%28Bangkok%29) | [Phoebus 28](https://en.wikipedia.org/wiki/User:Phoebus_28) | 5,596 |
+| 2026-10-19 12:09:16 | [Heaven on Earth (workshop)](https://en.wikipedia.org/wiki/Heaven_on_Earth_%28workshop%29) | [Nurken](https://en.wikipedia.org/wiki/User:Nurken) | 23,720 |
+| 2026-10-19 12:10:19 | [Harmodactylus oscitans](https://en.wikipedia.org/wiki/Harmodactylus_oscitans) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,132 |
+| 2026-10-19 12:16:17 | [Hemicyclium](https://en.wikipedia.org/wiki/Hemicyclium) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,825 |
