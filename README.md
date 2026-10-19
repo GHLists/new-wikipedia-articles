@@ -13,51 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-19 21:19 UTC](data/en/new-articles-2026-10-19T21-19-42Z.csv) | 19 |
-| Japanese | `ja` | [2026-10-19 21:19 UTC](data/ja/new-articles-2026-10-19T21-19-42Z.csv) | 3 |
+| English | `en` | [2026-10-19 22:19 UTC](data/en/new-articles-2026-10-19T22-19-00Z.csv) | 27 |
+| Japanese | `ja` | [2026-10-19 22:19 UTC](data/ja/new-articles-2026-10-19T22-19-00Z.csv) | 3 |
 | Chinese | `zh` | [2026-10-19 21:19 UTC](data/zh/new-articles-2026-10-19T21-19-42Z.csv) | 1 |
-| French | `fr` | [2026-10-19 21:19 UTC](data/fr/new-articles-2026-10-19T21-19-42Z.csv) | 8 |
-| German | `de` | [2026-10-19 21:19 UTC](data/de/new-articles-2026-10-19T21-19-42Z.csv) | 4 |
-| Russian | `ru` | [2026-10-19 21:19 UTC](data/ru/new-articles-2026-10-19T21-19-42Z.csv) | 8 |
-| Spanish | `es` | [2026-10-19 21:19 UTC](data/es/new-articles-2026-10-19T21-19-42Z.csv) | 6 |
-| Italian | `it` | [2026-10-19 21:19 UTC](data/it/new-articles-2026-10-19T21-19-42Z.csv) | 9 |
-| Portuguese | `pt` | [2026-10-19 21:19 UTC](data/pt/new-articles-2026-10-19T21-19-42Z.csv) | 16 |
-| Polish | `pl` | [2026-10-19 21:19 UTC](data/pl/new-articles-2026-10-19T21-19-42Z.csv) | 12 |
-| Arabic | `ar` | [2026-10-19 21:19 UTC](data/ar/new-articles-2026-10-19T21-19-42Z.csv) | 5 |
-| Persian | `fa` | [2026-10-19 21:19 UTC](data/fa/new-articles-2026-10-19T21-19-42Z.csv) | 6 |
-| Turkish | `tr` | [2026-10-19 21:19 UTC](data/tr/new-articles-2026-10-19T21-19-42Z.csv) | 85 |
+| French | `fr` | [2026-10-19 22:19 UTC](data/fr/new-articles-2026-10-19T22-19-00Z.csv) | 12 |
+| German | `de` | [2026-10-19 22:19 UTC](data/de/new-articles-2026-10-19T22-19-00Z.csv) | 11 |
+| Russian | `ru` | [2026-10-19 22:19 UTC](data/ru/new-articles-2026-10-19T22-19-00Z.csv) | 5 |
+| Spanish | `es` | [2026-10-19 22:19 UTC](data/es/new-articles-2026-10-19T22-19-00Z.csv) | 12 |
+| Italian | `it` | [2026-10-19 22:19 UTC](data/it/new-articles-2026-10-19T22-19-00Z.csv) | 4 |
+| Portuguese | `pt` | [2026-10-19 22:19 UTC](data/pt/new-articles-2026-10-19T22-19-00Z.csv) | 12 |
+| Polish | `pl` | [2026-10-19 22:19 UTC](data/pl/new-articles-2026-10-19T22-19-00Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-19 22:19 UTC](data/ar/new-articles-2026-10-19T22-19-00Z.csv) | 6 |
+| Persian | `fa` | [2026-10-19 22:19 UTC](data/fa/new-articles-2026-10-19T22-19-00Z.csv) | 6 |
+| Turkish | `tr` | [2026-10-19 22:19 UTC](data/tr/new-articles-2026-10-19T22-19-00Z.csv) | 1 |
 | Hebrew | `he` | [2026-10-19 21:19 UTC](data/he/new-articles-2026-10-19T21-19-42Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-19 21:19 UTC](data/sv/new-articles-2026-10-19T21-19-42Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-19 21:19 UTC](data/nl/new-articles-2026-10-19T21-19-42Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-19 22:19 UTC](data/sv/new-articles-2026-10-19T22-19-00Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-19 22:19 UTC](data/nl/new-articles-2026-10-19T22-19-00Z.csv) | 6 |
 | Korean | `ko` | [2026-10-19 19:19 UTC](data/ko/new-articles-2026-10-19T19-19-47Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-19 17:19 UTC](data/id/new-articles-2026-10-19T17-19-00Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-19 21:19 UTC](data/uk/new-articles-2026-10-19T21-19-42Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-19 22:19 UTC](data/id/new-articles-2026-10-19T22-19-00Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-10-19 22:19 UTC](data/uk/new-articles-2026-10-19T22-19-00Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-10-19 21:19 UTC](data/vi/new-articles-2026-10-19T21-19-42Z.csv) | 1 |
 
-## English (en) — 2026-10-19 21:19 UTC
+## English (en) — 2026-10-19 22:19 UTC
 
-New articles created between 2026-10-19 20:19 UTC and 2026-10-19 21:19 UTC.
+New articles created between 2026-10-19 21:19 UTC and 2026-10-19 22:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-19T21-19-42Z.csv)
+[Full CSV](data/en/new-articles-2026-10-19T22-19-00Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-19 20:31:08 | [LYGG](https://en.wikipedia.org/wiki/LYGG) | [Class66501](https://en.wikipedia.org/wiki/User:Class66501) | 3,179 |
-| 2026-10-19 20:34:41 | [Responses to the Flint water crisis](https://en.wikipedia.org/wiki/Responses_to_the_Flint_water_crisis) | [Reconrabbit](https://en.wikipedia.org/wiki/User:Reconrabbit) | 51,099 |
-| 2026-10-19 20:43:09 | [Bob Fllay](https://en.wikipedia.org/wiki/Bob_Fllay) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,748 |
-| 2026-10-19 20:46:12 | [SLB Defensive Player of the Year Award](https://en.wikipedia.org/wiki/SLB_Defensive_Player_of_the_Year_Award) | [Redcricket65](https://en.wikipedia.org/wiki/User:Redcricket65) | 2,921 |
-| 2026-10-19 20:49:08 | [Balrog Banter](https://en.wikipedia.org/wiki/Balrog_Banter) | [Guinness323](https://en.wikipedia.org/wiki/User:Guinness323) | 3,579 |
-| 2026-10-19 20:50:09 | [Draw You Out](https://en.wikipedia.org/wiki/Draw_You_Out) | [Alékoloco](https://en.wikipedia.org/wiki/User:Al%C3%A9koloco) | 4,754 |
-| 2026-10-19 20:52:28 | [Lícia Magna](https://en.wikipedia.org/wiki/L%C3%ADcia_Magna) | [LIrala](https://en.wikipedia.org/wiki/User:LIrala) | 11,847 |
-| 2026-10-19 20:52:44 | [1934–35 New Britain Jackaways / Mules season](https://en.wikipedia.org/wiki/1934%E2%80%9335_New_Britain_Jackaways_/_Mules_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 9,114 |
-| 2026-10-19 20:56:46 | [British Glass Industry Research Association](https://en.wikipedia.org/wiki/British_Glass_Industry_Research_Association) | [Kyteto](https://en.wikipedia.org/wiki/User:Kyteto) | 2,885 |
-| 2026-10-19 20:59:04 | [Lucius C. Walker](https://en.wikipedia.org/wiki/Lucius_C._Walker) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 5,586 |
-| 2026-10-19 21:04:53 | [1934–35 New Britain Jackaways season](https://en.wikipedia.org/wiki/1934%E2%80%9335_New_Britain_Jackaways_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 7,277 |
-| 2026-10-19 21:11:37 | [Robert Carlin (disambiguation)](https://en.wikipedia.org/wiki/Robert_Carlin_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 289 |
-| 2026-10-19 21:11:52 | [Nebraska Legislature 34th district](https://en.wikipedia.org/wiki/Nebraska_Legislature_34th_district) | [Basileus121](https://en.wikipedia.org/wiki/User:Basileus121) | 6,412 |
-| 2026-10-19 21:12:26 | [Daniela Stauch](https://en.wikipedia.org/wiki/Daniela_Stauch) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,779 |
-| 2026-10-19 21:15:27 | [92nd Rifle Division](https://en.wikipedia.org/wiki/92nd_Rifle_Division) | [Wreck Smurfy](https://en.wikipedia.org/wiki/User:Wreck_Smurfy) | 3,841 |
-| 2026-10-19 21:18:18 | [Sapieha Madonna](https://en.wikipedia.org/wiki/Sapieha_Madonna) | [Pofka](https://en.wikipedia.org/wiki/User:Pofka) | 8,331 |
-| 2026-10-19 21:18:26 | [9th Infantry Tiger Division](https://en.wikipedia.org/wiki/9th_Infantry_Tiger_Division) | [Yeahimaboss413](https://en.wikipedia.org/wiki/User:Yeahimaboss413) | 2,889 |
-| 2026-10-19 21:18:58 | [2026-27 Sam Houston Bearkats men's basketball team](https://en.wikipedia.org/wiki/2026-27_Sam_Houston_Bearkats_men%27s_basketball_team) | [DMoney1107](https://en.wikipedia.org/wiki/User:DMoney1107) | 25,764 |
-| 2026-10-19 21:19:40 | [1934–35 Newark / New Britain Mules season](https://en.wikipedia.org/wiki/1934%E2%80%9335_Newark_/_New_Britain_Mules_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,502 |
+| 2026-10-19 21:26:34 | [Akst (surname)](https://en.wikipedia.org/wiki/Akst_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 261 |
+| 2026-10-19 21:32:37 | [Althamer](https://en.wikipedia.org/wiki/Althamer) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 242 |
+| 2026-10-19 21:39:14 | [1934–35 Newark Mules season](https://en.wikipedia.org/wiki/1934%E2%80%9335_Newark_Mules_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 7,476 |
+| 2026-10-19 21:43:06 | [1934–35 New Britain Mules season](https://en.wikipedia.org/wiki/1934%E2%80%9335_New_Britain_Mules_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 7,718 |
+| 2026-10-19 21:45:50 | [Catliff](https://en.wikipedia.org/wiki/Catliff) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 249 |
+| 2026-10-19 21:47:54 | [Sci-Fi Steven](https://en.wikipedia.org/wiki/Sci-Fi_Steven) | [Mrs Mangled](https://en.wikipedia.org/wiki/User:Mrs_Mangled) | 2,145 |
+| 2026-10-19 21:48:03 | [Wrestle-1 Grand Prix 2005](https://en.wikipedia.org/wiki/Wrestle-1_Grand_Prix_2005) | [MordecaiXLII](https://en.wikipedia.org/wiki/User:MordecaiXLII) | 14,262 |
+| 2026-10-19 21:49:38 | [Ggolo Genocide Memorial](https://en.wikipedia.org/wiki/Ggolo_Genocide_Memorial) | [Score Beethoven](https://en.wikipedia.org/wiki/User:Score_Beethoven) | 5,129 |
+| 2026-10-19 21:50:56 | [Byron Baldwin](https://en.wikipedia.org/wiki/Byron_Baldwin) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,315 |
+| 2026-10-19 21:53:12 | [Goularte](https://en.wikipedia.org/wiki/Goularte) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 229 |
+| 2026-10-19 21:54:28 | [International Sloth Day](https://en.wikipedia.org/wiki/International_Sloth_Day) | [Suyash.dwivedi](https://en.wikipedia.org/wiki/User:Suyash.dwivedi) | 658 |
+| 2026-10-19 21:54:36 | [Cumarinia odorata](https://en.wikipedia.org/wiki/Cumarinia_odorata) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 8,661 |
+| 2026-10-19 21:56:06 | [1935–36 Kingston Colonials season](https://en.wikipedia.org/wiki/1935%E2%80%9336_Kingston_Colonials_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,293 |
+| 2026-10-19 21:56:34 | [Lambu Genocide Memorial](https://en.wikipedia.org/wiki/Lambu_Genocide_Memorial) | [Score Beethoven](https://en.wikipedia.org/wiki/User:Score_Beethoven) | 5,451 |
+| 2026-10-19 21:57:04 | [Kasensero Genocide Memorial](https://en.wikipedia.org/wiki/Kasensero_Genocide_Memorial) | [Score Beethoven](https://en.wikipedia.org/wiki/User:Score_Beethoven) | 5,131 |
+| 2026-10-19 21:58:25 | [Guardino](https://en.wikipedia.org/wiki/Guardino) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 307 |
+| 2026-10-19 21:58:36 | [Ferns Castle](https://en.wikipedia.org/wiki/Ferns_Castle) | [DougieMcC](https://en.wikipedia.org/wiki/User:DougieMcC) | 7,048 |
+| 2026-10-19 22:05:30 | [Taylor Smith (baseball)](https://en.wikipedia.org/wiki/Taylor_Smith_%28baseball%29) | [Muboshgu](https://en.wikipedia.org/wiki/User:Muboshgu) | 1,026 |
+| 2026-10-19 22:05:50 | [Artie Ramsodit](https://en.wikipedia.org/wiki/Artie_Ramsodit) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 5,536 |
+| 2026-10-19 22:06:35 | [Blinman (surname)](https://en.wikipedia.org/wiki/Blinman_%28surname%29) | [Teresa Najera](https://en.wikipedia.org/wiki/User:Teresa_Najera) | 291 |
+| 2026-10-19 22:06:37 | [Nebraska Legislature 35th district](https://en.wikipedia.org/wiki/Nebraska_Legislature_35th_district) | [Basileus121](https://en.wikipedia.org/wiki/User:Basileus121) | 7,562 |
+| 2026-10-19 22:08:45 | [Valentina Muñoz Rabanal](https://en.wikipedia.org/wiki/Valentina_Mu%C3%B1oz_Rabanal) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 11,535 |
+| 2026-10-19 22:11:00 | [Roberto Cafarotti](https://en.wikipedia.org/wiki/Roberto_Cafarotti) | [Lucabluini](https://en.wikipedia.org/wiki/User:Lucabluini) | 9,430 |
+| 2026-10-19 22:12:50 | [John Burness](https://en.wikipedia.org/wiki/John_Burness) | [R. J. Dockery](https://en.wikipedia.org/wiki/User:R._J._Dockery) | 6,074 |
+| 2026-10-19 22:14:26 | [Emanuela Pedroso](https://en.wikipedia.org/wiki/Emanuela_Pedroso) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,999 |
+| 2026-10-19 22:17:26 | [2026–27 UAB Blazers women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_UAB_Blazers_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 30,693 |
+| 2026-10-19 22:18:00 | [The Rage (song)](https://en.wikipedia.org/wiki/The_Rage_%28song%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 4,031 |
