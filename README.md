@@ -13,59 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-19 00:20 UTC](data/en/new-articles-2026-10-19T00-20-24Z.csv) | 27 |
-| Japanese | `ja` | [2026-10-19 00:20 UTC](data/ja/new-articles-2026-10-19T00-20-24Z.csv) | 8 |
+| English | `en` | [2026-10-19 01:18 UTC](data/en/new-articles-2026-10-19T01-18-54Z.csv) | 18 |
+| Japanese | `ja` | [2026-10-19 01:18 UTC](data/ja/new-articles-2026-10-19T01-18-54Z.csv) | 2 |
 | Chinese | `zh` | [2026-10-19 00:20 UTC](data/zh/new-articles-2026-10-19T00-20-24Z.csv) | 4 |
 | French | `fr` | [2026-10-19 00:20 UTC](data/fr/new-articles-2026-10-19T00-20-24Z.csv) | 2 |
 | German | `de` | [2026-10-19 00:20 UTC](data/de/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
-| Russian | `ru` | [2026-10-19 00:20 UTC](data/ru/new-articles-2026-10-19T00-20-24Z.csv) | 2 |
-| Spanish | `es` | [2026-10-19 00:20 UTC](data/es/new-articles-2026-10-19T00-20-24Z.csv) | 5 |
-| Italian | `it` | [2026-10-19 00:20 UTC](data/it/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-19 00:20 UTC](data/pt/new-articles-2026-10-19T00-20-24Z.csv) | 4 |
-| Polish | `pl` | [2026-10-19 00:20 UTC](data/pl/new-articles-2026-10-19T00-20-24Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-19 00:20 UTC](data/ar/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
-| Persian | `fa` | [2026-10-19 00:20 UTC](data/fa/new-articles-2026-10-19T00-20-24Z.csv) | 7 |
-| Turkish | `tr` | [2026-10-19 00:20 UTC](data/tr/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
+| Russian | `ru` | [2026-10-19 01:18 UTC](data/ru/new-articles-2026-10-19T01-18-54Z.csv) | 4 |
+| Spanish | `es` | [2026-10-19 01:18 UTC](data/es/new-articles-2026-10-19T01-18-54Z.csv) | 12 |
+| Italian | `it` | [2026-10-19 01:18 UTC](data/it/new-articles-2026-10-19T01-18-54Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-19 01:18 UTC](data/pt/new-articles-2026-10-19T01-18-54Z.csv) | 5 |
+| Polish | `pl` | [2026-10-19 01:18 UTC](data/pl/new-articles-2026-10-19T01-18-54Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-19 01:18 UTC](data/ar/new-articles-2026-10-19T01-18-54Z.csv) | 1 |
+| Persian | `fa` | [2026-10-19 01:18 UTC](data/fa/new-articles-2026-10-19T01-18-54Z.csv) | 9 |
+| Turkish | `tr` | [2026-10-19 01:18 UTC](data/tr/new-articles-2026-10-19T01-18-54Z.csv) | 4 |
 | Hebrew | `he` | [2026-10-19 00:20 UTC](data/he/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
 | Swedish | `sv` | [2026-10-19 00:20 UTC](data/sv/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-19 00:20 UTC](data/nl/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
-| Korean | `ko` | [2026-10-19 00:20 UTC](data/ko/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-19 00:20 UTC](data/id/new-articles-2026-10-19T00-20-24Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-19 00:20 UTC](data/uk/new-articles-2026-10-19T00-20-24Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-19 01:18 UTC](data/nl/new-articles-2026-10-19T01-18-54Z.csv) | 1 |
+| Korean | `ko` | [2026-10-19 01:18 UTC](data/ko/new-articles-2026-10-19T01-18-54Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-19 01:18 UTC](data/id/new-articles-2026-10-19T01-18-54Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-10-19 01:18 UTC](data/uk/new-articles-2026-10-19T01-18-54Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-18 18:18 UTC](data/vi/new-articles-2026-10-18T18-18-54Z.csv) | 3 |
 
-## English (en) — 2026-10-19 00:20 UTC
+## English (en) — 2026-10-19 01:18 UTC
 
-New articles created between 2026-10-18 23:19 UTC and 2026-10-19 00:20 UTC.
+New articles created between 2026-10-19 00:20 UTC and 2026-10-19 01:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-19T00-20-24Z.csv)
+[Full CSV](data/en/new-articles-2026-10-19T01-18-54Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-18 23:22:36 | [Octolasion tyrtaeum](https://en.wikipedia.org/wiki/Octolasion_tyrtaeum) | [Samuelthesillyy](https://en.wikipedia.org/wiki/User:Samuelthesillyy) | 6,678 |
-| 2026-10-18 23:26:36 | [Pontia (murderer)](https://en.wikipedia.org/wiki/Pontia_%28murderer%29) | [Graearms](https://en.wikipedia.org/wiki/User:Graearms) | 3,201 |
-| 2026-10-18 23:27:34 | [Pseudo-Alcuin](https://en.wikipedia.org/wiki/Pseudo-Alcuin) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 2,043 |
-| 2026-10-18 23:30:06 | [Media coverage of Apollo 11](https://en.wikipedia.org/wiki/Media_coverage_of_Apollo_11) | [Spencer2863](https://en.wikipedia.org/wiki/User:Spencer2863) | 21,931 |
-| 2026-10-18 23:32:54 | [Nic Toomer](https://en.wikipedia.org/wiki/Nic_Toomer) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,216 |
-| 2026-10-18 23:37:45 | [Hroznyi](https://en.wikipedia.org/wiki/Hroznyi) | [Sof1a510](https://en.wikipedia.org/wiki/User:Sof1a510) | 1,945 |
-| 2026-10-18 23:42:17 | [Tulsa Bus Station](https://en.wikipedia.org/wiki/Tulsa_Bus_Station) | [Znns](https://en.wikipedia.org/wiki/User:Znns) | 13,094 |
-| 2026-10-18 23:45:16 | [2026 European unrest](https://en.wikipedia.org/wiki/2026_European_unrest) | [Knightoftheswords281](https://en.wikipedia.org/wiki/User:Knightoftheswords281) | 212 |
-| 2026-10-18 23:47:52 | [2026–27 Summit League women's basketball season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Summit_League_women%27s_basketball_season) | [Natethegreat4226](https://en.wikipedia.org/wiki/User:Natethegreat4226) | 18,078 |
-| 2026-10-18 23:52:46 | [2018 WPT Euskadi Open](https://en.wikipedia.org/wiki/2018_WPT_Euskadi_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 42,957 |
-| 2026-10-18 23:56:11 | [Adventure Weekly](https://en.wikipedia.org/wiki/Adventure_Weekly) | [LostMedia2005](https://en.wikipedia.org/wiki/User:LostMedia2005) | 6,277 |
-| 2026-10-18 23:57:41 | [Seiko 9T82](https://en.wikipedia.org/wiki/Seiko_9T82) | [Rhiannon nina](https://en.wikipedia.org/wiki/User:Rhiannon_nina) | 16,775 |
-| 2026-10-18 23:58:27 | [DT-109](https://en.wikipedia.org/wiki/DT-109) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 7,741 |
-| 2026-10-18 23:58:38 | [Kang-hyun](https://en.wikipedia.org/wiki/Kang-hyun) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 1,015 |
-| 2026-10-18 23:59:32 | [N-Isobutylhexedrone](https://en.wikipedia.org/wiki/N-Isobutylhexedrone) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 1,982 |
-| 2026-10-19 00:00:02 | [Yefymivna](https://en.wikipedia.org/wiki/Yefymivna) | [Sof1a510](https://en.wikipedia.org/wiki/User:Sof1a510) | 2,228 |
-| 2026-10-19 00:00:14 | [Ron S. Doyle](https://en.wikipedia.org/wiki/Ron_S._Doyle) | [Denverhistorybuff](https://en.wikipedia.org/wiki/User:Denverhistorybuff) | 4,597 |
-| 2026-10-19 00:00:50 | [1987 Virginia Slims of Arizona – Doubles](https://en.wikipedia.org/wiki/1987_Virginia_Slims_of_Arizona_%E2%80%93_Doubles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 7,349 |
-| 2026-10-19 00:01:05 | [Ta'Shawn James](https://en.wikipedia.org/wiki/Ta%27Shawn_James) | [JTtheOG](https://en.wikipedia.org/wiki/User:JTtheOG) | 8,502 |
-| 2026-10-19 00:02:49 | [The Lament of Autumn](https://en.wikipedia.org/wiki/The_Lament_of_Autumn) | [Velvet-bit](https://en.wikipedia.org/wiki/User:Velvet-bit) | 5,414 |
-| 2026-10-19 00:05:10 | [Garance Authié](https://en.wikipedia.org/wiki/Garance_Authi%C3%A9) | [Samuelita Lopez Perez Lapuerca](https://en.wikipedia.org/wiki/User:Samuelita_Lopez_Perez_Lapuerca) | 1,088 |
-| 2026-10-19 00:06:16 | [Magali Deleuil](https://en.wikipedia.org/wiki/Magali_Deleuil) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 4,513 |
-| 2026-10-19 00:09:14 | [The Tiger Inn](https://en.wikipedia.org/wiki/The_Tiger_Inn) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 1,859 |
-| 2026-10-19 00:11:18 | [List of members of the Michigan State Board of Education](https://en.wikipedia.org/wiki/List_of_members_of_the_Michigan_State_Board_of_Education) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 57,033 |
-| 2026-10-19 00:15:25 | [James O. Glover](https://en.wikipedia.org/wiki/James_O._Glover) | [Patapsco913](https://en.wikipedia.org/wiki/User:Patapsco913) | 2,125 |
-| 2026-10-19 00:15:53 | [Brabrand IF (women)](https://en.wikipedia.org/wiki/Brabrand_IF_%28women%29) | [Alexandrianscrolls](https://en.wikipedia.org/wiki/User:Alexandrianscrolls) | 5,308 |
-| 2026-10-19 00:17:39 | [Gossia punctata](https://en.wikipedia.org/wiki/Gossia_punctata) | [Bhinkins](https://en.wikipedia.org/wiki/User:Bhinkins) | 2,048 |
+| 2026-10-19 00:22:03 | [Browningia pilleifera](https://en.wikipedia.org/wiki/Browningia_pilleifera) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 5,404 |
+| 2026-10-19 00:22:36 | [In the dust cloud](https://en.wikipedia.org/wiki/In_the_dust_cloud) | [Sylwia Ufnalska](https://en.wikipedia.org/wiki/User:Sylwia_Ufnalska) | 6,455 |
+| 2026-10-19 00:27:48 | [Thomas Epperson](https://en.wikipedia.org/wiki/Thomas_Epperson) | [Patapsco913](https://en.wikipedia.org/wiki/User:Patapsco913) | 2,035 |
+| 2026-10-19 00:29:09 | [1971 Pesta Sukan Cup](https://en.wikipedia.org/wiki/1971_Pesta_Sukan_Cup) | [Goldendragon2003](https://en.wikipedia.org/wiki/User:Goldendragon2003) | 464 |
+| 2026-10-19 00:30:48 | [Samuel Thomas (Illinois politician)](https://en.wikipedia.org/wiki/Samuel_Thomas_%28Illinois_politician%29) | [Patapsco913](https://en.wikipedia.org/wiki/User:Patapsco913) | 1,995 |
+| 2026-10-19 00:31:23 | [Neuborn](https://en.wikipedia.org/wiki/Neuborn) | [Sof1a510](https://en.wikipedia.org/wiki/User:Sof1a510) | 2,230 |
+| 2026-10-19 00:31:48 | [2026–27 Ohio State Buckeyes men's ice hockey season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Ohio_State_Buckeyes_men%27s_ice_hockey_season) | [Elijah 1022](https://en.wikipedia.org/wiki/User:Elijah_1022) | 6,246 |
+| 2026-10-19 00:36:10 | [Allen A. Goldstein](https://en.wikipedia.org/wiki/Allen_A._Goldstein) | [VaudevillianScientist](https://en.wikipedia.org/wiki/User:VaudevillianScientist) | 7,265 |
+| 2026-10-19 00:37:29 | [Life Is Expensive](https://en.wikipedia.org/wiki/Life_Is_Expensive) | [Splashmoney15](https://en.wikipedia.org/wiki/User:Splashmoney15) | 5,292 |
+| 2026-10-19 00:39:09 | [Andrew Wardlaw](https://en.wikipedia.org/wiki/Andrew_Wardlaw) | [Patapsco913](https://en.wikipedia.org/wiki/User:Patapsco913) | 2,086 |
+| 2026-10-19 00:45:14 | [Stelling Kornwerderzand](https://en.wikipedia.org/wiki/Stelling_Kornwerderzand) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 16,048 |
+| 2026-10-19 00:46:30 | [William Bailey (Illinois politician)](https://en.wikipedia.org/wiki/William_Bailey_%28Illinois_politician%29) | [Patapsco913](https://en.wikipedia.org/wiki/User:Patapsco913) | 1,997 |
+| 2026-10-19 00:52:33 | [Deniz Demirkapu](https://en.wikipedia.org/wiki/Deniz_Demirkapu) | [Khonda8](https://en.wikipedia.org/wiki/User:Khonda8) | 15,518 |
+| 2026-10-19 00:52:45 | [Sanctum sanctorum (disambiguation)](https://en.wikipedia.org/wiki/Sanctum_sanctorum_%28disambiguation%29) | [I Am a Depressed Cat](https://en.wikipedia.org/wiki/User:I_Am_a_Depressed_Cat) | 840 |
+| 2026-10-19 00:55:56 | [Liberation of Skopje (1912)](https://en.wikipedia.org/wiki/Liberation_of_Skopje_%281912%29) | [Zoupan](https://en.wikipedia.org/wiki/User:Zoupan) | 5,681 |
+| 2026-10-19 01:02:24 | [Legend Trilogy](https://en.wikipedia.org/wiki/Legend_Trilogy) | [SirZPthundergod9001](https://en.wikipedia.org/wiki/User:SirZPthundergod9001) | 9,534 |
+| 2026-10-19 01:04:38 | [Coopernookia scabridiuscula](https://en.wikipedia.org/wiki/Coopernookia_scabridiuscula) | [Bhinkins](https://en.wikipedia.org/wiki/User:Bhinkins) | 1,504 |
+| 2026-10-19 01:18:11 | [Key to the Phoenix Heart](https://en.wikipedia.org/wiki/Key_to_the_Phoenix_Heart) | [Velvet-bit](https://en.wikipedia.org/wiki/User:Velvet-bit) | 3,634 |
