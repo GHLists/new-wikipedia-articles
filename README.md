@@ -13,43 +13,41 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-20 00:19 UTC](data/en/new-articles-2026-10-20T00-19-11Z.csv) | 11 |
-| Japanese | `ja` | [2026-10-20 00:19 UTC](data/ja/new-articles-2026-10-20T00-19-11Z.csv) | 15 |
-| Chinese | `zh` | [2026-10-20 00:19 UTC](data/zh/new-articles-2026-10-20T00-19-11Z.csv) | 1 |
-| French | `fr` | [2026-10-20 00:19 UTC](data/fr/new-articles-2026-10-20T00-19-11Z.csv) | 2 |
+| English | `en` | [2026-10-20 01:19 UTC](data/en/new-articles-2026-10-20T01-19-14Z.csv) | 9 |
+| Japanese | `ja` | [2026-10-20 01:19 UTC](data/ja/new-articles-2026-10-20T01-19-14Z.csv) | 11 |
+| Chinese | `zh` | [2026-10-20 01:19 UTC](data/zh/new-articles-2026-10-20T01-19-14Z.csv) | 3 |
+| French | `fr` | [2026-10-20 01:19 UTC](data/fr/new-articles-2026-10-20T01-19-14Z.csv) | 2 |
 | German | `de` | [2026-10-20 00:19 UTC](data/de/new-articles-2026-10-20T00-19-11Z.csv) | 2 |
-| Russian | `ru` | [2026-10-20 00:19 UTC](data/ru/new-articles-2026-10-20T00-19-11Z.csv) | 1 |
-| Spanish | `es` | [2026-10-20 00:19 UTC](data/es/new-articles-2026-10-20T00-19-11Z.csv) | 6 |
-| Italian | `it` | [2026-10-20 00:19 UTC](data/it/new-articles-2026-10-20T00-19-11Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-20 00:19 UTC](data/pt/new-articles-2026-10-20T00-19-11Z.csv) | 12 |
-| Polish | `pl` | [2026-10-20 00:19 UTC](data/pl/new-articles-2026-10-20T00-19-11Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-20 00:19 UTC](data/ar/new-articles-2026-10-20T00-19-11Z.csv) | 4 |
-| Persian | `fa` | [2026-10-20 00:19 UTC](data/fa/new-articles-2026-10-20T00-19-11Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-20 00:19 UTC](data/tr/new-articles-2026-10-20T00-19-11Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-19 23:19 UTC](data/he/new-articles-2026-10-19T23-19-20Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-20 00:19 UTC](data/sv/new-articles-2026-10-20T00-19-11Z.csv) | 2 |
+| Russian | `ru` | [2026-10-20 01:19 UTC](data/ru/new-articles-2026-10-20T01-19-14Z.csv) | 3 |
+| Spanish | `es` | [2026-10-20 01:19 UTC](data/es/new-articles-2026-10-20T01-19-14Z.csv) | 9 |
+| Italian | `it` | [2026-10-20 01:19 UTC](data/it/new-articles-2026-10-20T01-19-14Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-20 01:19 UTC](data/pt/new-articles-2026-10-20T01-19-14Z.csv) | 7 |
+| Polish | `pl` | [2026-10-20 01:19 UTC](data/pl/new-articles-2026-10-20T01-19-14Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-20 01:19 UTC](data/ar/new-articles-2026-10-20T01-19-14Z.csv) | 2 |
+| Persian | `fa` | [2026-10-20 01:19 UTC](data/fa/new-articles-2026-10-20T01-19-14Z.csv) | 2 |
+| Turkish | `tr` | [2026-10-20 01:19 UTC](data/tr/new-articles-2026-10-20T01-19-14Z.csv) | 3 |
+| Hebrew | `he` | [2026-10-20 01:19 UTC](data/he/new-articles-2026-10-20T01-19-14Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-20 01:19 UTC](data/sv/new-articles-2026-10-20T01-19-14Z.csv) | 1 |
 | Dutch | `nl` | [2026-10-20 00:19 UTC](data/nl/new-articles-2026-10-20T00-19-11Z.csv) | 1 |
-| Korean | `ko` | [2026-10-20 00:19 UTC](data/ko/new-articles-2026-10-20T00-19-11Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-20 00:19 UTC](data/id/new-articles-2026-10-20T00-19-11Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-20 00:19 UTC](data/uk/new-articles-2026-10-20T00-19-11Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-10-19 21:19 UTC](data/vi/new-articles-2026-10-19T21-19-42Z.csv) | 1 |
+| Korean | `ko` | [2026-10-20 01:19 UTC](data/ko/new-articles-2026-10-20T01-19-14Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-20 01:19 UTC](data/id/new-articles-2026-10-20T01-19-14Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-20 01:19 UTC](data/uk/new-articles-2026-10-20T01-19-14Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-20 01:19 UTC](data/vi/new-articles-2026-10-20T01-19-14Z.csv) | 7 |
 
-## English (en) — 2026-10-20 00:19 UTC
+## English (en) — 2026-10-20 01:19 UTC
 
-New articles created between 2026-10-19 23:19 UTC and 2026-10-20 00:19 UTC.
+New articles created between 2026-10-20 00:19 UTC and 2026-10-20 01:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-20T00-19-11Z.csv)
+[Full CSV](data/en/new-articles-2026-10-20T01-19-14Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-19 23:27:18 | [Gonocarpus effusus](https://en.wikipedia.org/wiki/Gonocarpus_effusus) | [Bhinkins](https://en.wikipedia.org/wiki/User:Bhinkins) | 1,910 |
-| 2026-10-19 23:31:48 | [Elizabeth Gillie](https://en.wikipedia.org/wiki/Elizabeth_Gillie) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 5,608 |
-| 2026-10-19 23:33:51 | [2026 FBI data breach](https://en.wikipedia.org/wiki/2026_FBI_data_breach) | [ChinaTownAJ](https://en.wikipedia.org/wiki/User:ChinaTownAJ) | 13,379 |
-| 2026-10-19 23:37:26 | [Halid Doltmurziev](https://en.wikipedia.org/wiki/Halid_Doltmurziev) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 7,264 |
-| 2026-10-19 23:37:55 | [R (Hoareau and Bancoult) v Secretary of State for Foreign and Commonwealth Affairs](https://en.wikipedia.org/wiki/R_%28Hoareau_and_Bancoult%29_v_Secretary_of_State_for_Foreign_and_Commonwealth_Affairs) | [Yash400](https://en.wikipedia.org/wiki/User:Yash400) | 34,712 |
-| 2026-10-19 23:50:37 | [Gonocarpus hirtus](https://en.wikipedia.org/wiki/Gonocarpus_hirtus) | [Bhinkins](https://en.wikipedia.org/wiki/User:Bhinkins) | 1,508 |
-| 2026-10-19 23:58:46 | [Kuruc-A-Ruc](https://en.wikipedia.org/wiki/Kuruc-A-Ruc) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 10,107 |
-| 2026-10-19 23:59:56 | [Niwhai Puru](https://en.wikipedia.org/wiki/Niwhai_Puru) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,585 |
-| 2026-10-20 00:02:22 | [Juan Francisco Solórzano Foppa](https://en.wikipedia.org/wiki/Juan_Francisco_Sol%C3%B3rzano_Foppa) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 5,247 |
-| 2026-10-20 00:10:51 | [1985 Chrysler Tournament of Champions – Doubles](https://en.wikipedia.org/wiki/1985_Chrysler_Tournament_of_Champions_%E2%80%93_Doubles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 3,370 |
-| 2026-10-20 00:13:42 | [2026–27 Idaho Vandals men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Idaho_Vandals_men%27s_basketball_team) | [DMoney1107](https://en.wikipedia.org/wiki/User:DMoney1107) | 28,849 |
+| 2026-10-20 00:25:58 | [Alexander Gray (Actor)](https://en.wikipedia.org/wiki/Alexander_Gray_%28Actor%29) | [Glarph](https://en.wikipedia.org/wiki/User:Glarph) | 8,072 |
+| 2026-10-20 00:50:07 | [F. T. Reynolds](https://en.wikipedia.org/wiki/F._T._Reynolds) | [Hope4movies](https://en.wikipedia.org/wiki/User:Hope4movies) | 2,262 |
+| 2026-10-20 00:51:49 | [Big Sandy Lake (disambiguation)](https://en.wikipedia.org/wiki/Big_Sandy_Lake_%28disambiguation%29) | [Masterhatch](https://en.wikipedia.org/wiki/User:Masterhatch) | 325 |
+| 2026-10-20 00:56:04 | [The Greatest Show on Earth (U2 song)](https://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth_%28U2_song%29) | [Cmkuz1](https://en.wikipedia.org/wiki/User:Cmkuz1) | 18,728 |
+| 2026-10-20 00:59:23 | [Rapetti](https://en.wikipedia.org/wiki/Rapetti) | [Oupals](https://en.wikipedia.org/wiki/User:Oupals) | 388 |
+| 2026-10-20 01:05:56 | [Yuko Fujigaki](https://en.wikipedia.org/wiki/Yuko_Fujigaki) | [Dartes13](https://en.wikipedia.org/wiki/User:Dartes13) | 1,607 |
+| 2026-10-20 01:07:18 | [Paul Geelen](https://en.wikipedia.org/wiki/Paul_Geelen) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,556 |
+| 2026-10-20 01:09:43 | [The Greatest Show on Earth Tour](https://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth_Tour) | [Cmkuz1](https://en.wikipedia.org/wiki/User:Cmkuz1) | 18,562 |
+| 2026-10-20 01:10:01 | [Gambusia luma](https://en.wikipedia.org/wiki/Gambusia_luma) | [Sevenstxrsquid](https://en.wikipedia.org/wiki/User:Sevenstxrsquid) | 1,378 |
