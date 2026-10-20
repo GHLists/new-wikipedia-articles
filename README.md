@@ -13,53 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-20 20:20 UTC](data/en/new-articles-2026-10-20T20-20-31Z.csv) | 21 |
-| Japanese | `ja` | [2026-10-20 19:19 UTC](data/ja/new-articles-2026-10-20T19-19-11Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-20 20:20 UTC](data/zh/new-articles-2026-10-20T20-20-31Z.csv) | 2 |
-| French | `fr` | [2026-10-20 20:20 UTC](data/fr/new-articles-2026-10-20T20-20-31Z.csv) | 9 |
-| German | `de` | [2026-10-20 20:20 UTC](data/de/new-articles-2026-10-20T20-20-31Z.csv) | 6 |
-| Russian | `ru` | [2026-10-20 20:20 UTC](data/ru/new-articles-2026-10-20T20-20-31Z.csv) | 11 |
-| Spanish | `es` | [2026-10-20 20:20 UTC](data/es/new-articles-2026-10-20T20-20-31Z.csv) | 12 |
-| Italian | `it` | [2026-10-20 20:20 UTC](data/it/new-articles-2026-10-20T20-20-31Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-20 20:20 UTC](data/pt/new-articles-2026-10-20T20-20-31Z.csv) | 7 |
-| Polish | `pl` | [2026-10-20 20:20 UTC](data/pl/new-articles-2026-10-20T20-20-31Z.csv) | 10 |
-| Arabic | `ar` | [2026-10-20 20:20 UTC](data/ar/new-articles-2026-10-20T20-20-31Z.csv) | 8 |
-| Persian | `fa` | [2026-10-20 20:20 UTC](data/fa/new-articles-2026-10-20T20-20-31Z.csv) | 7 |
-| Turkish | `tr` | [2026-10-20 20:20 UTC](data/tr/new-articles-2026-10-20T20-20-31Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-20 20:20 UTC](data/he/new-articles-2026-10-20T20-20-31Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-20 20:20 UTC](data/sv/new-articles-2026-10-20T20-20-31Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-20 20:20 UTC](data/nl/new-articles-2026-10-20T20-20-31Z.csv) | 6 |
+| English | `en` | [2026-10-20 21:19 UTC](data/en/new-articles-2026-10-20T21-19-47Z.csv) | 27 |
+| Japanese | `ja` | [2026-10-20 21:19 UTC](data/ja/new-articles-2026-10-20T21-19-47Z.csv) | 1 |
+| Chinese | `zh` | [2026-10-20 21:19 UTC](data/zh/new-articles-2026-10-20T21-19-47Z.csv) | 2 |
+| French | `fr` | [2026-10-20 21:19 UTC](data/fr/new-articles-2026-10-20T21-19-47Z.csv) | 18 |
+| German | `de` | [2026-10-20 21:19 UTC](data/de/new-articles-2026-10-20T21-19-47Z.csv) | 7 |
+| Russian | `ru` | [2026-10-20 21:19 UTC](data/ru/new-articles-2026-10-20T21-19-47Z.csv) | 9 |
+| Spanish | `es` | [2026-10-20 21:19 UTC](data/es/new-articles-2026-10-20T21-19-47Z.csv) | 10 |
+| Italian | `it` | [2026-10-20 21:19 UTC](data/it/new-articles-2026-10-20T21-19-47Z.csv) | 13 |
+| Portuguese | `pt` | [2026-10-20 21:19 UTC](data/pt/new-articles-2026-10-20T21-19-47Z.csv) | 9 |
+| Polish | `pl` | [2026-10-20 21:19 UTC](data/pl/new-articles-2026-10-20T21-19-47Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-20 21:19 UTC](data/ar/new-articles-2026-10-20T21-19-47Z.csv) | 9 |
+| Persian | `fa` | [2026-10-20 21:19 UTC](data/fa/new-articles-2026-10-20T21-19-47Z.csv) | 8 |
+| Turkish | `tr` | [2026-10-20 21:19 UTC](data/tr/new-articles-2026-10-20T21-19-47Z.csv) | 7 |
+| Hebrew | `he` | [2026-10-20 21:19 UTC](data/he/new-articles-2026-10-20T21-19-47Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-20 21:19 UTC](data/sv/new-articles-2026-10-20T21-19-47Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-20 21:19 UTC](data/nl/new-articles-2026-10-20T21-19-47Z.csv) | 4 |
 | Korean | `ko` | [2026-10-20 18:21 UTC](data/ko/new-articles-2026-10-20T18-21-16Z.csv) | 1 |
 | Indonesian | `id` | [2026-10-20 19:19 UTC](data/id/new-articles-2026-10-20T19-19-11Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-20 20:20 UTC](data/uk/new-articles-2026-10-20T20-20-31Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-10-20 21:19 UTC](data/uk/new-articles-2026-10-20T21-19-47Z.csv) | 6 |
 | Vietnamese | `vi` | [2026-10-20 19:19 UTC](data/vi/new-articles-2026-10-20T19-19-11Z.csv) | 1 |
 
-## English (en) — 2026-10-20 20:20 UTC
+## English (en) — 2026-10-20 21:19 UTC
 
-New articles created between 2026-10-20 19:19 UTC and 2026-10-20 20:20 UTC.
+New articles created between 2026-10-20 20:20 UTC and 2026-10-20 21:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-20T20-20-31Z.csv)
+[Full CSV](data/en/new-articles-2026-10-20T21-19-47Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-20 19:20:03 | [Long (model railways)](https://en.wikipedia.org/wiki/Long_%28model_railways%29) | [Peter L](https://en.wikipedia.org/wiki/User:Peter_L) | 8,681 |
-| 2026-10-20 19:20:03 | [Newbury Township, Kansas](https://en.wikipedia.org/wiki/Newbury_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,546 |
-| 2026-10-20 19:24:15 | [Medicine Show (play)](https://en.wikipedia.org/wiki/Medicine_Show_%28play%29) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 2,150 |
-| 2026-10-20 19:32:01 | [Alexandru Stoica (politician)](https://en.wikipedia.org/wiki/Alexandru_Stoica_%28politician%29) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,062 |
-| 2026-10-20 19:38:57 | [Dale Robinson (American football)](https://en.wikipedia.org/wiki/Dale_Robinson_%28American_football%29) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 6,038 |
-| 2026-10-20 19:40:34 | [Vranovine](https://en.wikipedia.org/wiki/Vranovine) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 2,112 |
-| 2026-10-20 19:42:07 | [Ștefan-Ovidiu Popa](https://en.wikipedia.org/wiki/%C8%98tefan-Ovidiu_Popa) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,917 |
-| 2026-10-20 19:42:52 | [Single national file of identified cycles](https://en.wikipedia.org/wiki/Single_national_file_of_identified_cycles) | [WikiEwout](https://en.wikipedia.org/wiki/User:WikiEwout) | 844 |
-| 2026-10-20 19:44:42 | [Brooke Warra](https://en.wikipedia.org/wiki/Brooke_Warra) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 5,004 |
-| 2026-10-20 19:46:20 | [Badiuzzaman Muhammad Elias](https://en.wikipedia.org/wiki/Badiuzzaman_Muhammad_Elias) | [Vinegarymass911](https://en.wikipedia.org/wiki/User:Vinegarymass911) | 2,903 |
-| 2026-10-20 19:47:13 | [Dirk Bos](https://en.wikipedia.org/wiki/Dirk_Bos) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 9,734 |
-| 2026-10-20 19:48:07 | [Académico do Funchal](https://en.wikipedia.org/wiki/Acad%C3%A9mico_do_Funchal) | [1010Sports](https://en.wikipedia.org/wiki/User:1010Sports) | 15,373 |
-| 2026-10-20 19:55:43 | [Roxanne Jensen](https://en.wikipedia.org/wiki/Roxanne_Jensen) | [Tymewalk](https://en.wikipedia.org/wiki/User:Tymewalk) | 4,768 |
-| 2026-10-20 19:58:12 | [Marina Raphael (brand)](https://en.wikipedia.org/wiki/Marina_Raphael_%28brand%29) | [RosaKlebbsFoot](https://en.wikipedia.org/wiki/User:RosaKlebbsFoot) | 9,083 |
-| 2026-10-20 19:58:38 | [Interational Pronouns Day](https://en.wikipedia.org/wiki/Interational_Pronouns_Day) | [J3133](https://en.wikipedia.org/wiki/User:J3133) | 159 |
-| 2026-10-20 20:05:33 | [Rafael Urdaneta Municipality](https://en.wikipedia.org/wiki/Rafael_Urdaneta_Municipality) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,627 |
-| 2026-10-20 20:07:24 | [Aikatsu Stars! The Movie](https://en.wikipedia.org/wiki/Aikatsu_Stars%21_The_Movie) | [CureSeashine](https://en.wikipedia.org/wiki/User:CureSeashine) | 3,060 |
-| 2026-10-20 20:08:24 | [Sékou Ly](https://en.wikipedia.org/wiki/S%C3%A9kou_Ly) | [Jebiguess](https://en.wikipedia.org/wiki/User:Jebiguess) | 4,672 |
-| 2026-10-20 20:13:44 | [1961 Irish Badminton Close](https://en.wikipedia.org/wiki/1961_Irish_Badminton_Close) | [JTDoyle](https://en.wikipedia.org/wiki/User:JTDoyle) | 2,081 |
-| 2026-10-20 20:15:45 | [A Nacional Building](https://en.wikipedia.org/wiki/A_Nacional_Building) | [Plumbago Capensis](https://en.wikipedia.org/wiki/User:Plumbago_Capensis) | 2,942 |
-| 2026-10-20 20:18:22 | [Beauchamp (surname)](https://en.wikipedia.org/wiki/Beauchamp_%28surname%29) | [Swpb](https://en.wikipedia.org/wiki/User:Swpb) | 4,253 |
+| 2026-10-20 20:20:56 | [Darling Nelly Gray (1926 Film)](https://en.wikipedia.org/wiki/Darling_Nelly_Gray_%281926_Film%29) | [RomanB7367](https://en.wikipedia.org/wiki/User:RomanB7367) | 2,885 |
+| 2026-10-20 20:23:17 | [Mount Mercer (homestead)](https://en.wikipedia.org/wiki/Mount_Mercer_%28homestead%29) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 14,076 |
+| 2026-10-20 20:27:09 | [2027 Eastleigh Borough Council election](https://en.wikipedia.org/wiki/2027_Eastleigh_Borough_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 7,440 |
+| 2026-10-20 20:28:26 | [Subagyo Hadi Siswoyo](https://en.wikipedia.org/wiki/Subagyo_Hadi_Siswoyo) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,478 |
+| 2026-10-20 20:28:32 | [Judo at the 2027 Pan American Games – Qualification](https://en.wikipedia.org/wiki/Judo_at_the_2027_Pan_American_Games_%E2%80%93_Qualification) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 14,505 |
+| 2026-10-20 20:31:30 | [From Pentonville Road Looking West: Evening](https://en.wikipedia.org/wiki/From_Pentonville_Road_Looking_West%3A_Evening) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 2,657 |
+| 2026-10-20 20:34:38 | [2026–27 Villanova Wildcats men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Villanova_Wildcats_men%27s_basketball_team) | [Publicwalrus](https://en.wikipedia.org/wiki/User:Publicwalrus) | 33,966 |
+| 2026-10-20 20:35:11 | [Lyle (given name)](https://en.wikipedia.org/wiki/Lyle_%28given_name%29) | [Swpb](https://en.wikipedia.org/wiki/User:Swpb) | 4,553 |
+| 2026-10-20 20:39:47 | [2026–27 Eastern Washington Eagles men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Eastern_Washington_Eagles_men%27s_basketball_team) | [DMoney1107](https://en.wikipedia.org/wiki/User:DMoney1107) | 30,692 |
+| 2026-10-20 20:39:55 | [2027 Hart District Council election](https://en.wikipedia.org/wiki/2027_Hart_District_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 7,840 |
+| 2026-10-20 20:47:38 | [1962 Irish Badminton Close](https://en.wikipedia.org/wiki/1962_Irish_Badminton_Close) | [JTDoyle](https://en.wikipedia.org/wiki/User:JTDoyle) | 2,130 |
+| 2026-10-20 20:51:26 | [Leonel Nunes](https://en.wikipedia.org/wiki/Leonel_Nunes) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,116 |
+| 2026-10-20 20:52:31 | [Carrie Laben](https://en.wikipedia.org/wiki/Carrie_Laben) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 6,107 |
+| 2026-10-20 20:55:38 | [Hoffman Reynolds Hays](https://en.wikipedia.org/wiki/Hoffman_Reynolds_Hays) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 4,095 |
+| 2026-10-20 20:57:28 | [Automatonophobia](https://en.wikipedia.org/wiki/Automatonophobia) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 3,329 |
+| 2026-10-20 21:01:37 | [Pim van Ballekom](https://en.wikipedia.org/wiki/Pim_van_Ballekom) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 3,594 |
+| 2026-10-20 21:01:50 | [List of crossings of the Lower American River](https://en.wikipedia.org/wiki/List_of_crossings_of_the_Lower_American_River) | [Elindstr](https://en.wikipedia.org/wiki/User:Elindstr) | 15,075 |
+| 2026-10-20 21:03:59 | [Maya Tischler](https://en.wikipedia.org/wiki/Maya_Tischler) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,586 |
+| 2026-10-20 21:04:27 | [399 (disambiguation)](https://en.wikipedia.org/wiki/399_%28disambiguation%29) | [Budew1234](https://en.wikipedia.org/wiki/User:Budew1234) | 972 |
+| 2026-10-20 21:07:26 | [Jyotirmay](https://en.wikipedia.org/wiki/Jyotirmay) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 207 |
+| 2026-10-20 21:11:06 | [Christina Wood Martinez](https://en.wikipedia.org/wiki/Christina_Wood_Martinez) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 3,861 |
+| 2026-10-20 21:11:26 | [1968 Oregon State Senate election](https://en.wikipedia.org/wiki/1968_Oregon_State_Senate_election) | [Longestview](https://en.wikipedia.org/wiki/User:Longestview) | 35,329 |
+| 2026-10-20 21:13:21 | [1928 Valley City State Vikings football team](https://en.wikipedia.org/wiki/1928_Valley_City_State_Vikings_football_team) | [PutABoatOnTheWater](https://en.wikipedia.org/wiki/User:PutABoatOnTheWater) | 5,330 |
+| 2026-10-20 21:13:53 | [Christina Wood](https://en.wikipedia.org/wiki/Christina_Wood) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 55 |
+| 2026-10-20 21:14:34 | [Toncho](https://en.wikipedia.org/wiki/Toncho) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 279 |
+| 2026-10-20 21:15:04 | [Gabriel Prieto](https://en.wikipedia.org/wiki/Gabriel_Prieto) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,908 |
+| 2026-10-20 21:16:15 | [Feirstein](https://en.wikipedia.org/wiki/Feirstein) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 185 |
