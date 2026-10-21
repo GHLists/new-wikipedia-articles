@@ -13,48 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-21 00:18 UTC](data/en/new-articles-2026-10-21T00-18-55Z.csv) | 16 |
-| Japanese | `ja` | [2026-10-21 00:18 UTC](data/ja/new-articles-2026-10-21T00-18-55Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-20 23:21 UTC](data/zh/new-articles-2026-10-20T23-21-52Z.csv) | 1 |
-| French | `fr` | [2026-10-21 00:18 UTC](data/fr/new-articles-2026-10-21T00-18-55Z.csv) | 7 |
+| English | `en` | [2026-10-21 01:19 UTC](data/en/new-articles-2026-10-21T01-19-08Z.csv) | 14 |
+| Japanese | `ja` | [2026-10-21 01:19 UTC](data/ja/new-articles-2026-10-21T01-19-08Z.csv) | 5 |
+| Chinese | `zh` | [2026-10-21 01:19 UTC](data/zh/new-articles-2026-10-21T01-19-08Z.csv) | 1 |
+| French | `fr` | [2026-10-21 01:19 UTC](data/fr/new-articles-2026-10-21T01-19-08Z.csv) | 8 |
 | German | `de` | [2026-10-21 00:18 UTC](data/de/new-articles-2026-10-21T00-18-55Z.csv) | 2 |
-| Russian | `ru` | [2026-10-21 00:18 UTC](data/ru/new-articles-2026-10-21T00-18-55Z.csv) | 2 |
-| Spanish | `es` | [2026-10-21 00:18 UTC](data/es/new-articles-2026-10-21T00-18-55Z.csv) | 7 |
-| Italian | `it` | [2026-10-20 23:21 UTC](data/it/new-articles-2026-10-20T23-21-52Z.csv) | 7 |
-| Portuguese | `pt` | [2026-10-21 00:18 UTC](data/pt/new-articles-2026-10-21T00-18-55Z.csv) | 5 |
+| Russian | `ru` | [2026-10-21 01:19 UTC](data/ru/new-articles-2026-10-21T01-19-08Z.csv) | 3 |
+| Spanish | `es` | [2026-10-21 01:19 UTC](data/es/new-articles-2026-10-21T01-19-08Z.csv) | 8 |
+| Italian | `it` | [2026-10-21 01:19 UTC](data/it/new-articles-2026-10-21T01-19-08Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-21 01:19 UTC](data/pt/new-articles-2026-10-21T01-19-08Z.csv) | 6 |
 | Polish | `pl` | [2026-10-21 00:18 UTC](data/pl/new-articles-2026-10-21T00-18-55Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-21 00:18 UTC](data/ar/new-articles-2026-10-21T00-18-55Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-21 01:19 UTC](data/ar/new-articles-2026-10-21T01-19-08Z.csv) | 6 |
 | Persian | `fa` | [2026-10-20 23:21 UTC](data/fa/new-articles-2026-10-20T23-21-52Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-21 00:18 UTC](data/tr/new-articles-2026-10-21T00-18-55Z.csv) | 3 |
-| Hebrew | `he` | [2026-10-21 00:18 UTC](data/he/new-articles-2026-10-21T00-18-55Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-21 00:18 UTC](data/sv/new-articles-2026-10-21T00-18-55Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-21 01:19 UTC](data/tr/new-articles-2026-10-21T01-19-08Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-21 01:19 UTC](data/he/new-articles-2026-10-21T01-19-08Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-21 01:19 UTC](data/sv/new-articles-2026-10-21T01-19-08Z.csv) | 1 |
 | Dutch | `nl` | [2026-10-21 00:18 UTC](data/nl/new-articles-2026-10-21T00-18-55Z.csv) | 1 |
-| Korean | `ko` | [2026-10-21 00:18 UTC](data/ko/new-articles-2026-10-21T00-18-55Z.csv) | 6 |
-| Indonesian | `id` | [2026-10-21 00:18 UTC](data/id/new-articles-2026-10-21T00-18-55Z.csv) | 7 |
+| Korean | `ko` | [2026-10-21 01:19 UTC](data/ko/new-articles-2026-10-21T01-19-08Z.csv) | 4 |
+| Indonesian | `id` | [2026-10-21 01:19 UTC](data/id/new-articles-2026-10-21T01-19-08Z.csv) | 6 |
 | Ukrainian | `uk` | [2026-10-21 00:18 UTC](data/uk/new-articles-2026-10-21T00-18-55Z.csv) | 5 |
 | Vietnamese | `vi` | [2026-10-20 23:21 UTC](data/vi/new-articles-2026-10-20T23-21-52Z.csv) | 2 |
 
-## English (en) — 2026-10-21 00:18 UTC
+## English (en) — 2026-10-21 01:19 UTC
 
-New articles created between 2026-10-20 23:21 UTC and 2026-10-21 00:18 UTC.
+New articles created between 2026-10-21 00:18 UTC and 2026-10-21 01:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-21T00-18-55Z.csv)
+[Full CSV](data/en/new-articles-2026-10-21T01-19-08Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-20 23:29:41 | [Wane (wood)](https://en.wikipedia.org/wiki/Wane_%28wood%29) | [Викидим](https://en.wikipedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B8%D0%BC) | 6,898 |
-| 2026-10-20 23:34:29 | [Xiuningella](https://en.wikipedia.org/wiki/Xiuningella) | [DevonHalDraedle](https://en.wikipedia.org/wiki/User:DevonHalDraedle) | 6,670 |
-| 2026-10-20 23:36:02 | [Sol Cesto](https://en.wikipedia.org/wiki/Sol_Cesto) | [Vrxces](https://en.wikipedia.org/wiki/User:Vrxces) | 3,933 |
-| 2026-10-20 23:36:26 | [Anne-Marie Levelut](https://en.wikipedia.org/wiki/Anne-Marie_Levelut) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 4,007 |
-| 2026-10-20 23:41:08 | [2006 in Lebanon](https://en.wikipedia.org/wiki/2006_in_Lebanon) | [Sojour](https://en.wikipedia.org/wiki/User:Sojour) | 1,565 |
-| 2026-10-20 23:47:45 | [A.M. Madeira Andebol SAD](https://en.wikipedia.org/wiki/A.M._Madeira_Andebol_SAD) | [1010Sports](https://en.wikipedia.org/wiki/User:1010Sports) | 21,250 |
-| 2026-10-20 23:55:21 | [Frisian raids in al-Andalus](https://en.wikipedia.org/wiki/Frisian_raids_in_al-Andalus) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 4,937 |
-| 2026-10-20 23:56:47 | [Ibrahima Sory Sow](https://en.wikipedia.org/wiki/Ibrahima_Sory_Sow) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,216 |
-| 2026-10-20 23:57:18 | [Zach Barlev](https://en.wikipedia.org/wiki/Zach_Barlev) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,348 |
-| 2026-10-20 23:58:30 | [17 October Movement](https://en.wikipedia.org/wiki/17_October_Movement) | [VitoxxMass](https://en.wikipedia.org/wiki/User:VitoxxMass) | 7,100 |
-| 2026-10-20 23:59:39 | [2026 Bistrița school stabbing](https://en.wikipedia.org/wiki/2026_Bistri%C8%9Ba_school_stabbing) | [TheDinkDummyProdutionTV](https://en.wikipedia.org/wiki/User:TheDinkDummyProdutionTV) | 4,573 |
-| 2026-10-20 23:59:39 | [Shroom Clouds](https://en.wikipedia.org/wiki/Shroom_Clouds) | [Alékoloco](https://en.wikipedia.org/wiki/User:Al%C3%A9koloco) | 3,963 |
-| 2026-10-21 00:06:02 | [Hylaeus bicolorellus](https://en.wikipedia.org/wiki/Hylaeus_bicolorellus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,381 |
-| 2026-10-21 00:10:44 | [Mère Cardine](https://en.wikipedia.org/wiki/M%C3%A8re_Cardine) | [Aciram](https://en.wikipedia.org/wiki/User:Aciram) | 4,631 |
-| 2026-10-21 00:13:12 | [Vladlen Dozortsev](https://en.wikipedia.org/wiki/Vladlen_Dozortsev) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,419 |
-| 2026-10-21 00:13:43 | [Chard, Washington](https://en.wikipedia.org/wiki/Chard%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,530 |
+| 2026-10-21 00:29:46 | [Jen Fawkes](https://en.wikipedia.org/wiki/Jen_Fawkes) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 5,411 |
+| 2026-10-21 00:31:08 | [2026 Ipswich Super 440](https://en.wikipedia.org/wiki/2026_Ipswich_Super_440) | [DexDaRacer](https://en.wikipedia.org/wiki/User:DexDaRacer) | 28,391 |
+| 2026-10-21 00:39:02 | [Theun Busser](https://en.wikipedia.org/wiki/Theun_Busser) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 7,808 |
+| 2026-10-21 00:40:32 | [Timeline of the Oklahoma City bombing](https://en.wikipedia.org/wiki/Timeline_of_the_Oklahoma_City_bombing) | [Spencer2863](https://en.wikipedia.org/wiki/User:Spencer2863) | 29,850 |
+| 2026-10-21 00:46:06 | [Mayumi Martinez](https://en.wikipedia.org/wiki/Mayumi_Martinez) | [ItssJustRiri](https://en.wikipedia.org/wiki/User:ItssJustRiri) | 3,335 |
+| 2026-10-21 00:48:08 | [Edwin B. Self](https://en.wikipedia.org/wiki/Edwin_B._Self) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 5,122 |
+| 2026-10-21 00:49:40 | [Anting West railway station](https://en.wikipedia.org/wiki/Anting_West_railway_station) | [Grahamec](https://en.wikipedia.org/wiki/User:Grahamec) | 14,886 |
+| 2026-10-21 00:52:29 | [Shohei Kawakami (gymnast)](https://en.wikipedia.org/wiki/Shohei_Kawakami_%28gymnast%29) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,751 |
+| 2026-10-21 00:53:09 | [Reece Foley](https://en.wikipedia.org/wiki/Reece_Foley) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,235 |
+| 2026-10-21 00:59:05 | [Cherokee, Washington](https://en.wikipedia.org/wiki/Cherokee%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,299 |
+| 2026-10-21 01:03:52 | [Ślusarek](https://en.wikipedia.org/wiki/%C5%9Alusarek) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 766 |
+| 2026-10-21 01:08:03 | [1992 Sporting Cristal season](https://en.wikipedia.org/wiki/1992_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,097 |
+| 2026-10-21 01:08:08 | [Ghana national football team results (1990–99)](https://en.wikipedia.org/wiki/Ghana_national_football_team_results_%281990%E2%80%9399%29) | [Natsubee](https://en.wikipedia.org/wiki/User:Natsubee) | 37,845 |
+| 2026-10-21 01:14:41 | [La dousa votz](https://en.wikipedia.org/wiki/La_dousa_votz) | [MisterCake](https://en.wikipedia.org/wiki/User:MisterCake) | 1,097 |
