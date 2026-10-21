@@ -13,48 +13,57 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-21 16:19 UTC](data/en/new-articles-2026-10-21T16-19-54Z.csv) | 16 |
-| Japanese | `ja` | [2026-10-21 16:19 UTC](data/ja/new-articles-2026-10-21T16-19-54Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-21 16:19 UTC](data/zh/new-articles-2026-10-21T16-19-54Z.csv) | 5 |
-| French | `fr` | [2026-10-21 16:19 UTC](data/fr/new-articles-2026-10-21T16-19-54Z.csv) | 8 |
-| German | `de` | [2026-10-21 16:19 UTC](data/de/new-articles-2026-10-21T16-19-54Z.csv) | 17 |
-| Russian | `ru` | [2026-10-21 16:19 UTC](data/ru/new-articles-2026-10-21T16-19-54Z.csv) | 4 |
-| Spanish | `es` | [2026-10-21 16:19 UTC](data/es/new-articles-2026-10-21T16-19-54Z.csv) | 8 |
-| Italian | `it` | [2026-10-21 16:19 UTC](data/it/new-articles-2026-10-21T16-19-54Z.csv) | 7 |
-| Portuguese | `pt` | [2026-10-21 16:19 UTC](data/pt/new-articles-2026-10-21T16-19-54Z.csv) | 15 |
-| Polish | `pl` | [2026-10-21 16:19 UTC](data/pl/new-articles-2026-10-21T16-19-54Z.csv) | 9 |
-| Arabic | `ar` | [2026-10-21 16:19 UTC](data/ar/new-articles-2026-10-21T16-19-54Z.csv) | 1 |
-| Persian | `fa` | [2026-10-21 16:19 UTC](data/fa/new-articles-2026-10-21T16-19-54Z.csv) | 2 |
-| Turkish | `tr` | [2026-10-21 16:19 UTC](data/tr/new-articles-2026-10-21T16-19-54Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-21 16:19 UTC](data/he/new-articles-2026-10-21T16-19-54Z.csv) | 5 |
-| Swedish | `sv` | [2026-10-21 16:19 UTC](data/sv/new-articles-2026-10-21T16-19-54Z.csv) | 4 |
-| Dutch | `nl` | [2026-10-21 16:19 UTC](data/nl/new-articles-2026-10-21T16-19-54Z.csv) | 1 |
-| Korean | `ko` | [2026-10-21 15:19 UTC](data/ko/new-articles-2026-10-21T15-19-12Z.csv) | 1 |
+| English | `en` | [2026-10-21 17:19 UTC](data/en/new-articles-2026-10-21T17-19-45Z.csv) | 25 |
+| Japanese | `ja` | [2026-10-21 17:19 UTC](data/ja/new-articles-2026-10-21T17-19-45Z.csv) | 3 |
+| Chinese | `zh` | [2026-10-21 17:19 UTC](data/zh/new-articles-2026-10-21T17-19-45Z.csv) | 7 |
+| French | `fr` | [2026-10-21 17:19 UTC](data/fr/new-articles-2026-10-21T17-19-45Z.csv) | 13 |
+| German | `de` | [2026-10-21 17:19 UTC](data/de/new-articles-2026-10-21T17-19-45Z.csv) | 11 |
+| Russian | `ru` | [2026-10-21 17:19 UTC](data/ru/new-articles-2026-10-21T17-19-45Z.csv) | 15 |
+| Spanish | `es` | [2026-10-21 17:19 UTC](data/es/new-articles-2026-10-21T17-19-45Z.csv) | 10 |
+| Italian | `it` | [2026-10-21 17:19 UTC](data/it/new-articles-2026-10-21T17-19-45Z.csv) | 7 |
+| Portuguese | `pt` | [2026-10-21 17:19 UTC](data/pt/new-articles-2026-10-21T17-19-45Z.csv) | 11 |
+| Polish | `pl` | [2026-10-21 17:19 UTC](data/pl/new-articles-2026-10-21T17-19-45Z.csv) | 10 |
+| Arabic | `ar` | [2026-10-21 17:19 UTC](data/ar/new-articles-2026-10-21T17-19-45Z.csv) | 8 |
+| Persian | `fa` | [2026-10-21 17:19 UTC](data/fa/new-articles-2026-10-21T17-19-45Z.csv) | 2 |
+| Turkish | `tr` | [2026-10-21 17:19 UTC](data/tr/new-articles-2026-10-21T17-19-45Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-21 17:19 UTC](data/he/new-articles-2026-10-21T17-19-45Z.csv) | 6 |
+| Swedish | `sv` | [2026-10-21 17:19 UTC](data/sv/new-articles-2026-10-21T17-19-45Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-21 17:19 UTC](data/nl/new-articles-2026-10-21T17-19-45Z.csv) | 1 |
+| Korean | `ko` | [2026-10-21 17:19 UTC](data/ko/new-articles-2026-10-21T17-19-45Z.csv) | 2 |
 | Indonesian | `id` | [2026-10-21 15:19 UTC](data/id/new-articles-2026-10-21T15-19-12Z.csv) | 10 |
-| Ukrainian | `uk` | [2026-10-21 16:19 UTC](data/uk/new-articles-2026-10-21T16-19-54Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-10-21 17:19 UTC](data/uk/new-articles-2026-10-21T17-19-45Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-21 16:19 UTC](data/vi/new-articles-2026-10-21T16-19-54Z.csv) | 2 |
 
-## English (en) — 2026-10-21 16:19 UTC
+## English (en) — 2026-10-21 17:19 UTC
 
-New articles created between 2026-10-21 15:19 UTC and 2026-10-21 16:19 UTC.
+New articles created between 2026-10-21 16:19 UTC and 2026-10-21 17:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-21T16-19-54Z.csv)
+[Full CSV](data/en/new-articles-2026-10-21T17-19-45Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-21 15:19:31 | [Henry Picard (disambiguation)](https://en.wikipedia.org/wiki/Henry_Picard_%28disambiguation%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 240 |
-| 2026-10-21 15:29:49 | [Jozef Deleu](https://en.wikipedia.org/wiki/Jozef_Deleu) | [GerkeHuis](https://en.wikipedia.org/wiki/User:GerkeHuis) | 14,943 |
-| 2026-10-21 15:34:00 | [Holland's embedding theorem](https://en.wikipedia.org/wiki/Holland%27s_embedding_theorem) | [JustinR1970](https://en.wikipedia.org/wiki/User:JustinR1970) | 7,257 |
-| 2026-10-21 15:35:57 | [Asteromella](https://en.wikipedia.org/wiki/Asteromella) | [Chess enjoyer](https://en.wikipedia.org/wiki/User:Chess_enjoyer) | 14,354 |
-| 2026-10-21 15:37:18 | [Penstemon guadalupensis](https://en.wikipedia.org/wiki/Penstemon_guadalupensis) | [MtBotany](https://en.wikipedia.org/wiki/User:MtBotany) | 10,752 |
-| 2026-10-21 15:40:38 | [Commission to Investigate Allegations of Bribery or Corruption](https://en.wikipedia.org/wiki/Commission_to_Investigate_Allegations_of_Bribery_or_Corruption) | [311DRT](https://en.wikipedia.org/wiki/User:311DRT) | 12,981 |
-| 2026-10-21 15:41:54 | [Partulina anceyana](https://en.wikipedia.org/wiki/Partulina_anceyana) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 3,592 |
-| 2026-10-21 15:45:31 | [Camberwell Courthouse and Police Station](https://en.wikipedia.org/wiki/Camberwell_Courthouse_and_Police_Station) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 7,194 |
-| 2026-10-21 15:50:26 | [Teddy Aaron](https://en.wikipedia.org/wiki/Teddy_Aaron) | [Provted](https://en.wikipedia.org/wiki/User:Provted) | 7,112 |
-| 2026-10-21 15:53:47 | [Northern Negev Mountains Natural Region](https://en.wikipedia.org/wiki/Northern_Negev_Mountains_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 5,252 |
-| 2026-10-21 15:58:18 | [Carmen Messina](https://en.wikipedia.org/wiki/Carmen_Messina) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 5,906 |
-| 2026-10-21 15:59:19 | [Potap (name)](https://en.wikipedia.org/wiki/Potap_%28name%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 698 |
-| 2026-10-21 16:00:04 | [Jubilee Fountain](https://en.wikipedia.org/wiki/Jubilee_Fountain) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,311 |
-| 2026-10-21 16:09:48 | [2026 South American Under-23 Championships in Athletics](https://en.wikipedia.org/wiki/2026_South_American_Under-23_Championships_in_Athletics) | [Pietaster](https://en.wikipedia.org/wiki/User:Pietaster) | 3,876 |
-| 2026-10-21 16:10:51 | [1972–73 Preston North End F.C. season](https://en.wikipedia.org/wiki/1972%E2%80%9373_Preston_North_End_F.C._season) | [CptGrez](https://en.wikipedia.org/wiki/User:CptGrez) | 13,166 |
-| 2026-10-21 16:12:55 | [Gustav Trinkler](https://en.wikipedia.org/wiki/Gustav_Trinkler) | [Harden123457](https://en.wikipedia.org/wiki/User:Harden123457) | 10,156 |
+| 2026-10-21 16:27:00 | [Hugo Doornhof](https://en.wikipedia.org/wiki/Hugo_Doornhof) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 4,022 |
+| 2026-10-21 16:29:48 | [Gary's](https://en.wikipedia.org/wiki/Gary%27s) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,126 |
+| 2026-10-21 16:30:16 | [Wabaunsee Township, Kansas](https://en.wikipedia.org/wiki/Wabaunsee_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,215 |
+| 2026-10-21 16:33:02 | [Inauguration of Péter Magyar](https://en.wikipedia.org/wiki/Inauguration_of_P%C3%A9ter_Magyar) | [N.Rbertt](https://en.wikipedia.org/wiki/User:N.Rbertt) | 6,879 |
+| 2026-10-21 16:34:13 | [Kavita (restaurant)](https://en.wikipedia.org/wiki/Kavita_%28restaurant%29) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,080 |
+| 2026-10-21 16:36:43 | [Scion (novel)](https://en.wikipedia.org/wiki/Scion_%28novel%29) | [Dender Hello](https://en.wikipedia.org/wiki/User:Dender_Hello) | 2,309 |
+| 2026-10-21 16:37:07 | [Paula Prata](https://en.wikipedia.org/wiki/Paula_Prata) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,733 |
+| 2026-10-21 16:45:22 | [Thierry Jaspart](https://en.wikipedia.org/wiki/Thierry_Jaspart) | [PulledApart](https://en.wikipedia.org/wiki/User:PulledApart) | 4,521 |
+| 2026-10-21 16:46:27 | [Wisconsin's Brown–Door–Kewaunee 2nd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Brown%E2%80%93Door%E2%80%93Kewaunee_2nd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 4,177 |
+| 2026-10-21 16:47:04 | [Norbert Pfaffenbichler](https://en.wikipedia.org/wiki/Norbert_Pfaffenbichler) | [Normospheric](https://en.wikipedia.org/wiki/User:Normospheric) | 13,059 |
+| 2026-10-21 16:48:11 | [Washington Township, Wabaunsee County, Kansas](https://en.wikipedia.org/wiki/Washington_Township%2C_Wabaunsee_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,253 |
+| 2026-10-21 16:50:31 | [New Mooring Container Terminal](https://en.wikipedia.org/wiki/New_Mooring_Container_Terminal) | [Paleoa](https://en.wikipedia.org/wiki/User:Paleoa) | 18,472 |
+| 2026-10-21 16:51:17 | [Mixson (name)](https://en.wikipedia.org/wiki/Mixson_%28name%29) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 195 |
+| 2026-10-21 16:52:42 | [Pignanelli](https://en.wikipedia.org/wiki/Pignanelli) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 143 |
+| 2026-10-21 16:53:07 | [Arizona Proposition 314](https://en.wikipedia.org/wiki/Arizona_Proposition_314) | [Oscar .](https://en.wikipedia.org/wiki/User:Oscar_.) | 2,845 |
+| 2026-10-21 16:53:54 | [Diplomatic Academy of the Ministry of Foreign Affairs of the Kyrgyz Republic](https://en.wikipedia.org/wiki/Diplomatic_Academy_of_the_Ministry_of_Foreign_Affairs_of_the_Kyrgyz_Republic) | [Ch](https://en.wikipedia.org/wiki/User:Ch) | 4,535 |
+| 2026-10-21 16:54:28 | [Kontorovich](https://en.wikipedia.org/wiki/Kontorovich) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 144 |
+| 2026-10-21 16:55:04 | [Wisconsin's Brown–Door–Kewaunee 3rd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Brown%E2%80%93Door%E2%80%93Kewaunee_3rd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 4,637 |
+| 2026-10-21 16:56:02 | [Heather H. Lavallee](https://en.wikipedia.org/wiki/Heather_H._Lavallee) | [DessHolliday](https://en.wikipedia.org/wiki/User:DessHolliday) | 5,249 |
+| 2026-10-21 16:56:39 | [Mudit](https://en.wikipedia.org/wiki/Mudit) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 215 |
+| 2026-10-21 17:06:51 | [Gildenhorn](https://en.wikipedia.org/wiki/Gildenhorn) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 280 |
+| 2026-10-21 17:06:56 | [2026 World Weightlifting Championships – Men's 65 kg](https://en.wikipedia.org/wiki/2026_World_Weightlifting_Championships_%E2%80%93_Men%27s_65_kg) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 6,393 |
+| 2026-10-21 17:13:29 | [2018 WPT Master Final](https://en.wikipedia.org/wiki/2018_WPT_Master_Final) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 20,693 |
+| 2026-10-21 17:14:08 | [Southern Negev Mountains Natural Region](https://en.wikipedia.org/wiki/Southern_Negev_Mountains_Natural_Region) | [ProudNewEnglander](https://en.wikipedia.org/wiki/User:ProudNewEnglander) | 4,813 |
+| 2026-10-21 17:19:22 | [I live underwater](https://en.wikipedia.org/wiki/I_live_underwater) | [Sandramariawastakenwastaken](https://en.wikipedia.org/wiki/User:Sandramariawastakenwastaken) | 1 |
