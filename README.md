@@ -13,60 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-21 21:19 UTC](data/en/new-articles-2026-10-21T21-19-00Z.csv) | 28 |
-| Japanese | `ja` | [2026-10-21 18:18 UTC](data/ja/new-articles-2026-10-21T18-18-59Z.csv) | 1 |
-| Chinese | `zh` | [2026-10-21 21:19 UTC](data/zh/new-articles-2026-10-21T21-19-00Z.csv) | 1 |
-| French | `fr` | [2026-10-21 21:19 UTC](data/fr/new-articles-2026-10-21T21-19-00Z.csv) | 8 |
-| German | `de` | [2026-10-21 21:19 UTC](data/de/new-articles-2026-10-21T21-19-00Z.csv) | 6 |
-| Russian | `ru` | [2026-10-21 21:19 UTC](data/ru/new-articles-2026-10-21T21-19-00Z.csv) | 24 |
-| Spanish | `es` | [2026-10-21 21:19 UTC](data/es/new-articles-2026-10-21T21-19-00Z.csv) | 8 |
-| Italian | `it` | [2026-10-21 21:19 UTC](data/it/new-articles-2026-10-21T21-19-00Z.csv) | 6 |
-| Portuguese | `pt` | [2026-10-21 21:19 UTC](data/pt/new-articles-2026-10-21T21-19-00Z.csv) | 13 |
-| Polish | `pl` | [2026-10-21 21:19 UTC](data/pl/new-articles-2026-10-21T21-19-00Z.csv) | 10 |
-| Arabic | `ar` | [2026-10-21 21:19 UTC](data/ar/new-articles-2026-10-21T21-19-00Z.csv) | 23 |
-| Persian | `fa` | [2026-10-21 21:19 UTC](data/fa/new-articles-2026-10-21T21-19-00Z.csv) | 6 |
-| Turkish | `tr` | [2026-10-21 21:19 UTC](data/tr/new-articles-2026-10-21T21-19-00Z.csv) | 7 |
+| English | `en` | [2026-10-21 22:19 UTC](data/en/new-articles-2026-10-21T22-19-45Z.csv) | 22 |
+| Japanese | `ja` | [2026-10-21 22:19 UTC](data/ja/new-articles-2026-10-21T22-19-45Z.csv) | 2 |
+| Chinese | `zh` | [2026-10-21 22:19 UTC](data/zh/new-articles-2026-10-21T22-19-45Z.csv) | 1 |
+| French | `fr` | [2026-10-21 22:19 UTC](data/fr/new-articles-2026-10-21T22-19-45Z.csv) | 8 |
+| German | `de` | [2026-10-21 22:19 UTC](data/de/new-articles-2026-10-21T22-19-45Z.csv) | 7 |
+| Russian | `ru` | [2026-10-21 22:19 UTC](data/ru/new-articles-2026-10-21T22-19-45Z.csv) | 5 |
+| Spanish | `es` | [2026-10-21 22:19 UTC](data/es/new-articles-2026-10-21T22-19-45Z.csv) | 5 |
+| Italian | `it` | [2026-10-21 22:19 UTC](data/it/new-articles-2026-10-21T22-19-45Z.csv) | 10 |
+| Portuguese | `pt` | [2026-10-21 22:19 UTC](data/pt/new-articles-2026-10-21T22-19-45Z.csv) | 9 |
+| Polish | `pl` | [2026-10-21 22:19 UTC](data/pl/new-articles-2026-10-21T22-19-45Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-21 22:19 UTC](data/ar/new-articles-2026-10-21T22-19-45Z.csv) | 2 |
+| Persian | `fa` | [2026-10-21 22:19 UTC](data/fa/new-articles-2026-10-21T22-19-45Z.csv) | 8 |
+| Turkish | `tr` | [2026-10-21 22:19 UTC](data/tr/new-articles-2026-10-21T22-19-45Z.csv) | 6 |
 | Hebrew | `he` | [2026-10-21 20:19 UTC](data/he/new-articles-2026-10-21T20-19-06Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-21 21:19 UTC](data/sv/new-articles-2026-10-21T21-19-00Z.csv) | 6 |
-| Dutch | `nl` | [2026-10-21 21:19 UTC](data/nl/new-articles-2026-10-21T21-19-00Z.csv) | 6 |
-| Korean | `ko` | [2026-10-21 21:19 UTC](data/ko/new-articles-2026-10-21T21-19-00Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-21 21:19 UTC](data/id/new-articles-2026-10-21T21-19-00Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-21 21:19 UTC](data/uk/new-articles-2026-10-21T21-19-00Z.csv) | 6 |
+| Swedish | `sv` | [2026-10-21 22:19 UTC](data/sv/new-articles-2026-10-21T22-19-45Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-21 22:19 UTC](data/nl/new-articles-2026-10-21T22-19-45Z.csv) | 1 |
+| Korean | `ko` | [2026-10-21 22:19 UTC](data/ko/new-articles-2026-10-21T22-19-45Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-21 22:19 UTC](data/id/new-articles-2026-10-21T22-19-45Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-10-21 22:19 UTC](data/uk/new-articles-2026-10-21T22-19-45Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-21 18:18 UTC](data/vi/new-articles-2026-10-21T18-18-59Z.csv) | 2 |
 
-## English (en) — 2026-10-21 21:19 UTC
+## English (en) — 2026-10-21 22:19 UTC
 
-New articles created between 2026-10-21 20:19 UTC and 2026-10-21 21:19 UTC.
+New articles created between 2026-10-21 21:19 UTC and 2026-10-21 22:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-21T21-19-00Z.csv)
+[Full CSV](data/en/new-articles-2026-10-21T22-19-45Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-21 20:19:44 | [Gårdsjö Älgpark](https://en.wikipedia.org/wiki/G%C3%A5rdsj%C3%B6_%C3%84lgpark) | [Seasider53](https://en.wikipedia.org/wiki/User:Seasider53) | 4,001 |
-| 2026-10-21 20:21:02 | [Ekegren](https://en.wikipedia.org/wiki/Ekegren) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 140 |
-| 2026-10-21 20:21:23 | [Center for Earth and Natural Resource Sciences (CENRS)](https://en.wikipedia.org/wiki/Center_for_Earth_and_Natural_Resource_Sciences_%28CENRS%29) | [Alain N Simplice](https://en.wikipedia.org/wiki/User:Alain_N_Simplice) | 5,134 |
-| 2026-10-21 20:22:00 | [Paraphelileiopus](https://en.wikipedia.org/wiki/Paraphelileiopus) | [Micromesistius](https://en.wikipedia.org/wiki/User:Micromesistius) | 2,083 |
-| 2026-10-21 20:22:08 | [2026 World Weightlifting Championships – Men's 110 kg](https://en.wikipedia.org/wiki/2026_World_Weightlifting_Championships_%E2%80%93_Men%27s_110_kg) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 5,538 |
-| 2026-10-21 20:27:50 | [Nesselsdorfer Wagenbau-Fabriks-Gesellschaft](https://en.wikipedia.org/wiki/Nesselsdorfer_Wagenbau-Fabriks-Gesellschaft) | [AtlasNode11](https://en.wikipedia.org/wiki/User:AtlasNode11) | 9,540 |
-| 2026-10-21 20:27:56 | [Brigade 918 (Vietnam)](https://en.wikipedia.org/wiki/Brigade_918_%28Vietnam%29) | [Buckshot06](https://en.wikipedia.org/wiki/User:Buckshot06) | 752 |
-| 2026-10-21 20:30:49 | [Microphone RCA 4A](https://en.wikipedia.org/wiki/Microphone_RCA_4A) | [Telecineguy](https://en.wikipedia.org/wiki/User:Telecineguy) | 2,702 |
-| 2026-10-21 20:34:02 | [44 (film)](https://en.wikipedia.org/wiki/44_%28film%29) | [Orkhano](https://en.wikipedia.org/wiki/User:Orkhano) | 12,484 |
-| 2026-10-21 20:35:58 | [John N. Chase](https://en.wikipedia.org/wiki/John_N._Chase) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 4,490 |
-| 2026-10-21 20:37:27 | [2027 Southampton City Council election](https://en.wikipedia.org/wiki/2027_Southampton_City_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 9,220 |
-| 2026-10-21 20:38:22 | [Nebraska Legislature 45th district](https://en.wikipedia.org/wiki/Nebraska_Legislature_45th_district) | [Basileus121](https://en.wikipedia.org/wiki/User:Basileus121) | 5,332 |
-| 2026-10-21 20:40:01 | [Salamat-Beni Halba war](https://en.wikipedia.org/wiki/Salamat-Beni_Halba_war) | [Jebiguess](https://en.wikipedia.org/wiki/User:Jebiguess) | 19,206 |
-| 2026-10-21 20:49:27 | [2026 World Weightlifting Championships – Men's +110 kg](https://en.wikipedia.org/wiki/2026_World_Weightlifting_Championships_%E2%80%93_Men%27s_%2B110_kg) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 5,422 |
-| 2026-10-21 20:49:37 | [Palais-Royal Garden](https://en.wikipedia.org/wiki/Palais-Royal_Garden) | [Викидим](https://en.wikipedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B8%D0%BC) | 11,484 |
-| 2026-10-21 20:50:50 | [2027 Test Valley Borough Council election](https://en.wikipedia.org/wiki/2027_Test_Valley_Borough_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 5,487 |
-| 2026-10-21 20:53:54 | [Al-Shafi'i Mosque](https://en.wikipedia.org/wiki/Al-Shafi%27i_Mosque) | [Prosnu](https://en.wikipedia.org/wiki/User:Prosnu) | 3,317 |
-| 2026-10-21 20:59:18 | [Beat the Band (musical)](https://en.wikipedia.org/wiki/Beat_the_Band_%28musical%29) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 3,816 |
-| 2026-10-21 20:59:59 | [Mermaid playing harp](https://en.wikipedia.org/wiki/Mermaid_playing_harp) | [Sandramariawastakenwastaken](https://en.wikipedia.org/wiki/User:Sandramariawastakenwastaken) | 33 |
-| 2026-10-21 21:07:07 | [N6-Methyl-AMP deaminase](https://en.wikipedia.org/wiki/N6-Methyl-AMP_deaminase) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 2,303 |
-| 2026-10-21 21:08:05 | [A'mir Sears](https://en.wikipedia.org/wiki/A%27mir_Sears) | [JTtheOG](https://en.wikipedia.org/wiki/User:JTtheOG) | 12,157 |
-| 2026-10-21 21:08:37 | [AI Concordance Protocol](https://en.wikipedia.org/wiki/AI_Concordance_Protocol) | [BB58425](https://en.wikipedia.org/wiki/User:BB58425) | 5,832 |
-| 2026-10-21 21:11:51 | [Jason Alama](https://en.wikipedia.org/wiki/Jason_Alama) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 2,487 |
-| 2026-10-21 21:14:25 | [2027 Alpine Skiing World Cup – Women's overall](https://en.wikipedia.org/wiki/2027_Alpine_Skiing_World_Cup_%E2%80%93_Women%27s_overall) | [AyaK](https://en.wikipedia.org/wiki/User:AyaK) | 19,275 |
-| 2026-10-21 21:15:15 | [2026 World Weightlifting Championships – Women's 86 kg](https://en.wikipedia.org/wiki/2026_World_Weightlifting_Championships_%E2%80%93_Women%27s_86_kg) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 5,976 |
-| 2026-10-21 21:16:25 | [2027 Winchester City Council election](https://en.wikipedia.org/wiki/2027_Winchester_City_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 8,633 |
-| 2026-10-21 21:17:22 | [Nikolay Koshman](https://en.wikipedia.org/wiki/Nikolay_Koshman) | [Athanasius238](https://en.wikipedia.org/wiki/User:Athanasius238) | 2,154 |
-| 2026-10-21 21:18:14 | [Wisconsin's Brown County 2nd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Brown_County_2nd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 12,735 |
+| 2026-10-21 21:23:25 | [Claire Williams Bridgwater](https://en.wikipedia.org/wiki/Claire_Williams_Bridgwater) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 5,747 |
+| 2026-10-21 21:24:08 | [Coralie Demers](https://en.wikipedia.org/wiki/Coralie_Demers) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 7,612 |
+| 2026-10-21 21:25:04 | [2026 IKF European Korfball Championship](https://en.wikipedia.org/wiki/2026_IKF_European_Korfball_Championship) | [Pelotas](https://en.wikipedia.org/wiki/User:Pelotas) | 19,088 |
+| 2026-10-21 21:27:04 | [A Man of Our Times](https://en.wikipedia.org/wiki/A_Man_of_Our_Times) | [LostMedia2005](https://en.wikipedia.org/wiki/User:LostMedia2005) | 8,291 |
+| 2026-10-21 21:27:47 | [Funny Feeling (Benjamin Ingrosso song)](https://en.wikipedia.org/wiki/Funny_Feeling_%28Benjamin_Ingrosso_song%29) | [Nairolf17](https://en.wikipedia.org/wiki/User:Nairolf17) | 11,556 |
+| 2026-10-21 21:30:45 | [Lawrence Public Schools (Michigan)](https://en.wikipedia.org/wiki/Lawrence_Public_Schools_%28Michigan%29) | [Deepsnowi80](https://en.wikipedia.org/wiki/User:Deepsnowi80) | 4,742 |
+| 2026-10-21 21:32:14 | [Paramoeba perurans](https://en.wikipedia.org/wiki/Paramoeba_perurans) | [Kelubact](https://en.wikipedia.org/wiki/User:Kelubact) | 1,093 |
+| 2026-10-21 21:37:57 | [1936–37 Kingston Colonials season](https://en.wikipedia.org/wiki/1936%E2%80%9337_Kingston_Colonials_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 9,791 |
+| 2026-10-21 21:40:37 | [Christian Untrieser](https://en.wikipedia.org/wiki/Christian_Untrieser) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,548 |
+| 2026-10-21 21:48:42 | [1937–38 Kingston Colonials season](https://en.wikipedia.org/wiki/1937%E2%80%9338_Kingston_Colonials_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 9,583 |
+| 2026-10-21 21:50:42 | [List of top Liga Puerto Rico Pro goal scorers by season](https://en.wikipedia.org/wiki/List_of_top_Liga_Puerto_Rico_Pro_goal_scorers_by_season) | [Yeahimaboss413](https://en.wikipedia.org/wiki/User:Yeahimaboss413) | 16,665 |
+| 2026-10-21 21:52:05 | [Battle of Tartu (1941)](https://en.wikipedia.org/wiki/Battle_of_Tartu_%281941%29) | [Dernoncourt1170](https://en.wikipedia.org/wiki/User:Dernoncourt1170) | 3,017 |
+| 2026-10-21 21:58:07 | [Business Student Council](https://en.wikipedia.org/wiki/Business_Student_Council) | [Odettetellsastory](https://en.wikipedia.org/wiki/User:Odettetellsastory) | 8,383 |
+| 2026-10-21 21:59:13 | [Victor (company)](https://en.wikipedia.org/wiki/Victor_%28company%29) | [Nissipinie](https://en.wikipedia.org/wiki/User:Nissipinie) | 485 |
+| 2026-10-21 22:00:19 | [1938–39 Kingston Colonials season](https://en.wikipedia.org/wiki/1938%E2%80%9339_Kingston_Colonials_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,111 |
+| 2026-10-21 22:00:40 | [2026–27 Davidson Wildcats women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Davidson_Wildcats_women%27s_basketball_team) | [Bremerton98310](https://en.wikipedia.org/wiki/User:Bremerton98310) | 16,985 |
+| 2026-10-21 22:01:22 | [Onsra](https://en.wikipedia.org/wiki/Onsra) | [Alékoloco](https://en.wikipedia.org/wiki/User:Al%C3%A9koloco) | 2,712 |
+| 2026-10-21 22:02:40 | [Albert Gregory (disambiguation)](https://en.wikipedia.org/wiki/Albert_Gregory_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 324 |
+| 2026-10-21 22:03:34 | [Wisconsin's Kewaunee County Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Kewaunee_County_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 8,773 |
+| 2026-10-21 22:03:59 | [Too Bad For Her](https://en.wikipedia.org/wiki/Too_Bad_For_Her) | [The One I Left](https://en.wikipedia.org/wiki/User:The_One_I_Left) | 4,000 |
+| 2026-10-21 22:04:06 | [Mary Fiers](https://en.wikipedia.org/wiki/Mary_Fiers) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 5,254 |
+| 2026-10-21 22:15:16 | [2026 Croix-des-Bouquets gang ambush](https://en.wikipedia.org/wiki/2026_Croix-des-Bouquets_gang_ambush) | [PizzaKing13](https://en.wikipedia.org/wiki/User:PizzaKing13) | 5,278 |
