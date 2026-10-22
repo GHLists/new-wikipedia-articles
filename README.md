@@ -13,47 +13,41 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-22 02:18 UTC](data/en/new-articles-2026-10-22T02-18-39Z.csv) | 15 |
-| Japanese | `ja` | [2026-10-22 02:18 UTC](data/ja/new-articles-2026-10-22T02-18-39Z.csv) | 8 |
-| Chinese | `zh` | [2026-10-22 02:18 UTC](data/zh/new-articles-2026-10-22T02-18-39Z.csv) | 3 |
-| French | `fr` | [2026-10-22 02:18 UTC](data/fr/new-articles-2026-10-22T02-18-39Z.csv) | 3 |
-| German | `de` | [2026-10-22 00:18 UTC](data/de/new-articles-2026-10-22T00-18-41Z.csv) | 2 |
-| Russian | `ru` | [2026-10-22 02:18 UTC](data/ru/new-articles-2026-10-22T02-18-39Z.csv) | 6 |
-| Spanish | `es` | [2026-10-22 02:18 UTC](data/es/new-articles-2026-10-22T02-18-39Z.csv) | 4 |
+| English | `en` | [2026-10-22 03:18 UTC](data/en/new-articles-2026-10-22T03-18-56Z.csv) | 9 |
+| Japanese | `ja` | [2026-10-22 03:18 UTC](data/ja/new-articles-2026-10-22T03-18-56Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-22 03:18 UTC](data/zh/new-articles-2026-10-22T03-18-56Z.csv) | 6 |
+| French | `fr` | [2026-10-22 03:18 UTC](data/fr/new-articles-2026-10-22T03-18-56Z.csv) | 2 |
+| German | `de` | [2026-10-22 03:18 UTC](data/de/new-articles-2026-10-22T03-18-56Z.csv) | 1 |
+| Russian | `ru` | [2026-10-22 03:18 UTC](data/ru/new-articles-2026-10-22T03-18-56Z.csv) | 7 |
+| Spanish | `es` | [2026-10-22 03:18 UTC](data/es/new-articles-2026-10-22T03-18-56Z.csv) | 28 |
 | Italian | `it` | [2026-10-22 01:21 UTC](data/it/new-articles-2026-10-22T01-21-49Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-22 02:18 UTC](data/pt/new-articles-2026-10-22T02-18-39Z.csv) | 4 |
+| Portuguese | `pt` | [2026-10-22 03:18 UTC](data/pt/new-articles-2026-10-22T03-18-56Z.csv) | 2 |
 | Polish | `pl` | [2026-10-22 01:21 UTC](data/pl/new-articles-2026-10-22T01-21-49Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-22 02:18 UTC](data/ar/new-articles-2026-10-22T02-18-39Z.csv) | 19 |
+| Arabic | `ar` | [2026-10-22 03:18 UTC](data/ar/new-articles-2026-10-22T03-18-56Z.csv) | 1 |
 | Persian | `fa` | [2026-10-22 02:18 UTC](data/fa/new-articles-2026-10-22T02-18-39Z.csv) | 2 |
 | Turkish | `tr` | [2026-10-22 01:21 UTC](data/tr/new-articles-2026-10-22T01-21-49Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-22 02:18 UTC](data/he/new-articles-2026-10-22T02-18-39Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-22 03:18 UTC](data/he/new-articles-2026-10-22T03-18-56Z.csv) | 2 |
 | Swedish | `sv` | [2026-10-22 02:18 UTC](data/sv/new-articles-2026-10-22T02-18-39Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-22 02:18 UTC](data/nl/new-articles-2026-10-22T02-18-39Z.csv) | 2 |
-| Korean | `ko` | [2026-10-22 02:18 UTC](data/ko/new-articles-2026-10-22T02-18-39Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-22 02:18 UTC](data/id/new-articles-2026-10-22T02-18-39Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-10-22 01:21 UTC](data/uk/new-articles-2026-10-22T01-21-49Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-22 03:18 UTC](data/nl/new-articles-2026-10-22T03-18-56Z.csv) | 1 |
+| Korean | `ko` | [2026-10-22 03:18 UTC](data/ko/new-articles-2026-10-22T03-18-56Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-22 03:18 UTC](data/id/new-articles-2026-10-22T03-18-56Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-22 03:18 UTC](data/uk/new-articles-2026-10-22T03-18-56Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-22 02:18 UTC](data/vi/new-articles-2026-10-22T02-18-39Z.csv) | 1 |
 
-## English (en) — 2026-10-22 02:18 UTC
+## English (en) — 2026-10-22 03:18 UTC
 
-New articles created between 2026-10-22 01:21 UTC and 2026-10-22 02:18 UTC.
+New articles created between 2026-10-22 02:18 UTC and 2026-10-22 03:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-22T02-18-39Z.csv)
+[Full CSV](data/en/new-articles-2026-10-22T03-18-56Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-22 01:23:12 | [Octophobia](https://en.wikipedia.org/wiki/Octophobia) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 2,999 |
-| 2026-10-22 01:32:39 | [Kroker](https://en.wikipedia.org/wiki/Kroker) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 612 |
-| 2026-10-22 01:34:40 | [Miatta](https://en.wikipedia.org/wiki/Miatta) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 232 |
-| 2026-10-22 01:39:16 | [Richardosteus](https://en.wikipedia.org/wiki/Richardosteus) | [Tonacoyotl1521](https://en.wikipedia.org/wiki/User:Tonacoyotl1521) | 1,195 |
-| 2026-10-22 01:50:18 | [Kurt Engel](https://en.wikipedia.org/wiki/Kurt_Engel) | [RabidTuberculosis](https://en.wikipedia.org/wiki/User:RabidTuberculosis) | 11,041 |
-| 2026-10-22 01:56:30 | [Nannus](https://en.wikipedia.org/wiki/Nannus) | [コロネン](https://en.wikipedia.org/wiki/User:%E3%82%B3%E3%83%AD%E3%83%8D%E3%83%B3) | 2,844 |
-| 2026-10-22 01:57:04 | [6-Br-DMPEA](https://en.wikipedia.org/wiki/6-Br-DMPEA) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 6,550 |
-| 2026-10-22 01:59:08 | [Anuromyzus](https://en.wikipedia.org/wiki/Anuromyzus) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 579 |
-| 2026-10-22 02:04:59 | [DWNF](https://en.wikipedia.org/wiki/DWNF) | [Wikitranslator1242](https://en.wikipedia.org/wiki/User:Wikitranslator1242) | 1,442 |
-| 2026-10-22 02:05:27 | [Ivan Taylor](https://en.wikipedia.org/wiki/Ivan_Taylor) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 71 |
-| 2026-10-22 02:05:42 | [Tramp, Tramp, Tramp, the Boys Are Marching (1926 film)](https://en.wikipedia.org/wiki/Tramp%2C_Tramp%2C_Tramp%2C_the_Boys_Are_Marching_%281926_film%29) | [RomanB7367](https://en.wikipedia.org/wiki/User:RomanB7367) | 3,377 |
-| 2026-10-22 02:07:13 | [Anuromyzus cotoneasteris](https://en.wikipedia.org/wiki/Anuromyzus_cotoneasteris) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 611 |
-| 2026-10-22 02:13:27 | [Badger's Bend](https://en.wikipedia.org/wiki/Badger%27s_Bend) | [LostMedia2005](https://en.wikipedia.org/wiki/User:LostMedia2005) | 6,418 |
-| 2026-10-22 02:14:46 | [Nasiriyah International Airport](https://en.wikipedia.org/wiki/Nasiriyah_International_Airport) | [ألفريدو](https://en.wikipedia.org/wiki/User:%D8%A3%D9%84%D9%81%D8%B1%D9%8A%D8%AF%D9%88) | 3,179 |
-| 2026-10-22 02:16:13 | [Kade Reed](https://en.wikipedia.org/wiki/Kade_Reed) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,667 |
+| 2026-10-22 02:25:16 | [Little Ol' Bosko and the Pirates](https://en.wikipedia.org/wiki/Little_Ol%27_Bosko_and_the_Pirates) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,830 |
+| 2026-10-22 02:27:41 | [Internationale Cyclocross Heerderstrand](https://en.wikipedia.org/wiki/Internationale_Cyclocross_Heerderstrand) | [Cosmocatalano](https://en.wikipedia.org/wiki/User:Cosmocatalano) | 2,117 |
+| 2026-10-22 02:32:10 | [Taicang railway station](https://en.wikipedia.org/wiki/Taicang_railway_station) | [Grahamec](https://en.wikipedia.org/wiki/User:Grahamec) | 7,581 |
+| 2026-10-22 02:41:21 | [Robert Rothwell](https://en.wikipedia.org/wiki/Robert_Rothwell) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,694 |
+| 2026-10-22 02:45:42 | [List of Portland Pilots men's basketball seasons](https://en.wikipedia.org/wiki/List_of_Portland_Pilots_men%27s_basketball_seasons) | [Steve Casburn](https://en.wikipedia.org/wiki/User:Steve_Casburn) | 4,890 |
+| 2026-10-22 02:46:40 | [Miikka Ruokanen](https://en.wikipedia.org/wiki/Miikka_Ruokanen) | [UbenMarc](https://en.wikipedia.org/wiki/User:UbenMarc) | 8,006 |
+| 2026-10-22 02:57:32 | [InterContinental Taipei](https://en.wikipedia.org/wiki/InterContinental_Taipei) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 3,933 |
+| 2026-10-22 03:01:22 | [Mary Berenice Rice](https://en.wikipedia.org/wiki/Mary_Berenice_Rice) | [Princessa Unicorn](https://en.wikipedia.org/wiki/User:Princessa_Unicorn) | 10,043 |
+| 2026-10-22 03:08:15 | [Microbial treeline](https://en.wikipedia.org/wiki/Microbial_treeline) | [Jaco495](https://en.wikipedia.org/wiki/User:Jaco495) | 12,490 |
