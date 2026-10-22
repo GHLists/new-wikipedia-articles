@@ -13,53 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-22 14:20 UTC](data/en/new-articles-2026-10-22T14-20-58Z.csv) | 21 |
-| Japanese | `ja` | [2026-10-22 14:20 UTC](data/ja/new-articles-2026-10-22T14-20-58Z.csv) | 14 |
-| Chinese | `zh` | [2026-10-22 14:20 UTC](data/zh/new-articles-2026-10-22T14-20-58Z.csv) | 8 |
-| French | `fr` | [2026-10-22 14:20 UTC](data/fr/new-articles-2026-10-22T14-20-58Z.csv) | 13 |
-| German | `de` | [2026-10-22 14:20 UTC](data/de/new-articles-2026-10-22T14-20-58Z.csv) | 17 |
-| Russian | `ru` | [2026-10-22 14:20 UTC](data/ru/new-articles-2026-10-22T14-20-58Z.csv) | 11 |
-| Spanish | `es` | [2026-10-22 14:20 UTC](data/es/new-articles-2026-10-22T14-20-58Z.csv) | 54 |
-| Italian | `it` | [2026-10-22 14:20 UTC](data/it/new-articles-2026-10-22T14-20-58Z.csv) | 10 |
-| Portuguese | `pt` | [2026-10-22 14:20 UTC](data/pt/new-articles-2026-10-22T14-20-58Z.csv) | 7 |
-| Polish | `pl` | [2026-10-22 14:20 UTC](data/pl/new-articles-2026-10-22T14-20-58Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-22 14:20 UTC](data/ar/new-articles-2026-10-22T14-20-58Z.csv) | 62 |
-| Persian | `fa` | [2026-10-22 14:20 UTC](data/fa/new-articles-2026-10-22T14-20-58Z.csv) | 10 |
-| Turkish | `tr` | [2026-10-22 14:20 UTC](data/tr/new-articles-2026-10-22T14-20-58Z.csv) | 22 |
-| Hebrew | `he` | [2026-10-22 14:20 UTC](data/he/new-articles-2026-10-22T14-20-58Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-22 14:20 UTC](data/sv/new-articles-2026-10-22T14-20-58Z.csv) | 7 |
-| Dutch | `nl` | [2026-10-22 14:20 UTC](data/nl/new-articles-2026-10-22T14-20-58Z.csv) | 8 |
-| Korean | `ko` | [2026-10-22 14:20 UTC](data/ko/new-articles-2026-10-22T14-20-58Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-22 14:20 UTC](data/id/new-articles-2026-10-22T14-20-58Z.csv) | 11 |
-| Ukrainian | `uk` | [2026-10-22 14:20 UTC](data/uk/new-articles-2026-10-22T14-20-58Z.csv) | 9 |
-| Vietnamese | `vi` | [2026-10-22 14:20 UTC](data/vi/new-articles-2026-10-22T14-20-58Z.csv) | 1 |
+| English | `en` | [2026-10-22 15:20 UTC](data/en/new-articles-2026-10-22T15-20-15Z.csv) | 13 |
+| Japanese | `ja` | [2026-10-22 15:20 UTC](data/ja/new-articles-2026-10-22T15-20-15Z.csv) | 5 |
+| Chinese | `zh` | [2026-10-22 15:20 UTC](data/zh/new-articles-2026-10-22T15-20-15Z.csv) | 22 |
+| French | `fr` | [2026-10-22 15:20 UTC](data/fr/new-articles-2026-10-22T15-20-15Z.csv) | 11 |
+| German | `de` | [2026-10-22 15:20 UTC](data/de/new-articles-2026-10-22T15-20-15Z.csv) | 31 |
+| Russian | `ru` | [2026-10-22 15:20 UTC](data/ru/new-articles-2026-10-22T15-20-15Z.csv) | 6 |
+| Spanish | `es` | [2026-10-22 15:20 UTC](data/es/new-articles-2026-10-22T15-20-15Z.csv) | 5 |
+| Italian | `it` | [2026-10-22 15:20 UTC](data/it/new-articles-2026-10-22T15-20-15Z.csv) | 13 |
+| Portuguese | `pt` | [2026-10-22 15:20 UTC](data/pt/new-articles-2026-10-22T15-20-15Z.csv) | 11 |
+| Polish | `pl` | [2026-10-22 15:20 UTC](data/pl/new-articles-2026-10-22T15-20-15Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-22 15:20 UTC](data/ar/new-articles-2026-10-22T15-20-15Z.csv) | 48 |
+| Persian | `fa` | [2026-10-22 15:20 UTC](data/fa/new-articles-2026-10-22T15-20-15Z.csv) | 11 |
+| Turkish | `tr` | [2026-10-22 15:20 UTC](data/tr/new-articles-2026-10-22T15-20-15Z.csv) | 46 |
+| Hebrew | `he` | [2026-10-22 15:20 UTC](data/he/new-articles-2026-10-22T15-20-15Z.csv) | 7 |
+| Swedish | `sv` | [2026-10-22 15:20 UTC](data/sv/new-articles-2026-10-22T15-20-15Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-22 15:20 UTC](data/nl/new-articles-2026-10-22T15-20-15Z.csv) | 5 |
+| Korean | `ko` | [2026-10-22 15:20 UTC](data/ko/new-articles-2026-10-22T15-20-15Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-22 15:20 UTC](data/id/new-articles-2026-10-22T15-20-15Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-22 15:20 UTC](data/uk/new-articles-2026-10-22T15-20-15Z.csv) | 9 |
+| Vietnamese | `vi` | [2026-10-22 15:20 UTC](data/vi/new-articles-2026-10-22T15-20-15Z.csv) | 1 |
 
-## English (en) — 2026-10-22 14:20 UTC
+## English (en) — 2026-10-22 15:20 UTC
 
-New articles created between 2026-10-22 13:18 UTC and 2026-10-22 14:20 UTC.
+New articles created between 2026-10-22 14:20 UTC and 2026-10-22 15:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-22T14-20-58Z.csv)
+[Full CSV](data/en/new-articles-2026-10-22T15-20-15Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-22 13:23:01 | [Snail water](https://en.wikipedia.org/wiki/Snail_water) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 6,497 |
-| 2026-10-22 13:24:00 | [Leigongwu Formation](https://en.wikipedia.org/wiki/Leigongwu_Formation) | [DevonHalDraedle](https://en.wikipedia.org/wiki/User:DevonHalDraedle) | 9,865 |
-| 2026-10-22 13:24:18 | [Paulianellus](https://en.wikipedia.org/wiki/Paulianellus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,455 |
-| 2026-10-22 13:27:11 | [Paulianellus maderi](https://en.wikipedia.org/wiki/Paulianellus_maderi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,147 |
-| 2026-10-22 13:29:34 | [Mono Martínez](https://en.wikipedia.org/wiki/Mono_Mart%C3%ADnez) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,637 |
-| 2026-10-22 13:34:19 | [Paulianellus asahinai](https://en.wikipedia.org/wiki/Paulianellus_asahinai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,102 |
-| 2026-10-22 13:39:05 | [Paulianellus laoticus](https://en.wikipedia.org/wiki/Paulianellus_laoticus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,289 |
-| 2026-10-22 13:39:47 | [Pratt & Whitney Canada PT9](https://en.wikipedia.org/wiki/Pratt_%26_Whitney_Canada_PT9) | [Ecniv o](https://en.wikipedia.org/wiki/User:Ecniv_o) | 2,326 |
-| 2026-10-22 13:43:02 | [Paulianellus mureensis](https://en.wikipedia.org/wiki/Paulianellus_mureensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,022 |
-| 2026-10-22 13:46:11 | [Paulianellus neomaderi](https://en.wikipedia.org/wiki/Paulianellus_neomaderi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,195 |
-| 2026-10-22 13:46:44 | [Mohorovičić (disambiguation)](https://en.wikipedia.org/wiki/Mohorovi%C4%8Di%C4%87_%28disambiguation%29) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 255 |
-| 2026-10-22 13:48:40 | [Paulianellus taiwanensis](https://en.wikipedia.org/wiki/Paulianellus_taiwanensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,073 |
-| 2026-10-22 13:53:02 | [Mi'Quise Humphrey-Grace](https://en.wikipedia.org/wiki/Mi%27Quise_Humphrey-Grace) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 87 |
-| 2026-10-22 13:54:58 | [Aghilas Sadek](https://en.wikipedia.org/wiki/Aghilas_Sadek) | [TonyStarks](https://en.wikipedia.org/wiki/User:TonyStarks) | 1,854 |
-| 2026-10-22 13:55:21 | [Mandavu Dam](https://en.wikipedia.org/wiki/Mandavu_Dam) | [Babakathy](https://en.wikipedia.org/wiki/User:Babakathy) | 1,882 |
-| 2026-10-22 14:00:39 | [Apartheid in Namibia](https://en.wikipedia.org/wiki/Apartheid_in_Namibia) | [Bastobasto](https://en.wikipedia.org/wiki/User:Bastobasto) | 23,137 |
-| 2026-10-22 14:01:23 | [Phaeaphodius](https://en.wikipedia.org/wiki/Phaeaphodius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,478 |
-| 2026-10-22 14:05:54 | [Phaeaphodius rectus](https://en.wikipedia.org/wiki/Phaeaphodius_rectus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,377 |
-| 2026-10-22 14:13:25 | [Gide Loyrette Nouel](https://en.wikipedia.org/wiki/Gide_Loyrette_Nouel) | [ALtipal](https://en.wikipedia.org/wiki/User:ALtipal) | 8,863 |
-| 2026-10-22 14:17:07 | [Former Priory Ladies' School](https://en.wikipedia.org/wiki/Former_Priory_Ladies%27_School) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 10,537 |
-| 2026-10-22 14:18:00 | [Phalacronothus](https://en.wikipedia.org/wiki/Phalacronothus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,717 |
+| 2026-10-22 14:22:20 | [Phalacronothus quadrimaculatus](https://en.wikipedia.org/wiki/Phalacronothus_quadrimaculatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,603 |
+| 2026-10-22 14:22:38 | [1971–72 Preston North End F.C. season](https://en.wikipedia.org/wiki/1971%E2%80%9372_Preston_North_End_F.C._season) | [CptGrez](https://en.wikipedia.org/wiki/User:CptGrez) | 14,367 |
+| 2026-10-22 14:23:36 | [1887 State of the Union Address](https://en.wikipedia.org/wiki/1887_State_of_the_Union_Address) | [19thcenturyhistory](https://en.wikipedia.org/wiki/User:19thcenturyhistory) | 3,247 |
+| 2026-10-22 14:26:53 | [Pharaphodius](https://en.wikipedia.org/wiki/Pharaphodius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 7,781 |
+| 2026-10-22 14:32:33 | [Pharaphodius marginellus](https://en.wikipedia.org/wiki/Pharaphodius_marginellus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,232 |
+| 2026-10-22 14:44:07 | [2027 Tour de France Femmes](https://en.wikipedia.org/wiki/2027_Tour_de_France_Femmes) | [Turini2](https://en.wikipedia.org/wiki/User:Turini2) | 9,314 |
+| 2026-10-22 14:50:29 | [Red Data Book of Uzbekistan](https://en.wikipedia.org/wiki/Red_Data_Book_of_Uzbekistan) | [Artem Abdukakharov](https://en.wikipedia.org/wiki/User:Artem_Abdukakharov) | 36,840 |
+| 2026-10-22 14:56:30 | [Dash In](https://en.wikipedia.org/wiki/Dash_In) | [Dender Hello](https://en.wikipedia.org/wiki/User:Dender_Hello) | 2,534 |
+| 2026-10-22 14:56:30 | [The Piazza of Saint Mark's, Venice](https://en.wikipedia.org/wiki/The_Piazza_of_Saint_Mark%27s%2C_Venice) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,277 |
+| 2026-10-22 15:00:36 | [2026 Tibet earthquake](https://en.wikipedia.org/wiki/2026_Tibet_earthquake) | [Dora the Axe-plorer](https://en.wikipedia.org/wiki/User:Dora_the_Axe-plorer) | 27 |
+| 2026-10-22 15:01:52 | [The Void (album)](https://en.wikipedia.org/wiki/The_Void_%28album%29) | [Unilandofma](https://en.wikipedia.org/wiki/User:Unilandofma) | 3,983 |
+| 2026-10-22 15:02:32 | [Pakourianos](https://en.wikipedia.org/wiki/Pakourianos) | [Revolution Saga](https://en.wikipedia.org/wiki/User:Revolution_Saga) | 9,410 |
+| 2026-10-22 15:13:43 | [International Day for the Elimination of Child, Early and Forced Marriage](https://en.wikipedia.org/wiki/International_Day_for_the_Elimination_of_Child%2C_Early_and_Forced_Marriage) | [GHDWalker](https://en.wikipedia.org/wiki/User:GHDWalker) | 7,051 |
