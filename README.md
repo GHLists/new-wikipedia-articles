@@ -13,59 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-22 22:19 UTC](data/en/new-articles-2026-10-22T22-19-22Z.csv) | 27 |
-| Japanese | `ja` | [2026-10-22 21:18 UTC](data/ja/new-articles-2026-10-22T21-18-41Z.csv) | 2 |
+| English | `en` | [2026-10-22 23:18 UTC](data/en/new-articles-2026-10-22T23-18-39Z.csv) | 14 |
+| Japanese | `ja` | [2026-10-22 23:18 UTC](data/ja/new-articles-2026-10-22T23-18-39Z.csv) | 6 |
 | Chinese | `zh` | [2026-10-22 22:19 UTC](data/zh/new-articles-2026-10-22T22-19-22Z.csv) | 3 |
-| French | `fr` | [2026-10-22 22:19 UTC](data/fr/new-articles-2026-10-22T22-19-22Z.csv) | 7 |
-| German | `de` | [2026-10-22 22:19 UTC](data/de/new-articles-2026-10-22T22-19-22Z.csv) | 11 |
-| Russian | `ru` | [2026-10-22 22:19 UTC](data/ru/new-articles-2026-10-22T22-19-22Z.csv) | 8 |
-| Spanish | `es` | [2026-10-22 22:19 UTC](data/es/new-articles-2026-10-22T22-19-22Z.csv) | 14 |
-| Italian | `it` | [2026-10-22 22:19 UTC](data/it/new-articles-2026-10-22T22-19-22Z.csv) | 3 |
-| Portuguese | `pt` | [2026-10-22 22:19 UTC](data/pt/new-articles-2026-10-22T22-19-22Z.csv) | 10 |
-| Polish | `pl` | [2026-10-22 22:19 UTC](data/pl/new-articles-2026-10-22T22-19-22Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-22 22:19 UTC](data/ar/new-articles-2026-10-22T22-19-22Z.csv) | 43 |
-| Persian | `fa` | [2026-10-22 22:19 UTC](data/fa/new-articles-2026-10-22T22-19-22Z.csv) | 5 |
+| French | `fr` | [2026-10-22 23:18 UTC](data/fr/new-articles-2026-10-22T23-18-39Z.csv) | 13 |
+| German | `de` | [2026-10-22 23:18 UTC](data/de/new-articles-2026-10-22T23-18-39Z.csv) | 7 |
+| Russian | `ru` | [2026-10-22 23:18 UTC](data/ru/new-articles-2026-10-22T23-18-39Z.csv) | 3 |
+| Spanish | `es` | [2026-10-22 23:18 UTC](data/es/new-articles-2026-10-22T23-18-39Z.csv) | 5 |
+| Italian | `it` | [2026-10-22 23:18 UTC](data/it/new-articles-2026-10-22T23-18-39Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-22 23:18 UTC](data/pt/new-articles-2026-10-22T23-18-39Z.csv) | 9 |
+| Polish | `pl` | [2026-10-22 23:18 UTC](data/pl/new-articles-2026-10-22T23-18-39Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-22 23:18 UTC](data/ar/new-articles-2026-10-22T23-18-39Z.csv) | 23 |
+| Persian | `fa` | [2026-10-22 23:18 UTC](data/fa/new-articles-2026-10-22T23-18-39Z.csv) | 3 |
 | Turkish | `tr` | [2026-10-22 22:19 UTC](data/tr/new-articles-2026-10-22T22-19-22Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-22 21:18 UTC](data/he/new-articles-2026-10-22T21-18-41Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-22 23:18 UTC](data/he/new-articles-2026-10-22T23-18-39Z.csv) | 2 |
 | Swedish | `sv` | [2026-10-22 22:19 UTC](data/sv/new-articles-2026-10-22T22-19-22Z.csv) | 6 |
-| Dutch | `nl` | [2026-10-22 22:19 UTC](data/nl/new-articles-2026-10-22T22-19-22Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-22 23:18 UTC](data/nl/new-articles-2026-10-22T23-18-39Z.csv) | 5 |
 | Korean | `ko` | [2026-10-22 22:19 UTC](data/ko/new-articles-2026-10-22T22-19-22Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-22 22:19 UTC](data/id/new-articles-2026-10-22T22-19-22Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-22 22:19 UTC](data/uk/new-articles-2026-10-22T22-19-22Z.csv) | 14 |
+| Indonesian | `id` | [2026-10-22 23:18 UTC](data/id/new-articles-2026-10-22T23-18-39Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-22 23:18 UTC](data/uk/new-articles-2026-10-22T23-18-39Z.csv) | 4 |
 | Vietnamese | `vi` | [2026-10-22 22:19 UTC](data/vi/new-articles-2026-10-22T22-19-22Z.csv) | 1 |
 
-## English (en) — 2026-10-22 22:19 UTC
+## English (en) — 2026-10-22 23:18 UTC
 
-New articles created between 2026-10-22 21:18 UTC and 2026-10-22 22:19 UTC.
+New articles created between 2026-10-22 22:19 UTC and 2026-10-22 23:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-22T22-19-22Z.csv)
+[Full CSV](data/en/new-articles-2026-10-22T23-18-39Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-22 21:20:00 | [2027 The Duel at Daytona](https://en.wikipedia.org/wiki/2027_The_Duel_at_Daytona) | [Brycenrichter](https://en.wikipedia.org/wiki/User:Brycenrichter) | 10,476 |
-| 2026-10-22 21:21:13 | [Olivia Onesti](https://en.wikipedia.org/wiki/Olivia_Onesti) | [Spiderpig662](https://en.wikipedia.org/wiki/User:Spiderpig662) | 5,485 |
-| 2026-10-22 21:21:44 | [San Juan Bowl](https://en.wikipedia.org/wiki/San_Juan_Bowl) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 782 |
-| 2026-10-22 21:23:41 | [Rosalie Tremblay](https://en.wikipedia.org/wiki/Rosalie_Tremblay) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 7,904 |
-| 2026-10-22 21:25:33 | [Tentreon Cowan](https://en.wikipedia.org/wiki/Tentreon_Cowan) | [RhythmWordsmith](https://en.wikipedia.org/wiki/User:RhythmWordsmith) | 3,376 |
-| 2026-10-22 21:26:34 | [Simon Nathan](https://en.wikipedia.org/wiki/Simon_Nathan) | [Adam98764](https://en.wikipedia.org/wiki/User:Adam98764) | 7,605 |
-| 2026-10-22 21:26:54 | [Angelo Pintus](https://en.wikipedia.org/wiki/Angelo_Pintus) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 8,746 |
-| 2026-10-22 21:27:33 | [The Tennis Party](https://en.wikipedia.org/wiki/The_Tennis_Party) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,134 |
-| 2026-10-22 21:29:45 | [Marília Mendonça: All the Feels](https://en.wikipedia.org/wiki/Mar%C3%ADlia_Mendon%C3%A7a%3A_All_the_Feels) | [Luísa Nikki](https://en.wikipedia.org/wiki/User:Lu%C3%ADsa_Nikki) | 8,221 |
-| 2026-10-22 21:29:50 | [Detroit Rose Street station](https://en.wikipedia.org/wiki/Detroit_Rose_Street_station) | [Central Corridor](https://en.wikipedia.org/wiki/User:Central_Corridor) | 4,743 |
-| 2026-10-22 21:35:37 | [Benjamin Mendes Seixas](https://en.wikipedia.org/wiki/Benjamin_Mendes_Seixas) | [Adam98764](https://en.wikipedia.org/wiki/User:Adam98764) | 4,912 |
-| 2026-10-22 21:37:33 | [Isabella (2020 film)](https://en.wikipedia.org/wiki/Isabella_%282020_film%29) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 959 |
-| 2026-10-22 21:38:42 | [Emiel Hopman](https://en.wikipedia.org/wiki/Emiel_Hopman) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 5,341 |
-| 2026-10-22 21:42:39 | [Moses Seixas](https://en.wikipedia.org/wiki/Moses_Seixas) | [Adam98764](https://en.wikipedia.org/wiki/User:Adam98764) | 6,281 |
-| 2026-10-22 21:42:50 | [Matías Piñeiro](https://en.wikipedia.org/wiki/Mat%C3%ADas_Pi%C3%B1eiro) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 1,554 |
-| 2026-10-22 21:42:58 | [Bicentennial Oak](https://en.wikipedia.org/wiki/Bicentennial_Oak) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 565 |
-| 2026-10-22 21:46:16 | [Send Foster](https://en.wikipedia.org/wiki/Send_Foster) | [LostMedia2005](https://en.wikipedia.org/wiki/User:LostMedia2005) | 3,956 |
-| 2026-10-22 21:47:47 | [Abraham Mendes Seixas](https://en.wikipedia.org/wiki/Abraham_Mendes_Seixas) | [Adam98764](https://en.wikipedia.org/wiki/User:Adam98764) | 5,073 |
-| 2026-10-22 21:50:53 | [Yossi Yovel](https://en.wikipedia.org/wiki/Yossi_Yovel) | [Ixfd64](https://en.wikipedia.org/wiki/User:Ixfd64) | 1,468 |
-| 2026-10-22 21:51:16 | [Letter to the Hebrew Congregation in Newport](https://en.wikipedia.org/wiki/Letter_to_the_Hebrew_Congregation_in_Newport) | [Adam98764](https://en.wikipedia.org/wiki/User:Adam98764) | 8,815 |
-| 2026-10-22 21:53:27 | [Jessica Boland](https://en.wikipedia.org/wiki/Jessica_Boland) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 5,375 |
-| 2026-10-22 21:55:42 | [2026 FK RFS season](https://en.wikipedia.org/wiki/2026_FK_RFS_season) | [CottonTraders](https://en.wikipedia.org/wiki/User:CottonTraders) | 6,921 |
-| 2026-10-22 21:59:03 | [Lachuer](https://en.wikipedia.org/wiki/Lachuer) | [Dieter Lloyd Wexler](https://en.wikipedia.org/wiki/User:Dieter_Lloyd_Wexler) | 437 |
-| 2026-10-22 22:02:48 | [Hermia & Helena](https://en.wikipedia.org/wiki/Hermia_%26_Helena) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 1,166 |
-| 2026-10-22 22:09:00 | [Mommy's Boy (Benjamin Ingrosso song)](https://en.wikipedia.org/wiki/Mommy%27s_Boy_%28Benjamin_Ingrosso_song%29) | [Nairolf17](https://en.wikipedia.org/wiki/User:Nairolf17) | 8,188 |
-| 2026-10-22 22:09:10 | [Ministry of Foreign Affairs (Federal Republic of Yugoslavia)](https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_%28Federal_Republic_of_Yugoslavia%29) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 9,819 |
-| 2026-10-22 22:14:07 | [South West Terminal Ltd. (SWT)](https://en.wikipedia.org/wiki/South_West_Terminal_Ltd._%28SWT%29) | [Cgirodat](https://en.wikipedia.org/wiki/User:Cgirodat) | 7,334 |
+| 2026-10-22 22:21:05 | [Monika Kirbiš Rojs](https://en.wikipedia.org/wiki/Monika_Kirbi%C5%A1_Rojs) | [Alsor97](https://en.wikipedia.org/wiki/User:Alsor97) | 6,811 |
+| 2026-10-22 22:26:42 | [Shilluk Cuisine](https://en.wikipedia.org/wiki/Shilluk_Cuisine) | [Papiti Stephen](https://en.wikipedia.org/wiki/User:Papiti_Stephen) | 140 |
+| 2026-10-22 22:32:54 | [José María Baldasano](https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Baldasano) | [Atiderev](https://en.wikipedia.org/wiki/User:Atiderev) | 14,242 |
+| 2026-10-22 22:44:48 | [Ad Bos](https://en.wikipedia.org/wiki/Ad_Bos) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 12,746 |
+| 2026-10-22 22:44:56 | [Kévin](https://en.wikipedia.org/wiki/K%C3%A9vin) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 3,188 |
+| 2026-10-22 22:46:11 | [2027 Slough Borough Council election](https://en.wikipedia.org/wiki/2027_Slough_Borough_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 5,953 |
+| 2026-10-22 22:46:46 | [Jean Ackerman (actress)](https://en.wikipedia.org/wiki/Jean_Ackerman_%28actress%29) | [Yamyamcel](https://en.wikipedia.org/wiki/User:Yamyamcel) | 4,132 |
+| 2026-10-22 22:51:38 | [Pasham Narayan Reddy](https://en.wikipedia.org/wiki/Pasham_Narayan_Reddy) | [Ramcrk](https://en.wikipedia.org/wiki/User:Ramcrk) | 4,982 |
+| 2026-10-22 22:54:18 | [Rami Malaeb](https://en.wikipedia.org/wiki/Rami_Malaeb) | [Nehme1499](https://en.wikipedia.org/wiki/User:Nehme1499) | 5,807 |
+| 2026-10-22 22:55:51 | [Alicia Perales Ojeda](https://en.wikipedia.org/wiki/Alicia_Perales_Ojeda) | [Trucks7op](https://en.wikipedia.org/wiki/User:Trucks7op) | 2,936 |
+| 2026-10-22 22:59:10 | [Neutaconkanut Hill](https://en.wikipedia.org/wiki/Neutaconkanut_Hill) | [Diogenes99](https://en.wikipedia.org/wiki/User:Diogenes99) | 53,538 |
+| 2026-10-22 23:00:21 | [Podkowa Leśna Zachodnia railway station](https://en.wikipedia.org/wiki/Podkowa_Le%C5%9Bna_Zachodnia_railway_station) | [Fortek67](https://en.wikipedia.org/wiki/User:Fortek67) | 3,964 |
+| 2026-10-22 23:03:03 | [2027 FIBA U16 AmeriCup (South American qualifiers)](https://en.wikipedia.org/wiki/2027_FIBA_U16_AmeriCup_%28South_American_qualifiers%29) | [Maiō T.](https://en.wikipedia.org/wiki/User:Mai%C5%8D_T.) | 3,706 |
+| 2026-10-22 23:05:46 | [Naphtali Phillips](https://en.wikipedia.org/wiki/Naphtali_Phillips) | [Adam98764](https://en.wikipedia.org/wiki/User:Adam98764) | 4,061 |
