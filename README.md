@@ -13,50 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-21 23:18 UTC](data/en/new-articles-2026-10-21T23-18-35Z.csv) | 18 |
-| Japanese | `ja` | [2026-10-21 23:18 UTC](data/ja/new-articles-2026-10-21T23-18-35Z.csv) | 4 |
+| English | `en` | [2026-10-22 00:18 UTC](data/en/new-articles-2026-10-22T00-18-41Z.csv) | 18 |
+| Japanese | `ja` | [2026-10-22 00:18 UTC](data/ja/new-articles-2026-10-22T00-18-41Z.csv) | 5 |
 | Chinese | `zh` | [2026-10-21 23:18 UTC](data/zh/new-articles-2026-10-21T23-18-35Z.csv) | 1 |
-| French | `fr` | [2026-10-21 23:18 UTC](data/fr/new-articles-2026-10-21T23-18-35Z.csv) | 8 |
-| German | `de` | [2026-10-21 23:18 UTC](data/de/new-articles-2026-10-21T23-18-35Z.csv) | 4 |
-| Russian | `ru` | [2026-10-21 23:18 UTC](data/ru/new-articles-2026-10-21T23-18-35Z.csv) | 1 |
-| Spanish | `es` | [2026-10-21 23:18 UTC](data/es/new-articles-2026-10-21T23-18-35Z.csv) | 6 |
-| Italian | `it` | [2026-10-21 23:18 UTC](data/it/new-articles-2026-10-21T23-18-35Z.csv) | 3 |
-| Portuguese | `pt` | [2026-10-21 23:18 UTC](data/pt/new-articles-2026-10-21T23-18-35Z.csv) | 3 |
-| Polish | `pl` | [2026-10-21 23:18 UTC](data/pl/new-articles-2026-10-21T23-18-35Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-21 23:18 UTC](data/ar/new-articles-2026-10-21T23-18-35Z.csv) | 17 |
-| Persian | `fa` | [2026-10-21 22:19 UTC](data/fa/new-articles-2026-10-21T22-19-45Z.csv) | 8 |
-| Turkish | `tr` | [2026-10-21 23:18 UTC](data/tr/new-articles-2026-10-21T23-18-35Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-21 20:19 UTC](data/he/new-articles-2026-10-21T20-19-06Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-21 23:18 UTC](data/sv/new-articles-2026-10-21T23-18-35Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-21 22:19 UTC](data/nl/new-articles-2026-10-21T22-19-45Z.csv) | 1 |
-| Korean | `ko` | [2026-10-21 23:18 UTC](data/ko/new-articles-2026-10-21T23-18-35Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-21 23:18 UTC](data/id/new-articles-2026-10-21T23-18-35Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-21 23:18 UTC](data/uk/new-articles-2026-10-21T23-18-35Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-10-21 18:18 UTC](data/vi/new-articles-2026-10-21T18-18-59Z.csv) | 2 |
+| French | `fr` | [2026-10-22 00:18 UTC](data/fr/new-articles-2026-10-22T00-18-41Z.csv) | 7 |
+| German | `de` | [2026-10-22 00:18 UTC](data/de/new-articles-2026-10-22T00-18-41Z.csv) | 2 |
+| Russian | `ru` | [2026-10-22 00:18 UTC](data/ru/new-articles-2026-10-22T00-18-41Z.csv) | 2 |
+| Spanish | `es` | [2026-10-22 00:18 UTC](data/es/new-articles-2026-10-22T00-18-41Z.csv) | 12 |
+| Italian | `it` | [2026-10-22 00:18 UTC](data/it/new-articles-2026-10-22T00-18-41Z.csv) | 4 |
+| Portuguese | `pt` | [2026-10-22 00:18 UTC](data/pt/new-articles-2026-10-22T00-18-41Z.csv) | 7 |
+| Polish | `pl` | [2026-10-22 00:18 UTC](data/pl/new-articles-2026-10-22T00-18-41Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-22 00:18 UTC](data/ar/new-articles-2026-10-22T00-18-41Z.csv) | 2 |
+| Persian | `fa` | [2026-10-22 00:18 UTC](data/fa/new-articles-2026-10-22T00-18-41Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-22 00:18 UTC](data/tr/new-articles-2026-10-22T00-18-41Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-22 00:18 UTC](data/he/new-articles-2026-10-22T00-18-41Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-22 00:18 UTC](data/sv/new-articles-2026-10-22T00-18-41Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-22 00:18 UTC](data/nl/new-articles-2026-10-22T00-18-41Z.csv) | 2 |
+| Korean | `ko` | [2026-10-22 00:18 UTC](data/ko/new-articles-2026-10-22T00-18-41Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-22 00:18 UTC](data/id/new-articles-2026-10-22T00-18-41Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-22 00:18 UTC](data/uk/new-articles-2026-10-22T00-18-41Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-10-22 00:18 UTC](data/vi/new-articles-2026-10-22T00-18-41Z.csv) | 1 |
 
-## English (en) — 2026-10-21 23:18 UTC
+## English (en) — 2026-10-22 00:18 UTC
 
-New articles created between 2026-10-21 22:19 UTC and 2026-10-21 23:18 UTC.
+New articles created between 2026-10-21 23:18 UTC and 2026-10-22 00:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-21T23-18-35Z.csv)
+[Full CSV](data/en/new-articles-2026-10-22T00-18-41Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-21 22:20:26 | [James Treanor (disambiguation)](https://en.wikipedia.org/wiki/James_Treanor_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 206 |
-| 2026-10-21 22:24:38 | [Rachael Li](https://en.wikipedia.org/wiki/Rachael_Li) | [Sportsfan77777](https://en.wikipedia.org/wiki/User:Sportsfan77777) | 1,789 |
-| 2026-10-21 22:26:58 | [1939–40 Kingston Colonials season](https://en.wikipedia.org/wiki/1939%E2%80%9340_Kingston_Colonials_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 10,067 |
-| 2026-10-21 22:28:43 | [Peter Eriksson (Sweden Democrats politician)](https://en.wikipedia.org/wiki/Peter_Eriksson_%28Sweden_Democrats_politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 4,049 |
-| 2026-10-21 22:30:24 | [Acrotony](https://en.wikipedia.org/wiki/Acrotony) | [Hervegirod](https://en.wikipedia.org/wiki/User:Hervegirod) | 1,079 |
-| 2026-10-21 22:31:17 | [2026 Colorado Amendment 86](https://en.wikipedia.org/wiki/2026_Colorado_Amendment_86) | [EagleImperial](https://en.wikipedia.org/wiki/User:EagleImperial) | 2,203 |
-| 2026-10-21 22:33:18 | [Killing of Jamey Carney](https://en.wikipedia.org/wiki/Killing_of_Jamey_Carney) | [Donut Men](https://en.wikipedia.org/wiki/User:Donut_Men) | 2,743 |
-| 2026-10-21 22:40:32 | [Christmas in Vatican City](https://en.wikipedia.org/wiki/Christmas_in_Vatican_City) | [DOSA Catholic](https://en.wikipedia.org/wiki/User:DOSA_Catholic) | 2,198 |
-| 2026-10-21 22:44:12 | [Slope (browser game)](https://en.wikipedia.org/wiki/Slope_%28browser_game%29) | [Yuyekq](https://en.wikipedia.org/wiki/User:Yuyekq) | 5 |
-| 2026-10-21 22:45:46 | [Joseph Patrick (disambiguation)](https://en.wikipedia.org/wiki/Joseph_Patrick_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 367 |
-| 2026-10-21 22:53:24 | [2026 World Weightlifting Championships – Women's +86 kg](https://en.wikipedia.org/wiki/2026_World_Weightlifting_Championships_%E2%80%93_Women%27s_%2B86_kg) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 5,163 |
-| 2026-10-21 23:00:52 | [1938–39 Wilkes-Barre Barons season](https://en.wikipedia.org/wiki/1938%E2%80%9339_Wilkes-Barre_Barons_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 11,705 |
-| 2026-10-21 23:03:36 | [1938–39 Washington Heurichs season](https://en.wikipedia.org/wiki/1938%E2%80%9339_Washington_Heurichs_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 6,861 |
-| 2026-10-21 23:04:24 | [Jolie Toomajan](https://en.wikipedia.org/wiki/Jolie_Toomajan) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 2,930 |
-| 2026-10-21 23:11:17 | [1939–40 Wilkes-Barre Barons season](https://en.wikipedia.org/wiki/1939%E2%80%9340_Wilkes-Barre_Barons_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 13,387 |
-| 2026-10-21 23:12:58 | [Tony Thompson (Iowan)](https://en.wikipedia.org/wiki/Tony_Thompson_%28Iowan%29) | [411.tony](https://en.wikipedia.org/wiki/User:411.tony) | 2,615 |
-| 2026-10-21 23:14:09 | [Konstantinou and Elenis](https://en.wikipedia.org/wiki/Konstantinou_and_Elenis) | [Kippur](https://en.wikipedia.org/wiki/User:Kippur) | 37 |
-| 2026-10-21 23:18:10 | [Seaside Heights Carousel](https://en.wikipedia.org/wiki/Seaside_Heights_Carousel) | [Zeete](https://en.wikipedia.org/wiki/User:Zeete) | 3,241 |
+| 2026-10-21 23:19:05 | [History of banking in Malta](https://en.wikipedia.org/wiki/History_of_banking_in_Malta) | [XonMalti](https://en.wikipedia.org/wiki/User:XonMalti) | 8,471 |
+| 2026-10-21 23:22:03 | [Sharjah Petroleum Department](https://en.wikipedia.org/wiki/Sharjah_Petroleum_Department) | [Essa.alzarooni](https://en.wikipedia.org/wiki/User:Essa.alzarooni) | 12,744 |
+| 2026-10-21 23:26:29 | [Arie Griffioen](https://en.wikipedia.org/wiki/Arie_Griffioen) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 5,794 |
+| 2026-10-21 23:29:47 | [Kristian Bloch](https://en.wikipedia.org/wiki/Kristian_Bloch) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 3,899 |
+| 2026-10-21 23:31:06 | [Fabiano Brothers](https://en.wikipedia.org/wiki/Fabiano_Brothers) | [Varnent](https://en.wikipedia.org/wiki/User:Varnent) | 6,489 |
+| 2026-10-21 23:39:03 | [Alis Deason](https://en.wikipedia.org/wiki/Alis_Deason) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 5,342 |
+| 2026-10-21 23:44:49 | [Jason Kanzler](https://en.wikipedia.org/wiki/Jason_Kanzler) | [Muboshgu](https://en.wikipedia.org/wiki/User:Muboshgu) | 1,853 |
+| 2026-10-21 23:46:03 | [Rissoina mercurialis](https://en.wikipedia.org/wiki/Rissoina_mercurialis) | [Walteronthehill](https://en.wikipedia.org/wiki/User:Walteronthehill) | 1,681 |
+| 2026-10-21 23:48:08 | [Frank Vreugdenhil](https://en.wikipedia.org/wiki/Frank_Vreugdenhil) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,809 |
+| 2026-10-21 23:50:31 | [Shura Base](https://en.wikipedia.org/wiki/Shura_Base) | [Happypenguins82](https://en.wikipedia.org/wiki/User:Happypenguins82) | 3,285 |
+| 2026-10-21 23:56:54 | [Luke Gale (rugby league, born 1999)](https://en.wikipedia.org/wiki/Luke_Gale_%28rugby_league%2C_born_1999%29) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,191 |
+| 2026-10-21 23:58:19 | [Jung-yeon](https://en.wikipedia.org/wiki/Jung-yeon) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 1,052 |
+| 2026-10-21 23:58:25 | [Woo-yeon](https://en.wikipedia.org/wiki/Woo-yeon) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 803 |
+| 2026-10-21 23:58:25 | [Amarildo Filho](https://en.wikipedia.org/wiki/Amarildo_Filho) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,735 |
+| 2026-10-22 00:01:13 | [1984 Maybelline Classic – Doubles](https://en.wikipedia.org/wiki/1984_Maybelline_Classic_%E2%80%93_Doubles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 5,114 |
+| 2026-10-22 00:03:15 | [Lying In Love with You](https://en.wikipedia.org/wiki/Lying_In_Love_with_You) | [SwingingDoor76](https://en.wikipedia.org/wiki/User:SwingingDoor76) | 3,071 |
+| 2026-10-22 00:07:40 | [Chester, Washington](https://en.wikipedia.org/wiki/Chester%2C_Washington) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 2,760 |
+| 2026-10-22 00:09:34 | [Kendall Clark](https://en.wikipedia.org/wiki/Kendall_Clark) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 4,500 |
