@@ -13,46 +13,41 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-22 05:18 UTC](data/en/new-articles-2026-10-22T05-18-58Z.csv) | 14 |
-| Japanese | `ja` | [2026-10-22 05:18 UTC](data/ja/new-articles-2026-10-22T05-18-58Z.csv) | 11 |
-| Chinese | `zh` | [2026-10-22 05:18 UTC](data/zh/new-articles-2026-10-22T05-18-58Z.csv) | 5 |
-| French | `fr` | [2026-10-22 05:18 UTC](data/fr/new-articles-2026-10-22T05-18-58Z.csv) | 3 |
-| German | `de` | [2026-10-22 05:18 UTC](data/de/new-articles-2026-10-22T05-18-58Z.csv) | 3 |
-| Russian | `ru` | [2026-10-22 05:18 UTC](data/ru/new-articles-2026-10-22T05-18-58Z.csv) | 11 |
-| Spanish | `es` | [2026-10-22 05:18 UTC](data/es/new-articles-2026-10-22T05-18-58Z.csv) | 10 |
-| Italian | `it` | [2026-10-22 05:18 UTC](data/it/new-articles-2026-10-22T05-18-58Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-22 05:18 UTC](data/pt/new-articles-2026-10-22T05-18-58Z.csv) | 4 |
-| Polish | `pl` | [2026-10-22 05:18 UTC](data/pl/new-articles-2026-10-22T05-18-58Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-22 05:18 UTC](data/ar/new-articles-2026-10-22T05-18-58Z.csv) | 7 |
+| English | `en` | [2026-10-22 06:19 UTC](data/en/new-articles-2026-10-22T06-19-08Z.csv) | 9 |
+| Japanese | `ja` | [2026-10-22 06:19 UTC](data/ja/new-articles-2026-10-22T06-19-08Z.csv) | 9 |
+| Chinese | `zh` | [2026-10-22 06:19 UTC](data/zh/new-articles-2026-10-22T06-19-08Z.csv) | 5 |
+| French | `fr` | [2026-10-22 06:19 UTC](data/fr/new-articles-2026-10-22T06-19-08Z.csv) | 3 |
+| German | `de` | [2026-10-22 06:19 UTC](data/de/new-articles-2026-10-22T06-19-08Z.csv) | 4 |
+| Russian | `ru` | [2026-10-22 06:19 UTC](data/ru/new-articles-2026-10-22T06-19-08Z.csv) | 10 |
+| Spanish | `es` | [2026-10-22 06:19 UTC](data/es/new-articles-2026-10-22T06-19-08Z.csv) | 7 |
+| Italian | `it` | [2026-10-22 06:19 UTC](data/it/new-articles-2026-10-22T06-19-08Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-22 06:19 UTC](data/pt/new-articles-2026-10-22T06-19-08Z.csv) | 5 |
+| Polish | `pl` | [2026-10-22 06:19 UTC](data/pl/new-articles-2026-10-22T06-19-08Z.csv) | 3 |
+| Arabic | `ar` | [2026-10-22 06:19 UTC](data/ar/new-articles-2026-10-22T06-19-08Z.csv) | 8 |
 | Persian | `fa` | [2026-10-22 05:18 UTC](data/fa/new-articles-2026-10-22T05-18-58Z.csv) | 1 |
-| Turkish | `tr` | [2026-10-22 04:18 UTC](data/tr/new-articles-2026-10-22T04-18-54Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-22 06:19 UTC](data/tr/new-articles-2026-10-22T06-19-08Z.csv) | 35 |
 | Hebrew | `he` | [2026-10-22 05:18 UTC](data/he/new-articles-2026-10-22T05-18-58Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-22 05:18 UTC](data/sv/new-articles-2026-10-22T05-18-58Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-22 05:18 UTC](data/nl/new-articles-2026-10-22T05-18-58Z.csv) | 2 |
-| Korean | `ko` | [2026-10-22 05:18 UTC](data/ko/new-articles-2026-10-22T05-18-58Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-22 05:18 UTC](data/id/new-articles-2026-10-22T05-18-58Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-10-22 05:18 UTC](data/uk/new-articles-2026-10-22T05-18-58Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-10-22 05:18 UTC](data/vi/new-articles-2026-10-22T05-18-58Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-22 06:19 UTC](data/sv/new-articles-2026-10-22T06-19-08Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-22 06:19 UTC](data/nl/new-articles-2026-10-22T06-19-08Z.csv) | 1 |
+| Korean | `ko` | [2026-10-22 06:19 UTC](data/ko/new-articles-2026-10-22T06-19-08Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-22 06:19 UTC](data/id/new-articles-2026-10-22T06-19-08Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-10-22 06:19 UTC](data/uk/new-articles-2026-10-22T06-19-08Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-22 06:19 UTC](data/vi/new-articles-2026-10-22T06-19-08Z.csv) | 3 |
 
-## English (en) — 2026-10-22 05:18 UTC
+## English (en) — 2026-10-22 06:19 UTC
 
-New articles created between 2026-10-22 04:18 UTC and 2026-10-22 05:18 UTC.
+New articles created between 2026-10-22 05:18 UTC and 2026-10-22 06:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-22T05-18-58Z.csv)
+[Full CSV](data/en/new-articles-2026-10-22T06-19-08Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-22 04:19:31 | [Rochester Dragons](https://en.wikipedia.org/wiki/Rochester_Dragons) | [MonSocMan](https://en.wikipedia.org/wiki/User:MonSocMan) | 2,785 |
-| 2026-10-22 04:25:06 | [Faculty of Engineering, University of Indonesia](https://en.wikipedia.org/wiki/Faculty_of_Engineering%2C_University_of_Indonesia) | [Elpij](https://en.wikipedia.org/wiki/User:Elpij) | 31,078 |
-| 2026-10-22 04:30:39 | [Easter in Vatican City](https://en.wikipedia.org/wiki/Easter_in_Vatican_City) | [DOSA Catholic](https://en.wikipedia.org/wiki/User:DOSA_Catholic) | 26,805 |
-| 2026-10-22 04:31:53 | [Martin Russell](https://en.wikipedia.org/wiki/Martin_Russell) | [Jack Frost](https://en.wikipedia.org/wiki/User:Jack_Frost) | 127 |
-| 2026-10-22 04:34:19 | [Poonam Kumari Agrawal](https://en.wikipedia.org/wiki/Poonam_Kumari_Agrawal) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 9,306 |
-| 2026-10-22 04:34:33 | [Craig hodge](https://en.wikipedia.org/wiki/Craig_hodge) | [Veenoghu](https://en.wikipedia.org/wiki/User:Veenoghu) | 963 |
-| 2026-10-22 04:34:52 | [Minne Hoekstra](https://en.wikipedia.org/wiki/Minne_Hoekstra) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 5,044 |
-| 2026-10-22 04:38:08 | [1960 Michigan Senate election](https://en.wikipedia.org/wiki/1960_Michigan_Senate_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 36,346 |
-| 2026-10-22 04:38:32 | [2026 FIA GT World Cup](https://en.wikipedia.org/wiki/2026_FIA_GT_World_Cup) | [Gtwca](https://en.wikipedia.org/wiki/User:Gtwca) | 8,339 |
-| 2026-10-22 04:40:38 | [Craig Hodge](https://en.wikipedia.org/wiki/Craig_Hodge) | [Veenoghu](https://en.wikipedia.org/wiki/User:Veenoghu) | 1,100 |
-| 2026-10-22 04:46:08 | [Anthony F. Klinkner](https://en.wikipedia.org/wiki/Anthony_F._Klinkner) | [Kiddo27](https://en.wikipedia.org/wiki/User:Kiddo27) | 5,391 |
-| 2026-10-22 04:51:04 | [André Ledran](https://en.wikipedia.org/wiki/Andr%C3%A9_Ledran) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,240 |
-| 2026-10-22 05:01:00 | [Mount Elephant (homestead)](https://en.wikipedia.org/wiki/Mount_Elephant_%28homestead%29) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 14,291 |
-| 2026-10-22 05:04:18 | [Operation Cambodia](https://en.wikipedia.org/wiki/Operation_Cambodia) | [Wowinside.in](https://en.wikipedia.org/wiki/User:Wowinside.in) | 3,205 |
+| 2026-10-22 05:21:57 | [2026–27 St. Thomas Tommies (Minnesota) men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_St._Thomas_Tommies_%28Minnesota%29_men%27s_basketball_team) | [Natethegreat4226](https://en.wikipedia.org/wiki/User:Natethegreat4226) | 22,812 |
+| 2026-10-22 05:22:40 | [Lucy Crow Billingsley](https://en.wikipedia.org/wiki/Lucy_Crow_Billingsley) | [Chris Edgemon](https://en.wikipedia.org/wiki/User:Chris_Edgemon) | 1,401 |
+| 2026-10-22 05:31:26 | [Canterbury Mansions](https://en.wikipedia.org/wiki/Canterbury_Mansions) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 13,544 |
+| 2026-10-22 05:33:45 | [Detective Teekshana](https://en.wikipedia.org/wiki/Detective_Teekshana) | [CoorgGirl](https://en.wikipedia.org/wiki/User:CoorgGirl) | 4,734 |
+| 2026-10-22 05:48:19 | [Amy Warnke](https://en.wikipedia.org/wiki/Amy_Warnke) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,145 |
+| 2026-10-22 05:56:31 | [Swift J1822.3-1606](https://en.wikipedia.org/wiki/Swift_J1822.3-1606) | [Shocksingularity](https://en.wikipedia.org/wiki/User:Shocksingularity) | 1,192 |
+| 2026-10-22 06:05:32 | [Black & White in Colour](https://en.wikipedia.org/wiki/Black_%26_White_in_Colour) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 2,236 |
+| 2026-10-22 06:09:35 | [Amu-Bukhara Canal](https://en.wikipedia.org/wiki/Amu-Bukhara_Canal) | [Shakaruz](https://en.wikipedia.org/wiki/User:Shakaruz) | 6,586 |
+| 2026-10-22 06:16:05 | [List of presidential trips made by George H. W. Bush (1989)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_George_H._W._Bush_%281989%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 24,531 |
