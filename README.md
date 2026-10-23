@@ -13,51 +13,55 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-23 13:21 UTC](data/en/new-articles-2026-10-23T13-21-23Z.csv) | 19 |
-| Japanese | `ja` | [2026-10-23 13:21 UTC](data/ja/new-articles-2026-10-23T13-21-23Z.csv) | 8 |
-| Chinese | `zh` | [2026-10-23 13:21 UTC](data/zh/new-articles-2026-10-23T13-21-23Z.csv) | 19 |
-| French | `fr` | [2026-10-23 13:21 UTC](data/fr/new-articles-2026-10-23T13-21-23Z.csv) | 15 |
-| German | `de` | [2026-10-23 13:21 UTC](data/de/new-articles-2026-10-23T13-21-23Z.csv) | 7 |
-| Russian | `ru` | [2026-10-23 13:21 UTC](data/ru/new-articles-2026-10-23T13-21-23Z.csv) | 19 |
-| Spanish | `es` | [2026-10-23 13:21 UTC](data/es/new-articles-2026-10-23T13-21-23Z.csv) | 9 |
-| Italian | `it` | [2026-10-23 13:21 UTC](data/it/new-articles-2026-10-23T13-21-23Z.csv) | 8 |
-| Portuguese | `pt` | [2026-10-23 13:21 UTC](data/pt/new-articles-2026-10-23T13-21-23Z.csv) | 4 |
-| Polish | `pl` | [2026-10-23 13:21 UTC](data/pl/new-articles-2026-10-23T13-21-23Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-23 13:21 UTC](data/ar/new-articles-2026-10-23T13-21-23Z.csv) | 3 |
-| Persian | `fa` | [2026-10-23 13:21 UTC](data/fa/new-articles-2026-10-23T13-21-23Z.csv) | 9 |
-| Turkish | `tr` | [2026-10-23 13:21 UTC](data/tr/new-articles-2026-10-23T13-21-23Z.csv) | 22 |
-| Hebrew | `he` | [2026-10-23 13:21 UTC](data/he/new-articles-2026-10-23T13-21-23Z.csv) | 5 |
-| Swedish | `sv` | [2026-10-23 13:21 UTC](data/sv/new-articles-2026-10-23T13-21-23Z.csv) | 6 |
-| Dutch | `nl` | [2026-10-23 13:21 UTC](data/nl/new-articles-2026-10-23T13-21-23Z.csv) | 4 |
-| Korean | `ko` | [2026-10-23 13:21 UTC](data/ko/new-articles-2026-10-23T13-21-23Z.csv) | 5 |
-| Indonesian | `id` | [2026-10-23 13:21 UTC](data/id/new-articles-2026-10-23T13-21-23Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-10-23 13:21 UTC](data/uk/new-articles-2026-10-23T13-21-23Z.csv) | 8 |
-| Vietnamese | `vi` | [2026-10-23 13:21 UTC](data/vi/new-articles-2026-10-23T13-21-23Z.csv) | 1 |
+| English | `en` | [2026-10-23 14:20 UTC](data/en/new-articles-2026-10-23T14-20-06Z.csv) | 23 |
+| Japanese | `ja` | [2026-10-23 14:20 UTC](data/ja/new-articles-2026-10-23T14-20-06Z.csv) | 5 |
+| Chinese | `zh` | [2026-10-23 14:20 UTC](data/zh/new-articles-2026-10-23T14-20-06Z.csv) | 11 |
+| French | `fr` | [2026-10-23 14:20 UTC](data/fr/new-articles-2026-10-23T14-20-06Z.csv) | 16 |
+| German | `de` | [2026-10-23 14:20 UTC](data/de/new-articles-2026-10-23T14-20-06Z.csv) | 15 |
+| Russian | `ru` | [2026-10-23 14:20 UTC](data/ru/new-articles-2026-10-23T14-20-06Z.csv) | 9 |
+| Spanish | `es` | [2026-10-23 14:20 UTC](data/es/new-articles-2026-10-23T14-20-06Z.csv) | 53 |
+| Italian | `it` | [2026-10-23 14:20 UTC](data/it/new-articles-2026-10-23T14-20-06Z.csv) | 14 |
+| Portuguese | `pt` | [2026-10-23 14:20 UTC](data/pt/new-articles-2026-10-23T14-20-06Z.csv) | 12 |
+| Polish | `pl` | [2026-10-23 14:20 UTC](data/pl/new-articles-2026-10-23T14-20-06Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-23 14:20 UTC](data/ar/new-articles-2026-10-23T14-20-06Z.csv) | 3 |
+| Persian | `fa` | [2026-10-23 14:20 UTC](data/fa/new-articles-2026-10-23T14-20-06Z.csv) | 6 |
+| Turkish | `tr` | [2026-10-23 14:20 UTC](data/tr/new-articles-2026-10-23T14-20-06Z.csv) | 56 |
+| Hebrew | `he` | [2026-10-23 14:20 UTC](data/he/new-articles-2026-10-23T14-20-06Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-23 14:20 UTC](data/sv/new-articles-2026-10-23T14-20-06Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-23 14:20 UTC](data/nl/new-articles-2026-10-23T14-20-06Z.csv) | 8 |
+| Korean | `ko` | [2026-10-23 14:20 UTC](data/ko/new-articles-2026-10-23T14-20-06Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-23 14:20 UTC](data/id/new-articles-2026-10-23T14-20-06Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-23 14:20 UTC](data/uk/new-articles-2026-10-23T14-20-06Z.csv) | 4 |
+| Vietnamese | `vi` | [2026-10-23 14:20 UTC](data/vi/new-articles-2026-10-23T14-20-06Z.csv) | 2 |
 
-## English (en) — 2026-10-23 13:21 UTC
+## English (en) — 2026-10-23 14:20 UTC
 
-New articles created between 2026-10-23 12:20 UTC and 2026-10-23 13:21 UTC.
+New articles created between 2026-10-23 13:21 UTC and 2026-10-23 14:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-23T13-21-23Z.csv)
+[Full CSV](data/en/new-articles-2026-10-23T14-20-06Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-23 12:26:37 | [Charchall Village](https://en.wikipedia.org/wiki/Charchall_Village) | [Harki Muhammad](https://en.wikipedia.org/wiki/User:Harki_Muhammad) | 2,430 |
-| 2026-10-23 12:26:58 | [Hylaeus nigriconcavus](https://en.wikipedia.org/wiki/Hylaeus_nigriconcavus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,209 |
-| 2026-10-23 12:27:21 | [Marta Filippi](https://en.wikipedia.org/wiki/Marta_Filippi) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,180 |
-| 2026-10-23 12:37:12 | [Hermann Scholl](https://en.wikipedia.org/wiki/Hermann_Scholl) | [BursaSamar](https://en.wikipedia.org/wiki/User:BursaSamar) | 12,544 |
-| 2026-10-23 12:40:21 | [Heinrich Janzen Manor](https://en.wikipedia.org/wiki/Heinrich_Janzen_Manor) | [Sof1a510](https://en.wikipedia.org/wiki/User:Sof1a510) | 2,406 |
-| 2026-10-23 12:41:50 | [Samurai! Daycare](https://en.wikipedia.org/wiki/Samurai%21_Daycare) | [Boomfour](https://en.wikipedia.org/wiki/User:Boomfour) | 1,766 |
-| 2026-10-23 12:46:20 | [Shubham Wadhwa](https://en.wikipedia.org/wiki/Shubham_Wadhwa) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,947 |
-| 2026-10-23 12:51:21 | [1973 Blackpool Borough Council election](https://en.wikipedia.org/wiki/1973_Blackpool_Borough_Council_election) | [LancsPolitics](https://en.wikipedia.org/wiki/User:LancsPolitics) | 26,190 |
-| 2026-10-23 12:51:56 | [DeepLabCut](https://en.wikipedia.org/wiki/DeepLabCut) | [Neurofreak](https://en.wikipedia.org/wiki/User:Neurofreak) | 6,957 |
-| 2026-10-23 12:55:46 | [Phúc Thuận](https://en.wikipedia.org/wiki/Ph%C3%BAc_Thu%E1%BA%ADn) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,519 |
-| 2026-10-23 12:55:49 | [Fencing at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Fencing_at_the_2026_Summer_Youth_Olympics) | [Florian100100](https://en.wikipedia.org/wiki/User:Florian100100) | 5,949 |
-| 2026-10-23 12:56:13 | [Te te rally](https://en.wikipedia.org/wiki/Te_te_rally) | [ايبرو](https://en.wikipedia.org/wiki/User:%D8%A7%D9%8A%D8%A8%D8%B1%D9%88) | 2,234 |
-| 2026-10-23 12:58:35 | [Narayan Chaudhary](https://en.wikipedia.org/wiki/Narayan_Chaudhary) | [Wiki-Expect](https://en.wikipedia.org/wiki/User:Wiki-Expect) | 1,091 |
-| 2026-10-23 12:59:00 | [Buy British Last (Malaysia)](https://en.wikipedia.org/wiki/Buy_British_Last_%28Malaysia%29) | [Shahsukanulis](https://en.wikipedia.org/wiki/User:Shahsukanulis) | 10,388 |
-| 2026-10-23 13:01:30 | [Maurizio Lastrico](https://en.wikipedia.org/wiki/Maurizio_Lastrico) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,812 |
-| 2026-10-23 13:02:20 | [The Planet (BTS Song)](https://en.wikipedia.org/wiki/The_Planet_%28BTS_Song%29) | [Nnadiaa7](https://en.wikipedia.org/wiki/User:Nnadiaa7) | 4,580 |
-| 2026-10-23 13:04:23 | [Greta Brawner](https://en.wikipedia.org/wiki/Greta_Brawner) | [Patapsco913](https://en.wikipedia.org/wiki/User:Patapsco913) | 2,801 |
-| 2026-10-23 13:04:55 | [2026–27 Tulsa Golden Hurricane women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Tulsa_Golden_Hurricane_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 30,882 |
-| 2026-10-23 13:16:45 | [Jehan Madan](https://en.wikipedia.org/wiki/Jehan_Madan) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,091 |
+| 2026-10-23 13:22:58 | [Indonesia at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Indonesia_at_the_2026_Summer_Youth_Olympics) | [Vernonious](https://en.wikipedia.org/wiki/User:Vernonious) | 497 |
+| 2026-10-23 13:23:30 | [Erhardt (disambiguation)](https://en.wikipedia.org/wiki/Erhardt_%28disambiguation%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 346 |
+| 2026-10-23 13:29:05 | [João Pedro Góes](https://en.wikipedia.org/wiki/Jo%C3%A3o_Pedro_G%C3%B3es) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,988 |
+| 2026-10-23 13:31:20 | [Gibbons baronets of Stanwell Place (1752)](https://en.wikipedia.org/wiki/Gibbons_baronets_of_Stanwell_Place_%281752%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 3,327 |
+| 2026-10-23 13:33:41 | [1886 United Kingdom general election in England](https://en.wikipedia.org/wiki/1886_United_Kingdom_general_election_in_England) | [BlueCrowns](https://en.wikipedia.org/wiki/User:BlueCrowns) | 33,428 |
+| 2026-10-23 13:34:38 | [2026 Arab Beach Soccer Championship](https://en.wikipedia.org/wiki/2026_Arab_Beach_Soccer_Championship) | [Lunar Spectrum96](https://en.wikipedia.org/wiki/User:Lunar_Spectrum96) | 7,137 |
+| 2026-10-23 13:34:38 | [Motu Patlu Stone Age Adventures](https://en.wikipedia.org/wiki/Motu_Patlu_Stone_Age_Adventures) | [IntelligentMan178](https://en.wikipedia.org/wiki/User:IntelligentMan178) | 4,479 |
+| 2026-10-23 13:36:55 | [Soslan Margiev](https://en.wikipedia.org/wiki/Soslan_Margiev) | [Accccepting](https://en.wikipedia.org/wiki/User:Accccepting) | 753 |
+| 2026-10-23 13:37:00 | [Xi'anguojiyixuezhongxin station](https://en.wikipedia.org/wiki/Xi%27anguojiyixuezhongxin_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 4,584 |
+| 2026-10-23 13:39:31 | [Kevin Weeks (academic)](https://en.wikipedia.org/wiki/Kevin_Weeks_%28academic%29) | [PoverD](https://en.wikipedia.org/wiki/User:PoverD) | 13,419 |
+| 2026-10-23 13:41:11 | [Malawi Council of Churches](https://en.wikipedia.org/wiki/Malawi_Council_of_Churches) | [Victuallers](https://en.wikipedia.org/wiki/User:Victuallers) | 2,236 |
+| 2026-10-23 13:43:27 | [17th Congress of the Polisario Front](https://en.wikipedia.org/wiki/17th_Congress_of_the_Polisario_Front) | [Tidjani Saleh](https://en.wikipedia.org/wiki/User:Tidjani_Saleh) | 7,523 |
+| 2026-10-23 13:44:53 | [Erhardt (given name)](https://en.wikipedia.org/wiki/Erhardt_%28given_name%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 463 |
+| 2026-10-23 13:45:09 | [2026 World Wrestling Championships – Men's Greco-Roman 55 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Men%27s_Greco-Roman_55_kg) | [Sports2021](https://en.wikipedia.org/wiki/User:Sports2021) | 5,350 |
+| 2026-10-23 13:49:12 | [Roller sports at the 2027 Pan American Games – Qualification](https://en.wikipedia.org/wiki/Roller_sports_at_the_2027_Pan_American_Games_%E2%80%93_Qualification) | [Felipe.moraislima](https://en.wikipedia.org/wiki/User:Felipe.moraislima) | 4,634 |
+| 2026-10-23 13:53:16 | [List of Motu Patlu: Stone Age Adventures episodes](https://en.wikipedia.org/wiki/List_of_Motu_Patlu%3A_Stone_Age_Adventures_episodes) | [IntelligentMan178](https://en.wikipedia.org/wiki/User:IntelligentMan178) | 2,380 |
+| 2026-10-23 13:59:43 | [Raul Cremona](https://en.wikipedia.org/wiki/Raul_Cremona) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,366 |
+| 2026-10-23 14:01:17 | [T-Mobile Arena (disambiguation)](https://en.wikipedia.org/wiki/T-Mobile_Arena_%28disambiguation%29) | [Adeletron 3030](https://en.wikipedia.org/wiki/User:Adeletron_3030) | 464 |
+| 2026-10-23 14:03:20 | [Jean-Benjamin Stora](https://en.wikipedia.org/wiki/Jean-Benjamin_Stora) | [Fistsoffury1915](https://en.wikipedia.org/wiki/User:Fistsoffury1915) | 5,533 |
+| 2026-10-23 14:05:35 | [Agnes Hegedüs](https://en.wikipedia.org/wiki/Agnes_Heged%C3%BCs) | [Normospheric](https://en.wikipedia.org/wiki/User:Normospheric) | 8,326 |
+| 2026-10-23 14:10:20 | [Bear Lake (Arkansas)](https://en.wikipedia.org/wiki/Bear_Lake_%28Arkansas%29) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 589 |
+| 2026-10-23 14:10:48 | [Virginia Lane Frazier](https://en.wikipedia.org/wiki/Virginia_Lane_Frazier) | [Kiranomimus](https://en.wikipedia.org/wiki/User:Kiranomimus) | 4,708 |
+| 2026-10-23 14:15:00 | [2019 Kenya Population and Housing Census](https://en.wikipedia.org/wiki/2019_Kenya_Population_and_Housing_Census) | [Aguahrz](https://en.wikipedia.org/wiki/User:Aguahrz) | 39,658 |
