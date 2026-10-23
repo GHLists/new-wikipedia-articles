@@ -13,65 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-23 20:18 UTC](data/en/new-articles-2026-10-23T20-18-52Z.csv) | 33 |
-| Japanese | `ja` | [2026-10-23 20:18 UTC](data/ja/new-articles-2026-10-23T20-18-52Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-23 20:18 UTC](data/zh/new-articles-2026-10-23T20-18-52Z.csv) | 2 |
-| French | `fr` | [2026-10-23 20:18 UTC](data/fr/new-articles-2026-10-23T20-18-52Z.csv) | 6 |
-| German | `de` | [2026-10-23 20:18 UTC](data/de/new-articles-2026-10-23T20-18-52Z.csv) | 12 |
-| Russian | `ru` | [2026-10-23 20:18 UTC](data/ru/new-articles-2026-10-23T20-18-52Z.csv) | 4 |
-| Spanish | `es` | [2026-10-23 20:18 UTC](data/es/new-articles-2026-10-23T20-18-52Z.csv) | 12 |
-| Italian | `it` | [2026-10-23 20:18 UTC](data/it/new-articles-2026-10-23T20-18-52Z.csv) | 7 |
-| Portuguese | `pt` | [2026-10-23 20:18 UTC](data/pt/new-articles-2026-10-23T20-18-52Z.csv) | 11 |
-| Polish | `pl` | [2026-10-23 20:18 UTC](data/pl/new-articles-2026-10-23T20-18-52Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-23 20:18 UTC](data/ar/new-articles-2026-10-23T20-18-52Z.csv) | 8 |
-| Persian | `fa` | [2026-10-23 20:18 UTC](data/fa/new-articles-2026-10-23T20-18-52Z.csv) | 11 |
-| Turkish | `tr` | [2026-10-23 20:18 UTC](data/tr/new-articles-2026-10-23T20-18-52Z.csv) | 6 |
+| English | `en` | [2026-10-23 21:19 UTC](data/en/new-articles-2026-10-23T21-19-02Z.csv) | 21 |
+| Japanese | `ja` | [2026-10-23 21:19 UTC](data/ja/new-articles-2026-10-23T21-19-02Z.csv) | 3 |
+| Chinese | `zh` | [2026-10-23 21:19 UTC](data/zh/new-articles-2026-10-23T21-19-02Z.csv) | 4 |
+| French | `fr` | [2026-10-23 21:19 UTC](data/fr/new-articles-2026-10-23T21-19-02Z.csv) | 4 |
+| German | `de` | [2026-10-23 21:19 UTC](data/de/new-articles-2026-10-23T21-19-02Z.csv) | 7 |
+| Russian | `ru` | [2026-10-23 21:19 UTC](data/ru/new-articles-2026-10-23T21-19-02Z.csv) | 7 |
+| Spanish | `es` | [2026-10-23 21:19 UTC](data/es/new-articles-2026-10-23T21-19-02Z.csv) | 12 |
+| Italian | `it` | [2026-10-23 21:19 UTC](data/it/new-articles-2026-10-23T21-19-02Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-23 21:19 UTC](data/pt/new-articles-2026-10-23T21-19-02Z.csv) | 8 |
+| Polish | `pl` | [2026-10-23 21:19 UTC](data/pl/new-articles-2026-10-23T21-19-02Z.csv) | 14 |
+| Arabic | `ar` | [2026-10-23 21:19 UTC](data/ar/new-articles-2026-10-23T21-19-02Z.csv) | 12 |
+| Persian | `fa` | [2026-10-23 21:19 UTC](data/fa/new-articles-2026-10-23T21-19-02Z.csv) | 2 |
+| Turkish | `tr` | [2026-10-23 21:19 UTC](data/tr/new-articles-2026-10-23T21-19-02Z.csv) | 9 |
 | Hebrew | `he` | [2026-10-23 20:18 UTC](data/he/new-articles-2026-10-23T20-18-52Z.csv) | 1 |
 | Swedish | `sv` | [2026-10-23 20:18 UTC](data/sv/new-articles-2026-10-23T20-18-52Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-23 20:18 UTC](data/nl/new-articles-2026-10-23T20-18-52Z.csv) | 6 |
+| Dutch | `nl` | [2026-10-23 21:19 UTC](data/nl/new-articles-2026-10-23T21-19-02Z.csv) | 2 |
 | Korean | `ko` | [2026-10-23 20:18 UTC](data/ko/new-articles-2026-10-23T20-18-52Z.csv) | 1 |
 | Indonesian | `id` | [2026-10-23 20:18 UTC](data/id/new-articles-2026-10-23T20-18-52Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-23 20:18 UTC](data/uk/new-articles-2026-10-23T20-18-52Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-10-23 21:19 UTC](data/uk/new-articles-2026-10-23T21-19-02Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-10-23 20:18 UTC](data/vi/new-articles-2026-10-23T20-18-52Z.csv) | 1 |
 
-## English (en) — 2026-10-23 20:18 UTC
+## English (en) — 2026-10-23 21:19 UTC
 
-New articles created between 2026-10-23 19:18 UTC and 2026-10-23 20:18 UTC.
+New articles created between 2026-10-23 20:18 UTC and 2026-10-23 21:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-23T20-18-52Z.csv)
+[Full CSV](data/en/new-articles-2026-10-23T21-19-02Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-23 19:20:38 | [Osmar Teixeira](https://en.wikipedia.org/wiki/Osmar_Teixeira) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,802 |
-| 2026-10-23 19:20:59 | [Dieter Kock](https://en.wikipedia.org/wiki/Dieter_Kock) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-10-23 19:21:47 | [Order of Freedom (Federal Republic of Yugoslavia)](https://en.wikipedia.org/wiki/Order_of_Freedom_%28Federal_Republic_of_Yugoslavia%29) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 2,264 |
-| 2026-10-23 19:23:37 | [Yvonne Battle-Felton](https://en.wikipedia.org/wiki/Yvonne_Battle-Felton) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 2,040 |
-| 2026-10-23 19:29:23 | [2026–27 Idaho State Bengals men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Idaho_State_Bengals_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 29,367 |
-| 2026-10-23 19:35:52 | [Order of the People's Hero (Federal Republic of Yugoslavia)](https://en.wikipedia.org/wiki/Order_of_the_People%27s_Hero_%28Federal_Republic_of_Yugoslavia%29) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 3,729 |
-| 2026-10-23 19:36:42 | [Herwig Leirs](https://en.wikipedia.org/wiki/Herwig_Leirs) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-10-23 19:36:58 | [Njegoš (given name)](https://en.wikipedia.org/wiki/Njego%C5%A1_%28given_name%29) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 511 |
-| 2026-10-23 19:39:54 | [Science policy of the Trump administration](https://en.wikipedia.org/wiki/Science_policy_of_the_Trump_administration) | [GabeIglesia](https://en.wikipedia.org/wiki/User:GabeIglesia) | 239 |
-| 2026-10-23 19:40:00 | [Jan Hulselmans](https://en.wikipedia.org/wiki/Jan_Hulselmans) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-10-23 19:41:08 | [Wim Wendelen](https://en.wikipedia.org/wiki/Wim_Wendelen) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-10-23 19:44:14 | [2026 Swiss Indoors – Singles](https://en.wikipedia.org/wiki/2026_Swiss_Indoors_%E2%80%93_Singles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 11,419 |
-| 2026-10-23 19:45:03 | [Marco Corti (zoologist)](https://en.wikipedia.org/wiki/Marco_Corti_%28zoologist%29) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 99 |
-| 2026-10-23 19:46:32 | [Order of the Yugoslav Star (Federal Republic of Yugoslavia)](https://en.wikipedia.org/wiki/Order_of_the_Yugoslav_Star_%28Federal_Republic_of_Yugoslavia%29) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 5,871 |
-| 2026-10-23 19:46:49 | [Loth Mulungu](https://en.wikipedia.org/wiki/Loth_Mulungu) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-10-23 19:48:27 | [Breno Macedo](https://en.wikipedia.org/wiki/Breno_Macedo) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,369 |
-| 2026-10-23 19:50:14 | [Hôtel de Ville, Chaville](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Chaville) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 7,389 |
-| 2026-10-23 19:50:33 | [Cornelia (Vestal)](https://en.wikipedia.org/wiki/Cornelia_%28Vestal%29) | [Graearms](https://en.wikipedia.org/wiki/User:Graearms) | 4,536 |
-| 2026-10-23 19:51:12 | [Julius Mikula](https://en.wikipedia.org/wiki/Julius_Mikula) | [Marko15UK](https://en.wikipedia.org/wiki/User:Marko15UK) | 13,955 |
-| 2026-10-23 19:51:25 | [Thanos Lekkas](https://en.wikipedia.org/wiki/Thanos_Lekkas) | [Normospheric](https://en.wikipedia.org/wiki/User:Normospheric) | 11,035 |
-| 2026-10-23 19:52:12 | [Muhammad Faris Johari](https://en.wikipedia.org/wiki/Muhammad_Faris_Johari) | [Thegreatrebellion](https://en.wikipedia.org/wiki/User:Thegreatrebellion) | 257 |
-| 2026-10-23 19:53:04 | [Murder of Alexandra Wiwcharuk](https://en.wikipedia.org/wiki/Murder_of_Alexandra_Wiwcharuk) | [Davidgoodheart](https://en.wikipedia.org/wiki/User:Davidgoodheart) | 2,576 |
-| 2026-10-23 19:53:06 | [Cross Whisper](https://en.wikipedia.org/wiki/Cross_Whisper) | [Nickcognito64](https://en.wikipedia.org/wiki/User:Nickcognito64) | 2,943 |
-| 2026-10-23 19:53:58 | [2026 World Wrestling Championships – Men's Greco-Roman 72 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Men%27s_Greco-Roman_72_kg) | [Sports2021](https://en.wikipedia.org/wiki/User:Sports2021) | 5,869 |
-| 2026-10-23 19:56:48 | [2026 Erste Bank Open – Singles](https://en.wikipedia.org/wiki/2026_Erste_Bank_Open_%E2%80%93_Singles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 11,406 |
-| 2026-10-23 19:58:09 | [Order of the War Banner (Federal Republic of Yugoslavia)](https://en.wikipedia.org/wiki/Order_of_the_War_Banner_%28Federal_Republic_of_Yugoslavia%29) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 3,505 |
-| 2026-10-23 19:58:22 | [Charley Ellzey](https://en.wikipedia.org/wiki/Charley_Ellzey) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 5,672 |
-| 2026-10-23 19:58:49 | [Frank Herbert (disambiguation)](https://en.wikipedia.org/wiki/Frank_Herbert_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 324 |
-| 2026-10-23 19:59:28 | [Orders, decorations, and medals of Yugoslavia](https://en.wikipedia.org/wiki/Orders%2C_decorations%2C_and_medals_of_Yugoslavia) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 93 |
-| 2026-10-23 20:00:32 | [Hemionitis leucopoda](https://en.wikipedia.org/wiki/Hemionitis_leucopoda) | [Gaiacoyote](https://en.wikipedia.org/wiki/User:Gaiacoyote) | 12,714 |
-| 2026-10-23 20:03:40 | [João Coelho (politician)](https://en.wikipedia.org/wiki/Jo%C3%A3o_Coelho_%28politician%29) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,706 |
-| 2026-10-23 20:13:27 | [Hotel Hayward](https://en.wikipedia.org/wiki/Hotel_Hayward) | [Gb321](https://en.wikipedia.org/wiki/User:Gb321) | 6,351 |
-| 2026-10-23 20:17:17 | [Joe and the Gladiator](https://en.wikipedia.org/wiki/Joe_and_the_Gladiator) | [LostMedia2005](https://en.wikipedia.org/wiki/User:LostMedia2005) | 3,110 |
+| 2026-10-23 20:19:26 | [Patrik Karlson](https://en.wikipedia.org/wiki/Patrik_Karlson) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 5,133 |
+| 2026-10-23 20:23:29 | [Njegoš (disambiguation)](https://en.wikipedia.org/wiki/Njego%C5%A1_%28disambiguation%29) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 439 |
+| 2026-10-23 20:24:32 | [Math Goossen](https://en.wikipedia.org/wiki/Math_Goossen) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 4,067 |
+| 2026-10-23 20:25:26 | [Joe Etzel](https://en.wikipedia.org/wiki/Joe_Etzel) | [Steve Casburn](https://en.wikipedia.org/wiki/User:Steve_Casburn) | 1,126 |
+| 2026-10-23 20:29:40 | [Azrin Khairi](https://en.wikipedia.org/wiki/Azrin_Khairi) | [Thegreatrebellion](https://en.wikipedia.org/wiki/User:Thegreatrebellion) | 219 |
+| 2026-10-23 20:30:53 | [Miss Yugoslavia (Serbia and Montenegro)](https://en.wikipedia.org/wiki/Miss_Yugoslavia_%28Serbia_and_Montenegro%29) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 6,751 |
+| 2026-10-23 20:36:06 | [Estonia in the Eurovision Song Contest 2027](https://en.wikipedia.org/wiki/Estonia_in_the_Eurovision_Song_Contest_2027) | [ButI'llBeThereNextTime](https://en.wikipedia.org/wiki/User:ButI%27llBeThereNextTime) | 5,083 |
+| 2026-10-23 20:38:28 | [You Can't Kill Me (song)](https://en.wikipedia.org/wiki/You_Can%27t_Kill_Me_%28song%29) | [BarrelProof](https://en.wikipedia.org/wiki/User:BarrelProof) | 245 |
+| 2026-10-23 20:41:06 | [Portrait of Auguste Rodin](https://en.wikipedia.org/wiki/Portrait_of_Auguste_Rodin) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,900 |
+| 2026-10-23 20:41:42 | [Sebastian Bonau](https://en.wikipedia.org/wiki/Sebastian_Bonau) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,529 |
+| 2026-10-23 20:44:48 | [Rice Canyon](https://en.wikipedia.org/wiki/Rice_Canyon) | [Bnuuy](https://en.wikipedia.org/wiki/User:Bnuuy) | 878 |
+| 2026-10-23 20:48:44 | [Autism awareness and recognition events](https://en.wikipedia.org/wiki/Autism_awareness_and_recognition_events) | [IfShrimpHadABarbie](https://en.wikipedia.org/wiki/User:IfShrimpHadABarbie) | 14,867 |
+| 2026-10-23 20:50:28 | [Tim Colston](https://en.wikipedia.org/wiki/Tim_Colston) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 12,493 |
+| 2026-10-23 20:52:30 | [Ministry of the Interior (Federal Republic of Yugoslavia)](https://en.wikipedia.org/wiki/Ministry_of_the_Interior_%28Federal_Republic_of_Yugoslavia%29) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 5,236 |
+| 2026-10-23 20:55:18 | [Melancholia (1989 film)](https://en.wikipedia.org/wiki/Melancholia_%281989_film%29) | [S1r Gawa1n 2004](https://en.wikipedia.org/wiki/User:S1r_Gawa1n_2004) | 1,442 |
+| 2026-10-23 21:03:47 | [2026 FIS Ski Jumping Grand Prix](https://en.wikipedia.org/wiki/2026_FIS_Ski_Jumping_Grand_Prix) | [Sportomanokin](https://en.wikipedia.org/wiki/User:Sportomanokin) | 12,546 |
+| 2026-10-23 21:06:54 | [1972 Michigan House of Representatives election](https://en.wikipedia.org/wiki/1972_Michigan_House_of_Representatives_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 87,679 |
+| 2026-10-23 21:11:44 | [Malic enzyme 3](https://en.wikipedia.org/wiki/Malic_enzyme_3) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 2,326 |
+| 2026-10-23 21:12:14 | [Aidan Strong](https://en.wikipedia.org/wiki/Aidan_Strong) | [Jonathanfranzen](https://en.wikipedia.org/wiki/User:Jonathanfranzen) | 3,561 |
+| 2026-10-23 21:17:39 | [Ministry of Finance (Federal Republic of Yugoslavia)](https://en.wikipedia.org/wiki/Ministry_of_Finance_%28Federal_Republic_of_Yugoslavia%29) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 4,789 |
+| 2026-10-23 21:18:07 | [Grosvenor Gallery Exhibition of 1877](https://en.wikipedia.org/wiki/Grosvenor_Gallery_Exhibition_of_1877) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 6,398 |
