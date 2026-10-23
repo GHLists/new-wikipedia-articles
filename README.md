@@ -13,46 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-23 06:21 UTC](data/en/new-articles-2026-10-23T06-21-13Z.csv) | 14 |
-| Japanese | `ja` | [2026-10-23 06:21 UTC](data/ja/new-articles-2026-10-23T06-21-13Z.csv) | 8 |
-| Chinese | `zh` | [2026-10-23 06:21 UTC](data/zh/new-articles-2026-10-23T06-21-13Z.csv) | 11 |
-| French | `fr` | [2026-10-23 06:21 UTC](data/fr/new-articles-2026-10-23T06-21-13Z.csv) | 2 |
-| German | `de` | [2026-10-23 06:21 UTC](data/de/new-articles-2026-10-23T06-21-13Z.csv) | 5 |
-| Russian | `ru` | [2026-10-23 06:21 UTC](data/ru/new-articles-2026-10-23T06-21-13Z.csv) | 4 |
-| Spanish | `es` | [2026-10-23 06:21 UTC](data/es/new-articles-2026-10-23T06-21-13Z.csv) | 6 |
-| Italian | `it` | [2026-10-23 06:21 UTC](data/it/new-articles-2026-10-23T06-21-13Z.csv) | 1 |
+| English | `en` | [2026-10-23 07:19 UTC](data/en/new-articles-2026-10-23T07-19-50Z.csv) | 13 |
+| Japanese | `ja` | [2026-10-23 07:19 UTC](data/ja/new-articles-2026-10-23T07-19-50Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-23 07:19 UTC](data/zh/new-articles-2026-10-23T07-19-50Z.csv) | 6 |
+| French | `fr` | [2026-10-23 07:19 UTC](data/fr/new-articles-2026-10-23T07-19-50Z.csv) | 3 |
+| German | `de` | [2026-10-23 07:19 UTC](data/de/new-articles-2026-10-23T07-19-50Z.csv) | 8 |
+| Russian | `ru` | [2026-10-23 07:19 UTC](data/ru/new-articles-2026-10-23T07-19-50Z.csv) | 11 |
+| Spanish | `es` | [2026-10-23 07:19 UTC](data/es/new-articles-2026-10-23T07-19-50Z.csv) | 5 |
+| Italian | `it` | [2026-10-23 07:19 UTC](data/it/new-articles-2026-10-23T07-19-50Z.csv) | 8 |
 | Portuguese | `pt` | [2026-10-23 06:21 UTC](data/pt/new-articles-2026-10-23T06-21-13Z.csv) | 8 |
-| Polish | `pl` | [2026-10-23 05:18 UTC](data/pl/new-articles-2026-10-23T05-18-42Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-23 06:21 UTC](data/ar/new-articles-2026-10-23T06-21-13Z.csv) | 4 |
-| Persian | `fa` | [2026-10-23 06:21 UTC](data/fa/new-articles-2026-10-23T06-21-13Z.csv) | 2 |
-| Turkish | `tr` | [2026-10-23 06:21 UTC](data/tr/new-articles-2026-10-23T06-21-13Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-23 06:21 UTC](data/he/new-articles-2026-10-23T06-21-13Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-23 04:18 UTC](data/sv/new-articles-2026-10-23T04-18-42Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-23 02:19 UTC](data/nl/new-articles-2026-10-23T02-19-06Z.csv) | 2 |
-| Korean | `ko` | [2026-10-23 06:21 UTC](data/ko/new-articles-2026-10-23T06-21-13Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-23 06:21 UTC](data/id/new-articles-2026-10-23T06-21-13Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-10-23 06:21 UTC](data/uk/new-articles-2026-10-23T06-21-13Z.csv) | 2 |
+| Polish | `pl` | [2026-10-23 07:19 UTC](data/pl/new-articles-2026-10-23T07-19-50Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-23 07:19 UTC](data/ar/new-articles-2026-10-23T07-19-50Z.csv) | 2 |
+| Persian | `fa` | [2026-10-23 07:19 UTC](data/fa/new-articles-2026-10-23T07-19-50Z.csv) | 1 |
+| Turkish | `tr` | [2026-10-23 07:19 UTC](data/tr/new-articles-2026-10-23T07-19-50Z.csv) | 109 |
+| Hebrew | `he` | [2026-10-23 07:19 UTC](data/he/new-articles-2026-10-23T07-19-50Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-23 07:19 UTC](data/sv/new-articles-2026-10-23T07-19-50Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-23 07:19 UTC](data/nl/new-articles-2026-10-23T07-19-50Z.csv) | 1 |
+| Korean | `ko` | [2026-10-23 07:19 UTC](data/ko/new-articles-2026-10-23T07-19-50Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-23 07:19 UTC](data/id/new-articles-2026-10-23T07-19-50Z.csv) | 12 |
+| Ukrainian | `uk` | [2026-10-23 07:19 UTC](data/uk/new-articles-2026-10-23T07-19-50Z.csv) | 4 |
 | Vietnamese | `vi` | [2026-10-23 06:21 UTC](data/vi/new-articles-2026-10-23T06-21-13Z.csv) | 1 |
 
-## English (en) — 2026-10-23 06:21 UTC
+## English (en) — 2026-10-23 07:19 UTC
 
-New articles created between 2026-10-23 05:18 UTC and 2026-10-23 06:21 UTC.
+New articles created between 2026-10-23 06:21 UTC and 2026-10-23 07:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-23T06-21-13Z.csv)
+[Full CSV](data/en/new-articles-2026-10-23T07-19-50Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-23 05:18:43 | [Granny (2026 film)](https://en.wikipedia.org/wiki/Granny_%282026_film%29) | [Kailash29792](https://en.wikipedia.org/wiki/User:Kailash29792) | 1,808 |
-| 2026-10-23 05:26:12 | [Steven Kominar](https://en.wikipedia.org/wiki/Steven_Kominar) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,446 |
-| 2026-10-23 05:28:22 | [Nationalist 52nd Army Fought in Normandy Hoax](https://en.wikipedia.org/wiki/Nationalist_52nd_Army_Fought_in_Normandy_Hoax) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 7,494 |
-| 2026-10-23 05:29:10 | [Joãozinho Rosa](https://en.wikipedia.org/wiki/Jo%C3%A3ozinho_Rosa) | [SuperSkaterDude45](https://en.wikipedia.org/wiki/User:SuperSkaterDude45) | 14,881 |
-| 2026-10-23 05:31:09 | [Bautista Kociubinski](https://en.wikipedia.org/wiki/Bautista_Kociubinski) | [RafitaElias23](https://en.wikipedia.org/wiki/User:RafitaElias23) | 3,970 |
-| 2026-10-23 05:40:08 | [Mele (name)](https://en.wikipedia.org/wiki/Mele_%28name%29) | [Station1](https://en.wikipedia.org/wiki/User:Station1) | 572 |
-| 2026-10-23 05:51:06 | [Paolo Cevoli](https://en.wikipedia.org/wiki/Paolo_Cevoli) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 4,302 |
-| 2026-10-23 05:51:27 | [Indian Centenary Hockey Series](https://en.wikipedia.org/wiki/Indian_Centenary_Hockey_Series) | [Xandercorvus389](https://en.wikipedia.org/wiki/User:Xandercorvus389) | 1,468 |
-| 2026-10-23 05:52:55 | [Hylaeus leviceps](https://en.wikipedia.org/wiki/Hylaeus_leviceps) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,330 |
-| 2026-10-23 05:55:20 | [Robert Burr (actor)](https://en.wikipedia.org/wiki/Robert_Burr_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,662 |
-| 2026-10-23 06:01:41 | [Soviet Mountains](https://en.wikipedia.org/wiki/Soviet_Mountains) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 2,446 |
-| 2026-10-23 06:06:19 | [Haney (discus thrower)](https://en.wikipedia.org/wiki/Haney_%28discus_thrower%29) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,361 |
-| 2026-10-23 06:09:16 | [Karaite National Encyclopedia](https://en.wikipedia.org/wiki/Karaite_National_Encyclopedia) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 2,873 |
-| 2026-10-23 06:16:47 | [Patapsco train collision](https://en.wikipedia.org/wiki/Patapsco_train_collision) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 4,513 |
+| 2026-10-23 06:21:13 | [Sema Soygenis](https://en.wikipedia.org/wiki/Sema_Soygenis) | [Visual08](https://en.wikipedia.org/wiki/User:Visual08) | 45 |
+| 2026-10-23 06:27:40 | [Giacomo Vose](https://en.wikipedia.org/wiki/Giacomo_Vose) | [Dora Lilly](https://en.wikipedia.org/wiki/User:Dora_Lilly) | 2,674 |
+| 2026-10-23 06:32:53 | [Vijay Sundi](https://en.wikipedia.org/wiki/Vijay_Sundi) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 164 |
+| 2026-10-23 06:38:24 | [Something Good (Claire Rousay and Zander Raymond album)](https://en.wikipedia.org/wiki/Something_Good_%28Claire_Rousay_and_Zander_Raymond_album%29) | [Roc0ast3r](https://en.wikipedia.org/wiki/User:Roc0ast3r) | 5,247 |
+| 2026-10-23 06:50:22 | [Ram Ratan Singh (discus thrower)](https://en.wikipedia.org/wiki/Ram_Ratan_Singh_%28discus_thrower%29) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 695 |
+| 2026-10-23 06:53:42 | [2026–27 Montana Grizzlies basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Montana_Grizzlies_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 28,437 |
+| 2026-10-23 06:54:25 | [Festival of Voices](https://en.wikipedia.org/wiki/Festival_of_Voices) | [CineBrick315](https://en.wikipedia.org/wiki/User:CineBrick315) | 8,154 |
+| 2026-10-23 06:55:42 | [Daruma On'na](https://en.wikipedia.org/wiki/Daruma_On%27na) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 7,854 |
+| 2026-10-23 07:01:57 | [2026–27 Tulane Green Wave women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Tulane_Green_Wave_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 31,301 |
+| 2026-10-23 07:02:26 | [Héctor Hurtado (baseball)](https://en.wikipedia.org/wiki/H%C3%A9ctor_Hurtado_%28baseball%29) | [Cocu15](https://en.wikipedia.org/wiki/User:Cocu15) | 12,609 |
+| 2026-10-23 07:05:53 | [Bhawna Choudhary](https://en.wikipedia.org/wiki/Bhawna_Choudhary) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 522 |
+| 2026-10-23 07:13:49 | [Deputy Prime Minister of the Federal Republic of Yugoslavia](https://en.wikipedia.org/wiki/Deputy_Prime_Minister_of_the_Federal_Republic_of_Yugoslavia) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 5,139 |
+| 2026-10-23 07:14:43 | [Patrick Bateman (disambiguation)](https://en.wikipedia.org/wiki/Patrick_Bateman_%28disambiguation%29) | [DONTYOUEVERTURNMYPIZZAINSIDEOUT](https://en.wikipedia.org/wiki/User:DONTYOUEVERTURNMYPIZZAINSIDEOUT) | 303 |
