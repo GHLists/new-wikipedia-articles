@@ -13,52 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-24 03:18 UTC](data/en/new-articles-2026-10-24T03-18-58Z.csv) | 20 |
-| Japanese | `ja` | [2026-10-24 03:18 UTC](data/ja/new-articles-2026-10-24T03-18-58Z.csv) | 13 |
-| Chinese | `zh` | [2026-10-24 03:18 UTC](data/zh/new-articles-2026-10-24T03-18-58Z.csv) | 7 |
-| French | `fr` | [2026-10-24 03:18 UTC](data/fr/new-articles-2026-10-24T03-18-58Z.csv) | 1 |
-| German | `de` | [2026-10-24 02:19 UTC](data/de/new-articles-2026-10-24T02-19-10Z.csv) | 1 |
-| Russian | `ru` | [2026-10-24 02:19 UTC](data/ru/new-articles-2026-10-24T02-19-10Z.csv) | 4 |
-| Spanish | `es` | [2026-10-24 03:18 UTC](data/es/new-articles-2026-10-24T03-18-58Z.csv) | 11 |
-| Italian | `it` | [2026-10-24 01:20 UTC](data/it/new-articles-2026-10-24T01-20-44Z.csv) | 3 |
-| Portuguese | `pt` | [2026-10-24 03:18 UTC](data/pt/new-articles-2026-10-24T03-18-58Z.csv) | 4 |
-| Polish | `pl` | [2026-10-24 02:19 UTC](data/pl/new-articles-2026-10-24T02-19-10Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-24 01:20 UTC](data/ar/new-articles-2026-10-24T01-20-44Z.csv) | 1 |
-| Persian | `fa` | [2026-10-24 03:18 UTC](data/fa/new-articles-2026-10-24T03-18-58Z.csv) | 8 |
-| Turkish | `tr` | [2026-10-24 01:20 UTC](data/tr/new-articles-2026-10-24T01-20-44Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-24 02:19 UTC](data/he/new-articles-2026-10-24T02-19-10Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-24 03:18 UTC](data/sv/new-articles-2026-10-24T03-18-58Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-24 00:20 UTC](data/nl/new-articles-2026-10-24T00-20-22Z.csv) | 2 |
-| Korean | `ko` | [2026-10-24 03:18 UTC](data/ko/new-articles-2026-10-24T03-18-58Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-24 03:18 UTC](data/id/new-articles-2026-10-24T03-18-58Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-10-24 03:18 UTC](data/uk/new-articles-2026-10-24T03-18-58Z.csv) | 1 |
+| English | `en` | [2026-10-24 04:21 UTC](data/en/new-articles-2026-10-24T04-21-47Z.csv) | 16 |
+| Japanese | `ja` | [2026-10-24 04:21 UTC](data/ja/new-articles-2026-10-24T04-21-47Z.csv) | 10 |
+| Chinese | `zh` | [2026-10-24 04:21 UTC](data/zh/new-articles-2026-10-24T04-21-47Z.csv) | 8 |
+| French | `fr` | [2026-10-24 04:21 UTC](data/fr/new-articles-2026-10-24T04-21-47Z.csv) | 2 |
+| German | `de` | [2026-10-24 04:21 UTC](data/de/new-articles-2026-10-24T04-21-47Z.csv) | 3 |
+| Russian | `ru` | [2026-10-24 04:21 UTC](data/ru/new-articles-2026-10-24T04-21-47Z.csv) | 2 |
+| Spanish | `es` | [2026-10-24 04:21 UTC](data/es/new-articles-2026-10-24T04-21-47Z.csv) | 8 |
+| Italian | `it` | [2026-10-24 04:21 UTC](data/it/new-articles-2026-10-24T04-21-47Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-24 04:21 UTC](data/pt/new-articles-2026-10-24T04-21-47Z.csv) | 7 |
+| Polish | `pl` | [2026-10-24 04:21 UTC](data/pl/new-articles-2026-10-24T04-21-47Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-24 04:21 UTC](data/ar/new-articles-2026-10-24T04-21-47Z.csv) | 2 |
+| Persian | `fa` | [2026-10-24 04:21 UTC](data/fa/new-articles-2026-10-24T04-21-47Z.csv) | 8 |
+| Turkish | `tr` | [2026-10-24 04:21 UTC](data/tr/new-articles-2026-10-24T04-21-47Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-24 04:21 UTC](data/he/new-articles-2026-10-24T04-21-47Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-24 04:21 UTC](data/sv/new-articles-2026-10-24T04-21-47Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-24 04:21 UTC](data/nl/new-articles-2026-10-24T04-21-47Z.csv) | 2 |
+| Korean | `ko` | [2026-10-24 04:21 UTC](data/ko/new-articles-2026-10-24T04-21-47Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-24 04:21 UTC](data/id/new-articles-2026-10-24T04-21-47Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-10-24 04:21 UTC](data/uk/new-articles-2026-10-24T04-21-47Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-24 03:18 UTC](data/vi/new-articles-2026-10-24T03-18-58Z.csv) | 2 |
 
-## English (en) — 2026-10-24 03:18 UTC
+## English (en) — 2026-10-24 04:21 UTC
 
-New articles created between 2026-10-24 02:19 UTC and 2026-10-24 03:18 UTC.
+New articles created between 2026-10-24 03:18 UTC and 2026-10-24 04:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-24T03-18-58Z.csv)
+[Full CSV](data/en/new-articles-2026-10-24T04-21-47Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-24 02:20:23 | [Hylaeus daviesiae](https://en.wikipedia.org/wiki/Hylaeus_daviesiae) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,175 |
-| 2026-10-24 02:20:44 | [John Beasley (cycling coach)](https://en.wikipedia.org/wiki/John_Beasley_%28cycling_coach%29) | [Euricko](https://en.wikipedia.org/wiki/User:Euricko) | 7,740 |
-| 2026-10-24 02:25:08 | [Statue of Charles de Gaulle](https://en.wikipedia.org/wiki/Statue_of_Charles_de_Gaulle) | [Station1](https://en.wikipedia.org/wiki/User:Station1) | 212 |
-| 2026-10-24 02:39:14 | [2Charm](https://en.wikipedia.org/wiki/2Charm) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 4,608 |
-| 2026-10-24 02:42:07 | [1996 FBC Melgar season](https://en.wikipedia.org/wiki/1996_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,722 |
-| 2026-10-24 02:43:38 | [Lana St-Cyr](https://en.wikipedia.org/wiki/Lana_St-Cyr) | [KamillaŚ](https://en.wikipedia.org/wiki/User:Kamilla%C5%9A) | 5,301 |
-| 2026-10-24 02:46:00 | [Vaka Aho](https://en.wikipedia.org/wiki/Vaka_Aho) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,005 |
-| 2026-10-24 02:46:02 | [Khonmoh](https://en.wikipedia.org/wiki/Khonmoh) | [Utcursch](https://en.wikipedia.org/wiki/User:Utcursch) | 3,092 |
-| 2026-10-24 02:47:03 | [TEC (company)](https://en.wikipedia.org/wiki/TEC_%28company%29) | [Anny3245](https://en.wikipedia.org/wiki/User:Anny3245) | 1,373 |
-| 2026-10-24 02:49:41 | [List of places of worship in Macedon Ranges Shire](https://en.wikipedia.org/wiki/List_of_places_of_worship_in_Macedon_Ranges_Shire) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 20,045 |
-| 2026-10-24 02:57:31 | [Sloanea macbrydei](https://en.wikipedia.org/wiki/Sloanea_macbrydei) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 3,592 |
-| 2026-10-24 03:05:38 | [2027 Malaysia FA Cup final](https://en.wikipedia.org/wiki/2027_Malaysia_FA_Cup_final) | [Reez95](https://en.wikipedia.org/wiki/User:Reez95) | 5,873 |
-| 2026-10-24 03:09:03 | [Mordwilkoja](https://en.wikipedia.org/wiki/Mordwilkoja) | [Cremastra](https://en.wikipedia.org/wiki/User:Cremastra) | 4,974 |
-| 2026-10-24 03:09:23 | [Matthieu Raffray](https://en.wikipedia.org/wiki/Matthieu_Raffray) | [GloBoy93](https://en.wikipedia.org/wiki/User:GloBoy93) | 18,484 |
-| 2026-10-24 03:10:24 | [Patton Anderson (speculator)](https://en.wikipedia.org/wiki/Patton_Anderson_%28speculator%29) | [Jengod](https://en.wikipedia.org/wiki/User:Jengod) | 6,179 |
-| 2026-10-24 03:10:53 | [Way of the World (EP)](https://en.wikipedia.org/wiki/Way_of_the_World_%28EP%29) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 3,674 |
-| 2026-10-24 03:12:35 | [Richard Stalmach](https://en.wikipedia.org/wiki/Richard_Stalmach) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 2,434 |
-| 2026-10-24 03:13:01 | [1998 Youngstown State Penguins football team](https://en.wikipedia.org/wiki/1998_Youngstown_State_Penguins_football_team) | [TheCatalyst31](https://en.wikipedia.org/wiki/User:TheCatalyst31) | 7,897 |
-| 2026-10-24 03:16:01 | [Quan Triều](https://en.wikipedia.org/wiki/Quan_Tri%E1%BB%81u) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,579 |
-| 2026-10-24 03:18:26 | [List of Sloanea species](https://en.wikipedia.org/wiki/List_of_Sloanea_species) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 10,325 |
+| 2026-10-24 03:24:13 | [Quyết Thắng, Thái Nguyên](https://en.wikipedia.org/wiki/Quy%E1%BA%BFt_Th%E1%BA%AFng%2C_Th%C3%A1i_Nguy%C3%AAn) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,545 |
+| 2026-10-24 03:25:56 | [Jared Haywood](https://en.wikipedia.org/wiki/Jared_Haywood) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,565 |
+| 2026-10-24 03:30:48 | [Tích Lương](https://en.wikipedia.org/wiki/T%C3%ADch_L%C6%B0%C6%A1ng) | [LOL369YT](https://en.wikipedia.org/wiki/User:LOL369YT) | 4,553 |
+| 2026-10-24 03:32:12 | [Luke Ertel](https://en.wikipedia.org/wiki/Luke_Ertel) | [Coolcrab5000](https://en.wikipedia.org/wiki/User:Coolcrab5000) | 3,832 |
+| 2026-10-24 03:32:54 | [Cantiga de seguir](https://en.wikipedia.org/wiki/Cantiga_de_seguir) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 1,830 |
+| 2026-10-24 03:47:00 | [Ryan Blackwood](https://en.wikipedia.org/wiki/Ryan_Blackwood) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 2,501 |
+| 2026-10-24 03:54:34 | [2026–27 Wichita State Shockers women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Wichita_State_Shockers_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 28,595 |
+| 2026-10-24 03:55:48 | [Hylaeus probligenatus](https://en.wikipedia.org/wiki/Hylaeus_probligenatus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,053 |
+| 2026-10-24 03:58:54 | [Bogner (brand)](https://en.wikipedia.org/wiki/Bogner_%28brand%29) | [FlyChina](https://en.wikipedia.org/wiki/User:FlyChina) | 2,320 |
+| 2026-10-24 04:01:27 | [Aseta Redican](https://en.wikipedia.org/wiki/Aseta_Redican) | [Somej](https://en.wikipedia.org/wiki/User:Somej) | 6,181 |
+| 2026-10-24 04:02:10 | [Magdaleno Palacol Sr.](https://en.wikipedia.org/wiki/Magdaleno_Palacol_Sr.) | [FiveGeekabytes](https://en.wikipedia.org/wiki/User:FiveGeekabytes) | 10,557 |
+| 2026-10-24 04:17:25 | [Ethan Roberts (rugby league)](https://en.wikipedia.org/wiki/Ethan_Roberts_%28rugby_league%29) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,408 |
+| 2026-10-24 04:17:35 | [Lynn Simpson (September 11 survivor)](https://en.wikipedia.org/wiki/Lynn_Simpson_%28September_11_survivor%29) | [Rockycape](https://en.wikipedia.org/wiki/User:Rockycape) | 7,670 |
+| 2026-10-24 04:19:34 | [Tunku Putra International School Attack](https://en.wikipedia.org/wiki/Tunku_Putra_International_School_Attack) | [Decrete](https://en.wikipedia.org/wiki/User:Decrete) | 1,603 |
+| 2026-10-24 04:20:03 | [Syzygium banksii](https://en.wikipedia.org/wiki/Syzygium_banksii) | [Bhinkins](https://en.wikipedia.org/wiki/User:Bhinkins) | 1,916 |
+| 2026-10-24 04:20:37 | [Fudge (album)](https://en.wikipedia.org/wiki/Fudge_%28album%29) | [Maxington2007](https://en.wikipedia.org/wiki/User:Maxington2007) | 7,775 |
