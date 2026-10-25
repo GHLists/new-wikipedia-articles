@@ -13,53 +13,58 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-25 06:20 UTC](data/en/new-articles-2026-10-25T06-20-25Z.csv) | 21 |
-| Japanese | `ja` | [2026-10-25 06:20 UTC](data/ja/new-articles-2026-10-25T06-20-25Z.csv) | 13 |
-| Chinese | `zh` | [2026-10-25 06:20 UTC](data/zh/new-articles-2026-10-25T06-20-25Z.csv) | 11 |
-| French | `fr` | [2026-10-25 06:20 UTC](data/fr/new-articles-2026-10-25T06-20-25Z.csv) | 5 |
-| German | `de` | [2026-10-25 06:20 UTC](data/de/new-articles-2026-10-25T06-20-25Z.csv) | 5 |
-| Russian | `ru` | [2026-10-25 06:20 UTC](data/ru/new-articles-2026-10-25T06-20-25Z.csv) | 7 |
-| Spanish | `es` | [2026-10-25 06:20 UTC](data/es/new-articles-2026-10-25T06-20-25Z.csv) | 4 |
-| Italian | `it` | [2026-10-25 06:20 UTC](data/it/new-articles-2026-10-25T06-20-25Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-25 06:20 UTC](data/pt/new-articles-2026-10-25T06-20-25Z.csv) | 6 |
-| Polish | `pl` | [2026-10-25 06:20 UTC](data/pl/new-articles-2026-10-25T06-20-25Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-25 06:20 UTC](data/ar/new-articles-2026-10-25T06-20-25Z.csv) | 6 |
+| English | `en` | [2026-10-25 07:19 UTC](data/en/new-articles-2026-10-25T07-19-26Z.csv) | 26 |
+| Japanese | `ja` | [2026-10-25 07:19 UTC](data/ja/new-articles-2026-10-25T07-19-26Z.csv) | 8 |
+| Chinese | `zh` | [2026-10-25 07:19 UTC](data/zh/new-articles-2026-10-25T07-19-26Z.csv) | 11 |
+| French | `fr` | [2026-10-25 07:19 UTC](data/fr/new-articles-2026-10-25T07-19-26Z.csv) | 3 |
+| German | `de` | [2026-10-25 07:19 UTC](data/de/new-articles-2026-10-25T07-19-26Z.csv) | 4 |
+| Russian | `ru` | [2026-10-25 07:19 UTC](data/ru/new-articles-2026-10-25T07-19-26Z.csv) | 12 |
+| Spanish | `es` | [2026-10-25 07:19 UTC](data/es/new-articles-2026-10-25T07-19-26Z.csv) | 6 |
+| Italian | `it` | [2026-10-25 07:19 UTC](data/it/new-articles-2026-10-25T07-19-26Z.csv) | 1 |
+| Portuguese | `pt` | [2026-10-25 07:19 UTC](data/pt/new-articles-2026-10-25T07-19-26Z.csv) | 1 |
+| Polish | `pl` | [2026-10-25 07:19 UTC](data/pl/new-articles-2026-10-25T07-19-26Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-25 07:19 UTC](data/ar/new-articles-2026-10-25T07-19-26Z.csv) | 3 |
 | Persian | `fa` | [2026-10-25 06:20 UTC](data/fa/new-articles-2026-10-25T06-20-25Z.csv) | 5 |
-| Turkish | `tr` | [2026-10-25 06:20 UTC](data/tr/new-articles-2026-10-25T06-20-25Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-25 05:18 UTC](data/he/new-articles-2026-10-25T05-18-57Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-25 06:20 UTC](data/sv/new-articles-2026-10-25T06-20-25Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-25 03:19 UTC](data/nl/new-articles-2026-10-25T03-19-06Z.csv) | 1 |
-| Korean | `ko` | [2026-10-25 06:20 UTC](data/ko/new-articles-2026-10-25T06-20-25Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-25 06:20 UTC](data/id/new-articles-2026-10-25T06-20-25Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-25 06:20 UTC](data/uk/new-articles-2026-10-25T06-20-25Z.csv) | 8 |
-| Vietnamese | `vi` | [2026-10-25 06:20 UTC](data/vi/new-articles-2026-10-25T06-20-25Z.csv) | 3 |
+| Turkish | `tr` | [2026-10-25 07:19 UTC](data/tr/new-articles-2026-10-25T07-19-26Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-25 07:19 UTC](data/he/new-articles-2026-10-25T07-19-26Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-25 07:19 UTC](data/sv/new-articles-2026-10-25T07-19-26Z.csv) | 4 |
+| Dutch | `nl` | [2026-10-25 07:19 UTC](data/nl/new-articles-2026-10-25T07-19-26Z.csv) | 4 |
+| Korean | `ko` | [2026-10-25 07:19 UTC](data/ko/new-articles-2026-10-25T07-19-26Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-25 07:19 UTC](data/id/new-articles-2026-10-25T07-19-26Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-10-25 07:19 UTC](data/uk/new-articles-2026-10-25T07-19-26Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-10-25 07:19 UTC](data/vi/new-articles-2026-10-25T07-19-26Z.csv) | 1 |
 
-## English (en) — 2026-10-25 06:20 UTC
+## English (en) — 2026-10-25 07:19 UTC
 
-New articles created between 2026-10-25 05:18 UTC and 2026-10-25 06:20 UTC.
+New articles created between 2026-10-25 06:20 UTC and 2026-10-25 07:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-25T06-20-25Z.csv)
+[Full CSV](data/en/new-articles-2026-10-25T07-19-26Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-25 05:20:19 | [Siege of Faro (1148)](https://en.wikipedia.org/wiki/Siege_of_Faro_%281148%29) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 4,986 |
-| 2026-10-25 05:21:49 | [Marina Veličković](https://en.wikipedia.org/wiki/Marina_Veli%C4%8Dkovi%C4%87) | [Zoupan](https://en.wikipedia.org/wiki/User:Zoupan) | 3,389 |
-| 2026-10-25 05:22:09 | [Tony Grampsas](https://en.wikipedia.org/wiki/Tony_Grampsas) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 2,201 |
-| 2026-10-25 05:22:36 | [List of civil aircraft (A-M)](https://en.wikipedia.org/wiki/List_of_civil_aircraft_%28A-M%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 85,824 |
-| 2026-10-25 05:23:42 | [List of civil aircraft (N–Z)](https://en.wikipedia.org/wiki/List_of_civil_aircraft_%28N%E2%80%93Z%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 454 |
-| 2026-10-25 05:28:35 | [Margareta Dovgal](https://en.wikipedia.org/wiki/Margareta_Dovgal) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 746 |
-| 2026-10-25 05:37:07 | [Joshua Domnich](https://en.wikipedia.org/wiki/Joshua_Domnich) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 928 |
-| 2026-10-25 05:41:09 | [Theona Bryant](https://en.wikipedia.org/wiki/Theona_Bryant) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,075 |
-| 2026-10-25 05:42:13 | [François Milazzo](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Milazzo) | [ShadowBallX](https://en.wikipedia.org/wiki/User:ShadowBallX) | 4,827 |
-| 2026-10-25 05:45:54 | [Meir Bardugo](https://en.wikipedia.org/wiki/Meir_Bardugo) | [Avigail56](https://en.wikipedia.org/wiki/User:Avigail56) | 12,228 |
-| 2026-10-25 05:54:44 | [Brent Woolf](https://en.wikipedia.org/wiki/Brent_Woolf) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,876 |
-| 2026-10-25 05:58:35 | [Cauterize (band)](https://en.wikipedia.org/wiki/Cauterize_%28band%29) | [W.guthro](https://en.wikipedia.org/wiki/User:W.guthro) | 7,129 |
-| 2026-10-25 05:59:47 | [María José Verdú](https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Verd%C3%BA) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,261 |
-| 2026-10-25 06:04:43 | [Shraddha Dubeyl](https://en.wikipedia.org/wiki/Shraddha_Dubeyl) | [Bkkvictor](https://en.wikipedia.org/wiki/User:Bkkvictor) | 3,865 |
-| 2026-10-25 06:12:01 | [Asociación de Básquetbol Estudiantil](https://en.wikipedia.org/wiki/Asociaci%C3%B3n_de_B%C3%A1squetbol_Estudiantil) | [LeDroider](https://en.wikipedia.org/wiki/User:LeDroider) | 13,533 |
-| 2026-10-25 06:12:59 | [Steven Herbst](https://en.wikipedia.org/wiki/Steven_Herbst) | [MiitomoChris](https://en.wikipedia.org/wiki/User:MiitomoChris) | 5,102 |
-| 2026-10-25 06:13:14 | [Živana Terzić](https://en.wikipedia.org/wiki/%C5%BDivana_Terzi%C4%87) | [Zoupan](https://en.wikipedia.org/wiki/User:Zoupan) | 3,456 |
-| 2026-10-25 06:13:48 | [Mediaboard](https://en.wikipedia.org/wiki/Mediaboard) | [Ltosnar](https://en.wikipedia.org/wiki/User:Ltosnar) | 4,754 |
-| 2026-10-25 06:14:35 | [Our Ocean Conference](https://en.wikipedia.org/wiki/Our_Ocean_Conference) | [Rushtheeditor](https://en.wikipedia.org/wiki/User:Rushtheeditor) | 7,463 |
-| 2026-10-25 06:18:13 | [Jalbehra-Shahbad Expressway](https://en.wikipedia.org/wiki/Jalbehra-Shahbad_Expressway) | [Cppfront](https://en.wikipedia.org/wiki/User:Cppfront) | 3,217 |
-| 2026-10-25 06:18:28 | [South Korea national wheelchair rugby team](https://en.wikipedia.org/wiki/South_Korea_national_wheelchair_rugby_team) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 3,698 |
+| 2026-10-25 06:20:38 | [Sing Along with Connie Francis](https://en.wikipedia.org/wiki/Sing_Along_with_Connie_Francis) | [Moscow Connection](https://en.wikipedia.org/wiki/User:Moscow_Connection) | 5,133 |
+| 2026-10-25 06:21:12 | [2024 World Wakesurf Championships](https://en.wikipedia.org/wiki/2024_World_Wakesurf_Championships) | [Stevencocoboy](https://en.wikipedia.org/wiki/User:Stevencocoboy) | 871 |
+| 2026-10-25 06:25:13 | [Hiran Rathnayaka](https://en.wikipedia.org/wiki/Hiran_Rathnayaka) | [Harveygrieves](https://en.wikipedia.org/wiki/User:Harveygrieves) | 2,773 |
+| 2026-10-25 06:27:28 | [Pendurthi Venkatesh](https://en.wikipedia.org/wiki/Pendurthi_Venkatesh) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 3,323 |
+| 2026-10-25 06:28:05 | [Relaxin-1](https://en.wikipedia.org/wiki/Relaxin-1) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 1,861 |
+| 2026-10-25 06:30:36 | [Carlyle, Victoria](https://en.wikipedia.org/wiki/Carlyle%2C_Victoria) | [Viatori](https://en.wikipedia.org/wiki/User:Viatori) | 1,473 |
+| 2026-10-25 06:34:19 | [John McEwen (Canadian politician)](https://en.wikipedia.org/wiki/John_McEwen_%28Canadian_politician%29) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 933 |
+| 2026-10-25 06:37:34 | [List of statutory instruments of the United Kingdom, 1999 (1–1700)](https://en.wikipedia.org/wiki/List_of_statutory_instruments_of_the_United_Kingdom%2C_1999_%281%E2%80%931700%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 160,564 |
+| 2026-10-25 06:37:45 | [Jaswar Umar](https://en.wikipedia.org/wiki/Jaswar_Umar) | [Harveygrieves](https://en.wikipedia.org/wiki/User:Harveygrieves) | 7,186 |
+| 2026-10-25 06:39:22 | [Empire: For the SF Writer](https://en.wikipedia.org/wiki/Empire%3A_For_the_SF_Writer) | [Guinness323](https://en.wikipedia.org/wiki/User:Guinness323) | 3,865 |
+| 2026-10-25 06:43:38 | [Next British Columbia New Democratic Party leadership election](https://en.wikipedia.org/wiki/Next_British_Columbia_New_Democratic_Party_leadership_election) | [Rushtheeditor](https://en.wikipedia.org/wiki/User:Rushtheeditor) | 768 |
+| 2026-10-25 06:46:10 | [Isaiah Yakkaladevi](https://en.wikipedia.org/wiki/Isaiah_Yakkaladevi) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,912 |
+| 2026-10-25 06:48:05 | [Keith Pruitt](https://en.wikipedia.org/wiki/Keith_Pruitt) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,041 |
+| 2026-10-25 06:54:26 | [Special Operations Combat Medic Course](https://en.wikipedia.org/wiki/Special_Operations_Combat_Medic_Course) | [Buglers](https://en.wikipedia.org/wiki/User:Buglers) | 9,467 |
+| 2026-10-25 06:54:54 | [List of Australian dark-skinned wine grape varieties](https://en.wikipedia.org/wiki/List_of_Australian_dark-skinned_wine_grape_varieties) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 156,866 |
+| 2026-10-25 06:56:14 | [Georgios Nikitiadis](https://en.wikipedia.org/wiki/Georgios_Nikitiadis) | [SonnyMDgital](https://en.wikipedia.org/wiki/User:SonnyMDgital) | 9,929 |
+| 2026-10-25 06:56:21 | [Sandy Creek, Victoria](https://en.wikipedia.org/wiki/Sandy_Creek%2C_Victoria) | [Viatori](https://en.wikipedia.org/wiki/User:Viatori) | 2,878 |
+| 2026-10-25 06:57:51 | [Mara Petrović](https://en.wikipedia.org/wiki/Mara_Petrovi%C4%87) | [Zoupan](https://en.wikipedia.org/wiki/User:Zoupan) | 2,778 |
+| 2026-10-25 06:58:07 | [Thailand national wheelchair rugby team](https://en.wikipedia.org/wiki/Thailand_national_wheelchair_rugby_team) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 4,118 |
+| 2026-10-25 07:06:08 | [Ujjain-Garoth Expressway](https://en.wikipedia.org/wiki/Ujjain-Garoth_Expressway) | [Cppfront](https://en.wikipedia.org/wiki/User:Cppfront) | 1,640 |
+| 2026-10-25 07:07:16 | [Goals for Dallas](https://en.wikipedia.org/wiki/Goals_for_Dallas) | [Chris Edgemon](https://en.wikipedia.org/wiki/User:Chris_Edgemon) | 2,000 |
+| 2026-10-25 07:09:43 | [List of Australian pale-skinned wine grape varieties](https://en.wikipedia.org/wiki/List_of_Australian_pale-skinned_wine_grape_varieties) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 135,304 |
+| 2026-10-25 07:10:50 | [2026 Florida A&M University shooting](https://en.wikipedia.org/wiki/2026_Florida_A%26M_University_shooting) | [Realcosmixyt](https://en.wikipedia.org/wiki/User:Realcosmixyt) | 105 |
+| 2026-10-25 07:11:57 | [Lohitaksha(film)](https://en.wikipedia.org/wiki/Lohitaksha%28film%29) | [Anandrajkumar0000](https://en.wikipedia.org/wiki/User:Anandrajkumar0000) | 3,759 |
+| 2026-10-25 07:14:45 | [Oliseh](https://en.wikipedia.org/wiki/Oliseh) | [Vixissimi](https://en.wikipedia.org/wiki/User:Vixissimi) | 161 |
+| 2026-10-25 07:16:46 | [CAF Women's Champions League records and statistics](https://en.wikipedia.org/wiki/CAF_Women%27s_Champions_League_records_and_statistics) | [Offsidescholar](https://en.wikipedia.org/wiki/User:Offsidescholar) | 18,094 |
