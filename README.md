@@ -13,58 +13,58 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-25 22:18 UTC](data/en/new-articles-2026-10-25T22-18-36Z.csv) | 26 |
-| Japanese | `ja` | [2026-10-25 22:18 UTC](data/ja/new-articles-2026-10-25T22-18-36Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-25 22:18 UTC](data/zh/new-articles-2026-10-25T22-18-36Z.csv) | 1 |
-| French | `fr` | [2026-10-25 22:18 UTC](data/fr/new-articles-2026-10-25T22-18-36Z.csv) | 13 |
-| German | `de` | [2026-10-25 22:18 UTC](data/de/new-articles-2026-10-25T22-18-36Z.csv) | 5 |
-| Russian | `ru` | [2026-10-25 22:18 UTC](data/ru/new-articles-2026-10-25T22-18-36Z.csv) | 8 |
-| Spanish | `es` | [2026-10-25 22:18 UTC](data/es/new-articles-2026-10-25T22-18-36Z.csv) | 10 |
-| Italian | `it` | [2026-10-25 22:18 UTC](data/it/new-articles-2026-10-25T22-18-36Z.csv) | 18 |
-| Portuguese | `pt` | [2026-10-25 22:18 UTC](data/pt/new-articles-2026-10-25T22-18-36Z.csv) | 9 |
-| Polish | `pl` | [2026-10-25 22:18 UTC](data/pl/new-articles-2026-10-25T22-18-36Z.csv) | 19 |
-| Arabic | `ar` | [2026-10-25 22:18 UTC](data/ar/new-articles-2026-10-25T22-18-36Z.csv) | 2 |
-| Persian | `fa` | [2026-10-25 22:18 UTC](data/fa/new-articles-2026-10-25T22-18-36Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-25 22:18 UTC](data/tr/new-articles-2026-10-25T22-18-36Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-25 22:18 UTC](data/he/new-articles-2026-10-25T22-18-36Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-25 22:18 UTC](data/sv/new-articles-2026-10-25T22-18-36Z.csv) | 5 |
-| Dutch | `nl` | [2026-10-25 22:18 UTC](data/nl/new-articles-2026-10-25T22-18-36Z.csv) | 2 |
+| English | `en` | [2026-10-25 23:18 UTC](data/en/new-articles-2026-10-25T23-18-41Z.csv) | 26 |
+| Japanese | `ja` | [2026-10-25 23:18 UTC](data/ja/new-articles-2026-10-25T23-18-41Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-25 23:18 UTC](data/zh/new-articles-2026-10-25T23-18-41Z.csv) | 3 |
+| French | `fr` | [2026-10-25 23:18 UTC](data/fr/new-articles-2026-10-25T23-18-41Z.csv) | 9 |
+| German | `de` | [2026-10-25 23:18 UTC](data/de/new-articles-2026-10-25T23-18-41Z.csv) | 14 |
+| Russian | `ru` | [2026-10-25 23:18 UTC](data/ru/new-articles-2026-10-25T23-18-41Z.csv) | 5 |
+| Spanish | `es` | [2026-10-25 23:18 UTC](data/es/new-articles-2026-10-25T23-18-41Z.csv) | 7 |
+| Italian | `it` | [2026-10-25 23:18 UTC](data/it/new-articles-2026-10-25T23-18-41Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-25 23:18 UTC](data/pt/new-articles-2026-10-25T23-18-41Z.csv) | 11 |
+| Polish | `pl` | [2026-10-25 23:18 UTC](data/pl/new-articles-2026-10-25T23-18-41Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-25 23:18 UTC](data/ar/new-articles-2026-10-25T23-18-41Z.csv) | 7 |
+| Persian | `fa` | [2026-10-25 23:18 UTC](data/fa/new-articles-2026-10-25T23-18-41Z.csv) | 4 |
+| Turkish | `tr` | [2026-10-25 23:18 UTC](data/tr/new-articles-2026-10-25T23-18-41Z.csv) | 4 |
+| Hebrew | `he` | [2026-10-25 23:18 UTC](data/he/new-articles-2026-10-25T23-18-41Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-25 23:18 UTC](data/sv/new-articles-2026-10-25T23-18-41Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-25 23:18 UTC](data/nl/new-articles-2026-10-25T23-18-41Z.csv) | 2 |
 | Korean | `ko` | [2026-10-25 20:19 UTC](data/ko/new-articles-2026-10-25T20-19-39Z.csv) | 2 |
 | Indonesian | `id` | [2026-10-25 16:21 UTC](data/id/new-articles-2026-10-25T16-21-55Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-25 22:18 UTC](data/uk/new-articles-2026-10-25T22-18-36Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-10-25 23:18 UTC](data/uk/new-articles-2026-10-25T23-18-41Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-25 21:18 UTC](data/vi/new-articles-2026-10-25T21-18-41Z.csv) | 1 |
 
-## English (en) — 2026-10-25 22:18 UTC
+## English (en) — 2026-10-25 23:18 UTC
 
-New articles created between 2026-10-25 21:18 UTC and 2026-10-25 22:18 UTC.
+New articles created between 2026-10-25 22:18 UTC and 2026-10-25 23:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-25T22-18-36Z.csv)
+[Full CSV](data/en/new-articles-2026-10-25T23-18-41Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-25 21:30:16 | [Anatolian hieroglyph inscriptions](https://en.wikipedia.org/wiki/Anatolian_hieroglyph_inscriptions) | [Onceinawhile](https://en.wikipedia.org/wiki/User:Onceinawhile) | 5,138 |
-| 2026-10-25 21:30:26 | [Seal Rock (Laguna Beach)](https://en.wikipedia.org/wiki/Seal_Rock_%28Laguna_Beach%29) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 4,322 |
-| 2026-10-25 21:32:12 | [The Mother (Zeller play)](https://en.wikipedia.org/wiki/The_Mother_%28Zeller_play%29) | [The One I Left](https://en.wikipedia.org/wiki/User:The_One_I_Left) | 7,140 |
-| 2026-10-25 21:36:29 | [Nelo (mythology)](https://en.wikipedia.org/wiki/Nelo_%28mythology%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 1,564 |
-| 2026-10-25 21:44:21 | [Marija Razmukaitė](https://en.wikipedia.org/wiki/Marija_Razmukait%C4%97) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,470 |
-| 2026-10-25 21:45:55 | [Never After Dark](https://en.wikipedia.org/wiki/Never_After_Dark) | [Steven Walling](https://en.wikipedia.org/wiki/User:Steven_Walling) | 3,291 |
-| 2026-10-25 21:48:38 | [Letinac](https://en.wikipedia.org/wiki/Letinac) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,996 |
-| 2026-10-25 21:48:45 | [List of acts of the Parliament of Victoria from 1939](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1939) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:48:57 | [List of acts of the Parliament of Victoria from 1938](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1938) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:49:07 | [List of acts of the Parliament of Victoria from 1937](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1937) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:49:25 | [List of acts of the Parliament of Victoria from 1933](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1933) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:52:05 | [List of acts of the Parliament of Victoria from 1943](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1943) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:52:16 | [List of acts of the Parliament of Victoria from 1944](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1944) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:52:26 | [Dhai-phat](https://en.wikipedia.org/wiki/Dhai-phat) | [MaplesyrupSushi](https://en.wikipedia.org/wiki/User:MaplesyrupSushi) | 3,849 |
-| 2026-10-25 21:52:40 | [List of acts of the Parliament of Victoria from 1949](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1949) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:52:51 | [List of acts of the Parliament of Victoria from 1948](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1948) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:53:00 | [List of acts of the Parliament of Victoria from 1947](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1947) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:53:11 | [Prokike](https://en.wikipedia.org/wiki/Prokike) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,996 |
-| 2026-10-25 21:53:17 | [List of acts of the Parliament of Victoria from 1946](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1946) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 21:57:01 | [Rapain Klanac](https://en.wikipedia.org/wiki/Rapain_Klanac) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,987 |
-| 2026-10-25 22:00:06 | [Stajnica](https://en.wikipedia.org/wiki/Stajnica) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,999 |
-| 2026-10-25 22:02:08 | [Palguna](https://en.wikipedia.org/wiki/Palguna) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 122 |
-| 2026-10-25 22:02:28 | [Vodoteč](https://en.wikipedia.org/wiki/Vodote%C4%8D) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,998 |
-| 2026-10-25 22:04:13 | [New England Authentic Eats](https://en.wikipedia.org/wiki/New_England_Authentic_Eats) | [Yeahimaboss413](https://en.wikipedia.org/wiki/User:Yeahimaboss413) | 3,067 |
-| 2026-10-25 22:17:39 | [List of Michelin Bib Gourmand restaurants in the Philippines](https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_the_Philippines) | [Dtmich24](https://en.wikipedia.org/wiki/User:Dtmich24) | 11,191 |
-| 2026-10-25 22:17:54 | [Francis Butterfield](https://en.wikipedia.org/wiki/Francis_Butterfield) | [BJCHK](https://en.wikipedia.org/wiki/User:BJCHK) | 22,649 |
+| 2026-10-25 22:21:47 | [All Saints' Church, North Cave](https://en.wikipedia.org/wiki/All_Saints%27_Church%2C_North_Cave) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 2,625 |
+| 2026-10-25 22:22:03 | [LeRoy H. Minton](https://en.wikipedia.org/wiki/LeRoy_H._Minton) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 5,493 |
+| 2026-10-25 22:22:22 | [EOGT](https://en.wikipedia.org/wiki/EOGT) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 2,057 |
+| 2026-10-25 22:24:33 | [Evelyn Fisher](https://en.wikipedia.org/wiki/Evelyn_Fisher) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 2,117 |
+| 2026-10-25 22:24:59 | [2026–27 Algerian Women's Cup](https://en.wikipedia.org/wiki/2026%E2%80%9327_Algerian_Women%27s_Cup) | [Faycal.09](https://en.wikipedia.org/wiki/User:Faycal.09) | 4,015 |
+| 2026-10-25 22:25:08 | [Harwinder](https://en.wikipedia.org/wiki/Harwinder) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 114 |
+| 2026-10-25 22:25:39 | [List of awards and nominations received by Florian Zeller](https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Florian_Zeller) | [The One I Left](https://en.wikipedia.org/wiki/User:The_One_I_Left) | 25,885 |
+| 2026-10-25 22:27:05 | [Michel Lapidus](https://en.wikipedia.org/wiki/Michel_Lapidus) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,971 |
+| 2026-10-25 22:30:05 | [Beppe Grillo (athlete)](https://en.wikipedia.org/wiki/Beppe_Grillo_%28athlete%29) | [Thrashbandicoot01](https://en.wikipedia.org/wiki/User:Thrashbandicoot01) | 3,208 |
+| 2026-10-25 22:30:30 | [That's Why I Love You](https://en.wikipedia.org/wiki/That%27s_Why_I_Love_You) | [MarioSoulTruthFan](https://en.wikipedia.org/wiki/User:MarioSoulTruthFan) | 1,356 |
+| 2026-10-25 22:33:56 | [Elvedin Sedić](https://en.wikipedia.org/wiki/Elvedin_Sedi%C4%87) | [Zee21y](https://en.wikipedia.org/wiki/User:Zee21y) | 2,699 |
+| 2026-10-25 22:36:51 | [A Million Chances](https://en.wikipedia.org/wiki/A_Million_Chances) | [Javajourney](https://en.wikipedia.org/wiki/User:Javajourney) | 15,357 |
+| 2026-10-25 22:38:03 | [Sebastian Müller (politician)](https://en.wikipedia.org/wiki/Sebastian_M%C3%BCller_%28politician%29) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,701 |
+| 2026-10-25 22:40:44 | [Polígon industrial del Segre railway station](https://en.wikipedia.org/wiki/Pol%C3%ADgon_industrial_del_Segre_railway_station) | [Eddpayne](https://en.wikipedia.org/wiki/User:Eddpayne) | 1,718 |
+| 2026-10-25 22:48:54 | [Noah Wrestle Odyssey 2026](https://en.wikipedia.org/wiki/Noah_Wrestle_Odyssey_2026) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 8,695 |
+| 2026-10-25 22:53:14 | [Prothoe (mythology)](https://en.wikipedia.org/wiki/Prothoe_%28mythology%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 913 |
+| 2026-10-25 22:54:20 | [Muhammadians](https://en.wikipedia.org/wiki/Muhammadians) | [Skysmith](https://en.wikipedia.org/wiki/User:Skysmith) | 21 |
+| 2026-10-25 22:54:40 | [2026 UNAF U-17 Tournament (Tunisia)](https://en.wikipedia.org/wiki/2026_UNAF_U-17_Tournament_%28Tunisia%29) | [محمد أمين الطرابلسي](https://en.wikipedia.org/wiki/User:%D9%85%D8%AD%D9%85%D8%AF_%D8%A3%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A) | 3,944 |
+| 2026-10-25 22:54:52 | [Shaanxi Y-15](https://en.wikipedia.org/wiki/Shaanxi_Y-15) | [Loned](https://en.wikipedia.org/wiki/User:Loned) | 5,283 |
+| 2026-10-25 22:55:46 | [Kyle Gordon Is Everywhere](https://en.wikipedia.org/wiki/Kyle_Gordon_Is_Everywhere) | [Badassgoat](https://en.wikipedia.org/wiki/User:Badassgoat) | 136 |
+| 2026-10-25 22:57:30 | [2026 Godoy Cruz Antonio Tomba season](https://en.wikipedia.org/wiki/2026_Godoy_Cruz_Antonio_Tomba_season) | [Sakiv](https://en.wikipedia.org/wiki/User:Sakiv) | 7,897 |
+| 2026-10-25 23:00:11 | [Sister city (disambiguation)](https://en.wikipedia.org/wiki/Sister_city_%28disambiguation%29) | [SuperWikiaBros](https://en.wikipedia.org/wiki/User:SuperWikiaBros) | 605 |
+| 2026-10-25 23:06:35 | [SLB 6th Player of the Year Award](https://en.wikipedia.org/wiki/SLB_6th_Player_of_the_Year_Award) | [Redcricket65](https://en.wikipedia.org/wiki/User:Redcricket65) | 2,383 |
+| 2026-10-25 23:12:37 | [Coleman Township, Kansas](https://en.wikipedia.org/wiki/Coleman_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,139 |
+| 2026-10-25 23:15:27 | [Culture Jamming: Activism and the Art of Cultural Resistance](https://en.wikipedia.org/wiki/Culture_Jamming%3A_Activism_and_the_Art_of_Cultural_Resistance) | [Normospheric](https://en.wikipedia.org/wiki/User:Normospheric) | 6,106 |
+| 2026-10-25 23:16:58 | [Glen Little (disambiguation)](https://en.wikipedia.org/wiki/Glen_Little_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 236 |
