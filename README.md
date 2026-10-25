@@ -13,58 +13,64 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-25 13:19 UTC](data/en/new-articles-2026-10-25T13-19-21Z.csv) | 26 |
-| Japanese | `ja` | [2026-10-25 13:19 UTC](data/ja/new-articles-2026-10-25T13-19-21Z.csv) | 24 |
-| Chinese | `zh` | [2026-10-25 13:19 UTC](data/zh/new-articles-2026-10-25T13-19-21Z.csv) | 18 |
-| French | `fr` | [2026-10-25 13:19 UTC](data/fr/new-articles-2026-10-25T13-19-21Z.csv) | 9 |
-| German | `de` | [2026-10-25 13:19 UTC](data/de/new-articles-2026-10-25T13-19-21Z.csv) | 19 |
-| Russian | `ru` | [2026-10-25 13:19 UTC](data/ru/new-articles-2026-10-25T13-19-21Z.csv) | 13 |
-| Spanish | `es` | [2026-10-25 13:19 UTC](data/es/new-articles-2026-10-25T13-19-21Z.csv) | 6 |
-| Italian | `it` | [2026-10-25 13:19 UTC](data/it/new-articles-2026-10-25T13-19-21Z.csv) | 14 |
-| Portuguese | `pt` | [2026-10-25 13:19 UTC](data/pt/new-articles-2026-10-25T13-19-21Z.csv) | 2 |
-| Polish | `pl` | [2026-10-25 13:19 UTC](data/pl/new-articles-2026-10-25T13-19-21Z.csv) | 3 |
-| Arabic | `ar` | [2026-10-25 13:19 UTC](data/ar/new-articles-2026-10-25T13-19-21Z.csv) | 1 |
-| Persian | `fa` | [2026-10-25 13:19 UTC](data/fa/new-articles-2026-10-25T13-19-21Z.csv) | 12 |
-| Turkish | `tr` | [2026-10-25 13:19 UTC](data/tr/new-articles-2026-10-25T13-19-21Z.csv) | 9 |
-| Hebrew | `he` | [2026-10-25 12:19 UTC](data/he/new-articles-2026-10-25T12-19-26Z.csv) | 5 |
-| Swedish | `sv` | [2026-10-25 13:19 UTC](data/sv/new-articles-2026-10-25T13-19-21Z.csv) | 4 |
-| Dutch | `nl` | [2026-10-25 13:19 UTC](data/nl/new-articles-2026-10-25T13-19-21Z.csv) | 7 |
-| Korean | `ko` | [2026-10-25 13:19 UTC](data/ko/new-articles-2026-10-25T13-19-21Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-25 13:19 UTC](data/id/new-articles-2026-10-25T13-19-21Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-25 13:19 UTC](data/uk/new-articles-2026-10-25T13-19-21Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-10-25 13:19 UTC](data/vi/new-articles-2026-10-25T13-19-21Z.csv) | 2 |
+| English | `en` | [2026-10-25 14:19 UTC](data/en/new-articles-2026-10-25T14-19-57Z.csv) | 32 |
+| Japanese | `ja` | [2026-10-25 14:19 UTC](data/ja/new-articles-2026-10-25T14-19-57Z.csv) | 15 |
+| Chinese | `zh` | [2026-10-25 14:19 UTC](data/zh/new-articles-2026-10-25T14-19-57Z.csv) | 5 |
+| French | `fr` | [2026-10-25 14:19 UTC](data/fr/new-articles-2026-10-25T14-19-57Z.csv) | 19 |
+| German | `de` | [2026-10-25 14:19 UTC](data/de/new-articles-2026-10-25T14-19-57Z.csv) | 19 |
+| Russian | `ru` | [2026-10-25 14:19 UTC](data/ru/new-articles-2026-10-25T14-19-57Z.csv) | 9 |
+| Spanish | `es` | [2026-10-25 14:19 UTC](data/es/new-articles-2026-10-25T14-19-57Z.csv) | 9 |
+| Italian | `it` | [2026-10-25 14:19 UTC](data/it/new-articles-2026-10-25T14-19-57Z.csv) | 6 |
+| Portuguese | `pt` | [2026-10-25 14:19 UTC](data/pt/new-articles-2026-10-25T14-19-57Z.csv) | 6 |
+| Polish | `pl` | [2026-10-25 14:19 UTC](data/pl/new-articles-2026-10-25T14-19-57Z.csv) | 16 |
+| Arabic | `ar` | [2026-10-25 14:19 UTC](data/ar/new-articles-2026-10-25T14-19-57Z.csv) | 3 |
+| Persian | `fa` | [2026-10-25 14:19 UTC](data/fa/new-articles-2026-10-25T14-19-57Z.csv) | 10 |
+| Turkish | `tr` | [2026-10-25 14:19 UTC](data/tr/new-articles-2026-10-25T14-19-57Z.csv) | 28 |
+| Hebrew | `he` | [2026-10-25 14:19 UTC](data/he/new-articles-2026-10-25T14-19-57Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-25 14:19 UTC](data/sv/new-articles-2026-10-25T14-19-57Z.csv) | 8 |
+| Dutch | `nl` | [2026-10-25 14:19 UTC](data/nl/new-articles-2026-10-25T14-19-57Z.csv) | 7 |
+| Korean | `ko` | [2026-10-25 14:19 UTC](data/ko/new-articles-2026-10-25T14-19-57Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-25 14:19 UTC](data/id/new-articles-2026-10-25T14-19-57Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-25 14:19 UTC](data/uk/new-articles-2026-10-25T14-19-57Z.csv) | 11 |
+| Vietnamese | `vi` | [2026-10-25 14:19 UTC](data/vi/new-articles-2026-10-25T14-19-57Z.csv) | 1 |
 
-## English (en) — 2026-10-25 13:19 UTC
+## English (en) — 2026-10-25 14:19 UTC
 
-New articles created between 2026-10-25 12:19 UTC and 2026-10-25 13:19 UTC.
+New articles created between 2026-10-25 13:19 UTC and 2026-10-25 14:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-25T13-19-21Z.csv)
+[Full CSV](data/en/new-articles-2026-10-25T14-19-57Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-25 12:19:48 | [List of places of worship in Moorabool Shire](https://en.wikipedia.org/wiki/List_of_places_of_worship_in_Moorabool_Shire) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 17,010 |
-| 2026-10-25 12:22:26 | [IFK Kristinehamn](https://en.wikipedia.org/wiki/IFK_Kristinehamn) | [Coolguy341](https://en.wikipedia.org/wiki/User:Coolguy341) | 2,498 |
-| 2026-10-25 12:26:11 | [List of Thyreus species](https://en.wikipedia.org/wiki/List_of_Thyreus_species) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 5,908 |
-| 2026-10-25 12:33:13 | [Israel Sports Betting Board](https://en.wikipedia.org/wiki/Israel_Sports_Betting_Board) | [Avigail56](https://en.wikipedia.org/wiki/User:Avigail56) | 27,805 |
-| 2026-10-25 12:34:31 | [Darryl Kropp](https://en.wikipedia.org/wiki/Darryl_Kropp) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,951 |
-| 2026-10-25 12:39:46 | [Petrkov](https://en.wikipedia.org/wiki/Petrkov) | [Honza9513](https://en.wikipedia.org/wiki/User:Honza9513) | 5,676 |
-| 2026-10-25 12:40:31 | [Tryptamine-4,5-dione](https://en.wikipedia.org/wiki/Tryptamine-4%2C5-dione) | [Oeryc](https://en.wikipedia.org/wiki/User:Oeryc) | 11,983 |
-| 2026-10-25 12:41:02 | [Wheelchair fencing at the 2026 Asian Para Games](https://en.wikipedia.org/wiki/Wheelchair_fencing_at_the_2026_Asian_Para_Games) | [St45nna](https://en.wikipedia.org/wiki/User:St45nna) | 15,620 |
-| 2026-10-25 12:43:34 | [Matt Liang](https://en.wikipedia.org/wiki/Matt_Liang) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,619 |
-| 2026-10-25 12:46:05 | [Ambaari Dream Class](https://en.wikipedia.org/wiki/Ambaari_Dream_Class) | [Shaymmm](https://en.wikipedia.org/wiki/User:Shaymmm) | 3,119 |
-| 2026-10-25 12:46:39 | [Progress Chapter 199: Bonestorm](https://en.wikipedia.org/wiki/Progress_Chapter_199%3A_Bonestorm) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 4,583 |
-| 2026-10-25 12:49:21 | [Will Cole-Hamilton](https://en.wikipedia.org/wiki/Will_Cole-Hamilton) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,090 |
-| 2026-10-25 12:49:58 | [Afyonkarahisar Health Sciences University](https://en.wikipedia.org/wiki/Afyonkarahisar_Health_Sciences_University) | [Ahmetlii](https://en.wikipedia.org/wiki/User:Ahmetlii) | 6,100 |
-| 2026-10-25 12:52:24 | [2026 Curitiba Open – Singles](https://en.wikipedia.org/wiki/2026_Curitiba_Open_%E2%80%93_Singles) | [0add0n](https://en.wikipedia.org/wiki/User:0add0n) | 9,542 |
-| 2026-10-25 12:54:38 | [Bert Chen](https://en.wikipedia.org/wiki/Bert_Chen) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,959 |
-| 2026-10-25 12:56:30 | [Sekolah Kebangsaan Sungai Tua Baharu](https://en.wikipedia.org/wiki/Sekolah_Kebangsaan_Sungai_Tua_Baharu) | [Danish2703](https://en.wikipedia.org/wiki/User:Danish2703) | 5,872 |
-| 2026-10-25 12:59:06 | [Bodilopsis aquilus](https://en.wikipedia.org/wiki/Bodilopsis_aquilus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,277 |
-| 2026-10-25 13:00:08 | [2019 WPT Jaén Open](https://en.wikipedia.org/wiki/2019_WPT_Ja%C3%A9n_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 41,644 |
-| 2026-10-25 13:03:59 | [Bodilopsis rufus](https://en.wikipedia.org/wiki/Bodilopsis_rufus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,721 |
-| 2026-10-25 13:05:35 | [Tracy St. Claire](https://en.wikipedia.org/wiki/Tracy_St._Claire) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,731 |
-| 2026-10-25 13:09:08 | [Kris McNichol](https://en.wikipedia.org/wiki/Kris_McNichol) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,956 |
-| 2026-10-25 13:12:37 | [Lunar Link](https://en.wikipedia.org/wiki/Lunar_Link) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 5,459 |
-| 2026-10-25 13:14:31 | [Planolinellus](https://en.wikipedia.org/wiki/Planolinellus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,837 |
-| 2026-10-25 13:16:10 | [Planolinoides](https://en.wikipedia.org/wiki/Planolinoides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,973 |
-| 2026-10-25 13:18:24 | [Hinges (album)](https://en.wikipedia.org/wiki/Hinges_%28album%29) | [Memphisto](https://en.wikipedia.org/wiki/User:Memphisto) | 1,242 |
-| 2026-10-25 13:19:11 | [Cathy Busby (geologist)](https://en.wikipedia.org/wiki/Cathy_Busby_%28geologist%29) | [Chaiten1](https://en.wikipedia.org/wiki/User:Chaiten1) | 4,442 |
+| 2026-10-25 13:19:32 | [Sacha Peter](https://en.wikipedia.org/wiki/Sacha_Peter) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,480 |
+| 2026-10-25 13:20:22 | [Evans Maurin](https://en.wikipedia.org/wiki/Evans_Maurin) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 3,978 |
+| 2026-10-25 13:22:25 | [Zeeshan Wahla](https://en.wikipedia.org/wiki/Zeeshan_Wahla) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,531 |
+| 2026-10-25 13:23:04 | [Bruce D. Patterson](https://en.wikipedia.org/wiki/Bruce_D._Patterson) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 13:23:13 | [Nicolás Ureña de Mendoza](https://en.wikipedia.org/wiki/Nicol%C3%A1s_Ure%C3%B1a_de_Mendoza) | [Takeitorleaveit59](https://en.wikipedia.org/wiki/User:Takeitorleaveit59) | 2,677 |
+| 2026-10-25 13:25:24 | [Megan Knight](https://en.wikipedia.org/wiki/Megan_Knight) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,743 |
+| 2026-10-25 13:25:27 | [U Sports Men's Basketball All-Canadians](https://en.wikipedia.org/wiki/U_Sports_Men%27s_Basketball_All-Canadians) | [Canfan1964](https://en.wikipedia.org/wiki/User:Canfan1964) | 87,147 |
+| 2026-10-25 13:25:34 | [Donald Macdonald (Brigadier General)](https://en.wikipedia.org/wiki/Donald_Macdonald_%28Brigadier_General%29) | [Russo-winner1234](https://en.wikipedia.org/wiki/User:Russo-winner1234) | 4,494 |
+| 2026-10-25 13:28:36 | [Garry Purewal](https://en.wikipedia.org/wiki/Garry_Purewal) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,447 |
+| 2026-10-25 13:31:26 | [Garry Thind](https://en.wikipedia.org/wiki/Garry_Thind) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,588 |
+| 2026-10-25 13:34:47 | [Jessy Sahota](https://en.wikipedia.org/wiki/Jessy_Sahota) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,886 |
+| 2026-10-25 13:35:27 | [Ulyses F.J. Pardiñas](https://en.wikipedia.org/wiki/Ulyses_F.J._Pardi%C3%B1as) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 13:36:59 | [Pablo Teta](https://en.wikipedia.org/wiki/Pablo_Teta) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 13:40:37 | [Guillermo D'Elía](https://en.wikipedia.org/wiki/Guillermo_D%27El%C3%ADa) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 13:40:46 | [Deep Sandhu](https://en.wikipedia.org/wiki/Deep_Sandhu) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,443 |
+| 2026-10-25 13:41:35 | [Joachim Melchior Magens](https://en.wikipedia.org/wiki/Joachim_Melchior_Magens) | [Sam Sailor](https://en.wikipedia.org/wiki/User:Sam_Sailor) | 273 |
+| 2026-10-25 13:44:55 | [Lara Honrado](https://en.wikipedia.org/wiki/Lara_Honrado) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,600 |
+| 2026-10-25 13:48:40 | [Amanda Burrows](https://en.wikipedia.org/wiki/Amanda_Burrows) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,733 |
+| 2026-10-25 13:52:33 | [Alexandre Reis Percequillo](https://en.wikipedia.org/wiki/Alexandre_Reis_Percequillo) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 13:52:58 | [Vlasta Fialová (archaeologist)](https://en.wikipedia.org/wiki/Vlasta_Fialov%C3%A1_%28archaeologist%29) | [Sajjadmrt](https://en.wikipedia.org/wiki/User:Sajjadmrt) | 4,700 |
+| 2026-10-25 13:54:16 | [Diamond made man ( 2026 Movie )](https://en.wikipedia.org/wiki/Diamond_made_man_%28_2026_Movie_%29) | [Oxfordyni](https://en.wikipedia.org/wiki/User:Oxfordyni) | 4,563 |
+| 2026-10-25 13:58:02 | [Ina Blumenthal](https://en.wikipedia.org/wiki/Ina_Blumenthal) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,991 |
+| 2026-10-25 14:02:04 | [Marcelo Weksler](https://en.wikipedia.org/wiki/Marcelo_Weksler) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 14:03:52 | [Gisele Lessa](https://en.wikipedia.org/wiki/Gisele_Lessa) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 14:04:53 | [LaDainian Fields](https://en.wikipedia.org/wiki/LaDainian_Fields) | [Butters.From.SouthPark](https://en.wikipedia.org/wiki/User:Butters.From.SouthPark) | 2,447 |
+| 2026-10-25 14:05:41 | [Jorge Salazar-Bravo](https://en.wikipedia.org/wiki/Jorge_Salazar-Bravo) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 14:06:02 | [Kingfisher Boats](https://en.wikipedia.org/wiki/Kingfisher_Boats) | [Andrewrabbott](https://en.wikipedia.org/wiki/User:Andrewrabbott) | 8,988 |
+| 2026-10-25 14:08:07 | [Joseph A. Cook](https://en.wikipedia.org/wiki/Joseph_A._Cook) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 14:10:45 | [2026 Prague municipal election](https://en.wikipedia.org/wiki/2026_Prague_municipal_election) | [Rest in pieces](https://en.wikipedia.org/wiki/User:Rest_in_pieces) | 5,689 |
+| 2026-10-25 14:12:04 | [S. V. Mohan Reddy](https://en.wikipedia.org/wiki/S._V._Mohan_Reddy) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,688 |
+| 2026-10-25 14:13:35 | [Milton H. Gallardo](https://en.wikipedia.org/wiki/Milton_H._Gallardo) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-25 14:17:22 | [The Ballard Pier Downtown Experience Centre](https://en.wikipedia.org/wiki/The_Ballard_Pier_Downtown_Experience_Centre) | [Sir Tragedy](https://en.wikipedia.org/wiki/User:Sir_Tragedy) | 1,096 |
