@@ -13,79 +13,81 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-25 19:18 UTC](data/en/new-articles-2026-10-25T19-18-57Z.csv) | 47 |
+| English | `en` | [2026-10-25 20:19 UTC](data/en/new-articles-2026-10-25T20-19-39Z.csv) | 49 |
 | Japanese | `ja` | [2026-10-25 18:19 UTC](data/ja/new-articles-2026-10-25T18-19-28Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-25 19:18 UTC](data/zh/new-articles-2026-10-25T19-18-57Z.csv) | 5 |
-| French | `fr` | [2026-10-25 19:18 UTC](data/fr/new-articles-2026-10-25T19-18-57Z.csv) | 12 |
-| German | `de` | [2026-10-25 19:18 UTC](data/de/new-articles-2026-10-25T19-18-57Z.csv) | 20 |
-| Russian | `ru` | [2026-10-25 19:18 UTC](data/ru/new-articles-2026-10-25T19-18-57Z.csv) | 15 |
-| Spanish | `es` | [2026-10-25 19:18 UTC](data/es/new-articles-2026-10-25T19-18-57Z.csv) | 11 |
-| Italian | `it` | [2026-10-25 19:18 UTC](data/it/new-articles-2026-10-25T19-18-57Z.csv) | 3 |
-| Portuguese | `pt` | [2026-10-25 19:18 UTC](data/pt/new-articles-2026-10-25T19-18-57Z.csv) | 19 |
-| Polish | `pl` | [2026-10-25 19:18 UTC](data/pl/new-articles-2026-10-25T19-18-57Z.csv) | 10 |
-| Arabic | `ar` | [2026-10-25 19:18 UTC](data/ar/new-articles-2026-10-25T19-18-57Z.csv) | 4 |
-| Persian | `fa` | [2026-10-25 19:18 UTC](data/fa/new-articles-2026-10-25T19-18-57Z.csv) | 8 |
-| Turkish | `tr` | [2026-10-25 19:18 UTC](data/tr/new-articles-2026-10-25T19-18-57Z.csv) | 41 |
-| Hebrew | `he` | [2026-10-25 19:18 UTC](data/he/new-articles-2026-10-25T19-18-57Z.csv) | 2 |
+| Chinese | `zh` | [2026-10-25 20:19 UTC](data/zh/new-articles-2026-10-25T20-19-39Z.csv) | 1 |
+| French | `fr` | [2026-10-25 20:19 UTC](data/fr/new-articles-2026-10-25T20-19-39Z.csv) | 11 |
+| German | `de` | [2026-10-25 20:19 UTC](data/de/new-articles-2026-10-25T20-19-39Z.csv) | 17 |
+| Russian | `ru` | [2026-10-25 20:19 UTC](data/ru/new-articles-2026-10-25T20-19-39Z.csv) | 11 |
+| Spanish | `es` | [2026-10-25 20:19 UTC](data/es/new-articles-2026-10-25T20-19-39Z.csv) | 16 |
+| Italian | `it` | [2026-10-25 20:19 UTC](data/it/new-articles-2026-10-25T20-19-39Z.csv) | 15 |
+| Portuguese | `pt` | [2026-10-25 20:19 UTC](data/pt/new-articles-2026-10-25T20-19-39Z.csv) | 20 |
+| Polish | `pl` | [2026-10-25 20:19 UTC](data/pl/new-articles-2026-10-25T20-19-39Z.csv) | 8 |
+| Arabic | `ar` | [2026-10-25 20:19 UTC](data/ar/new-articles-2026-10-25T20-19-39Z.csv) | 3 |
+| Persian | `fa` | [2026-10-25 20:19 UTC](data/fa/new-articles-2026-10-25T20-19-39Z.csv) | 9 |
+| Turkish | `tr` | [2026-10-25 20:19 UTC](data/tr/new-articles-2026-10-25T20-19-39Z.csv) | 91 |
+| Hebrew | `he` | [2026-10-25 20:19 UTC](data/he/new-articles-2026-10-25T20-19-39Z.csv) | 1 |
 | Swedish | `sv` | [2026-10-25 19:18 UTC](data/sv/new-articles-2026-10-25T19-18-57Z.csv) | 4 |
 | Dutch | `nl` | [2026-10-25 19:18 UTC](data/nl/new-articles-2026-10-25T19-18-57Z.csv) | 4 |
-| Korean | `ko` | [2026-10-25 18:19 UTC](data/ko/new-articles-2026-10-25T18-19-28Z.csv) | 4 |
+| Korean | `ko` | [2026-10-25 20:19 UTC](data/ko/new-articles-2026-10-25T20-19-39Z.csv) | 2 |
 | Indonesian | `id` | [2026-10-25 16:21 UTC](data/id/new-articles-2026-10-25T16-21-55Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-25 19:18 UTC](data/uk/new-articles-2026-10-25T19-18-57Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-10-25 20:19 UTC](data/uk/new-articles-2026-10-25T20-19-39Z.csv) | 11 |
 | Vietnamese | `vi` | [2026-10-25 19:18 UTC](data/vi/new-articles-2026-10-25T19-18-57Z.csv) | 3 |
 
-## English (en) — 2026-10-25 19:18 UTC
+## English (en) — 2026-10-25 20:19 UTC
 
-New articles created between 2026-10-25 18:19 UTC and 2026-10-25 19:18 UTC.
+New articles created between 2026-10-25 19:18 UTC and 2026-10-25 20:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-25T19-18-57Z.csv)
+[Full CSV](data/en/new-articles-2026-10-25T20-19-39Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-25 18:19:29 | [2019 WPT Buenos Aires Master](https://en.wikipedia.org/wiki/2019_WPT_Buenos_Aires_Master) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 27,531 |
-| 2026-10-25 18:19:43 | [American Samoa at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/American_Samoa_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 2,699 |
-| 2026-10-25 18:22:32 | [Andorra at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Andorra_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 1,792 |
-| 2026-10-25 18:22:45 | [Ernst Heyd](https://en.wikipedia.org/wiki/Ernst_Heyd) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 4,229 |
-| 2026-10-25 18:25:38 | [Lily Crosthwaite](https://en.wikipedia.org/wiki/Lily_Crosthwaite) | [MindChronicle](https://en.wikipedia.org/wiki/User:MindChronicle) | 5,795 |
-| 2026-10-25 18:25:39 | [Peter Walter (1715–1753)](https://en.wikipedia.org/wiki/Peter_Walter_%281715%E2%80%931753%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,773 |
-| 2026-10-25 18:28:19 | [Barbados at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Barbados_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 2,815 |
-| 2026-10-25 18:29:27 | [Kharak Singh (ruler)](https://en.wikipedia.org/wiki/Kharak_Singh_%28ruler%29) | [WikiWhizKid1999](https://en.wikipedia.org/wiki/User:WikiWhizKid1999) | 7,885 |
-| 2026-10-25 18:32:03 | [Belize at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Belize_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 2,626 |
-| 2026-10-25 18:33:12 | [1956 USAC Stock Car Series](https://en.wikipedia.org/wiki/1956_USAC_Stock_Car_Series) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 10,095 |
-| 2026-10-25 18:34:48 | [Henry Whitaker (died 1746)](https://en.wikipedia.org/wiki/Henry_Whitaker_%28died_1746%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,563 |
-| 2026-10-25 18:40:20 | [Caccothryptus tibetanus](https://en.wikipedia.org/wiki/Caccothryptus_tibetanus) | [Generalissima](https://en.wikipedia.org/wiki/User:Generalissima) | 5,640 |
-| 2026-10-25 18:40:28 | [Bhutan at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Bhutan_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 2,862 |
-| 2026-10-25 18:41:14 | [Bosnia and Herzegovina at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 1,772 |
-| 2026-10-25 18:41:43 | [Airport dog relief area](https://en.wikipedia.org/wiki/Airport_dog_relief_area) | [Bri](https://en.wikipedia.org/wiki/User:Bri) | 2,067 |
-| 2026-10-25 18:44:39 | [Brunei at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Brunei_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 3,401 |
-| 2026-10-25 18:45:19 | [Maria Josefa Canellada](https://en.wikipedia.org/wiki/Maria_Josefa_Canellada) | [Afernand74](https://en.wikipedia.org/wiki/User:Afernand74) | 29,982 |
-| 2026-10-25 18:46:07 | [List of autism organizations](https://en.wikipedia.org/wiki/List_of_autism_organizations) | [IfShrimpHadABarbie](https://en.wikipedia.org/wiki/User:IfShrimpHadABarbie) | 39,709 |
-| 2026-10-25 18:48:21 | [Central African Republic at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Central_African_Republic_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 3,076 |
-| 2026-10-25 18:48:26 | [Timeline of the second Grover Cleveland presidency](https://en.wikipedia.org/wiki/Timeline_of_the_second_Grover_Cleveland_presidency) | [Thebiguglyalien](https://en.wikipedia.org/wiki/User:Thebiguglyalien) | 14,668 |
-| 2026-10-25 18:48:33 | [Pierce Connelly](https://en.wikipedia.org/wiki/Pierce_Connelly) | [Arkistointi](https://en.wikipedia.org/wiki/User:Arkistointi) | 1,612 |
-| 2026-10-25 18:49:46 | [The WASP](https://en.wikipedia.org/wiki/The_WASP) | [Бялхляб](https://en.wikipedia.org/wiki/User:%D0%91%D1%8F%D0%BB%D1%85%D0%BB%D1%8F%D0%B1) | 1,880 |
-| 2026-10-25 18:54:22 | [Edward Seymour (died 1711)](https://en.wikipedia.org/wiki/Edward_Seymour_%28died_1711%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,350 |
-| 2026-10-25 18:54:58 | [Thoren Bradley](https://en.wikipedia.org/wiki/Thoren_Bradley) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 8,439 |
-| 2026-10-25 18:55:12 | [Jean de Lauson (grand seneschal)](https://en.wikipedia.org/wiki/Jean_de_Lauson_%28grand_seneschal%29) | [Bastobasto](https://en.wikipedia.org/wiki/User:Bastobasto) | 2,596 |
-| 2026-10-25 18:55:26 | [Chad at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Chad_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 2,114 |
-| 2026-10-25 18:58:13 | [Gordon Roland Williams](https://en.wikipedia.org/wiki/Gordon_Roland_Williams) | [Kmccook](https://en.wikipedia.org/wiki/User:Kmccook) | 4,807 |
-| 2026-10-25 18:59:13 | [Timelines of the Grover Cleveland presidencies](https://en.wikipedia.org/wiki/Timelines_of_the_Grover_Cleveland_presidencies) | [Thebiguglyalien](https://en.wikipedia.org/wiki/User:Thebiguglyalien) | 496 |
-| 2026-10-25 19:01:21 | [Djibouti at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Djibouti_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 3,214 |
-| 2026-10-25 19:02:43 | [Ingrid Seward](https://en.wikipedia.org/wiki/Ingrid_Seward) | [GnocchiFan](https://en.wikipedia.org/wiki/User:GnocchiFan) | 3,388 |
-| 2026-10-25 19:03:29 | [National Bank of Yugoslavia in Serbia and Montenegro](https://en.wikipedia.org/wiki/National_Bank_of_Yugoslavia_in_Serbia_and_Montenegro) | [Joy](https://en.wikipedia.org/wiki/User:Joy) | 4,347 |
-| 2026-10-25 19:04:01 | [Hôtel de Ville, Le Creusot](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Le_Creusot) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 6,845 |
-| 2026-10-25 19:04:09 | [Dominica at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Dominica_at_the_2026_Summer_Youth_Olympics) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 2,501 |
-| 2026-10-25 19:07:14 | [Difenoconazole](https://en.wikipedia.org/wiki/Difenoconazole) | [Minihaa](https://en.wikipedia.org/wiki/User:Minihaa) | 6,943 |
-| 2026-10-25 19:07:52 | [Dodemorph](https://en.wikipedia.org/wiki/Dodemorph) | [Minihaa](https://en.wikipedia.org/wiki/User:Minihaa) | 3,739 |
-| 2026-10-25 19:08:54 | [Himalayapotamon](https://en.wikipedia.org/wiki/Himalayapotamon) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 1,496 |
-| 2026-10-25 19:11:58 | [Amir Musayev](https://en.wikipedia.org/wiki/Amir_Musayev) | [Geregen2](https://en.wikipedia.org/wiki/User:Geregen2) | 5,266 |
-| 2026-10-25 19:12:30 | [Caccothryptus chayuensis](https://en.wikipedia.org/wiki/Caccothryptus_chayuensis) | [Generalissima](https://en.wikipedia.org/wiki/User:Generalissima) | 6,324 |
-| 2026-10-25 19:16:03 | [List of acts of the Parliament of Victoria from 1902](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1902) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 19:17:09 | [List of acts of the Parliament of Victoria from 1903](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1903) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 19:17:22 | [List of acts of the Parliament of Victoria from 1904](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1904) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 19:17:33 | [List of acts of the Parliament of Victoria from 1905](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1905) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 19:17:45 | [List of acts of the Parliament of Victoria from 1906](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1906) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 19:17:54 | [List of acts of the Parliament of Victoria from 1907](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1907) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 19:18:05 | [List of acts of the Parliament of Victoria from 1909](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1909) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 19:18:32 | [List of acts of the Parliament of Victoria from 1911](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1911) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
-| 2026-10-25 19:18:49 | [List of acts of the Parliament of Victoria from 1921](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1921) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:19:22 | [List of acts of the Parliament of Victoria from 1932](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1932) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:19:32 | [List of acts of the Parliament of Victoria from 1942](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1942) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:19:43 | [List of acts of the Parliament of Victoria from 1952](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1952) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:19:47 | [America irby](https://en.wikipedia.org/wiki/America_irby) | [Princessbikerbabe26](https://en.wikipedia.org/wiki/User:Princessbikerbabe26) | 2,150 |
+| 2026-10-25 19:20:35 | [List of acts of the Parliament of Victoria from 1953](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1953) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:20:50 | [List of acts of the Parliament of Victoria from 1954](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1954) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:21:00 | [List of acts of the Parliament of Victoria from 1957](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1957) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:21:12 | [List of acts of the Parliament of Victoria from 1956](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1956) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:21:55 | [2027 Cheshire East Council election](https://en.wikipedia.org/wiki/2027_Cheshire_East_Council_election) | [Iseethesea123](https://en.wikipedia.org/wiki/User:Iseethesea123) | 3,305 |
+| 2026-10-25 19:26:23 | [Amanda Lindblad](https://en.wikipedia.org/wiki/Amanda_Lindblad) | [Obi2canibe](https://en.wikipedia.org/wiki/User:Obi2canibe) | 6,255 |
+| 2026-10-25 19:26:40 | [Philine fenestra](https://en.wikipedia.org/wiki/Philine_fenestra) | [MargaretRDonald](https://en.wikipedia.org/wiki/User:MargaretRDonald) | 1,373 |
+| 2026-10-25 19:29:32 | [List of acts of the Parliament of Victoria from 1923](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1923) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:29:58 | [List of acts of the Parliament of Victoria from 1927](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1927) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:30:09 | [List of acts of the Parliament of Victoria from 1926](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1926) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:30:20 | [List of acts of the Parliament of Victoria from 1925](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1925) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:30:23 | [Jamia Darussalam al Islamiyya](https://en.wikipedia.org/wiki/Jamia_Darussalam_al_Islamiyya) | [Usamuba](https://en.wikipedia.org/wiki/User:Usamuba) | 3,667 |
+| 2026-10-25 19:30:32 | [List of acts of the Parliament of Victoria from 1924](https://en.wikipedia.org/wiki/List_of_acts_of_the_Parliament_of_Victoria_from_1924) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 561 |
+| 2026-10-25 19:31:10 | [Italian Fortifications of Rijeka](https://en.wikipedia.org/wiki/Italian_Fortifications_of_Rijeka) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 17,001 |
+| 2026-10-25 19:35:01 | [Randon Fontenette](https://en.wikipedia.org/wiki/Randon_Fontenette) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 75 |
+| 2026-10-25 19:41:18 | [Clément Joseph Rabarivola](https://en.wikipedia.org/wiki/Cl%C3%A9ment_Joseph_Rabarivola) | [Propitheque](https://en.wikipedia.org/wiki/User:Propitheque) | 88 |
+| 2026-10-25 19:42:02 | [Jean-Luc Fausser](https://en.wikipedia.org/wiki/Jean-Luc_Fausser) | [Propitheque](https://en.wikipedia.org/wiki/User:Propitheque) | 88 |
+| 2026-10-25 19:43:34 | [Piscirickettsia](https://en.wikipedia.org/wiki/Piscirickettsia) | [Tyroxin](https://en.wikipedia.org/wiki/User:Tyroxin) | 1,372 |
+| 2026-10-25 19:47:54 | [Columbia Prep (Portland, Oregon)](https://en.wikipedia.org/wiki/Columbia_Prep_%28Portland%2C_Oregon%29) | [Steve Casburn](https://en.wikipedia.org/wiki/User:Steve_Casburn) | 1,460 |
+| 2026-10-25 19:54:37 | [My Degeneration (disambiguation)](https://en.wikipedia.org/wiki/My_Degeneration_%28disambiguation%29) | [Bkonrad](https://en.wikipedia.org/wiki/User:Bkonrad) | 340 |
+| 2026-10-25 19:55:15 | [Elkwood Park](https://en.wikipedia.org/wiki/Elkwood_Park) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 18,822 |
+| 2026-10-25 19:56:14 | [Andrew Rice (disambiguation)](https://en.wikipedia.org/wiki/Andrew_Rice_%28disambiguation%29) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 522 |
+| 2026-10-25 19:56:20 | [Monetrey Ek](https://en.wikipedia.org/wiki/Monetrey_Ek) | [DLU](https://en.wikipedia.org/wiki/User:DLU) | 2,987 |
+| 2026-10-25 19:59:16 | [Andrew Richards](https://en.wikipedia.org/wiki/Andrew_Richards) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 334 |
+| 2026-10-25 20:01:40 | [Opinion polling for the 2029 Belgian elections](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2029_Belgian_elections) | [L ke](https://en.wikipedia.org/wiki/User:L_ke) | 46,545 |
+| 2026-10-25 20:01:49 | [Luis Cadarso y Rey de Andrade](https://en.wikipedia.org/wiki/Luis_Cadarso_y_Rey_de_Andrade) | [Mdnavman](https://en.wikipedia.org/wiki/User:Mdnavman) | 22,182 |
+| 2026-10-25 20:02:07 | [Vyacheslav Chkhikvadze](https://en.wikipedia.org/wiki/Vyacheslav_Chkhikvadze) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:02:18 | [Haiyan Tong](https://en.wikipedia.org/wiki/Haiyan_Tong) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:02:29 | [France de Lapparent de Broin](https://en.wikipedia.org/wiki/France_de_Lapparent_de_Broin) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:03:04 | [Heinz Wermuth](https://en.wikipedia.org/wiki/Heinz_Wermuth) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:03:50 | [Michael Wink](https://en.wikipedia.org/wiki/Michael_Wink) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:03:52 | [Harry T. Kami](https://en.wikipedia.org/wiki/Harry_T._Kami) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:03:54 | [Markus Auer](https://en.wikipedia.org/wiki/Markus_Auer) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:03:57 | [Tiziano Fattizzo](https://en.wikipedia.org/wiki/Tiziano_Fattizzo) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:04:00 | [Anna K. Hundsdörfer](https://en.wikipedia.org/wiki/Anna_K._Hundsd%C3%B6rfer) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:04:02 | [Brian W. Bowen](https://en.wikipedia.org/wiki/Brian_W._Bowen) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:04:06 | [Eldredge Bermingham](https://en.wikipedia.org/wiki/Eldredge_Bermingham) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-10-25 20:04:58 | [HS6ST1](https://en.wikipedia.org/wiki/HS6ST1) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 2,869 |
+| 2026-10-25 20:08:45 | [S. M. Al-Husainy](https://en.wikipedia.org/wiki/S._M._Al-Husainy) | [Vinegarymass911](https://en.wikipedia.org/wiki/User:Vinegarymass911) | 5,470 |
+| 2026-10-25 20:08:51 | [Cadarso](https://en.wikipedia.org/wiki/Cadarso) | [Mdnavman](https://en.wikipedia.org/wiki/User:Mdnavman) | 180 |
+| 2026-10-25 20:10:27 | [Leah Morabito](https://en.wikipedia.org/wiki/Leah_Morabito) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 4,123 |
+| 2026-10-25 20:11:57 | [Appetite (Walter TV album)](https://en.wikipedia.org/wiki/Appetite_%28Walter_TV_album%29) | [Niko Kwel](https://en.wikipedia.org/wiki/User:Niko_Kwel) | 12,287 |
+| 2026-10-25 20:13:59 | [Klaas Vriend](https://en.wikipedia.org/wiki/Klaas_Vriend) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 5,593 |
+| 2026-10-25 20:15:53 | [La encrucijada (TV series)](https://en.wikipedia.org/wiki/La_encrucijada_%28TV_series%29) | [Telenovelafan215](https://en.wikipedia.org/wiki/User:Telenovelafan215) | 6,710 |
+| 2026-10-25 20:18:01 | [Cimbal](https://en.wikipedia.org/wiki/Cimbal) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 329 |
