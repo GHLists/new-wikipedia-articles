@@ -13,64 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-26 15:19 UTC](data/en/new-articles-2026-10-26T15-19-21Z.csv) | 32 |
-| Japanese | `ja` | [2026-10-26 15:19 UTC](data/ja/new-articles-2026-10-26T15-19-21Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-26 15:19 UTC](data/zh/new-articles-2026-10-26T15-19-21Z.csv) | 25 |
-| French | `fr` | [2026-10-26 15:19 UTC](data/fr/new-articles-2026-10-26T15-19-21Z.csv) | 7 |
-| German | `de` | [2026-10-26 15:19 UTC](data/de/new-articles-2026-10-26T15-19-21Z.csv) | 10 |
-| Russian | `ru` | [2026-10-26 15:19 UTC](data/ru/new-articles-2026-10-26T15-19-21Z.csv) | 11 |
-| Spanish | `es` | [2026-10-26 15:19 UTC](data/es/new-articles-2026-10-26T15-19-21Z.csv) | 7 |
-| Italian | `it` | [2026-10-26 15:19 UTC](data/it/new-articles-2026-10-26T15-19-21Z.csv) | 11 |
-| Portuguese | `pt` | [2026-10-26 15:19 UTC](data/pt/new-articles-2026-10-26T15-19-21Z.csv) | 5 |
-| Polish | `pl` | [2026-10-26 15:19 UTC](data/pl/new-articles-2026-10-26T15-19-21Z.csv) | 9 |
-| Arabic | `ar` | [2026-10-26 15:19 UTC](data/ar/new-articles-2026-10-26T15-19-21Z.csv) | 8 |
-| Persian | `fa` | [2026-10-26 15:19 UTC](data/fa/new-articles-2026-10-26T15-19-21Z.csv) | 6 |
-| Turkish | `tr` | [2026-10-26 15:19 UTC](data/tr/new-articles-2026-10-26T15-19-21Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-26 15:19 UTC](data/he/new-articles-2026-10-26T15-19-21Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-26 15:19 UTC](data/sv/new-articles-2026-10-26T15-19-21Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-26 15:19 UTC](data/nl/new-articles-2026-10-26T15-19-21Z.csv) | 6 |
+| English | `en` | [2026-10-26 16:22 UTC](data/en/new-articles-2026-10-26T16-22-16Z.csv) | 22 |
+| Japanese | `ja` | [2026-10-26 16:22 UTC](data/ja/new-articles-2026-10-26T16-22-16Z.csv) | 9 |
+| Chinese | `zh` | [2026-10-26 16:22 UTC](data/zh/new-articles-2026-10-26T16-22-16Z.csv) | 6 |
+| French | `fr` | [2026-10-26 16:22 UTC](data/fr/new-articles-2026-10-26T16-22-16Z.csv) | 9 |
+| German | `de` | [2026-10-26 16:22 UTC](data/de/new-articles-2026-10-26T16-22-16Z.csv) | 15 |
+| Russian | `ru` | [2026-10-26 16:22 UTC](data/ru/new-articles-2026-10-26T16-22-16Z.csv) | 11 |
+| Spanish | `es` | [2026-10-26 16:22 UTC](data/es/new-articles-2026-10-26T16-22-16Z.csv) | 7 |
+| Italian | `it` | [2026-10-26 16:22 UTC](data/it/new-articles-2026-10-26T16-22-16Z.csv) | 12 |
+| Portuguese | `pt` | [2026-10-26 16:22 UTC](data/pt/new-articles-2026-10-26T16-22-16Z.csv) | 3 |
+| Polish | `pl` | [2026-10-26 16:22 UTC](data/pl/new-articles-2026-10-26T16-22-16Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-26 16:22 UTC](data/ar/new-articles-2026-10-26T16-22-16Z.csv) | 6 |
+| Persian | `fa` | [2026-10-26 16:22 UTC](data/fa/new-articles-2026-10-26T16-22-16Z.csv) | 6 |
+| Turkish | `tr` | [2026-10-26 16:22 UTC](data/tr/new-articles-2026-10-26T16-22-16Z.csv) | 4 |
+| Hebrew | `he` | [2026-10-26 16:22 UTC](data/he/new-articles-2026-10-26T16-22-16Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-26 16:22 UTC](data/sv/new-articles-2026-10-26T16-22-16Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-26 16:22 UTC](data/nl/new-articles-2026-10-26T16-22-16Z.csv) | 3 |
 | Korean | `ko` | [2026-10-26 15:19 UTC](data/ko/new-articles-2026-10-26T15-19-21Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-26 15:19 UTC](data/id/new-articles-2026-10-26T15-19-21Z.csv) | 10 |
-| Ukrainian | `uk` | [2026-10-26 15:19 UTC](data/uk/new-articles-2026-10-26T15-19-21Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-10-26 15:19 UTC](data/vi/new-articles-2026-10-26T15-19-21Z.csv) | 7 |
+| Indonesian | `id` | [2026-10-26 16:22 UTC](data/id/new-articles-2026-10-26T16-22-16Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-26 16:22 UTC](data/uk/new-articles-2026-10-26T16-22-16Z.csv) | 12 |
+| Vietnamese | `vi` | [2026-10-26 16:22 UTC](data/vi/new-articles-2026-10-26T16-22-16Z.csv) | 2 |
 
-## English (en) — 2026-10-26 15:19 UTC
+## English (en) — 2026-10-26 16:22 UTC
 
-New articles created between 2026-10-26 14:19 UTC and 2026-10-26 15:19 UTC.
+New articles created between 2026-10-26 15:19 UTC and 2026-10-26 16:22 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-26T15-19-21Z.csv)
+[Full CSV](data/en/new-articles-2026-10-26T16-22-16Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-26 14:20:35 | [Sussorca](https://en.wikipedia.org/wiki/Sussorca) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,227 |
-| 2026-10-26 14:22:29 | [Krautheim (Gemeindeverwaltungsverband)](https://en.wikipedia.org/wiki/Krautheim_%28Gemeindeverwaltungsverband%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,314 |
-| 2026-10-26 14:24:08 | [Sybax](https://en.wikipedia.org/wiki/Sybax) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,837 |
-| 2026-10-26 14:24:18 | [Goldilocks and the Three Bears (1939 film)](https://en.wikipedia.org/wiki/Goldilocks_and_the_Three_Bears_%281939_film%29) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 3,261 |
-| 2026-10-26 14:26:20 | [Merdeka Park](https://en.wikipedia.org/wiki/Merdeka_Park) | [Danish2703](https://en.wikipedia.org/wiki/User:Danish2703) | 3,807 |
-| 2026-10-26 14:27:47 | [2026 Japan Masters](https://en.wikipedia.org/wiki/2026_Japan_Masters) | [Kumarpramit](https://en.wikipedia.org/wiki/User:Kumarpramit) | 17,632 |
-| 2026-10-26 14:28:04 | [Sybax sulcicollis](https://en.wikipedia.org/wiki/Sybax_sulcicollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,890 |
-| 2026-10-26 14:28:24 | [Mittleres Kochertal](https://en.wikipedia.org/wiki/Mittleres_Kochertal) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,579 |
-| 2026-10-26 14:30:07 | [Manju Bhusal](https://en.wikipedia.org/wiki/Manju_Bhusal) | [Biplab Anand](https://en.wikipedia.org/wiki/User:Biplab_Anand) | 6,422 |
-| 2026-10-26 14:31:26 | [LSPM J0055+5948](https://en.wikipedia.org/wiki/LSPM_J0055%2B5948) | [UniViki](https://en.wikipedia.org/wiki/User:UniViki) | 7,720 |
-| 2026-10-26 14:34:12 | [Symphodon](https://en.wikipedia.org/wiki/Symphodon) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,202 |
-| 2026-10-26 14:37:51 | [Tetraclipeoides](https://en.wikipedia.org/wiki/Tetraclipeoides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,596 |
-| 2026-10-26 14:40:42 | [Tetraclipeoides denticulatus](https://en.wikipedia.org/wiki/Tetraclipeoides_denticulatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,181 |
-| 2026-10-26 14:47:41 | [Schönau im Schwarzwald (Gemeindeverwaltungsverband)](https://en.wikipedia.org/wiki/Sch%C3%B6nau_im_Schwarzwald_%28Gemeindeverwaltungsverband%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,655 |
-| 2026-10-26 14:48:01 | [Częstochowa snap mayoral election](https://en.wikipedia.org/wiki/Cz%C4%99stochowa_snap_mayoral_election) | [Polish kurd](https://en.wikipedia.org/wiki/User:Polish_kurd) | 5,441 |
-| 2026-10-26 14:48:11 | [Otherwize](https://en.wikipedia.org/wiki/Otherwize) | [Meiaz](https://en.wikipedia.org/wiki/User:Meiaz) | 4,083 |
-| 2026-10-26 14:51:14 | [Regional Four](https://en.wikipedia.org/wiki/Regional_Four) | [Gajlsi](https://en.wikipedia.org/wiki/User:Gajlsi) | 25,221 |
-| 2026-10-26 14:53:10 | [Vorderes Kandertal](https://en.wikipedia.org/wiki/Vorderes_Kandertal) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,565 |
-| 2026-10-26 14:53:14 | [Cadu Xavier](https://en.wikipedia.org/wiki/Cadu_Xavier) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,787 |
-| 2026-10-26 14:53:44 | [Jin-kyung](https://en.wikipedia.org/wiki/Jin-kyung) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 1,108 |
-| 2026-10-26 14:54:49 | [Morley E. Wilson](https://en.wikipedia.org/wiki/Morley_E._Wilson) | [Chaiten1](https://en.wikipedia.org/wiki/User:Chaiten1) | 3,672 |
-| 2026-10-26 14:59:02 | [Daichi Sato](https://en.wikipedia.org/wiki/Daichi_Sato) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 8,954 |
-| 2026-10-26 15:00:19 | [Trichaphodioides](https://en.wikipedia.org/wiki/Trichaphodioides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,940 |
-| 2026-10-26 15:03:44 | [Mark Ogan](https://en.wikipedia.org/wiki/Mark_Ogan) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 2,922 |
-| 2026-10-26 15:04:02 | [Jozef Viskupič](https://en.wikipedia.org/wiki/Jozef_Viskupi%C4%8D) | [Newklear007](https://en.wikipedia.org/wiki/User:Newklear007) | 14,582 |
-| 2026-10-26 15:04:10 | [Trichaphodioides calcaratus](https://en.wikipedia.org/wiki/Trichaphodioides_calcaratus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,468 |
-| 2026-10-26 15:07:53 | [Trichaphodius humilis](https://en.wikipedia.org/wiki/Trichaphodius_humilis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,116 |
-| 2026-10-26 15:10:22 | [List of immigration detention sites in the United States, 2021-2024](https://en.wikipedia.org/wiki/List_of_immigration_detention_sites_in_the_United_States%2C_2021-2024) | [Carwil](https://en.wikipedia.org/wiki/User:Carwil) | 30,172 |
-| 2026-10-26 15:11:10 | [Trichonotuloides](https://en.wikipedia.org/wiki/Trichonotuloides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,114 |
-| 2026-10-26 15:11:55 | [List of immigration detention sites in the United States, 2017-2020](https://en.wikipedia.org/wiki/List_of_immigration_detention_sites_in_the_United_States%2C_2017-2020) | [Carwil](https://en.wikipedia.org/wiki/User:Carwil) | 41,168 |
-| 2026-10-26 15:13:46 | [List of immigration detention sites in the United States, 2010-2016](https://en.wikipedia.org/wiki/List_of_immigration_detention_sites_in_the_United_States%2C_2010-2016) | [Carwil](https://en.wikipedia.org/wiki/User:Carwil) | 33,035 |
-| 2026-10-26 15:18:31 | [Trichonotuloides latecrenatus](https://en.wikipedia.org/wiki/Trichonotuloides_latecrenatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,465 |
+| 2026-10-26 15:22:13 | [Trichonotuloides alfonsinae](https://en.wikipedia.org/wiki/Trichonotuloides_alfonsinae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,255 |
+| 2026-10-26 15:22:42 | [Martusciello](https://en.wikipedia.org/wiki/Martusciello) | [Gaux](https://en.wikipedia.org/wiki/User:Gaux) | 375 |
+| 2026-10-26 15:24:36 | [Trichonotuloides glyptus](https://en.wikipedia.org/wiki/Trichonotuloides_glyptus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,154 |
+| 2026-10-26 15:27:51 | [Trichonotuloides hansferyi](https://en.wikipedia.org/wiki/Trichonotuloides_hansferyi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,276 |
+| 2026-10-26 15:28:09 | [2026 Paris–Tours](https://en.wikipedia.org/wiki/2026_Paris%E2%80%93Tours) | [TheTimeBombII](https://en.wikipedia.org/wiki/User:TheTimeBombII) | 4,057 |
+| 2026-10-26 15:30:23 | [Social security rights of same-sex partners in Brazil](https://en.wikipedia.org/wiki/Social_security_rights_of_same-sex_partners_in_Brazil) | [RayneVanDunem](https://en.wikipedia.org/wiki/User:RayneVanDunem) | 8,641 |
+| 2026-10-26 15:32:56 | [Herman Poppe](https://en.wikipedia.org/wiki/Herman_Poppe) | [Nindzsa87](https://en.wikipedia.org/wiki/User:Nindzsa87) | 857 |
+| 2026-10-26 15:33:29 | [Trichonotuloides aphoderrans](https://en.wikipedia.org/wiki/Trichonotuloides_aphoderrans) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,323 |
+| 2026-10-26 15:34:07 | [Filmography of Wallace Beery](https://en.wikipedia.org/wiki/Filmography_of_Wallace_Beery) | [Rogermx](https://en.wikipedia.org/wiki/User:Rogermx) | 44,898 |
+| 2026-10-26 15:44:35 | [Davi Brandão](https://en.wikipedia.org/wiki/Davi_Brand%C3%A3o) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,974 |
+| 2026-10-26 15:44:58 | [Donald Yeomans](https://en.wikipedia.org/wiki/Donald_Yeomans) | [SoundsReallyGood](https://en.wikipedia.org/wiki/User:SoundsReallyGood) | 1,427 |
+| 2026-10-26 15:50:43 | [Dictionnaire Capuron-Nysten-Littré](https://en.wikipedia.org/wiki/Dictionnaire_Capuron-Nysten-Littr%C3%A9) | [Auteuil-Passy](https://en.wikipedia.org/wiki/User:Auteuil-Passy) | 13,239 |
+| 2026-10-26 15:53:42 | [Alveoplectrus floridanus](https://en.wikipedia.org/wiki/Alveoplectrus_floridanus) | [Etherealite](https://en.wikipedia.org/wiki/User:Etherealite) | 1,116 |
+| 2026-10-26 15:53:50 | [Stelios Papadopoulos](https://en.wikipedia.org/wiki/Stelios_Papadopoulos) | [XyloNerd](https://en.wikipedia.org/wiki/User:XyloNerd) | 3,641 |
+| 2026-10-26 15:56:17 | [Battle of Bhimber 1812](https://en.wikipedia.org/wiki/Battle_of_Bhimber_1812) | [Unvisited](https://en.wikipedia.org/wiki/User:Unvisited) | 2,218 |
+| 2026-10-26 15:57:28 | [Max Scholze](https://en.wikipedia.org/wiki/Max_Scholze) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 6,425 |
+| 2026-10-26 15:58:09 | [Compagnie Maritime des Chargeurs Réunis](https://en.wikipedia.org/wiki/Compagnie_Maritime_des_Chargeurs_R%C3%A9unis) | [Omnis Scientia](https://en.wikipedia.org/wiki/User:Omnis_Scientia) | 6,030 |
+| 2026-10-26 16:01:32 | [Farmington Township, Washington County, Kansas](https://en.wikipedia.org/wiki/Farmington_Township%2C_Washington_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,173 |
+| 2026-10-26 16:02:27 | [Arabia Felix: The Danish Expedition of 1761–1767](https://en.wikipedia.org/wiki/Arabia_Felix%3A_The_Danish_Expedition_of_1761%E2%80%931767) | [Uriahheep228](https://en.wikipedia.org/wiki/User:Uriahheep228) | 3,830 |
+| 2026-10-26 16:13:13 | [Christmas at the Kringles](https://en.wikipedia.org/wiki/Christmas_at_the_Kringles) | [Sojour](https://en.wikipedia.org/wiki/User:Sojour) | 2,285 |
+| 2026-10-26 16:13:42 | [Fedir Shevchenko](https://en.wikipedia.org/wiki/Fedir_Shevchenko) | [Sof1a510](https://en.wikipedia.org/wiki/User:Sof1a510) | 2,188 |
+| 2026-10-26 16:14:41 | [Pratap (2026 film)](https://en.wikipedia.org/wiki/Pratap_%282026_film%29) | [Manojnmims](https://en.wikipedia.org/wiki/User:Manojnmims) | 1,908 |
