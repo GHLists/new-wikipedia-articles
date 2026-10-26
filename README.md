@@ -13,52 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-26 00:20 UTC](data/en/new-articles-2026-10-26T00-20-51Z.csv) | 20 |
-| Japanese | `ja` | [2026-10-26 00:20 UTC](data/ja/new-articles-2026-10-26T00-20-51Z.csv) | 9 |
-| Chinese | `zh` | [2026-10-26 00:20 UTC](data/zh/new-articles-2026-10-26T00-20-51Z.csv) | 2 |
-| French | `fr` | [2026-10-26 00:20 UTC](data/fr/new-articles-2026-10-26T00-20-51Z.csv) | 5 |
-| German | `de` | [2026-10-26 00:20 UTC](data/de/new-articles-2026-10-26T00-20-51Z.csv) | 10 |
+| English | `en` | [2026-10-26 01:19 UTC](data/en/new-articles-2026-10-26T01-19-57Z.csv) | 19 |
+| Japanese | `ja` | [2026-10-26 01:19 UTC](data/ja/new-articles-2026-10-26T01-19-57Z.csv) | 16 |
+| Chinese | `zh` | [2026-10-26 01:19 UTC](data/zh/new-articles-2026-10-26T01-19-57Z.csv) | 8 |
+| French | `fr` | [2026-10-26 01:19 UTC](data/fr/new-articles-2026-10-26T01-19-57Z.csv) | 4 |
+| German | `de` | [2026-10-26 01:19 UTC](data/de/new-articles-2026-10-26T01-19-57Z.csv) | 3 |
 | Russian | `ru` | [2026-10-26 00:20 UTC](data/ru/new-articles-2026-10-26T00-20-51Z.csv) | 2 |
-| Spanish | `es` | [2026-10-26 00:20 UTC](data/es/new-articles-2026-10-26T00-20-51Z.csv) | 9 |
-| Italian | `it` | [2026-10-25 23:18 UTC](data/it/new-articles-2026-10-25T23-18-41Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-26 00:20 UTC](data/pt/new-articles-2026-10-26T00-20-51Z.csv) | 4 |
-| Polish | `pl` | [2026-10-26 00:20 UTC](data/pl/new-articles-2026-10-26T00-20-51Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-26 00:20 UTC](data/ar/new-articles-2026-10-26T00-20-51Z.csv) | 4 |
-| Persian | `fa` | [2026-10-26 00:20 UTC](data/fa/new-articles-2026-10-26T00-20-51Z.csv) | 1 |
-| Turkish | `tr` | [2026-10-26 00:20 UTC](data/tr/new-articles-2026-10-26T00-20-51Z.csv) | 5 |
+| Spanish | `es` | [2026-10-26 01:19 UTC](data/es/new-articles-2026-10-26T01-19-57Z.csv) | 6 |
+| Italian | `it` | [2026-10-26 01:19 UTC](data/it/new-articles-2026-10-26T01-19-57Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-26 01:19 UTC](data/pt/new-articles-2026-10-26T01-19-57Z.csv) | 3 |
+| Polish | `pl` | [2026-10-26 01:19 UTC](data/pl/new-articles-2026-10-26T01-19-57Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-26 01:19 UTC](data/ar/new-articles-2026-10-26T01-19-57Z.csv) | 3 |
+| Persian | `fa` | [2026-10-26 01:19 UTC](data/fa/new-articles-2026-10-26T01-19-57Z.csv) | 4 |
+| Turkish | `tr` | [2026-10-26 01:19 UTC](data/tr/new-articles-2026-10-26T01-19-57Z.csv) | 2 |
 | Hebrew | `he` | [2026-10-25 23:18 UTC](data/he/new-articles-2026-10-25T23-18-41Z.csv) | 2 |
 | Swedish | `sv` | [2026-10-26 00:20 UTC](data/sv/new-articles-2026-10-26T00-20-51Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-26 00:20 UTC](data/nl/new-articles-2026-10-26T00-20-51Z.csv) | 1 |
-| Korean | `ko` | [2026-10-25 20:19 UTC](data/ko/new-articles-2026-10-25T20-19-39Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-25 16:21 UTC](data/id/new-articles-2026-10-25T16-21-55Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-26 00:20 UTC](data/uk/new-articles-2026-10-26T00-20-51Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-10-25 21:18 UTC](data/vi/new-articles-2026-10-25T21-18-41Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-26 01:19 UTC](data/nl/new-articles-2026-10-26T01-19-57Z.csv) | 1 |
+| Korean | `ko` | [2026-10-26 01:19 UTC](data/ko/new-articles-2026-10-26T01-19-57Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-26 01:19 UTC](data/id/new-articles-2026-10-26T01-19-57Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-26 01:19 UTC](data/uk/new-articles-2026-10-26T01-19-57Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-10-26 01:19 UTC](data/vi/new-articles-2026-10-26T01-19-57Z.csv) | 1 |
 
-## English (en) — 2026-10-26 00:20 UTC
+## English (en) — 2026-10-26 01:19 UTC
 
-New articles created between 2026-10-25 23:18 UTC and 2026-10-26 00:20 UTC.
+New articles created between 2026-10-26 00:20 UTC and 2026-10-26 01:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-26T00-20-51Z.csv)
+[Full CSV](data/en/new-articles-2026-10-26T01-19-57Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-25 23:24:32 | [Bust of John Jellicoe](https://en.wikipedia.org/wiki/Bust_of_John_Jellicoe) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 5,247 |
-| 2026-10-25 23:24:36 | [Bust of David Beatty](https://en.wikipedia.org/wiki/Bust_of_David_Beatty) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 5,319 |
-| 2026-10-25 23:25:13 | [Funeral food](https://en.wikipedia.org/wiki/Funeral_food) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 2,125 |
-| 2026-10-25 23:26:51 | [Bunny (Pakistani singer)](https://en.wikipedia.org/wiki/Bunny_%28Pakistani_singer%29) | [BeauSuzanne](https://en.wikipedia.org/wiki/User:BeauSuzanne) | 16,087 |
-| 2026-10-25 23:28:12 | [Muzaffer Uysal](https://en.wikipedia.org/wiki/Muzaffer_Uysal) | [GreenRoyy](https://en.wikipedia.org/wiki/User:GreenRoyy) | 13,920 |
-| 2026-10-25 23:32:26 | [Eugenio Miches](https://en.wikipedia.org/wiki/Eugenio_Miches) | [Takeitorleaveit59](https://en.wikipedia.org/wiki/User:Takeitorleaveit59) | 3,214 |
-| 2026-10-25 23:33:59 | [Nick Matzorkis](https://en.wikipedia.org/wiki/Nick_Matzorkis) | [Veganomics](https://en.wikipedia.org/wiki/User:Veganomics) | 42,160 |
-| 2026-10-25 23:34:08 | [MV Reyhan Sari](https://en.wikipedia.org/wiki/MV_Reyhan_Sari) | [NeboRadar](https://en.wikipedia.org/wiki/User:NeboRadar) | 11,365 |
-| 2026-10-25 23:35:06 | [Fredonia Valley Railroad](https://en.wikipedia.org/wiki/Fredonia_Valley_Railroad) | [Realkyhick](https://en.wikipedia.org/wiki/User:Realkyhick) | 4,432 |
-| 2026-10-25 23:39:17 | [2027 in Bare Knuckle Fighting Championship](https://en.wikipedia.org/wiki/2027_in_Bare_Knuckle_Fighting_Championship) | [Marty2Hotty](https://en.wikipedia.org/wiki/User:Marty2Hotty) | 3,962 |
-| 2026-10-25 23:57:11 | [Floyd Dean](https://en.wikipedia.org/wiki/Floyd_Dean) | [Dafootballguy](https://en.wikipedia.org/wiki/User:Dafootballguy) | 364 |
-| 2026-10-25 23:58:56 | [Bust of Andrew Cunningham](https://en.wikipedia.org/wiki/Bust_of_Andrew_Cunningham) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,810 |
-| 2026-10-25 23:59:49 | [Thomas Savage (historian)](https://en.wikipedia.org/wiki/Thomas_Savage_%28historian%29) | [Aodhan16](https://en.wikipedia.org/wiki/User:Aodhan16) | 15,269 |
-| 2026-10-26 00:00:22 | [John Fineanganofo](https://en.wikipedia.org/wiki/John_Fineanganofo) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,913 |
-| 2026-10-26 00:00:28 | [Kyle Kuka](https://en.wikipedia.org/wiki/Kyle_Kuka) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 2,523 |
-| 2026-10-26 00:01:18 | [Ben Magana](https://en.wikipedia.org/wiki/Ben_Magana) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 2,998 |
-| 2026-10-26 00:03:15 | [MetroLink Tulsa AERO](https://en.wikipedia.org/wiki/MetroLink_Tulsa_AERO) | [Znns](https://en.wikipedia.org/wiki/User:Znns) | 7,245 |
-| 2026-10-26 00:06:16 | [List of 2026 box office number-one films in Spain](https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_Spain) | [Sudiani](https://en.wikipedia.org/wiki/User:Sudiani) | 20,949 |
-| 2026-10-26 00:09:43 | [Arma-Tarhunda's Family](https://en.wikipedia.org/wiki/Arma-Tarhunda%27s_Family) | [Kennet.mattfolk](https://en.wikipedia.org/wiki/User:Kennet.mattfolk) | 6,761 |
-| 2026-10-26 00:15:11 | [1986 Volvo U.S. Indoor Championships – Singles](https://en.wikipedia.org/wiki/1986_Volvo_U.S._Indoor_Championships_%E2%80%93_Singles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 13,084 |
+| 2026-10-26 00:27:33 | [J. D. Coleridge](https://en.wikipedia.org/wiki/J._D._Coleridge) | [Moonraker](https://en.wikipedia.org/wiki/User:Moonraker) | 2,674 |
+| 2026-10-26 00:28:14 | [1985 Mercedes Cup – Singles](https://en.wikipedia.org/wiki/1985_Mercedes_Cup_%E2%80%93_Singles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 7,168 |
+| 2026-10-26 00:32:11 | [A Convoy, North Sea](https://en.wikipedia.org/wiki/A_Convoy%2C_North_Sea) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,960 |
+| 2026-10-26 00:34:30 | [2026 UNAF U-17 Women's Tournament](https://en.wikipedia.org/wiki/2026_UNAF_U-17_Women%27s_Tournament) | [محمد أمين الطرابلسي](https://en.wikipedia.org/wiki/User:%D9%85%D8%AD%D9%85%D8%AF_%D8%A3%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A) | 5,284 |
+| 2026-10-26 00:36:06 | [João Nunes Camanês](https://en.wikipedia.org/wiki/Jo%C3%A3o_Nunes_Caman%C3%AAs) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 1,877 |
+| 2026-10-26 00:37:55 | [Eurybia (Greek myth)](https://en.wikipedia.org/wiki/Eurybia_%28Greek_myth%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 1,712 |
+| 2026-10-26 00:43:09 | [Edward Power](https://en.wikipedia.org/wiki/Edward_Power) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,575 |
+| 2026-10-26 00:43:50 | [1985 South African Open – Singles](https://en.wikipedia.org/wiki/1985_South_African_Open_%E2%80%93_Singles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 7,798 |
+| 2026-10-26 00:51:49 | [Adamowo railway station](https://en.wikipedia.org/wiki/Adamowo_railway_station) | [Fortek67](https://en.wikipedia.org/wiki/User:Fortek67) | 2,689 |
+| 2026-10-26 00:59:29 | [Thyreus quadrimaculatus](https://en.wikipedia.org/wiki/Thyreus_quadrimaculatus) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,454 |
+| 2026-10-26 01:00:08 | [LaVonda Reed](https://en.wikipedia.org/wiki/LaVonda_Reed) | [Coqui002](https://en.wikipedia.org/wiki/User:Coqui002) | 4,862 |
+| 2026-10-26 01:02:26 | [Danny Graves (racing driver)](https://en.wikipedia.org/wiki/Danny_Graves_%28racing_driver%29) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 7,739 |
+| 2026-10-26 01:03:47 | [2027 Dakar Rally](https://en.wikipedia.org/wiki/2027_Dakar_Rally) | [PliskorCor](https://en.wikipedia.org/wiki/User:PliskorCor) | 6,391 |
+| 2026-10-26 01:05:57 | [Faranji](https://en.wikipedia.org/wiki/Faranji) | [Soran](https://en.wikipedia.org/wiki/User:Soran) | 1,700 |
+| 2026-10-26 01:07:55 | [2026 Korea Open (badminton)](https://en.wikipedia.org/wiki/2026_Korea_Open_%28badminton%29) | [Faiz Abbsy](https://en.wikipedia.org/wiki/User:Faiz_Abbsy) | 43,167 |
+| 2026-10-26 01:08:06 | [Brian Pouniu](https://en.wikipedia.org/wiki/Brian_Pouniu) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,686 |
+| 2026-10-26 01:15:49 | [United Airlines Flight 1854](https://en.wikipedia.org/wiki/United_Airlines_Flight_1854) | [LiamTera](https://en.wikipedia.org/wiki/User:LiamTera) | 129 |
+| 2026-10-26 01:16:12 | [List of presidential trips made by Ronald Reagan (1986)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_Ronald_Reagan_%281986%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 15,828 |
+| 2026-10-26 01:19:55 | [Paramount Records (disambiguation)](https://en.wikipedia.org/wiki/Paramount_Records_%28disambiguation%29) | [Laterthanyouthink](https://en.wikipedia.org/wiki/User:Laterthanyouthink) | 576 |
