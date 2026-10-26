@@ -13,49 +13,72 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-26 08:18 UTC](data/en/new-articles-2026-10-26T08-18-41Z.csv) | 17 |
-| Japanese | `ja` | [2026-10-26 08:18 UTC](data/ja/new-articles-2026-10-26T08-18-41Z.csv) | 9 |
-| Chinese | `zh` | [2026-10-26 08:18 UTC](data/zh/new-articles-2026-10-26T08-18-41Z.csv) | 9 |
-| French | `fr` | [2026-10-26 08:18 UTC](data/fr/new-articles-2026-10-26T08-18-41Z.csv) | 4 |
-| German | `de` | [2026-10-26 08:18 UTC](data/de/new-articles-2026-10-26T08-18-41Z.csv) | 11 |
-| Russian | `ru` | [2026-10-26 08:18 UTC](data/ru/new-articles-2026-10-26T08-18-41Z.csv) | 8 |
-| Spanish | `es` | [2026-10-26 08:18 UTC](data/es/new-articles-2026-10-26T08-18-41Z.csv) | 4 |
-| Italian | `it` | [2026-10-26 08:18 UTC](data/it/new-articles-2026-10-26T08-18-41Z.csv) | 3 |
+| English | `en` | [2026-10-26 09:18 UTC](data/en/new-articles-2026-10-26T09-18-59Z.csv) | 40 |
+| Japanese | `ja` | [2026-10-26 09:18 UTC](data/ja/new-articles-2026-10-26T09-18-59Z.csv) | 11 |
+| Chinese | `zh` | [2026-10-26 09:18 UTC](data/zh/new-articles-2026-10-26T09-18-59Z.csv) | 14 |
+| French | `fr` | [2026-10-26 09:18 UTC](data/fr/new-articles-2026-10-26T09-18-59Z.csv) | 8 |
+| German | `de` | [2026-10-26 09:18 UTC](data/de/new-articles-2026-10-26T09-18-59Z.csv) | 14 |
+| Russian | `ru` | [2026-10-26 09:18 UTC](data/ru/new-articles-2026-10-26T09-18-59Z.csv) | 15 |
+| Spanish | `es` | [2026-10-26 09:18 UTC](data/es/new-articles-2026-10-26T09-18-59Z.csv) | 11 |
+| Italian | `it` | [2026-10-26 09:18 UTC](data/it/new-articles-2026-10-26T09-18-59Z.csv) | 9 |
 | Portuguese | `pt` | [2026-10-26 08:18 UTC](data/pt/new-articles-2026-10-26T08-18-41Z.csv) | 1 |
-| Polish | `pl` | [2026-10-26 08:18 UTC](data/pl/new-articles-2026-10-26T08-18-41Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-26 08:18 UTC](data/ar/new-articles-2026-10-26T08-18-41Z.csv) | 3 |
-| Persian | `fa` | [2026-10-26 08:18 UTC](data/fa/new-articles-2026-10-26T08-18-41Z.csv) | 20 |
-| Turkish | `tr` | [2026-10-26 08:18 UTC](data/tr/new-articles-2026-10-26T08-18-41Z.csv) | 5 |
+| Polish | `pl` | [2026-10-26 09:18 UTC](data/pl/new-articles-2026-10-26T09-18-59Z.csv) | 10 |
+| Arabic | `ar` | [2026-10-26 09:18 UTC](data/ar/new-articles-2026-10-26T09-18-59Z.csv) | 3 |
+| Persian | `fa` | [2026-10-26 09:18 UTC](data/fa/new-articles-2026-10-26T09-18-59Z.csv) | 15 |
+| Turkish | `tr` | [2026-10-26 09:18 UTC](data/tr/new-articles-2026-10-26T09-18-59Z.csv) | 1 |
 | Hebrew | `he` | [2026-10-26 07:18 UTC](data/he/new-articles-2026-10-26T07-18-42Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-26 08:18 UTC](data/sv/new-articles-2026-10-26T08-18-41Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-26 08:18 UTC](data/nl/new-articles-2026-10-26T08-18-41Z.csv) | 3 |
-| Korean | `ko` | [2026-10-26 07:18 UTC](data/ko/new-articles-2026-10-26T07-18-42Z.csv) | 5 |
-| Indonesian | `id` | [2026-10-26 08:18 UTC](data/id/new-articles-2026-10-26T08-18-41Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-10-26 08:18 UTC](data/uk/new-articles-2026-10-26T08-18-41Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-26 08:18 UTC](data/vi/new-articles-2026-10-26T08-18-41Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-26 09:18 UTC](data/sv/new-articles-2026-10-26T09-18-59Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-26 09:18 UTC](data/nl/new-articles-2026-10-26T09-18-59Z.csv) | 5 |
+| Korean | `ko` | [2026-10-26 09:18 UTC](data/ko/new-articles-2026-10-26T09-18-59Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-26 09:18 UTC](data/id/new-articles-2026-10-26T09-18-59Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-10-26 09:18 UTC](data/uk/new-articles-2026-10-26T09-18-59Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-26 09:18 UTC](data/vi/new-articles-2026-10-26T09-18-59Z.csv) | 1 |
 
-## English (en) — 2026-10-26 08:18 UTC
+## English (en) — 2026-10-26 09:18 UTC
 
-New articles created between 2026-10-26 07:18 UTC and 2026-10-26 08:18 UTC.
+New articles created between 2026-10-26 08:18 UTC and 2026-10-26 09:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-26T08-18-41Z.csv)
+[Full CSV](data/en/new-articles-2026-10-26T09-18-59Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-26 07:19:54 | [2022 U.S. Open Pool Championship](https://en.wikipedia.org/wiki/2022_U.S._Open_Pool_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 7,812 |
-| 2026-10-26 07:22:15 | [2017 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2017_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,753 |
-| 2026-10-26 07:33:18 | [Killings of PMOI Members by the Iranian Regime](https://en.wikipedia.org/wiki/Killings_of_PMOI_Members_by_the_Iranian_Regime) | [Silsden](https://en.wikipedia.org/wiki/User:Silsden) | 1,743 |
-| 2026-10-26 07:40:06 | [2017 U.S. Open 9-ball Championship](https://en.wikipedia.org/wiki/2017_U.S._Open_9-ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,749 |
-| 2026-10-26 07:48:10 | [2013 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2013_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,905 |
-| 2026-10-26 07:48:45 | [Virginio Domingo Bressanelli](https://en.wikipedia.org/wiki/Virginio_Domingo_Bressanelli) | [Noel baran](https://en.wikipedia.org/wiki/User:Noel_baran) | 7,092 |
-| 2026-10-26 07:52:27 | [20th Infantry](https://en.wikipedia.org/wiki/20th_Infantry) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 227 |
-| 2026-10-26 07:52:38 | [2012 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2012_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,744 |
-| 2026-10-26 07:53:43 | [Blaxland Crossing Reserve](https://en.wikipedia.org/wiki/Blaxland_Crossing_Reserve) | [Yucalyptus](https://en.wikipedia.org/wiki/User:Yucalyptus) | 1,902 |
-| 2026-10-26 07:57:10 | [2011 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2011_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,286 |
-| 2026-10-26 08:05:03 | [2009 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2009_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,514 |
-| 2026-10-26 08:06:16 | [Garividi Lakshmi](https://en.wikipedia.org/wiki/Garividi_Lakshmi) | [Jayanthkumar123](https://en.wikipedia.org/wiki/User:Jayanthkumar123) | 3,661 |
-| 2026-10-26 08:08:14 | [2008 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2008_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,444 |
-| 2026-10-26 08:10:49 | [2007 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2007_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,788 |
-| 2026-10-26 08:12:05 | [2006 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2006_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,555 |
-| 2026-10-26 08:12:44 | [Telecel Group](https://en.wikipedia.org/wiki/Telecel_Group) | [Sandiooses](https://en.wikipedia.org/wiki/User:Sandiooses) | 1,773 |
-| 2026-10-26 08:15:33 | [2005 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2005_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 6,467 |
+| 2026-10-26 08:21:29 | [Bollineni Venkata Ramarao](https://en.wikipedia.org/wiki/Bollineni_Venkata_Ramarao) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,439 |
+| 2026-10-26 08:21:49 | [Planolinus fasciatus](https://en.wikipedia.org/wiki/Planolinus_fasciatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,692 |
+| 2026-10-26 08:25:02 | [Wildenstein (Verwaltungsverband)](https://en.wikipedia.org/wiki/Wildenstein_%28Verwaltungsverband%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,374 |
+| 2026-10-26 08:25:54 | [Platyderides](https://en.wikipedia.org/wiki/Platyderides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,143 |
+| 2026-10-26 08:28:49 | [Platyderides arrowi](https://en.wikipedia.org/wiki/Platyderides_arrowi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,025 |
+| 2026-10-26 08:31:04 | [EBTNA](https://en.wikipedia.org/wiki/EBTNA) | [Baki5560](https://en.wikipedia.org/wiki/User:Baki5560) | 2,097 |
+| 2026-10-26 08:32:12 | [West Asian Badminton Championships](https://en.wikipedia.org/wiki/West_Asian_Badminton_Championships) | [Fanminton](https://en.wikipedia.org/wiki/User:Fanminton) | 12,239 |
+| 2026-10-26 08:37:33 | [Inside (2006 film)](https://en.wikipedia.org/wiki/Inside_%282006_film%29) | [Donut Men](https://en.wikipedia.org/wiki/User:Donut_Men) | 2,559 |
+| 2026-10-26 08:39:35 | [Pleuraphodius mutilus](https://en.wikipedia.org/wiki/Pleuraphodius_mutilus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,972 |
+| 2026-10-26 08:40:41 | [2004 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2004_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,382 |
+| 2026-10-26 08:44:05 | [Polamreddy Srinivasulu Reddy](https://en.wikipedia.org/wiki/Polamreddy_Srinivasulu_Reddy) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,698 |
+| 2026-10-26 08:44:53 | [Brompton (ward)](https://en.wikipedia.org/wiki/Brompton_%28ward%29) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 2,741 |
+| 2026-10-26 08:46:32 | [Diehsa](https://en.wikipedia.org/wiki/Diehsa) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,447 |
+| 2026-10-26 08:47:26 | [2003 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2003_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,534 |
+| 2026-10-26 08:48:09 | [First Military Region (Yugoslavia)](https://en.wikipedia.org/wiki/First_Military_Region_%28Yugoslavia%29) | [Buckshot06](https://en.wikipedia.org/wiki/User:Buckshot06) | 2,164 |
+| 2026-10-26 08:48:19 | [2002 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2002_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,466 |
+| 2026-10-26 08:49:02 | [Reginald Stuart Goddard](https://en.wikipedia.org/wiki/Reginald_Stuart_Goddard) | [Owain.davies](https://en.wikipedia.org/wiki/User:Owain.davies) | 850 |
+| 2026-10-26 08:50:33 | [Podotenoides](https://en.wikipedia.org/wiki/Podotenoides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,359 |
+| 2026-10-26 08:51:10 | [2001 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2001_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,505 |
+| 2026-10-26 08:52:29 | [Weißer Schöps/Neiße](https://en.wikipedia.org/wiki/Wei%C3%9Fer_Sch%C3%B6ps/Nei%C3%9Fe) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,494 |
+| 2026-10-26 08:53:24 | [2026 World Aesthetic Group Gymnastics Championships](https://en.wikipedia.org/wiki/2026_World_Aesthetic_Group_Gymnastics_Championships) | [Majochka](https://en.wikipedia.org/wiki/User:Majochka) | 2,333 |
+| 2026-10-26 08:54:54 | [Siege of Algiers (1274)](https://en.wikipedia.org/wiki/Siege_of_Algiers_%281274%29) | [Based tunisian](https://en.wikipedia.org/wiki/User:Based_tunisian) | 3,989 |
+| 2026-10-26 08:55:07 | [2000 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/2000_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,572 |
+| 2026-10-26 08:56:14 | [2017–18 FC Nitra season](https://en.wikipedia.org/wiki/2017%E2%80%9318_FC_Nitra_season) | [Lazio](https://en.wikipedia.org/wiki/User:Lazio) | 50,872 |
+| 2026-10-26 08:57:18 | [1999 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/1999_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,622 |
+| 2026-10-26 08:58:47 | [1998 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/1998_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,430 |
+| 2026-10-26 08:59:44 | [Podotenus insignior](https://en.wikipedia.org/wiki/Podotenus_insignior) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,214 |
+| 2026-10-26 09:04:09 | [1997 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/1997_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,483 |
+| 2026-10-26 09:04:15 | [Pseudacrossus grombczewskyi](https://en.wikipedia.org/wiki/Pseudacrossus_grombczewskyi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,117 |
+| 2026-10-26 09:05:38 | [1996 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/1996_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,427 |
+| 2026-10-26 09:07:48 | [Miss Saigon (original London cast recording)](https://en.wikipedia.org/wiki/Miss_Saigon_%28original_London_cast_recording%29) | [Moscow Connection](https://en.wikipedia.org/wiki/User:Moscow_Connection) | 4,073 |
+| 2026-10-26 09:08:29 | [Eilenburg-West](https://en.wikipedia.org/wiki/Eilenburg-West) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,348 |
+| 2026-10-26 09:09:20 | [1995 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/1995_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,417 |
+| 2026-10-26 09:10:12 | [Pseudoagoliinus](https://en.wikipedia.org/wiki/Pseudoagoliinus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,979 |
+| 2026-10-26 09:11:38 | [1994 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/1994_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,450 |
+| 2026-10-26 09:12:55 | [Pothula Ramarao](https://en.wikipedia.org/wiki/Pothula_Ramarao) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,799 |
+| 2026-10-26 09:14:31 | [Pseudoagoliinus sinuatipes](https://en.wikipedia.org/wiki/Pseudoagoliinus_sinuatipes) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,021 |
+| 2026-10-26 09:15:01 | [Phu Langka National Park](https://en.wikipedia.org/wiki/Phu_Langka_National_Park) | [Declangi](https://en.wikipedia.org/wiki/User:Declangi) | 3,156 |
+| 2026-10-26 09:15:50 | [1993 U.S. Open 9-Ball Championship](https://en.wikipedia.org/wiki/1993_U.S._Open_9-Ball_Championship) | [Naxxaramas](https://en.wikipedia.org/wiki/User:Naxxaramas) | 5,303 |
+| 2026-10-26 09:17:41 | [Jägerswald](https://en.wikipedia.org/wiki/J%C3%A4gerswald) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,441 |
