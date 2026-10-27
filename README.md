@@ -13,49 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-27 06:19 UTC](data/en/new-articles-2026-10-27T06-19-27Z.csv) | 17 |
-| Japanese | `ja` | [2026-10-27 06:19 UTC](data/ja/new-articles-2026-10-27T06-19-27Z.csv) | 14 |
-| Chinese | `zh` | [2026-10-27 06:19 UTC](data/zh/new-articles-2026-10-27T06-19-27Z.csv) | 7 |
+| English | `en` | [2026-10-27 07:20 UTC](data/en/new-articles-2026-10-27T07-20-52Z.csv) | 22 |
+| Japanese | `ja` | [2026-10-27 07:20 UTC](data/ja/new-articles-2026-10-27T07-20-52Z.csv) | 17 |
+| Chinese | `zh` | [2026-10-27 07:20 UTC](data/zh/new-articles-2026-10-27T07-20-52Z.csv) | 12 |
 | French | `fr` | [2026-10-27 05:18 UTC](data/fr/new-articles-2026-10-27T05-18-58Z.csv) | 1 |
-| German | `de` | [2026-10-27 06:19 UTC](data/de/new-articles-2026-10-27T06-19-27Z.csv) | 3 |
-| Russian | `ru` | [2026-10-27 06:19 UTC](data/ru/new-articles-2026-10-27T06-19-27Z.csv) | 4 |
-| Spanish | `es` | [2026-10-27 06:19 UTC](data/es/new-articles-2026-10-27T06-19-27Z.csv) | 5 |
-| Italian | `it` | [2026-10-27 06:19 UTC](data/it/new-articles-2026-10-27T06-19-27Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-27 06:19 UTC](data/pt/new-articles-2026-10-27T06-19-27Z.csv) | 4 |
-| Polish | `pl` | [2026-10-27 06:19 UTC](data/pl/new-articles-2026-10-27T06-19-27Z.csv) | 2 |
+| German | `de` | [2026-10-27 07:20 UTC](data/de/new-articles-2026-10-27T07-20-52Z.csv) | 5 |
+| Russian | `ru` | [2026-10-27 07:20 UTC](data/ru/new-articles-2026-10-27T07-20-52Z.csv) | 8 |
+| Spanish | `es` | [2026-10-27 07:20 UTC](data/es/new-articles-2026-10-27T07-20-52Z.csv) | 1 |
+| Italian | `it` | [2026-10-27 07:20 UTC](data/it/new-articles-2026-10-27T07-20-52Z.csv) | 3 |
+| Portuguese | `pt` | [2026-10-27 07:20 UTC](data/pt/new-articles-2026-10-27T07-20-52Z.csv) | 4 |
+| Polish | `pl` | [2026-10-27 07:20 UTC](data/pl/new-articles-2026-10-27T07-20-52Z.csv) | 10 |
 | Arabic | `ar` | [2026-10-27 05:18 UTC](data/ar/new-articles-2026-10-27T05-18-58Z.csv) | 1 |
-| Persian | `fa` | [2026-10-27 06:19 UTC](data/fa/new-articles-2026-10-27T06-19-27Z.csv) | 2 |
-| Turkish | `tr` | [2026-10-27 06:19 UTC](data/tr/new-articles-2026-10-27T06-19-27Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-27 06:19 UTC](data/he/new-articles-2026-10-27T06-19-27Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-27 02:19 UTC](data/sv/new-articles-2026-10-27T02-19-21Z.csv) | 3 |
+| Persian | `fa` | [2026-10-27 07:20 UTC](data/fa/new-articles-2026-10-27T07-20-52Z.csv) | 3 |
+| Turkish | `tr` | [2026-10-27 07:20 UTC](data/tr/new-articles-2026-10-27T07-20-52Z.csv) | 77 |
+| Hebrew | `he` | [2026-10-27 07:20 UTC](data/he/new-articles-2026-10-27T07-20-52Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-27 07:20 UTC](data/sv/new-articles-2026-10-27T07-20-52Z.csv) | 2 |
 | Dutch | `nl` | [2026-10-27 05:18 UTC](data/nl/new-articles-2026-10-27T05-18-58Z.csv) | 1 |
-| Korean | `ko` | [2026-10-27 06:19 UTC](data/ko/new-articles-2026-10-27T06-19-27Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-27 06:19 UTC](data/id/new-articles-2026-10-27T06-19-27Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-10-27 06:19 UTC](data/uk/new-articles-2026-10-27T06-19-27Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-10-27 06:19 UTC](data/vi/new-articles-2026-10-27T06-19-27Z.csv) | 3 |
+| Korean | `ko` | [2026-10-27 07:20 UTC](data/ko/new-articles-2026-10-27T07-20-52Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-27 07:20 UTC](data/id/new-articles-2026-10-27T07-20-52Z.csv) | 12 |
+| Ukrainian | `uk` | [2026-10-27 07:20 UTC](data/uk/new-articles-2026-10-27T07-20-52Z.csv) | 4 |
+| Vietnamese | `vi` | [2026-10-27 07:20 UTC](data/vi/new-articles-2026-10-27T07-20-52Z.csv) | 1 |
 
-## English (en) — 2026-10-27 06:19 UTC
+## English (en) — 2026-10-27 07:20 UTC
 
-New articles created between 2026-10-27 05:18 UTC and 2026-10-27 06:19 UTC.
+New articles created between 2026-10-27 06:19 UTC and 2026-10-27 07:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-27T06-19-27Z.csv)
+[Full CSV](data/en/new-articles-2026-10-27T07-20-52Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-27 05:20:20 | [Help! My In-Laws Are Vampires!](https://en.wikipedia.org/wiki/Help%21_My_In-Laws_Are_Vampires%21) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,587 |
-| 2026-10-27 05:25:06 | [Battle of Tilimsan](https://en.wikipedia.org/wiki/Battle_of_Tilimsan) | [MedAdventurer](https://en.wikipedia.org/wiki/User:MedAdventurer) | 4,148 |
-| 2026-10-27 05:26:20 | [Fabrizio Bucella](https://en.wikipedia.org/wiki/Fabrizio_Bucella) | [Siamjayed7](https://en.wikipedia.org/wiki/User:Siamjayed7) | 8,052 |
-| 2026-10-27 05:26:53 | [Leshan, Pejë](https://en.wikipedia.org/wiki/Leshan%2C_Pej%C3%AB) | [Kiyoweap](https://en.wikipedia.org/wiki/User:Kiyoweap) | 4,046 |
-| 2026-10-27 05:34:35 | [Stigmaphyllon timoriense](https://en.wikipedia.org/wiki/Stigmaphyllon_timoriense) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 2,888 |
-| 2026-10-27 05:36:09 | [Fazlur Rahman Medical College](https://en.wikipedia.org/wiki/Fazlur_Rahman_Medical_College) | [Mazhar Zarif](https://en.wikipedia.org/wiki/User:Mazhar_Zarif) | 4,370 |
-| 2026-10-27 05:42:36 | [Valorant Champions Tour Pacific](https://en.wikipedia.org/wiki/Valorant_Champions_Tour_Pacific) | [Swishpav25](https://en.wikipedia.org/wiki/User:Swishpav25) | 8,130 |
-| 2026-10-27 05:49:10 | [Rasgedhara](https://en.wikipedia.org/wiki/Rasgedhara) | [Ahmedjailamfiyaz](https://en.wikipedia.org/wiki/User:Ahmedjailamfiyaz) | 786 |
-| 2026-10-27 05:54:15 | [A Freaking Wedding!](https://en.wikipedia.org/wiki/A_Freaking_Wedding%21) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,348 |
-| 2026-10-27 05:59:11 | [Mohammad Foyez Ullah](https://en.wikipedia.org/wiki/Mohammad_Foyez_Ullah) | [Wikikmhk](https://en.wikipedia.org/wiki/User:Wikikmhk) | 16,645 |
-| 2026-10-27 06:00:26 | [Goings](https://en.wikipedia.org/wiki/Goings) | [Aneirinn](https://en.wikipedia.org/wiki/User:Aneirinn) | 409 |
-| 2026-10-27 06:00:52 | [Lander Olasagasti Guillén](https://en.wikipedia.org/wiki/Lander_Olasagasti_Guill%C3%A9n) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 3,124 |
-| 2026-10-27 06:01:49 | [Levi Harper](https://en.wikipedia.org/wiki/Levi_Harper) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 6,894 |
-| 2026-10-27 06:02:37 | [Ludovic Pommeret](https://en.wikipedia.org/wiki/Ludovic_Pommeret) | [Steven Walling](https://en.wikipedia.org/wiki/User:Steven_Walling) | 1,854 |
-| 2026-10-27 06:05:35 | [Hardy Island (New Brunswick)](https://en.wikipedia.org/wiki/Hardy_Island_%28New_Brunswick%29) | [New Yathrib - Fundy Historian](https://en.wikipedia.org/wiki/User:New_Yathrib_-_Fundy_Historian) | 1,606 |
-| 2026-10-27 06:18:33 | [In fuga con Babbo Natale](https://en.wikipedia.org/wiki/In_fuga_con_Babbo_Natale) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 2,438 |
-| 2026-10-27 06:18:35 | [Olivier Nsengimana](https://en.wikipedia.org/wiki/Olivier_Nsengimana) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 7,528 |
+| 2026-10-27 06:20:14 | [Infinix Smart 8](https://en.wikipedia.org/wiki/Infinix_Smart_8) | [Daniel Dungca](https://en.wikipedia.org/wiki/User:Daniel_Dungca) | 5,677 |
+| 2026-10-27 06:24:44 | [2026–27 UC Riverside Highlanders men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_UC_Riverside_Highlanders_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 26,689 |
+| 2026-10-27 06:26:02 | [Wikipeda:GLAM/Timaru](https://en.wikipedia.org/wiki/Wikipeda%3AGLAM/Timaru) | [Giantflightlessbirds](https://en.wikipedia.org/wiki/User:Giantflightlessbirds) | 8,679 |
+| 2026-10-27 06:30:29 | [Stemonyphantes lineatus](https://en.wikipedia.org/wiki/Stemonyphantes_lineatus) | [MaxLorax](https://en.wikipedia.org/wiki/User:MaxLorax) | 1,393 |
+| 2026-10-27 06:35:25 | [2026 Giro del Veneto](https://en.wikipedia.org/wiki/2026_Giro_del_Veneto) | [TheTimeBombII](https://en.wikipedia.org/wiki/User:TheTimeBombII) | 4,039 |
+| 2026-10-27 06:39:29 | [Think of You (Kettama and Prospa song)](https://en.wikipedia.org/wiki/Think_of_You_%28Kettama_and_Prospa_song%29) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 2,969 |
+| 2026-10-27 06:40:19 | [Harpactocrates gredensis](https://en.wikipedia.org/wiki/Harpactocrates_gredensis) | [MaxLorax](https://en.wikipedia.org/wiki/User:MaxLorax) | 1,217 |
+| 2026-10-27 06:44:44 | [Helio Mobile](https://en.wikipedia.org/wiki/Helio_Mobile) | [M. Tushar Hossain](https://en.wikipedia.org/wiki/User:M._Tushar_Hossain) | 4,401 |
+| 2026-10-27 06:45:52 | [Fakhitah bint Ali](https://en.wikipedia.org/wiki/Fakhitah_bint_Ali) | [AhsinXmojo32](https://en.wikipedia.org/wiki/User:AhsinXmojo32) | 7,054 |
+| 2026-10-27 06:50:50 | [2026 World Wrestling Championships – Women's freestyle 53 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Women%27s_freestyle_53_kg) | [HOSODO](https://en.wikipedia.org/wiki/User:HOSODO) | 5,140 |
+| 2026-10-27 06:51:02 | [Joseph Williams (album)](https://en.wikipedia.org/wiki/Joseph_Williams_%28album%29) | [RicksMusic34](https://en.wikipedia.org/wiki/User:RicksMusic34) | 5,253 |
+| 2026-10-27 06:51:56 | [Rupertsland Institute](https://en.wikipedia.org/wiki/Rupertsland_Institute) | [WindBorneListener](https://en.wikipedia.org/wiki/User:WindBorneListener) | 2,808 |
+| 2026-10-27 06:52:33 | [2026–27 Western Kentucky Hilltoppers basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Western_Kentucky_Hilltoppers_basketball_team) | [LakersFanatic15](https://en.wikipedia.org/wiki/User:LakersFanatic15) | 27,259 |
+| 2026-10-27 06:55:21 | [Maxym Lavallée](https://en.wikipedia.org/wiki/Maxym_Lavall%C3%A9e) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 6,335 |
+| 2026-10-27 06:57:10 | [Calicnemiinae](https://en.wikipedia.org/wiki/Calicnemiinae) | [John Tann](https://en.wikipedia.org/wiki/User:John_Tann) | 2,378 |
+| 2026-10-27 06:59:37 | [St Dunstan's Church, Snargate](https://en.wikipedia.org/wiki/St_Dunstan%27s_Church%2C_Snargate) | [AtticTapestry](https://en.wikipedia.org/wiki/User:AtticTapestry) | 5,151 |
+| 2026-10-27 07:01:47 | [2026 Veneto Classic](https://en.wikipedia.org/wiki/2026_Veneto_Classic) | [TheTimeBombII](https://en.wikipedia.org/wiki/User:TheTimeBombII) | 4,053 |
+| 2026-10-27 07:06:39 | [Hydrangea fauriei](https://en.wikipedia.org/wiki/Hydrangea_fauriei) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 1,914 |
+| 2026-10-27 07:07:44 | [Ecstasy (Over & Over)](https://en.wikipedia.org/wiki/Ecstasy_%28Over_%26_Over%29) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 3,752 |
+| 2026-10-27 07:12:26 | [Disparoneurinae](https://en.wikipedia.org/wiki/Disparoneurinae) | [John Tann](https://en.wikipedia.org/wiki/User:John_Tann) | 2,075 |
+| 2026-10-27 07:15:26 | [Marinarozelotes bardiae](https://en.wikipedia.org/wiki/Marinarozelotes_bardiae) | [MaxLorax](https://en.wikipedia.org/wiki/User:MaxLorax) | 1,163 |
+| 2026-10-27 07:16:25 | [2026 World Wrestling Championships – Women's freestyle 62 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Women%27s_freestyle_62_kg) | [HOSODO](https://en.wikipedia.org/wiki/User:HOSODO) | 5,030 |
