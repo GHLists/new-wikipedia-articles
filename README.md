@@ -13,47 +13,60 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-27 10:18 UTC](data/en/new-articles-2026-10-27T10-18-55Z.csv) | 15 |
-| Japanese | `ja` | [2026-10-27 10:18 UTC](data/ja/new-articles-2026-10-27T10-18-55Z.csv) | 13 |
-| Chinese | `zh` | [2026-10-27 10:18 UTC](data/zh/new-articles-2026-10-27T10-18-55Z.csv) | 4 |
-| French | `fr` | [2026-10-27 10:18 UTC](data/fr/new-articles-2026-10-27T10-18-55Z.csv) | 7 |
-| German | `de` | [2026-10-27 10:18 UTC](data/de/new-articles-2026-10-27T10-18-55Z.csv) | 13 |
-| Russian | `ru` | [2026-10-27 10:18 UTC](data/ru/new-articles-2026-10-27T10-18-55Z.csv) | 10 |
-| Spanish | `es` | [2026-10-27 10:18 UTC](data/es/new-articles-2026-10-27T10-18-55Z.csv) | 5 |
-| Italian | `it` | [2026-10-27 10:18 UTC](data/it/new-articles-2026-10-27T10-18-55Z.csv) | 5 |
-| Portuguese | `pt` | [2026-10-27 10:18 UTC](data/pt/new-articles-2026-10-27T10-18-55Z.csv) | 2 |
-| Polish | `pl` | [2026-10-27 10:18 UTC](data/pl/new-articles-2026-10-27T10-18-55Z.csv) | 5 |
-| Arabic | `ar` | [2026-10-27 10:18 UTC](data/ar/new-articles-2026-10-27T10-18-55Z.csv) | 1 |
-| Persian | `fa` | [2026-10-27 10:18 UTC](data/fa/new-articles-2026-10-27T10-18-55Z.csv) | 2 |
-| Turkish | `tr` | [2026-10-27 10:18 UTC](data/tr/new-articles-2026-10-27T10-18-55Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-27 10:18 UTC](data/he/new-articles-2026-10-27T10-18-55Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-27 10:18 UTC](data/sv/new-articles-2026-10-27T10-18-55Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-27 10:18 UTC](data/nl/new-articles-2026-10-27T10-18-55Z.csv) | 1 |
-| Korean | `ko` | [2026-10-27 10:18 UTC](data/ko/new-articles-2026-10-27T10-18-55Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-27 10:18 UTC](data/id/new-articles-2026-10-27T10-18-55Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-10-27 10:18 UTC](data/uk/new-articles-2026-10-27T10-18-55Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-10-27 10:18 UTC](data/vi/new-articles-2026-10-27T10-18-55Z.csv) | 2 |
+| English | `en` | [2026-10-27 11:19 UTC](data/en/new-articles-2026-10-27T11-19-16Z.csv) | 28 |
+| Japanese | `ja` | [2026-10-27 11:19 UTC](data/ja/new-articles-2026-10-27T11-19-16Z.csv) | 22 |
+| Chinese | `zh` | [2026-10-27 11:19 UTC](data/zh/new-articles-2026-10-27T11-19-16Z.csv) | 17 |
+| French | `fr` | [2026-10-27 11:19 UTC](data/fr/new-articles-2026-10-27T11-19-16Z.csv) | 9 |
+| German | `de` | [2026-10-27 11:19 UTC](data/de/new-articles-2026-10-27T11-19-16Z.csv) | 5 |
+| Russian | `ru` | [2026-10-27 11:19 UTC](data/ru/new-articles-2026-10-27T11-19-16Z.csv) | 13 |
+| Spanish | `es` | [2026-10-27 11:19 UTC](data/es/new-articles-2026-10-27T11-19-16Z.csv) | 3 |
+| Italian | `it` | [2026-10-27 11:19 UTC](data/it/new-articles-2026-10-27T11-19-16Z.csv) | 11 |
+| Portuguese | `pt` | [2026-10-27 11:19 UTC](data/pt/new-articles-2026-10-27T11-19-16Z.csv) | 11 |
+| Polish | `pl` | [2026-10-27 11:19 UTC](data/pl/new-articles-2026-10-27T11-19-16Z.csv) | 11 |
+| Arabic | `ar` | [2026-10-27 11:19 UTC](data/ar/new-articles-2026-10-27T11-19-16Z.csv) | 2 |
+| Persian | `fa` | [2026-10-27 11:19 UTC](data/fa/new-articles-2026-10-27T11-19-16Z.csv) | 13 |
+| Turkish | `tr` | [2026-10-27 11:19 UTC](data/tr/new-articles-2026-10-27T11-19-16Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-27 11:19 UTC](data/he/new-articles-2026-10-27T11-19-16Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-27 11:19 UTC](data/sv/new-articles-2026-10-27T11-19-16Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-27 11:19 UTC](data/nl/new-articles-2026-10-27T11-19-16Z.csv) | 2 |
+| Korean | `ko` | [2026-10-27 11:19 UTC](data/ko/new-articles-2026-10-27T11-19-16Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-27 11:19 UTC](data/id/new-articles-2026-10-27T11-19-16Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-10-27 11:19 UTC](data/uk/new-articles-2026-10-27T11-19-16Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-27 11:19 UTC](data/vi/new-articles-2026-10-27T11-19-16Z.csv) | 1 |
 
-## English (en) — 2026-10-27 10:18 UTC
+## English (en) — 2026-10-27 11:19 UTC
 
-New articles created between 2026-10-27 09:19 UTC and 2026-10-27 10:18 UTC.
+New articles created between 2026-10-27 10:18 UTC and 2026-10-27 11:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-27T10-18-55Z.csv)
+[Full CSV](data/en/new-articles-2026-10-27T11-19-16Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-27 09:20:07 | [Marble racing](https://en.wikipedia.org/wiki/Marble_racing) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 5,289 |
-| 2026-10-27 09:21:47 | [Nennslingen (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Nennslingen_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,540 |
-| 2026-10-27 09:31:36 | [Sergei Vershinin](https://en.wikipedia.org/wiki/Sergei_Vershinin) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 9,896 |
-| 2026-10-27 09:38:19 | [ACS Omega Sport București](https://en.wikipedia.org/wiki/ACS_Omega_Sport_Bucure%C8%99ti) | [AdrianCioran](https://en.wikipedia.org/wiki/User:AdrianCioran) | 2,983 |
-| 2026-10-27 09:41:01 | [Teciem](https://en.wikipedia.org/wiki/Teciem) | [Liné1](https://en.wikipedia.org/wiki/User:Lin%C3%A91) | 4,696 |
-| 2026-10-27 09:49:41 | [Badminton at the 2026 Asian Para Games – Women's doubles SL3–SU5](https://en.wikipedia.org/wiki/Badminton_at_the_2026_Asian_Para_Games_%E2%80%93_Women%27s_doubles_SL3%E2%80%93SU5) | [Neeelzzz20](https://en.wikipedia.org/wiki/User:Neeelzzz20) | 3,634 |
-| 2026-10-27 09:50:45 | [Innistrad: Midnight Hunt](https://en.wikipedia.org/wiki/Innistrad%3A_Midnight_Hunt) | [BoldedExclamation](https://en.wikipedia.org/wiki/User:BoldedExclamation) | 1,362 |
-| 2026-10-27 09:51:15 | [Ivan Volynkin](https://en.wikipedia.org/wiki/Ivan_Volynkin) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 15,361 |
-| 2026-10-27 10:01:47 | [Trần Thị Thu Xuân](https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%E1%BB%8B_Thu_Xu%C3%A2n) | [Thplam2004](https://en.wikipedia.org/wiki/User:Thplam2004) | 5,235 |
-| 2026-10-27 10:05:33 | [Rik Peels](https://en.wikipedia.org/wiki/Rik_Peels) | [GerkeHuis](https://en.wikipedia.org/wiki/User:GerkeHuis) | 51,231 |
-| 2026-10-27 10:06:36 | [Bo Frans Elnes Andersson](https://en.wikipedia.org/wiki/Bo_Frans_Elnes_Andersson) | [Dozhiciaerr](https://en.wikipedia.org/wiki/User:Dozhiciaerr) | 2,611 |
-| 2026-10-27 10:07:13 | [2026–27 La Salle Explorers women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Salle_Explorers_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 32,915 |
-| 2026-10-27 10:07:47 | [Traxtion](https://en.wikipedia.org/wiki/Traxtion) | [LJ Holden](https://en.wikipedia.org/wiki/User:LJ_Holden) | 460 |
-| 2026-10-27 10:08:23 | [Gerrit Jacob Boekenoogen](https://en.wikipedia.org/wiki/Gerrit_Jacob_Boekenoogen) | [Andreas Philopater](https://en.wikipedia.org/wiki/User:Andreas_Philopater) | 3,733 |
-| 2026-10-27 10:16:55 | [In Christ Alone (Brian Littrell song)](https://en.wikipedia.org/wiki/In_Christ_Alone_%28Brian_Littrell_song%29) | [Adroalex](https://en.wikipedia.org/wiki/User:Adroalex) | 4,680 |
+| 2026-10-27 10:19:37 | [Ikumbania of Bugwere](https://en.wikipedia.org/wiki/Ikumbania_of_Bugwere) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 4,234 |
+| 2026-10-27 10:19:41 | [Yevgeny Lukyanov](https://en.wikipedia.org/wiki/Yevgeny_Lukyanov) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 11,213 |
+| 2026-10-27 10:21:37 | [Blink Twice (Rose Gray song)](https://en.wikipedia.org/wiki/Blink_Twice_%28Rose_Gray_song%29) | [Meena](https://en.wikipedia.org/wiki/User:Meena) | 7,247 |
+| 2026-10-27 10:23:20 | [2022–23 MFK Tatran Liptovský Mikuláš season](https://en.wikipedia.org/wiki/2022%E2%80%9323_MFK_Tatran_Liptovsk%C3%BD_Mikul%C3%A1%C5%A1_season) | [Rakeck](https://en.wikipedia.org/wiki/User:Rakeck) | 6,779 |
+| 2026-10-27 10:27:15 | [Babenhausen (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Babenhausen_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,699 |
+| 2026-10-27 10:30:43 | [Darius Mulunda](https://en.wikipedia.org/wiki/Darius_Mulunda) | [ClementSyuulu](https://en.wikipedia.org/wiki/User:ClementSyuulu) | 363 |
+| 2026-10-27 10:31:01 | [2027 in Glory](https://en.wikipedia.org/wiki/2027_in_Glory) | [DovTammo](https://en.wikipedia.org/wiki/User:DovTammo) | 3,295 |
+| 2026-10-27 10:33:10 | [Bad Grönenbach (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Bad_Gr%C3%B6nenbach_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,468 |
+| 2026-10-27 10:33:43 | [List of ESA CubeSats](https://en.wikipedia.org/wiki/List_of_ESA_CubeSats) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 23,357 |
+| 2026-10-27 10:34:25 | [Nguyễn Thị Trúc Hương](https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_Tr%C3%BAc_H%C6%B0%C6%A1ng) | [Thplam2004](https://en.wikipedia.org/wiki/User:Thplam2004) | 4,106 |
+| 2026-10-27 10:37:17 | [Curtis Lelash](https://en.wikipedia.org/wiki/Curtis_Lelash) | [ColeMarlon](https://en.wikipedia.org/wiki/User:ColeMarlon) | 4,258 |
+| 2026-10-27 10:38:16 | [Boos (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Boos_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,448 |
+| 2026-10-27 10:43:03 | [The Six (tennis)](https://en.wikipedia.org/wiki/The_Six_%28tennis%29) | [Pearl-Hunter1808](https://en.wikipedia.org/wiki/User:Pearl-Hunter1808) | 4,076 |
+| 2026-10-27 10:43:48 | [Dirlewang (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Dirlewang_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,626 |
+| 2026-10-27 10:47:23 | [To Explain the World: The Discovery of Modern Science](https://en.wikipedia.org/wiki/To_Explain_the_World%3A_The_Discovery_of_Modern_Science) | [Mains Olsen](https://en.wikipedia.org/wiki/User:Mains_Olsen) | 6,744 |
+| 2026-10-27 10:47:58 | [Dan Lewis (Botanist)](https://en.wikipedia.org/wiki/Dan_Lewis_%28Botanist%29) | [Thesauri Visitant](https://en.wikipedia.org/wiki/User:Thesauri_Visitant) | 9,389 |
+| 2026-10-27 10:49:39 | [Erkheim (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Erkheim_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,482 |
+| 2026-10-27 10:58:00 | [How to create a wikipedia page](https://en.wikipedia.org/wiki/How_to_create_a_wikipedia_page) | [Aruntom1947](https://en.wikipedia.org/wiki/User:Aruntom1947) | 6,426 |
+| 2026-10-27 11:01:56 | [FTSE Italia Small Cap](https://en.wikipedia.org/wiki/FTSE_Italia_Small_Cap) | [LorenzMan](https://en.wikipedia.org/wiki/User:LorenzMan) | 24,155 |
+| 2026-10-27 11:03:43 | [FTSE Italia All-Share](https://en.wikipedia.org/wiki/FTSE_Italia_All-Share) | [LorenzMan](https://en.wikipedia.org/wiki/User:LorenzMan) | 53,914 |
+| 2026-10-27 11:04:51 | [My Prisons](https://en.wikipedia.org/wiki/My_Prisons) | [Giulio Negroni](https://en.wikipedia.org/wiki/User:Giulio_Negroni) | 5,031 |
+| 2026-10-27 11:05:10 | [Slim (comedian)](https://en.wikipedia.org/wiki/Slim_%28comedian%29) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 3,102 |
+| 2026-10-27 11:05:55 | [Abu Zakariya campaign in eastern Algeria](https://en.wikipedia.org/wiki/Abu_Zakariya_campaign_in_eastern_Algeria) | [Based tunisian](https://en.wikipedia.org/wiki/User:Based_tunisian) | 5,509 |
+| 2026-10-27 11:06:02 | [FTSE Italia STAR](https://en.wikipedia.org/wiki/FTSE_Italia_STAR) | [LorenzMan](https://en.wikipedia.org/wiki/User:LorenzMan) | 18,601 |
+| 2026-10-27 11:08:27 | [FTSE Italia Growth](https://en.wikipedia.org/wiki/FTSE_Italia_Growth) | [LorenzMan](https://en.wikipedia.org/wiki/User:LorenzMan) | 39,412 |
+| 2026-10-27 11:08:39 | [Andromache (mythology)](https://en.wikipedia.org/wiki/Andromache_%28mythology%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 2,814 |
+| 2026-10-27 11:10:55 | [Spaces on The Spectrum: How Autism Movements Resist Experts and Create Knowledge](https://en.wikipedia.org/wiki/Spaces_on_The_Spectrum%3A_How_Autism_Movements_Resist_Experts_and_Create_Knowledge) | [Boredintheevening](https://en.wikipedia.org/wiki/User:Boredintheevening) | 6,440 |
+| 2026-10-27 11:11:26 | [FTSE Italia Brands](https://en.wikipedia.org/wiki/FTSE_Italia_Brands) | [LorenzMan](https://en.wikipedia.org/wiki/User:LorenzMan) | 8,364 |
