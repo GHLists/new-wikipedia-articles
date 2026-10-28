@@ -14,23 +14,23 @@ further down.
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
 | English | `en` | [2026-10-28 02:18 UTC](data/en/new-articles-2026-10-28T02-18-28Z.csv) | 10 |
-| Japanese | `ja` | [2026-10-28 02:18 UTC](data/ja/new-articles-2026-10-28T02-18-28Z.csv) | 12 |
+| Japanese | `ja` | [2026-10-28 04:18 UTC](data/ja/new-articles-2026-10-28T04-18-37Z.csv) | 9 |
 | Chinese | `zh` | [2026-10-28 02:18 UTC](data/zh/new-articles-2026-10-28T02-18-28Z.csv) | 5 |
-| French | `fr` | [2026-10-28 02:18 UTC](data/fr/new-articles-2026-10-28T02-18-28Z.csv) | 4 |
+| French | `fr` | [2026-10-28 04:18 UTC](data/fr/new-articles-2026-10-28T04-18-37Z.csv) | 1 |
 | German | `de` | [2026-10-28 02:18 UTC](data/de/new-articles-2026-10-28T02-18-28Z.csv) | 3 |
 | Russian | `ru` | [2026-10-28 02:18 UTC](data/ru/new-articles-2026-10-28T02-18-28Z.csv) | 3 |
-| Spanish | `es` | [2026-10-28 03:18 UTC](data/es/new-articles-2026-10-28T03-18-27Z.csv) | 9 |
+| Spanish | `es` | [2026-10-28 04:18 UTC](data/es/new-articles-2026-10-28T04-18-37Z.csv) | 5 |
 | Italian | `it` | [2026-10-28 03:18 UTC](data/it/new-articles-2026-10-28T03-18-27Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-28 02:18 UTC](data/pt/new-articles-2026-10-28T02-18-28Z.csv) | 6 |
+| Portuguese | `pt` | [2026-10-28 04:18 UTC](data/pt/new-articles-2026-10-28T04-18-37Z.csv) | 2 |
 | Polish | `pl` | [2026-10-28 03:18 UTC](data/pl/new-articles-2026-10-28T03-18-27Z.csv) | 1 |
 | Arabic | `ar` | [2026-10-28 03:18 UTC](data/ar/new-articles-2026-10-28T03-18-27Z.csv) | 1 |
-| Persian | `fa` | [2026-10-28 03:18 UTC](data/fa/new-articles-2026-10-28T03-18-27Z.csv) | 1 |
+| Persian | `fa` | [2026-10-28 04:18 UTC](data/fa/new-articles-2026-10-28T04-18-37Z.csv) | 1 |
 | Turkish | `tr` | [2026-10-28 02:18 UTC](data/tr/new-articles-2026-10-28T02-18-28Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-28 01:18 UTC](data/he/new-articles-2026-10-28T01-18-20Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-28 04:18 UTC](data/he/new-articles-2026-10-28T04-18-37Z.csv) | 2 |
 | Swedish | `sv` | [2026-10-28 01:18 UTC](data/sv/new-articles-2026-10-28T01-18-20Z.csv) | 1 |
 | Dutch | `nl` | [2026-10-28 02:18 UTC](data/nl/new-articles-2026-10-28T02-18-28Z.csv) | 1 |
 | Korean | `ko` | [2026-10-28 02:18 UTC](data/ko/new-articles-2026-10-28T02-18-28Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-28 02:18 UTC](data/id/new-articles-2026-10-28T02-18-28Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-28 04:18 UTC](data/id/new-articles-2026-10-28T04-18-37Z.csv) | 8 |
 | Ukrainian | `uk` | [2026-10-28 03:18 UTC](data/uk/new-articles-2026-10-28T03-18-27Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-10-27 17:19 UTC](data/vi/new-articles-2026-10-27T17-19-34Z.csv) | 1 |
 
