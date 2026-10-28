@@ -13,60 +13,56 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-28 22:18 UTC](data/en/new-articles-2026-10-28T22-18-23Z.csv) | 28 |
-| Japanese | `ja` | [2026-10-28 22:18 UTC](data/ja/new-articles-2026-10-28T22-18-23Z.csv) | 1 |
-| Chinese | `zh` | [2026-10-28 22:18 UTC](data/zh/new-articles-2026-10-28T22-18-23Z.csv) | 3 |
-| French | `fr` | [2026-10-28 22:18 UTC](data/fr/new-articles-2026-10-28T22-18-23Z.csv) | 9 |
-| German | `de` | [2026-10-28 22:18 UTC](data/de/new-articles-2026-10-28T22-18-23Z.csv) | 6 |
-| Russian | `ru` | [2026-10-28 22:18 UTC](data/ru/new-articles-2026-10-28T22-18-23Z.csv) | 7 |
-| Spanish | `es` | [2026-10-28 22:18 UTC](data/es/new-articles-2026-10-28T22-18-23Z.csv) | 62 |
-| Italian | `it` | [2026-10-28 22:18 UTC](data/it/new-articles-2026-10-28T22-18-23Z.csv) | 8 |
-| Portuguese | `pt` | [2026-10-28 22:18 UTC](data/pt/new-articles-2026-10-28T22-18-23Z.csv) | 8 |
-| Polish | `pl` | [2026-10-28 22:18 UTC](data/pl/new-articles-2026-10-28T22-18-23Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-28 22:18 UTC](data/ar/new-articles-2026-10-28T22-18-23Z.csv) | 4 |
-| Persian | `fa` | [2026-10-28 22:18 UTC](data/fa/new-articles-2026-10-28T22-18-23Z.csv) | 3 |
-| Turkish | `tr` | [2026-10-28 22:18 UTC](data/tr/new-articles-2026-10-28T22-18-23Z.csv) | 8 |
-| Hebrew | `he` | [2026-10-28 20:18 UTC](data/he/new-articles-2026-10-28T20-18-43Z.csv) | 2 |
+| English | `en` | [2026-10-28 23:18 UTC](data/en/new-articles-2026-10-28T23-18-19Z.csv) | 24 |
+| Japanese | `ja` | [2026-10-28 23:18 UTC](data/ja/new-articles-2026-10-28T23-18-19Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-28 23:18 UTC](data/zh/new-articles-2026-10-28T23-18-19Z.csv) | 1 |
+| French | `fr` | [2026-10-28 23:18 UTC](data/fr/new-articles-2026-10-28T23-18-19Z.csv) | 8 |
+| German | `de` | [2026-10-28 23:18 UTC](data/de/new-articles-2026-10-28T23-18-19Z.csv) | 6 |
+| Russian | `ru` | [2026-10-28 23:18 UTC](data/ru/new-articles-2026-10-28T23-18-19Z.csv) | 5 |
+| Spanish | `es` | [2026-10-28 23:18 UTC](data/es/new-articles-2026-10-28T23-18-19Z.csv) | 63 |
+| Italian | `it` | [2026-10-28 23:18 UTC](data/it/new-articles-2026-10-28T23-18-19Z.csv) | 10 |
+| Portuguese | `pt` | [2026-10-28 23:18 UTC](data/pt/new-articles-2026-10-28T23-18-19Z.csv) | 19 |
+| Polish | `pl` | [2026-10-28 23:18 UTC](data/pl/new-articles-2026-10-28T23-18-19Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-28 23:18 UTC](data/ar/new-articles-2026-10-28T23-18-19Z.csv) | 2 |
+| Persian | `fa` | [2026-10-28 23:18 UTC](data/fa/new-articles-2026-10-28T23-18-19Z.csv) | 3 |
+| Turkish | `tr` | [2026-10-28 23:18 UTC](data/tr/new-articles-2026-10-28T23-18-19Z.csv) | 7 |
+| Hebrew | `he` | [2026-10-28 23:18 UTC](data/he/new-articles-2026-10-28T23-18-19Z.csv) | 2 |
 | Swedish | `sv` | [2026-10-28 21:19 UTC](data/sv/new-articles-2026-10-28T21-19-03Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-28 22:18 UTC](data/nl/new-articles-2026-10-28T22-18-23Z.csv) | 3 |
-| Korean | `ko` | [2026-10-28 18:19 UTC](data/ko/new-articles-2026-10-28T18-19-29Z.csv) | 1 |
-| Indonesian | `id` | [2026-10-28 19:18 UTC](data/id/new-articles-2026-10-28T19-18-39Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-28 22:18 UTC](data/uk/new-articles-2026-10-28T22-18-23Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-28 23:18 UTC](data/nl/new-articles-2026-10-28T23-18-19Z.csv) | 5 |
+| Korean | `ko` | [2026-10-28 23:18 UTC](data/ko/new-articles-2026-10-28T23-18-19Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-28 23:18 UTC](data/id/new-articles-2026-10-28T23-18-19Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-28 23:18 UTC](data/uk/new-articles-2026-10-28T23-18-19Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-10-28 19:18 UTC](data/vi/new-articles-2026-10-28T19-18-39Z.csv) | 2 |
 
-## English (en) — 2026-10-28 22:18 UTC
+## English (en) — 2026-10-28 23:18 UTC
 
-New articles created between 2026-10-28 21:19 UTC and 2026-10-28 22:18 UTC.
+New articles created between 2026-10-28 22:18 UTC and 2026-10-28 23:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-28T22-18-23Z.csv)
+[Full CSV](data/en/new-articles-2026-10-28T23-18-19Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-28 21:19:42 | [2026 World Wrestling Championships – Men's freestyle 61 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Men%27s_freestyle_61_kg) | [Sports2021](https://en.wikipedia.org/wiki/User:Sports2021) | 5,749 |
-| 2026-10-28 21:20:54 | [2003 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/2003_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 3,442 |
-| 2026-10-28 21:26:11 | [Barbados at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Barbados_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 4,111 |
-| 2026-10-28 21:26:57 | [Erik Frandsen (disambiguation)](https://en.wikipedia.org/wiki/Erik_Frandsen_%28disambiguation%29) | [Sirlink2222](https://en.wikipedia.org/wiki/User:Sirlink2222) | 273 |
-| 2026-10-28 21:28:23 | [Share' Al A'sha](https://en.wikipedia.org/wiki/Share%27_Al_A%27sha) | [يزن البلوي](https://en.wikipedia.org/wiki/User:%D9%8A%D8%B2%D9%86_%D8%A7%D9%84%D8%A8%D9%84%D9%88%D9%8A) | 645 |
-| 2026-10-28 21:35:18 | [Suzanne Hulscher](https://en.wikipedia.org/wiki/Suzanne_Hulscher) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 4,624 |
-| 2026-10-28 21:37:24 | [The Charge of the 21st Lancers at Omdurman](https://en.wikipedia.org/wiki/The_Charge_of_the_21st_Lancers_at_Omdurman) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,516 |
-| 2026-10-28 21:37:48 | [Juranović](https://en.wikipedia.org/wiki/Juranovi%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 267 |
-| 2026-10-28 21:37:50 | [Bermuda at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Bermuda_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 3,894 |
-| 2026-10-28 21:40:13 | [2005 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/2005_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 3,772 |
-| 2026-10-28 21:41:16 | [2006 ITU Long Distance Triathlon World Championships](https://en.wikipedia.org/wiki/2006_ITU_Long_Distance_Triathlon_World_Championships) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 14,612 |
-| 2026-10-28 21:43:16 | [2026 Split district elections](https://en.wikipedia.org/wiki/2026_Split_district_elections) | [Lukoslavhr](https://en.wikipedia.org/wiki/User:Lukoslavhr) | 11,015 |
-| 2026-10-28 21:44:49 | [Rubber and Plastics Research Association of Great Britain](https://en.wikipedia.org/wiki/Rubber_and_Plastics_Research_Association_of_Great_Britain) | [Kyteto](https://en.wikipedia.org/wiki/User:Kyteto) | 2,360 |
-| 2026-10-28 21:48:17 | [1970 Michigan House of Representatives election](https://en.wikipedia.org/wiki/1970_Michigan_House_of_Representatives_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 92,873 |
-| 2026-10-28 21:48:36 | [2026 budget](https://en.wikipedia.org/wiki/2026_budget) | [Folkezoft](https://en.wikipedia.org/wiki/User:Folkezoft) | 265 |
-| 2026-10-28 21:58:33 | [KIFF Pro League](https://en.wikipedia.org/wiki/KIFF_Pro_League) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 2,136 |
-| 2026-10-28 22:01:01 | [Tricentrus cornutus](https://en.wikipedia.org/wiki/Tricentrus_cornutus) | [MealycupSage](https://en.wikipedia.org/wiki/User:MealycupSage) | 2,350 |
-| 2026-10-28 22:02:22 | [ZeeThe Wizard](https://en.wikipedia.org/wiki/ZeeThe_Wizard) | [Briaala](https://en.wikipedia.org/wiki/User:Briaala) | 603 |
-| 2026-10-28 22:04:50 | [Tricentrus compressus](https://en.wikipedia.org/wiki/Tricentrus_compressus) | [MealycupSage](https://en.wikipedia.org/wiki/User:MealycupSage) | 2,598 |
-| 2026-10-28 22:05:18 | [Arijit](https://en.wikipedia.org/wiki/Arijit) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 95 |
-| 2026-10-28 22:07:13 | [2026 World Wrestling Championships – Men's freestyle 92 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Men%27s_freestyle_92_kg) | [Sports2021](https://en.wikipedia.org/wiki/User:Sports2021) | 5,348 |
-| 2026-10-28 22:07:24 | [Dnevno trgovanje](https://en.wikipedia.org/wiki/Dnevno_trgovanje) | [Ogz730](https://en.wikipedia.org/wiki/User:Ogz730) | 14,842 |
-| 2026-10-28 22:08:08 | [Tricentrus elegans](https://en.wikipedia.org/wiki/Tricentrus_elegans) | [MealycupSage](https://en.wikipedia.org/wiki/User:MealycupSage) | 2,539 |
-| 2026-10-28 22:10:20 | [The Collembola of North America, North of the Rio Grande: A Taxonomic Analysis](https://en.wikipedia.org/wiki/The_Collembola_of_North_America%2C_North_of_the_Rio_Grande%3A_A_Taxonomic_Analysis) | [Lark999](https://en.wikipedia.org/wiki/User:Lark999) | 2,495 |
-| 2026-10-28 22:11:10 | [Tricentrus longiceps](https://en.wikipedia.org/wiki/Tricentrus_longiceps) | [MealycupSage](https://en.wikipedia.org/wiki/User:MealycupSage) | 2,483 |
-| 2026-10-28 22:13:26 | [Un weekend artificiale](https://en.wikipedia.org/wiki/Un_weekend_artificiale) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 2,228 |
-| 2026-10-28 22:15:14 | [Chung Jai-suk](https://en.wikipedia.org/wiki/Chung_Jai-suk) | [Pe Class Heroes010210](https://en.wikipedia.org/wiki/User:Pe_Class_Heroes010210) | 5,173 |
-| 2026-10-28 22:17:03 | [Ayoub Sadahine](https://en.wikipedia.org/wiki/Ayoub_Sadahine) | [Milik13400](https://en.wikipedia.org/wiki/User:Milik13400) | 2,502 |
+| 2026-10-28 22:19:29 | [Nadine Sorelli](https://en.wikipedia.org/wiki/Nadine_Sorelli) | [Cozy1298](https://en.wikipedia.org/wiki/User:Cozy1298) | 3,032 |
+| 2026-10-28 22:24:24 | [Semecarpus kinabaluensis](https://en.wikipedia.org/wiki/Semecarpus_kinabaluensis) | [Declangi](https://en.wikipedia.org/wiki/User:Declangi) | 3,286 |
+| 2026-10-28 22:28:29 | [Portrait of Ramsay MacDonald](https://en.wikipedia.org/wiki/Portrait_of_Ramsay_MacDonald) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,385 |
+| 2026-10-28 22:29:34 | [1921 Cheney Normal football team](https://en.wikipedia.org/wiki/1921_Cheney_Normal_football_team) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 5,033 |
+| 2026-10-28 22:35:45 | [Yang Xizi](https://en.wikipedia.org/wiki/Yang_Xizi) | [Toadboy123](https://en.wikipedia.org/wiki/User:Toadboy123) | 21,042 |
+| 2026-10-28 22:36:58 | [Randy Martens](https://en.wikipedia.org/wiki/Randy_Martens) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 5,156 |
+| 2026-10-28 22:37:18 | [2001 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/2001_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 3,289 |
+| 2026-10-28 22:43:10 | [1946–47 Wilkes-Barre Barons season](https://en.wikipedia.org/wiki/1946%E2%80%9347_Wilkes-Barre_Barons_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 11,937 |
+| 2026-10-28 22:44:09 | [McNamara's Folly](https://en.wikipedia.org/wiki/McNamara%27s_Folly) | [Tfdavisatsnetnet](https://en.wikipedia.org/wiki/User:Tfdavisatsnetnet) | 568 |
+| 2026-10-28 22:46:30 | [Antigua and Barbuda at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Antigua_and_Barbuda_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 5,409 |
+| 2026-10-28 22:49:28 | [Zeng Yixuan](https://en.wikipedia.org/wiki/Zeng_Yixuan) | [Toadboy123](https://en.wikipedia.org/wiki/User:Toadboy123) | 16,803 |
+| 2026-10-28 22:50:33 | [Fort Antoine (Monaco)](https://en.wikipedia.org/wiki/Fort_Antoine_%28Monaco%29) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 4,123 |
+| 2026-10-28 22:51:38 | [Firuglipel](https://en.wikipedia.org/wiki/Firuglipel) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 6,208 |
+| 2026-10-28 22:54:54 | [Aruba at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Aruba_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 3,966 |
+| 2026-10-28 23:01:34 | [Bahamas at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Bahamas_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 4,611 |
+| 2026-10-28 23:03:33 | [Lechai Gohain, Namrupia Raja](https://en.wikipedia.org/wiki/Lechai_Gohain%2C_Namrupia_Raja) | [THeShavidow1](https://en.wikipedia.org/wiki/User:THeShavidow1) | 5,576 |
+| 2026-10-28 23:06:02 | [List of Lego Ideas sets](https://en.wikipedia.org/wiki/List_of_Lego_Ideas_sets) | [NewAccount7295](https://en.wikipedia.org/wiki/User:NewAccount7295) | 76,031 |
+| 2026-10-28 23:07:10 | [David Vine (anthropologist)](https://en.wikipedia.org/wiki/David_Vine_%28anthropologist%29) | [Yash400](https://en.wikipedia.org/wiki/User:Yash400) | 32,169 |
+| 2026-10-28 23:08:23 | [Bishops and Bodies](https://en.wikipedia.org/wiki/Bishops_and_Bodies) | [Boredintheevening](https://en.wikipedia.org/wiki/User:Boredintheevening) | 5,378 |
+| 2026-10-28 23:10:04 | [Deziglipel](https://en.wikipedia.org/wiki/Deziglipel) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 3,632 |
+| 2026-10-28 23:13:31 | [Fortified Church of Sant Vicenc D Enclar](https://en.wikipedia.org/wiki/Fortified_Church_of_Sant_Vicenc_D_Enclar) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 2,826 |
+| 2026-10-28 23:15:05 | [Nicole Bäumler](https://en.wikipedia.org/wiki/Nicole_B%C3%A4umler) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,877 |
+| 2026-10-28 23:16:54 | [British Virgin Islands at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/British_Virgin_Islands_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 2,250 |
+| 2026-10-28 23:16:56 | [Bartlett Adams](https://en.wikipedia.org/wiki/Bartlett_Adams) | [Seasider53](https://en.wikipedia.org/wiki/User:Seasider53) | 2,931 |
