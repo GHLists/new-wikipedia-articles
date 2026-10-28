@@ -13,39 +13,39 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-28 06:19 UTC](data/en/new-articles-2026-10-28T06-19-19Z.csv) | 7 |
-| Japanese | `ja` | [2026-10-28 06:19 UTC](data/ja/new-articles-2026-10-28T06-19-19Z.csv) | 8 |
-| Chinese | `zh` | [2026-10-28 06:19 UTC](data/zh/new-articles-2026-10-28T06-19-19Z.csv) | 5 |
-| French | `fr` | [2026-10-28 06:19 UTC](data/fr/new-articles-2026-10-28T06-19-19Z.csv) | 1 |
-| German | `de` | [2026-10-28 06:19 UTC](data/de/new-articles-2026-10-28T06-19-19Z.csv) | 2 |
-| Russian | `ru` | [2026-10-28 06:19 UTC](data/ru/new-articles-2026-10-28T06-19-19Z.csv) | 2 |
-| Spanish | `es` | [2026-10-28 06:19 UTC](data/es/new-articles-2026-10-28T06-19-19Z.csv) | 5 |
-| Italian | `it` | [2026-10-28 03:18 UTC](data/it/new-articles-2026-10-28T03-18-27Z.csv) | 2 |
+| English | `en` | [2026-10-28 07:18 UTC](data/en/new-articles-2026-10-28T07-18-21Z.csv) | 7 |
+| Japanese | `ja` | [2026-10-28 07:18 UTC](data/ja/new-articles-2026-10-28T07-18-21Z.csv) | 9 |
+| Chinese | `zh` | [2026-10-28 07:18 UTC](data/zh/new-articles-2026-10-28T07-18-21Z.csv) | 13 |
+| French | `fr` | [2026-10-28 07:18 UTC](data/fr/new-articles-2026-10-28T07-18-21Z.csv) | 4 |
+| German | `de` | [2026-10-28 07:18 UTC](data/de/new-articles-2026-10-28T07-18-21Z.csv) | 5 |
+| Russian | `ru` | [2026-10-28 07:18 UTC](data/ru/new-articles-2026-10-28T07-18-21Z.csv) | 8 |
+| Spanish | `es` | [2026-10-28 07:18 UTC](data/es/new-articles-2026-10-28T07-18-21Z.csv) | 6 |
+| Italian | `it` | [2026-10-28 07:18 UTC](data/it/new-articles-2026-10-28T07-18-21Z.csv) | 4 |
 | Portuguese | `pt` | [2026-10-28 05:18 UTC](data/pt/new-articles-2026-10-28T05-18-56Z.csv) | 2 |
-| Polish | `pl` | [2026-10-28 05:18 UTC](data/pl/new-articles-2026-10-28T05-18-56Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-28 06:19 UTC](data/ar/new-articles-2026-10-28T06-19-19Z.csv) | 1 |
-| Persian | `fa` | [2026-10-28 06:19 UTC](data/fa/new-articles-2026-10-28T06-19-19Z.csv) | 5 |
-| Turkish | `tr` | [2026-10-28 06:19 UTC](data/tr/new-articles-2026-10-28T06-19-19Z.csv) | 16 |
-| Hebrew | `he` | [2026-10-28 05:18 UTC](data/he/new-articles-2026-10-28T05-18-56Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-28 05:18 UTC](data/sv/new-articles-2026-10-28T05-18-56Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-28 06:19 UTC](data/nl/new-articles-2026-10-28T06-19-19Z.csv) | 1 |
-| Korean | `ko` | [2026-10-28 06:19 UTC](data/ko/new-articles-2026-10-28T06-19-19Z.csv) | 7 |
-| Indonesian | `id` | [2026-10-28 06:19 UTC](data/id/new-articles-2026-10-28T06-19-19Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-28 06:19 UTC](data/uk/new-articles-2026-10-28T06-19-19Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-10-28 06:19 UTC](data/vi/new-articles-2026-10-28T06-19-19Z.csv) | 1 |
+| Polish | `pl` | [2026-10-28 07:18 UTC](data/pl/new-articles-2026-10-28T07-18-21Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-28 07:18 UTC](data/ar/new-articles-2026-10-28T07-18-21Z.csv) | 3 |
+| Persian | `fa` | [2026-10-28 07:18 UTC](data/fa/new-articles-2026-10-28T07-18-21Z.csv) | 7 |
+| Turkish | `tr` | [2026-10-28 07:18 UTC](data/tr/new-articles-2026-10-28T07-18-21Z.csv) | 53 |
+| Hebrew | `he` | [2026-10-28 07:18 UTC](data/he/new-articles-2026-10-28T07-18-21Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-28 07:18 UTC](data/sv/new-articles-2026-10-28T07-18-21Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-28 07:18 UTC](data/nl/new-articles-2026-10-28T07-18-21Z.csv) | 4 |
+| Korean | `ko` | [2026-10-28 07:18 UTC](data/ko/new-articles-2026-10-28T07-18-21Z.csv) | 7 |
+| Indonesian | `id` | [2026-10-28 07:18 UTC](data/id/new-articles-2026-10-28T07-18-21Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-28 07:18 UTC](data/uk/new-articles-2026-10-28T07-18-21Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-28 07:18 UTC](data/vi/new-articles-2026-10-28T07-18-21Z.csv) | 5 |
 
-## English (en) — 2026-10-28 06:19 UTC
+## English (en) — 2026-10-28 07:18 UTC
 
-New articles created between 2026-10-28 05:18 UTC and 2026-10-28 06:19 UTC.
+New articles created between 2026-10-28 06:19 UTC and 2026-10-28 07:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-28T06-19-19Z.csv)
+[Full CSV](data/en/new-articles-2026-10-28T07-18-21Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-28 05:31:43 | [Turkmenistan at the 2026 Asian Para Games](https://en.wikipedia.org/wiki/Turkmenistan_at_the_2026_Asian_Para_Games) | [Jn045](https://en.wikipedia.org/wiki/User:Jn045) | 5,682 |
-| 2026-10-28 05:34:56 | [Amalie of Nassau-Dietz](https://en.wikipedia.org/wiki/Amalie_of_Nassau-Dietz) | [Taitina94](https://en.wikipedia.org/wiki/User:Taitina94) | 556 |
-| 2026-10-28 05:40:11 | [Populated centers](https://en.wikipedia.org/wiki/Populated_centers) | [Henblo](https://en.wikipedia.org/wiki/User:Henblo) | 4,825 |
-| 2026-10-28 05:53:30 | [Non-municipalized areas of Colombia](https://en.wikipedia.org/wiki/Non-municipalized_areas_of_Colombia) | [Henblo](https://en.wikipedia.org/wiki/User:Henblo) | 8,255 |
-| 2026-10-28 06:03:26 | [Communes of Colombia](https://en.wikipedia.org/wiki/Communes_of_Colombia) | [Henblo](https://en.wikipedia.org/wiki/User:Henblo) | 2,809 |
-| 2026-10-28 06:11:39 | [Decentralization in Colombia](https://en.wikipedia.org/wiki/Decentralization_in_Colombia) | [Henblo](https://en.wikipedia.org/wiki/User:Henblo) | 16,865 |
-| 2026-10-28 06:15:32 | [Williams family murders](https://en.wikipedia.org/wiki/Williams_family_murders) | [ButteyFelicity](https://en.wikipedia.org/wiki/User:ButteyFelicity) | 13,839 |
+| 2026-10-28 06:32:32 | [American University of Ras Al Khaimah](https://en.wikipedia.org/wiki/American_University_of_Ras_Al_Khaimah) | [Afzalashika117](https://en.wikipedia.org/wiki/User:Afzalashika117) | 7,479 |
+| 2026-10-28 06:33:31 | [Costa Rica–Taiwan relations](https://en.wikipedia.org/wiki/Costa_Rica%E2%80%93Taiwan_relations) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 4,582 |
+| 2026-10-28 06:42:05 | [Local Administrative Board (Colombia)](https://en.wikipedia.org/wiki/Local_Administrative_Board_%28Colombia%29) | [Henblo](https://en.wikipedia.org/wiki/User:Henblo) | 6,301 |
+| 2026-10-28 06:54:29 | [Christopher Moseley](https://en.wikipedia.org/wiki/Christopher_Moseley) | [Doremo](https://en.wikipedia.org/wiki/User:Doremo) | 2,695 |
+| 2026-10-28 06:56:27 | [Guns N' Roses 2026 Tour](https://en.wikipedia.org/wiki/Guns_N%27_Roses_2026_Tour) | [Ringerfan23](https://en.wikipedia.org/wiki/User:Ringerfan23) | 4,749 |
+| 2026-10-28 07:08:47 | [Makhdoom Sahib Shrine](https://en.wikipedia.org/wiki/Makhdoom_Sahib_Shrine) | [CtrlZultan](https://en.wikipedia.org/wiki/User:CtrlZultan) | 21,276 |
+| 2026-10-28 07:17:00 | [Sefel Records](https://en.wikipedia.org/wiki/Sefel_Records) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 1,036 |
