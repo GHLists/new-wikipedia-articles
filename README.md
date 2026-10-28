@@ -13,60 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-28 16:20 UTC](data/en/new-articles-2026-10-28T16-20-20Z.csv) | 28 |
-| Japanese | `ja` | [2026-10-28 16:20 UTC](data/ja/new-articles-2026-10-28T16-20-20Z.csv) | 8 |
-| Chinese | `zh` | [2026-10-28 16:20 UTC](data/zh/new-articles-2026-10-28T16-20-20Z.csv) | 5 |
-| French | `fr` | [2026-10-28 16:20 UTC](data/fr/new-articles-2026-10-28T16-20-20Z.csv) | 12 |
-| German | `de` | [2026-10-28 16:20 UTC](data/de/new-articles-2026-10-28T16-20-20Z.csv) | 13 |
-| Russian | `ru` | [2026-10-28 16:20 UTC](data/ru/new-articles-2026-10-28T16-20-20Z.csv) | 20 |
-| Spanish | `es` | [2026-10-28 16:20 UTC](data/es/new-articles-2026-10-28T16-20-20Z.csv) | 12 |
-| Italian | `it` | [2026-10-28 16:20 UTC](data/it/new-articles-2026-10-28T16-20-20Z.csv) | 6 |
-| Portuguese | `pt` | [2026-10-28 16:20 UTC](data/pt/new-articles-2026-10-28T16-20-20Z.csv) | 16 |
-| Polish | `pl` | [2026-10-28 16:20 UTC](data/pl/new-articles-2026-10-28T16-20-20Z.csv) | 6 |
-| Arabic | `ar` | [2026-10-28 16:20 UTC](data/ar/new-articles-2026-10-28T16-20-20Z.csv) | 4 |
-| Persian | `fa` | [2026-10-28 16:20 UTC](data/fa/new-articles-2026-10-28T16-20-20Z.csv) | 10 |
-| Turkish | `tr` | [2026-10-28 16:20 UTC](data/tr/new-articles-2026-10-28T16-20-20Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-28 16:20 UTC](data/he/new-articles-2026-10-28T16-20-20Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-28 16:20 UTC](data/sv/new-articles-2026-10-28T16-20-20Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-28 16:20 UTC](data/nl/new-articles-2026-10-28T16-20-20Z.csv) | 3 |
-| Korean | `ko` | [2026-10-28 16:20 UTC](data/ko/new-articles-2026-10-28T16-20-20Z.csv) | 4 |
+| English | `en` | [2026-10-28 17:18 UTC](data/en/new-articles-2026-10-28T17-18-30Z.csv) | 21 |
+| Japanese | `ja` | [2026-10-28 17:18 UTC](data/ja/new-articles-2026-10-28T17-18-30Z.csv) | 2 |
+| Chinese | `zh` | [2026-10-28 17:18 UTC](data/zh/new-articles-2026-10-28T17-18-30Z.csv) | 3 |
+| French | `fr` | [2026-10-28 17:18 UTC](data/fr/new-articles-2026-10-28T17-18-30Z.csv) | 13 |
+| German | `de` | [2026-10-28 17:18 UTC](data/de/new-articles-2026-10-28T17-18-30Z.csv) | 14 |
+| Russian | `ru` | [2026-10-28 17:18 UTC](data/ru/new-articles-2026-10-28T17-18-30Z.csv) | 15 |
+| Spanish | `es` | [2026-10-28 17:18 UTC](data/es/new-articles-2026-10-28T17-18-30Z.csv) | 15 |
+| Italian | `it` | [2026-10-28 17:18 UTC](data/it/new-articles-2026-10-28T17-18-30Z.csv) | 5 |
+| Portuguese | `pt` | [2026-10-28 17:18 UTC](data/pt/new-articles-2026-10-28T17-18-30Z.csv) | 23 |
+| Polish | `pl` | [2026-10-28 17:18 UTC](data/pl/new-articles-2026-10-28T17-18-30Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-28 17:18 UTC](data/ar/new-articles-2026-10-28T17-18-30Z.csv) | 5 |
+| Persian | `fa` | [2026-10-28 17:18 UTC](data/fa/new-articles-2026-10-28T17-18-30Z.csv) | 4 |
+| Turkish | `tr` | [2026-10-28 17:18 UTC](data/tr/new-articles-2026-10-28T17-18-30Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-28 17:18 UTC](data/he/new-articles-2026-10-28T17-18-30Z.csv) | 4 |
+| Swedish | `sv` | [2026-10-28 17:18 UTC](data/sv/new-articles-2026-10-28T17-18-30Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-28 17:18 UTC](data/nl/new-articles-2026-10-28T17-18-30Z.csv) | 2 |
+| Korean | `ko` | [2026-10-28 17:18 UTC](data/ko/new-articles-2026-10-28T17-18-30Z.csv) | 1 |
 | Indonesian | `id` | [2026-10-28 16:20 UTC](data/id/new-articles-2026-10-28T16-20-20Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-28 16:20 UTC](data/uk/new-articles-2026-10-28T16-20-20Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-28 15:18 UTC](data/vi/new-articles-2026-10-28T15-18-30Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-28 17:18 UTC](data/uk/new-articles-2026-10-28T17-18-30Z.csv) | 7 |
+| Vietnamese | `vi` | [2026-10-28 17:18 UTC](data/vi/new-articles-2026-10-28T17-18-30Z.csv) | 2 |
 
-## English (en) — 2026-10-28 16:20 UTC
+## English (en) — 2026-10-28 17:18 UTC
 
-New articles created between 2026-10-28 15:18 UTC and 2026-10-28 16:20 UTC.
+New articles created between 2026-10-28 16:20 UTC and 2026-10-28 17:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-28T16-20-20Z.csv)
+[Full CSV](data/en/new-articles-2026-10-28T17-18-30Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-28 15:18:31 | [Celebrity Race Across the World series 4](https://en.wikipedia.org/wiki/Celebrity_Race_Across_the_World_series_4) | [Hzh](https://en.wikipedia.org/wiki/User:Hzh) | 4,994 |
-| 2026-10-28 15:21:38 | [Pseudacrossus przewalskyi](https://en.wikipedia.org/wiki/Pseudacrossus_przewalskyi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,112 |
-| 2026-10-28 15:23:42 | [RGW 110](https://en.wikipedia.org/wiki/RGW_110) | [MoRsE](https://en.wikipedia.org/wiki/User:MoRsE) | 6,307 |
-| 2026-10-28 15:28:40 | [Liothorax rodrigoi](https://en.wikipedia.org/wiki/Liothorax_rodrigoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,424 |
-| 2026-10-28 15:29:28 | [Diabolik Invertigo](https://en.wikipedia.org/wiki/Diabolik_Invertigo) | [Nathanc2127](https://en.wikipedia.org/wiki/User:Nathanc2127) | 5,308 |
-| 2026-10-28 15:33:21 | [Umukuuka of Bugisu](https://en.wikipedia.org/wiki/Umukuuka_of_Bugisu) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 6,276 |
-| 2026-10-28 15:33:30 | [Tulsi Charan Goswami](https://en.wikipedia.org/wiki/Tulsi_Charan_Goswami) | [Vinegarymass911](https://en.wikipedia.org/wiki/User:Vinegarymass911) | 2,948 |
-| 2026-10-28 15:34:13 | [Prerna Chhetri (Prerna Yenaan Chhetri)](https://en.wikipedia.org/wiki/Prerna_Chhetri_%28Prerna_Yenaan_Chhetri%29) | [Lee Buzzy](https://en.wikipedia.org/wiki/User:Lee_Buzzy) | 263 |
-| 2026-10-28 15:34:21 | [Liothorax discoides](https://en.wikipedia.org/wiki/Liothorax_discoides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,584 |
-| 2026-10-28 15:38:51 | [Battle of Baja](https://en.wikipedia.org/wiki/Battle_of_Baja) | [MedAdventurer](https://en.wikipedia.org/wiki/User:MedAdventurer) | 4,942 |
-| 2026-10-28 15:39:01 | [Solmáforo](https://en.wikipedia.org/wiki/Solm%C3%A1foro) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 3,592 |
-| 2026-10-28 15:40:01 | [More Than Medicine](https://en.wikipedia.org/wiki/More_Than_Medicine) | [Boredintheevening](https://en.wikipedia.org/wiki/User:Boredintheevening) | 4,615 |
-| 2026-10-28 15:40:07 | [Liothorax rutilipennis](https://en.wikipedia.org/wiki/Liothorax_rutilipennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,682 |
-| 2026-10-28 15:41:49 | [1996 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/1996_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 3,162 |
-| 2026-10-28 15:42:43 | [2026 Racquetball World Championships](https://en.wikipedia.org/wiki/2026_Racquetball_World_Championships) | [Trb333](https://en.wikipedia.org/wiki/User:Trb333) | 20,552 |
-| 2026-10-28 15:49:02 | [Putta Madhu](https://en.wikipedia.org/wiki/Putta_Madhu) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,866 |
-| 2026-10-28 15:49:53 | [1998 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/1998_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 3,085 |
-| 2026-10-28 15:49:57 | [List of presidential trips made by Ronald Reagan (1985)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_Ronald_Reagan_%281985%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 12,970 |
-| 2026-10-28 15:50:45 | [The Age of Dead Christ](https://en.wikipedia.org/wiki/The_Age_of_Dead_Christ) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 4,007 |
-| 2026-10-28 15:51:33 | [Independence Township, Washington County, Kansas](https://en.wikipedia.org/wiki/Independence_Township%2C_Washington_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,595 |
-| 2026-10-28 15:56:40 | [1999 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/1999_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 2,985 |
-| 2026-10-28 15:58:16 | [Philippe Rotthier](https://en.wikipedia.org/wiki/Philippe_Rotthier) | [Horst-schlaemma](https://en.wikipedia.org/wiki/User:Horst-schlaemma) | 4,573 |
-| 2026-10-28 16:00:54 | [2000 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/2000_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 2,976 |
-| 2026-10-28 16:00:55 | [John Chesley (American football)](https://en.wikipedia.org/wiki/John_Chesley_%28American_football%29) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 4,362 |
-| 2026-10-28 16:11:07 | [Johnny Kieper](https://en.wikipedia.org/wiki/Johnny_Kieper) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 12,554 |
-| 2026-10-28 16:14:13 | [Kimeo Township, Kansas](https://en.wikipedia.org/wiki/Kimeo_Township%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 5,788 |
-| 2026-10-28 16:14:45 | [Embassy of Kenya in France](https://en.wikipedia.org/wiki/Embassy_of_Kenya_in_France) | [Theeverywhereperson](https://en.wikipedia.org/wiki/User:Theeverywhereperson) | 2,854 |
-| 2026-10-28 16:19:21 | [Philippe Rotthier European Prize for Architecture](https://en.wikipedia.org/wiki/Philippe_Rotthier_European_Prize_for_Architecture) | [Horst-schlaemma](https://en.wikipedia.org/wiki/User:Horst-schlaemma) | 15,980 |
+| 2026-10-28 16:28:34 | [The Ones Who Stay and Fight](https://en.wikipedia.org/wiki/The_Ones_Who_Stay_and_Fight) | [QuietStacks](https://en.wikipedia.org/wiki/User:QuietStacks) | 5,517 |
+| 2026-10-28 16:28:45 | [Music Hall Fuuga](https://en.wikipedia.org/wiki/Music_Hall_Fuuga) | [Tappinen](https://en.wikipedia.org/wiki/User:Tappinen) | 812 |
+| 2026-10-28 16:31:43 | [2026–27 East Tennessee State Buccaneers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_East_Tennessee_State_Buccaneers_men%27s_basketball_team) | [Buffalow77](https://en.wikipedia.org/wiki/User:Buffalow77) | 22,377 |
+| 2026-10-28 16:34:40 | [2026 World Wrestling Championships – Men's freestyle 125 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Men%27s_freestyle_125_kg) | [Sports2021](https://en.wikipedia.org/wiki/User:Sports2021) | 6,119 |
+| 2026-10-28 16:34:41 | [Peace of Špitál Field](https://en.wikipedia.org/wiki/Peace_of_%C5%A0pit%C3%A1l_Field) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 7,908 |
+| 2026-10-28 16:36:20 | [Tamara Gill](https://en.wikipedia.org/wiki/Tamara_Gill) | [Greenleader(2)](https://en.wikipedia.org/wiki/User:Greenleader%282%29) | 3,396 |
+| 2026-10-28 16:44:34 | [Jan-Peter Röderer](https://en.wikipedia.org/wiki/Jan-Peter_R%C3%B6derer) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,862 |
+| 2026-10-28 16:46:14 | [Jamiyat Shubbane Ahl-Al Hadith](https://en.wikipedia.org/wiki/Jamiyat_Shubbane_Ahl-Al_Hadith) | [Chowdhury Adil](https://en.wikipedia.org/wiki/User:Chowdhury_Adil) | 11,396 |
+| 2026-10-28 16:47:45 | [Buchdahl star](https://en.wikipedia.org/wiki/Buchdahl_star) | [SoundsReallyGood](https://en.wikipedia.org/wiki/User:SoundsReallyGood) | 2,279 |
+| 2026-10-28 16:48:55 | [Philippe Villeneuve](https://en.wikipedia.org/wiki/Philippe_Villeneuve) | [Horst-schlaemma](https://en.wikipedia.org/wiki/User:Horst-schlaemma) | 7,847 |
+| 2026-10-28 16:52:40 | [Zajączek (surname)](https://en.wikipedia.org/wiki/Zaj%C4%85czek_%28surname%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 657 |
+| 2026-10-28 16:54:25 | [Bifulco (surname)](https://en.wikipedia.org/wiki/Bifulco_%28surname%29) | [Gaux](https://en.wikipedia.org/wiki/User:Gaux) | 267 |
+| 2026-10-28 16:56:17 | [Damond Wilkins](https://en.wikipedia.org/wiki/Damond_Wilkins) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 4,515 |
+| 2026-10-28 16:57:10 | [2002 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/2002_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 3,169 |
+| 2026-10-28 17:00:13 | [SMU Mustangs men's lacrosse](https://en.wikipedia.org/wiki/SMU_Mustangs_men%27s_lacrosse) | [Msrinath](https://en.wikipedia.org/wiki/User:Msrinath) | 4,353 |
+| 2026-10-28 17:00:45 | [Residenti Beltin](https://en.wikipedia.org/wiki/Residenti_Beltin) | [VivaMintoff](https://en.wikipedia.org/wiki/User:VivaMintoff) | 524 |
+| 2026-10-28 17:03:05 | [Skin perfusion pressure](https://en.wikipedia.org/wiki/Skin_perfusion_pressure) | [DeirdreP](https://en.wikipedia.org/wiki/User:DeirdreP) | 2,916 |
+| 2026-10-28 17:10:20 | [Mahbubnagar–Ranga Reddy–Hyderabad Graduates constituency](https://en.wikipedia.org/wiki/Mahbubnagar%E2%80%93Ranga_Reddy%E2%80%93Hyderabad_Graduates_constituency) | [Jayanthkumar123](https://en.wikipedia.org/wiki/User:Jayanthkumar123) | 3,649 |
+| 2026-10-28 17:11:50 | [Lincoln Township, Washington County, Kansas](https://en.wikipedia.org/wiki/Lincoln_Township%2C_Washington_County%2C_Kansas) | [Mtcat101](https://en.wikipedia.org/wiki/User:Mtcat101) | 6,935 |
+| 2026-10-28 17:15:38 | [1974 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/1974_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 2,993 |
+| 2026-10-28 17:16:57 | [2026–27 St. Bonaventure Bonnies women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_St._Bonaventure_Bonnies_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 34,165 |
