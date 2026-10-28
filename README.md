@@ -13,55 +13,60 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-28 12:20 UTC](data/en/new-articles-2026-10-28T12-20-32Z.csv) | 23 |
-| Japanese | `ja` | [2026-10-28 12:20 UTC](data/ja/new-articles-2026-10-28T12-20-32Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-28 12:20 UTC](data/zh/new-articles-2026-10-28T12-20-32Z.csv) | 16 |
-| French | `fr` | [2026-10-28 12:20 UTC](data/fr/new-articles-2026-10-28T12-20-32Z.csv) | 6 |
-| German | `de` | [2026-10-28 12:20 UTC](data/de/new-articles-2026-10-28T12-20-32Z.csv) | 15 |
-| Russian | `ru` | [2026-10-28 12:20 UTC](data/ru/new-articles-2026-10-28T12-20-32Z.csv) | 7 |
-| Spanish | `es` | [2026-10-28 12:20 UTC](data/es/new-articles-2026-10-28T12-20-32Z.csv) | 7 |
-| Italian | `it` | [2026-10-28 12:20 UTC](data/it/new-articles-2026-10-28T12-20-32Z.csv) | 13 |
-| Portuguese | `pt` | [2026-10-28 12:20 UTC](data/pt/new-articles-2026-10-28T12-20-32Z.csv) | 18 |
-| Polish | `pl` | [2026-10-28 12:20 UTC](data/pl/new-articles-2026-10-28T12-20-32Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-28 12:20 UTC](data/ar/new-articles-2026-10-28T12-20-32Z.csv) | 4 |
-| Persian | `fa` | [2026-10-28 12:20 UTC](data/fa/new-articles-2026-10-28T12-20-32Z.csv) | 9 |
-| Turkish | `tr` | [2026-10-28 12:20 UTC](data/tr/new-articles-2026-10-28T12-20-32Z.csv) | 15 |
-| Hebrew | `he` | [2026-10-28 12:20 UTC](data/he/new-articles-2026-10-28T12-20-32Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-28 11:19 UTC](data/sv/new-articles-2026-10-28T11-19-57Z.csv) | 1 |
-| Dutch | `nl` | [2026-10-28 12:20 UTC](data/nl/new-articles-2026-10-28T12-20-32Z.csv) | 4 |
-| Korean | `ko` | [2026-10-28 12:20 UTC](data/ko/new-articles-2026-10-28T12-20-32Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-28 12:20 UTC](data/id/new-articles-2026-10-28T12-20-32Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-10-28 12:20 UTC](data/uk/new-articles-2026-10-28T12-20-32Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-10-28 11:19 UTC](data/vi/new-articles-2026-10-28T11-19-57Z.csv) | 1 |
+| English | `en` | [2026-10-28 13:19 UTC](data/en/new-articles-2026-10-28T13-19-27Z.csv) | 28 |
+| Japanese | `ja` | [2026-10-28 13:19 UTC](data/ja/new-articles-2026-10-28T13-19-27Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-28 13:19 UTC](data/zh/new-articles-2026-10-28T13-19-27Z.csv) | 8 |
+| French | `fr` | [2026-10-28 13:19 UTC](data/fr/new-articles-2026-10-28T13-19-27Z.csv) | 12 |
+| German | `de` | [2026-10-28 13:19 UTC](data/de/new-articles-2026-10-28T13-19-27Z.csv) | 7 |
+| Russian | `ru` | [2026-10-28 13:19 UTC](data/ru/new-articles-2026-10-28T13-19-27Z.csv) | 8 |
+| Spanish | `es` | [2026-10-28 13:19 UTC](data/es/new-articles-2026-10-28T13-19-27Z.csv) | 9 |
+| Italian | `it` | [2026-10-28 13:19 UTC](data/it/new-articles-2026-10-28T13-19-27Z.csv) | 7 |
+| Portuguese | `pt` | [2026-10-28 13:19 UTC](data/pt/new-articles-2026-10-28T13-19-27Z.csv) | 2 |
+| Polish | `pl` | [2026-10-28 13:19 UTC](data/pl/new-articles-2026-10-28T13-19-27Z.csv) | 7 |
+| Arabic | `ar` | [2026-10-28 13:19 UTC](data/ar/new-articles-2026-10-28T13-19-27Z.csv) | 1 |
+| Persian | `fa` | [2026-10-28 13:19 UTC](data/fa/new-articles-2026-10-28T13-19-27Z.csv) | 8 |
+| Turkish | `tr` | [2026-10-28 13:19 UTC](data/tr/new-articles-2026-10-28T13-19-27Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-28 13:19 UTC](data/he/new-articles-2026-10-28T13-19-27Z.csv) | 3 |
+| Swedish | `sv` | [2026-10-28 13:19 UTC](data/sv/new-articles-2026-10-28T13-19-27Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-28 13:19 UTC](data/nl/new-articles-2026-10-28T13-19-27Z.csv) | 3 |
+| Korean | `ko` | [2026-10-28 13:19 UTC](data/ko/new-articles-2026-10-28T13-19-27Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-28 13:19 UTC](data/id/new-articles-2026-10-28T13-19-27Z.csv) | 12 |
+| Ukrainian | `uk` | [2026-10-28 13:19 UTC](data/uk/new-articles-2026-10-28T13-19-27Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-10-28 13:19 UTC](data/vi/new-articles-2026-10-28T13-19-27Z.csv) | 2 |
 
-## English (en) — 2026-10-28 12:20 UTC
+## English (en) — 2026-10-28 13:19 UTC
 
-New articles created between 2026-10-28 11:19 UTC and 2026-10-28 12:20 UTC.
+New articles created between 2026-10-28 12:20 UTC and 2026-10-28 13:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-28T12-20-32Z.csv)
+[Full CSV](data/en/new-articles-2026-10-28T13-19-27Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-28 11:30:13 | [Olesia Manuilova](https://en.wikipedia.org/wiki/Olesia_Manuilova) | [Moscow Connection](https://en.wikipedia.org/wiki/User:Moscow_Connection) | 3,039 |
-| 2026-10-28 11:31:12 | [Battle of Mladá Vožice](https://en.wikipedia.org/wiki/Battle_of_Mlad%C3%A1_Vo%C5%BEice) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 7,977 |
-| 2026-10-28 11:34:09 | [Robert Andersson Hammarstrand](https://en.wikipedia.org/wiki/Robert_Andersson_Hammarstrand) | [Obi2canibe](https://en.wikipedia.org/wiki/User:Obi2canibe) | 5,421 |
-| 2026-10-28 11:36:32 | [Australian Courts Act 1828](https://en.wikipedia.org/wiki/Australian_Courts_Act_1828) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 4,822 |
-| 2026-10-28 11:38:24 | [Marktl (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Marktl_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,426 |
-| 2026-10-28 11:40:33 | [Lasioglossum bicingulatum](https://en.wikipedia.org/wiki/Lasioglossum_bicingulatum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,963 |
-| 2026-10-28 11:41:02 | [2023 British Talent Cup](https://en.wikipedia.org/wiki/2023_British_Talent_Cup) | [TreeRoot6663](https://en.wikipedia.org/wiki/User:TreeRoot6663) | 848 |
-| 2026-10-28 11:45:10 | [Virginia Blood](https://en.wikipedia.org/wiki/Virginia_Blood) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 3,644 |
-| 2026-10-28 11:46:08 | [Reischach (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Reischach_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,469 |
-| 2026-10-28 11:47:49 | [Battle of Poříčí nad Sázavou](https://en.wikipedia.org/wiki/Battle_of_Po%C5%99%C3%AD%C4%8D%C3%AD_nad_S%C3%A1zavou) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 13,008 |
-| 2026-10-28 11:53:22 | [Unterneukirchen (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Unterneukirchen_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,503 |
-| 2026-10-28 12:00:37 | [Love in Separate Beds](https://en.wikipedia.org/wiki/Love_in_Separate_Beds) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,346 |
-| 2026-10-28 12:05:23 | [ExamOnline](https://en.wikipedia.org/wiki/ExamOnline) | [JamesSmith66](https://en.wikipedia.org/wiki/User:JamesSmith66) | 8,092 |
-| 2026-10-28 12:06:51 | [Drepanocanthus lineatus](https://en.wikipedia.org/wiki/Drepanocanthus_lineatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,175 |
-| 2026-10-28 12:07:04 | [Ivide Ellavarkum Sukham](https://en.wikipedia.org/wiki/Ivide_Ellavarkum_Sukham) | [Shijo Varghese23](https://en.wikipedia.org/wiki/User:Shijo_Varghese23) | 3,098 |
-| 2026-10-28 12:07:54 | [Andreas Dalsgaard](https://en.wikipedia.org/wiki/Andreas_Dalsgaard) | [Freeatdocs](https://en.wikipedia.org/wiki/User:Freeatdocs) | 14,061 |
-| 2026-10-28 12:09:08 | [Goiginus](https://en.wikipedia.org/wiki/Goiginus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,748 |
-| 2026-10-28 12:10:53 | [Battle of Žlutice](https://en.wikipedia.org/wiki/Battle_of_%C5%BDlutice) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 11,803 |
-| 2026-10-28 12:11:30 | [Goiginus howdeni](https://en.wikipedia.org/wiki/Goiginus_howdeni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,021 |
-| 2026-10-28 12:13:59 | [Harmogaster exarata](https://en.wikipedia.org/wiki/Harmogaster_exarata) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,162 |
-| 2026-10-28 12:15:57 | [Moos (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Moos_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,395 |
-| 2026-10-28 12:17:26 | [Pseudodrepanocanthus](https://en.wikipedia.org/wiki/Pseudodrepanocanthus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,952 |
-| 2026-10-28 12:19:54 | [Oberpöring (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Oberp%C3%B6ring_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,446 |
+| 2026-10-28 12:20:49 | [Pseudodrepanocanthus nasutus](https://en.wikipedia.org/wiki/Pseudodrepanocanthus_nasutus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,234 |
+| 2026-10-28 12:23:19 | [Un tranquillo funerale di famiglia](https://en.wikipedia.org/wiki/Un_tranquillo_funerale_di_famiglia) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 3,110 |
+| 2026-10-28 12:24:06 | [Schöllnach (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Sch%C3%B6llnach_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,452 |
+| 2026-10-28 12:25:43 | [Pseudomothon](https://en.wikipedia.org/wiki/Pseudomothon) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,763 |
+| 2026-10-28 12:25:57 | [Brock Cripps](https://en.wikipedia.org/wiki/Brock_Cripps) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 5,667 |
+| 2026-10-28 12:26:53 | [Typhoon Display Team](https://en.wikipedia.org/wiki/Typhoon_Display_Team) | [4-RAZOR 01](https://en.wikipedia.org/wiki/User:4-RAZOR_01) | 3,059 |
+| 2026-10-28 12:28:56 | [Pseudomothon arabicus](https://en.wikipedia.org/wiki/Pseudomothon_arabicus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,003 |
+| 2026-10-28 12:31:23 | [Pseudoxyomus rubescens](https://en.wikipedia.org/wiki/Pseudoxyomus_rubescens) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,917 |
+| 2026-10-28 12:32:42 | [Cordell Hull as Secretary of State](https://en.wikipedia.org/wiki/Cordell_Hull_as_Secretary_of_State) | [Tobabem](https://en.wikipedia.org/wiki/User:Tobabem) | 8,161 |
+| 2026-10-28 12:33:04 | [Mamming (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Mamming_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,412 |
+| 2026-10-28 12:34:11 | [Trigonoscelus](https://en.wikipedia.org/wiki/Trigonoscelus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,117 |
+| 2026-10-28 12:34:16 | [Arachnolophus dentatus](https://en.wikipedia.org/wiki/Arachnolophus_dentatus) | [Etherealite](https://en.wikipedia.org/wiki/User:Etherealite) | 1,179 |
+| 2026-10-28 12:35:24 | [Battle of Strauchův dvůr](https://en.wikipedia.org/wiki/Battle_of_Strauch%C5%AFv_dv%C5%AFr) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 10,234 |
+| 2026-10-28 12:38:00 | [Trigonoscelus coelebs](https://en.wikipedia.org/wiki/Trigonoscelus_coelebs) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,219 |
+| 2026-10-28 12:39:57 | [2026 World Wrestling Championships – Men's freestyle 97 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Men%27s_freestyle_97_kg) | [Sports2021](https://en.wikipedia.org/wiki/User:Sports2021) | 5,990 |
+| 2026-10-28 12:41:45 | [Ministry of Local Government, Lands and Housing](https://en.wikipedia.org/wiki/Ministry_of_Local_Government%2C_Lands_and_Housing) | [Actuall7](https://en.wikipedia.org/wiki/User:Actuall7) | 8,332 |
+| 2026-10-28 12:46:07 | [Poliicing Patients](https://en.wikipedia.org/wiki/Poliicing_Patients) | [Boredintheevening](https://en.wikipedia.org/wiki/User:Boredintheevening) | 5,998 |
+| 2026-10-28 12:47:55 | [Ecco2k discography](https://en.wikipedia.org/wiki/Ecco2k_discography) | [Skyshifter](https://en.wikipedia.org/wiki/User:Skyshifter) | 10,190 |
+| 2026-10-28 12:50:25 | [Megateloides bostrichoides](https://en.wikipedia.org/wiki/Megateloides_bostrichoides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,966 |
+| 2026-10-28 12:51:56 | [Darrick Owens](https://en.wikipedia.org/wiki/Darrick_Owens) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 7,899 |
+| 2026-10-28 12:57:48 | [Jonathan Gershuny](https://en.wikipedia.org/wiki/Jonathan_Gershuny) | [ReportA1](https://en.wikipedia.org/wiki/User:ReportA1) | 14,979 |
+| 2026-10-28 13:01:19 | [Challa Dharma Reddy](https://en.wikipedia.org/wiki/Challa_Dharma_Reddy) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,627 |
+| 2026-10-28 13:01:23 | [Megatelus contractus](https://en.wikipedia.org/wiki/Megatelus_contractus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,242 |
+| 2026-10-28 13:06:16 | [2026 Governor General's Awards](https://en.wikipedia.org/wiki/2026_Governor_General%27s_Awards) | [Bearcat](https://en.wikipedia.org/wiki/User:Bearcat) | 4,017 |
+| 2026-10-28 13:10:09 | [Kenya Reform Party (disambiguation)](https://en.wikipedia.org/wiki/Kenya_Reform_Party_%28disambiguation%29) | [Kimemia Maina](https://en.wikipedia.org/wiki/User:Kimemia_Maina) | 201 |
+| 2026-10-28 13:14:11 | [Bugisu Kingdom](https://en.wikipedia.org/wiki/Bugisu_Kingdom) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 12,822 |
+| 2026-10-28 13:16:54 | [Battle of Skalice](https://en.wikipedia.org/wiki/Battle_of_Skalice) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 9,179 |
+| 2026-10-28 13:18:16 | [Patriot Pictures](https://en.wikipedia.org/wiki/Patriot_Pictures) | [Freeatdocs](https://en.wikipedia.org/wiki/User:Freeatdocs) | 2,836 |
