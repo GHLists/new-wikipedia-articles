@@ -13,56 +13,52 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-29 22:19 UTC](data/en/new-articles-2026-10-29T22-19-56Z.csv) | 24 |
-| Japanese | `ja` | [2026-10-29 22:19 UTC](data/ja/new-articles-2026-10-29T22-19-56Z.csv) | 3 |
-| Chinese | `zh` | [2026-10-29 22:19 UTC](data/zh/new-articles-2026-10-29T22-19-56Z.csv) | 1 |
-| French | `fr` | [2026-10-29 22:19 UTC](data/fr/new-articles-2026-10-29T22-19-56Z.csv) | 7 |
-| German | `de` | [2026-10-29 22:19 UTC](data/de/new-articles-2026-10-29T22-19-56Z.csv) | 10 |
-| Russian | `ru` | [2026-10-29 22:19 UTC](data/ru/new-articles-2026-10-29T22-19-56Z.csv) | 2 |
-| Spanish | `es` | [2026-10-29 22:19 UTC](data/es/new-articles-2026-10-29T22-19-56Z.csv) | 7 |
-| Italian | `it` | [2026-10-29 22:19 UTC](data/it/new-articles-2026-10-29T22-19-56Z.csv) | 17 |
-| Portuguese | `pt` | [2026-10-29 22:19 UTC](data/pt/new-articles-2026-10-29T22-19-56Z.csv) | 13 |
-| Polish | `pl` | [2026-10-29 22:19 UTC](data/pl/new-articles-2026-10-29T22-19-56Z.csv) | 7 |
-| Arabic | `ar` | [2026-10-29 22:19 UTC](data/ar/new-articles-2026-10-29T22-19-56Z.csv) | 2 |
-| Persian | `fa` | [2026-10-29 22:19 UTC](data/fa/new-articles-2026-10-29T22-19-56Z.csv) | 7 |
+| English | `en` | [2026-10-29 23:20 UTC](data/en/new-articles-2026-10-29T23-20-58Z.csv) | 20 |
+| Japanese | `ja` | [2026-10-29 23:20 UTC](data/ja/new-articles-2026-10-29T23-20-58Z.csv) | 1 |
+| Chinese | `zh` | [2026-10-29 23:20 UTC](data/zh/new-articles-2026-10-29T23-20-58Z.csv) | 2 |
+| French | `fr` | [2026-10-29 23:20 UTC](data/fr/new-articles-2026-10-29T23-20-58Z.csv) | 10 |
+| German | `de` | [2026-10-29 23:20 UTC](data/de/new-articles-2026-10-29T23-20-58Z.csv) | 8 |
+| Russian | `ru` | [2026-10-29 23:20 UTC](data/ru/new-articles-2026-10-29T23-20-58Z.csv) | 6 |
+| Spanish | `es` | [2026-10-29 23:20 UTC](data/es/new-articles-2026-10-29T23-20-58Z.csv) | 8 |
+| Italian | `it` | [2026-10-29 23:20 UTC](data/it/new-articles-2026-10-29T23-20-58Z.csv) | 4 |
+| Portuguese | `pt` | [2026-10-29 23:20 UTC](data/pt/new-articles-2026-10-29T23-20-58Z.csv) | 12 |
+| Polish | `pl` | [2026-10-29 23:20 UTC](data/pl/new-articles-2026-10-29T23-20-58Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-29 23:20 UTC](data/ar/new-articles-2026-10-29T23-20-58Z.csv) | 5 |
+| Persian | `fa` | [2026-10-29 23:20 UTC](data/fa/new-articles-2026-10-29T23-20-58Z.csv) | 4 |
 | Turkish | `tr` | [2026-10-29 22:19 UTC](data/tr/new-articles-2026-10-29T22-19-56Z.csv) | 4 |
-| Hebrew | `he` | [2026-10-29 22:19 UTC](data/he/new-articles-2026-10-29T22-19-56Z.csv) | 4 |
-| Swedish | `sv` | [2026-10-29 22:19 UTC](data/sv/new-articles-2026-10-29T22-19-56Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-29 22:19 UTC](data/nl/new-articles-2026-10-29T22-19-56Z.csv) | 7 |
-| Korean | `ko` | [2026-10-29 17:19 UTC](data/ko/new-articles-2026-10-29T17-19-55Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-29 19:20 UTC](data/id/new-articles-2026-10-29T19-20-15Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-29 22:19 UTC](data/uk/new-articles-2026-10-29T22-19-56Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-10-29 18:19 UTC](data/vi/new-articles-2026-10-29T18-19-57Z.csv) | 13 |
+| Hebrew | `he` | [2026-10-29 23:20 UTC](data/he/new-articles-2026-10-29T23-20-58Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-29 23:20 UTC](data/sv/new-articles-2026-10-29T23-20-58Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-29 23:20 UTC](data/nl/new-articles-2026-10-29T23-20-58Z.csv) | 5 |
+| Korean | `ko` | [2026-10-29 23:20 UTC](data/ko/new-articles-2026-10-29T23-20-58Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-29 23:20 UTC](data/id/new-articles-2026-10-29T23-20-58Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-29 23:20 UTC](data/uk/new-articles-2026-10-29T23-20-58Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-10-29 23:20 UTC](data/vi/new-articles-2026-10-29T23-20-58Z.csv) | 1 |
 
-## English (en) — 2026-10-29 22:19 UTC
+## English (en) — 2026-10-29 23:20 UTC
 
-New articles created between 2026-10-29 21:19 UTC and 2026-10-29 22:19 UTC.
+New articles created between 2026-10-29 22:19 UTC and 2026-10-29 23:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-29T22-19-56Z.csv)
+[Full CSV](data/en/new-articles-2026-10-29T23-20-58Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-29 21:24:26 | [Andreas Hofmeister](https://en.wikipedia.org/wiki/Andreas_Hofmeister) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,021 |
-| 2026-10-29 21:25:45 | [Jacquelyn Randall](https://en.wikipedia.org/wiki/Jacquelyn_Randall) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,145 |
-| 2026-10-29 21:26:13 | [Oi (Scooter song)](https://en.wikipedia.org/wiki/Oi_%28Scooter_song%29) | [Ludakov](https://en.wikipedia.org/wiki/User:Ludakov) | 2,504 |
-| 2026-10-29 21:29:06 | [2011 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/2011_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 3,282 |
-| 2026-10-29 21:33:39 | [830 (disambiguation)](https://en.wikipedia.org/wiki/830_%28disambiguation%29) | [UltrasonicMadness](https://en.wikipedia.org/wiki/User:UltrasonicMadness) | 247 |
-| 2026-10-29 21:35:07 | [Wisconsin's Fond du Lac County 1st Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Fond_du_Lac_County_1st_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 14,539 |
-| 2026-10-29 21:39:37 | [2012 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/2012_Westmeath_Senior_Hurling_Championship) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 2,898 |
-| 2026-10-29 21:40:34 | [Collision Course (2026 film)](https://en.wikipedia.org/wiki/Collision_Course_%282026_film%29) | [Asqueladd](https://en.wikipedia.org/wiki/User:Asqueladd) | 4,161 |
-| 2026-10-29 21:41:51 | [850 (disambiguation)](https://en.wikipedia.org/wiki/850_%28disambiguation%29) | [UltrasonicMadness](https://en.wikipedia.org/wiki/User:UltrasonicMadness) | 357 |
-| 2026-10-29 21:49:51 | [Jones Memorial Airport](https://en.wikipedia.org/wiki/Jones_Memorial_Airport) | [TulGuy](https://en.wikipedia.org/wiki/User:TulGuy) | 4,495 |
-| 2026-10-29 21:50:10 | [Kyandra Darling](https://en.wikipedia.org/wiki/Kyandra_Darling) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,575 |
-| 2026-10-29 21:50:36 | [Martin Mittag](https://en.wikipedia.org/wiki/Martin_Mittag) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,150 |
-| 2026-10-29 21:50:54 | [John D. Waiheʻe IV](https://en.wikipedia.org/wiki/John_D._Waihe%CA%BBe_IV) | [Osevilla](https://en.wikipedia.org/wiki/User:Osevilla) | 4,862 |
-| 2026-10-29 21:52:04 | [Bradley Walsh's Million Pound Shot](https://en.wikipedia.org/wiki/Bradley_Walsh%27s_Million_Pound_Shot) | [I am RedoStone](https://en.wikipedia.org/wiki/User:I_am_RedoStone) | 500 |
-| 2026-10-29 21:53:00 | [Jacqueline Coffie-Leeks](https://en.wikipedia.org/wiki/Jacqueline_Coffie-Leeks) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,611 |
-| 2026-10-29 21:56:57 | [Rehburg, Texas](https://en.wikipedia.org/wiki/Rehburg%2C_Texas) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 1,841 |
-| 2026-10-29 21:57:40 | [Hôtel de Ville, Chilly-Mazarin](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Chilly-Mazarin) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 7,334 |
-| 2026-10-29 21:59:04 | [1968 Michigan House of Representatives election](https://en.wikipedia.org/wiki/1968_Michigan_House_of_Representatives_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 93,763 |
-| 2026-10-29 22:03:30 | [2026–27 North Carolina Central Eagles men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_North_Carolina_Central_Eagles_men%27s_basketball_team) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 20,070 |
-| 2026-10-29 22:13:22 | [NEXROC, Inc.](https://en.wikipedia.org/wiki/NEXROC%2C_Inc.) | [Jumiluvo1092](https://en.wikipedia.org/wiki/User:Jumiluvo1092) | 8,002 |
-| 2026-10-29 22:17:02 | [Warszawa Ulrychów railway station](https://en.wikipedia.org/wiki/Warszawa_Ulrych%C3%B3w_railway_station) | [Fortek67](https://en.wikipedia.org/wiki/User:Fortek67) | 8,708 |
-| 2026-10-29 22:17:21 | [Fritz Henri Fleck](https://en.wikipedia.org/wiki/Fritz_Henri_Fleck) | [Fan2football](https://en.wikipedia.org/wiki/User:Fan2football) | 4,370 |
-| 2026-10-29 22:17:50 | [1260 (disambiguation)](https://en.wikipedia.org/wiki/1260_%28disambiguation%29) | [UltrasonicMadness](https://en.wikipedia.org/wiki/User:UltrasonicMadness) | 312 |
-| 2026-10-29 22:18:08 | [Australian States Constitution Act 1907](https://en.wikipedia.org/wiki/Australian_States_Constitution_Act_1907) | [Mauls](https://en.wikipedia.org/wiki/User:Mauls) | 5,950 |
+| 2026-10-29 22:23:26 | [SVCV, Inc.](https://en.wikipedia.org/wiki/SVCV%2C_Inc.) | [Jumiluvo1092](https://en.wikipedia.org/wiki/User:Jumiluvo1092) | 5,717 |
+| 2026-10-29 22:28:51 | [Wisconsin's Fond du Lac County 2nd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Fond_du_Lac_County_2nd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 17,160 |
+| 2026-10-29 22:35:05 | [Salvadoran military intervention in Haiti](https://en.wikipedia.org/wiki/Salvadoran_military_intervention_in_Haiti) | [PizzaKing13](https://en.wikipedia.org/wiki/User:PizzaKing13) | 23,243 |
+| 2026-10-29 22:36:47 | [Perv: The Sexual Deviant in All of Us](https://en.wikipedia.org/wiki/Perv%3A_The_Sexual_Deviant_in_All_of_Us) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 3,421 |
+| 2026-10-29 22:40:05 | [Linda Frohm](https://en.wikipedia.org/wiki/Linda_Frohm) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,638 |
+| 2026-10-29 22:40:52 | [UFC BJJ 13](https://en.wikipedia.org/wiki/UFC_BJJ_13) | [WiseScorpion](https://en.wikipedia.org/wiki/User:WiseScorpion) | 4,925 |
+| 2026-10-29 22:42:33 | [1500 (disambiguation)](https://en.wikipedia.org/wiki/1500_%28disambiguation%29) | [UltrasonicMadness](https://en.wikipedia.org/wiki/User:UltrasonicMadness) | 316 |
+| 2026-10-29 22:44:00 | [Salon of 1884](https://en.wikipedia.org/wiki/Salon_of_1884) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 3,621 |
+| 2026-10-29 22:44:10 | [Caroline Deruas](https://en.wikipedia.org/wiki/Caroline_Deruas) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 647 |
+| 2026-10-29 22:48:29 | [Malekeh Nazie Eftekhari](https://en.wikipedia.org/wiki/Malekeh_Nazie_Eftekhari) | [BlankLeaf](https://en.wikipedia.org/wiki/User:BlankLeaf) | 4,900 |
+| 2026-10-29 22:48:30 | [Rat terrier (disambiguation)](https://en.wikipedia.org/wiki/Rat_terrier_%28disambiguation%29) | [Justlettersandnumbers](https://en.wikipedia.org/wiki/User:Justlettersandnumbers) | 240 |
+| 2026-10-29 22:48:45 | [1540 (disambiguation)](https://en.wikipedia.org/wiki/1540_%28disambiguation%29) | [UltrasonicMadness](https://en.wikipedia.org/wiki/User:UltrasonicMadness) | 366 |
+| 2026-10-29 22:50:56 | [Frohm](https://en.wikipedia.org/wiki/Frohm) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 261 |
+| 2026-10-29 22:57:00 | [Harry A. Miller Manufacturing Company](https://en.wikipedia.org/wiki/Harry_A._Miller_Manufacturing_Company) | [HoodsCZ](https://en.wikipedia.org/wiki/User:HoodsCZ) | 12,269 |
+| 2026-10-29 22:58:46 | [Hanna Netterberg](https://en.wikipedia.org/wiki/Hanna_Netterberg) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,738 |
+| 2026-10-29 23:01:37 | [Mau Summit - Malaba Expressway](https://en.wikipedia.org/wiki/Mau_Summit_-_Malaba_Expressway) | [MrKilimani](https://en.wikipedia.org/wiki/User:MrKilimani) | 1,311 |
+| 2026-10-29 23:07:28 | [Sleep With Your Eyes Open](https://en.wikipedia.org/wiki/Sleep_With_Your_Eyes_Open) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 1,121 |
+| 2026-10-29 23:11:00 | [Netterberg](https://en.wikipedia.org/wiki/Netterberg) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 293 |
+| 2026-10-29 23:15:03 | [Old Flames (La Roux album)](https://en.wikipedia.org/wiki/Old_Flames_%28La_Roux_album%29) | [1000MHz](https://en.wikipedia.org/wiki/User:1000MHz) | 5,154 |
+| 2026-10-29 23:19:12 | [2026 World Wrestling Championships – Men's freestyle 57 kg](https://en.wikipedia.org/wiki/2026_World_Wrestling_Championships_%E2%80%93_Men%27s_freestyle_57_kg) | [Sports2021](https://en.wikipedia.org/wiki/User:Sports2021) | 7,068 |
