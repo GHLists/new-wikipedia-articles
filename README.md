@@ -13,40 +13,47 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-29 07:20 UTC](data/en/new-articles-2026-10-29T07-20-40Z.csv) | 8 |
-| Japanese | `ja` | [2026-10-29 07:20 UTC](data/ja/new-articles-2026-10-29T07-20-40Z.csv) | 8 |
-| Chinese | `zh` | [2026-10-29 07:20 UTC](data/zh/new-articles-2026-10-29T07-20-40Z.csv) | 1 |
-| French | `fr` | [2026-10-29 07:20 UTC](data/fr/new-articles-2026-10-29T07-20-40Z.csv) | 3 |
-| German | `de` | [2026-10-29 07:20 UTC](data/de/new-articles-2026-10-29T07-20-40Z.csv) | 7 |
-| Russian | `ru` | [2026-10-29 07:20 UTC](data/ru/new-articles-2026-10-29T07-20-40Z.csv) | 7 |
-| Spanish | `es` | [2026-10-29 06:18 UTC](data/es/new-articles-2026-10-29T06-18-54Z.csv) | 7 |
-| Italian | `it` | [2026-10-29 07:20 UTC](data/it/new-articles-2026-10-29T07-20-40Z.csv) | 2 |
-| Portuguese | `pt` | [2026-10-29 05:19 UTC](data/pt/new-articles-2026-10-29T05-19-16Z.csv) | 5 |
-| Polish | `pl` | [2026-10-29 06:18 UTC](data/pl/new-articles-2026-10-29T06-18-54Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-29 07:20 UTC](data/ar/new-articles-2026-10-29T07-20-40Z.csv) | 3 |
-| Persian | `fa` | [2026-10-29 07:20 UTC](data/fa/new-articles-2026-10-29T07-20-40Z.csv) | 20 |
-| Turkish | `tr` | [2026-10-29 07:20 UTC](data/tr/new-articles-2026-10-29T07-20-40Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-29 06:18 UTC](data/he/new-articles-2026-10-29T06-18-54Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-29 07:20 UTC](data/sv/new-articles-2026-10-29T07-20-40Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-29 07:20 UTC](data/nl/new-articles-2026-10-29T07-20-40Z.csv) | 2 |
-| Korean | `ko` | [2026-10-29 07:20 UTC](data/ko/new-articles-2026-10-29T07-20-40Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-29 07:20 UTC](data/id/new-articles-2026-10-29T07-20-40Z.csv) | 13 |
-| Ukrainian | `uk` | [2026-10-29 07:20 UTC](data/uk/new-articles-2026-10-29T07-20-40Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-10-29 07:20 UTC](data/vi/new-articles-2026-10-29T07-20-40Z.csv) | 2 |
+| English | `en` | [2026-10-29 08:19 UTC](data/en/new-articles-2026-10-29T08-19-48Z.csv) | 15 |
+| Japanese | `ja` | [2026-10-29 08:19 UTC](data/ja/new-articles-2026-10-29T08-19-48Z.csv) | 3 |
+| Chinese | `zh` | [2026-10-29 08:19 UTC](data/zh/new-articles-2026-10-29T08-19-48Z.csv) | 3 |
+| French | `fr` | [2026-10-29 08:19 UTC](data/fr/new-articles-2026-10-29T08-19-48Z.csv) | 2 |
+| German | `de` | [2026-10-29 08:19 UTC](data/de/new-articles-2026-10-29T08-19-48Z.csv) | 8 |
+| Russian | `ru` | [2026-10-29 08:19 UTC](data/ru/new-articles-2026-10-29T08-19-48Z.csv) | 8 |
+| Spanish | `es` | [2026-10-29 08:19 UTC](data/es/new-articles-2026-10-29T08-19-48Z.csv) | 16 |
+| Italian | `it` | [2026-10-29 08:19 UTC](data/it/new-articles-2026-10-29T08-19-48Z.csv) | 14 |
+| Portuguese | `pt` | [2026-10-29 08:19 UTC](data/pt/new-articles-2026-10-29T08-19-48Z.csv) | 1 |
+| Polish | `pl` | [2026-10-29 08:19 UTC](data/pl/new-articles-2026-10-29T08-19-48Z.csv) | 1 |
+| Arabic | `ar` | [2026-10-29 08:19 UTC](data/ar/new-articles-2026-10-29T08-19-48Z.csv) | 4 |
+| Persian | `fa` | [2026-10-29 08:19 UTC](data/fa/new-articles-2026-10-29T08-19-48Z.csv) | 16 |
+| Turkish | `tr` | [2026-10-29 08:19 UTC](data/tr/new-articles-2026-10-29T08-19-48Z.csv) | 3 |
+| Hebrew | `he` | [2026-10-29 08:19 UTC](data/he/new-articles-2026-10-29T08-19-48Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-29 08:19 UTC](data/sv/new-articles-2026-10-29T08-19-48Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-29 08:19 UTC](data/nl/new-articles-2026-10-29T08-19-48Z.csv) | 8 |
+| Korean | `ko` | [2026-10-29 08:19 UTC](data/ko/new-articles-2026-10-29T08-19-48Z.csv) | 7 |
+| Indonesian | `id` | [2026-10-29 08:19 UTC](data/id/new-articles-2026-10-29T08-19-48Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-10-29 08:19 UTC](data/uk/new-articles-2026-10-29T08-19-48Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-10-29 08:19 UTC](data/vi/new-articles-2026-10-29T08-19-48Z.csv) | 1 |
 
-## English (en) — 2026-10-29 07:20 UTC
+## English (en) — 2026-10-29 08:19 UTC
 
-New articles created between 2026-10-29 06:18 UTC and 2026-10-29 07:20 UTC.
+New articles created between 2026-10-29 07:20 UTC and 2026-10-29 08:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-29T07-20-40Z.csv)
+[Full CSV](data/en/new-articles-2026-10-29T08-19-48Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-29 06:26:39 | [Jane Gool-Tabata](https://en.wikipedia.org/wiki/Jane_Gool-Tabata) | [Michaelgraaf](https://en.wikipedia.org/wiki/User:Michaelgraaf) | 1,683 |
-| 2026-10-29 06:27:19 | [Real estate crisis of 2011-2013 (India)](https://en.wikipedia.org/wiki/Real_estate_crisis_of_2011-2013_%28India%29) | [Cppfront](https://en.wikipedia.org/wiki/User:Cppfront) | 4,082 |
-| 2026-10-29 06:33:04 | [2026–27 Malaysia A3 Community League](https://en.wikipedia.org/wiki/2026%E2%80%9327_Malaysia_A3_Community_League) | [Kuzutrash](https://en.wikipedia.org/wiki/User:Kuzutrash) | 5,538 |
-| 2026-10-29 06:43:05 | [Francisco Javier Abreu](https://en.wikipedia.org/wiki/Francisco_Javier_Abreu) | [Takeitorleaveit59](https://en.wikipedia.org/wiki/User:Takeitorleaveit59) | 2,299 |
-| 2026-10-29 06:43:38 | [Hamish Davis](https://en.wikipedia.org/wiki/Hamish_Davis) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 4,217 |
-| 2026-10-29 06:56:23 | [2026–27 VCU Rams women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_VCU_Rams_women%27s_basketball_team) | [Lucas-4648](https://en.wikipedia.org/wiki/User:Lucas-4648) | 27,477 |
-| 2026-10-29 06:57:55 | [The D Dorm](https://en.wikipedia.org/wiki/The_D_Dorm) | [Rlsmr3139](https://en.wikipedia.org/wiki/User:Rlsmr3139) | 11,047 |
-| 2026-10-29 07:18:02 | [Baghi Shahzada](https://en.wikipedia.org/wiki/Baghi_Shahzada) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,654 |
+| 2026-10-29 07:23:12 | [Warangal–Khammam–Nalgonda Graduates constituency](https://en.wikipedia.org/wiki/Warangal%E2%80%93Khammam%E2%80%93Nalgonda_Graduates_constituency) | [Jayanthkumar123](https://en.wikipedia.org/wiki/User:Jayanthkumar123) | 4,515 |
+| 2026-10-29 07:26:24 | [Vogelfrei (disambiguation)](https://en.wikipedia.org/wiki/Vogelfrei_%28disambiguation%29) | [1brianm7](https://en.wikipedia.org/wiki/User:1brianm7) | 634 |
+| 2026-10-29 07:28:45 | [Harvey Johnston](https://en.wikipedia.org/wiki/Harvey_Johnston) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,597 |
+| 2026-10-29 07:47:26 | [Tourist (1990 film)](https://en.wikipedia.org/wiki/Tourist_%281990_film%29) | [Sailor10000](https://en.wikipedia.org/wiki/User:Sailor10000) | 3,627 |
+| 2026-10-29 07:49:24 | [2025 Meath Senior Hurling Championship](https://en.wikipedia.org/wiki/2025_Meath_Senior_Hurling_Championship) | [Nobbaet](https://en.wikipedia.org/wiki/User:Nobbaet) | 8,501 |
+| 2026-10-29 07:49:58 | [Gran Hermano (Spanish TV series) season 20](https://en.wikipedia.org/wiki/Gran_Hermano_%28Spanish_TV_series%29_season_20) | [A675974811](https://en.wikipedia.org/wiki/User:A675974811) | 3,343 |
+| 2026-10-29 07:54:04 | [Liothorax muscorum](https://en.wikipedia.org/wiki/Liothorax_muscorum) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,061 |
+| 2026-10-29 07:58:02 | [Liothorax felix](https://en.wikipedia.org/wiki/Liothorax_felix) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,415 |
+| 2026-10-29 08:01:01 | [Liothorax bellumgerens](https://en.wikipedia.org/wiki/Liothorax_bellumgerens) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,545 |
+| 2026-10-29 08:07:41 | [Rogelio González](https://en.wikipedia.org/wiki/Rogelio_Gonz%C3%A1lez) | [Lf20](https://en.wikipedia.org/wiki/User:Lf20) | 8,205 |
+| 2026-10-29 08:09:00 | [2027 in Indian Sports](https://en.wikipedia.org/wiki/2027_in_Indian_Sports) | [Badrinarayan konar](https://en.wikipedia.org/wiki/User:Badrinarayan_konar) | 9,268 |
+| 2026-10-29 08:11:15 | [Liothorax bameuli](https://en.wikipedia.org/wiki/Liothorax_bameuli) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,209 |
+| 2026-10-29 08:12:18 | [Mohan Singh Phalianwala](https://en.wikipedia.org/wiki/Mohan_Singh_Phalianwala) | [LangDay](https://en.wikipedia.org/wiki/User:LangDay) | 1,217 |
+| 2026-10-29 08:15:29 | [Liothorax krelli](https://en.wikipedia.org/wiki/Liothorax_krelli) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,399 |
+| 2026-10-29 08:17:29 | [The Two Faces (1987 animated film)](https://en.wikipedia.org/wiki/The_Two_Faces_%281987_animated_film%29) | [Sailor10000](https://en.wikipedia.org/wiki/User:Sailor10000) | 2,321 |
