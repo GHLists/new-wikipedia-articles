@@ -13,49 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-30 01:19 UTC](data/en/new-articles-2026-10-30T01-19-04Z.csv) | 17 |
-| Japanese | `ja` | [2026-10-30 01:19 UTC](data/ja/new-articles-2026-10-30T01-19-04Z.csv) | 6 |
-| Chinese | `zh` | [2026-10-30 01:19 UTC](data/zh/new-articles-2026-10-30T01-19-04Z.csv) | 4 |
-| French | `fr` | [2026-10-30 01:19 UTC](data/fr/new-articles-2026-10-30T01-19-04Z.csv) | 5 |
-| German | `de` | [2026-10-30 01:19 UTC](data/de/new-articles-2026-10-30T01-19-04Z.csv) | 8 |
-| Russian | `ru` | [2026-10-30 01:19 UTC](data/ru/new-articles-2026-10-30T01-19-04Z.csv) | 3 |
-| Spanish | `es` | [2026-10-30 01:19 UTC](data/es/new-articles-2026-10-30T01-19-04Z.csv) | 12 |
-| Italian | `it` | [2026-10-30 00:20 UTC](data/it/new-articles-2026-10-30T00-20-38Z.csv) | 2 |
+| English | `en` | [2026-10-30 02:19 UTC](data/en/new-articles-2026-10-30T02-19-45Z.csv) | 13 |
+| Japanese | `ja` | [2026-10-30 02:19 UTC](data/ja/new-articles-2026-10-30T02-19-45Z.csv) | 5 |
+| Chinese | `zh` | [2026-10-30 02:19 UTC](data/zh/new-articles-2026-10-30T02-19-45Z.csv) | 9 |
+| French | `fr` | [2026-10-30 02:19 UTC](data/fr/new-articles-2026-10-30T02-19-45Z.csv) | 5 |
+| German | `de` | [2026-10-30 02:19 UTC](data/de/new-articles-2026-10-30T02-19-45Z.csv) | 3 |
+| Russian | `ru` | [2026-10-30 02:19 UTC](data/ru/new-articles-2026-10-30T02-19-45Z.csv) | 3 |
+| Spanish | `es` | [2026-10-30 02:19 UTC](data/es/new-articles-2026-10-30T02-19-45Z.csv) | 6 |
+| Italian | `it` | [2026-10-30 02:19 UTC](data/it/new-articles-2026-10-30T02-19-45Z.csv) | 1 |
 | Portuguese | `pt` | [2026-10-30 01:19 UTC](data/pt/new-articles-2026-10-30T01-19-04Z.csv) | 5 |
 | Polish | `pl` | [2026-10-30 01:19 UTC](data/pl/new-articles-2026-10-30T01-19-04Z.csv) | 2 |
-| Arabic | `ar` | [2026-10-29 23:20 UTC](data/ar/new-articles-2026-10-29T23-20-58Z.csv) | 5 |
-| Persian | `fa` | [2026-10-30 01:19 UTC](data/fa/new-articles-2026-10-30T01-19-04Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-30 02:19 UTC](data/ar/new-articles-2026-10-30T02-19-45Z.csv) | 1 |
+| Persian | `fa` | [2026-10-30 02:19 UTC](data/fa/new-articles-2026-10-30T02-19-45Z.csv) | 1 |
 | Turkish | `tr` | [2026-10-30 01:19 UTC](data/tr/new-articles-2026-10-30T01-19-04Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-30 01:19 UTC](data/he/new-articles-2026-10-30T01-19-04Z.csv) | 1 |
+| Hebrew | `he` | [2026-10-30 02:19 UTC](data/he/new-articles-2026-10-30T02-19-45Z.csv) | 1 |
 | Swedish | `sv` | [2026-10-29 23:20 UTC](data/sv/new-articles-2026-10-29T23-20-58Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-30 01:19 UTC](data/nl/new-articles-2026-10-30T01-19-04Z.csv) | 1 |
-| Korean | `ko` | [2026-10-30 01:19 UTC](data/ko/new-articles-2026-10-30T01-19-04Z.csv) | 4 |
-| Indonesian | `id` | [2026-10-30 01:19 UTC](data/id/new-articles-2026-10-30T01-19-04Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-30 01:19 UTC](data/uk/new-articles-2026-10-30T01-19-04Z.csv) | 1 |
+| Dutch | `nl` | [2026-10-30 02:19 UTC](data/nl/new-articles-2026-10-30T02-19-45Z.csv) | 1 |
+| Korean | `ko` | [2026-10-30 02:19 UTC](data/ko/new-articles-2026-10-30T02-19-45Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-30 02:19 UTC](data/id/new-articles-2026-10-30T02-19-45Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-10-30 02:19 UTC](data/uk/new-articles-2026-10-30T02-19-45Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-10-30 01:19 UTC](data/vi/new-articles-2026-10-30T01-19-04Z.csv) | 2 |
 
-## English (en) — 2026-10-30 01:19 UTC
+## English (en) — 2026-10-30 02:19 UTC
 
-New articles created between 2026-10-30 00:20 UTC and 2026-10-30 01:19 UTC.
+New articles created between 2026-10-30 01:19 UTC and 2026-10-30 02:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-30T01-19-04Z.csv)
+[Full CSV](data/en/new-articles-2026-10-30T02-19-45Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-30 00:22:01 | [Linda Urrutia-Varhall](https://en.wikipedia.org/wiki/Linda_Urrutia-Varhall) | [TexasBob85](https://en.wikipedia.org/wiki/User:TexasBob85) | 9,967 |
-| 2026-10-30 00:23:44 | [Gael Ochoa](https://en.wikipedia.org/wiki/Gael_Ochoa) | [Butters.From.SouthPark](https://en.wikipedia.org/wiki/User:Butters.From.SouthPark) | 3,626 |
-| 2026-10-30 00:27:59 | [Daniel Rueda Bodega](https://en.wikipedia.org/wiki/Daniel_Rueda_Bodega) | [Aleksandr Grigoryev](https://en.wikipedia.org/wiki/User:Aleksandr_Grigoryev) | 5,418 |
-| 2026-10-30 00:30:37 | [Elise Ryder Wikén](https://en.wikipedia.org/wiki/Elise_Ryder_Wik%C3%A9n) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 4,281 |
-| 2026-10-30 00:39:55 | [Homebuilders Association Vancouver](https://en.wikipedia.org/wiki/Homebuilders_Association_Vancouver) | [Kil Zee](https://en.wikipedia.org/wiki/User:Kil_Zee) | 3,147 |
-| 2026-10-30 00:40:48 | [Alexei Drynov](https://en.wikipedia.org/wiki/Alexei_Drynov) | [Athanasius238](https://en.wikipedia.org/wiki/User:Athanasius238) | 1,997 |
-| 2026-10-30 00:41:30 | [Vicente Mancebo](https://en.wikipedia.org/wiki/Vicente_Mancebo) | [Takeitorleaveit59](https://en.wikipedia.org/wiki/User:Takeitorleaveit59) | 1,276 |
-| 2026-10-30 00:51:40 | [Willa Wales Corbitt](https://en.wikipedia.org/wiki/Willa_Wales_Corbitt) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,941 |
-| 2026-10-30 00:53:50 | [Pastasciutta antifascista](https://en.wikipedia.org/wiki/Pastasciutta_antifascista) | [MtPenguinMonster](https://en.wikipedia.org/wiki/User:MtPenguinMonster) | 4,986 |
-| 2026-10-30 00:55:44 | [Steve Arveschoug](https://en.wikipedia.org/wiki/Steve_Arveschoug) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,257 |
-| 2026-10-30 00:57:24 | [Lucca Grego](https://en.wikipedia.org/wiki/Lucca_Grego) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 4,776 |
-| 2026-10-30 01:00:13 | [Bayernwacht](https://en.wikipedia.org/wiki/Bayernwacht) | [Denninithan](https://en.wikipedia.org/wiki/User:Denninithan) | 6,746 |
-| 2026-10-30 01:01:18 | [Trent Dee Stephens](https://en.wikipedia.org/wiki/Trent_Dee_Stephens) | [PalOmini](https://en.wikipedia.org/wiki/User:PalOmini) | 7,779 |
-| 2026-10-30 01:01:54 | [Maxwell Sudholz](https://en.wikipedia.org/wiki/Maxwell_Sudholz) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 1,993 |
-| 2026-10-30 01:06:11 | [Kelyann Bezahaf](https://en.wikipedia.org/wiki/Kelyann_Bezahaf) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,444 |
-| 2026-10-30 01:09:49 | [3-Hydroxy-4-methoxyamphetamine](https://en.wikipedia.org/wiki/3-Hydroxy-4-methoxyamphetamine) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 3,450 |
-| 2026-10-30 01:15:28 | [Fredy (song)](https://en.wikipedia.org/wiki/Fredy_%28song%29) | [Moscow Connection](https://en.wikipedia.org/wiki/User:Moscow_Connection) | 2,585 |
+| 2026-10-30 01:23:05 | [Penstemon xylus](https://en.wikipedia.org/wiki/Penstemon_xylus) | [MtBotany](https://en.wikipedia.org/wiki/User:MtBotany) | 8,852 |
+| 2026-10-30 01:23:57 | [Dick Hall (American football)](https://en.wikipedia.org/wiki/Dick_Hall_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 5,634 |
+| 2026-10-30 01:28:13 | [2026–27 Swiss Women's Super League](https://en.wikipedia.org/wiki/2026%E2%80%9327_Swiss_Women%27s_Super_League) | [Yoblyblob](https://en.wikipedia.org/wiki/User:Yoblyblob) | 6,643 |
+| 2026-10-30 01:29:24 | [Magatte Wade](https://en.wikipedia.org/wiki/Magatte_Wade) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 6,441 |
+| 2026-10-30 01:32:55 | [Julián de Aponte](https://en.wikipedia.org/wiki/Juli%C3%A1n_de_Aponte) | [Takeitorleaveit59](https://en.wikipedia.org/wiki/User:Takeitorleaveit59) | 2,548 |
+| 2026-10-30 01:38:30 | [Magatte](https://en.wikipedia.org/wiki/Magatte) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 251 |
+| 2026-10-30 01:40:54 | [List of World Sumo Championships medalists (women)](https://en.wikipedia.org/wiki/List_of_World_Sumo_Championships_medalists_%28women%29) | [Ixnix](https://en.wikipedia.org/wiki/User:Ixnix) | 10,293 |
+| 2026-10-30 01:54:01 | [Maria Madeleine Diallo](https://en.wikipedia.org/wiki/Maria_Madeleine_Diallo) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 6,767 |
+| 2026-10-30 01:54:35 | [Forensic Identification of the October 7 victims](https://en.wikipedia.org/wiki/Forensic_Identification_of_the_October_7_victims) | [Happypenguins82](https://en.wikipedia.org/wiki/User:Happypenguins82) | 12,658 |
+| 2026-10-30 02:01:51 | [Trowutta Regional Reserve](https://en.wikipedia.org/wiki/Trowutta_Regional_Reserve) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 1,072 |
+| 2026-10-30 02:01:54 | [NWCX](https://en.wikipedia.org/wiki/NWCX) | [DividedFrame](https://en.wikipedia.org/wiki/User:DividedFrame) | 217 |
+| 2026-10-30 02:03:44 | [Four Points by Sheraton Linkou](https://en.wikipedia.org/wiki/Four_Points_by_Sheraton_Linkou) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 3,782 |
+| 2026-10-30 02:11:11 | [List of mental disorders in the DSM-5 and DSM-5-TR](https://en.wikipedia.org/wiki/List_of_mental_disorders_in_the_DSM-5_and_DSM-5-TR) | [Shocksingularity](https://en.wikipedia.org/wiki/User:Shocksingularity) | 95,303 |
