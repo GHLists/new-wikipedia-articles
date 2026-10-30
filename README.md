@@ -13,63 +13,67 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-30 18:19 UTC](data/en/new-articles-2026-10-30T18-19-16Z.csv) | 31 |
-| Japanese | `ja` | [2026-10-30 18:19 UTC](data/ja/new-articles-2026-10-30T18-19-16Z.csv) | 4 |
-| Chinese | `zh` | [2026-10-30 18:19 UTC](data/zh/new-articles-2026-10-30T18-19-16Z.csv) | 5 |
-| French | `fr` | [2026-10-30 18:19 UTC](data/fr/new-articles-2026-10-30T18-19-16Z.csv) | 11 |
-| German | `de` | [2026-10-30 18:19 UTC](data/de/new-articles-2026-10-30T18-19-16Z.csv) | 10 |
-| Russian | `ru` | [2026-10-30 18:19 UTC](data/ru/new-articles-2026-10-30T18-19-16Z.csv) | 8 |
-| Spanish | `es` | [2026-10-30 18:19 UTC](data/es/new-articles-2026-10-30T18-19-16Z.csv) | 13 |
-| Italian | `it` | [2026-10-30 18:19 UTC](data/it/new-articles-2026-10-30T18-19-16Z.csv) | 9 |
-| Portuguese | `pt` | [2026-10-30 18:19 UTC](data/pt/new-articles-2026-10-30T18-19-16Z.csv) | 8 |
-| Polish | `pl` | [2026-10-30 18:19 UTC](data/pl/new-articles-2026-10-30T18-19-16Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-30 18:19 UTC](data/ar/new-articles-2026-10-30T18-19-16Z.csv) | 7 |
-| Persian | `fa` | [2026-10-30 18:19 UTC](data/fa/new-articles-2026-10-30T18-19-16Z.csv) | 7 |
-| Turkish | `tr` | [2026-10-30 18:19 UTC](data/tr/new-articles-2026-10-30T18-19-16Z.csv) | 2 |
-| Hebrew | `he` | [2026-10-30 18:19 UTC](data/he/new-articles-2026-10-30T18-19-16Z.csv) | 3 |
-| Swedish | `sv` | [2026-10-30 18:19 UTC](data/sv/new-articles-2026-10-30T18-19-16Z.csv) | 5 |
-| Dutch | `nl` | [2026-10-30 18:19 UTC](data/nl/new-articles-2026-10-30T18-19-16Z.csv) | 2 |
+| English | `en` | [2026-10-30 19:20 UTC](data/en/new-articles-2026-10-30T19-20-05Z.csv) | 35 |
+| Japanese | `ja` | [2026-10-30 19:20 UTC](data/ja/new-articles-2026-10-30T19-20-05Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-30 19:20 UTC](data/zh/new-articles-2026-10-30T19-20-05Z.csv) | 3 |
+| French | `fr` | [2026-10-30 19:20 UTC](data/fr/new-articles-2026-10-30T19-20-05Z.csv) | 11 |
+| German | `de` | [2026-10-30 19:20 UTC](data/de/new-articles-2026-10-30T19-20-05Z.csv) | 15 |
+| Russian | `ru` | [2026-10-30 19:20 UTC](data/ru/new-articles-2026-10-30T19-20-05Z.csv) | 8 |
+| Spanish | `es` | [2026-10-30 19:20 UTC](data/es/new-articles-2026-10-30T19-20-05Z.csv) | 11 |
+| Italian | `it` | [2026-10-30 19:20 UTC](data/it/new-articles-2026-10-30T19-20-05Z.csv) | 8 |
+| Portuguese | `pt` | [2026-10-30 19:20 UTC](data/pt/new-articles-2026-10-30T19-20-05Z.csv) | 11 |
+| Polish | `pl` | [2026-10-30 19:20 UTC](data/pl/new-articles-2026-10-30T19-20-05Z.csv) | 4 |
+| Arabic | `ar` | [2026-10-30 19:20 UTC](data/ar/new-articles-2026-10-30T19-20-05Z.csv) | 7 |
+| Persian | `fa` | [2026-10-30 19:20 UTC](data/fa/new-articles-2026-10-30T19-20-05Z.csv) | 2 |
+| Turkish | `tr` | [2026-10-30 19:20 UTC](data/tr/new-articles-2026-10-30T19-20-05Z.csv) | 3 |
+| Hebrew | `he` | [2026-10-30 19:20 UTC](data/he/new-articles-2026-10-30T19-20-05Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-30 19:20 UTC](data/sv/new-articles-2026-10-30T19-20-05Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-30 19:20 UTC](data/nl/new-articles-2026-10-30T19-20-05Z.csv) | 8 |
 | Korean | `ko` | [2026-10-30 17:18 UTC](data/ko/new-articles-2026-10-30T17-18-53Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-30 18:19 UTC](data/id/new-articles-2026-10-30T18-19-16Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-10-30 18:19 UTC](data/uk/new-articles-2026-10-30T18-19-16Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-10-30 18:19 UTC](data/vi/new-articles-2026-10-30T18-19-16Z.csv) | 3 |
+| Indonesian | `id` | [2026-10-30 19:20 UTC](data/id/new-articles-2026-10-30T19-20-05Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-10-30 19:20 UTC](data/uk/new-articles-2026-10-30T19-20-05Z.csv) | 25 |
+| Vietnamese | `vi` | [2026-10-30 19:20 UTC](data/vi/new-articles-2026-10-30T19-20-05Z.csv) | 1 |
 
-## English (en) — 2026-10-30 18:19 UTC
+## English (en) — 2026-10-30 19:20 UTC
 
-New articles created between 2026-10-30 17:18 UTC and 2026-10-30 18:19 UTC.
+New articles created between 2026-10-30 18:19 UTC and 2026-10-30 19:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-30T18-19-16Z.csv)
+[Full CSV](data/en/new-articles-2026-10-30T19-20-05Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-30 17:24:45 | [List of equipment of the Salvadoran Armed Forces](https://en.wikipedia.org/wiki/List_of_equipment_of_the_Salvadoran_Armed_Forces) | [Mehmed Nâzım](https://en.wikipedia.org/wiki/User:Mehmed_N%C3%A2z%C4%B1m) | 1,324 |
-| 2026-10-30 17:34:01 | [2013–14 MFK Ružomberok season](https://en.wikipedia.org/wiki/2013%E2%80%9314_MFK_Ru%C5%BEomberok_season) | [Rakeck](https://en.wikipedia.org/wiki/User:Rakeck) | 3,291 |
-| 2026-10-30 17:34:47 | [Sonstraal](https://en.wikipedia.org/wiki/Sonstraal) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 7,731 |
-| 2026-10-30 17:35:31 | [Hugo Pais](https://en.wikipedia.org/wiki/Hugo_Pais) | [Guimaraescidadeberco](https://en.wikipedia.org/wiki/User:Guimaraescidadeberco) | 4,059 |
-| 2026-10-30 17:35:57 | [Ptenothrix unicolor](https://en.wikipedia.org/wiki/Ptenothrix_unicolor) | [Lark999](https://en.wikipedia.org/wiki/User:Lark999) | 1,866 |
-| 2026-10-30 17:38:37 | [Plagiogonus farai](https://en.wikipedia.org/wiki/Plagiogonus_farai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,937 |
-| 2026-10-30 17:40:41 | [Plagiogonus duporti](https://en.wikipedia.org/wiki/Plagiogonus_duporti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,904 |
-| 2026-10-30 17:42:14 | [2026 Uttarakhand helicopter crash](https://en.wikipedia.org/wiki/2026_Uttarakhand_helicopter_crash) | [4-RAZOR 01](https://en.wikipedia.org/wiki/User:4-RAZOR_01) | 4,176 |
-| 2026-10-30 17:42:17 | [Jono (video game)](https://en.wikipedia.org/wiki/Jono_%28video_game%29) | [1brianm7](https://en.wikipedia.org/wiki/User:1brianm7) | 4,192 |
-| 2026-10-30 17:43:12 | [Plagiogonus nanus](https://en.wikipedia.org/wiki/Plagiogonus_nanus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,104 |
-| 2026-10-30 17:43:45 | [Kelvin Moore (American football)](https://en.wikipedia.org/wiki/Kelvin_Moore_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 5,965 |
-| 2026-10-30 17:44:47 | [Heavy Is the Crown (album)](https://en.wikipedia.org/wiki/Heavy_Is_the_Crown_%28album%29) | [Sock](https://en.wikipedia.org/wiki/User:Sock) | 12,379 |
-| 2026-10-30 17:45:29 | [2027 in Fijian football](https://en.wikipedia.org/wiki/2027_in_Fijian_football) | [Yoblyblob](https://en.wikipedia.org/wiki/User:Yoblyblob) | 1,413 |
-| 2026-10-30 17:46:04 | [Plagiogonus nanoides](https://en.wikipedia.org/wiki/Plagiogonus_nanoides) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,909 |
-| 2026-10-30 17:46:28 | [Chaganbulage Formation](https://en.wikipedia.org/wiki/Chaganbulage_Formation) | [Stromatherium](https://en.wikipedia.org/wiki/User:Stromatherium) | 6,352 |
-| 2026-10-30 17:47:38 | [Caccothryptus wuyishanensis](https://en.wikipedia.org/wiki/Caccothryptus_wuyishanensis) | [Generalissima](https://en.wikipedia.org/wiki/User:Generalissima) | 6,070 |
-| 2026-10-30 17:48:33 | [Plagiogonus syriacus](https://en.wikipedia.org/wiki/Plagiogonus_syriacus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,957 |
-| 2026-10-30 17:51:07 | [Néstor Corredor](https://en.wikipedia.org/wiki/N%C3%A9stor_Corredor) | [Captain Parmenter](https://en.wikipedia.org/wiki/User:Captain_Parmenter) | 5,198 |
-| 2026-10-30 17:51:25 | [Setyadjit Soegondo](https://en.wikipedia.org/wiki/Setyadjit_Soegondo) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 12,207 |
-| 2026-10-30 17:52:01 | [Light rail in Greater Mexico City](https://en.wikipedia.org/wiki/Light_rail_in_Greater_Mexico_City) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 21,640 |
-| 2026-10-30 17:52:30 | [I'm Queen](https://en.wikipedia.org/wiki/I%27m_Queen) | [SoeThiha5](https://en.wikipedia.org/wiki/User:SoeThiha5) | 4,834 |
-| 2026-10-30 17:52:39 | [Makita (disambiguation)](https://en.wikipedia.org/wiki/Makita_%28disambiguation%29) | [TJRC](https://en.wikipedia.org/wiki/User:TJRC) | 1,018 |
-| 2026-10-30 17:54:14 | [Leo Feichtmeier](https://en.wikipedia.org/wiki/Leo_Feichtmeier) | [Fronbergerin](https://en.wikipedia.org/wiki/User:Fronbergerin) | 15,636 |
-| 2026-10-30 17:58:18 | [César Guinle](https://en.wikipedia.org/wiki/C%C3%A9sar_Guinle) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 692 |
-| 2026-10-30 18:03:41 | [Bryan Miles and Shannon Miles](https://en.wikipedia.org/wiki/Bryan_Miles_and_Shannon_Miles) | [FunGranny](https://en.wikipedia.org/wiki/User:FunGranny) | 4,862 |
-| 2026-10-30 18:03:51 | [Les Haws](https://en.wikipedia.org/wiki/Les_Haws) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 5,423 |
-| 2026-10-30 18:04:23 | [University of Idaho Historic District](https://en.wikipedia.org/wiki/University_of_Idaho_Historic_District) | [Lewisday](https://en.wikipedia.org/wiki/User:Lewisday) | 2,444 |
-| 2026-10-30 18:15:31 | [Sing-nan Fen](https://en.wikipedia.org/wiki/Sing-nan_Fen) | [Ahmed-Ayhu](https://en.wikipedia.org/wiki/User:Ahmed-Ayhu) | 2,534 |
-| 2026-10-30 18:18:03 | [West australian reptile park](https://en.wikipedia.org/wiki/West_australian_reptile_park) | [Binturong32](https://en.wikipedia.org/wiki/User:Binturong32) | 5,067 |
-| 2026-10-30 18:18:06 | [Martin Blum](https://en.wikipedia.org/wiki/Martin_Blum) | [RevAndroid](https://en.wikipedia.org/wiki/User:RevAndroid) | 4,780 |
-| 2026-10-30 18:18:47 | [Tom Livne](https://en.wikipedia.org/wiki/Tom_Livne) | [Hashrekak](https://en.wikipedia.org/wiki/User:Hashrekak) | 720 |
+| 2026-10-30 18:21:17 | [Hylak](https://en.wikipedia.org/wiki/Hylak) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 164 |
+| 2026-10-30 18:22:46 | [Atlanta Thrashers relocation to Winnipeg](https://en.wikipedia.org/wiki/Atlanta_Thrashers_relocation_to_Winnipeg) | [Sunshinezguy](https://en.wikipedia.org/wiki/User:Sunshinezguy) | 15,775 |
+| 2026-10-30 18:25:36 | [Afghanistan at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Afghanistan_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 5,577 |
+| 2026-10-30 18:28:41 | [2027 Italian centre-left primary election](https://en.wikipedia.org/wiki/2027_Italian_centre-left_primary_election) | [Broncoviz](https://en.wikipedia.org/wiki/User:Broncoviz) | 14,591 |
+| 2026-10-30 18:29:07 | [(The) West Australian Reptile Park](https://en.wikipedia.org/wiki/%28The%29_West_Australian_Reptile_Park) | [Binturong32](https://en.wikipedia.org/wiki/User:Binturong32) | 5,100 |
+| 2026-10-30 18:30:59 | [Plagiogonus bortkevitschi](https://en.wikipedia.org/wiki/Plagiogonus_bortkevitschi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,112 |
+| 2026-10-30 18:33:19 | [Tropical Coriano](https://en.wikipedia.org/wiki/Tropical_Coriano) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 988 |
+| 2026-10-30 18:34:03 | [Plagiogonus inflatus](https://en.wikipedia.org/wiki/Plagiogonus_inflatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,068 |
+| 2026-10-30 18:35:47 | [Wisconsin's Grant County 2nd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Grant_County_2nd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 14,360 |
+| 2026-10-30 18:38:19 | [Bahrain at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Bahrain_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 4,528 |
+| 2026-10-30 18:38:38 | [2019 WPT Madrid Master](https://en.wikipedia.org/wiki/2019_WPT_Madrid_Master) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 44,860 |
+| 2026-10-30 18:40:30 | [2000 ITU Triathlon World Championships](https://en.wikipedia.org/wiki/2000_ITU_Triathlon_World_Championships) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 28,653 |
+| 2026-10-30 18:43:32 | [Frumin](https://en.wikipedia.org/wiki/Frumin) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 728 |
+| 2026-10-30 18:46:11 | [Nanoantennas](https://en.wikipedia.org/wiki/Nanoantennas) | [Studentojas](https://en.wikipedia.org/wiki/User:Studentojas) | 28,417 |
+| 2026-10-30 18:47:17 | [Roman Silin](https://en.wikipedia.org/wiki/Roman_Silin) | [Athanasius238](https://en.wikipedia.org/wiki/User:Athanasius238) | 1,932 |
+| 2026-10-30 18:47:35 | [Hôtel de Ville, Beaune](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Beaune) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 6,511 |
+| 2026-10-30 18:49:07 | [When the Pawn Hits the Conflicts He Thinks Like a King What He Knows Throws the Blows When He Goes to the Fight and He'll Win the Whole Thing 'Fore He Enters the Ring There's No Body to Batter When Your Mind Is Your Might So When You Go Solo, You Hold...](https://en.wikipedia.org/wiki/When_the_Pawn_Hits_the_Conflicts_He_Thinks_Like_a_King_What_He_Knows_Throws_the_Blows_When_He_Goes_to_the_Fight_and_He%27ll_Win_the_Whole_Thing_%27Fore_He_Enters_the_Ring_There%27s_No_Body_to_Batter_When_Your_Mind_Is_Your_Might_So_When_You_Go_Solo%2C_You_Hold...) | [Thb33430](https://en.wikipedia.org/wiki/User:Thb33430) | 99 |
+| 2026-10-30 18:49:25 | [List of pharaonic tombs](https://en.wikipedia.org/wiki/List_of_pharaonic_tombs) | [Hypnôs](https://en.wikipedia.org/wiki/User:Hypn%C3%B4s) | 33,783 |
+| 2026-10-30 18:51:49 | [Johann Michael Mettenleiter](https://en.wikipedia.org/wiki/Johann_Michael_Mettenleiter) | [Simon Ellistrand](https://en.wikipedia.org/wiki/User:Simon_Ellistrand) | 3,261 |
+| 2026-10-30 18:52:24 | [Ray Miller (boxer)](https://en.wikipedia.org/wiki/Ray_Miller_%28boxer%29) | [GOAT Bones231012](https://en.wikipedia.org/wiki/User:GOAT_Bones231012) | 34,101 |
+| 2026-10-30 18:52:59 | [Jerry Barnett](https://en.wikipedia.org/wiki/Jerry_Barnett) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 5,285 |
+| 2026-10-30 18:56:01 | [Bangladesh at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Bangladesh_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 4,530 |
+| 2026-10-30 18:58:20 | [Skeletons (Pop Evil song)](https://en.wikipedia.org/wiki/Skeletons_%28Pop_Evil_song%29) | [Flemza](https://en.wikipedia.org/wiki/User:Flemza) | 6,406 |
+| 2026-10-30 19:01:03 | [Petr Benda (zoologist)](https://en.wikipedia.org/wiki/Petr_Benda_%28zoologist%29) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 98 |
+| 2026-10-30 19:01:44 | [Kitab Ghanja](https://en.wikipedia.org/wiki/Kitab_Ghanja) | [KeyolTranslater](https://en.wikipedia.org/wiki/User:KeyolTranslater) | 1,033 |
+| 2026-10-30 19:02:50 | [Black Lion, Bayswater](https://en.wikipedia.org/wiki/Black_Lion%2C_Bayswater) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,485 |
+| 2026-10-30 19:06:20 | [Madhu Prasad Acharya](https://en.wikipedia.org/wiki/Madhu_Prasad_Acharya) | [Prayushk](https://en.wikipedia.org/wiki/User:Prayushk) | 1,403 |
+| 2026-10-30 19:07:22 | [Someone Else's Baby](https://en.wikipedia.org/wiki/Someone_Else%27s_Baby) | [DPUH](https://en.wikipedia.org/wiki/User:DPUH) | 5,550 |
+| 2026-10-30 19:08:17 | [2001 ITU Triathlon World Championships](https://en.wikipedia.org/wiki/2001_ITU_Triathlon_World_Championships) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 24,782 |
+| 2026-10-30 19:08:41 | [2026 Rolex Paris Masters – Singles](https://en.wikipedia.org/wiki/2026_Rolex_Paris_Masters_%E2%80%93_Singles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 19,042 |
+| 2026-10-30 19:08:58 | [WAYF Boys](https://en.wikipedia.org/wiki/WAYF_Boys) | [Reppop](https://en.wikipedia.org/wiki/User:Reppop) | 12,303 |
+| 2026-10-30 19:11:25 | [Charles M. Francis](https://en.wikipedia.org/wiki/Charles_M._Francis) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-10-30 19:12:14 | [Geneviève d'Urfé](https://en.wikipedia.org/wiki/Genevi%C3%A8ve_d%27Urf%C3%A9) | [Andreas Philopater](https://en.wikipedia.org/wiki/User:Andreas_Philopater) | 1,940 |
+| 2026-10-30 19:18:27 | [Wisconsin's Grant County 3rd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Grant_County_3rd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 10,727 |
+| 2026-10-30 19:19:15 | [Life Support (documentary film)](https://en.wikipedia.org/wiki/Life_Support_%28documentary_film%29) | [Jayen466](https://en.wikipedia.org/wiki/User:Jayen466) | 3,914 |
