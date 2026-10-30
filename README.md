@@ -13,46 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-30 08:21 UTC](data/en/new-articles-2026-10-30T08-21-26Z.csv) | 14 |
-| Japanese | `ja` | [2026-10-30 08:21 UTC](data/ja/new-articles-2026-10-30T08-21-26Z.csv) | 15 |
-| Chinese | `zh` | [2026-10-30 08:21 UTC](data/zh/new-articles-2026-10-30T08-21-26Z.csv) | 11 |
-| French | `fr` | [2026-10-30 08:21 UTC](data/fr/new-articles-2026-10-30T08-21-26Z.csv) | 3 |
-| German | `de` | [2026-10-30 08:21 UTC](data/de/new-articles-2026-10-30T08-21-26Z.csv) | 8 |
-| Russian | `ru` | [2026-10-30 08:21 UTC](data/ru/new-articles-2026-10-30T08-21-26Z.csv) | 9 |
-| Spanish | `es` | [2026-10-30 08:21 UTC](data/es/new-articles-2026-10-30T08-21-26Z.csv) | 3 |
-| Italian | `it` | [2026-10-30 08:21 UTC](data/it/new-articles-2026-10-30T08-21-26Z.csv) | 12 |
+| English | `en` | [2026-10-30 09:20 UTC](data/en/new-articles-2026-10-30T09-20-00Z.csv) | 14 |
+| Japanese | `ja` | [2026-10-30 09:20 UTC](data/ja/new-articles-2026-10-30T09-20-00Z.csv) | 7 |
+| Chinese | `zh` | [2026-10-30 09:20 UTC](data/zh/new-articles-2026-10-30T09-20-00Z.csv) | 5 |
+| French | `fr` | [2026-10-30 09:20 UTC](data/fr/new-articles-2026-10-30T09-20-00Z.csv) | 11 |
+| German | `de` | [2026-10-30 09:20 UTC](data/de/new-articles-2026-10-30T09-20-00Z.csv) | 10 |
+| Russian | `ru` | [2026-10-30 09:20 UTC](data/ru/new-articles-2026-10-30T09-20-00Z.csv) | 6 |
+| Spanish | `es` | [2026-10-30 09:20 UTC](data/es/new-articles-2026-10-30T09-20-00Z.csv) | 4 |
+| Italian | `it` | [2026-10-30 09:20 UTC](data/it/new-articles-2026-10-30T09-20-00Z.csv) | 14 |
 | Portuguese | `pt` | [2026-10-30 08:21 UTC](data/pt/new-articles-2026-10-30T08-21-26Z.csv) | 2 |
-| Polish | `pl` | [2026-10-30 08:21 UTC](data/pl/new-articles-2026-10-30T08-21-26Z.csv) | 5 |
-| Arabic | `ar` | [2026-10-30 08:21 UTC](data/ar/new-articles-2026-10-30T08-21-26Z.csv) | 6 |
-| Persian | `fa` | [2026-10-30 08:21 UTC](data/fa/new-articles-2026-10-30T08-21-26Z.csv) | 10 |
-| Turkish | `tr` | [2026-10-30 08:21 UTC](data/tr/new-articles-2026-10-30T08-21-26Z.csv) | 20 |
-| Hebrew | `he` | [2026-10-30 08:21 UTC](data/he/new-articles-2026-10-30T08-21-26Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-30 08:21 UTC](data/sv/new-articles-2026-10-30T08-21-26Z.csv) | 8 |
-| Dutch | `nl` | [2026-10-30 08:21 UTC](data/nl/new-articles-2026-10-30T08-21-26Z.csv) | 2 |
-| Korean | `ko` | [2026-10-30 08:21 UTC](data/ko/new-articles-2026-10-30T08-21-26Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-30 08:21 UTC](data/id/new-articles-2026-10-30T08-21-26Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-10-30 08:21 UTC](data/uk/new-articles-2026-10-30T08-21-26Z.csv) | 6 |
+| Polish | `pl` | [2026-10-30 09:20 UTC](data/pl/new-articles-2026-10-30T09-20-00Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-30 09:20 UTC](data/ar/new-articles-2026-10-30T09-20-00Z.csv) | 2 |
+| Persian | `fa` | [2026-10-30 09:20 UTC](data/fa/new-articles-2026-10-30T09-20-00Z.csv) | 8 |
+| Turkish | `tr` | [2026-10-30 09:20 UTC](data/tr/new-articles-2026-10-30T09-20-00Z.csv) | 4 |
+| Hebrew | `he` | [2026-10-30 09:20 UTC](data/he/new-articles-2026-10-30T09-20-00Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-30 09:20 UTC](data/sv/new-articles-2026-10-30T09-20-00Z.csv) | 3 |
+| Dutch | `nl` | [2026-10-30 09:20 UTC](data/nl/new-articles-2026-10-30T09-20-00Z.csv) | 7 |
+| Korean | `ko` | [2026-10-30 09:20 UTC](data/ko/new-articles-2026-10-30T09-20-00Z.csv) | 5 |
+| Indonesian | `id` | [2026-10-30 09:20 UTC](data/id/new-articles-2026-10-30T09-20-00Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-10-30 09:20 UTC](data/uk/new-articles-2026-10-30T09-20-00Z.csv) | 8 |
 | Vietnamese | `vi` | [2026-10-30 08:21 UTC](data/vi/new-articles-2026-10-30T08-21-26Z.csv) | 2 |
 
-## English (en) — 2026-10-30 08:21 UTC
+## English (en) — 2026-10-30 09:20 UTC
 
-New articles created between 2026-10-30 07:19 UTC and 2026-10-30 08:21 UTC.
+New articles created between 2026-10-30 08:21 UTC and 2026-10-30 09:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-30T08-21-26Z.csv)
+[Full CSV](data/en/new-articles-2026-10-30T09-20-00Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-30 07:28:49 | [Frome (surname)](https://en.wikipedia.org/wiki/Frome_%28surname%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,088 |
-| 2026-10-30 07:41:02 | [BPJS Ketenagakerjaan](https://en.wikipedia.org/wiki/BPJS_Ketenagakerjaan) | [Affandy Murad](https://en.wikipedia.org/wiki/User:Affandy_Murad) | 5,985 |
-| 2026-10-30 07:43:26 | [New Karakorum](https://en.wikipedia.org/wiki/New_Karakorum) | [Chipmunkdavis](https://en.wikipedia.org/wiki/User:Chipmunkdavis) | 13,289 |
-| 2026-10-30 07:45:13 | [Kihlman](https://en.wikipedia.org/wiki/Kihlman) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 238 |
-| 2026-10-30 07:45:14 | [Alla Wolf-Tasker](https://en.wikipedia.org/wiki/Alla_Wolf-Tasker) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 6,984 |
-| 2026-10-30 07:52:06 | [Alocoderus hydrochaeris](https://en.wikipedia.org/wiki/Alocoderus_hydrochaeris) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,833 |
-| 2026-10-30 07:52:43 | [Offaly Senior Camogie Championship](https://en.wikipedia.org/wiki/Offaly_Senior_Camogie_Championship) | [Nobbaet](https://en.wikipedia.org/wiki/User:Nobbaet) | 12,350 |
-| 2026-10-30 07:55:39 | [Alocoderus holdereri](https://en.wikipedia.org/wiki/Alocoderus_holdereri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,991 |
-| 2026-10-30 07:56:29 | [Sohbat](https://en.wikipedia.org/wiki/Sohbat) | [Jailbreak Hood Irony](https://en.wikipedia.org/wiki/User:Jailbreak_Hood_Irony) | 2,280 |
-| 2026-10-30 08:00:10 | [Punknews.org](https://en.wikipedia.org/wiki/Punknews.org) | [PantheonRadiance](https://en.wikipedia.org/wiki/User:PantheonRadiance) | 10,043 |
-| 2026-10-30 08:01:34 | [Alocoderus digitalis](https://en.wikipedia.org/wiki/Alocoderus_digitalis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,174 |
-| 2026-10-30 08:12:54 | [Workers' University Society](https://en.wikipedia.org/wiki/Workers%27_University_Society) | [Mafo](https://en.wikipedia.org/wiki/User:Mafo) | 15,869 |
-| 2026-10-30 08:16:33 | [Max Kondogiannis](https://en.wikipedia.org/wiki/Max_Kondogiannis) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,817 |
-| 2026-10-30 08:20:14 | [Mirza Faisal Amin](https://en.wikipedia.org/wiki/Mirza_Faisal_Amin) | [Ajijul Islam Emon](https://en.wikipedia.org/wiki/User:Ajijul_Islam_Emon) | 2,845 |
+| 2026-10-30 08:28:44 | [Giorgi Jinjolava](https://en.wikipedia.org/wiki/Giorgi_Jinjolava) | [Zurabalomtadze](https://en.wikipedia.org/wiki/User:Zurabalomtadze) | 6,130 |
+| 2026-10-30 08:30:30 | [Thurne Dyke Mill](https://en.wikipedia.org/wiki/Thurne_Dyke_Mill) | [Mjroots](https://en.wikipedia.org/wiki/User:Mjroots) | 5,200 |
+| 2026-10-30 08:34:53 | [Alocoderus teyrovskyi](https://en.wikipedia.org/wiki/Alocoderus_teyrovskyi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,444 |
+| 2026-10-30 08:44:30 | [The Joy of Living (Jackie Oates album)](https://en.wikipedia.org/wiki/The_Joy_of_Living_%28Jackie_Oates_album%29) | [Headhitter](https://en.wikipedia.org/wiki/User:Headhitter) | 4,384 |
+| 2026-10-30 08:44:45 | [AI Auditing](https://en.wikipedia.org/wiki/AI_Auditing) | [Ahumbrect](https://en.wikipedia.org/wiki/User:Ahumbrect) | 6,987 |
+| 2026-10-30 08:47:01 | [Red Scouting of the Workers' University Society](https://en.wikipedia.org/wiki/Red_Scouting_of_the_Workers%27_University_Society) | [Mafo](https://en.wikipedia.org/wiki/User:Mafo) | 18,542 |
+| 2026-10-30 08:53:00 | [Torres del Yacht](https://en.wikipedia.org/wiki/Torres_del_Yacht) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 4,508 |
+| 2026-10-30 08:56:03 | [Amer Zaakaria Rakim](https://en.wikipedia.org/wiki/Amer_Zaakaria_Rakim) | [FiveGeekabytes](https://en.wikipedia.org/wiki/User:FiveGeekabytes) | 4,687 |
+| 2026-10-30 09:02:01 | [Lonomai](https://en.wikipedia.org/wiki/Lonomai) | [Mychele Trempetich](https://en.wikipedia.org/wiki/User:Mychele_Trempetich) | 1,354 |
+| 2026-10-30 09:03:07 | [Cholok-Aryk](https://en.wikipedia.org/wiki/Cholok-Aryk) | [Thermokarst](https://en.wikipedia.org/wiki/User:Thermokarst) | 4,415 |
+| 2026-10-30 09:10:10 | [Eitensheim (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Eitensheim_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,433 |
+| 2026-10-30 09:15:05 | [Badminton at the 2026 Summer Youth Olympics – Boys' singles](https://en.wikipedia.org/wiki/Badminton_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Boys%27_singles) | [GlashaLeo](https://en.wikipedia.org/wiki/User:GlashaLeo) | 3,884 |
+| 2026-10-30 09:16:27 | [Eichstätt (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Eichst%C3%A4tt_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,565 |
+| 2026-10-30 09:19:55 | [Harold Schwann](https://en.wikipedia.org/wiki/Harold_Schwann) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
