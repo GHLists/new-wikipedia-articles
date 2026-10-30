@@ -13,45 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-30 03:18 UTC](data/en/new-articles-2026-10-30T03-18-59Z.csv) | 13 |
-| Japanese | `ja` | [2026-10-30 03:18 UTC](data/ja/new-articles-2026-10-30T03-18-59Z.csv) | 9 |
-| Chinese | `zh` | [2026-10-30 03:18 UTC](data/zh/new-articles-2026-10-30T03-18-59Z.csv) | 7 |
-| French | `fr` | [2026-10-30 03:18 UTC](data/fr/new-articles-2026-10-30T03-18-59Z.csv) | 3 |
+| English | `en` | [2026-10-30 04:21 UTC](data/en/new-articles-2026-10-30T04-21-20Z.csv) | 13 |
+| Japanese | `ja` | [2026-10-30 04:21 UTC](data/ja/new-articles-2026-10-30T04-21-20Z.csv) | 12 |
+| Chinese | `zh` | [2026-10-30 04:21 UTC](data/zh/new-articles-2026-10-30T04-21-20Z.csv) | 8 |
+| French | `fr` | [2026-10-30 04:21 UTC](data/fr/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
 | German | `de` | [2026-10-30 03:18 UTC](data/de/new-articles-2026-10-30T03-18-59Z.csv) | 4 |
-| Russian | `ru` | [2026-10-30 03:18 UTC](data/ru/new-articles-2026-10-30T03-18-59Z.csv) | 1 |
-| Spanish | `es` | [2026-10-30 03:18 UTC](data/es/new-articles-2026-10-30T03-18-59Z.csv) | 4 |
+| Russian | `ru` | [2026-10-30 04:21 UTC](data/ru/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
+| Spanish | `es` | [2026-10-30 04:21 UTC](data/es/new-articles-2026-10-30T04-21-20Z.csv) | 10 |
 | Italian | `it` | [2026-10-30 03:18 UTC](data/it/new-articles-2026-10-30T03-18-59Z.csv) | 1 |
-| Portuguese | `pt` | [2026-10-30 03:18 UTC](data/pt/new-articles-2026-10-30T03-18-59Z.csv) | 4 |
+| Portuguese | `pt` | [2026-10-30 04:21 UTC](data/pt/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
 | Polish | `pl` | [2026-10-30 03:18 UTC](data/pl/new-articles-2026-10-30T03-18-59Z.csv) | 1 |
-| Arabic | `ar` | [2026-10-30 02:19 UTC](data/ar/new-articles-2026-10-30T02-19-45Z.csv) | 1 |
-| Persian | `fa` | [2026-10-30 02:19 UTC](data/fa/new-articles-2026-10-30T02-19-45Z.csv) | 1 |
-| Turkish | `tr` | [2026-10-30 01:19 UTC](data/tr/new-articles-2026-10-30T01-19-04Z.csv) | 1 |
-| Hebrew | `he` | [2026-10-30 02:19 UTC](data/he/new-articles-2026-10-30T02-19-45Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-29 23:20 UTC](data/sv/new-articles-2026-10-29T23-20-58Z.csv) | 2 |
-| Dutch | `nl` | [2026-10-30 03:18 UTC](data/nl/new-articles-2026-10-30T03-18-59Z.csv) | 3 |
-| Korean | `ko` | [2026-10-30 02:19 UTC](data/ko/new-articles-2026-10-30T02-19-45Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-30 03:18 UTC](data/id/new-articles-2026-10-30T03-18-59Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-10-30 03:18 UTC](data/uk/new-articles-2026-10-30T03-18-59Z.csv) | 2 |
+| Arabic | `ar` | [2026-10-30 04:21 UTC](data/ar/new-articles-2026-10-30T04-21-20Z.csv) | 1 |
+| Persian | `fa` | [2026-10-30 04:21 UTC](data/fa/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
+| Turkish | `tr` | [2026-10-30 04:21 UTC](data/tr/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
+| Hebrew | `he` | [2026-10-30 04:21 UTC](data/he/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
+| Swedish | `sv` | [2026-10-30 04:21 UTC](data/sv/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-30 04:21 UTC](data/nl/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
+| Korean | `ko` | [2026-10-30 04:21 UTC](data/ko/new-articles-2026-10-30T04-21-20Z.csv) | 1 |
+| Indonesian | `id` | [2026-10-30 04:21 UTC](data/id/new-articles-2026-10-30T04-21-20Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-10-30 04:21 UTC](data/uk/new-articles-2026-10-30T04-21-20Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-30 03:18 UTC](data/vi/new-articles-2026-10-30T03-18-59Z.csv) | 2 |
 
-## English (en) — 2026-10-30 03:18 UTC
+## English (en) — 2026-10-30 04:21 UTC
 
-New articles created between 2026-10-30 02:19 UTC and 2026-10-30 03:18 UTC.
+New articles created between 2026-10-30 03:18 UTC and 2026-10-30 04:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-30T03-18-59Z.csv)
+[Full CSV](data/en/new-articles-2026-10-30T04-21-20Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-30 02:21:12 | [Los Lobotomys (album)](https://en.wikipedia.org/wiki/Los_Lobotomys_%28album%29) | [RicksMusic34](https://en.wikipedia.org/wiki/User:RicksMusic34) | 6,569 |
-| 2026-10-30 02:27:09 | [Josh Lai](https://en.wikipedia.org/wiki/Josh_Lai) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 4,651 |
-| 2026-10-30 02:29:39 | [Mohamed Ali Nafti](https://en.wikipedia.org/wiki/Mohamed_Ali_Nafti) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 4,440 |
-| 2026-10-30 02:40:14 | [Zero Hubbard](https://en.wikipedia.org/wiki/Zero_Hubbard) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,876 |
-| 2026-10-30 02:49:36 | [Stenaelurillus ilesai](https://en.wikipedia.org/wiki/Stenaelurillus_ilesai) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,095 |
-| 2026-10-30 02:49:56 | [Vicirionessa mustela](https://en.wikipedia.org/wiki/Vicirionessa_mustela) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,132 |
-| 2026-10-30 02:50:15 | [Nebraska Legislature 14th district](https://en.wikipedia.org/wiki/Nebraska_Legislature_14th_district) | [Basileus121](https://en.wikipedia.org/wiki/User:Basileus121) | 8,971 |
-| 2026-10-30 02:58:37 | [2025 Erbil shooting](https://en.wikipedia.org/wiki/2025_Erbil_shooting) | [Soran](https://en.wikipedia.org/wiki/User:Soran) | 1,066 |
-| 2026-10-30 03:01:21 | [Colinton (house)](https://en.wikipedia.org/wiki/Colinton_%28house%29) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 16,273 |
-| 2026-10-30 03:02:15 | [Wisconsin's Washington County 3rd Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Washington_County_3rd_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 7,216 |
-| 2026-10-30 03:04:40 | [2026 Fiji Premier League](https://en.wikipedia.org/wiki/2026_Fiji_Premier_League) | [Yoblyblob](https://en.wikipedia.org/wiki/User:Yoblyblob) | 6,473 |
-| 2026-10-30 03:09:45 | [Wisconsin's Washington County 4th Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Washington_County_4th_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 4,410 |
-| 2026-10-30 03:13:18 | [Colinton (disambiguation)](https://en.wikipedia.org/wiki/Colinton_%28disambiguation%29) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 427 |
+| 2026-10-30 03:23:16 | [Asuncíon International Airport](https://en.wikipedia.org/wiki/Asunc%C3%ADon_International_Airport) | [Johnj1995](https://en.wikipedia.org/wiki/User:Johnj1995) | 53 |
+| 2026-10-30 03:33:51 | [Faraz Shariat](https://en.wikipedia.org/wiki/Faraz_Shariat) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 1,324 |
+| 2026-10-30 03:42:20 | [Pierre Thollot](https://en.wikipedia.org/wiki/Pierre_Thollot) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,790 |
+| 2026-10-30 03:46:30 | [Jim Hubbard (filmmaker)](https://en.wikipedia.org/wiki/Jim_Hubbard_%28filmmaker%29) | [Jakwaka](https://en.wikipedia.org/wiki/User:Jakwaka) | 2,560 |
+| 2026-10-30 03:55:22 | [Suriname at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Suriname_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 4,226 |
+| 2026-10-30 03:55:34 | [Dave Obelkevich](https://en.wikipedia.org/wiki/Dave_Obelkevich) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 1,278 |
+| 2026-10-30 03:55:59 | [Antigua and Barbuda at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Antigua_and_Barbuda_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 5,711 |
+| 2026-10-30 03:57:27 | [Marisot](https://en.wikipedia.org/wiki/Marisot) | [Jengod](https://en.wikipedia.org/wiki/User:Jengod) | 142 |
+| 2026-10-30 03:58:09 | [Artyom Duda](https://en.wikipedia.org/wiki/Artyom_Duda) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 2,497 |
+| 2026-10-30 04:06:27 | [ILSA](https://en.wikipedia.org/wiki/ILSA) | [SSCreader](https://en.wikipedia.org/wiki/User:SSCreader) | 5,391 |
+| 2026-10-30 04:18:50 | [Solomon Islands at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Solomon_Islands_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 5,198 |
+| 2026-10-30 04:20:05 | [Parmotrema weberi](https://en.wikipedia.org/wiki/Parmotrema_weberi) | [Dr vulpes](https://en.wikipedia.org/wiki/User:Dr_vulpes) | 2,499 |
+| 2026-10-30 04:20:12 | [Wisconsin's Grant County 1st Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Grant_County_1st_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 14,884 |
