@@ -13,52 +13,62 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-30 22:18 UTC](data/en/new-articles-2026-10-30T22-18-30Z.csv) | 20 |
-| Japanese | `ja` | [2026-10-30 22:18 UTC](data/ja/new-articles-2026-10-30T22-18-30Z.csv) | 2 |
-| Chinese | `zh` | [2026-10-30 22:18 UTC](data/zh/new-articles-2026-10-30T22-18-30Z.csv) | 1 |
-| French | `fr` | [2026-10-30 22:18 UTC](data/fr/new-articles-2026-10-30T22-18-30Z.csv) | 10 |
-| German | `de` | [2026-10-30 22:18 UTC](data/de/new-articles-2026-10-30T22-18-30Z.csv) | 11 |
-| Russian | `ru` | [2026-10-30 22:18 UTC](data/ru/new-articles-2026-10-30T22-18-30Z.csv) | 17 |
-| Spanish | `es` | [2026-10-30 22:18 UTC](data/es/new-articles-2026-10-30T22-18-30Z.csv) | 9 |
-| Italian | `it` | [2026-10-30 22:18 UTC](data/it/new-articles-2026-10-30T22-18-30Z.csv) | 8 |
-| Portuguese | `pt` | [2026-10-30 22:18 UTC](data/pt/new-articles-2026-10-30T22-18-30Z.csv) | 2 |
-| Polish | `pl` | [2026-10-30 22:18 UTC](data/pl/new-articles-2026-10-30T22-18-30Z.csv) | 10 |
-| Arabic | `ar` | [2026-10-30 22:18 UTC](data/ar/new-articles-2026-10-30T22-18-30Z.csv) | 10 |
-| Persian | `fa` | [2026-10-30 22:18 UTC](data/fa/new-articles-2026-10-30T22-18-30Z.csv) | 6 |
+| English | `en` | [2026-10-30 23:18 UTC](data/en/new-articles-2026-10-30T23-18-38Z.csv) | 30 |
+| Japanese | `ja` | [2026-10-30 23:18 UTC](data/ja/new-articles-2026-10-30T23-18-38Z.csv) | 4 |
+| Chinese | `zh` | [2026-10-30 23:18 UTC](data/zh/new-articles-2026-10-30T23-18-38Z.csv) | 2 |
+| French | `fr` | [2026-10-30 23:18 UTC](data/fr/new-articles-2026-10-30T23-18-38Z.csv) | 3 |
+| German | `de` | [2026-10-30 23:18 UTC](data/de/new-articles-2026-10-30T23-18-38Z.csv) | 11 |
+| Russian | `ru` | [2026-10-30 23:18 UTC](data/ru/new-articles-2026-10-30T23-18-38Z.csv) | 7 |
+| Spanish | `es` | [2026-10-30 23:18 UTC](data/es/new-articles-2026-10-30T23-18-38Z.csv) | 10 |
+| Italian | `it` | [2026-10-30 23:18 UTC](data/it/new-articles-2026-10-30T23-18-38Z.csv) | 2 |
+| Portuguese | `pt` | [2026-10-30 23:18 UTC](data/pt/new-articles-2026-10-30T23-18-38Z.csv) | 6 |
+| Polish | `pl` | [2026-10-30 23:18 UTC](data/pl/new-articles-2026-10-30T23-18-38Z.csv) | 6 |
+| Arabic | `ar` | [2026-10-30 23:18 UTC](data/ar/new-articles-2026-10-30T23-18-38Z.csv) | 12 |
+| Persian | `fa` | [2026-10-30 23:18 UTC](data/fa/new-articles-2026-10-30T23-18-38Z.csv) | 1 |
 | Turkish | `tr` | [2026-10-30 22:18 UTC](data/tr/new-articles-2026-10-30T22-18-30Z.csv) | 5 |
-| Hebrew | `he` | [2026-10-30 20:19 UTC](data/he/new-articles-2026-10-30T20-19-41Z.csv) | 1 |
-| Swedish | `sv` | [2026-10-30 22:18 UTC](data/sv/new-articles-2026-10-30T22-18-30Z.csv) | 3 |
-| Dutch | `nl` | [2026-10-30 22:18 UTC](data/nl/new-articles-2026-10-30T22-18-30Z.csv) | 1 |
-| Korean | `ko` | [2026-10-30 22:18 UTC](data/ko/new-articles-2026-10-30T22-18-30Z.csv) | 2 |
-| Indonesian | `id` | [2026-10-30 19:20 UTC](data/id/new-articles-2026-10-30T19-20-05Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-30 22:18 UTC](data/uk/new-articles-2026-10-30T22-18-30Z.csv) | 5 |
+| Hebrew | `he` | [2026-10-30 23:18 UTC](data/he/new-articles-2026-10-30T23-18-38Z.csv) | 1 |
+| Swedish | `sv` | [2026-10-30 23:18 UTC](data/sv/new-articles-2026-10-30T23-18-38Z.csv) | 5 |
+| Dutch | `nl` | [2026-10-30 23:18 UTC](data/nl/new-articles-2026-10-30T23-18-38Z.csv) | 3 |
+| Korean | `ko` | [2026-10-30 23:18 UTC](data/ko/new-articles-2026-10-30T23-18-38Z.csv) | 2 |
+| Indonesian | `id` | [2026-10-30 23:18 UTC](data/id/new-articles-2026-10-30T23-18-38Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-10-30 23:18 UTC](data/uk/new-articles-2026-10-30T23-18-38Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-10-30 20:19 UTC](data/vi/new-articles-2026-10-30T20-19-41Z.csv) | 1 |
 
-## English (en) — 2026-10-30 22:18 UTC
+## English (en) — 2026-10-30 23:18 UTC
 
-New articles created between 2026-10-30 21:20 UTC and 2026-10-30 22:18 UTC.
+New articles created between 2026-10-30 22:18 UTC and 2026-10-30 23:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-30T22-18-30Z.csv)
+[Full CSV](data/en/new-articles-2026-10-30T23-18-38Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-30 21:24:19 | [Wisconsin's Grant County 4th Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Grant_County_4th_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 8,873 |
-| 2026-10-30 21:29:04 | [Siege of Znojmo](https://en.wikipedia.org/wiki/Siege_of_Znojmo) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 9,438 |
-| 2026-10-30 21:29:06 | [Oliver Ulloth](https://en.wikipedia.org/wiki/Oliver_Ulloth) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,556 |
-| 2026-10-30 21:34:27 | [1867 Ohio Attorney General election](https://en.wikipedia.org/wiki/1867_Ohio_Attorney_General_election) | [ARandomShyGuy](https://en.wikipedia.org/wiki/User:ARandomShyGuy) | 2,695 |
-| 2026-10-30 21:51:22 | [Morley Crane](https://en.wikipedia.org/wiki/Morley_Crane) | [Thesauri Visitant](https://en.wikipedia.org/wiki/User:Thesauri_Visitant) | 5,472 |
-| 2026-10-30 21:52:02 | [Frances, Lady Whitmore](https://en.wikipedia.org/wiki/Frances%2C_Lady_Whitmore) | [Rasmon12](https://en.wikipedia.org/wiki/User:Rasmon12) | 1,520 |
-| 2026-10-30 21:55:30 | [2026 Polish coup attempt](https://en.wikipedia.org/wiki/2026_Polish_coup_attempt) | [IiSmxyzXX](https://en.wikipedia.org/wiki/User:IiSmxyzXX) | 436 |
-| 2026-10-30 21:55:39 | [Jan Žižka: život a doba husitského válečníka](https://en.wikipedia.org/wiki/Jan_%C5%BDi%C5%BEka%3A_%C5%BEivot_a_doba_husitsk%C3%A9ho_v%C3%A1le%C4%8Dn%C3%ADka) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 4,479 |
-| 2026-10-30 21:56:16 | [2026–27 Valparaiso Beacons women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Valparaiso_Beacons_women%27s_basketball_team) | [Jay.drake67](https://en.wikipedia.org/wiki/User:Jay.drake67) | 31,528 |
-| 2026-10-30 21:57:47 | [Mark Walton Fowler](https://en.wikipedia.org/wiki/Mark_Walton_Fowler) | [The Anome](https://en.wikipedia.org/wiki/User:The_Anome) | 1,643 |
-| 2026-10-30 21:58:22 | [Cryptobatrachus pedroruizi](https://en.wikipedia.org/wiki/Cryptobatrachus_pedroruizi) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 2,229 |
-| 2026-10-30 21:59:10 | [Anna Langley Armstrong](https://en.wikipedia.org/wiki/Anna_Langley_Armstrong) | [Smirkybec](https://en.wikipedia.org/wiki/User:Smirkybec) | 5,340 |
-| 2026-10-30 22:00:20 | [Brasil, Coração do Mundo, Pátria do Evangelho](https://en.wikipedia.org/wiki/Brasil%2C_Cora%C3%A7%C3%A3o_do_Mundo%2C_P%C3%A1tria_do_Evangelho) | [Rogeriocisi](https://en.wikipedia.org/wiki/User:Rogeriocisi) | 17,973 |
-| 2026-10-30 22:00:23 | [Bathignathus](https://en.wikipedia.org/wiki/Bathignathus) | [An anonymous username, not my real name](https://en.wikipedia.org/wiki/User:An_anonymous_username%2C_not_my_real_name) | 15,073 |
-| 2026-10-30 22:02:45 | [2026 Brčko helicopter crash](https://en.wikipedia.org/wiki/2026_Br%C4%8Dko_helicopter_crash) | [Moon1238](https://en.wikipedia.org/wiki/User:Moon1238) | 2,230 |
-| 2026-10-30 22:04:44 | [Sophia Granswed Baat](https://en.wikipedia.org/wiki/Sophia_Granswed_Baat) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,656 |
-| 2026-10-30 22:05:40 | [Quem Financia a Baixaria é Contra a Cidadania](https://en.wikipedia.org/wiki/Quem_Financia_a_Baixaria_%C3%A9_Contra_a_Cidadania) | [Trollface 2006ALT](https://en.wikipedia.org/wiki/User:Trollface_2006ALT) | 2,877 |
-| 2026-10-30 22:06:27 | [Bill Oliver (guard)](https://en.wikipedia.org/wiki/Bill_Oliver_%28guard%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,408 |
-| 2026-10-30 22:07:35 | [2002 ITU Triathlon World Championships](https://en.wikipedia.org/wiki/2002_ITU_Triathlon_World_Championships) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 30,774 |
-| 2026-10-30 22:18:00 | [María Rodríguez Denton](https://en.wikipedia.org/wiki/Mar%C3%ADa_Rodr%C3%ADguez_Denton) | [TexasBob85](https://en.wikipedia.org/wiki/User:TexasBob85) | 3,485 |
+| 2026-10-30 22:18:45 | [Hong Kong at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Hong_Kong_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 13,550 |
+| 2026-10-30 22:25:06 | [Wisconsin's Jefferson County 1st Assembly district](https://en.wikipedia.org/wiki/Wisconsin%27s_Jefferson_County_1st_Assembly_district) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 12,984 |
+| 2026-10-30 22:26:50 | [Liriomyza flavolateralis](https://en.wikipedia.org/wiki/Liriomyza_flavolateralis) | [AxonsArachnida](https://en.wikipedia.org/wiki/User:AxonsArachnida) | 1,102 |
+| 2026-10-30 22:29:55 | [Frederick P. (Fritz) Roth](https://en.wikipedia.org/wiki/Frederick_P._%28Fritz%29_Roth) | [KatSandusky](https://en.wikipedia.org/wiki/User:KatSandusky) | 9,777 |
+| 2026-10-30 22:35:19 | [Thomas Whitmore (died 1682)](https://en.wikipedia.org/wiki/Thomas_Whitmore_%28died_1682%29) | [Rasmon12](https://en.wikipedia.org/wiki/User:Rasmon12) | 1,196 |
+| 2026-10-30 22:35:21 | [Sun Goddess (horse)](https://en.wikipedia.org/wiki/Sun_Goddess_%28horse%29) | [Cowblep](https://en.wikipedia.org/wiki/User:Cowblep) | 972 |
+| 2026-10-30 22:37:13 | [Caccothryptus wakaharai](https://en.wikipedia.org/wiki/Caccothryptus_wakaharai) | [Generalissima](https://en.wikipedia.org/wiki/User:Generalissima) | 6,248 |
+| 2026-10-30 22:39:11 | [Qualification for the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Qualification_for_the_2026_Summer_Youth_Olympics) | [Vfedax](https://en.wikipedia.org/wiki/User:Vfedax) | 99,253 |
+| 2026-10-30 22:40:05 | [Door of Hope](https://en.wikipedia.org/wiki/Door_of_Hope) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 3,470 |
+| 2026-10-30 22:42:16 | [Marilyn Bracken](https://en.wikipedia.org/wiki/Marilyn_Bracken) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,117 |
+| 2026-10-30 22:43:34 | [John Mitchell (Wisconsin politician, born 1841)](https://en.wikipedia.org/wiki/John_Mitchell_%28Wisconsin_politician%2C_born_1841%29) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 2,455 |
+| 2026-10-30 22:46:12 | [2026 Costa do Sauípe Open](https://en.wikipedia.org/wiki/2026_Costa_do_Sau%C3%ADpe_Open) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,118 |
+| 2026-10-30 22:46:49 | [Kristupas Čibiras](https://en.wikipedia.org/wiki/Kristupas_%C4%8Cibiras) | [Renata3](https://en.wikipedia.org/wiki/User:Renata3) | 20,625 |
+| 2026-10-30 22:50:44 | [2026 Costa do Sauípe Open – Singles](https://en.wikipedia.org/wiki/2026_Costa_do_Sau%C3%ADpe_Open_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,848 |
+| 2026-10-30 22:52:40 | [2026 Costa do Sauípe Open – Doubles](https://en.wikipedia.org/wiki/2026_Costa_do_Sau%C3%ADpe_Open_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,108 |
+| 2026-10-30 22:54:20 | [Virginia Creeper (EP)](https://en.wikipedia.org/wiki/Virginia_Creeper_%28EP%29) | [Gdshordy](https://en.wikipedia.org/wiki/User:Gdshordy) | 12,488 |
+| 2026-10-30 22:55:44 | [Nil Coch](https://en.wikipedia.org/wiki/Nil_Coch) | [Aleksandr Grigoryev](https://en.wikipedia.org/wiki/User:Aleksandr_Grigoryev) | 4,379 |
+| 2026-10-30 22:59:00 | [Edmund Mackintire](https://en.wikipedia.org/wiki/Edmund_Mackintire) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 4,599 |
+| 2026-10-30 23:02:11 | [2026 Slovak Open](https://en.wikipedia.org/wiki/2026_Slovak_Open) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,117 |
+| 2026-10-30 23:03:12 | [Emanuel Grossman](https://en.wikipedia.org/wiki/Emanuel_Grossman) | [RabidTuberculosis](https://en.wikipedia.org/wiki/User:RabidTuberculosis) | 7,063 |
+| 2026-10-30 23:03:22 | [Ali Qaddour](https://en.wikipedia.org/wiki/Ali_Qaddour) | [FunkMonk](https://en.wikipedia.org/wiki/User:FunkMonk) | 4,674 |
+| 2026-10-30 23:03:38 | [Iraq at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Iraq_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 5,431 |
+| 2026-10-30 23:06:00 | [2026 Slovak Open – Singles](https://en.wikipedia.org/wiki/2026_Slovak_Open_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,856 |
+| 2026-10-30 23:07:04 | [Oliver Blanco](https://en.wikipedia.org/wiki/Oliver_Blanco) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,198 |
+| 2026-10-30 23:07:12 | [Shibazaki Yoshitarō](https://en.wikipedia.org/wiki/Shibazaki_Yoshitar%C5%8D) | [Ishiura](https://en.wikipedia.org/wiki/User:Ishiura) | 3,257 |
+| 2026-10-30 23:08:48 | [2026 Slovak Open – Doubles](https://en.wikipedia.org/wiki/2026_Slovak_Open_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,029 |
+| 2026-10-30 23:09:26 | [1849 Manchester Borough Council election](https://en.wikipedia.org/wiki/1849_Manchester_Borough_Council_election) | [JoeKramer04](https://en.wikipedia.org/wiki/User:JoeKramer04) | 10,763 |
+| 2026-10-30 23:13:08 | [2026 Santaizi ATP Challenger](https://en.wikipedia.org/wiki/2026_Santaizi_ATP_Challenger) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,098 |
+| 2026-10-30 23:14:17 | [Magdalena Hermelin](https://en.wikipedia.org/wiki/Magdalena_Hermelin) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 7,733 |
+| 2026-10-30 23:16:27 | [Arandu Rape](https://en.wikipedia.org/wiki/Arandu_Rape) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 9,866 |
