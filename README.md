@@ -13,47 +13,43 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-10-31 13:19 UTC](data/en/new-articles-2026-10-31T13-19-00Z.csv) | 15 |
-| Japanese | `ja` | [2026-10-31 13:19 UTC](data/ja/new-articles-2026-10-31T13-19-00Z.csv) | 12 |
-| Chinese | `zh` | [2026-10-31 13:19 UTC](data/zh/new-articles-2026-10-31T13-19-00Z.csv) | 18 |
-| French | `fr` | [2026-10-31 13:19 UTC](data/fr/new-articles-2026-10-31T13-19-00Z.csv) | 15 |
-| German | `de` | [2026-10-31 13:19 UTC](data/de/new-articles-2026-10-31T13-19-00Z.csv) | 16 |
-| Russian | `ru` | [2026-10-31 13:19 UTC](data/ru/new-articles-2026-10-31T13-19-00Z.csv) | 22 |
-| Spanish | `es` | [2026-10-31 13:19 UTC](data/es/new-articles-2026-10-31T13-19-00Z.csv) | 17 |
-| Italian | `it` | [2026-10-31 13:19 UTC](data/it/new-articles-2026-10-31T13-19-00Z.csv) | 6 |
-| Portuguese | `pt` | [2026-10-31 13:19 UTC](data/pt/new-articles-2026-10-31T13-19-00Z.csv) | 7 |
-| Polish | `pl` | [2026-10-31 13:19 UTC](data/pl/new-articles-2026-10-31T13-19-00Z.csv) | 4 |
-| Arabic | `ar` | [2026-10-31 13:19 UTC](data/ar/new-articles-2026-10-31T13-19-00Z.csv) | 5 |
-| Persian | `fa` | [2026-10-31 13:19 UTC](data/fa/new-articles-2026-10-31T13-19-00Z.csv) | 4 |
-| Turkish | `tr` | [2026-10-31 13:19 UTC](data/tr/new-articles-2026-10-31T13-19-00Z.csv) | 146 |
-| Hebrew | `he` | [2026-10-31 13:19 UTC](data/he/new-articles-2026-10-31T13-19-00Z.csv) | 2 |
-| Swedish | `sv` | [2026-10-31 13:19 UTC](data/sv/new-articles-2026-10-31T13-19-00Z.csv) | 5 |
-| Dutch | `nl` | [2026-10-31 13:19 UTC](data/nl/new-articles-2026-10-31T13-19-00Z.csv) | 3 |
-| Korean | `ko` | [2026-10-31 13:19 UTC](data/ko/new-articles-2026-10-31T13-19-00Z.csv) | 3 |
-| Indonesian | `id` | [2026-10-31 13:19 UTC](data/id/new-articles-2026-10-31T13-19-00Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-10-31 13:19 UTC](data/uk/new-articles-2026-10-31T13-19-00Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-10-31 10:18 UTC](data/vi/new-articles-2026-10-31T10-18-48Z.csv) | 3 |
+| English | `en` | [2026-10-31 14:19 UTC](data/en/new-articles-2026-10-31T14-19-13Z.csv) | 11 |
+| Japanese | `ja` | [2026-10-31 14:19 UTC](data/ja/new-articles-2026-10-31T14-19-13Z.csv) | 6 |
+| Chinese | `zh` | [2026-10-31 14:19 UTC](data/zh/new-articles-2026-10-31T14-19-13Z.csv) | 6 |
+| French | `fr` | [2026-10-31 14:19 UTC](data/fr/new-articles-2026-10-31T14-19-13Z.csv) | 10 |
+| German | `de` | [2026-10-31 14:19 UTC](data/de/new-articles-2026-10-31T14-19-13Z.csv) | 12 |
+| Russian | `ru` | [2026-10-31 14:19 UTC](data/ru/new-articles-2026-10-31T14-19-13Z.csv) | 12 |
+| Spanish | `es` | [2026-10-31 14:19 UTC](data/es/new-articles-2026-10-31T14-19-13Z.csv) | 6 |
+| Italian | `it` | [2026-10-31 14:19 UTC](data/it/new-articles-2026-10-31T14-19-13Z.csv) | 12 |
+| Portuguese | `pt` | [2026-10-31 14:19 UTC](data/pt/new-articles-2026-10-31T14-19-13Z.csv) | 3 |
+| Polish | `pl` | [2026-10-31 14:19 UTC](data/pl/new-articles-2026-10-31T14-19-13Z.csv) | 5 |
+| Arabic | `ar` | [2026-10-31 14:19 UTC](data/ar/new-articles-2026-10-31T14-19-13Z.csv) | 3 |
+| Persian | `fa` | [2026-10-31 14:19 UTC](data/fa/new-articles-2026-10-31T14-19-13Z.csv) | 4 |
+| Turkish | `tr` | [2026-10-31 14:19 UTC](data/tr/new-articles-2026-10-31T14-19-13Z.csv) | 111 |
+| Hebrew | `he` | [2026-10-31 14:19 UTC](data/he/new-articles-2026-10-31T14-19-13Z.csv) | 8 |
+| Swedish | `sv` | [2026-10-31 14:19 UTC](data/sv/new-articles-2026-10-31T14-19-13Z.csv) | 2 |
+| Dutch | `nl` | [2026-10-31 14:19 UTC](data/nl/new-articles-2026-10-31T14-19-13Z.csv) | 4 |
+| Korean | `ko` | [2026-10-31 14:19 UTC](data/ko/new-articles-2026-10-31T14-19-13Z.csv) | 6 |
+| Indonesian | `id` | [2026-10-31 14:19 UTC](data/id/new-articles-2026-10-31T14-19-13Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-10-31 14:19 UTC](data/uk/new-articles-2026-10-31T14-19-13Z.csv) | 7 |
+| Vietnamese | `vi` | [2026-10-31 14:19 UTC](data/vi/new-articles-2026-10-31T14-19-13Z.csv) | 1 |
 
-## English (en) — 2026-10-31 13:19 UTC
+## English (en) — 2026-10-31 14:19 UTC
 
-New articles created between 2026-10-31 12:18 UTC and 2026-10-31 13:19 UTC.
+New articles created between 2026-10-31 13:19 UTC and 2026-10-31 14:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-10-31T13-19-00Z.csv)
+[Full CSV](data/en/new-articles-2026-10-31T14-19-13Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-10-31 12:18:36 | [ATAD2](https://en.wikipedia.org/wiki/ATAD2) | [Boghog](https://en.wikipedia.org/wiki/User:Boghog) | 4,193 |
-| 2026-10-31 12:20:27 | [Firoza Khan](https://en.wikipedia.org/wiki/Firoza_Khan) | [Lakshyaveer Varade](https://en.wikipedia.org/wiki/User:Lakshyaveer_Varade) | 1,829 |
-| 2026-10-31 12:23:50 | [Stanisław Hartman](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Hartman) | [Franek Vetulani](https://en.wikipedia.org/wiki/User:Franek_Vetulani) | 1,142 |
-| 2026-10-31 12:30:24 | [Viktor Vitályos](https://en.wikipedia.org/wiki/Viktor_Vit%C3%A1lyos) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 6,408 |
-| 2026-10-31 12:30:34 | [Martha Washington's Booke of Cookery](https://en.wikipedia.org/wiki/Martha_Washington%27s_Booke_of_Cookery) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 10,016 |
-| 2026-10-31 12:31:02 | [A Dream Come True](https://en.wikipedia.org/wiki/A_Dream_Come_True) | [Moscow Connection](https://en.wikipedia.org/wiki/User:Moscow_Connection) | 6,818 |
-| 2026-10-31 12:42:25 | [Keep Quiet and Forgive](https://en.wikipedia.org/wiki/Keep_Quiet_and_Forgive) | [CaptainAngus](https://en.wikipedia.org/wiki/User:CaptainAngus) | 6,462 |
-| 2026-10-31 12:47:37 | [2026 Rolex Paris Masters – Doubles](https://en.wikipedia.org/wiki/2026_Rolex_Paris_Masters_%E2%80%93_Doubles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 8,926 |
-| 2026-10-31 12:47:49 | [The Bitch Pack](https://en.wikipedia.org/wiki/The_Bitch_Pack) | [Asqueladd](https://en.wikipedia.org/wiki/User:Asqueladd) | 5,899 |
-| 2026-10-31 12:50:22 | [Jessicão](https://en.wikipedia.org/wiki/Jessic%C3%A3o) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,723 |
-| 2026-10-31 12:51:24 | [Caroline Valentin](https://en.wikipedia.org/wiki/Caroline_Valentin) | [Sajjadmrt](https://en.wikipedia.org/wiki/User:Sajjadmrt) | 2,777 |
-| 2026-10-31 13:00:18 | [Rommel Supangan](https://en.wikipedia.org/wiki/Rommel_Supangan) | [Trypp](https://en.wikipedia.org/wiki/User:Trypp) | 10,909 |
-| 2026-10-31 13:07:36 | [Memorial trees of Jan Žižka](https://en.wikipedia.org/wiki/Memorial_trees_of_Jan_%C5%BDi%C5%BEka) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 17,562 |
-| 2026-10-31 13:11:23 | [2019 WPT Portugal Master](https://en.wikipedia.org/wiki/2019_WPT_Portugal_Master) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 43,770 |
-| 2026-10-31 13:16:58 | [Pretend You Don't See Her (song)](https://en.wikipedia.org/wiki/Pretend_You_Don%27t_See_Her_%28song%29) | [HazelAlbertSheriff](https://en.wikipedia.org/wiki/User:HazelAlbertSheriff) | 6,686 |
+| 2026-10-31 13:19:12 | [Joe Plumb](https://en.wikipedia.org/wiki/Joe_Plumb) | [Naturenet](https://en.wikipedia.org/wiki/User:Naturenet) | 8,040 |
+| 2026-10-31 13:26:31 | [Initial public offering of OpenAI](https://en.wikipedia.org/wiki/Initial_public_offering_of_OpenAI) | [Squid45](https://en.wikipedia.org/wiki/User:Squid45) | 4,812 |
+| 2026-10-31 13:37:31 | [Ahmad Javan](https://en.wikipedia.org/wiki/Ahmad_Javan) | [Amir Asia](https://en.wikipedia.org/wiki/User:Amir_Asia) | 829 |
+| 2026-10-31 13:49:40 | [Danny S](https://en.wikipedia.org/wiki/Danny_S) | [Dfertileplain](https://en.wikipedia.org/wiki/User:Dfertileplain) | 7,413 |
+| 2026-10-31 13:52:50 | [Sonstraal Heights](https://en.wikipedia.org/wiki/Sonstraal_Heights) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 8,781 |
+| 2026-10-31 13:53:05 | [Richard Nilsson](https://en.wikipedia.org/wiki/Richard_Nilsson) | [CuriousContributor1](https://en.wikipedia.org/wiki/User:CuriousContributor1) | 7,832 |
+| 2026-10-31 13:53:06 | [Mazar-i-Salatin](https://en.wikipedia.org/wiki/Mazar-i-Salatin) | [CtrlZultan](https://en.wikipedia.org/wiki/User:CtrlZultan) | 10,388 |
+| 2026-10-31 13:57:40 | [Recordings from the Åland Islands](https://en.wikipedia.org/wiki/Recordings_from_the_%C3%85land_Islands) | [フランベ](https://en.wikipedia.org/wiki/User:%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99) | 11,726 |
+| 2026-10-31 13:58:50 | [Elli Panichas](https://en.wikipedia.org/wiki/Elli_Panichas) | [Diogenes99](https://en.wikipedia.org/wiki/User:Diogenes99) | 8,190 |
+| 2026-10-31 14:05:26 | [Office of Contemporary Art and Culture](https://en.wikipedia.org/wiki/Office_of_Contemporary_Art_and_Culture) | [วรุฒ หิ่มสาใจ](https://en.wikipedia.org/wiki/User:%E0%B8%A7%E0%B8%A3%E0%B8%B8%E0%B8%92_%E0%B8%AB%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B9%83%E0%B8%88) | 4,566 |
+| 2026-10-31 14:14:33 | [Sellamynodon](https://en.wikipedia.org/wiki/Sellamynodon) | [Stromatherium](https://en.wikipedia.org/wiki/User:Stromatherium) | 14,397 |
