@@ -13,60 +13,56 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-01 20:18 UTC](data/en/new-articles-2026-11-01T20-18-12Z.csv) | 28 |
+| English | `en` | [2026-11-01 21:19 UTC](data/en/new-articles-2026-11-01T21-19-27Z.csv) | 24 |
 | Japanese | `ja` | [2026-11-01 19:18 UTC](data/ja/new-articles-2026-11-01T19-18-29Z.csv) | 2 |
-| Chinese | `zh` | [2026-11-01 20:18 UTC](data/zh/new-articles-2026-11-01T20-18-12Z.csv) | 3 |
-| French | `fr` | [2026-11-01 20:18 UTC](data/fr/new-articles-2026-11-01T20-18-12Z.csv) | 14 |
-| German | `de` | [2026-11-01 20:18 UTC](data/de/new-articles-2026-11-01T20-18-12Z.csv) | 26 |
-| Russian | `ru` | [2026-11-01 20:18 UTC](data/ru/new-articles-2026-11-01T20-18-12Z.csv) | 21 |
-| Spanish | `es` | [2026-11-01 20:18 UTC](data/es/new-articles-2026-11-01T20-18-12Z.csv) | 5 |
-| Italian | `it` | [2026-11-01 20:18 UTC](data/it/new-articles-2026-11-01T20-18-12Z.csv) | 8 |
-| Portuguese | `pt` | [2026-11-01 20:18 UTC](data/pt/new-articles-2026-11-01T20-18-12Z.csv) | 7 |
-| Polish | `pl` | [2026-11-01 20:18 UTC](data/pl/new-articles-2026-11-01T20-18-12Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-01 20:18 UTC](data/ar/new-articles-2026-11-01T20-18-12Z.csv) | 5 |
-| Persian | `fa` | [2026-11-01 20:18 UTC](data/fa/new-articles-2026-11-01T20-18-12Z.csv) | 3 |
-| Turkish | `tr` | [2026-11-01 20:18 UTC](data/tr/new-articles-2026-11-01T20-18-12Z.csv) | 8 |
-| Hebrew | `he` | [2026-11-01 20:18 UTC](data/he/new-articles-2026-11-01T20-18-12Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-01 20:18 UTC](data/sv/new-articles-2026-11-01T20-18-12Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-01 20:18 UTC](data/nl/new-articles-2026-11-01T20-18-12Z.csv) | 4 |
-| Korean | `ko` | [2026-11-01 20:18 UTC](data/ko/new-articles-2026-11-01T20-18-12Z.csv) | 4 |
-| Indonesian | `id` | [2026-11-01 18:18 UTC](data/id/new-articles-2026-11-01T18-18-56Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-01 20:18 UTC](data/uk/new-articles-2026-11-01T20-18-12Z.csv) | 9 |
-| Vietnamese | `vi` | [2026-11-01 20:18 UTC](data/vi/new-articles-2026-11-01T20-18-12Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-01 21:19 UTC](data/zh/new-articles-2026-11-01T21-19-27Z.csv) | 2 |
+| French | `fr` | [2026-11-01 21:19 UTC](data/fr/new-articles-2026-11-01T21-19-27Z.csv) | 6 |
+| German | `de` | [2026-11-01 21:19 UTC](data/de/new-articles-2026-11-01T21-19-27Z.csv) | 9 |
+| Russian | `ru` | [2026-11-01 21:19 UTC](data/ru/new-articles-2026-11-01T21-19-27Z.csv) | 7 |
+| Spanish | `es` | [2026-11-01 21:19 UTC](data/es/new-articles-2026-11-01T21-19-27Z.csv) | 11 |
+| Italian | `it` | [2026-11-01 21:19 UTC](data/it/new-articles-2026-11-01T21-19-27Z.csv) | 16 |
+| Portuguese | `pt` | [2026-11-01 21:19 UTC](data/pt/new-articles-2026-11-01T21-19-27Z.csv) | 8 |
+| Polish | `pl` | [2026-11-01 21:19 UTC](data/pl/new-articles-2026-11-01T21-19-27Z.csv) | 7 |
+| Arabic | `ar` | [2026-11-01 21:19 UTC](data/ar/new-articles-2026-11-01T21-19-27Z.csv) | 2 |
+| Persian | `fa` | [2026-11-01 21:19 UTC](data/fa/new-articles-2026-11-01T21-19-27Z.csv) | 10 |
+| Turkish | `tr` | [2026-11-01 21:19 UTC](data/tr/new-articles-2026-11-01T21-19-27Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-01 21:19 UTC](data/he/new-articles-2026-11-01T21-19-27Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-01 21:19 UTC](data/sv/new-articles-2026-11-01T21-19-27Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-01 21:19 UTC](data/nl/new-articles-2026-11-01T21-19-27Z.csv) | 3 |
+| Korean | `ko` | [2026-11-01 21:19 UTC](data/ko/new-articles-2026-11-01T21-19-27Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-01 21:19 UTC](data/id/new-articles-2026-11-01T21-19-27Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-01 21:19 UTC](data/uk/new-articles-2026-11-01T21-19-27Z.csv) | 8 |
+| Vietnamese | `vi` | [2026-11-01 21:19 UTC](data/vi/new-articles-2026-11-01T21-19-27Z.csv) | 2 |
 
-## English (en) — 2026-11-01 20:18 UTC
+## English (en) — 2026-11-01 21:19 UTC
 
-New articles created between 2026-11-01 19:18 UTC and 2026-11-01 20:18 UTC.
+New articles created between 2026-11-01 20:18 UTC and 2026-11-01 21:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-01T20-18-12Z.csv)
+[Full CSV](data/en/new-articles-2026-11-01T21-19-27Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-01 19:20:18 | [Harmony (software company)](https://en.wikipedia.org/wiki/Harmony_%28software_company%29) | [Chelseam5](https://en.wikipedia.org/wiki/User:Chelseam5) | 7,912 |
-| 2026-11-01 19:20:19 | [Max Lühe](https://en.wikipedia.org/wiki/Max_L%C3%BChe) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-01 19:22:20 | [No. 3 Squadron (Lithuanian Air Force)](https://en.wikipedia.org/wiki/No._3_Squadron_%28Lithuanian_Air_Force%29) | [ArunasG](https://en.wikipedia.org/wiki/User:ArunasG) | 7,385 |
-| 2026-11-01 19:22:42 | [Partulina marmorata](https://en.wikipedia.org/wiki/Partulina_marmorata) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,900 |
-| 2026-11-01 19:23:54 | [Harold W. Manter](https://en.wikipedia.org/wiki/Harold_W._Manter) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 109 |
-| 2026-11-01 19:24:32 | [Ralph Clarke (British paedophile)](https://en.wikipedia.org/wiki/Ralph_Clarke_%28British_paedophile%29) | [Harris000](https://en.wikipedia.org/wiki/User:Harris000) | 840 |
-| 2026-11-01 19:26:32 | [Adam (composer)](https://en.wikipedia.org/wiki/Adam_%28composer%29) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 1,890 |
-| 2026-11-01 19:30:51 | [Willem Hekking (1796–1862)](https://en.wikipedia.org/wiki/Willem_Hekking_%281796%E2%80%931862%29) | [Jvhertum](https://en.wikipedia.org/wiki/User:Jvhertum) | 7,025 |
-| 2026-11-01 19:34:53 | [2013–14 FC Nitra season](https://en.wikipedia.org/wiki/2013%E2%80%9314_FC_Nitra_season) | [Rakeck](https://en.wikipedia.org/wiki/User:Rakeck) | 5,096 |
-| 2026-11-01 19:44:11 | [It Comes Alive - Maid in Switzerland](https://en.wikipedia.org/wiki/It_Comes_Alive_-_Maid_in_Switzerland) | [ItsBri](https://en.wikipedia.org/wiki/User:ItsBri) | 6,230 |
-| 2026-11-01 19:45:04 | [Maya Fügenschuh](https://en.wikipedia.org/wiki/Maya_F%C3%BCgenschuh) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 4,462 |
-| 2026-11-01 19:48:38 | [Frogner Church (Buskerud)](https://en.wikipedia.org/wiki/Frogner_Church_%28Buskerud%29) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 6,540 |
-| 2026-11-01 19:51:19 | [Tasos Dimoschakis](https://en.wikipedia.org/wiki/Tasos_Dimoschakis) | [PA-811](https://en.wikipedia.org/wiki/User:PA-811) | 6,311 |
-| 2026-11-01 19:58:10 | [Neagolius heydeni](https://en.wikipedia.org/wiki/Neagolius_heydeni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,889 |
-| 2026-11-01 19:58:34 | [Jack Knight (actor)](https://en.wikipedia.org/wiki/Jack_Knight_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,898 |
-| 2026-11-01 20:01:46 | [Neagolius pollicatus](https://en.wikipedia.org/wiki/Neagolius_pollicatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,966 |
-| 2026-11-01 20:02:38 | [Gullaug Church](https://en.wikipedia.org/wiki/Gullaug_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 3,647 |
-| 2026-11-01 20:02:46 | [Toda la suerte del mundo](https://en.wikipedia.org/wiki/Toda_la_suerte_del_mundo) | [Asqueladd](https://en.wikipedia.org/wiki/User:Asqueladd) | 4,076 |
-| 2026-11-01 20:04:40 | [Neagolius amblyodon](https://en.wikipedia.org/wiki/Neagolius_amblyodon) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,984 |
-| 2026-11-01 20:05:27 | [Hôtel de Ville, Fougères](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Foug%C3%A8res) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 6,456 |
-| 2026-11-01 20:06:02 | [How About That!](https://en.wikipedia.org/wiki/How_About_That%21) | [DPUH](https://en.wikipedia.org/wiki/User:DPUH) | 4,827 |
-| 2026-11-01 20:11:45 | [1927 Medicine Lodge tornado](https://en.wikipedia.org/wiki/1927_Medicine_Lodge_tornado) | [Minecraft11226](https://en.wikipedia.org/wiki/User:Minecraft11226) | 314 |
-| 2026-11-01 20:11:46 | [Neagolius schlumbergeri](https://en.wikipedia.org/wiki/Neagolius_schlumbergeri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,749 |
-| 2026-11-01 20:12:02 | [Lenore Johnson](https://en.wikipedia.org/wiki/Lenore_Johnson) | [Dnllnd](https://en.wikipedia.org/wiki/User:Dnllnd) | 4,921 |
-| 2026-11-01 20:14:39 | [Big Brother VIP Kosova season 5](https://en.wikipedia.org/wiki/Big_Brother_VIP_Kosova_season_5) | [ArsiArmo](https://en.wikipedia.org/wiki/User:ArsiArmo) | 9,837 |
-| 2026-11-01 20:15:16 | [WDR73](https://en.wikipedia.org/wiki/WDR73) | [Pabnau](https://en.wikipedia.org/wiki/User:Pabnau) | 1,935 |
-| 2026-11-01 20:16:33 | [フーセンのドラ太郎](https://en.wikipedia.org/wiki/%E3%83%95%E3%83%BC%E3%82%BB%E3%83%B3%E3%81%AE%E3%83%89%E3%83%A9%E5%A4%AA%E9%83%8E) | [ロドリゲス恭子](https://en.wikipedia.org/wiki/User:%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B2%E3%82%B9%E6%81%AD%E5%AD%90) | 2,869 |
-| 2026-11-01 20:17:16 | [Partulina thaanumiana](https://en.wikipedia.org/wiki/Partulina_thaanumiana) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,874 |
+| 2026-11-01 20:21:12 | [Kupusović](https://en.wikipedia.org/wiki/Kupusovi%C4%87) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 299 |
+| 2026-11-01 20:22:47 | [Abu Taher Mohammad](https://en.wikipedia.org/wiki/Abu_Taher_Mohammad) | [Shhhnotsoloud](https://en.wikipedia.org/wiki/User:Shhhnotsoloud) | 1,818 |
+| 2026-11-01 20:24:10 | [Kam (folklore)](https://en.wikipedia.org/wiki/Kam_%28folklore%29) | [Keivan.f](https://en.wikipedia.org/wiki/User:Keivan.f) | 6,407 |
+| 2026-11-01 20:25:13 | [Tranby Church](https://en.wikipedia.org/wiki/Tranby_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 5,375 |
+| 2026-11-01 20:26:19 | [Cecil Carey](https://en.wikipedia.org/wiki/Cecil_Carey) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 216 |
+| 2026-11-01 20:27:25 | [Habazin](https://en.wikipedia.org/wiki/Habazin) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 599 |
+| 2026-11-01 20:41:21 | [Ezgi Akın](https://en.wikipedia.org/wiki/Ezgi_Ak%C4%B1n) | [Ozanozan](https://en.wikipedia.org/wiki/User:Ozanozan) | 1,842 |
+| 2026-11-01 20:42:20 | [Bernadeta Mushashu](https://en.wikipedia.org/wiki/Bernadeta_Mushashu) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 4,561 |
+| 2026-11-01 20:43:04 | [91.0 FM](https://en.wikipedia.org/wiki/91.0_FM) | [UltrasonicMadness](https://en.wikipedia.org/wiki/User:UltrasonicMadness) | 1,024 |
+| 2026-11-01 20:46:28 | [Lierskogen Church](https://en.wikipedia.org/wiki/Lierskogen_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 3,726 |
+| 2026-11-01 20:47:45 | [De Gaulle: Tilting Iron](https://en.wikipedia.org/wiki/De_Gaulle%3A_Tilting_Iron) | [Naja SM](https://en.wikipedia.org/wiki/User:Naja_SM) | 1,135 |
+| 2026-11-01 20:51:58 | [William Osborne (artist)](https://en.wikipedia.org/wiki/William_Osborne_%28artist%29) | [Smirkybec](https://en.wikipedia.org/wiki/User:Smirkybec) | 6,840 |
+| 2026-11-01 21:00:20 | [Lasioglossum globosum](https://en.wikipedia.org/wiki/Lasioglossum_globosum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,405 |
+| 2026-11-01 21:04:11 | [Sylling Church](https://en.wikipedia.org/wiki/Sylling_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,954 |
+| 2026-11-01 21:04:34 | [Ronald Ramírez (baseball)](https://en.wikipedia.org/wiki/Ronald_Ram%C3%ADrez_%28baseball%29) | [Captain Parmenter](https://en.wikipedia.org/wiki/User:Captain_Parmenter) | 4,881 |
+| 2026-11-01 21:05:05 | [Nebraska Legislature 17th district](https://en.wikipedia.org/wiki/Nebraska_Legislature_17th_district) | [Basileus121](https://en.wikipedia.org/wiki/User:Basileus121) | 7,271 |
+| 2026-11-01 21:08:13 | [Samuel S. Kim](https://en.wikipedia.org/wiki/Samuel_S._Kim) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 7,086 |
+| 2026-11-01 21:10:32 | [Sjåstad Church](https://en.wikipedia.org/wiki/Sj%C3%A5stad_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,235 |
+| 2026-11-01 21:11:31 | [Mile 50](https://en.wikipedia.org/wiki/Mile_50) | [Lavoisier Alvearus](https://en.wikipedia.org/wiki/User:Lavoisier_Alvearus) | 6,152 |
+| 2026-11-01 21:16:37 | [Amir Badran](https://en.wikipedia.org/wiki/Amir_Badran) | [Axinoo](https://en.wikipedia.org/wiki/User:Axinoo) | 6,293 |
+| 2026-11-01 21:17:43 | [Francesco Fontana (architect)](https://en.wikipedia.org/wiki/Francesco_Fontana_%28architect%29) | [Sam Pumpkin](https://en.wikipedia.org/wiki/User:Sam_Pumpkin) | 5,236 |
+| 2026-11-01 21:17:43 | [Queen's Club Gardens](https://en.wikipedia.org/wiki/Queen%27s_Club_Gardens) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 5,281 |
+| 2026-11-01 21:18:08 | [Harold C. Brown Jr.](https://en.wikipedia.org/wiki/Harold_C._Brown_Jr.) | [Penale52](https://en.wikipedia.org/wiki/User:Penale52) | 3,079 |
+| 2026-11-01 21:18:42 | [Granada Theater (Santa Barbara, California)](https://en.wikipedia.org/wiki/Granada_Theater_%28Santa_Barbara%2C_California%29) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 14,017 |
