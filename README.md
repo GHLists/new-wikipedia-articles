@@ -13,52 +13,63 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-01 11:19 UTC](data/en/new-articles-2026-11-01T11-19-11Z.csv) | 20 |
-| Japanese | `ja` | [2026-11-01 11:19 UTC](data/ja/new-articles-2026-11-01T11-19-11Z.csv) | 12 |
-| Chinese | `zh` | [2026-11-01 11:19 UTC](data/zh/new-articles-2026-11-01T11-19-11Z.csv) | 22 |
-| French | `fr` | [2026-11-01 11:19 UTC](data/fr/new-articles-2026-11-01T11-19-11Z.csv) | 10 |
-| German | `de` | [2026-11-01 11:19 UTC](data/de/new-articles-2026-11-01T11-19-11Z.csv) | 26 |
-| Russian | `ru` | [2026-11-01 11:19 UTC](data/ru/new-articles-2026-11-01T11-19-11Z.csv) | 9 |
-| Spanish | `es` | [2026-11-01 11:19 UTC](data/es/new-articles-2026-11-01T11-19-11Z.csv) | 3 |
-| Italian | `it` | [2026-11-01 11:19 UTC](data/it/new-articles-2026-11-01T11-19-11Z.csv) | 13 |
-| Portuguese | `pt` | [2026-11-01 11:19 UTC](data/pt/new-articles-2026-11-01T11-19-11Z.csv) | 1 |
-| Polish | `pl` | [2026-11-01 11:19 UTC](data/pl/new-articles-2026-11-01T11-19-11Z.csv) | 7 |
-| Arabic | `ar` | [2026-11-01 11:19 UTC](data/ar/new-articles-2026-11-01T11-19-11Z.csv) | 11 |
-| Persian | `fa` | [2026-11-01 11:19 UTC](data/fa/new-articles-2026-11-01T11-19-11Z.csv) | 15 |
-| Turkish | `tr` | [2026-11-01 11:19 UTC](data/tr/new-articles-2026-11-01T11-19-11Z.csv) | 6 |
-| Hebrew | `he` | [2026-11-01 11:19 UTC](data/he/new-articles-2026-11-01T11-19-11Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-01 11:19 UTC](data/sv/new-articles-2026-11-01T11-19-11Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-01 11:19 UTC](data/nl/new-articles-2026-11-01T11-19-11Z.csv) | 11 |
-| Korean | `ko` | [2026-11-01 11:19 UTC](data/ko/new-articles-2026-11-01T11-19-11Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-01 11:19 UTC](data/id/new-articles-2026-11-01T11-19-11Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-01 11:19 UTC](data/uk/new-articles-2026-11-01T11-19-11Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-11-01 11:19 UTC](data/vi/new-articles-2026-11-01T11-19-11Z.csv) | 4 |
+| English | `en` | [2026-11-01 12:18 UTC](data/en/new-articles-2026-11-01T12-18-08Z.csv) | 31 |
+| Japanese | `ja` | [2026-11-01 12:18 UTC](data/ja/new-articles-2026-11-01T12-18-08Z.csv) | 9 |
+| Chinese | `zh` | [2026-11-01 12:18 UTC](data/zh/new-articles-2026-11-01T12-18-08Z.csv) | 24 |
+| French | `fr` | [2026-11-01 12:18 UTC](data/fr/new-articles-2026-11-01T12-18-08Z.csv) | 6 |
+| German | `de` | [2026-11-01 12:18 UTC](data/de/new-articles-2026-11-01T12-18-08Z.csv) | 13 |
+| Russian | `ru` | [2026-11-01 12:18 UTC](data/ru/new-articles-2026-11-01T12-18-08Z.csv) | 15 |
+| Spanish | `es` | [2026-11-01 12:18 UTC](data/es/new-articles-2026-11-01T12-18-08Z.csv) | 10 |
+| Italian | `it` | [2026-11-01 12:18 UTC](data/it/new-articles-2026-11-01T12-18-08Z.csv) | 5 |
+| Portuguese | `pt` | [2026-11-01 12:18 UTC](data/pt/new-articles-2026-11-01T12-18-08Z.csv) | 5 |
+| Polish | `pl` | [2026-11-01 12:18 UTC](data/pl/new-articles-2026-11-01T12-18-08Z.csv) | 3 |
+| Arabic | `ar` | [2026-11-01 12:18 UTC](data/ar/new-articles-2026-11-01T12-18-08Z.csv) | 4 |
+| Persian | `fa` | [2026-11-01 12:18 UTC](data/fa/new-articles-2026-11-01T12-18-08Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-01 12:18 UTC](data/tr/new-articles-2026-11-01T12-18-08Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-01 12:18 UTC](data/he/new-articles-2026-11-01T12-18-08Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-01 12:18 UTC](data/sv/new-articles-2026-11-01T12-18-08Z.csv) | 7 |
+| Dutch | `nl` | [2026-11-01 12:18 UTC](data/nl/new-articles-2026-11-01T12-18-08Z.csv) | 3 |
+| Korean | `ko` | [2026-11-01 12:18 UTC](data/ko/new-articles-2026-11-01T12-18-08Z.csv) | 4 |
+| Indonesian | `id` | [2026-11-01 12:18 UTC](data/id/new-articles-2026-11-01T12-18-08Z.csv) | 12 |
+| Ukrainian | `uk` | [2026-11-01 12:18 UTC](data/uk/new-articles-2026-11-01T12-18-08Z.csv) | 7 |
+| Vietnamese | `vi` | [2026-11-01 12:18 UTC](data/vi/new-articles-2026-11-01T12-18-08Z.csv) | 2 |
 
-## English (en) — 2026-11-01 11:19 UTC
+## English (en) — 2026-11-01 12:18 UTC
 
-New articles created between 2026-11-01 10:18 UTC and 2026-11-01 11:19 UTC.
+New articles created between 2026-11-01 11:19 UTC and 2026-11-01 12:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-01T11-19-11Z.csv)
+[Full CSV](data/en/new-articles-2026-11-01T12-18-08Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-01 10:19:23 | [Gardenacia Hut](https://en.wikipedia.org/wiki/Gardenacia_Hut) | [Ulisse0](https://en.wikipedia.org/wiki/User:Ulisse0) | 1,426 |
-| 2026-11-01 10:22:08 | [Katie Walker (cyclist)](https://en.wikipedia.org/wiki/Katie_Walker_%28cyclist%29) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,390 |
-| 2026-11-01 10:34:10 | [Chapman and Hewitt](https://en.wikipedia.org/wiki/Chapman_and_Hewitt) | [Andrewrabbott](https://en.wikipedia.org/wiki/User:Andrewrabbott) | 2,914 |
-| 2026-11-01 10:37:29 | [Mcebisi Pinyana](https://en.wikipedia.org/wiki/Mcebisi_Pinyana) | [KumoCit 873](https://en.wikipedia.org/wiki/User:KumoCit_873) | 2,612 |
-| 2026-11-01 10:41:17 | [Yuri Avdeyev](https://en.wikipedia.org/wiki/Yuri_Avdeyev) | [Athanasius238](https://en.wikipedia.org/wiki/User:Athanasius238) | 2,069 |
-| 2026-11-01 10:48:34 | [2026 URBA Top 14 final](https://en.wikipedia.org/wiki/2026_URBA_Top_14_final) | [Fma12](https://en.wikipedia.org/wiki/User:Fma12) | 14,827 |
-| 2026-11-01 10:49:02 | [Ion Insausti](https://en.wikipedia.org/wiki/Ion_Insausti) | [KoreanDragon](https://en.wikipedia.org/wiki/User:KoreanDragon) | 4,729 |
-| 2026-11-01 10:55:47 | [American Cinema Group](https://en.wikipedia.org/wiki/American_Cinema_Group) | [Iftekharahmed96](https://en.wikipedia.org/wiki/User:Iftekharahmed96) | 31,158 |
-| 2026-11-01 10:57:19 | [Will Edwards (Australian footballer)](https://en.wikipedia.org/wiki/Will_Edwards_%28Australian_footballer%29) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 4,262 |
-| 2026-11-01 10:59:59 | [Karine Le Marchand](https://en.wikipedia.org/wiki/Karine_Le_Marchand) | [Carotte7874](https://en.wikipedia.org/wiki/User:Carotte7874) | 565 |
-| 2026-11-01 11:00:07 | [Bugger (advertising campaign)](https://en.wikipedia.org/wiki/Bugger_%28advertising_campaign%29) | [Not stuart60](https://en.wikipedia.org/wiki/User:Not_stuart60) | 10,006 |
-| 2026-11-01 11:01:39 | [Anne Martha Blok](https://en.wikipedia.org/wiki/Anne_Martha_Blok) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,047 |
-| 2026-11-01 11:01:39 | [2026 Bangladesh garment sector minimum wage protests](https://en.wikipedia.org/wiki/2026_Bangladesh_garment_sector_minimum_wage_protests) | [Zahranesque](https://en.wikipedia.org/wiki/User:Zahranesque) | 9,530 |
-| 2026-11-01 11:03:28 | [Truscott (surname)](https://en.wikipedia.org/wiki/Truscott_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 882 |
-| 2026-11-01 11:06:40 | [List of members of the House of Representatives of Bosnia and Herzegovina, 2026–2030](https://en.wikipedia.org/wiki/List_of_members_of_the_House_of_Representatives_of_Bosnia_and_Herzegovina%2C_2026%E2%80%932030) | [Zee21y](https://en.wikipedia.org/wiki/User:Zee21y) | 1,271 |
-| 2026-11-01 11:07:49 | [Tofrom Yaesu](https://en.wikipedia.org/wiki/Tofrom_Yaesu) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 18,382 |
-| 2026-11-01 11:08:38 | [Kition inscribed bowl](https://en.wikipedia.org/wiki/Kition_inscribed_bowl) | [Onceinawhile](https://en.wikipedia.org/wiki/User:Onceinawhile) | 4,751 |
-| 2026-11-01 11:15:15 | [Neumarkt-Sankt Veit (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Neumarkt-Sankt_Veit_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,501 |
-| 2026-11-01 11:16:25 | [Acrossus opacipennis](https://en.wikipedia.org/wiki/Acrossus_opacipennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,948 |
-| 2026-11-01 11:19:02 | [Oberbergkirchen (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Oberbergkirchen_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,519 |
+| 2026-11-01 11:19:19 | [Acrossus jedlickai](https://en.wikipedia.org/wiki/Acrossus_jedlickai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,985 |
+| 2026-11-01 11:19:52 | [Yevhen Lasiichuk](https://en.wikipedia.org/wiki/Yevhen_Lasiichuk) | [Камарад Че](https://en.wikipedia.org/wiki/User:%D0%9A%D0%B0%D0%BC%D0%B0%D1%80%D0%B0%D0%B4_%D0%A7%D0%B5) | 15,242 |
+| 2026-11-01 11:20:54 | [Celestial Generals](https://en.wikipedia.org/wiki/Celestial_Generals) | [Wikibashi](https://en.wikipedia.org/wiki/User:Wikibashi) | 22,323 |
+| 2026-11-01 11:21:45 | [Acrossus hrubanti](https://en.wikipedia.org/wiki/Acrossus_hrubanti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,922 |
+| 2026-11-01 11:29:17 | [Polling (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Polling_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,502 |
+| 2026-11-01 11:32:54 | [Harvey Cordukes](https://en.wikipedia.org/wiki/Harvey_Cordukes) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 4,796 |
+| 2026-11-01 11:33:24 | [Reichertsheim (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Reichertsheim_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,455 |
+| 2026-11-01 11:37:12 | [Rohrbach (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Rohrbach_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,438 |
+| 2026-11-01 11:40:05 | [Ashes (Tungsten album)](https://en.wikipedia.org/wiki/Ashes_%28Tungsten_album%29) | [SirZPthundergod9001](https://en.wikipedia.org/wiki/User:SirZPthundergod9001) | 5,000 |
+| 2026-11-01 11:40:12 | [2007 NCAA Division I softball rankings](https://en.wikipedia.org/wiki/2007_NCAA_Division_I_softball_rankings) | [Billcasey905](https://en.wikipedia.org/wiki/User:Billcasey905) | 19,917 |
+| 2026-11-01 11:41:53 | [Raphael Winter](https://en.wikipedia.org/wiki/Raphael_Winter) | [Simon Ellistrand](https://en.wikipedia.org/wiki/User:Simon_Ellistrand) | 3,258 |
+| 2026-11-01 11:42:42 | [Lucy Hammer](https://en.wikipedia.org/wiki/Lucy_Hammer) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 4,445 |
+| 2026-11-01 11:43:42 | [1851 Manchester Borough Council election](https://en.wikipedia.org/wiki/1851_Manchester_Borough_Council_election) | [JoeKramer04](https://en.wikipedia.org/wiki/User:JoeKramer04) | 11,076 |
+| 2026-11-01 11:48:53 | [Emanuel Moreira](https://en.wikipedia.org/wiki/Emanuel_Moreira) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,089 |
+| 2026-11-01 11:51:58 | [Jeremiah Chiu](https://en.wikipedia.org/wiki/Jeremiah_Chiu) | [フランベ](https://en.wikipedia.org/wiki/User:%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99) | 11,533 |
+| 2026-11-01 11:52:05 | [Life Four Cuts](https://en.wikipedia.org/wiki/Life_Four_Cuts) | [김지성1](https://en.wikipedia.org/wiki/User:%EA%B9%80%EC%A7%80%EC%84%B11) | 6,267 |
+| 2026-11-01 11:55:49 | [Wallace Charlie](https://en.wikipedia.org/wiki/Wallace_Charlie) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 5,399 |
+| 2026-11-01 11:57:39 | [Acrossus atratus](https://en.wikipedia.org/wiki/Acrossus_atratus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,842 |
+| 2026-11-01 11:59:55 | [Neuburg an der Donau (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Neuburg_an_der_Donau_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,628 |
+| 2026-11-01 12:00:27 | [Patriarchal Centre, Puthencruz](https://en.wikipedia.org/wiki/Patriarchal_Centre%2C_Puthencruz) | [Halershes](https://en.wikipedia.org/wiki/User:Halershes) | 3,516 |
+| 2026-11-01 12:03:05 | [Odontacrossus](https://en.wikipedia.org/wiki/Odontacrossus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,101 |
+| 2026-11-01 12:04:34 | [Schrobenhausen (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Schrobenhausen_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,614 |
+| 2026-11-01 12:05:48 | [Uttar Pradesh State Highway 1](https://en.wikipedia.org/wiki/Uttar_Pradesh_State_Highway_1) | [Ksh.andronexus](https://en.wikipedia.org/wiki/User:Ksh.andronexus) | 2,461 |
+| 2026-11-01 12:07:56 | [Odontacrossus obenbergeri](https://en.wikipedia.org/wiki/Odontacrossus_obenbergeri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,366 |
+| 2026-11-01 12:09:12 | [Victor Jansen](https://en.wikipedia.org/wiki/Victor_Jansen) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,709 |
+| 2026-11-01 12:11:34 | [Odontacrossus pseudoobenbergeri](https://en.wikipedia.org/wiki/Odontacrossus_pseudoobenbergeri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,401 |
+| 2026-11-01 12:12:28 | [Syzygium pycnanthum](https://en.wikipedia.org/wiki/Syzygium_pycnanthum) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 2,317 |
+| 2026-11-01 12:13:07 | [Tom Gribble](https://en.wikipedia.org/wiki/Tom_Gribble) | [Totallynotarandomalt69](https://en.wikipedia.org/wiki/User:Totallynotarandomalt69) | 24,490 |
+| 2026-11-01 12:15:14 | [Odontacrossus trisuliensis](https://en.wikipedia.org/wiki/Odontacrossus_trisuliensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,422 |
+| 2026-11-01 12:15:41 | [Lasioglossum altichum](https://en.wikipedia.org/wiki/Lasioglossum_altichum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,627 |
+| 2026-11-01 12:15:56 | [Jorn Van Loon](https://en.wikipedia.org/wiki/Jorn_Van_Loon) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,082 |
