@@ -13,61 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-01 22:19 UTC](data/en/new-articles-2026-11-01T22-19-04Z.csv) | 29 |
-| Japanese | `ja` | [2026-11-01 22:19 UTC](data/ja/new-articles-2026-11-01T22-19-04Z.csv) | 1 |
-| Chinese | `zh` | [2026-11-01 22:19 UTC](data/zh/new-articles-2026-11-01T22-19-04Z.csv) | 3 |
-| French | `fr` | [2026-11-01 22:19 UTC](data/fr/new-articles-2026-11-01T22-19-04Z.csv) | 8 |
-| German | `de` | [2026-11-01 22:19 UTC](data/de/new-articles-2026-11-01T22-19-04Z.csv) | 8 |
-| Russian | `ru` | [2026-11-01 22:19 UTC](data/ru/new-articles-2026-11-01T22-19-04Z.csv) | 6 |
-| Spanish | `es` | [2026-11-01 22:19 UTC](data/es/new-articles-2026-11-01T22-19-04Z.csv) | 7 |
-| Italian | `it` | [2026-11-01 22:19 UTC](data/it/new-articles-2026-11-01T22-19-04Z.csv) | 20 |
-| Portuguese | `pt` | [2026-11-01 22:19 UTC](data/pt/new-articles-2026-11-01T22-19-04Z.csv) | 6 |
-| Polish | `pl` | [2026-11-01 22:19 UTC](data/pl/new-articles-2026-11-01T22-19-04Z.csv) | 7 |
-| Arabic | `ar` | [2026-11-01 22:19 UTC](data/ar/new-articles-2026-11-01T22-19-04Z.csv) | 6 |
-| Persian | `fa` | [2026-11-01 22:19 UTC](data/fa/new-articles-2026-11-01T22-19-04Z.csv) | 4 |
-| Turkish | `tr` | [2026-11-01 22:19 UTC](data/tr/new-articles-2026-11-01T22-19-04Z.csv) | 3 |
-| Hebrew | `he` | [2026-11-01 21:19 UTC](data/he/new-articles-2026-11-01T21-19-27Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-01 22:19 UTC](data/sv/new-articles-2026-11-01T22-19-04Z.csv) | 5 |
-| Dutch | `nl` | [2026-11-01 22:19 UTC](data/nl/new-articles-2026-11-01T22-19-04Z.csv) | 7 |
+| English | `en` | [2026-11-01 23:18 UTC](data/en/new-articles-2026-11-01T23-18-19Z.csv) | 21 |
+| Japanese | `ja` | [2026-11-01 23:18 UTC](data/ja/new-articles-2026-11-01T23-18-19Z.csv) | 2 |
+| Chinese | `zh` | [2026-11-01 23:18 UTC](data/zh/new-articles-2026-11-01T23-18-19Z.csv) | 5 |
+| French | `fr` | [2026-11-01 23:18 UTC](data/fr/new-articles-2026-11-01T23-18-19Z.csv) | 2 |
+| German | `de` | [2026-11-01 23:18 UTC](data/de/new-articles-2026-11-01T23-18-19Z.csv) | 8 |
+| Russian | `ru` | [2026-11-01 23:18 UTC](data/ru/new-articles-2026-11-01T23-18-19Z.csv) | 4 |
+| Spanish | `es` | [2026-11-01 23:18 UTC](data/es/new-articles-2026-11-01T23-18-19Z.csv) | 9 |
+| Italian | `it` | [2026-11-01 23:18 UTC](data/it/new-articles-2026-11-01T23-18-19Z.csv) | 14 |
+| Portuguese | `pt` | [2026-11-01 23:18 UTC](data/pt/new-articles-2026-11-01T23-18-19Z.csv) | 6 |
+| Polish | `pl` | [2026-11-01 23:18 UTC](data/pl/new-articles-2026-11-01T23-18-19Z.csv) | 4 |
+| Arabic | `ar` | [2026-11-01 23:18 UTC](data/ar/new-articles-2026-11-01T23-18-19Z.csv) | 1 |
+| Persian | `fa` | [2026-11-01 23:18 UTC](data/fa/new-articles-2026-11-01T23-18-19Z.csv) | 10 |
+| Turkish | `tr` | [2026-11-01 23:18 UTC](data/tr/new-articles-2026-11-01T23-18-19Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-01 23:18 UTC](data/he/new-articles-2026-11-01T23-18-19Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-01 23:18 UTC](data/sv/new-articles-2026-11-01T23-18-19Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-01 23:18 UTC](data/nl/new-articles-2026-11-01T23-18-19Z.csv) | 2 |
 | Korean | `ko` | [2026-11-01 22:19 UTC](data/ko/new-articles-2026-11-01T22-19-04Z.csv) | 6 |
 | Indonesian | `id` | [2026-11-01 22:19 UTC](data/id/new-articles-2026-11-01T22-19-04Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-01 22:19 UTC](data/uk/new-articles-2026-11-01T22-19-04Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-11-01 23:18 UTC](data/uk/new-articles-2026-11-01T23-18-19Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-11-01 22:19 UTC](data/vi/new-articles-2026-11-01T22-19-04Z.csv) | 2 |
 
-## English (en) — 2026-11-01 22:19 UTC
+## English (en) — 2026-11-01 23:18 UTC
 
-New articles created between 2026-11-01 21:19 UTC and 2026-11-01 22:19 UTC.
+New articles created between 2026-11-01 22:19 UTC and 2026-11-01 23:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-01T22-19-04Z.csv)
+[Full CSV](data/en/new-articles-2026-11-01T23-18-19Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-01 21:19:30 | [The Wild Reply](https://en.wikipedia.org/wiki/The_Wild_Reply) | [Perry Middlemiss](https://en.wikipedia.org/wiki/User:Perry_Middlemiss) | 4,784 |
-| 2026-11-01 21:20:12 | [Gean de Jesus Soares](https://en.wikipedia.org/wiki/Gean_de_Jesus_Soares) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 4,639 |
-| 2026-11-01 21:20:44 | [1853 Manchester City Council election](https://en.wikipedia.org/wiki/1853_Manchester_City_Council_election) | [JoeKramer04](https://en.wikipedia.org/wiki/User:JoeKramer04) | 9,037 |
-| 2026-11-01 21:22:47 | [2026–27 Notre Dame Fighting Irish men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Notre_Dame_Fighting_Irish_men%27s_basketball_team) | [TheAmazingRaspberry](https://en.wikipedia.org/wiki/User:TheAmazingRaspberry) | 30,735 |
-| 2026-11-01 21:25:25 | [2026 Palm Beach plane crash](https://en.wikipedia.org/wiki/2026_Palm_Beach_plane_crash) | [Guninvalid](https://en.wikipedia.org/wiki/User:Guninvalid) | 0 |
-| 2026-11-01 21:29:51 | [Sadanandam "Sada Master"](https://en.wikipedia.org/wiki/Sadanandam_%22Sada_Master%22) | [Ramnarasimhan](https://en.wikipedia.org/wiki/User:Ramnarasimhan) | 6,613 |
-| 2026-11-01 21:32:46 | [Carlo Sozzi](https://en.wikipedia.org/wiki/Carlo_Sozzi) | [In Vitrio](https://en.wikipedia.org/wiki/User:In_Vitrio) | 2,627 |
-| 2026-11-01 21:34:58 | [2027 Austin FC season](https://en.wikipedia.org/wiki/2027_Austin_FC_season) | [Demt1298](https://en.wikipedia.org/wiki/User:Demt1298) | 37,257 |
-| 2026-11-01 21:38:38 | [Carlos Paraco](https://en.wikipedia.org/wiki/Carlos_Paraco) | [Aleksandr Grigoryev](https://en.wikipedia.org/wiki/User:Aleksandr_Grigoryev) | 6,343 |
-| 2026-11-01 21:46:29 | [2026 Storm Adam floods](https://en.wikipedia.org/wiki/2026_Storm_Adam_floods) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 672 |
-| 2026-11-01 21:49:35 | [Maldives at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Maldives_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 3,999 |
-| 2026-11-01 21:51:04 | [2006 Sporting Cristal season](https://en.wikipedia.org/wiki/2006_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,982 |
-| 2026-11-01 21:51:24 | [Collatio Alexandri cum Dindimo per litteras facta](https://en.wikipedia.org/wiki/Collatio_Alexandri_cum_Dindimo_per_litteras_facta) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 17,150 |
-| 2026-11-01 21:53:14 | [The Enjoyment of Mathematics](https://en.wikipedia.org/wiki/The_Enjoyment_of_Mathematics) | [MathKeduor7](https://en.wikipedia.org/wiki/User:MathKeduor7) | 6,037 |
-| 2026-11-01 21:53:58 | [Michael Hristov](https://en.wikipedia.org/wiki/Michael_Hristov) | [Iconoclasty](https://en.wikipedia.org/wiki/User:Iconoclasty) | 23,762 |
-| 2026-11-01 21:54:11 | [Alessandro Marques](https://en.wikipedia.org/wiki/Alessandro_Marques) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-01 21:56:19 | [1965 Milwaukee Panthers football team](https://en.wikipedia.org/wiki/1965_Milwaukee_Panthers_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 5,581 |
-| 2026-11-01 21:58:56 | [Laura Weber](https://en.wikipedia.org/wiki/Laura_Weber) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,807 |
-| 2026-11-01 22:03:35 | [Oshrat Gani Gonen](https://en.wikipedia.org/wiki/Oshrat_Gani_Gonen) | [Totalstgamer](https://en.wikipedia.org/wiki/User:Totalstgamer) | 5,374 |
-| 2026-11-01 22:04:34 | [Edgar F. Mendoza-Franco](https://en.wikipedia.org/wiki/Edgar_F._Mendoza-Franco) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-01 22:05:04 | [2026–27 Marshall Thundering Herd men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Marshall_Thundering_Herd_men%27s_basketball_team) | [Eknight2012](https://en.wikipedia.org/wiki/User:Eknight2012) | 26,488 |
-| 2026-11-01 22:05:26 | [2007 Sporting Cristal season](https://en.wikipedia.org/wiki/2007_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,983 |
-| 2026-11-01 22:09:16 | [Ephraim Pierce](https://en.wikipedia.org/wiki/Ephraim_Pierce) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 6,299 |
-| 2026-11-01 22:10:35 | [Há Dois Mil Anos](https://en.wikipedia.org/wiki/H%C3%A1_Dois_Mil_Anos) | [Rogeriocisi](https://en.wikipedia.org/wiki/User:Rogeriocisi) | 11,949 |
-| 2026-11-01 22:12:20 | [Víctor M. Vidal-Martínez](https://en.wikipedia.org/wiki/V%C3%ADctor_M._Vidal-Mart%C3%ADnez) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 118 |
-| 2026-11-01 22:13:38 | [Charlotte Murray](https://en.wikipedia.org/wiki/Charlotte_Murray) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 310 |
-| 2026-11-01 22:14:02 | [Eulophus orgyiae](https://en.wikipedia.org/wiki/Eulophus_orgyiae) | [Hrlabel](https://en.wikipedia.org/wiki/User:Hrlabel) | 1,768 |
-| 2026-11-01 22:14:45 | [Juan Violante-González](https://en.wikipedia.org/wiki/Juan_Violante-Gonz%C3%A1lez) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-01 22:15:26 | [ASSL Air](https://en.wikipedia.org/wiki/ASSL_Air) | [Hamdaan Abid](https://en.wikipedia.org/wiki/User:Hamdaan_Abid) | 2,510 |
+| 2026-11-01 22:19:55 | [Aria sudetica](https://en.wikipedia.org/wiki/Aria_sudetica) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 12,647 |
+| 2026-11-01 22:23:51 | [Israeli radical left](https://en.wikipedia.org/wiki/Israeli_radical_left) | [KyleWii](https://en.wikipedia.org/wiki/User:KyleWii) | 3,524 |
+| 2026-11-01 22:27:46 | [Neritus (mythology)](https://en.wikipedia.org/wiki/Neritus_%28mythology%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 1,704 |
+| 2026-11-01 22:33:43 | [Leslie J. Newman](https://en.wikipedia.org/wiki/Leslie_J._Newman) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-01 22:34:43 | [Kardo Razzazi](https://en.wikipedia.org/wiki/Kardo_Razzazi) | [Alanli1996](https://en.wikipedia.org/wiki/User:Alanli1996) | 765 |
+| 2026-11-01 22:36:54 | [2026 Angola Ladies Open – Doubles](https://en.wikipedia.org/wiki/2026_Angola_Ladies_Open_%E2%80%93_Doubles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 4,391 |
+| 2026-11-01 22:39:43 | [Junta of Bondillo](https://en.wikipedia.org/wiki/Junta_of_Bondillo) | [Takeitorleaveit59](https://en.wikipedia.org/wiki/User:Takeitorleaveit59) | 4,745 |
+| 2026-11-01 22:46:04 | [1964 Milwaukee Panthers football team](https://en.wikipedia.org/wiki/1964_Milwaukee_Panthers_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 5,717 |
+| 2026-11-01 22:47:09 | [Franz Poche](https://en.wikipedia.org/wiki/Franz_Poche) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-01 22:48:58 | [Eich Gate (Luxembourg)](https://en.wikipedia.org/wiki/Eich_Gate_%28Luxembourg%29) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 4,393 |
+| 2026-11-01 22:49:30 | [Wim Jaspers](https://en.wikipedia.org/wiki/Wim_Jaspers) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 4,943 |
+| 2026-11-01 22:52:55 | [Emmett William Price](https://en.wikipedia.org/wiki/Emmett_William_Price) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-01 22:57:54 | [Christine Charlotte](https://en.wikipedia.org/wiki/Christine_Charlotte) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 508 |
+| 2026-11-01 22:58:50 | [Vietnam at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Vietnam_at_the_2026_Summer_Youth_Olympics) | [Hlidk](https://en.wikipedia.org/wiki/User:Hlidk) | 963 |
+| 2026-11-01 23:00:29 | [Jyoti Waghmare](https://en.wikipedia.org/wiki/Jyoti_Waghmare) | [Pharaoh of the Wizards](https://en.wikipedia.org/wiki/User:Pharaoh_of_the_Wizards) | 2,236 |
+| 2026-11-01 23:00:35 | [Marta Riutort](https://en.wikipedia.org/wiki/Marta_Riutort) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-01 23:01:16 | [Raymond Probst](https://en.wikipedia.org/wiki/Raymond_Probst) | [Theanonymoustypist](https://en.wikipedia.org/wiki/User:Theanonymoustypist) | 1,855 |
+| 2026-11-01 23:05:34 | [Ilana Rossi](https://en.wikipedia.org/wiki/Ilana_Rossi) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-01 23:06:55 | [Marta Álvarez-Presas](https://en.wikipedia.org/wiki/Marta_%C3%81lvarez-Presas) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-01 23:12:13 | [Timothy R. Ruhnke](https://en.wikipedia.org/wiki/Timothy_R._Ruhnke) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-01 23:12:19 | [Chinese Taipei at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Chinese_Taipei_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 20,575 |
