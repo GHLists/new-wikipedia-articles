@@ -13,48 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-01 08:18 UTC](data/en/new-articles-2026-11-01T08-18-28Z.csv) | 16 |
-| Japanese | `ja` | [2026-11-01 08:18 UTC](data/ja/new-articles-2026-11-01T08-18-28Z.csv) | 12 |
-| Chinese | `zh` | [2026-11-01 08:18 UTC](data/zh/new-articles-2026-11-01T08-18-28Z.csv) | 16 |
-| French | `fr` | [2026-11-01 08:18 UTC](data/fr/new-articles-2026-11-01T08-18-28Z.csv) | 4 |
-| German | `de` | [2026-11-01 08:18 UTC](data/de/new-articles-2026-11-01T08-18-28Z.csv) | 4 |
-| Russian | `ru` | [2026-11-01 08:18 UTC](data/ru/new-articles-2026-11-01T08-18-28Z.csv) | 16 |
-| Spanish | `es` | [2026-11-01 08:18 UTC](data/es/new-articles-2026-11-01T08-18-28Z.csv) | 12 |
-| Italian | `it` | [2026-11-01 08:18 UTC](data/it/new-articles-2026-11-01T08-18-28Z.csv) | 5 |
+| English | `en` | [2026-11-01 09:19 UTC](data/en/new-articles-2026-11-01T09-19-59Z.csv) | 18 |
+| Japanese | `ja` | [2026-11-01 09:19 UTC](data/ja/new-articles-2026-11-01T09-19-59Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-01 09:19 UTC](data/zh/new-articles-2026-11-01T09-19-59Z.csv) | 9 |
+| French | `fr` | [2026-11-01 09:19 UTC](data/fr/new-articles-2026-11-01T09-19-59Z.csv) | 2 |
+| German | `de` | [2026-11-01 09:19 UTC](data/de/new-articles-2026-11-01T09-19-59Z.csv) | 8 |
+| Russian | `ru` | [2026-11-01 09:19 UTC](data/ru/new-articles-2026-11-01T09-19-59Z.csv) | 17 |
+| Spanish | `es` | [2026-11-01 09:19 UTC](data/es/new-articles-2026-11-01T09-19-59Z.csv) | 4 |
+| Italian | `it` | [2026-11-01 09:19 UTC](data/it/new-articles-2026-11-01T09-19-59Z.csv) | 12 |
 | Portuguese | `pt` | [2026-11-01 07:18 UTC](data/pt/new-articles-2026-11-01T07-18-26Z.csv) | 1 |
-| Polish | `pl` | [2026-11-01 08:18 UTC](data/pl/new-articles-2026-11-01T08-18-28Z.csv) | 2 |
-| Arabic | `ar` | [2026-11-01 08:18 UTC](data/ar/new-articles-2026-11-01T08-18-28Z.csv) | 4 |
-| Persian | `fa` | [2026-11-01 08:18 UTC](data/fa/new-articles-2026-11-01T08-18-28Z.csv) | 8 |
-| Turkish | `tr` | [2026-11-01 08:18 UTC](data/tr/new-articles-2026-11-01T08-18-28Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-01 08:18 UTC](data/he/new-articles-2026-11-01T08-18-28Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-01 08:18 UTC](data/sv/new-articles-2026-11-01T08-18-28Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-01 08:18 UTC](data/nl/new-articles-2026-11-01T08-18-28Z.csv) | 2 |
-| Korean | `ko` | [2026-11-01 08:18 UTC](data/ko/new-articles-2026-11-01T08-18-28Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-01 08:18 UTC](data/id/new-articles-2026-11-01T08-18-28Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-11-01 08:18 UTC](data/uk/new-articles-2026-11-01T08-18-28Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-11-01 08:18 UTC](data/vi/new-articles-2026-11-01T08-18-28Z.csv) | 5 |
+| Polish | `pl` | [2026-11-01 09:19 UTC](data/pl/new-articles-2026-11-01T09-19-59Z.csv) | 6 |
+| Arabic | `ar` | [2026-11-01 09:19 UTC](data/ar/new-articles-2026-11-01T09-19-59Z.csv) | 7 |
+| Persian | `fa` | [2026-11-01 09:19 UTC](data/fa/new-articles-2026-11-01T09-19-59Z.csv) | 8 |
+| Turkish | `tr` | [2026-11-01 09:19 UTC](data/tr/new-articles-2026-11-01T09-19-59Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-01 09:19 UTC](data/he/new-articles-2026-11-01T09-19-59Z.csv) | 6 |
+| Swedish | `sv` | [2026-11-01 09:19 UTC](data/sv/new-articles-2026-11-01T09-19-59Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-01 09:19 UTC](data/nl/new-articles-2026-11-01T09-19-59Z.csv) | 9 |
+| Korean | `ko` | [2026-11-01 09:19 UTC](data/ko/new-articles-2026-11-01T09-19-59Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-01 09:19 UTC](data/id/new-articles-2026-11-01T09-19-59Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-11-01 09:19 UTC](data/uk/new-articles-2026-11-01T09-19-59Z.csv) | 9 |
+| Vietnamese | `vi` | [2026-11-01 09:19 UTC](data/vi/new-articles-2026-11-01T09-19-59Z.csv) | 6 |
 
-## English (en) — 2026-11-01 08:18 UTC
+## English (en) — 2026-11-01 09:19 UTC
 
-New articles created between 2026-11-01 07:18 UTC and 2026-11-01 08:18 UTC.
+New articles created between 2026-11-01 08:18 UTC and 2026-11-01 09:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-01T08-18-28Z.csv)
+[Full CSV](data/en/new-articles-2026-11-01T09-19-59Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-01 07:26:08 | [1945–46 Wilmington Bombers season](https://en.wikipedia.org/wiki/1945%E2%80%9346_Wilmington_Bombers_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 11,404 |
-| 2026-11-01 07:28:09 | [2003 Philadelphia municipal election](https://en.wikipedia.org/wiki/2003_Philadelphia_municipal_election) | [Average Pennsylvanian](https://en.wikipedia.org/wiki/User:Average_Pennsylvanian) | 45,837 |
-| 2026-11-01 07:30:39 | [1946–47 Trenton Tigers season](https://en.wikipedia.org/wiki/1946%E2%80%9347_Trenton_Tigers_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 15,542 |
-| 2026-11-01 07:34:35 | [1946–47 Paterson Crescents season](https://en.wikipedia.org/wiki/1946%E2%80%9347_Paterson_Crescents_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,557 |
-| 2026-11-01 07:41:55 | [Haunted (band)](https://en.wikipedia.org/wiki/Haunted_%28band%29) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 3,555 |
-| 2026-11-01 07:43:56 | [1941–42 Trenton Tigers season](https://en.wikipedia.org/wiki/1941%E2%80%9342_Trenton_Tigers_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 9,965 |
-| 2026-11-01 07:48:53 | [Alliance of Greeks](https://en.wikipedia.org/wiki/Alliance_of_Greeks) | [Greeceball Animations](https://en.wikipedia.org/wiki/User:Greeceball_Animations) | 7,405 |
-| 2026-11-01 07:57:26 | [Badampahar](https://en.wikipedia.org/wiki/Badampahar) | [Rajdhani Fan Person](https://en.wikipedia.org/wiki/User:Rajdhani_Fan_Person) | 898 |
-| 2026-11-01 07:59:07 | [The Paeroa College](https://en.wikipedia.org/wiki/The_Paeroa_College) | [PoliticalNerd13](https://en.wikipedia.org/wiki/User:PoliticalNerd13) | 4,356 |
-| 2026-11-01 08:00:53 | [Hendrik Gerrit ten Cate](https://en.wikipedia.org/wiki/Hendrik_Gerrit_ten_Cate) | [Jvhertum](https://en.wikipedia.org/wiki/User:Jvhertum) | 6,744 |
-| 2026-11-01 08:01:43 | [1942–43 New York Jewels season](https://en.wikipedia.org/wiki/1942%E2%80%9343_New_York_Jewels_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 10,936 |
-| 2026-11-01 08:04:41 | [2013 in Oregon](https://en.wikipedia.org/wiki/2013_in_Oregon) | [Doomhope](https://en.wikipedia.org/wiki/User:Doomhope) | 4,011 |
-| 2026-11-01 08:08:49 | [1941–42 New York Jewels season](https://en.wikipedia.org/wiki/1941%E2%80%9342_New_York_Jewels_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,454 |
-| 2026-11-01 08:10:18 | [1940–41 New York Jewels season](https://en.wikipedia.org/wiki/1940%E2%80%9341_New_York_Jewels_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 9,392 |
-| 2026-11-01 08:13:07 | [1939–40 New York Jewels season](https://en.wikipedia.org/wiki/1939%E2%80%9340_New_York_Jewels_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 18,288 |
-| 2026-11-01 08:17:03 | [2003 Sporting Cristal season](https://en.wikipedia.org/wiki/2003_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 2,110 |
+| 2026-11-01 08:23:46 | [Aedonion](https://en.wikipedia.org/wiki/Aedonion) | [Archaeaoris](https://en.wikipedia.org/wiki/User:Archaeaoris) | 1,393 |
+| 2026-11-01 08:33:35 | [2016 Colorado elections](https://en.wikipedia.org/wiki/2016_Colorado_elections) | [The EDM Gug](https://en.wikipedia.org/wiki/User:The_EDM_Gug) | 1,286 |
+| 2026-11-01 08:34:38 | [Days Without Dawn](https://en.wikipedia.org/wiki/Days_Without_Dawn) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 2,803 |
+| 2026-11-01 08:37:41 | [2004 Sporting Cristal season](https://en.wikipedia.org/wiki/2004_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 2,110 |
+| 2026-11-01 08:39:28 | [Eelfleet Dyke Mill, Potter Heigham](https://en.wikipedia.org/wiki/Eelfleet_Dyke_Mill%2C_Potter_Heigham) | [Mjroots](https://en.wikipedia.org/wiki/User:Mjroots) | 3,966 |
+| 2026-11-01 08:47:44 | [Abode (2025 film)](https://en.wikipedia.org/wiki/Abode_%282025_film%29) | [TheEditorHailingFrom2006](https://en.wikipedia.org/wiki/User:TheEditorHailingFrom2006) | 6,946 |
+| 2026-11-01 08:49:13 | [Acharya Dinesh Chandra Joshi](https://en.wikipedia.org/wiki/Acharya_Dinesh_Chandra_Joshi) | [Snehrashmi](https://en.wikipedia.org/wiki/User:Snehrashmi) | 5,981 |
+| 2026-11-01 08:50:21 | [WebGNOME](https://en.wikipedia.org/wiki/WebGNOME) | [Blu Adi](https://en.wikipedia.org/wiki/User:Blu_Adi) | 15,413 |
+| 2026-11-01 08:54:08 | [All Saints Church, Port Augusta](https://en.wikipedia.org/wiki/All_Saints_Church%2C_Port_Augusta) | [Febycv](https://en.wikipedia.org/wiki/User:Febycv) | 4,108 |
+| 2026-11-01 08:58:16 | [Will Green (footballer)](https://en.wikipedia.org/wiki/Will_Green_%28footballer%29) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,193 |
+| 2026-11-01 08:59:25 | [Donald Newton MacKay](https://en.wikipedia.org/wiki/Donald_Newton_MacKay) | [XBobcat](https://en.wikipedia.org/wiki/User:XBobcat) | 2,834 |
+| 2026-11-01 09:01:50 | [Jamune McNeace](https://en.wikipedia.org/wiki/Jamune_McNeace) | [Solon Panagiotis](https://en.wikipedia.org/wiki/User:Solon_Panagiotis) | 10,419 |
+| 2026-11-01 09:02:47 | [Ferdowsi Theatre](https://en.wikipedia.org/wiki/Ferdowsi_Theatre) | [Hounaam](https://en.wikipedia.org/wiki/User:Hounaam) | 7,719 |
+| 2026-11-01 09:07:54 | [Justin Alston](https://en.wikipedia.org/wiki/Justin_Alston) | [Solon Panagiotis](https://en.wikipedia.org/wiki/User:Solon_Panagiotis) | 11,712 |
+| 2026-11-01 09:08:50 | [Swartzia benthamiana](https://en.wikipedia.org/wiki/Swartzia_benthamiana) | [Fakyrr](https://en.wikipedia.org/wiki/User:Fakyrr) | 725 |
+| 2026-11-01 09:13:59 | [Anna Maria van Veeren](https://en.wikipedia.org/wiki/Anna_Maria_van_Veeren) | [Jvhertum](https://en.wikipedia.org/wiki/User:Jvhertum) | 5,259 |
+| 2026-11-01 09:14:43 | [ThirtyFour18](https://en.wikipedia.org/wiki/ThirtyFour18) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 8,359 |
+| 2026-11-01 09:16:23 | [Michał Michalak](https://en.wikipedia.org/wiki/Micha%C5%82_Michalak) | [Solon Panagiotis](https://en.wikipedia.org/wiki/User:Solon_Panagiotis) | 10,080 |
