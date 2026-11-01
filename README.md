@@ -13,54 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-01 15:18 UTC](data/en/new-articles-2026-11-01T15-18-17Z.csv) | 22 |
-| Japanese | `ja` | [2026-11-01 15:18 UTC](data/ja/new-articles-2026-11-01T15-18-17Z.csv) | 5 |
-| Chinese | `zh` | [2026-11-01 15:18 UTC](data/zh/new-articles-2026-11-01T15-18-17Z.csv) | 16 |
-| French | `fr` | [2026-11-01 15:18 UTC](data/fr/new-articles-2026-11-01T15-18-17Z.csv) | 9 |
-| German | `de` | [2026-11-01 15:18 UTC](data/de/new-articles-2026-11-01T15-18-17Z.csv) | 17 |
-| Russian | `ru` | [2026-11-01 15:18 UTC](data/ru/new-articles-2026-11-01T15-18-17Z.csv) | 15 |
-| Spanish | `es` | [2026-11-01 15:18 UTC](data/es/new-articles-2026-11-01T15-18-17Z.csv) | 20 |
-| Italian | `it` | [2026-11-01 15:18 UTC](data/it/new-articles-2026-11-01T15-18-17Z.csv) | 8 |
-| Portuguese | `pt` | [2026-11-01 15:18 UTC](data/pt/new-articles-2026-11-01T15-18-17Z.csv) | 9 |
-| Polish | `pl` | [2026-11-01 15:18 UTC](data/pl/new-articles-2026-11-01T15-18-17Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-01 15:18 UTC](data/ar/new-articles-2026-11-01T15-18-17Z.csv) | 7 |
-| Persian | `fa` | [2026-11-01 15:18 UTC](data/fa/new-articles-2026-11-01T15-18-17Z.csv) | 9 |
-| Turkish | `tr` | [2026-11-01 15:18 UTC](data/tr/new-articles-2026-11-01T15-18-17Z.csv) | 155 |
-| Hebrew | `he` | [2026-11-01 15:18 UTC](data/he/new-articles-2026-11-01T15-18-17Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-01 15:18 UTC](data/sv/new-articles-2026-11-01T15-18-17Z.csv) | 5 |
-| Dutch | `nl` | [2026-11-01 15:18 UTC](data/nl/new-articles-2026-11-01T15-18-17Z.csv) | 2 |
-| Korean | `ko` | [2026-11-01 15:18 UTC](data/ko/new-articles-2026-11-01T15-18-17Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-01 15:18 UTC](data/id/new-articles-2026-11-01T15-18-17Z.csv) | 12 |
-| Ukrainian | `uk` | [2026-11-01 15:18 UTC](data/uk/new-articles-2026-11-01T15-18-17Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-01 15:18 UTC](data/vi/new-articles-2026-11-01T15-18-17Z.csv) | 1 |
+| English | `en` | [2026-11-01 16:18 UTC](data/en/new-articles-2026-11-01T16-18-12Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-01 16:18 UTC](data/ja/new-articles-2026-11-01T16-18-12Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-01 16:18 UTC](data/zh/new-articles-2026-11-01T16-18-12Z.csv) | 3 |
+| French | `fr` | [2026-11-01 16:18 UTC](data/fr/new-articles-2026-11-01T16-18-12Z.csv) | 6 |
+| German | `de` | [2026-11-01 16:18 UTC](data/de/new-articles-2026-11-01T16-18-12Z.csv) | 5 |
+| Russian | `ru` | [2026-11-01 16:18 UTC](data/ru/new-articles-2026-11-01T16-18-12Z.csv) | 22 |
+| Spanish | `es` | [2026-11-01 16:18 UTC](data/es/new-articles-2026-11-01T16-18-12Z.csv) | 12 |
+| Italian | `it` | [2026-11-01 16:18 UTC](data/it/new-articles-2026-11-01T16-18-12Z.csv) | 10 |
+| Portuguese | `pt` | [2026-11-01 16:18 UTC](data/pt/new-articles-2026-11-01T16-18-12Z.csv) | 5 |
+| Polish | `pl` | [2026-11-01 16:18 UTC](data/pl/new-articles-2026-11-01T16-18-12Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-01 16:18 UTC](data/ar/new-articles-2026-11-01T16-18-12Z.csv) | 4 |
+| Persian | `fa` | [2026-11-01 16:18 UTC](data/fa/new-articles-2026-11-01T16-18-12Z.csv) | 11 |
+| Turkish | `tr` | [2026-11-01 16:18 UTC](data/tr/new-articles-2026-11-01T16-18-12Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-01 16:18 UTC](data/he/new-articles-2026-11-01T16-18-12Z.csv) | 6 |
+| Swedish | `sv` | [2026-11-01 16:18 UTC](data/sv/new-articles-2026-11-01T16-18-12Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-01 16:18 UTC](data/nl/new-articles-2026-11-01T16-18-12Z.csv) | 1 |
+| Korean | `ko` | [2026-11-01 16:18 UTC](data/ko/new-articles-2026-11-01T16-18-12Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-01 16:18 UTC](data/id/new-articles-2026-11-01T16-18-12Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-01 16:18 UTC](data/uk/new-articles-2026-11-01T16-18-12Z.csv) | 15 |
+| Vietnamese | `vi` | [2026-11-01 16:18 UTC](data/vi/new-articles-2026-11-01T16-18-12Z.csv) | 3 |
 
-## English (en) — 2026-11-01 15:18 UTC
+## English (en) — 2026-11-01 16:18 UTC
 
-New articles created between 2026-11-01 14:18 UTC and 2026-11-01 15:18 UTC.
+New articles created between 2026-11-01 15:18 UTC and 2026-11-01 16:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-01T15-18-17Z.csv)
+[Full CSV](data/en/new-articles-2026-11-01T16-18-12Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-01 14:18:39 | [Meyer Mossel](https://en.wikipedia.org/wiki/Meyer_Mossel) | [Mossel](https://en.wikipedia.org/wiki/User:Mossel) | 10,375 |
-| 2026-11-01 14:19:07 | [Acrossus formosanus](https://en.wikipedia.org/wiki/Acrossus_formosanus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,865 |
-| 2026-11-01 14:21:42 | [Acrossus milloti](https://en.wikipedia.org/wiki/Acrossus_milloti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,919 |
-| 2026-11-01 14:22:30 | [Motherland (Pretty Maids album)](https://en.wikipedia.org/wiki/Motherland_%28Pretty_Maids_album%29) | [ItsBri](https://en.wikipedia.org/wiki/User:ItsBri) | 5,506 |
-| 2026-11-01 14:24:07 | [Acrossus ustulatus](https://en.wikipedia.org/wiki/Acrossus_ustulatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,867 |
-| 2026-11-01 14:27:35 | [Acrossus unifasciatus](https://en.wikipedia.org/wiki/Acrossus_unifasciatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,182 |
-| 2026-11-01 14:30:27 | [Shinola, Vol. 2](https://en.wikipedia.org/wiki/Shinola%2C_Vol._2) | [Elephantranges](https://en.wikipedia.org/wiki/User:Elephantranges) | 2,737 |
-| 2026-11-01 14:31:48 | [Acrossus binaevulus](https://en.wikipedia.org/wiki/Acrossus_binaevulus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,491 |
-| 2026-11-01 14:31:58 | [Shooting at the 2026 Asian Para Games – Women's 50m Rifle Three Positions SH1](https://en.wikipedia.org/wiki/Shooting_at_the_2026_Asian_Para_Games_%E2%80%93_Women%27s_50m_Rifle_Three_Positions_SH1) | [Neeelzzz20](https://en.wikipedia.org/wiki/User:Neeelzzz20) | 3,604 |
-| 2026-11-01 14:35:40 | [Vision Cathedral](https://en.wikipedia.org/wiki/Vision_Cathedral) | [Wazza](https://en.wikipedia.org/wiki/User:Wazza) | 2,948 |
-| 2026-11-01 14:37:05 | [Traveling with Sugar](https://en.wikipedia.org/wiki/Traveling_with_Sugar) | [Boredintheevening](https://en.wikipedia.org/wiki/User:Boredintheevening) | 6,270 |
-| 2026-11-01 14:39:02 | [Acrossus depressus](https://en.wikipedia.org/wiki/Acrossus_depressus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 3,254 |
-| 2026-11-01 14:46:39 | [AURORA. The Drama Award of the City of Bydgoszcz](https://en.wikipedia.org/wiki/AURORA._The_Drama_Award_of_the_City_of_Bydgoszcz) | [Nativa](https://en.wikipedia.org/wiki/User:Nativa) | 14,693 |
-| 2026-11-01 14:53:44 | [Finn McLeod](https://en.wikipedia.org/wiki/Finn_McLeod) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 5,162 |
-| 2026-11-01 15:04:46 | [Laura Camacho](https://en.wikipedia.org/wiki/Laura_Camacho) | [Athensgaeditor1](https://en.wikipedia.org/wiki/User:Athensgaeditor1) | 44,676 |
-| 2026-11-01 15:08:35 | [Acrossus bimaculatus](https://en.wikipedia.org/wiki/Acrossus_bimaculatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,340 |
-| 2026-11-01 15:11:53 | [Forugh Karimi](https://en.wikipedia.org/wiki/Forugh_Karimi) | [Zoe3456](https://en.wikipedia.org/wiki/User:Zoe3456) | 5,230 |
-| 2026-11-01 15:13:43 | [1967 Milwaukee Panthers football team](https://en.wikipedia.org/wiki/1967_Milwaukee_Panthers_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 6,550 |
-| 2026-11-01 15:13:48 | [Joe Croghan](https://en.wikipedia.org/wiki/Joe_Croghan) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 6,362 |
-| 2026-11-01 15:14:12 | [Dresses Too Short](https://en.wikipedia.org/wiki/Dresses_Too_Short) | [Caro7200](https://en.wikipedia.org/wiki/User:Caro7200) | 4,009 |
-| 2026-11-01 15:17:05 | [Mika Muliaina](https://en.wikipedia.org/wiki/Mika_Muliaina) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 5,295 |
-| 2026-11-01 15:17:30 | [Acrossus rubripennis](https://en.wikipedia.org/wiki/Acrossus_rubripennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,937 |
+| 2026-11-01 15:23:26 | [Ulrychów station](https://en.wikipedia.org/wiki/Ulrych%C3%B3w_station) | [Fortek67](https://en.wikipedia.org/wiki/User:Fortek67) | 196 |
+| 2026-11-01 15:25:34 | [Kate Spradley](https://en.wikipedia.org/wiki/Kate_Spradley) | [H0n0r](https://en.wikipedia.org/wiki/User:H0n0r) | 3,246 |
+| 2026-11-01 15:29:14 | [Lucas Bustamante](https://en.wikipedia.org/wiki/Lucas_Bustamante) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 88 |
+| 2026-11-01 15:35:11 | [Megalamynodon](https://en.wikipedia.org/wiki/Megalamynodon) | [Stromatherium](https://en.wikipedia.org/wiki/User:Stromatherium) | 14,745 |
+| 2026-11-01 15:35:40 | [Gisèle Moreau](https://en.wikipedia.org/wiki/Gis%C3%A8le_Moreau) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 5,518 |
+| 2026-11-01 15:39:11 | [Gray romanticism](https://en.wikipedia.org/wiki/Gray_romanticism) | [VolrawTras](https://en.wikipedia.org/wiki/User:VolrawTras) | 421 |
+| 2026-11-01 15:41:59 | [Fuller baronets of the Inner Temple (1687)](https://en.wikipedia.org/wiki/Fuller_baronets_of_the_Inner_Temple_%281687%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,438 |
+| 2026-11-01 15:44:44 | [Paulo Cardoso](https://en.wikipedia.org/wiki/Paulo_Cardoso) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,852 |
+| 2026-11-01 15:53:10 | [Arragoussets](https://en.wikipedia.org/wiki/Arragoussets) | [MatthewMCN608](https://en.wikipedia.org/wiki/User:MatthewMCN608) | 2,131 |
+| 2026-11-01 15:55:53 | [Lebanon at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Lebanon_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 5,008 |
+| 2026-11-01 16:00:29 | [The Great British Bake Off: Second Helpings](https://en.wikipedia.org/wiki/The_Great_British_Bake_Off%3A_Second_Helpings) | [Adavid299](https://en.wikipedia.org/wiki/User:Adavid299) | 1,148 |
+| 2026-11-01 16:01:51 | [Jerry Sittser](https://en.wikipedia.org/wiki/Jerry_Sittser) | [QuietStacks](https://en.wikipedia.org/wiki/User:QuietStacks) | 12,103 |
+| 2026-11-01 16:02:28 | [Jumoké Fashola](https://en.wikipedia.org/wiki/Jumok%C3%A9_Fashola) | [Seaweed](https://en.wikipedia.org/wiki/User:Seaweed) | 2,645 |
+| 2026-11-01 16:03:29 | [2026 Players Championship Finals](https://en.wikipedia.org/wiki/2026_Players_Championship_Finals) | [Greenflipper](https://en.wikipedia.org/wiki/User:Greenflipper) | 6,457 |
+| 2026-11-01 16:04:14 | [Yeah Yeah Yeah (Cast Album)](https://en.wikipedia.org/wiki/Yeah_Yeah_Yeah_%28Cast_Album%29) | [Gecmo](https://en.wikipedia.org/wiki/User:Gecmo) | 2,376 |
+| 2026-11-01 16:05:17 | [National commission for almajiri and out of school children education](https://en.wikipedia.org/wiki/National_commission_for_almajiri_and_out_of_school_children_education) | [Obokhia](https://en.wikipedia.org/wiki/User:Obokhia) | 2,886 |
+| 2026-11-01 16:13:59 | [Halesus digitatus](https://en.wikipedia.org/wiki/Halesus_digitatus) | [Strokesfan42](https://en.wikipedia.org/wiki/User:Strokesfan42) | 1,562 |
+| 2026-11-01 16:15:08 | [Mineola Fairgrounds](https://en.wikipedia.org/wiki/Mineola_Fairgrounds) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 10,729 |
+| 2026-11-01 16:16:24 | [Rafael Profini](https://en.wikipedia.org/wiki/Rafael_Profini) | [Aleksandr Grigoryev](https://en.wikipedia.org/wiki/User:Aleksandr_Grigoryev) | 7,186 |
