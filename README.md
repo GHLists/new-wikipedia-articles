@@ -13,64 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-02 09:18 UTC](data/en/new-articles-2026-11-02T09-18-19Z.csv) | 32 |
-| Japanese | `ja` | [2026-11-02 09:18 UTC](data/ja/new-articles-2026-11-02T09-18-19Z.csv) | 8 |
-| Chinese | `zh` | [2026-11-02 09:18 UTC](data/zh/new-articles-2026-11-02T09-18-19Z.csv) | 10 |
-| French | `fr` | [2026-11-02 09:18 UTC](data/fr/new-articles-2026-11-02T09-18-19Z.csv) | 8 |
-| German | `de` | [2026-11-02 09:18 UTC](data/de/new-articles-2026-11-02T09-18-19Z.csv) | 7 |
-| Russian | `ru` | [2026-11-02 09:18 UTC](data/ru/new-articles-2026-11-02T09-18-19Z.csv) | 10 |
-| Spanish | `es` | [2026-11-02 09:18 UTC](data/es/new-articles-2026-11-02T09-18-19Z.csv) | 7 |
-| Italian | `it` | [2026-11-02 09:18 UTC](data/it/new-articles-2026-11-02T09-18-19Z.csv) | 5 |
-| Portuguese | `pt` | [2026-11-02 09:18 UTC](data/pt/new-articles-2026-11-02T09-18-19Z.csv) | 1 |
-| Polish | `pl` | [2026-11-02 09:18 UTC](data/pl/new-articles-2026-11-02T09-18-19Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-02 09:18 UTC](data/ar/new-articles-2026-11-02T09-18-19Z.csv) | 9 |
-| Persian | `fa` | [2026-11-02 09:18 UTC](data/fa/new-articles-2026-11-02T09-18-19Z.csv) | 9 |
-| Turkish | `tr` | [2026-11-02 09:18 UTC](data/tr/new-articles-2026-11-02T09-18-19Z.csv) | 7 |
-| Hebrew | `he` | [2026-11-02 09:18 UTC](data/he/new-articles-2026-11-02T09-18-19Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-02 09:18 UTC](data/sv/new-articles-2026-11-02T09-18-19Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-02 09:18 UTC](data/nl/new-articles-2026-11-02T09-18-19Z.csv) | 4 |
-| Korean | `ko` | [2026-11-02 09:18 UTC](data/ko/new-articles-2026-11-02T09-18-19Z.csv) | 5 |
-| Indonesian | `id` | [2026-11-02 09:18 UTC](data/id/new-articles-2026-11-02T09-18-19Z.csv) | 17 |
-| Ukrainian | `uk` | [2026-11-02 09:18 UTC](data/uk/new-articles-2026-11-02T09-18-19Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-02 09:18 UTC](data/vi/new-articles-2026-11-02T09-18-19Z.csv) | 2 |
+| English | `en` | [2026-11-02 10:19 UTC](data/en/new-articles-2026-11-02T10-19-31Z.csv) | 22 |
+| Japanese | `ja` | [2026-11-02 10:19 UTC](data/ja/new-articles-2026-11-02T10-19-31Z.csv) | 6 |
+| Chinese | `zh` | [2026-11-02 10:19 UTC](data/zh/new-articles-2026-11-02T10-19-31Z.csv) | 19 |
+| French | `fr` | [2026-11-02 10:19 UTC](data/fr/new-articles-2026-11-02T10-19-31Z.csv) | 8 |
+| German | `de` | [2026-11-02 10:19 UTC](data/de/new-articles-2026-11-02T10-19-31Z.csv) | 10 |
+| Russian | `ru` | [2026-11-02 10:19 UTC](data/ru/new-articles-2026-11-02T10-19-31Z.csv) | 10 |
+| Spanish | `es` | [2026-11-02 10:19 UTC](data/es/new-articles-2026-11-02T10-19-31Z.csv) | 4 |
+| Italian | `it` | [2026-11-02 10:19 UTC](data/it/new-articles-2026-11-02T10-19-31Z.csv) | 17 |
+| Portuguese | `pt` | [2026-11-02 10:19 UTC](data/pt/new-articles-2026-11-02T10-19-31Z.csv) | 2 |
+| Polish | `pl` | [2026-11-02 10:19 UTC](data/pl/new-articles-2026-11-02T10-19-31Z.csv) | 13 |
+| Arabic | `ar` | [2026-11-02 10:19 UTC](data/ar/new-articles-2026-11-02T10-19-31Z.csv) | 6 |
+| Persian | `fa` | [2026-11-02 10:19 UTC](data/fa/new-articles-2026-11-02T10-19-31Z.csv) | 5 |
+| Turkish | `tr` | [2026-11-02 10:19 UTC](data/tr/new-articles-2026-11-02T10-19-31Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-02 10:19 UTC](data/he/new-articles-2026-11-02T10-19-31Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-02 10:19 UTC](data/sv/new-articles-2026-11-02T10-19-31Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-02 10:19 UTC](data/nl/new-articles-2026-11-02T10-19-31Z.csv) | 7 |
+| Korean | `ko` | [2026-11-02 10:19 UTC](data/ko/new-articles-2026-11-02T10-19-31Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-02 10:19 UTC](data/id/new-articles-2026-11-02T10-19-31Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-02 10:19 UTC](data/uk/new-articles-2026-11-02T10-19-31Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-11-02 10:19 UTC](data/vi/new-articles-2026-11-02T10-19-31Z.csv) | 3 |
 
-## English (en) — 2026-11-02 09:18 UTC
+## English (en) — 2026-11-02 10:19 UTC
 
-New articles created between 2026-11-02 08:18 UTC and 2026-11-02 09:18 UTC.
+New articles created between 2026-11-02 09:18 UTC and 2026-11-02 10:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-02T09-18-19Z.csv)
+[Full CSV](data/en/new-articles-2026-11-02T10-19-31Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-02 08:19:18 | [Ronald Sluys](https://en.wikipedia.org/wiki/Ronald_Sluys) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-02 08:20:09 | [Melanie Dyer](https://en.wikipedia.org/wiki/Melanie_Dyer) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 8,478 |
-| 2026-11-02 08:27:01 | [Liceo Daniele Crespi, Busto Arsizio](https://en.wikipedia.org/wiki/Liceo_Daniele_Crespi%2C_Busto_Arsizio) | [Julius Barclay](https://en.wikipedia.org/wiki/User:Julius_Barclay) | 3,903 |
-| 2026-11-02 08:27:57 | [Vasyl V. Tkach](https://en.wikipedia.org/wiki/Vasyl_V._Tkach) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-02 08:30:02 | [Peter D. Olson](https://en.wikipedia.org/wiki/Peter_D._Olson) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-02 08:31:49 | [Jacob Smith (cyclist)](https://en.wikipedia.org/wiki/Jacob_Smith_%28cyclist%29) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,279 |
-| 2026-11-02 08:33:11 | [Neagolius montivagus](https://en.wikipedia.org/wiki/Neagolius_montivagus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,237 |
-| 2026-11-02 08:39:18 | [Chris Matagi](https://en.wikipedia.org/wiki/Chris_Matagi) | [PlaytheballRL](https://en.wikipedia.org/wiki/User:PlaytheballRL) | 2,246 |
-| 2026-11-02 08:40:28 | [Neagolius praecox](https://en.wikipedia.org/wiki/Neagolius_praecox) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,220 |
-| 2026-11-02 08:41:52 | [Willem Hekking (1825–1904)](https://en.wikipedia.org/wiki/Willem_Hekking_%281825%E2%80%931904%29) | [Jvhertum](https://en.wikipedia.org/wiki/User:Jvhertum) | 7,594 |
-| 2026-11-02 08:42:36 | [Warner baronets of Parham (1660)](https://en.wikipedia.org/wiki/Warner_baronets_of_Parham_%281660%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,954 |
-| 2026-11-02 08:43:04 | [Firefighter (album)](https://en.wikipedia.org/wiki/Firefighter_%28album%29) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 2,994 |
-| 2026-11-02 08:43:15 | [Trinickia](https://en.wikipedia.org/wiki/Trinickia) | [Ethmostigmus](https://en.wikipedia.org/wiki/User:Ethmostigmus) | 2,715 |
-| 2026-11-02 08:46:38 | [Jan Rens](https://en.wikipedia.org/wiki/Jan_Rens) | [In Vitrio](https://en.wikipedia.org/wiki/User:In_Vitrio) | 3,044 |
-| 2026-11-02 08:50:59 | [List of counties of Kenya by life expectancy](https://en.wikipedia.org/wiki/List_of_counties_of_Kenya_by_life_expectancy) | [Aguahrz](https://en.wikipedia.org/wiki/User:Aguahrz) | 7,828 |
-| 2026-11-02 08:53:42 | [Bill King (musician)](https://en.wikipedia.org/wiki/Bill_King_%28musician%29) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 3,106 |
-| 2026-11-02 08:56:06 | [1940–41 Washington Brewers season](https://en.wikipedia.org/wiki/1940%E2%80%9341_Washington_Brewers_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 6,862 |
-| 2026-11-02 08:56:16 | [1942 Drake Bulldogs football team](https://en.wikipedia.org/wiki/1942_Drake_Bulldogs_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 6,631 |
-| 2026-11-02 08:57:04 | [Neagolius liguricus](https://en.wikipedia.org/wiki/Neagolius_liguricus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,966 |
-| 2026-11-02 09:00:11 | [Ophioleucida](https://en.wikipedia.org/wiki/Ophioleucida) | [Shawnqual](https://en.wikipedia.org/wiki/User:Shawnqual) | 855 |
-| 2026-11-02 09:00:41 | [YouCam Online Editor](https://en.wikipedia.org/wiki/YouCam_Online_Editor) | [HAlen Madeb](https://en.wikipedia.org/wiki/User:HAlen_Madeb) | 5,810 |
-| 2026-11-02 09:00:44 | [Phaeaphodius kiulungensis](https://en.wikipedia.org/wiki/Phaeaphodius_kiulungensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,041 |
-| 2026-11-02 09:04:16 | [1941–42 Washington Brewers season](https://en.wikipedia.org/wiki/1941%E2%80%9342_Washington_Brewers_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,446 |
-| 2026-11-02 09:05:14 | [Heartsong](https://en.wikipedia.org/wiki/Heartsong) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 5,125 |
-| 2026-11-02 09:06:01 | [2026–27 Grambling State Tigers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Grambling_State_Tigers_men%27s_basketball_team) | [KIRSILAND](https://en.wikipedia.org/wiki/User:KIRSILAND) | 2,046 |
-| 2026-11-02 09:08:19 | [2026–27 Northern Illinois Huskies men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Illinois_Huskies_men%27s_basketball_team) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 9,539 |
-| 2026-11-02 09:08:24 | [Murders at Barlume](https://en.wikipedia.org/wiki/Murders_at_Barlume) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 8,030 |
-| 2026-11-02 09:08:32 | [Kay Karssemakers](https://en.wikipedia.org/wiki/Kay_Karssemakers) | [Marko15UK](https://en.wikipedia.org/wiki/User:Marko15UK) | 14,842 |
-| 2026-11-02 09:10:11 | [1939–40 Baltimore Clippers season](https://en.wikipedia.org/wiki/1939%E2%80%9340_Baltimore_Clippers_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 15,445 |
-| 2026-11-02 09:11:17 | [Brachiaphodius ahrensi](https://en.wikipedia.org/wiki/Brachiaphodius_ahrensi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,048 |
-| 2026-11-02 09:12:19 | [1940–41 Baltimore Clippers season](https://en.wikipedia.org/wiki/1940%E2%80%9341_Baltimore_Clippers_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 7,357 |
-| 2026-11-02 09:15:34 | [Brachiaphodius babori](https://en.wikipedia.org/wiki/Brachiaphodius_babori) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,791 |
+| 2026-11-02 09:18:34 | [Fuad Abdul-Aziz](https://en.wikipedia.org/wiki/Fuad_Abdul-Aziz) | [Harveygrieves](https://en.wikipedia.org/wiki/User:Harveygrieves) | 6,011 |
+| 2026-11-02 09:24:46 | [Brachiaphodius eccoptus](https://en.wikipedia.org/wiki/Brachiaphodius_eccoptus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,831 |
+| 2026-11-02 09:31:04 | [Brachiaphodius jendeki](https://en.wikipedia.org/wiki/Brachiaphodius_jendeki) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,174 |
+| 2026-11-02 09:33:19 | [Traditions (Fanny Lumsden album)](https://en.wikipedia.org/wiki/Traditions_%28Fanny_Lumsden_album%29) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 4,034 |
+| 2026-11-02 09:38:51 | [S. D. Narang](https://en.wikipedia.org/wiki/S._D._Narang) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 7,138 |
+| 2026-11-02 09:39:12 | [Brachiaphodius nainiensis](https://en.wikipedia.org/wiki/Brachiaphodius_nainiensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,834 |
+| 2026-11-02 09:41:53 | [Brachiaphodius pilifer](https://en.wikipedia.org/wiki/Brachiaphodius_pilifer) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,135 |
+| 2026-11-02 09:45:47 | [List of longest-living members of the Swedish royal family](https://en.wikipedia.org/wiki/List_of_longest-living_members_of_the_Swedish_royal_family) | [JancIroni](https://en.wikipedia.org/wiki/User:JancIroni) | 852 |
+| 2026-11-02 09:46:21 | [Brachiaphodius ruupbai](https://en.wikipedia.org/wiki/Brachiaphodius_ruupbai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,802 |
+| 2026-11-02 09:48:31 | [Kamohelo Mofolo](https://en.wikipedia.org/wiki/Kamohelo_Mofolo) | [PyotrRossetti](https://en.wikipedia.org/wiki/User:PyotrRossetti) | 2,728 |
+| 2026-11-02 09:48:49 | [Brachiaphodius taiwanicus](https://en.wikipedia.org/wiki/Brachiaphodius_taiwanicus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,800 |
+| 2026-11-02 09:49:47 | [South African Colonisation Society](https://en.wikipedia.org/wiki/South_African_Colonisation_Society) | [SDGB1217](https://en.wikipedia.org/wiki/User:SDGB1217) | 4,642 |
+| 2026-11-02 09:51:39 | [Roar Sundseth](https://en.wikipedia.org/wiki/Roar_Sundseth) | [Ishiura](https://en.wikipedia.org/wiki/User:Ishiura) | 3,229 |
+| 2026-11-02 09:52:04 | [1609 in Belgium](https://en.wikipedia.org/wiki/1609_in_Belgium) | [Andreas Philopater](https://en.wikipedia.org/wiki/User:Andreas_Philopater) | 25,347 |
+| 2026-11-02 09:52:07 | [Brachiaphodius weibao](https://en.wikipedia.org/wiki/Brachiaphodius_weibao) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,142 |
+| 2026-11-02 09:52:20 | [Luker Kentfield](https://en.wikipedia.org/wiki/Luker_Kentfield) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 3,729 |
+| 2026-11-02 09:54:20 | [Budhathoki Driving School](https://en.wikipedia.org/wiki/Budhathoki_Driving_School) | [Eken7](https://en.wikipedia.org/wiki/User:Eken7) | 4,868 |
+| 2026-11-02 09:54:34 | [Brachiaphodius yaaunitnoi](https://en.wikipedia.org/wiki/Brachiaphodius_yaaunitnoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,800 |
+| 2026-11-02 09:58:11 | [Brachiaphodius yuan](https://en.wikipedia.org/wiki/Brachiaphodius_yuan) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,116 |
+| 2026-11-02 10:01:22 | [16 on Bree](https://en.wikipedia.org/wiki/16_on_Bree) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 9,534 |
+| 2026-11-02 10:06:10 | [Hafsid capture of Alicante](https://en.wikipedia.org/wiki/Hafsid_capture_of_Alicante) | [Based tunisian](https://en.wikipedia.org/wiki/User:Based_tunisian) | 7,856 |
+| 2026-11-02 10:08:15 | [Eugen Jørgensen (biologist)](https://en.wikipedia.org/wiki/Eugen_J%C3%B8rgensen_%28biologist%29) | [Shyamal](https://en.wikipedia.org/wiki/User:Shyamal) | 3,426 |
