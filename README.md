@@ -13,57 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-02 18:19 UTC](data/en/new-articles-2026-11-02T18-19-35Z.csv) | 25 |
-| Japanese | `ja` | [2026-11-02 18:19 UTC](data/ja/new-articles-2026-11-02T18-19-35Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-02 18:19 UTC](data/zh/new-articles-2026-11-02T18-19-35Z.csv) | 1 |
-| French | `fr` | [2026-11-02 18:19 UTC](data/fr/new-articles-2026-11-02T18-19-35Z.csv) | 9 |
-| German | `de` | [2026-11-02 18:19 UTC](data/de/new-articles-2026-11-02T18-19-35Z.csv) | 17 |
-| Russian | `ru` | [2026-11-02 18:19 UTC](data/ru/new-articles-2026-11-02T18-19-35Z.csv) | 12 |
-| Spanish | `es` | [2026-11-02 18:19 UTC](data/es/new-articles-2026-11-02T18-19-35Z.csv) | 10 |
-| Italian | `it` | [2026-11-02 18:19 UTC](data/it/new-articles-2026-11-02T18-19-35Z.csv) | 13 |
-| Portuguese | `pt` | [2026-11-02 18:19 UTC](data/pt/new-articles-2026-11-02T18-19-35Z.csv) | 13 |
-| Polish | `pl` | [2026-11-02 18:19 UTC](data/pl/new-articles-2026-11-02T18-19-35Z.csv) | 8 |
-| Arabic | `ar` | [2026-11-02 18:19 UTC](data/ar/new-articles-2026-11-02T18-19-35Z.csv) | 9 |
-| Persian | `fa` | [2026-11-02 18:19 UTC](data/fa/new-articles-2026-11-02T18-19-35Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-02 18:19 UTC](data/tr/new-articles-2026-11-02T18-19-35Z.csv) | 11 |
-| Hebrew | `he` | [2026-11-02 18:19 UTC](data/he/new-articles-2026-11-02T18-19-35Z.csv) | 7 |
+| English | `en` | [2026-11-02 19:20 UTC](data/en/new-articles-2026-11-02T19-20-18Z.csv) | 21 |
+| Japanese | `ja` | [2026-11-02 19:20 UTC](data/ja/new-articles-2026-11-02T19-20-18Z.csv) | 2 |
+| Chinese | `zh` | [2026-11-02 19:20 UTC](data/zh/new-articles-2026-11-02T19-20-18Z.csv) | 1 |
+| French | `fr` | [2026-11-02 19:20 UTC](data/fr/new-articles-2026-11-02T19-20-18Z.csv) | 7 |
+| German | `de` | [2026-11-02 19:20 UTC](data/de/new-articles-2026-11-02T19-20-18Z.csv) | 12 |
+| Russian | `ru` | [2026-11-02 19:20 UTC](data/ru/new-articles-2026-11-02T19-20-18Z.csv) | 14 |
+| Spanish | `es` | [2026-11-02 19:20 UTC](data/es/new-articles-2026-11-02T19-20-18Z.csv) | 8 |
+| Italian | `it` | [2026-11-02 19:20 UTC](data/it/new-articles-2026-11-02T19-20-18Z.csv) | 5 |
+| Portuguese | `pt` | [2026-11-02 19:20 UTC](data/pt/new-articles-2026-11-02T19-20-18Z.csv) | 8 |
+| Polish | `pl` | [2026-11-02 19:20 UTC](data/pl/new-articles-2026-11-02T19-20-18Z.csv) | 6 |
+| Arabic | `ar` | [2026-11-02 19:20 UTC](data/ar/new-articles-2026-11-02T19-20-18Z.csv) | 11 |
+| Persian | `fa` | [2026-11-02 19:20 UTC](data/fa/new-articles-2026-11-02T19-20-18Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-02 19:20 UTC](data/tr/new-articles-2026-11-02T19-20-18Z.csv) | 17 |
+| Hebrew | `he` | [2026-11-02 19:20 UTC](data/he/new-articles-2026-11-02T19-20-18Z.csv) | 5 |
 | Swedish | `sv` | [2026-11-02 18:19 UTC](data/sv/new-articles-2026-11-02T18-19-35Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-02 18:19 UTC](data/nl/new-articles-2026-11-02T18-19-35Z.csv) | 6 |
-| Korean | `ko` | [2026-11-02 17:18 UTC](data/ko/new-articles-2026-11-02T17-18-13Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-02 19:20 UTC](data/nl/new-articles-2026-11-02T19-20-18Z.csv) | 4 |
+| Korean | `ko` | [2026-11-02 19:20 UTC](data/ko/new-articles-2026-11-02T19-20-18Z.csv) | 2 |
 | Indonesian | `id` | [2026-11-02 18:19 UTC](data/id/new-articles-2026-11-02T18-19-35Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-02 18:19 UTC](data/uk/new-articles-2026-11-02T18-19-35Z.csv) | 15 |
+| Ukrainian | `uk` | [2026-11-02 19:20 UTC](data/uk/new-articles-2026-11-02T19-20-18Z.csv) | 10 |
 | Vietnamese | `vi` | [2026-11-02 18:19 UTC](data/vi/new-articles-2026-11-02T18-19-35Z.csv) | 1 |
 
-## English (en) — 2026-11-02 18:19 UTC
+## English (en) — 2026-11-02 19:20 UTC
 
-New articles created between 2026-11-02 17:18 UTC and 2026-11-02 18:19 UTC.
+New articles created between 2026-11-02 18:19 UTC and 2026-11-02 19:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-02T18-19-35Z.csv)
+[Full CSV](data/en/new-articles-2026-11-02T19-20-18Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-02 17:21:18 | [William J. Hargis Jr.](https://en.wikipedia.org/wiki/William_J._Hargis_Jr.) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 110 |
-| 2026-11-02 17:23:12 | [Kestin Ebimorbowei Pondi](https://en.wikipedia.org/wiki/Kestin_Ebimorbowei_Pondi) | [Langalee](https://en.wikipedia.org/wiki/User:Langalee) | 4,252 |
-| 2026-11-02 17:25:03 | [Daniel C. Huston](https://en.wikipedia.org/wiki/Daniel_C._Huston) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 108 |
-| 2026-11-02 17:25:25 | [2026–27 UC San Diego Tritons women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_UC_San_Diego_Tritons_women%27s_basketball_team) | [Haimeixianghaoqishenme](https://en.wikipedia.org/wiki/User:Haimeixianghaoqishenme) | 9,062 |
-| 2026-11-02 17:26:58 | [Domene (surname)](https://en.wikipedia.org/wiki/Domene_%28surname%29) | [Oupals](https://en.wikipedia.org/wiki/User:Oupals) | 570 |
-| 2026-11-02 17:34:26 | [Pipers Crisps](https://en.wikipedia.org/wiki/Pipers_Crisps) | [Mica473](https://en.wikipedia.org/wiki/User:Mica473) | 11,643 |
-| 2026-11-02 17:35:23 | [Coastal rowing at the 2026 Summer Youth Olympics – Mixed double sculls](https://en.wikipedia.org/wiki/Coastal_rowing_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Mixed_double_sculls) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 11,511 |
-| 2026-11-02 17:41:04 | [Dar-e-nijaat](https://en.wikipedia.org/wiki/Dar-e-nijaat) | [Sheikh Mehedi Hassan](https://en.wikipedia.org/wiki/User:Sheikh_Mehedi_Hassan) | 7,520 |
-| 2026-11-02 17:41:41 | [Rodrigo Dias (Portuguese footballer)](https://en.wikipedia.org/wiki/Rodrigo_Dias_%28Portuguese_footballer%29) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,595 |
-| 2026-11-02 17:43:13 | [Gian Andrea Biffi](https://en.wikipedia.org/wiki/Gian_Andrea_Biffi) | [Sam Pumpkin](https://en.wikipedia.org/wiki/User:Sam_Pumpkin) | 4,784 |
-| 2026-11-02 17:45:42 | [Gilletianus kratochvili](https://en.wikipedia.org/wiki/Gilletianus_kratochvili) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,245 |
-| 2026-11-02 17:46:29 | [Iori Miyazaki](https://en.wikipedia.org/wiki/Iori_Miyazaki) | [Hosohiro](https://en.wikipedia.org/wiki/User:Hosohiro) | 4,245 |
-| 2026-11-02 17:48:36 | [Runaway Slaves in Britain](https://en.wikipedia.org/wiki/Runaway_Slaves_in_Britain) | [PitterPatter533](https://en.wikipedia.org/wiki/User:PitterPatter533) | 14,202 |
-| 2026-11-02 17:50:59 | [2027 Rugby Europe Championship](https://en.wikipedia.org/wiki/2027_Rugby_Europe_Championship) | [Lado85](https://en.wikipedia.org/wiki/User:Lado85) | 16,195 |
-| 2026-11-02 17:51:03 | [Nocturnal Fear](https://en.wikipedia.org/wiki/Nocturnal_Fear) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 4,488 |
-| 2026-11-02 17:56:19 | [Gilletianus fukiensis](https://en.wikipedia.org/wiki/Gilletianus_fukiensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,163 |
-| 2026-11-02 17:59:57 | [Shamsuddin Bin Hussain Saheb Jukaku](https://en.wikipedia.org/wiki/Shamsuddin_Bin_Hussain_Saheb_Jukaku) | [Vonter](https://en.wikipedia.org/wiki/User:Vonter) | 5,840 |
-| 2026-11-02 18:00:05 | [Pierce Francis Connelly](https://en.wikipedia.org/wiki/Pierce_Francis_Connelly) | [Arkistointi](https://en.wikipedia.org/wiki/User:Arkistointi) | 2,133 |
-| 2026-11-02 18:00:48 | [Gilletianus miksici](https://en.wikipedia.org/wiki/Gilletianus_miksici) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,142 |
-| 2026-11-02 18:05:09 | [Lonely Pup (In a Christmas Shop)](https://en.wikipedia.org/wiki/Lonely_Pup_%28In_a_Christmas_Shop%29) | [DPUH](https://en.wikipedia.org/wiki/User:DPUH) | 4,963 |
-| 2026-11-02 18:12:01 | [Cryptobatrachus conditus](https://en.wikipedia.org/wiki/Cryptobatrachus_conditus) | [Darkfrog24](https://en.wikipedia.org/wiki/User:Darkfrog24) | 2,102 |
-| 2026-11-02 18:12:59 | [Bastián Escobar](https://en.wikipedia.org/wiki/Basti%C3%A1n_Escobar) | [Sunshinezguy](https://en.wikipedia.org/wiki/User:Sunshinezguy) | 4,552 |
-| 2026-11-02 18:15:35 | [Gilletianus therondi](https://en.wikipedia.org/wiki/Gilletianus_therondi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,116 |
-| 2026-11-02 18:16:17 | [1858 Manchester City Council election](https://en.wikipedia.org/wiki/1858_Manchester_City_Council_election) | [JoeKramer04](https://en.wikipedia.org/wiki/User:JoeKramer04) | 8,595 |
-| 2026-11-02 18:19:01 | [Kutney](https://en.wikipedia.org/wiki/Kutney) | [Miracle Pen](https://en.wikipedia.org/wiki/User:Miracle_Pen) | 238 |
+| 2026-11-02 18:19:48 | [Kitney](https://en.wikipedia.org/wiki/Kitney) | [Miracle Pen](https://en.wikipedia.org/wiki/User:Miracle_Pen) | 199 |
+| 2026-11-02 18:22:32 | [Bob Howard (racing driver)](https://en.wikipedia.org/wiki/Bob_Howard_%28racing_driver%29) | [Nws5683](https://en.wikipedia.org/wiki/User:Nws5683) | 11,535 |
+| 2026-11-02 18:26:36 | [Wushu at the 2026 Summer Youth Olympics – Men's taijiquan combined](https://en.wikipedia.org/wiki/Wushu_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Men%27s_taijiquan_combined) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 6,724 |
+| 2026-11-02 18:29:12 | [Roads in Republika Srpska](https://en.wikipedia.org/wiki/Roads_in_Republika_Srpska) | [BasilLeaf](https://en.wikipedia.org/wiki/User:BasilLeaf) | 15,251 |
+| 2026-11-02 18:30:22 | [Wushu at the 2026 Summer Youth Olympics – Women's taijiquan combined](https://en.wikipedia.org/wiki/Wushu_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Women%27s_taijiquan_combined) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 5,843 |
+| 2026-11-02 18:38:13 | [2019 WPT Córdoba Open](https://en.wikipedia.org/wiki/2019_WPT_C%C3%B3rdoba_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 43,816 |
+| 2026-11-02 18:40:12 | [Paulo e Estêvão](https://en.wikipedia.org/wiki/Paulo_e_Est%C3%AAv%C3%A3o) | [Rogeriocisi](https://en.wikipedia.org/wiki/User:Rogeriocisi) | 11,194 |
+| 2026-11-02 18:40:12 | [Mana Ishikawa](https://en.wikipedia.org/wiki/Mana_Ishikawa) | [Hosohiro](https://en.wikipedia.org/wiki/User:Hosohiro) | 4,168 |
+| 2026-11-02 18:40:42 | [Saola Foundation](https://en.wikipedia.org/wiki/Saola_Foundation) | [Kermitisgreen](https://en.wikipedia.org/wiki/User:Kermitisgreen) | 9,793 |
+| 2026-11-02 18:41:06 | [Ambala War Memorial](https://en.wikipedia.org/wiki/Ambala_War_Memorial) | [UrbanGridIndia](https://en.wikipedia.org/wiki/User:UrbanGridIndia) | 6,572 |
+| 2026-11-02 18:48:17 | [Isabelle Sauve](https://en.wikipedia.org/wiki/Isabelle_Sauve) | [Carterwilliam](https://en.wikipedia.org/wiki/User:Carterwilliam) | 5,558 |
+| 2026-11-02 18:50:07 | [Fulton Brook](https://en.wikipedia.org/wiki/Fulton_Brook) | [Bush6984](https://en.wikipedia.org/wiki/User:Bush6984) | 778 |
+| 2026-11-02 18:55:52 | [Euryophiurida](https://en.wikipedia.org/wiki/Euryophiurida) | [Shawnqual](https://en.wikipedia.org/wiki/User:Shawnqual) | 853 |
+| 2026-11-02 18:56:15 | [1968 Drake Bulldogs football team](https://en.wikipedia.org/wiki/1968_Drake_Bulldogs_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 4,447 |
+| 2026-11-02 18:58:30 | [Leila Weefur](https://en.wikipedia.org/wiki/Leila_Weefur) | [Funcrunch](https://en.wikipedia.org/wiki/User:Funcrunch) | 9,602 |
+| 2026-11-02 19:02:54 | [Ophintegrida](https://en.wikipedia.org/wiki/Ophintegrida) | [Shawnqual](https://en.wikipedia.org/wiki/User:Shawnqual) | 1,248 |
+| 2026-11-02 19:04:12 | [Mahabharata (2013 Malayalam TV series)](https://en.wikipedia.org/wiki/Mahabharata_%282013_Malayalam_TV_series%29) | [Gotitbro](https://en.wikipedia.org/wiki/User:Gotitbro) | 38 |
+| 2026-11-02 19:04:30 | [Feliks Uciechowski](https://en.wikipedia.org/wiki/Feliks_Uciechowski) | [Artemis Andromeda](https://en.wikipedia.org/wiki/User:Artemis_Andromeda) | 6,828 |
+| 2026-11-02 19:06:15 | [Good Shepherd Anglican Church (Waynesboro, Virginia)](https://en.wikipedia.org/wiki/Good_Shepherd_Anglican_Church_%28Waynesboro%2C_Virginia%29) | [Dclemens1971](https://en.wikipedia.org/wiki/User:Dclemens1971) | 3,441 |
+| 2026-11-02 19:09:21 | [Upper Paleolithic in Georgia (country)](https://en.wikipedia.org/wiki/Upper_Paleolithic_in_Georgia_%28country%29) | [Kober](https://en.wikipedia.org/wiki/User:Kober) | 27,875 |
+| 2026-11-02 19:13:22 | [Metophiurida](https://en.wikipedia.org/wiki/Metophiurida) | [Shawnqual](https://en.wikipedia.org/wiki/User:Shawnqual) | 907 |
