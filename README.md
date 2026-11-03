@@ -13,44 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-03 18:19 UTC](data/en/new-articles-2026-11-03T18-19-48Z.csv) | 12 |
-| Japanese | `ja` | [2026-11-03 18:19 UTC](data/ja/new-articles-2026-11-03T18-19-48Z.csv) | 1 |
-| Chinese | `zh` | [2026-11-03 18:19 UTC](data/zh/new-articles-2026-11-03T18-19-48Z.csv) | 3 |
-| French | `fr` | [2026-11-03 18:19 UTC](data/fr/new-articles-2026-11-03T18-19-48Z.csv) | 13 |
-| German | `de` | [2026-11-03 18:19 UTC](data/de/new-articles-2026-11-03T18-19-48Z.csv) | 19 |
-| Russian | `ru` | [2026-11-03 18:19 UTC](data/ru/new-articles-2026-11-03T18-19-48Z.csv) | 18 |
-| Spanish | `es` | [2026-11-03 18:19 UTC](data/es/new-articles-2026-11-03T18-19-48Z.csv) | 4 |
-| Italian | `it` | [2026-11-03 18:19 UTC](data/it/new-articles-2026-11-03T18-19-48Z.csv) | 16 |
-| Portuguese | `pt` | [2026-11-03 18:19 UTC](data/pt/new-articles-2026-11-03T18-19-48Z.csv) | 10 |
-| Polish | `pl` | [2026-11-03 18:19 UTC](data/pl/new-articles-2026-11-03T18-19-48Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-03 18:19 UTC](data/ar/new-articles-2026-11-03T18-19-48Z.csv) | 8 |
-| Persian | `fa` | [2026-11-03 18:19 UTC](data/fa/new-articles-2026-11-03T18-19-48Z.csv) | 5 |
-| Turkish | `tr` | [2026-11-03 18:19 UTC](data/tr/new-articles-2026-11-03T18-19-48Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-03 18:19 UTC](data/he/new-articles-2026-11-03T18-19-48Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-03 18:19 UTC](data/sv/new-articles-2026-11-03T18-19-48Z.csv) | 10 |
-| Dutch | `nl` | [2026-11-03 18:19 UTC](data/nl/new-articles-2026-11-03T18-19-48Z.csv) | 3 |
-| Korean | `ko` | [2026-11-03 18:19 UTC](data/ko/new-articles-2026-11-03T18-19-48Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-03 18:19 UTC](data/id/new-articles-2026-11-03T18-19-48Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-03 18:19 UTC](data/uk/new-articles-2026-11-03T18-19-48Z.csv) | 14 |
+| English | `en` | [2026-11-03 19:18 UTC](data/en/new-articles-2026-11-03T19-18-31Z.csv) | 21 |
+| Japanese | `ja` | [2026-11-03 19:18 UTC](data/ja/new-articles-2026-11-03T19-18-31Z.csv) | 2 |
+| Chinese | `zh` | [2026-11-03 19:18 UTC](data/zh/new-articles-2026-11-03T19-18-31Z.csv) | 5 |
+| French | `fr` | [2026-11-03 19:18 UTC](data/fr/new-articles-2026-11-03T19-18-31Z.csv) | 10 |
+| German | `de` | [2026-11-03 19:18 UTC](data/de/new-articles-2026-11-03T19-18-31Z.csv) | 18 |
+| Russian | `ru` | [2026-11-03 19:18 UTC](data/ru/new-articles-2026-11-03T19-18-31Z.csv) | 15 |
+| Spanish | `es` | [2026-11-03 19:18 UTC](data/es/new-articles-2026-11-03T19-18-31Z.csv) | 18 |
+| Italian | `it` | [2026-11-03 19:18 UTC](data/it/new-articles-2026-11-03T19-18-31Z.csv) | 5 |
+| Portuguese | `pt` | [2026-11-03 19:18 UTC](data/pt/new-articles-2026-11-03T19-18-31Z.csv) | 12 |
+| Polish | `pl` | [2026-11-03 19:18 UTC](data/pl/new-articles-2026-11-03T19-18-31Z.csv) | 13 |
+| Arabic | `ar` | [2026-11-03 19:18 UTC](data/ar/new-articles-2026-11-03T19-18-31Z.csv) | 10 |
+| Persian | `fa` | [2026-11-03 19:18 UTC](data/fa/new-articles-2026-11-03T19-18-31Z.csv) | 9 |
+| Turkish | `tr` | [2026-11-03 19:18 UTC](data/tr/new-articles-2026-11-03T19-18-31Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-03 19:18 UTC](data/he/new-articles-2026-11-03T19-18-31Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-03 19:18 UTC](data/sv/new-articles-2026-11-03T19-18-31Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-03 19:18 UTC](data/nl/new-articles-2026-11-03T19-18-31Z.csv) | 4 |
+| Korean | `ko` | [2026-11-03 19:18 UTC](data/ko/new-articles-2026-11-03T19-18-31Z.csv) | 4 |
+| Indonesian | `id` | [2026-11-03 19:18 UTC](data/id/new-articles-2026-11-03T19-18-31Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-03 19:18 UTC](data/uk/new-articles-2026-11-03T19-18-31Z.csv) | 8 |
 | Vietnamese | `vi` | [2026-11-03 17:18 UTC](data/vi/new-articles-2026-11-03T17-18-56Z.csv) | 1 |
 
-## English (en) — 2026-11-03 18:19 UTC
+## English (en) — 2026-11-03 19:18 UTC
 
-New articles created between 2026-11-03 17:18 UTC and 2026-11-03 18:19 UTC.
+New articles created between 2026-11-03 18:19 UTC and 2026-11-03 19:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-03T18-19-48Z.csv)
+[Full CSV](data/en/new-articles-2026-11-03T19-18-31Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-03 17:20:14 | [Skiddy](https://en.wikipedia.org/wiki/Skiddy) | [StAnselm](https://en.wikipedia.org/wiki/User:StAnselm) | 276 |
-| 2026-11-03 17:29:51 | [Lenmark Industries](https://en.wikipedia.org/wiki/Lenmark_Industries) | [Cole Holloway](https://en.wikipedia.org/wiki/User:Cole_Holloway) | 8,907 |
-| 2026-11-03 17:33:36 | [Populist Authoritarianism: Chinese Political Culture and Regime Sustainability](https://en.wikipedia.org/wiki/Populist_Authoritarianism%3A_Chinese_Political_Culture_and_Regime_Sustainability) | [RetiredResearchKing123](https://en.wikipedia.org/wiki/User:RetiredResearchKing123) | 22,340 |
-| 2026-11-03 17:35:31 | [Puro Magic](https://en.wikipedia.org/wiki/Puro_Magic) | [Lowyat Slyder](https://en.wikipedia.org/wiki/User:Lowyat_Slyder) | 40,941 |
-| 2026-11-03 17:39:45 | [Olivia Waite](https://en.wikipedia.org/wiki/Olivia_Waite) | [Dsp13](https://en.wikipedia.org/wiki/User:Dsp13) | 3,119 |
-| 2026-11-03 17:39:49 | [Keyshia Cole: This Is My Story](https://en.wikipedia.org/wiki/Keyshia_Cole%3A_This_Is_My_Story) | [Indigault](https://en.wikipedia.org/wiki/User:Indigault) | 13,326 |
-| 2026-11-03 17:40:28 | [Zhucunxi station](https://en.wikipedia.org/wiki/Zhucunxi_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 4,046 |
-| 2026-11-03 17:42:07 | [Touyou Yamawaki](https://en.wikipedia.org/wiki/Touyou_Yamawaki) | [Sam Pumpkin](https://en.wikipedia.org/wiki/User:Sam_Pumpkin) | 4,571 |
-| 2026-11-03 17:59:33 | [Elizabeth Evans (unofficial Crimean War nurse)](https://en.wikipedia.org/wiki/Elizabeth_Evans_%28unofficial_Crimean_War_nurse%29) | [AndyScott](https://en.wikipedia.org/wiki/User:AndyScott) | 17,971 |
-| 2026-11-03 18:01:41 | [Laurie Ryan (footballer, born 1993)](https://en.wikipedia.org/wiki/Laurie_Ryan_%28footballer%2C_born_1993%29) | [Bring back Daz Sampson](https://en.wikipedia.org/wiki/User:Bring_back_Daz_Sampson) | 6,649 |
-| 2026-11-03 18:05:32 | [Flint Global](https://en.wikipedia.org/wiki/Flint_Global) | [Ghm3lm1l8v](https://en.wikipedia.org/wiki/User:Ghm3lm1l8v) | 9,994 |
-| 2026-11-03 18:15:11 | [1895 United Kingdom general election in England](https://en.wikipedia.org/wiki/1895_United_Kingdom_general_election_in_England) | [BlueCrowns](https://en.wikipedia.org/wiki/User:BlueCrowns) | 31,166 |
+| 2026-11-03 18:20:19 | [Hôtel de Ville, Grande-Synthe](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Grande-Synthe) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 6,934 |
+| 2026-11-03 18:20:30 | [Hadiyyah, Al Madinah](https://en.wikipedia.org/wiki/Hadiyyah%2C_Al_Madinah) | [Clemens Schmillen](https://en.wikipedia.org/wiki/User:Clemens_Schmillen) | 2,591 |
+| 2026-11-03 18:23:33 | [Miku Matsushima](https://en.wikipedia.org/wiki/Miku_Matsushima) | [Hosohiro](https://en.wikipedia.org/wiki/User:Hosohiro) | 8,187 |
+| 2026-11-03 18:24:35 | [Hangtiancheng station](https://en.wikipedia.org/wiki/Hangtiancheng_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 6,115 |
+| 2026-11-03 18:28:27 | [Rethymniakos F.C.](https://en.wikipedia.org/wiki/Rethymniakos_F.C.) | [Seanjackson67](https://en.wikipedia.org/wiki/User:Seanjackson67) | 8,565 |
+| 2026-11-03 18:30:56 | [Hello Kimberly Tour](https://en.wikipedia.org/wiki/Hello_Kimberly_Tour) | [Indigault](https://en.wikipedia.org/wiki/User:Indigault) | 7,994 |
+| 2026-11-03 18:35:33 | [Portulaca rubricaulis](https://en.wikipedia.org/wiki/Portulaca_rubricaulis) | [Gaiacoyote](https://en.wikipedia.org/wiki/User:Gaiacoyote) | 11,485 |
+| 2026-11-03 18:39:25 | [Nooru Kodi Vaanavil](https://en.wikipedia.org/wiki/Nooru_Kodi_Vaanavil) | [Filmyworldwiki](https://en.wikipedia.org/wiki/User:Filmyworldwiki) | 7,791 |
+| 2026-11-03 18:40:41 | [Kommetjie Library](https://en.wikipedia.org/wiki/Kommetjie_Library) | [Mattlibrarian](https://en.wikipedia.org/wiki/User:Mattlibrarian) | 2,539 |
+| 2026-11-03 18:42:31 | [National Union for Innovation and Tradition Party (UNIT)](https://en.wikipedia.org/wiki/National_Union_for_Innovation_and_Tradition_Party_%28UNIT%29) | [RomanianUserEU](https://en.wikipedia.org/wiki/User:RomanianUserEU) | 10,749 |
+| 2026-11-03 18:49:07 | [Nipissing Lakers Nordic Team](https://en.wikipedia.org/wiki/Nipissing_Lakers_Nordic_Team) | [Clegler](https://en.wikipedia.org/wiki/User:Clegler) | 2,707 |
+| 2026-11-03 18:49:26 | [Jack Bonavita](https://en.wikipedia.org/wiki/Jack_Bonavita) | [JohnMizuki](https://en.wikipedia.org/wiki/User:JohnMizuki) | 2,132 |
+| 2026-11-03 18:51:24 | [Shiki Kawamura](https://en.wikipedia.org/wiki/Shiki_Kawamura) | [Hosohiro](https://en.wikipedia.org/wiki/User:Hosohiro) | 4,561 |
+| 2026-11-03 18:52:05 | [Pukatawagan Lake](https://en.wikipedia.org/wiki/Pukatawagan_Lake) | [Masterhatch](https://en.wikipedia.org/wiki/User:Masterhatch) | 7,033 |
+| 2026-11-03 18:53:50 | [2027 Liberty Flames baseball team](https://en.wikipedia.org/wiki/2027_Liberty_Flames_baseball_team) | [CrownKingWarrior](https://en.wikipedia.org/wiki/User:CrownKingWarrior) | 22,740 |
+| 2026-11-03 18:57:03 | [Praise Aloikin Opoloje](https://en.wikipedia.org/wiki/Praise_Aloikin_Opoloje) | [Aikiriza Justus](https://en.wikipedia.org/wiki/User:Aikiriza_Justus) | 7,609 |
+| 2026-11-03 18:57:23 | [Ma Sihan](https://en.wikipedia.org/wiki/Ma_Sihan) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 6,853 |
+| 2026-11-03 18:57:26 | [The Way It Is 20th Anniversary Tour](https://en.wikipedia.org/wiki/The_Way_It_Is_20th_Anniversary_Tour) | [Indigault](https://en.wikipedia.org/wiki/User:Indigault) | 13,963 |
+| 2026-11-03 19:00:34 | [12 Études for Viola](https://en.wikipedia.org/wiki/12_%C3%89tudes_for_Viola) | [Why? I Ask](https://en.wikipedia.org/wiki/User:Why%3F_I_Ask) | 2,105 |
+| 2026-11-03 19:03:55 | [Vocea României season 14](https://en.wikipedia.org/wiki/Vocea_Rom%C3%A2niei_season_14) | [StefanAtreides](https://en.wikipedia.org/wiki/User:StefanAtreides) | 3,395 |
+| 2026-11-03 19:11:16 | [You Can Never Give Me Back My Heart](https://en.wikipedia.org/wiki/You_Can_Never_Give_Me_Back_My_Heart) | [HazelAlbertSheriff](https://en.wikipedia.org/wiki/User:HazelAlbertSheriff) | 6,117 |
