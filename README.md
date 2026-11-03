@@ -13,51 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-03 00:19 UTC](data/en/new-articles-2026-11-03T00-19-00Z.csv) | 19 |
-| Japanese | `ja` | [2026-11-03 00:19 UTC](data/ja/new-articles-2026-11-03T00-19-00Z.csv) | 9 |
-| Chinese | `zh` | [2026-11-02 22:18 UTC](data/zh/new-articles-2026-11-02T22-18-48Z.csv) | 1 |
-| French | `fr` | [2026-11-03 00:19 UTC](data/fr/new-articles-2026-11-03T00-19-00Z.csv) | 7 |
-| German | `de` | [2026-11-03 00:19 UTC](data/de/new-articles-2026-11-03T00-19-00Z.csv) | 6 |
-| Russian | `ru` | [2026-11-03 00:19 UTC](data/ru/new-articles-2026-11-03T00-19-00Z.csv) | 2 |
-| Spanish | `es` | [2026-11-03 00:19 UTC](data/es/new-articles-2026-11-03T00-19-00Z.csv) | 5 |
-| Italian | `it` | [2026-11-03 00:19 UTC](data/it/new-articles-2026-11-03T00-19-00Z.csv) | 4 |
-| Portuguese | `pt` | [2026-11-03 00:19 UTC](data/pt/new-articles-2026-11-03T00-19-00Z.csv) | 6 |
-| Polish | `pl` | [2026-11-03 00:19 UTC](data/pl/new-articles-2026-11-03T00-19-00Z.csv) | 4 |
-| Arabic | `ar` | [2026-11-03 00:19 UTC](data/ar/new-articles-2026-11-03T00-19-00Z.csv) | 7 |
-| Persian | `fa` | [2026-11-03 00:19 UTC](data/fa/new-articles-2026-11-03T00-19-00Z.csv) | 9 |
-| Turkish | `tr` | [2026-11-03 00:19 UTC](data/tr/new-articles-2026-11-03T00-19-00Z.csv) | 3 |
+| English | `en` | [2026-11-03 01:19 UTC](data/en/new-articles-2026-11-03T01-19-00Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-03 01:19 UTC](data/ja/new-articles-2026-11-03T01-19-00Z.csv) | 9 |
+| Chinese | `zh` | [2026-11-03 01:19 UTC](data/zh/new-articles-2026-11-03T01-19-00Z.csv) | 5 |
+| French | `fr` | [2026-11-03 01:19 UTC](data/fr/new-articles-2026-11-03T01-19-00Z.csv) | 2 |
+| German | `de` | [2026-11-03 01:19 UTC](data/de/new-articles-2026-11-03T01-19-00Z.csv) | 2 |
+| Russian | `ru` | [2026-11-03 01:19 UTC](data/ru/new-articles-2026-11-03T01-19-00Z.csv) | 2 |
+| Spanish | `es` | [2026-11-03 01:19 UTC](data/es/new-articles-2026-11-03T01-19-00Z.csv) | 4 |
+| Italian | `it` | [2026-11-03 01:19 UTC](data/it/new-articles-2026-11-03T01-19-00Z.csv) | 4 |
+| Portuguese | `pt` | [2026-11-03 01:19 UTC](data/pt/new-articles-2026-11-03T01-19-00Z.csv) | 10 |
+| Polish | `pl` | [2026-11-03 01:19 UTC](data/pl/new-articles-2026-11-03T01-19-00Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-03 01:19 UTC](data/ar/new-articles-2026-11-03T01-19-00Z.csv) | 2 |
+| Persian | `fa` | [2026-11-03 01:19 UTC](data/fa/new-articles-2026-11-03T01-19-00Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-03 01:19 UTC](data/tr/new-articles-2026-11-03T01-19-00Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-03 00:19 UTC](data/he/new-articles-2026-11-03T00-19-00Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-03 00:19 UTC](data/sv/new-articles-2026-11-03T00-19-00Z.csv) | 3 |
 | Dutch | `nl` | [2026-11-03 00:19 UTC](data/nl/new-articles-2026-11-03T00-19-00Z.csv) | 1 |
-| Korean | `ko` | [2026-11-03 00:19 UTC](data/ko/new-articles-2026-11-03T00-19-00Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-03 00:19 UTC](data/id/new-articles-2026-11-03T00-19-00Z.csv) | 3 |
+| Korean | `ko` | [2026-11-03 01:19 UTC](data/ko/new-articles-2026-11-03T01-19-00Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-03 01:19 UTC](data/id/new-articles-2026-11-03T01-19-00Z.csv) | 8 |
 | Ukrainian | `uk` | [2026-11-03 00:19 UTC](data/uk/new-articles-2026-11-03T00-19-00Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-11-03 00:19 UTC](data/vi/new-articles-2026-11-03T00-19-00Z.csv) | 1 |
 
-## English (en) — 2026-11-03 00:19 UTC
+## English (en) — 2026-11-03 01:19 UTC
 
-New articles created between 2026-11-02 23:19 UTC and 2026-11-03 00:19 UTC.
+New articles created between 2026-11-03 00:19 UTC and 2026-11-03 01:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-03T00-19-00Z.csv)
+[Full CSV](data/en/new-articles-2026-11-03T01-19-00Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-02 23:26:53 | [Manuel Vicente Jiménez Oreamuno](https://en.wikipedia.org/wiki/Manuel_Vicente_Jim%C3%A9nez_Oreamuno) | [Leroji](https://en.wikipedia.org/wiki/User:Leroji) | 5,376 |
-| 2026-11-02 23:31:11 | [Dont Touch That Dial](https://en.wikipedia.org/wiki/Dont_Touch_That_Dial) | [Sojour](https://en.wikipedia.org/wiki/User:Sojour) | 230 |
-| 2026-11-02 23:32:45 | [2026–27 South Dakota Coyotes men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_South_Dakota_Coyotes_men%27s_basketball_team) | [Natethegreat4226](https://en.wikipedia.org/wiki/User:Natethegreat4226) | 18,066 |
-| 2026-11-02 23:38:00 | [Ban Sreymom](https://en.wikipedia.org/wiki/Ban_Sreymom) | [Alsor97](https://en.wikipedia.org/wiki/User:Alsor97) | 4,412 |
-| 2026-11-02 23:38:02 | [Tokooos II (Fally Ipupa album)](https://en.wikipedia.org/wiki/Tokooos_II_%28Fally_Ipupa_album%29) | [EdwinAlden.1995](https://en.wikipedia.org/wiki/User:EdwinAlden.1995) | 66,791 |
-| 2026-11-02 23:39:32 | [Ian Gilligan](https://en.wikipedia.org/wiki/Ian_Gilligan) | [Walter Gain](https://en.wikipedia.org/wiki/User:Walter_Gain) | 1,199 |
-| 2026-11-02 23:43:16 | [2019 WPT São Paulo Open](https://en.wikipedia.org/wiki/2019_WPT_S%C3%A3o_Paulo_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 23,371 |
-| 2026-11-02 23:47:09 | [2026 Canadian Curling Club Championships](https://en.wikipedia.org/wiki/2026_Canadian_Curling_Club_Championships) | [Traveltheglobe](https://en.wikipedia.org/wiki/User:Traveltheglobe) | 27,481 |
-| 2026-11-02 23:50:37 | [2027 Kyalami 24 Hours](https://en.wikipedia.org/wiki/2027_Kyalami_24_Hours) | [IMSA E320](https://en.wikipedia.org/wiki/User:IMSA_E320) | 1,289 |
-| 2026-11-02 23:59:30 | [Adrien Bocquet](https://en.wikipedia.org/wiki/Adrien_Bocquet) | [JPHC2003](https://en.wikipedia.org/wiki/User:JPHC2003) | 14,060 |
-| 2026-11-03 00:01:51 | [Susi (name)](https://en.wikipedia.org/wiki/Susi_%28name%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 2,874 |
-| 2026-11-03 00:03:50 | [Công báo](https://en.wikipedia.org/wiki/C%C3%B4ng_b%C3%A1o) | [Fortheia](https://en.wikipedia.org/wiki/User:Fortheia) | 14,846 |
-| 2026-11-03 00:04:52 | [Lasioglossum conspicuum](https://en.wikipedia.org/wiki/Lasioglossum_conspicuum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,328 |
-| 2026-11-03 00:07:37 | [Rafael Orozco González](https://en.wikipedia.org/wiki/Rafael_Orozco_Gonz%C3%A1lez) | [Leroji](https://en.wikipedia.org/wiki/User:Leroji) | 4,997 |
-| 2026-11-03 00:08:56 | [Chengdu Longquanyi Railway Station](https://en.wikipedia.org/wiki/Chengdu_Longquanyi_Railway_Station) | [EZ73](https://en.wikipedia.org/wiki/User:EZ73) | 1,459 |
-| 2026-11-03 00:10:32 | [Walter J. Tomasch](https://en.wikipedia.org/wiki/Walter_J._Tomasch) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,177 |
-| 2026-11-03 00:11:15 | [Tommy Grogan](https://en.wikipedia.org/wiki/Tommy_Grogan) | [GOAT Bones231012](https://en.wikipedia.org/wiki/User:GOAT_Bones231012) | 36,941 |
-| 2026-11-03 00:16:21 | [Lachy Dovaston](https://en.wikipedia.org/wiki/Lachy_Dovaston) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 4,036 |
-| 2026-11-03 00:16:58 | [Alexander and Dindimus (poem)](https://en.wikipedia.org/wiki/Alexander_and_Dindimus_%28poem%29) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 3,887 |
+| 2026-11-03 00:21:50 | [Drones (2026 film)](https://en.wikipedia.org/wiki/Drones_%282026_film%29) | [Kailash29792](https://en.wikipedia.org/wiki/User:Kailash29792) | 4,265 |
+| 2026-11-03 00:25:47 | [Christmas with Arthur Godfrey](https://en.wikipedia.org/wiki/Christmas_with_Arthur_Godfrey) | [Moscow Connection](https://en.wikipedia.org/wiki/User:Moscow_Connection) | 6,931 |
+| 2026-11-03 00:32:43 | [Thomas Angelini](https://en.wikipedia.org/wiki/Thomas_Angelini) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,393 |
+| 2026-11-03 00:32:58 | [Tim P. Edson](https://en.wikipedia.org/wiki/Tim_P._Edson) | [Elendil-mir69](https://en.wikipedia.org/wiki/User:Elendil-mir69) | 10,241 |
+| 2026-11-03 00:33:54 | [The John Cena Classic](https://en.wikipedia.org/wiki/The_John_Cena_Classic) | [Mechanical Elephant](https://en.wikipedia.org/wiki/User:Mechanical_Elephant) | 846 |
+| 2026-11-03 00:42:11 | [Abe Kosoff](https://en.wikipedia.org/wiki/Abe_Kosoff) | [LoneEagle33](https://en.wikipedia.org/wiki/User:LoneEagle33) | 7,444 |
+| 2026-11-03 00:45:56 | [12South](https://en.wikipedia.org/wiki/12South) | [Heroeswithmetaphors](https://en.wikipedia.org/wiki/User:Heroeswithmetaphors) | 611 |
+| 2026-11-03 00:46:04 | [Papyrus Oxyrhynchus 668](https://en.wikipedia.org/wiki/Papyrus_Oxyrhynchus_668) | [WobbegongKing](https://en.wikipedia.org/wiki/User:WobbegongKing) | 1,271 |
+| 2026-11-03 00:46:44 | [Li Qi (soldier)](https://en.wikipedia.org/wiki/Li_Qi_%28soldier%29) | [Toadboy123](https://en.wikipedia.org/wiki/User:Toadboy123) | 6,378 |
+| 2026-11-03 00:53:39 | [1965 Drake Bulldogs football team](https://en.wikipedia.org/wiki/1965_Drake_Bulldogs_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 5,044 |
+| 2026-11-03 00:53:54 | [Lena Bilić](https://en.wikipedia.org/wiki/Lena_Bili%C4%87) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,333 |
+| 2026-11-03 00:54:29 | [List of astronomical catalogues by Stephen James O'Meara](https://en.wikipedia.org/wiki/List_of_astronomical_catalogues_by_Stephen_James_O%27Meara) | [Epsiloniclad](https://en.wikipedia.org/wiki/User:Epsiloniclad) | 154,057 |
+| 2026-11-03 00:55:15 | [St Elgin's Church, North Frodingham](https://en.wikipedia.org/wiki/St_Elgin%27s_Church%2C_North_Frodingham) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 2,920 |
+| 2026-11-03 00:55:35 | [Hôtel de Ville, L'Isle-sur-la-Sorgue](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_L%27Isle-sur-la-Sorgue) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 6,495 |
+| 2026-11-03 00:56:14 | [Thomas Corbitt](https://en.wikipedia.org/wiki/Thomas_Corbitt) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,694 |
+| 2026-11-03 00:58:29 | [Bryan Gamboa](https://en.wikipedia.org/wiki/Bryan_Gamboa) | [Lf20](https://en.wikipedia.org/wiki/User:Lf20) | 11,175 |
+| 2026-11-03 01:02:28 | [Flappy (disambiguation)](https://en.wikipedia.org/wiki/Flappy_%28disambiguation%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 766 |
+| 2026-11-03 01:03:45 | [Rafael Alfonso Umaña Mendez](https://en.wikipedia.org/wiki/Rafael_Alfonso_Uma%C3%B1a_Mendez) | [WomenArtistUpdates](https://en.wikipedia.org/wiki/User:WomenArtistUpdates) | 2,094 |
+| 2026-11-03 01:07:41 | [Eric M. Furst](https://en.wikipedia.org/wiki/Eric_M._Furst) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,741 |
