@@ -13,51 +13,44 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-03 17:18 UTC](data/en/new-articles-2026-11-03T17-18-56Z.csv) | 19 |
-| Japanese | `ja` | [2026-11-03 17:18 UTC](data/ja/new-articles-2026-11-03T17-18-56Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-03 17:18 UTC](data/zh/new-articles-2026-11-03T17-18-56Z.csv) | 3 |
-| French | `fr` | [2026-11-03 17:18 UTC](data/fr/new-articles-2026-11-03T17-18-56Z.csv) | 10 |
-| German | `de` | [2026-11-03 17:18 UTC](data/de/new-articles-2026-11-03T17-18-56Z.csv) | 16 |
-| Russian | `ru` | [2026-11-03 17:18 UTC](data/ru/new-articles-2026-11-03T17-18-56Z.csv) | 6 |
-| Spanish | `es` | [2026-11-03 17:18 UTC](data/es/new-articles-2026-11-03T17-18-56Z.csv) | 31 |
-| Italian | `it` | [2026-11-03 17:18 UTC](data/it/new-articles-2026-11-03T17-18-56Z.csv) | 13 |
-| Portuguese | `pt` | [2026-11-03 17:18 UTC](data/pt/new-articles-2026-11-03T17-18-56Z.csv) | 4 |
-| Polish | `pl` | [2026-11-03 17:18 UTC](data/pl/new-articles-2026-11-03T17-18-56Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-03 17:18 UTC](data/ar/new-articles-2026-11-03T17-18-56Z.csv) | 6 |
-| Persian | `fa` | [2026-11-03 17:18 UTC](data/fa/new-articles-2026-11-03T17-18-56Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-03 15:19 UTC](data/tr/new-articles-2026-11-03T15-19-44Z.csv) | 3 |
-| Hebrew | `he` | [2026-11-03 17:18 UTC](data/he/new-articles-2026-11-03T17-18-56Z.csv) | 9 |
-| Swedish | `sv` | [2026-11-03 17:18 UTC](data/sv/new-articles-2026-11-03T17-18-56Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-03 17:18 UTC](data/nl/new-articles-2026-11-03T17-18-56Z.csv) | 7 |
-| Korean | `ko` | [2026-11-03 17:18 UTC](data/ko/new-articles-2026-11-03T17-18-56Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-03 17:18 UTC](data/id/new-articles-2026-11-03T17-18-56Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-03 17:18 UTC](data/uk/new-articles-2026-11-03T17-18-56Z.csv) | 4 |
+| English | `en` | [2026-11-03 18:19 UTC](data/en/new-articles-2026-11-03T18-19-48Z.csv) | 12 |
+| Japanese | `ja` | [2026-11-03 18:19 UTC](data/ja/new-articles-2026-11-03T18-19-48Z.csv) | 1 |
+| Chinese | `zh` | [2026-11-03 18:19 UTC](data/zh/new-articles-2026-11-03T18-19-48Z.csv) | 3 |
+| French | `fr` | [2026-11-03 18:19 UTC](data/fr/new-articles-2026-11-03T18-19-48Z.csv) | 13 |
+| German | `de` | [2026-11-03 18:19 UTC](data/de/new-articles-2026-11-03T18-19-48Z.csv) | 19 |
+| Russian | `ru` | [2026-11-03 18:19 UTC](data/ru/new-articles-2026-11-03T18-19-48Z.csv) | 18 |
+| Spanish | `es` | [2026-11-03 18:19 UTC](data/es/new-articles-2026-11-03T18-19-48Z.csv) | 4 |
+| Italian | `it` | [2026-11-03 18:19 UTC](data/it/new-articles-2026-11-03T18-19-48Z.csv) | 16 |
+| Portuguese | `pt` | [2026-11-03 18:19 UTC](data/pt/new-articles-2026-11-03T18-19-48Z.csv) | 10 |
+| Polish | `pl` | [2026-11-03 18:19 UTC](data/pl/new-articles-2026-11-03T18-19-48Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-03 18:19 UTC](data/ar/new-articles-2026-11-03T18-19-48Z.csv) | 8 |
+| Persian | `fa` | [2026-11-03 18:19 UTC](data/fa/new-articles-2026-11-03T18-19-48Z.csv) | 5 |
+| Turkish | `tr` | [2026-11-03 18:19 UTC](data/tr/new-articles-2026-11-03T18-19-48Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-03 18:19 UTC](data/he/new-articles-2026-11-03T18-19-48Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-03 18:19 UTC](data/sv/new-articles-2026-11-03T18-19-48Z.csv) | 10 |
+| Dutch | `nl` | [2026-11-03 18:19 UTC](data/nl/new-articles-2026-11-03T18-19-48Z.csv) | 3 |
+| Korean | `ko` | [2026-11-03 18:19 UTC](data/ko/new-articles-2026-11-03T18-19-48Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-03 18:19 UTC](data/id/new-articles-2026-11-03T18-19-48Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-03 18:19 UTC](data/uk/new-articles-2026-11-03T18-19-48Z.csv) | 14 |
 | Vietnamese | `vi` | [2026-11-03 17:18 UTC](data/vi/new-articles-2026-11-03T17-18-56Z.csv) | 1 |
 
-## English (en) — 2026-11-03 17:18 UTC
+## English (en) — 2026-11-03 18:19 UTC
 
-New articles created between 2026-11-03 16:18 UTC and 2026-11-03 17:18 UTC.
+New articles created between 2026-11-03 17:18 UTC and 2026-11-03 18:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-03T17-18-56Z.csv)
+[Full CSV](data/en/new-articles-2026-11-03T18-19-48Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-03 16:20:46 | [Chris White (Oklahoma politician)](https://en.wikipedia.org/wiki/Chris_White_%28Oklahoma_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,421 |
-| 2026-11-03 16:21:17 | [Steve Hawkins (American football)](https://en.wikipedia.org/wiki/Steve_Hawkins_%28American_football%29) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 5,657 |
-| 2026-11-03 16:25:29 | [Michael Brittingham](https://en.wikipedia.org/wiki/Michael_Brittingham) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,444 |
-| 2026-11-03 16:25:51 | [SL7](https://en.wikipedia.org/wiki/SL7) | [TTWIDEE](https://en.wikipedia.org/wiki/User:TTWIDEE) | 268 |
-| 2026-11-03 16:26:39 | [Axel Varnbüler von und zu Hemmingen](https://en.wikipedia.org/wiki/Axel_Varnb%C3%BCler_von_und_zu_Hemmingen) | [Arthistorian1977](https://en.wikipedia.org/wiki/User:Arthistorian1977) | 17,742 |
-| 2026-11-03 16:29:37 | [Spanish expeditionary forces in the Spanish American wars of independence](https://en.wikipedia.org/wiki/Spanish_expeditionary_forces_in_the_Spanish_American_wars_of_independence) | [Historian1810](https://en.wikipedia.org/wiki/User:Historian1810) | 13,982 |
-| 2026-11-03 16:31:55 | [Oleksii Koval](https://en.wikipedia.org/wiki/Oleksii_Koval) | [Ehadmishelanu](https://en.wikipedia.org/wiki/User:Ehadmishelanu) | 3,344 |
-| 2026-11-03 16:37:46 | [Vaccinium barandanum](https://en.wikipedia.org/wiki/Vaccinium_barandanum) | [Thoughtfortheday](https://en.wikipedia.org/wiki/User:Thoughtfortheday) | 33 |
-| 2026-11-03 16:38:58 | [Metka Lobnik](https://en.wikipedia.org/wiki/Metka_Lobnik) | [Majochka](https://en.wikipedia.org/wiki/User:Majochka) | 2,942 |
-| 2026-11-03 16:47:36 | [2019 WPT Master Final](https://en.wikipedia.org/wiki/2019_WPT_Master_Final) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 24,634 |
-| 2026-11-03 16:48:42 | [Deep Depression BOB 06 (2026)](https://en.wikipedia.org/wiki/Deep_Depression_BOB_06_%282026%29) | [Scourgezoned](https://en.wikipedia.org/wiki/User:Scourgezoned) | 24,229 |
-| 2026-11-03 16:48:43 | [Rodney J. Clifton](https://en.wikipedia.org/wiki/Rodney_J._Clifton) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,538 |
-| 2026-11-03 16:52:51 | [British Independent Film Awards 2026](https://en.wikipedia.org/wiki/British_Independent_Film_Awards_2026) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 7,325 |
-| 2026-11-03 16:56:04 | [Ralf Plötner](https://en.wikipedia.org/wiki/Ralf_Pl%C3%B6tner) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,425 |
-| 2026-11-03 16:59:52 | [Harry Shepherd (photographer)](https://en.wikipedia.org/wiki/Harry_Shepherd_%28photographer%29) | [Kiranomimus](https://en.wikipedia.org/wiki/User:Kiranomimus) | 6,487 |
-| 2026-11-03 16:59:55 | [Kilbride GAA (Meath)](https://en.wikipedia.org/wiki/Kilbride_GAA_%28Meath%29) | [TwoInsurance](https://en.wikipedia.org/wiki/User:TwoInsurance) | 6,233 |
-| 2026-11-03 17:01:33 | [North Dickinson County Schools](https://en.wikipedia.org/wiki/North_Dickinson_County_Schools) | [Deepsnowi80](https://en.wikipedia.org/wiki/User:Deepsnowi80) | 3,244 |
-| 2026-11-03 17:16:13 | [R. Stephen White](https://en.wikipedia.org/wiki/R._Stephen_White) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,576 |
-| 2026-11-03 17:17:52 | [F.J. Ossang](https://en.wikipedia.org/wiki/F.J._Ossang) | [Vincehardy](https://en.wikipedia.org/wiki/User:Vincehardy) | 33,443 |
+| 2026-11-03 17:20:14 | [Skiddy](https://en.wikipedia.org/wiki/Skiddy) | [StAnselm](https://en.wikipedia.org/wiki/User:StAnselm) | 276 |
+| 2026-11-03 17:29:51 | [Lenmark Industries](https://en.wikipedia.org/wiki/Lenmark_Industries) | [Cole Holloway](https://en.wikipedia.org/wiki/User:Cole_Holloway) | 8,907 |
+| 2026-11-03 17:33:36 | [Populist Authoritarianism: Chinese Political Culture and Regime Sustainability](https://en.wikipedia.org/wiki/Populist_Authoritarianism%3A_Chinese_Political_Culture_and_Regime_Sustainability) | [RetiredResearchKing123](https://en.wikipedia.org/wiki/User:RetiredResearchKing123) | 22,340 |
+| 2026-11-03 17:35:31 | [Puro Magic](https://en.wikipedia.org/wiki/Puro_Magic) | [Lowyat Slyder](https://en.wikipedia.org/wiki/User:Lowyat_Slyder) | 40,941 |
+| 2026-11-03 17:39:45 | [Olivia Waite](https://en.wikipedia.org/wiki/Olivia_Waite) | [Dsp13](https://en.wikipedia.org/wiki/User:Dsp13) | 3,119 |
+| 2026-11-03 17:39:49 | [Keyshia Cole: This Is My Story](https://en.wikipedia.org/wiki/Keyshia_Cole%3A_This_Is_My_Story) | [Indigault](https://en.wikipedia.org/wiki/User:Indigault) | 13,326 |
+| 2026-11-03 17:40:28 | [Zhucunxi station](https://en.wikipedia.org/wiki/Zhucunxi_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 4,046 |
+| 2026-11-03 17:42:07 | [Touyou Yamawaki](https://en.wikipedia.org/wiki/Touyou_Yamawaki) | [Sam Pumpkin](https://en.wikipedia.org/wiki/User:Sam_Pumpkin) | 4,571 |
+| 2026-11-03 17:59:33 | [Elizabeth Evans (unofficial Crimean War nurse)](https://en.wikipedia.org/wiki/Elizabeth_Evans_%28unofficial_Crimean_War_nurse%29) | [AndyScott](https://en.wikipedia.org/wiki/User:AndyScott) | 17,971 |
+| 2026-11-03 18:01:41 | [Laurie Ryan (footballer, born 1993)](https://en.wikipedia.org/wiki/Laurie_Ryan_%28footballer%2C_born_1993%29) | [Bring back Daz Sampson](https://en.wikipedia.org/wiki/User:Bring_back_Daz_Sampson) | 6,649 |
+| 2026-11-03 18:05:32 | [Flint Global](https://en.wikipedia.org/wiki/Flint_Global) | [Ghm3lm1l8v](https://en.wikipedia.org/wiki/User:Ghm3lm1l8v) | 9,994 |
+| 2026-11-03 18:15:11 | [1895 United Kingdom general election in England](https://en.wikipedia.org/wiki/1895_United_Kingdom_general_election_in_England) | [BlueCrowns](https://en.wikipedia.org/wiki/User:BlueCrowns) | 31,166 |
