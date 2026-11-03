@@ -13,55 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-03 16:18 UTC](data/en/new-articles-2026-11-03T16-18-54Z.csv) | 23 |
-| Japanese | `ja` | [2026-11-03 16:18 UTC](data/ja/new-articles-2026-11-03T16-18-54Z.csv) | 8 |
-| Chinese | `zh` | [2026-11-03 16:18 UTC](data/zh/new-articles-2026-11-03T16-18-54Z.csv) | 2 |
-| French | `fr` | [2026-11-03 16:18 UTC](data/fr/new-articles-2026-11-03T16-18-54Z.csv) | 8 |
-| German | `de` | [2026-11-03 16:18 UTC](data/de/new-articles-2026-11-03T16-18-54Z.csv) | 16 |
-| Russian | `ru` | [2026-11-03 16:18 UTC](data/ru/new-articles-2026-11-03T16-18-54Z.csv) | 10 |
-| Spanish | `es` | [2026-11-03 16:18 UTC](data/es/new-articles-2026-11-03T16-18-54Z.csv) | 11 |
-| Italian | `it` | [2026-11-03 16:18 UTC](data/it/new-articles-2026-11-03T16-18-54Z.csv) | 6 |
-| Portuguese | `pt` | [2026-11-03 16:18 UTC](data/pt/new-articles-2026-11-03T16-18-54Z.csv) | 9 |
-| Polish | `pl` | [2026-11-03 16:18 UTC](data/pl/new-articles-2026-11-03T16-18-54Z.csv) | 7 |
-| Arabic | `ar` | [2026-11-03 16:18 UTC](data/ar/new-articles-2026-11-03T16-18-54Z.csv) | 6 |
-| Persian | `fa` | [2026-11-03 16:18 UTC](data/fa/new-articles-2026-11-03T16-18-54Z.csv) | 16 |
+| English | `en` | [2026-11-03 17:18 UTC](data/en/new-articles-2026-11-03T17-18-56Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-03 17:18 UTC](data/ja/new-articles-2026-11-03T17-18-56Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-03 17:18 UTC](data/zh/new-articles-2026-11-03T17-18-56Z.csv) | 3 |
+| French | `fr` | [2026-11-03 17:18 UTC](data/fr/new-articles-2026-11-03T17-18-56Z.csv) | 10 |
+| German | `de` | [2026-11-03 17:18 UTC](data/de/new-articles-2026-11-03T17-18-56Z.csv) | 16 |
+| Russian | `ru` | [2026-11-03 17:18 UTC](data/ru/new-articles-2026-11-03T17-18-56Z.csv) | 6 |
+| Spanish | `es` | [2026-11-03 17:18 UTC](data/es/new-articles-2026-11-03T17-18-56Z.csv) | 31 |
+| Italian | `it` | [2026-11-03 17:18 UTC](data/it/new-articles-2026-11-03T17-18-56Z.csv) | 13 |
+| Portuguese | `pt` | [2026-11-03 17:18 UTC](data/pt/new-articles-2026-11-03T17-18-56Z.csv) | 4 |
+| Polish | `pl` | [2026-11-03 17:18 UTC](data/pl/new-articles-2026-11-03T17-18-56Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-03 17:18 UTC](data/ar/new-articles-2026-11-03T17-18-56Z.csv) | 6 |
+| Persian | `fa` | [2026-11-03 17:18 UTC](data/fa/new-articles-2026-11-03T17-18-56Z.csv) | 6 |
 | Turkish | `tr` | [2026-11-03 15:19 UTC](data/tr/new-articles-2026-11-03T15-19-44Z.csv) | 3 |
-| Hebrew | `he` | [2026-11-03 16:18 UTC](data/he/new-articles-2026-11-03T16-18-54Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-03 16:18 UTC](data/sv/new-articles-2026-11-03T16-18-54Z.csv) | 6 |
-| Dutch | `nl` | [2026-11-03 16:18 UTC](data/nl/new-articles-2026-11-03T16-18-54Z.csv) | 3 |
-| Korean | `ko` | [2026-11-03 15:19 UTC](data/ko/new-articles-2026-11-03T15-19-44Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-03 16:18 UTC](data/id/new-articles-2026-11-03T16-18-54Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-03 16:18 UTC](data/uk/new-articles-2026-11-03T16-18-54Z.csv) | 8 |
-| Vietnamese | `vi` | [2026-11-03 16:18 UTC](data/vi/new-articles-2026-11-03T16-18-54Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-03 17:18 UTC](data/he/new-articles-2026-11-03T17-18-56Z.csv) | 9 |
+| Swedish | `sv` | [2026-11-03 17:18 UTC](data/sv/new-articles-2026-11-03T17-18-56Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-03 17:18 UTC](data/nl/new-articles-2026-11-03T17-18-56Z.csv) | 7 |
+| Korean | `ko` | [2026-11-03 17:18 UTC](data/ko/new-articles-2026-11-03T17-18-56Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-03 17:18 UTC](data/id/new-articles-2026-11-03T17-18-56Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-03 17:18 UTC](data/uk/new-articles-2026-11-03T17-18-56Z.csv) | 4 |
+| Vietnamese | `vi` | [2026-11-03 17:18 UTC](data/vi/new-articles-2026-11-03T17-18-56Z.csv) | 1 |
 
-## English (en) — 2026-11-03 16:18 UTC
+## English (en) — 2026-11-03 17:18 UTC
 
-New articles created between 2026-11-03 15:19 UTC and 2026-11-03 16:18 UTC.
+New articles created between 2026-11-03 16:18 UTC and 2026-11-03 17:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-03T16-18-54Z.csv)
+[Full CSV](data/en/new-articles-2026-11-03T17-18-56Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-03 15:22:00 | [Euorodalus himalayanus](https://en.wikipedia.org/wiki/Euorodalus_himalayanus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,923 |
-| 2026-11-03 15:30:21 | [Society for the Overseas Settlement of British Women](https://en.wikipedia.org/wiki/Society_for_the_Overseas_Settlement_of_British_Women) | [SDGB1217](https://en.wikipedia.org/wiki/User:SDGB1217) | 5,140 |
-| 2026-11-03 15:33:21 | [Timeline of the 2024-2026 Serbian anti-corruption protests (January–June 2025)](https://en.wikipedia.org/wiki/Timeline_of_the_2024-2026_Serbian_anti-corruption_protests_%28January%E2%80%93June_2025%29) | [Graphite2277](https://en.wikipedia.org/wiki/User:Graphite2277) | 275,371 |
-| 2026-11-03 15:33:23 | [A Long and Speaking Silence](https://en.wikipedia.org/wiki/A_Long_and_Speaking_Silence) | [Michelangelo1992](https://en.wikipedia.org/wiki/User:Michelangelo1992) | 6,888 |
-| 2026-11-03 15:33:41 | [Ryuusei Kawakami](https://en.wikipedia.org/wiki/Ryuusei_Kawakami) | [Hosohiro](https://en.wikipedia.org/wiki/User:Hosohiro) | 3,829 |
-| 2026-11-03 15:36:59 | [Nikko M](https://en.wikipedia.org/wiki/Nikko_M) | [Thewetroadinsummer](https://en.wikipedia.org/wiki/User:Thewetroadinsummer) | 4 |
-| 2026-11-03 15:37:04 | [Queen Louise's Asylum Society](https://en.wikipedia.org/wiki/Queen_Louise%27s_Asylum_Society) | [S1r Gawa1n 2004](https://en.wikipedia.org/wiki/User:S1r_Gawa1n_2004) | 1,503 |
-| 2026-11-03 15:38:53 | [2026–27 LSU New Orleans Privateers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_LSU_New_Orleans_Privateers_men%27s_basketball_team) | [RedSox39](https://en.wikipedia.org/wiki/User:RedSox39) | 28,175 |
-| 2026-11-03 15:38:57 | [Raymond M. Cable](https://en.wikipedia.org/wiki/Raymond_M._Cable) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 109 |
-| 2026-11-03 15:41:36 | [Partulina radiata](https://en.wikipedia.org/wiki/Partulina_radiata) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,491 |
-| 2026-11-03 15:43:10 | [Liebenberg Circle](https://en.wikipedia.org/wiki/Liebenberg_Circle) | [Arthistorian1977](https://en.wikipedia.org/wiki/User:Arthistorian1977) | 18,903 |
-| 2026-11-03 15:46:21 | [Sasa Dario](https://en.wikipedia.org/wiki/Sasa_Dario) | [Adelberta](https://en.wikipedia.org/wiki/User:Adelberta) | 5,747 |
-| 2026-11-03 15:48:48 | [Antonio Collar](https://en.wikipedia.org/wiki/Antonio_Collar) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,169 |
-| 2026-11-03 15:49:43 | [SL5](https://en.wikipedia.org/wiki/SL5) | [TTWIDEE](https://en.wikipedia.org/wiki/User:TTWIDEE) | 334 |
-| 2026-11-03 15:57:05 | [Charles-Eugène Hesse](https://en.wikipedia.org/wiki/Charles-Eug%C3%A8ne_Hesse) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-03 15:59:39 | [Paddy McAteer](https://en.wikipedia.org/wiki/Paddy_McAteer) | [OceanGunfish](https://en.wikipedia.org/wiki/User:OceanGunfish) | 9,574 |
-| 2026-11-03 16:00:34 | [Jawahar Thakur](https://en.wikipedia.org/wiki/Jawahar_Thakur) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,924 |
-| 2026-11-03 16:01:37 | [Partulina subpolita](https://en.wikipedia.org/wiki/Partulina_subpolita) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,374 |
-| 2026-11-03 16:08:52 | [M&M Double Cluster](https://en.wikipedia.org/wiki/M%26M_Double_Cluster) | [Epsiloniclad](https://en.wikipedia.org/wiki/User:Epsiloniclad) | 125 |
-| 2026-11-03 16:09:06 | [Derek Turbin](https://en.wikipedia.org/wiki/Derek_Turbin) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,380 |
-| 2026-11-03 16:12:10 | [Järvoja](https://en.wikipedia.org/wiki/J%C3%A4rvoja) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 807 |
-| 2026-11-03 16:13:23 | [Liebenberg Castle](https://en.wikipedia.org/wiki/Liebenberg_Castle) | [Arthistorian1977](https://en.wikipedia.org/wiki/User:Arthistorian1977) | 24,253 |
-| 2026-11-03 16:13:55 | [Paula M. Kimper](https://en.wikipedia.org/wiki/Paula_M._Kimper) | [Caitib01](https://en.wikipedia.org/wiki/User:Caitib01) | 6,013 |
+| 2026-11-03 16:20:46 | [Chris White (Oklahoma politician)](https://en.wikipedia.org/wiki/Chris_White_%28Oklahoma_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,421 |
+| 2026-11-03 16:21:17 | [Steve Hawkins (American football)](https://en.wikipedia.org/wiki/Steve_Hawkins_%28American_football%29) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 5,657 |
+| 2026-11-03 16:25:29 | [Michael Brittingham](https://en.wikipedia.org/wiki/Michael_Brittingham) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,444 |
+| 2026-11-03 16:25:51 | [SL7](https://en.wikipedia.org/wiki/SL7) | [TTWIDEE](https://en.wikipedia.org/wiki/User:TTWIDEE) | 268 |
+| 2026-11-03 16:26:39 | [Axel Varnbüler von und zu Hemmingen](https://en.wikipedia.org/wiki/Axel_Varnb%C3%BCler_von_und_zu_Hemmingen) | [Arthistorian1977](https://en.wikipedia.org/wiki/User:Arthistorian1977) | 17,742 |
+| 2026-11-03 16:29:37 | [Spanish expeditionary forces in the Spanish American wars of independence](https://en.wikipedia.org/wiki/Spanish_expeditionary_forces_in_the_Spanish_American_wars_of_independence) | [Historian1810](https://en.wikipedia.org/wiki/User:Historian1810) | 13,982 |
+| 2026-11-03 16:31:55 | [Oleksii Koval](https://en.wikipedia.org/wiki/Oleksii_Koval) | [Ehadmishelanu](https://en.wikipedia.org/wiki/User:Ehadmishelanu) | 3,344 |
+| 2026-11-03 16:37:46 | [Vaccinium barandanum](https://en.wikipedia.org/wiki/Vaccinium_barandanum) | [Thoughtfortheday](https://en.wikipedia.org/wiki/User:Thoughtfortheday) | 33 |
+| 2026-11-03 16:38:58 | [Metka Lobnik](https://en.wikipedia.org/wiki/Metka_Lobnik) | [Majochka](https://en.wikipedia.org/wiki/User:Majochka) | 2,942 |
+| 2026-11-03 16:47:36 | [2019 WPT Master Final](https://en.wikipedia.org/wiki/2019_WPT_Master_Final) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 24,634 |
+| 2026-11-03 16:48:42 | [Deep Depression BOB 06 (2026)](https://en.wikipedia.org/wiki/Deep_Depression_BOB_06_%282026%29) | [Scourgezoned](https://en.wikipedia.org/wiki/User:Scourgezoned) | 24,229 |
+| 2026-11-03 16:48:43 | [Rodney J. Clifton](https://en.wikipedia.org/wiki/Rodney_J._Clifton) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,538 |
+| 2026-11-03 16:52:51 | [British Independent Film Awards 2026](https://en.wikipedia.org/wiki/British_Independent_Film_Awards_2026) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 7,325 |
+| 2026-11-03 16:56:04 | [Ralf Plötner](https://en.wikipedia.org/wiki/Ralf_Pl%C3%B6tner) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,425 |
+| 2026-11-03 16:59:52 | [Harry Shepherd (photographer)](https://en.wikipedia.org/wiki/Harry_Shepherd_%28photographer%29) | [Kiranomimus](https://en.wikipedia.org/wiki/User:Kiranomimus) | 6,487 |
+| 2026-11-03 16:59:55 | [Kilbride GAA (Meath)](https://en.wikipedia.org/wiki/Kilbride_GAA_%28Meath%29) | [TwoInsurance](https://en.wikipedia.org/wiki/User:TwoInsurance) | 6,233 |
+| 2026-11-03 17:01:33 | [North Dickinson County Schools](https://en.wikipedia.org/wiki/North_Dickinson_County_Schools) | [Deepsnowi80](https://en.wikipedia.org/wiki/User:Deepsnowi80) | 3,244 |
+| 2026-11-03 17:16:13 | [R. Stephen White](https://en.wikipedia.org/wiki/R._Stephen_White) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,576 |
+| 2026-11-03 17:17:52 | [F.J. Ossang](https://en.wikipedia.org/wiki/F.J._Ossang) | [Vincehardy](https://en.wikipedia.org/wiki/User:Vincehardy) | 33,443 |
