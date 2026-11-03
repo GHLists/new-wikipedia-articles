@@ -13,46 +13,41 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-03 05:19 UTC](data/en/new-articles-2026-11-03T05-19-11Z.csv) | 14 |
-| Japanese | `ja` | [2026-11-03 05:19 UTC](data/ja/new-articles-2026-11-03T05-19-11Z.csv) | 7 |
-| Chinese | `zh` | [2026-11-03 05:19 UTC](data/zh/new-articles-2026-11-03T05-19-11Z.csv) | 9 |
-| French | `fr` | [2026-11-03 05:19 UTC](data/fr/new-articles-2026-11-03T05-19-11Z.csv) | 2 |
-| German | `de` | [2026-11-03 05:19 UTC](data/de/new-articles-2026-11-03T05-19-11Z.csv) | 2 |
-| Russian | `ru` | [2026-11-03 05:19 UTC](data/ru/new-articles-2026-11-03T05-19-11Z.csv) | 3 |
-| Spanish | `es` | [2026-11-03 05:19 UTC](data/es/new-articles-2026-11-03T05-19-11Z.csv) | 5 |
-| Italian | `it` | [2026-11-03 05:19 UTC](data/it/new-articles-2026-11-03T05-19-11Z.csv) | 1 |
+| English | `en` | [2026-11-03 06:18 UTC](data/en/new-articles-2026-11-03T06-18-29Z.csv) | 9 |
+| Japanese | `ja` | [2026-11-03 06:18 UTC](data/ja/new-articles-2026-11-03T06-18-29Z.csv) | 6 |
+| Chinese | `zh` | [2026-11-03 06:18 UTC](data/zh/new-articles-2026-11-03T06-18-29Z.csv) | 16 |
+| French | `fr` | [2026-11-03 06:18 UTC](data/fr/new-articles-2026-11-03T06-18-29Z.csv) | 5 |
+| German | `de` | [2026-11-03 06:18 UTC](data/de/new-articles-2026-11-03T06-18-29Z.csv) | 1 |
+| Russian | `ru` | [2026-11-03 06:18 UTC](data/ru/new-articles-2026-11-03T06-18-29Z.csv) | 1 |
+| Spanish | `es` | [2026-11-03 06:18 UTC](data/es/new-articles-2026-11-03T06-18-29Z.csv) | 1 |
+| Italian | `it` | [2026-11-03 06:18 UTC](data/it/new-articles-2026-11-03T06-18-29Z.csv) | 3 |
 | Portuguese | `pt` | [2026-11-03 05:19 UTC](data/pt/new-articles-2026-11-03T05-19-11Z.csv) | 2 |
-| Polish | `pl` | [2026-11-03 05:19 UTC](data/pl/new-articles-2026-11-03T05-19-11Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-03 05:19 UTC](data/ar/new-articles-2026-11-03T05-19-11Z.csv) | 1 |
-| Persian | `fa` | [2026-11-03 05:19 UTC](data/fa/new-articles-2026-11-03T05-19-11Z.csv) | 8 |
-| Turkish | `tr` | [2026-11-03 05:19 UTC](data/tr/new-articles-2026-11-03T05-19-11Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-03 05:19 UTC](data/he/new-articles-2026-11-03T05-19-11Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-03 05:19 UTC](data/sv/new-articles-2026-11-03T05-19-11Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-03 04:19 UTC](data/nl/new-articles-2026-11-03T04-19-07Z.csv) | 9 |
-| Korean | `ko` | [2026-11-03 05:19 UTC](data/ko/new-articles-2026-11-03T05-19-11Z.csv) | 5 |
-| Indonesian | `id` | [2026-11-03 05:19 UTC](data/id/new-articles-2026-11-03T05-19-11Z.csv) | 10 |
-| Ukrainian | `uk` | [2026-11-03 05:19 UTC](data/uk/new-articles-2026-11-03T05-19-11Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-11-03 05:19 UTC](data/vi/new-articles-2026-11-03T05-19-11Z.csv) | 2 |
+| Polish | `pl` | [2026-11-03 06:18 UTC](data/pl/new-articles-2026-11-03T06-18-29Z.csv) | 3 |
+| Arabic | `ar` | [2026-11-03 06:18 UTC](data/ar/new-articles-2026-11-03T06-18-29Z.csv) | 5 |
+| Persian | `fa` | [2026-11-03 06:18 UTC](data/fa/new-articles-2026-11-03T06-18-29Z.csv) | 11 |
+| Turkish | `tr` | [2026-11-03 06:18 UTC](data/tr/new-articles-2026-11-03T06-18-29Z.csv) | 5 |
+| Hebrew | `he` | [2026-11-03 06:18 UTC](data/he/new-articles-2026-11-03T06-18-29Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-03 06:18 UTC](data/sv/new-articles-2026-11-03T06-18-29Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-03 06:18 UTC](data/nl/new-articles-2026-11-03T06-18-29Z.csv) | 1 |
+| Korean | `ko` | [2026-11-03 06:18 UTC](data/ko/new-articles-2026-11-03T06-18-29Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-03 06:18 UTC](data/id/new-articles-2026-11-03T06-18-29Z.csv) | 9 |
+| Ukrainian | `uk` | [2026-11-03 06:18 UTC](data/uk/new-articles-2026-11-03T06-18-29Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-11-03 06:18 UTC](data/vi/new-articles-2026-11-03T06-18-29Z.csv) | 2 |
 
-## English (en) — 2026-11-03 05:19 UTC
+## English (en) — 2026-11-03 06:18 UTC
 
-New articles created between 2026-11-03 04:19 UTC and 2026-11-03 05:19 UTC.
+New articles created between 2026-11-03 05:19 UTC and 2026-11-03 06:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-03T05-19-11Z.csv)
+[Full CSV](data/en/new-articles-2026-11-03T06-18-29Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-03 04:20:44 | [Lord of Mysteries (animated series)](https://en.wikipedia.org/wiki/Lord_of_Mysteries_%28animated_series%29) | [Cfls](https://en.wikipedia.org/wiki/User:Cfls) | 23,449 |
-| 2026-11-03 04:24:12 | [Point Of Law (horse)](https://en.wikipedia.org/wiki/Point_Of_Law_%28horse%29) | [Bahnfrend](https://en.wikipedia.org/wiki/User:Bahnfrend) | 1,479 |
-| 2026-11-03 04:31:28 | [Gerald Gordon (actor)](https://en.wikipedia.org/wiki/Gerald_Gordon_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,231 |
-| 2026-11-03 04:32:38 | [Joy McArthur](https://en.wikipedia.org/wiki/Joy_McArthur) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 8,057 |
-| 2026-11-03 04:38:22 | [John Stampley](https://en.wikipedia.org/wiki/John_Stampley) | [Jengod](https://en.wikipedia.org/wiki/User:Jengod) | 4,134 |
-| 2026-11-03 04:41:45 | [Sedona (disambiguation)](https://en.wikipedia.org/wiki/Sedona_%28disambiguation%29) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 603 |
-| 2026-11-03 04:44:47 | [Aaro Ananda](https://en.wikipedia.org/wiki/Aaro_Ananda) | [Bk96077](https://en.wikipedia.org/wiki/User:Bk96077) | 1,906 |
-| 2026-11-03 04:59:28 | [2026 New York State Assembly election (districts 1–50)](https://en.wikipedia.org/wiki/2026_New_York_State_Assembly_election_%28districts_1%E2%80%9350%29) | [KPOfficial26](https://en.wikipedia.org/wiki/User:KPOfficial26) | 316,429 |
-| 2026-11-03 04:59:33 | [2026 New York State Assembly election (districts 51–100)](https://en.wikipedia.org/wiki/2026_New_York_State_Assembly_election_%28districts_51%E2%80%93100%29) | [KPOfficial26](https://en.wikipedia.org/wiki/User:KPOfficial26) | 323,794 |
-| 2026-11-03 04:59:41 | [2026 New York State Assembly election (districts 101–150)](https://en.wikipedia.org/wiki/2026_New_York_State_Assembly_election_%28districts_101%E2%80%93150%29) | [KPOfficial26](https://en.wikipedia.org/wiki/User:KPOfficial26) | 333,402 |
-| 2026-11-03 05:02:10 | [Hygrocybe ceracea](https://en.wikipedia.org/wiki/Hygrocybe_ceracea) | [TheNatureKid](https://en.wikipedia.org/wiki/User:TheNatureKid) | 2,231 |
-| 2026-11-03 05:09:18 | [Divisi Utama PSSI 1987–1988](https://en.wikipedia.org/wiki/Divisi_Utama_PSSI_1987%E2%80%931988) | [M.gun13](https://en.wikipedia.org/wiki/User:M.gun13) | 221 |
-| 2026-11-03 05:12:15 | [Yisroel Nekrasov](https://en.wikipedia.org/wiki/Yisroel_Nekrasov) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 4,196 |
-| 2026-11-03 05:16:14 | [Isaías Sávio](https://en.wikipedia.org/wiki/Isa%C3%ADas_S%C3%A1vio) | [KingGreenbean](https://en.wikipedia.org/wiki/User:KingGreenbean) | 5,105 |
+| 2026-11-03 05:24:52 | [New from Here](https://en.wikipedia.org/wiki/New_from_Here) | [Zeta Puppis (Naos)](https://en.wikipedia.org/wiki/User:Zeta_Puppis_%28Naos%29) | 17,825 |
+| 2026-11-03 05:35:27 | [Lasioglossum vitripenne](https://en.wikipedia.org/wiki/Lasioglossum_vitripenne) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 3,219 |
+| 2026-11-03 05:37:03 | [Bnei Avraham](https://en.wikipedia.org/wiki/Bnei_Avraham) | [Axinoo](https://en.wikipedia.org/wiki/User:Axinoo) | 6,849 |
+| 2026-11-03 05:40:20 | [A. Park Williams](https://en.wikipedia.org/wiki/A._Park_Williams) | [Abersnail](https://en.wikipedia.org/wiki/User:Abersnail) | 3,616 |
+| 2026-11-03 05:41:07 | [2026 Men's Rugby League World Cup knockout stage](https://en.wikipedia.org/wiki/2026_Men%27s_Rugby_League_World_Cup_knockout_stage) | [WDM10](https://en.wikipedia.org/wiki/User:WDM10) | 2,798 |
+| 2026-11-03 05:45:16 | [Down by the Banks of the Hanky Panky](https://en.wikipedia.org/wiki/Down_by_the_Banks_of_the_Hanky_Panky) | [Shocksingularity](https://en.wikipedia.org/wiki/User:Shocksingularity) | 8,141 |
+| 2026-11-03 05:52:06 | [Heraclean](https://en.wikipedia.org/wiki/Heraclean) | [Auteuil-Passy](https://en.wikipedia.org/wiki/User:Auteuil-Passy) | 340 |
+| 2026-11-03 06:09:05 | [Table tennis at the 2026 Summer Youth Olympics – Men's singles](https://en.wikipedia.org/wiki/Table_tennis_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Men%27s_singles) | [Kk1603](https://en.wikipedia.org/wiki/User:Kk1603) | 10,735 |
+| 2026-11-03 06:14:38 | [Haftu Strintzos](https://en.wikipedia.org/wiki/Haftu_Strintzos) | [PyotrRossetti](https://en.wikipedia.org/wiki/User:PyotrRossetti) | 6,108 |
