@@ -13,52 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-04 02:20 UTC](data/en/new-articles-2026-11-04T02-20-23Z.csv) | 20 |
-| Japanese | `ja` | [2026-11-04 02:20 UTC](data/ja/new-articles-2026-11-04T02-20-23Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-04 02:20 UTC](data/zh/new-articles-2026-11-04T02-20-23Z.csv) | 7 |
-| French | `fr` | [2026-11-04 02:20 UTC](data/fr/new-articles-2026-11-04T02-20-23Z.csv) | 2 |
-| German | `de` | [2026-11-04 02:20 UTC](data/de/new-articles-2026-11-04T02-20-23Z.csv) | 2 |
-| Russian | `ru` | [2026-11-04 02:20 UTC](data/ru/new-articles-2026-11-04T02-20-23Z.csv) | 4 |
-| Spanish | `es` | [2026-11-04 02:20 UTC](data/es/new-articles-2026-11-04T02-20-23Z.csv) | 8 |
-| Italian | `it` | [2026-11-04 02:20 UTC](data/it/new-articles-2026-11-04T02-20-23Z.csv) | 4 |
-| Portuguese | `pt` | [2026-11-04 02:20 UTC](data/pt/new-articles-2026-11-04T02-20-23Z.csv) | 3 |
+| English | `en` | [2026-11-04 03:21 UTC](data/en/new-articles-2026-11-04T03-21-35Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-04 03:21 UTC](data/ja/new-articles-2026-11-04T03-21-35Z.csv) | 13 |
+| Chinese | `zh` | [2026-11-04 03:21 UTC](data/zh/new-articles-2026-11-04T03-21-35Z.csv) | 3 |
+| French | `fr` | [2026-11-04 03:21 UTC](data/fr/new-articles-2026-11-04T03-21-35Z.csv) | 4 |
+| German | `de` | [2026-11-04 03:21 UTC](data/de/new-articles-2026-11-04T03-21-35Z.csv) | 2 |
+| Russian | `ru` | [2026-11-04 03:21 UTC](data/ru/new-articles-2026-11-04T03-21-35Z.csv) | 1 |
+| Spanish | `es` | [2026-11-04 03:21 UTC](data/es/new-articles-2026-11-04T03-21-35Z.csv) | 9 |
+| Italian | `it` | [2026-11-04 03:21 UTC](data/it/new-articles-2026-11-04T03-21-35Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-04 03:21 UTC](data/pt/new-articles-2026-11-04T03-21-35Z.csv) | 7 |
 | Polish | `pl` | [2026-11-04 01:18 UTC](data/pl/new-articles-2026-11-04T01-18-30Z.csv) | 2 |
-| Arabic | `ar` | [2026-11-04 02:20 UTC](data/ar/new-articles-2026-11-04T02-20-23Z.csv) | 1 |
-| Persian | `fa` | [2026-11-04 02:20 UTC](data/fa/new-articles-2026-11-04T02-20-23Z.csv) | 11 |
-| Turkish | `tr` | [2026-11-04 00:18 UTC](data/tr/new-articles-2026-11-04T00-18-54Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-04 02:20 UTC](data/he/new-articles-2026-11-04T02-20-23Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-04 03:21 UTC](data/ar/new-articles-2026-11-04T03-21-35Z.csv) | 8 |
+| Persian | `fa` | [2026-11-04 03:21 UTC](data/fa/new-articles-2026-11-04T03-21-35Z.csv) | 5 |
+| Turkish | `tr` | [2026-11-04 03:21 UTC](data/tr/new-articles-2026-11-04T03-21-35Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-04 03:21 UTC](data/he/new-articles-2026-11-04T03-21-35Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-04 01:18 UTC](data/sv/new-articles-2026-11-04T01-18-30Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-04 01:18 UTC](data/nl/new-articles-2026-11-04T01-18-30Z.csv) | 2 |
-| Korean | `ko` | [2026-11-04 02:20 UTC](data/ko/new-articles-2026-11-04T02-20-23Z.csv) | 4 |
-| Indonesian | `id` | [2026-11-04 02:20 UTC](data/id/new-articles-2026-11-04T02-20-23Z.csv) | 5 |
+| Dutch | `nl` | [2026-11-04 03:21 UTC](data/nl/new-articles-2026-11-04T03-21-35Z.csv) | 2 |
+| Korean | `ko` | [2026-11-04 03:21 UTC](data/ko/new-articles-2026-11-04T03-21-35Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-04 03:21 UTC](data/id/new-articles-2026-11-04T03-21-35Z.csv) | 12 |
 | Ukrainian | `uk` | [2026-11-04 02:20 UTC](data/uk/new-articles-2026-11-04T02-20-23Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-11-03 17:18 UTC](data/vi/new-articles-2026-11-03T17-18-56Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-11-04 03:21 UTC](data/vi/new-articles-2026-11-04T03-21-35Z.csv) | 2 |
 
-## English (en) — 2026-11-04 02:20 UTC
+## English (en) — 2026-11-04 03:21 UTC
 
-New articles created between 2026-11-04 01:18 UTC and 2026-11-04 02:20 UTC.
+New articles created between 2026-11-04 02:20 UTC and 2026-11-04 03:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-04T02-20-23Z.csv)
+[Full CSV](data/en/new-articles-2026-11-04T03-21-35Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-04 01:18:56 | [Harvey J. Grill](https://en.wikipedia.org/wiki/Harvey_J._Grill) | [YenOrenn](https://en.wikipedia.org/wiki/User:YenOrenn) | 6,984 |
-| 2026-11-04 01:27:07 | [Joseph Trivisonno](https://en.wikipedia.org/wiki/Joseph_Trivisonno) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,254 |
-| 2026-11-04 01:27:23 | [Trebnik of Metropolitan Theognost](https://en.wikipedia.org/wiki/Trebnik_of_Metropolitan_Theognost) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 10,600 |
-| 2026-11-04 01:34:22 | [Nykirke Church (Buskerud)](https://en.wikipedia.org/wiki/Nykirke_Church_%28Buskerud%29) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 5,294 |
-| 2026-11-04 01:35:16 | [2026 Phoenix Floods](https://en.wikipedia.org/wiki/2026_Phoenix_Floods) | [WXchaser](https://en.wikipedia.org/wiki/User:WXchaser) | 374 |
-| 2026-11-04 01:36:33 | [Kraledvor manuscript](https://en.wikipedia.org/wiki/Kraledvor_manuscript) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 8,650 |
-| 2026-11-04 01:45:38 | [Jean-Louis Cazaux](https://en.wikipedia.org/wiki/Jean-Louis_Cazaux) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 5,455 |
-| 2026-11-04 01:49:54 | [Chocolate café](https://en.wikipedia.org/wiki/Chocolate_caf%C3%A9) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 8,205 |
-| 2026-11-04 01:50:09 | [Ashley Bell (North Carolina politician)](https://en.wikipedia.org/wiki/Ashley_Bell_%28North_Carolina_politician%29) | [Why? I Ask](https://en.wikipedia.org/wiki/User:Why%3F_I_Ask) | 190 |
-| 2026-11-04 01:51:39 | [Rud Church](https://en.wikipedia.org/wiki/Rud_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,170 |
-| 2026-11-04 01:55:17 | [Elsie Napier](https://en.wikipedia.org/wiki/Elsie_Napier) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,178 |
-| 2026-11-04 01:59:34 | [Mount Buntis](https://en.wikipedia.org/wiki/Mount_Buntis) | [Eegnetwork](https://en.wikipedia.org/wiki/User:Eegnetwork) | 2,454 |
-| 2026-11-04 02:04:25 | [Peggy Hamric](https://en.wikipedia.org/wiki/Peggy_Hamric) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,257 |
-| 2026-11-04 02:04:32 | [Grinds Pouches](https://en.wikipedia.org/wiki/Grinds_Pouches) | [Avienby](https://en.wikipedia.org/wiki/User:Avienby) | 1,077 |
-| 2026-11-04 02:05:50 | [Lincoln Aviator EX8](https://en.wikipedia.org/wiki/Lincoln_Aviator_EX8) | [Afacto](https://en.wikipedia.org/wiki/User:Afacto) | 2,679 |
-| 2026-11-04 02:08:44 | [Vestre Spone Church](https://en.wikipedia.org/wiki/Vestre_Spone_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,000 |
-| 2026-11-04 02:11:40 | [ShareWorld](https://en.wikipedia.org/wiki/ShareWorld) | [Only a Floor Tile](https://en.wikipedia.org/wiki/User:Only_a_Floor_Tile) | 10,912 |
-| 2026-11-04 02:12:02 | [Akio Shindo](https://en.wikipedia.org/wiki/Akio_Shindo) | [Oaktree b](https://en.wikipedia.org/wiki/User:Oaktree_b) | 3,897 |
-| 2026-11-04 02:12:30 | [David Siffert](https://en.wikipedia.org/wiki/David_Siffert) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,419 |
-| 2026-11-04 02:15:11 | [Christian Celeste Tate](https://en.wikipedia.org/wiki/Christian_Celeste_Tate) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,481 |
+| 2026-11-04 02:21:12 | [Louis Orr (artist)](https://en.wikipedia.org/wiki/Louis_Orr_%28artist%29) | [Moonraker](https://en.wikipedia.org/wiki/User:Moonraker) | 2,713 |
+| 2026-11-04 02:23:44 | [Kenn Collier](https://en.wikipedia.org/wiki/Kenn_Collier) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,055 |
+| 2026-11-04 02:27:13 | [Snarum Church](https://en.wikipedia.org/wiki/Snarum_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,941 |
+| 2026-11-04 02:28:44 | [Dave Redlawsk](https://en.wikipedia.org/wiki/Dave_Redlawsk) | [Blythwood](https://en.wikipedia.org/wiki/User:Blythwood) | 4,599 |
+| 2026-11-04 02:29:22 | [Julieta Gallego](https://en.wikipedia.org/wiki/Julieta_Gallego) | [Telovemi97](https://en.wikipedia.org/wiki/User:Telovemi97) | 1 |
+| 2026-11-04 02:30:35 | [Guillem Víctor](https://en.wikipedia.org/wiki/Guillem_V%C3%ADctor) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,967 |
+| 2026-11-04 02:31:05 | [Guerrilla Warfare Manuel (1864)](https://en.wikipedia.org/wiki/Guerrilla_Warfare_Manuel_%281864%29) | [Takeitorleaveit59](https://en.wikipedia.org/wiki/User:Takeitorleaveit59) | 5,766 |
+| 2026-11-04 02:34:47 | [Aderson Dias Martins Neto](https://en.wikipedia.org/wiki/Aderson_Dias_Martins_Neto) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 9,309 |
+| 2026-11-04 02:35:41 | [Shotput (rocket)](https://en.wikipedia.org/wiki/Shotput_%28rocket%29) | [Scu ba](https://en.wikipedia.org/wiki/User:Scu_ba) | 8,931 |
+| 2026-11-04 02:39:28 | [Znachor (novel)](https://en.wikipedia.org/wiki/Znachor_%28novel%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,052 |
+| 2026-11-04 02:40:32 | [Chad Bingham](https://en.wikipedia.org/wiki/Chad_Bingham) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,821 |
+| 2026-11-04 02:41:15 | [Ignatiy Lapkin](https://en.wikipedia.org/wiki/Ignatiy_Lapkin) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 26,661 |
+| 2026-11-04 02:49:44 | [Réginald d'Auxion de Ruffé](https://en.wikipedia.org/wiki/R%C3%A9ginald_d%27Auxion_de_Ruff%C3%A9) | [CzarJobKhaya](https://en.wikipedia.org/wiki/User:CzarJobKhaya) | 4,783 |
+| 2026-11-04 02:53:45 | [Betsy Munoz](https://en.wikipedia.org/wiki/Betsy_Munoz) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,416 |
+| 2026-11-04 02:57:21 | [Timoria McQueen Saba](https://en.wikipedia.org/wiki/Timoria_McQueen_Saba) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,994 |
+| 2026-11-04 02:57:48 | [Oxford, Hawthorn](https://en.wikipedia.org/wiki/Oxford%2C_Hawthorn) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 14,968 |
+| 2026-11-04 03:03:14 | [MiQuan Green](https://en.wikipedia.org/wiki/MiQuan_Green) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,363 |
+| 2026-11-04 03:09:22 | [1963 State College of Iowa Panthers football team](https://en.wikipedia.org/wiki/1963_State_College_of_Iowa_Panthers_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 4,019 |
+| 2026-11-04 03:17:37 | [Kim Thomas Smith](https://en.wikipedia.org/wiki/Kim_Thomas_Smith) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,858 |
