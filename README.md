@@ -13,65 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-04 09:20 UTC](data/en/new-articles-2026-11-04T09-20-17Z.csv) | 33 |
-| Japanese | `ja` | [2026-11-04 09:20 UTC](data/ja/new-articles-2026-11-04T09-20-17Z.csv) | 7 |
-| Chinese | `zh` | [2026-11-04 09:20 UTC](data/zh/new-articles-2026-11-04T09-20-17Z.csv) | 9 |
-| French | `fr` | [2026-11-04 09:20 UTC](data/fr/new-articles-2026-11-04T09-20-17Z.csv) | 2 |
-| German | `de` | [2026-11-04 09:20 UTC](data/de/new-articles-2026-11-04T09-20-17Z.csv) | 6 |
-| Russian | `ru` | [2026-11-04 09:20 UTC](data/ru/new-articles-2026-11-04T09-20-17Z.csv) | 16 |
-| Spanish | `es` | [2026-11-04 09:20 UTC](data/es/new-articles-2026-11-04T09-20-17Z.csv) | 5 |
-| Italian | `it` | [2026-11-04 09:20 UTC](data/it/new-articles-2026-11-04T09-20-17Z.csv) | 7 |
-| Portuguese | `pt` | [2026-11-04 09:20 UTC](data/pt/new-articles-2026-11-04T09-20-17Z.csv) | 1 |
-| Polish | `pl` | [2026-11-04 09:20 UTC](data/pl/new-articles-2026-11-04T09-20-17Z.csv) | 8 |
-| Arabic | `ar` | [2026-11-04 09:20 UTC](data/ar/new-articles-2026-11-04T09-20-17Z.csv) | 6 |
-| Persian | `fa` | [2026-11-04 09:20 UTC](data/fa/new-articles-2026-11-04T09-20-17Z.csv) | 10 |
-| Turkish | `tr` | [2026-11-04 09:20 UTC](data/tr/new-articles-2026-11-04T09-20-17Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-04 09:20 UTC](data/he/new-articles-2026-11-04T09-20-17Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-04 09:20 UTC](data/sv/new-articles-2026-11-04T09-20-17Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-04 09:20 UTC](data/nl/new-articles-2026-11-04T09-20-17Z.csv) | 4 |
-| Korean | `ko` | [2026-11-04 09:20 UTC](data/ko/new-articles-2026-11-04T09-20-17Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-04 09:20 UTC](data/id/new-articles-2026-11-04T09-20-17Z.csv) | 19 |
-| Ukrainian | `uk` | [2026-11-04 09:20 UTC](data/uk/new-articles-2026-11-04T09-20-17Z.csv) | 11 |
+| English | `en` | [2026-11-04 10:19 UTC](data/en/new-articles-2026-11-04T10-19-21Z.csv) | 21 |
+| Japanese | `ja` | [2026-11-04 10:19 UTC](data/ja/new-articles-2026-11-04T10-19-21Z.csv) | 9 |
+| Chinese | `zh` | [2026-11-04 10:19 UTC](data/zh/new-articles-2026-11-04T10-19-21Z.csv) | 5 |
+| French | `fr` | [2026-11-04 10:19 UTC](data/fr/new-articles-2026-11-04T10-19-21Z.csv) | 8 |
+| German | `de` | [2026-11-04 10:19 UTC](data/de/new-articles-2026-11-04T10-19-21Z.csv) | 14 |
+| Russian | `ru` | [2026-11-04 10:19 UTC](data/ru/new-articles-2026-11-04T10-19-21Z.csv) | 12 |
+| Spanish | `es` | [2026-11-04 10:19 UTC](data/es/new-articles-2026-11-04T10-19-21Z.csv) | 4 |
+| Italian | `it` | [2026-11-04 10:19 UTC](data/it/new-articles-2026-11-04T10-19-21Z.csv) | 8 |
+| Portuguese | `pt` | [2026-11-04 10:19 UTC](data/pt/new-articles-2026-11-04T10-19-21Z.csv) | 2 |
+| Polish | `pl` | [2026-11-04 10:19 UTC](data/pl/new-articles-2026-11-04T10-19-21Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-04 10:19 UTC](data/ar/new-articles-2026-11-04T10-19-21Z.csv) | 6 |
+| Persian | `fa` | [2026-11-04 10:19 UTC](data/fa/new-articles-2026-11-04T10-19-21Z.csv) | 9 |
+| Turkish | `tr` | [2026-11-04 10:19 UTC](data/tr/new-articles-2026-11-04T10-19-21Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-04 10:19 UTC](data/he/new-articles-2026-11-04T10-19-21Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-04 10:19 UTC](data/sv/new-articles-2026-11-04T10-19-21Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-04 10:19 UTC](data/nl/new-articles-2026-11-04T10-19-21Z.csv) | 2 |
+| Korean | `ko` | [2026-11-04 10:19 UTC](data/ko/new-articles-2026-11-04T10-19-21Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-04 10:19 UTC](data/id/new-articles-2026-11-04T10-19-21Z.csv) | 9 |
+| Ukrainian | `uk` | [2026-11-04 10:19 UTC](data/uk/new-articles-2026-11-04T10-19-21Z.csv) | 4 |
 | Vietnamese | `vi` | [2026-11-04 09:20 UTC](data/vi/new-articles-2026-11-04T09-20-17Z.csv) | 1 |
 
-## English (en) — 2026-11-04 09:20 UTC
+## English (en) — 2026-11-04 10:19 UTC
 
-New articles created between 2026-11-04 08:18 UTC and 2026-11-04 09:20 UTC.
+New articles created between 2026-11-04 09:20 UTC and 2026-11-04 10:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-04T09-20-17Z.csv)
+[Full CSV](data/en/new-articles-2026-11-04T10-19-21Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-04 08:18:59 | [Vasantha Nageswara Rao](https://en.wikipedia.org/wiki/Vasantha_Nageswara_Rao) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,842 |
-| 2026-11-04 08:25:03 | [Maui Winitana-Patelesio](https://en.wikipedia.org/wiki/Maui_Winitana-Patelesio) | [PlaytheballRL](https://en.wikipedia.org/wiki/User:PlaytheballRL) | 3,251 |
-| 2026-11-04 08:36:17 | [Kueez (platform)](https://en.wikipedia.org/wiki/Kueez_%28platform%29) | [TylAgq](https://en.wikipedia.org/wiki/User:TylAgq) | 5,299 |
-| 2026-11-04 08:36:45 | [God Laughs](https://en.wikipedia.org/wiki/God_Laughs) | [Cavarrone](https://en.wikipedia.org/wiki/User:Cavarrone) | 6,191 |
-| 2026-11-04 08:38:41 | [Jakob Sarasin](https://en.wikipedia.org/wiki/Jakob_Sarasin) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,084 |
-| 2026-11-04 08:53:05 | [Somineni Saraswati](https://en.wikipedia.org/wiki/Somineni_Saraswati) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,680 |
-| 2026-11-04 08:54:51 | [Graham Hogg (Royal Navy officer)](https://en.wikipedia.org/wiki/Graham_Hogg_%28Royal_Navy_officer%29) | [Zawed](https://en.wikipedia.org/wiki/User:Zawed) | 8,729 |
-| 2026-11-04 08:57:29 | [WTT Contender Istanbul 2026](https://en.wikipedia.org/wiki/WTT_Contender_Istanbul_2026) | [Harmoniwan](https://en.wikipedia.org/wiki/User:Harmoniwan) | 42,022 |
-| 2026-11-04 08:59:21 | [Phalacronothus citellorum](https://en.wikipedia.org/wiki/Phalacronothus_citellorum) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,218 |
-| 2026-11-04 08:59:53 | [Hans Bernhard Sarasin](https://en.wikipedia.org/wiki/Hans_Bernhard_Sarasin) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,501 |
-| 2026-11-04 09:01:23 | [AHK-Cu](https://en.wikipedia.org/wiki/AHK-Cu) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 1,942 |
-| 2026-11-04 09:01:38 | [Gédéon Sarasin](https://en.wikipedia.org/wiki/G%C3%A9d%C3%A9on_Sarasin) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,395 |
-| 2026-11-04 09:04:10 | [Phalacronothus ceylonensis](https://en.wikipedia.org/wiki/Phalacronothus_ceylonensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,066 |
-| 2026-11-04 09:05:58 | [Governor Ada](https://en.wikipedia.org/wiki/Governor_Ada) | [Sahaib](https://en.wikipedia.org/wiki/User:Sahaib) | 183 |
-| 2026-11-04 09:07:37 | [Tyger Valley](https://en.wikipedia.org/wiki/Tyger_Valley) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 12,337 |
-| 2026-11-04 09:12:09 | [Phalacronothus hilaris](https://en.wikipedia.org/wiki/Phalacronothus_hilaris) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,047 |
-| 2026-11-04 09:13:21 | [Muhammad ibn Abd Allah al-Asghar](https://en.wikipedia.org/wiki/Muhammad_ibn_Abd_Allah_al-Asghar) | [AhsinXmojo32](https://en.wikipedia.org/wiki/User:AhsinXmojo32) | 1,810 |
-| 2026-11-04 09:14:14 | [No Questions](https://en.wikipedia.org/wiki/No_Questions) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 3,901 |
-| 2026-11-04 09:16:19 | [Werthemann family](https://en.wikipedia.org/wiki/Werthemann_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,543 |
-| 2026-11-04 09:16:28 | [Jakob Miville](https://en.wikipedia.org/wiki/Jakob_Miville) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,477 |
-| 2026-11-04 09:16:36 | [Eberhard Vischer](https://en.wikipedia.org/wiki/Eberhard_Vischer) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 5,298 |
-| 2026-11-04 09:16:55 | [Ludwig Rudolf Alioth](https://en.wikipedia.org/wiki/Ludwig_Rudolf_Alioth) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,274 |
-| 2026-11-04 09:17:06 | [Salis family](https://en.wikipedia.org/wiki/Salis_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 7,318 |
-| 2026-11-04 09:17:29 | [Castelmur family](https://en.wikipedia.org/wiki/Castelmur_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 5,946 |
-| 2026-11-04 09:17:46 | [Schmid von Grüneck family](https://en.wikipedia.org/wiki/Schmid_von_Gr%C3%BCneck_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,645 |
-| 2026-11-04 09:17:50 | [Rahn family](https://en.wikipedia.org/wiki/Rahn_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,822 |
-| 2026-11-04 09:17:57 | [Montfaucon family](https://en.wikipedia.org/wiki/Montfaucon_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,619 |
-| 2026-11-04 09:18:16 | [Von Watt family](https://en.wikipedia.org/wiki/Von_Watt_family) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,598 |
-| 2026-11-04 09:18:39 | [Carl Fierz-Landis](https://en.wikipedia.org/wiki/Carl_Fierz-Landis) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,451 |
-| 2026-11-04 09:19:23 | [Daniel Kjos](https://en.wikipedia.org/wiki/Daniel_Kjos) | [Roc0ast3r](https://en.wikipedia.org/wiki/User:Roc0ast3r) | 1,693 |
-| 2026-11-04 09:19:34 | [Marta von Meyenburg](https://en.wikipedia.org/wiki/Marta_von_Meyenburg) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,460 |
-| 2026-11-04 09:19:46 | [Konrad Gessner (painter)](https://en.wikipedia.org/wiki/Konrad_Gessner_%28painter%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,287 |
-| 2026-11-04 09:19:55 | [Jane Fualal Odubu](https://en.wikipedia.org/wiki/Jane_Fualal_Odubu) | [Emma Oruk](https://en.wikipedia.org/wiki/User:Emma_Oruk) | 5,364 |
+| 2026-11-04 09:33:42 | [John Ducker (disambiguation)](https://en.wikipedia.org/wiki/John_Ducker_%28disambiguation%29) | [Taivorist](https://en.wikipedia.org/wiki/User:Taivorist) | 322 |
+| 2026-11-04 09:33:43 | [Tunstall Dyke smock mill](https://en.wikipedia.org/wiki/Tunstall_Dyke_smock_mill) | [Mjroots](https://en.wikipedia.org/wiki/User:Mjroots) | 3,249 |
+| 2026-11-04 09:34:41 | [Beth Carton](https://en.wikipedia.org/wiki/Beth_Carton) | [Nobbaet](https://en.wikipedia.org/wiki/User:Nobbaet) | 10,148 |
+| 2026-11-04 09:41:31 | [Phalacronothus botulus](https://en.wikipedia.org/wiki/Phalacronothus_botulus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,997 |
+| 2026-11-04 09:41:33 | [Blanca Rodríguez (disambiguation)](https://en.wikipedia.org/wiki/Blanca_Rodr%C3%ADguez_%28disambiguation%29) | [Taivorist](https://en.wikipedia.org/wiki/User:Taivorist) | 477 |
+| 2026-11-04 09:45:44 | [Magerburg](https://en.wikipedia.org/wiki/Magerburg) | [Kapulakone](https://en.wikipedia.org/wiki/User:Kapulakone) | 6,475 |
+| 2026-11-04 09:48:52 | [Haşim Birkan](https://en.wikipedia.org/wiki/Ha%C5%9Fim_Birkan) | [Bdfi1](https://en.wikipedia.org/wiki/User:Bdfi1) | 688 |
+| 2026-11-04 09:49:18 | [Facewatch](https://en.wikipedia.org/wiki/Facewatch) | [The Anome](https://en.wikipedia.org/wiki/User:The_Anome) | 2,047 |
+| 2026-11-04 09:49:19 | [Ulrich Lochmann](https://en.wikipedia.org/wiki/Ulrich_Lochmann) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,635 |
+| 2026-11-04 09:49:27 | [Karl Grütter](https://en.wikipedia.org/wiki/Karl_Gr%C3%BCtter) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,721 |
+| 2026-11-04 09:49:46 | [Leonz Villiger](https://en.wikipedia.org/wiki/Leonz_Villiger) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,192 |
+| 2026-11-04 09:49:48 | [Hinterschmiding (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Hinterschmiding_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,477 |
+| 2026-11-04 09:49:53 | [Walter Thalmann](https://en.wikipedia.org/wiki/Walter_Thalmann) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,873 |
+| 2026-11-04 09:49:59 | [Adam Schiesser](https://en.wikipedia.org/wiki/Adam_Schiesser) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 3,832 |
+| 2026-11-04 09:50:05 | [Johann Jakob Trachsler](https://en.wikipedia.org/wiki/Johann_Jakob_Trachsler) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,503 |
+| 2026-11-04 09:50:10 | [Karl Emanuel Müller](https://en.wikipedia.org/wiki/Karl_Emanuel_M%C3%BCller) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 6,647 |
+| 2026-11-04 09:53:34 | [Perlesreut (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Perlesreut_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,433 |
+| 2026-11-04 09:56:35 | [Schönberg (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Sch%C3%B6nberg_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,496 |
+| 2026-11-04 09:57:20 | [Nimbus affinis](https://en.wikipedia.org/wiki/Nimbus_affinis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,660 |
+| 2026-11-04 09:59:29 | [Thurmansbang (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Thurmansbang_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,409 |
+| 2026-11-04 10:07:16 | [2026 Afghanistan Premier League players' draft](https://en.wikipedia.org/wiki/2026_Afghanistan_Premier_League_players%27_draft) | [Sagarsq](https://en.wikipedia.org/wiki/User:Sagarsq) | 2,382 |
