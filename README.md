@@ -13,54 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-05 00:20 UTC](data/en/new-articles-2026-11-05T00-20-30Z.csv) | 22 |
-| Japanese | `ja` | [2026-11-05 00:20 UTC](data/ja/new-articles-2026-11-05T00-20-30Z.csv) | 9 |
-| Chinese | `zh` | [2026-11-05 00:20 UTC](data/zh/new-articles-2026-11-05T00-20-30Z.csv) | 3 |
-| French | `fr` | [2026-11-05 00:20 UTC](data/fr/new-articles-2026-11-05T00-20-30Z.csv) | 3 |
-| German | `de` | [2026-11-05 00:20 UTC](data/de/new-articles-2026-11-05T00-20-30Z.csv) | 4 |
-| Russian | `ru` | [2026-11-05 00:20 UTC](data/ru/new-articles-2026-11-05T00-20-30Z.csv) | 2 |
-| Spanish | `es` | [2026-11-05 00:20 UTC](data/es/new-articles-2026-11-05T00-20-30Z.csv) | 6 |
-| Italian | `it` | [2026-11-05 00:20 UTC](data/it/new-articles-2026-11-05T00-20-30Z.csv) | 3 |
-| Portuguese | `pt` | [2026-11-05 00:20 UTC](data/pt/new-articles-2026-11-05T00-20-30Z.csv) | 18 |
-| Polish | `pl` | [2026-11-05 00:20 UTC](data/pl/new-articles-2026-11-05T00-20-30Z.csv) | 1 |
+| English | `en` | [2026-11-05 01:18 UTC](data/en/new-articles-2026-11-05T01-18-53Z.csv) | 14 |
+| Japanese | `ja` | [2026-11-05 01:18 UTC](data/ja/new-articles-2026-11-05T01-18-53Z.csv) | 11 |
+| Chinese | `zh` | [2026-11-05 01:18 UTC](data/zh/new-articles-2026-11-05T01-18-53Z.csv) | 4 |
+| French | `fr` | [2026-11-05 01:18 UTC](data/fr/new-articles-2026-11-05T01-18-53Z.csv) | 2 |
+| German | `de` | [2026-11-05 01:18 UTC](data/de/new-articles-2026-11-05T01-18-53Z.csv) | 1 |
+| Russian | `ru` | [2026-11-05 01:18 UTC](data/ru/new-articles-2026-11-05T01-18-53Z.csv) | 4 |
+| Spanish | `es` | [2026-11-05 01:18 UTC](data/es/new-articles-2026-11-05T01-18-53Z.csv) | 3 |
+| Italian | `it` | [2026-11-05 01:18 UTC](data/it/new-articles-2026-11-05T01-18-53Z.csv) | 5 |
+| Portuguese | `pt` | [2026-11-05 01:18 UTC](data/pt/new-articles-2026-11-05T01-18-53Z.csv) | 9 |
+| Polish | `pl` | [2026-11-05 01:18 UTC](data/pl/new-articles-2026-11-05T01-18-53Z.csv) | 2 |
 | Arabic | `ar` | [2026-11-05 00:20 UTC](data/ar/new-articles-2026-11-05T00-20-30Z.csv) | 3 |
-| Persian | `fa` | [2026-11-04 23:19 UTC](data/fa/new-articles-2026-11-04T23-19-23Z.csv) | 6 |
+| Persian | `fa` | [2026-11-05 01:18 UTC](data/fa/new-articles-2026-11-05T01-18-53Z.csv) | 1 |
 | Turkish | `tr` | [2026-11-04 23:19 UTC](data/tr/new-articles-2026-11-04T23-19-23Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-05 00:20 UTC](data/he/new-articles-2026-11-05T00-20-30Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-05 00:20 UTC](data/sv/new-articles-2026-11-05T00-20-30Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-05 01:18 UTC](data/he/new-articles-2026-11-05T01-18-53Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-05 01:18 UTC](data/sv/new-articles-2026-11-05T01-18-53Z.csv) | 1 |
 | Dutch | `nl` | [2026-11-04 23:19 UTC](data/nl/new-articles-2026-11-04T23-19-23Z.csv) | 1 |
-| Korean | `ko` | [2026-11-04 23:19 UTC](data/ko/new-articles-2026-11-04T23-19-23Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-05 00:20 UTC](data/id/new-articles-2026-11-05T00-20-30Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-05 00:20 UTC](data/uk/new-articles-2026-11-05T00-20-30Z.csv) | 1 |
+| Korean | `ko` | [2026-11-05 01:18 UTC](data/ko/new-articles-2026-11-05T01-18-53Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-05 01:18 UTC](data/id/new-articles-2026-11-05T01-18-53Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-11-05 01:18 UTC](data/uk/new-articles-2026-11-05T01-18-53Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-11-05 00:20 UTC](data/vi/new-articles-2026-11-05T00-20-30Z.csv) | 1 |
 
-## English (en) — 2026-11-05 00:20 UTC
+## English (en) — 2026-11-05 01:18 UTC
 
-New articles created between 2026-11-04 23:19 UTC and 2026-11-05 00:20 UTC.
+New articles created between 2026-11-05 00:20 UTC and 2026-11-05 01:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-05T00-20-30Z.csv)
+[Full CSV](data/en/new-articles-2026-11-05T01-18-53Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-04 23:26:36 | [2032 United States Senate elections](https://en.wikipedia.org/wiki/2032_United_States_Senate_elections) | [Blague7](https://en.wikipedia.org/wiki/User:Blague7) | 2,360 |
-| 2026-11-04 23:29:31 | [Fort Kopgalis](https://en.wikipedia.org/wiki/Fort_Kopgalis) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 5,381 |
-| 2026-11-04 23:30:52 | [Robert Gabel](https://en.wikipedia.org/wiki/Robert_Gabel) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,644 |
-| 2026-11-04 23:36:29 | [Adithya Karunaratne](https://en.wikipedia.org/wiki/Adithya_Karunaratne) | [0add0n](https://en.wikipedia.org/wiki/User:0add0n) | 6,857 |
-| 2026-11-04 23:41:08 | [Feike](https://en.wikipedia.org/wiki/Feike) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 429 |
-| 2026-11-04 23:48:48 | [Letter of Alexander the Great to the Slavs](https://en.wikipedia.org/wiki/Letter_of_Alexander_the_Great_to_the_Slavs) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 679 |
-| 2026-11-04 23:49:45 | [Barre-Bonnet-Stoléru Law](https://en.wikipedia.org/wiki/Barre-Bonnet-Stol%C3%A9ru_Law) | [Guylaen](https://en.wikipedia.org/wiki/User:Guylaen) | 2,131 |
-| 2026-11-04 23:52:03 | [Kristen Hawkins](https://en.wikipedia.org/wiki/Kristen_Hawkins) | [JTtheOG](https://en.wikipedia.org/wiki/User:JTtheOG) | 3,886 |
-| 2026-11-04 23:52:48 | [Sean Carlson (politician)](https://en.wikipedia.org/wiki/Sean_Carlson_%28politician%29) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 1,321 |
-| 2026-11-04 23:54:24 | [Kevin Knoke](https://en.wikipedia.org/wiki/Kevin_Knoke) | [Asdasdasdff](https://en.wikipedia.org/wiki/User:Asdasdasdff) | 5,809 |
-| 2026-11-04 23:55:22 | [Magnetic Pages](https://en.wikipedia.org/wiki/Magnetic_Pages) | [Only a Floor Tile](https://en.wikipedia.org/wiki/User:Only_a_Floor_Tile) | 10,163 |
-| 2026-11-04 23:58:15 | [1924 Cheney Normal Savages football team](https://en.wikipedia.org/wiki/1924_Cheney_Normal_Savages_football_team) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,835 |
-| 2026-11-04 23:58:40 | [Evangeline Poor Bear](https://en.wikipedia.org/wiki/Evangeline_Poor_Bear) | [Roc0ast3r](https://en.wikipedia.org/wiki/User:Roc0ast3r) | 2,306 |
-| 2026-11-05 00:00:01 | [1936 Iowa State Teachers Panthers football team](https://en.wikipedia.org/wiki/1936_Iowa_State_Teachers_Panthers_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 4,006 |
-| 2026-11-05 00:00:27 | [Montserrat Garibay](https://en.wikipedia.org/wiki/Montserrat_Garibay) | [Aneirinn](https://en.wikipedia.org/wiki/User:Aneirinn) | 6,281 |
-| 2026-11-05 00:01:40 | [Daniel Darris-O'Connor](https://en.wikipedia.org/wiki/Daniel_Darris-O%27Connor) | [Mellohi!](https://en.wikipedia.org/wiki/User:Mellohi%21) | 1,837 |
-| 2026-11-05 00:02:32 | [Carboetomidate](https://en.wikipedia.org/wiki/Carboetomidate) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 4,025 |
-| 2026-11-05 00:02:37 | [Lilim Holic](https://en.wikipedia.org/wiki/Lilim_Holic) | [Narutolovehinata5](https://en.wikipedia.org/wiki/User:Narutolovehinata5) | 4,341 |
-| 2026-11-05 00:04:15 | [Nomelon Nolemon](https://en.wikipedia.org/wiki/Nomelon_Nolemon) | [Narutolovehinata5](https://en.wikipedia.org/wiki/User:Narutolovehinata5) | 8,326 |
-| 2026-11-05 00:04:47 | [Inwon Kim](https://en.wikipedia.org/wiki/Inwon_Kim) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 3,336 |
-| 2026-11-05 00:17:01 | [My Kitchen (painting)](https://en.wikipedia.org/wiki/My_Kitchen_%28painting%29) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,899 |
-| 2026-11-05 00:18:42 | [Chiharu (voice actress)](https://en.wikipedia.org/wiki/Chiharu_%28voice_actress%29) | [Narutolovehinata5](https://en.wikipedia.org/wiki/User:Narutolovehinata5) | 7,428 |
+| 2026-11-05 00:26:32 | [Sonia Vásquez Luna](https://en.wikipedia.org/wiki/Sonia_V%C3%A1squez_Luna) | [ThisUserIsTaken](https://en.wikipedia.org/wiki/User:ThisUserIsTaken) | 3,502 |
+| 2026-11-05 00:28:46 | [Directorate General of Trade Remedies](https://en.wikipedia.org/wiki/Directorate_General_of_Trade_Remedies) | [Ar1201u1](https://en.wikipedia.org/wiki/User:Ar1201u1) | 2,958 |
+| 2026-11-05 00:30:30 | [Jimmy Carr's Am I The A**hole?](https://en.wikipedia.org/wiki/Jimmy_Carr%27s_Am_I_The_A%2A%2Ahole%3F) | [Mechanical Elephant](https://en.wikipedia.org/wiki/User:Mechanical_Elephant) | 13,980 |
+| 2026-11-05 00:36:45 | [Joan of Arc (Millais)](https://en.wikipedia.org/wiki/Joan_of_Arc_%28Millais%29) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,858 |
+| 2026-11-05 00:40:00 | [Paydret](https://en.wikipedia.org/wiki/Paydret) | [Quince&Medlar](https://en.wikipedia.org/wiki/User:Quince%26Medlar) | 619 |
+| 2026-11-05 00:44:09 | [Nikulin (surname)](https://en.wikipedia.org/wiki/Nikulin_%28surname%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 457 |
+| 2026-11-05 00:55:05 | [Security situation in Kosovo after the Rambouillet conference](https://en.wikipedia.org/wiki/Security_situation_in_Kosovo_after_the_Rambouillet_conference) | [Shqiptar1999](https://en.wikipedia.org/wiki/User:Shqiptar1999) | 49,351 |
+| 2026-11-05 01:08:51 | [Prime Minister Rasmussen](https://en.wikipedia.org/wiki/Prime_Minister_Rasmussen) | [Mx User](https://en.wikipedia.org/wiki/User:Mx_User) | 402 |
+| 2026-11-05 01:09:50 | [Hina Aoki](https://en.wikipedia.org/wiki/Hina_Aoki) | [Narutolovehinata5](https://en.wikipedia.org/wiki/User:Narutolovehinata5) | 6,897 |
+| 2026-11-05 01:11:14 | [Three Seconds (TV series)](https://en.wikipedia.org/wiki/Three_Seconds_%28TV_series%29) | [D.18th](https://en.wikipedia.org/wiki/User:D.18th) | 1,288 |
+| 2026-11-05 01:12:09 | [Theresa Holmgren](https://en.wikipedia.org/wiki/Theresa_Holmgren) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 2,528 |
+| 2026-11-05 01:14:56 | [Küçükçekmece (Fossil Site)](https://en.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_%28Fossil_Site%29) | [TerribleReptiles77](https://en.wikipedia.org/wiki/User:TerribleReptiles77) | 13,088 |
+| 2026-11-05 01:15:04 | [XXXIX Corps](https://en.wikipedia.org/wiki/XXXIX_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 811 |
+| 2026-11-05 01:17:31 | [Manhole cards](https://en.wikipedia.org/wiki/Manhole_cards) | [Викидим](https://en.wikipedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B8%D0%BC) | 14,309 |
