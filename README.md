@@ -13,63 +13,62 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-05 04:18 UTC](data/en/new-articles-2026-11-05T04-18-24Z.csv) | 31 |
-| Japanese | `ja` | [2026-11-05 04:18 UTC](data/ja/new-articles-2026-11-05T04-18-24Z.csv) | 18 |
-| Chinese | `zh` | [2026-11-05 04:18 UTC](data/zh/new-articles-2026-11-05T04-18-24Z.csv) | 12 |
-| French | `fr` | [2026-11-05 04:18 UTC](data/fr/new-articles-2026-11-05T04-18-24Z.csv) | 3 |
-| German | `de` | [2026-11-05 03:19 UTC](data/de/new-articles-2026-11-05T03-19-52Z.csv) | 2 |
-| Russian | `ru` | [2026-11-05 04:18 UTC](data/ru/new-articles-2026-11-05T04-18-24Z.csv) | 1 |
-| Spanish | `es` | [2026-11-05 04:18 UTC](data/es/new-articles-2026-11-05T04-18-24Z.csv) | 4 |
-| Italian | `it` | [2026-11-05 04:18 UTC](data/it/new-articles-2026-11-05T04-18-24Z.csv) | 1 |
-| Portuguese | `pt` | [2026-11-05 03:19 UTC](data/pt/new-articles-2026-11-05T03-19-52Z.csv) | 3 |
-| Polish | `pl` | [2026-11-05 04:18 UTC](data/pl/new-articles-2026-11-05T04-18-24Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-05 04:18 UTC](data/ar/new-articles-2026-11-05T04-18-24Z.csv) | 1 |
-| Persian | `fa` | [2026-11-05 04:18 UTC](data/fa/new-articles-2026-11-05T04-18-24Z.csv) | 8 |
+| English | `en` | [2026-11-05 05:19 UTC](data/en/new-articles-2026-11-05T05-19-29Z.csv) | 30 |
+| Japanese | `ja` | [2026-11-05 05:19 UTC](data/ja/new-articles-2026-11-05T05-19-29Z.csv) | 16 |
+| Chinese | `zh` | [2026-11-05 05:19 UTC](data/zh/new-articles-2026-11-05T05-19-29Z.csv) | 4 |
+| French | `fr` | [2026-11-05 05:19 UTC](data/fr/new-articles-2026-11-05T05-19-29Z.csv) | 3 |
+| German | `de` | [2026-11-05 05:19 UTC](data/de/new-articles-2026-11-05T05-19-29Z.csv) | 1 |
+| Russian | `ru` | [2026-11-05 05:19 UTC](data/ru/new-articles-2026-11-05T05-19-29Z.csv) | 1 |
+| Spanish | `es` | [2026-11-05 05:19 UTC](data/es/new-articles-2026-11-05T05-19-29Z.csv) | 6 |
+| Italian | `it` | [2026-11-05 05:19 UTC](data/it/new-articles-2026-11-05T05-19-29Z.csv) | 7 |
+| Portuguese | `pt` | [2026-11-05 05:19 UTC](data/pt/new-articles-2026-11-05T05-19-29Z.csv) | 3 |
+| Polish | `pl` | [2026-11-05 05:19 UTC](data/pl/new-articles-2026-11-05T05-19-29Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-05 05:19 UTC](data/ar/new-articles-2026-11-05T05-19-29Z.csv) | 3 |
+| Persian | `fa` | [2026-11-05 05:19 UTC](data/fa/new-articles-2026-11-05T05-19-29Z.csv) | 3 |
 | Turkish | `tr` | [2026-11-04 23:19 UTC](data/tr/new-articles-2026-11-04T23-19-23Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-05 02:18 UTC](data/he/new-articles-2026-11-05T02-18-49Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-05 01:18 UTC](data/sv/new-articles-2026-11-05T01-18-53Z.csv) | 1 |
 | Dutch | `nl` | [2026-11-05 02:18 UTC](data/nl/new-articles-2026-11-05T02-18-49Z.csv) | 1 |
-| Korean | `ko` | [2026-11-05 04:18 UTC](data/ko/new-articles-2026-11-05T04-18-24Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-05 04:18 UTC](data/id/new-articles-2026-11-05T04-18-24Z.csv) | 13 |
-| Ukrainian | `uk` | [2026-11-05 04:18 UTC](data/uk/new-articles-2026-11-05T04-18-24Z.csv) | 5 |
+| Korean | `ko` | [2026-11-05 05:19 UTC](data/ko/new-articles-2026-11-05T05-19-29Z.csv) | 7 |
+| Indonesian | `id` | [2026-11-05 05:19 UTC](data/id/new-articles-2026-11-05T05-19-29Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-11-05 05:19 UTC](data/uk/new-articles-2026-11-05T05-19-29Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-11-05 04:18 UTC](data/vi/new-articles-2026-11-05T04-18-24Z.csv) | 3 |
 
-## English (en) — 2026-11-05 04:18 UTC
+## English (en) — 2026-11-05 05:19 UTC
 
-New articles created between 2026-11-05 03:19 UTC and 2026-11-05 04:18 UTC.
+New articles created between 2026-11-05 04:18 UTC and 2026-11-05 05:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-05T04-18-24Z.csv)
+[Full CSV](data/en/new-articles-2026-11-05T05-19-29Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-05 03:20:52 | [Empire Futsal Club Ebikon](https://en.wikipedia.org/wiki/Empire_Futsal_Club_Ebikon) | [Yoblyblob](https://en.wikipedia.org/wiki/User:Yoblyblob) | 2,073 |
-| 2026-11-05 03:20:54 | [The Red Prince Mare](https://en.wikipedia.org/wiki/The_Red_Prince_Mare) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,001 |
-| 2026-11-05 03:23:58 | [Zhang Haiqin](https://en.wikipedia.org/wiki/Zhang_Haiqin) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,746 |
-| 2026-11-05 03:28:21 | [Lisbeth Arescurenaga](https://en.wikipedia.org/wiki/Lisbeth_Arescurenaga) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,644 |
-| 2026-11-05 03:33:13 | [Alberto Flores (politician)](https://en.wikipedia.org/wiki/Alberto_Flores_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,621 |
-| 2026-11-05 03:33:21 | [Tainan shrimp rice](https://en.wikipedia.org/wiki/Tainan_shrimp_rice) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 4,127 |
-| 2026-11-05 03:34:06 | [Sam Davis III](https://en.wikipedia.org/wiki/Sam_Davis_III) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,628 |
-| 2026-11-05 03:35:23 | [Mark Speed](https://en.wikipedia.org/wiki/Mark_Speed) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,951 |
-| 2026-11-05 03:37:26 | [Benjamin Flores (politician)](https://en.wikipedia.org/wiki/Benjamin_Flores_%28politician%29) | [Stanloona2020](https://en.wikipedia.org/wiki/User:Stanloona2020) | 7,077 |
-| 2026-11-05 03:38:17 | [Miranda Lopez](https://en.wikipedia.org/wiki/Miranda_Lopez) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,624 |
-| 2026-11-05 03:38:32 | [Wellie Jackson](https://en.wikipedia.org/wiki/Wellie_Jackson) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,483 |
-| 2026-11-05 03:40:27 | [Lorenza Wilkins](https://en.wikipedia.org/wiki/Lorenza_Wilkins) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 7,347 |
-| 2026-11-05 03:43:11 | [Sevgi Kayışoğlu](https://en.wikipedia.org/wiki/Sevgi_Kay%C4%B1%C5%9Fo%C4%9Flu) | [Snailchildren](https://en.wikipedia.org/wiki/User:Snailchildren) | 21,073 |
-| 2026-11-05 03:43:54 | [2025–26 Swiss Futsal Premier League](https://en.wikipedia.org/wiki/2025%E2%80%9326_Swiss_Futsal_Premier_League) | [Yoblyblob](https://en.wikipedia.org/wiki/User:Yoblyblob) | 14,929 |
-| 2026-11-05 03:44:36 | [Annie Maher](https://en.wikipedia.org/wiki/Annie_Maher) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 2,518 |
-| 2026-11-05 03:45:48 | [Armando Montero](https://en.wikipedia.org/wiki/Armando_Montero) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,619 |
-| 2026-11-05 03:46:54 | [WTT Star Contender Muscat 2026](https://en.wikipedia.org/wiki/WTT_Star_Contender_Muscat_2026) | [Harmoniwan](https://en.wikipedia.org/wiki/User:Harmoniwan) | 52,390 |
-| 2026-11-05 03:53:33 | [Walter J. Pearson](https://en.wikipedia.org/wiki/Walter_J._Pearson) | [LaithDababneh](https://en.wikipedia.org/wiki/User:LaithDababneh) | 3,261 |
-| 2026-11-05 03:54:13 | [2026–27 SMU Mustangs men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_SMU_Mustangs_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 33,788 |
-| 2026-11-05 03:59:33 | [Safed Hebrew printing press (1577–1587)](https://en.wikipedia.org/wiki/Safed_Hebrew_printing_press_%281577%E2%80%931587%29) | [Echo713](https://en.wikipedia.org/wiki/User:Echo713) | 3,056 |
-| 2026-11-05 04:03:35 | [April Montgomery](https://en.wikipedia.org/wiki/April_Montgomery) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,384 |
-| 2026-11-05 04:04:37 | [LeVon Barnes](https://en.wikipedia.org/wiki/LeVon_Barnes) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,900 |
-| 2026-11-05 04:04:38 | [Time Works Wonders (political cartoon)](https://en.wikipedia.org/wiki/Time_Works_Wonders_%28political_cartoon%29) | [Jengod](https://en.wikipedia.org/wiki/User:Jengod) | 7,220 |
-| 2026-11-05 04:04:45 | [Bureau of Animal Regulation and Control](https://en.wikipedia.org/wiki/Bureau_of_Animal_Regulation_and_Control) | [WhisperToMe](https://en.wikipedia.org/wiki/User:WhisperToMe) | 4,278 |
-| 2026-11-05 04:06:46 | [Greg Edds](https://en.wikipedia.org/wiki/Greg_Edds) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,531 |
-| 2026-11-05 04:08:30 | [Evonne Hopkins](https://en.wikipedia.org/wiki/Evonne_Hopkins) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,914 |
-| 2026-11-05 04:12:17 | [Lynne Russo](https://en.wikipedia.org/wiki/Lynne_Russo) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,156 |
-| 2026-11-05 04:13:45 | [Darren Armstrong](https://en.wikipedia.org/wiki/Darren_Armstrong) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,577 |
-| 2026-11-05 04:15:23 | [Mark Burrows (Politician)](https://en.wikipedia.org/wiki/Mark_Burrows_%28Politician%29) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,726 |
-| 2026-11-05 04:16:22 | [Clancy Baucom](https://en.wikipedia.org/wiki/Clancy_Baucom) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 6,221 |
-| 2026-11-05 04:17:43 | [Ken McCool](https://en.wikipedia.org/wiki/Ken_McCool) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,616 |
+| 2026-11-05 04:18:50 | [Bailar o Morir](https://en.wikipedia.org/wiki/Bailar_o_Morir) | [Swe97](https://en.wikipedia.org/wiki/User:Swe97) | 23,255 |
+| 2026-11-05 04:20:31 | [Chris Bishopp](https://en.wikipedia.org/wiki/Chris_Bishopp) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,989 |
+| 2026-11-05 04:21:40 | [Mark Carver](https://en.wikipedia.org/wiki/Mark_Carver) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,705 |
+| 2026-11-05 04:22:45 | [2026 Bennet Train Sabotage](https://en.wikipedia.org/wiki/2026_Bennet_Train_Sabotage) | [Iconoclasty](https://en.wikipedia.org/wiki/User:Iconoclasty) | 11,643 |
+| 2026-11-05 04:22:45 | [Caroline Eason](https://en.wikipedia.org/wiki/Caroline_Eason) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,750 |
+| 2026-11-05 04:23:41 | [Janene Ackles](https://en.wikipedia.org/wiki/Janene_Ackles) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,803 |
+| 2026-11-05 04:24:32 | [Seth Woodall](https://en.wikipedia.org/wiki/Seth_Woodall) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 8,396 |
+| 2026-11-05 04:27:13 | [Jimmy Rogers (politician)](https://en.wikipedia.org/wiki/Jimmy_Rogers_%28politician%29) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,383 |
+| 2026-11-05 04:28:04 | [Thomas Monks](https://en.wikipedia.org/wiki/Thomas_Monks) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,415 |
+| 2026-11-05 04:28:54 | [Winn Decker](https://en.wikipedia.org/wiki/Winn_Decker) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,836 |
+| 2026-11-05 04:30:00 | [Amy Taylor North](https://en.wikipedia.org/wiki/Amy_Taylor_North) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 6,764 |
+| 2026-11-05 04:30:37 | [John Houston (manager)](https://en.wikipedia.org/wiki/John_Houston_%28manager%29) | [BrothaTimothy](https://en.wikipedia.org/wiki/User:BrothaTimothy) | 19,729 |
+| 2026-11-05 04:32:05 | [Jen Wiles](https://en.wikipedia.org/wiki/Jen_Wiles) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,161 |
+| 2026-11-05 04:32:48 | [Elma Hairston](https://en.wikipedia.org/wiki/Elma_Hairston) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,573 |
+| 2026-11-05 04:33:41 | [L'Bertice Solomon](https://en.wikipedia.org/wiki/L%27Bertice_Solomon) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 3,879 |
+| 2026-11-05 04:35:18 | [Umm Khallad](https://en.wikipedia.org/wiki/Umm_Khallad) | [Saddam19](https://en.wikipedia.org/wiki/User:Saddam19) | 2,241 |
+| 2026-11-05 04:35:48 | [The Tilted Cart : A Book of Recitations](https://en.wikipedia.org/wiki/The_Tilted_Cart_%3A_A_Book_of_Recitations) | [Perry Middlemiss](https://en.wikipedia.org/wiki/User:Perry_Middlemiss) | 4,153 |
+| 2026-11-05 04:39:57 | [Silonit](https://en.wikipedia.org/wiki/Silonit) | [UFTI IBN GUFTI](https://en.wikipedia.org/wiki/User:UFTI_IBN_GUFTI) | 1,104 |
+| 2026-11-05 04:41:38 | [Ebony Turner](https://en.wikipedia.org/wiki/Ebony_Turner) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,443 |
+| 2026-11-05 04:44:09 | [Ewa Siedlecka](https://en.wikipedia.org/wiki/Ewa_Siedlecka) | [Thief-River-Faller](https://en.wikipedia.org/wiki/User:Thief-River-Faller) | 3,400 |
+| 2026-11-05 04:44:12 | [Chor Bazar (1954 film)](https://en.wikipedia.org/wiki/Chor_Bazar_%281954_film%29) | [LivingLife1976](https://en.wikipedia.org/wiki/User:LivingLife1976) | 1,888 |
+| 2026-11-05 04:48:42 | [NASA X-70 Fractal](https://en.wikipedia.org/wiki/NASA_X-70_Fractal) | [4-RAZOR 01](https://en.wikipedia.org/wiki/User:4-RAZOR_01) | 1,742 |
+| 2026-11-05 04:50:37 | [Santa Rosa Dead Pelicans](https://en.wikipedia.org/wiki/Santa_Rosa_Dead_Pelicans) | [PlaytheballRL](https://en.wikipedia.org/wiki/User:PlaytheballRL) | 2,013 |
+| 2026-11-05 04:57:17 | [Ohn Etchemendy](https://en.wikipedia.org/wiki/Ohn_Etchemendy) | [97198](https://en.wikipedia.org/wiki/User:97198) | 29 |
+| 2026-11-05 05:04:52 | [Lake Los Carneros](https://en.wikipedia.org/wiki/Lake_Los_Carneros) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 11,453 |
+| 2026-11-05 05:08:08 | [Harris County Public Health](https://en.wikipedia.org/wiki/Harris_County_Public_Health) | [WhisperToMe](https://en.wikipedia.org/wiki/User:WhisperToMe) | 4,037 |
+| 2026-11-05 05:13:14 | [Gwenifer Raymond](https://en.wikipedia.org/wiki/Gwenifer_Raymond) | [Musicsoundsite](https://en.wikipedia.org/wiki/User:Musicsoundsite) | 9,138 |
+| 2026-11-05 05:13:56 | [Hypertherm](https://en.wikipedia.org/wiki/Hypertherm) | [Texan Mexican](https://en.wikipedia.org/wiki/User:Texan_Mexican) | 2,535 |
+| 2026-11-05 05:16:05 | [Reed Krewson](https://en.wikipedia.org/wiki/Reed_Krewson) | [Burger1018](https://en.wikipedia.org/wiki/User:Burger1018) | 3,731 |
+| 2026-11-05 05:17:44 | [Hunter Flynn](https://en.wikipedia.org/wiki/Hunter_Flynn) | [208yeahh](https://en.wikipedia.org/wiki/User:208yeahh) | 2,034 |
