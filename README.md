@@ -13,52 +13,47 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-05 21:21 UTC](data/en/new-articles-2026-11-05T21-21-12Z.csv) | 20 |
-| Japanese | `ja` | [2026-11-05 20:21 UTC](data/ja/new-articles-2026-11-05T20-21-34Z.csv) | 2 |
-| Chinese | `zh` | [2026-11-05 21:21 UTC](data/zh/new-articles-2026-11-05T21-21-12Z.csv) | 1 |
-| French | `fr` | [2026-11-05 21:21 UTC](data/fr/new-articles-2026-11-05T21-21-12Z.csv) | 8 |
-| German | `de` | [2026-11-05 21:21 UTC](data/de/new-articles-2026-11-05T21-21-12Z.csv) | 8 |
-| Russian | `ru` | [2026-11-05 21:21 UTC](data/ru/new-articles-2026-11-05T21-21-12Z.csv) | 24 |
-| Spanish | `es` | [2026-11-05 21:21 UTC](data/es/new-articles-2026-11-05T21-21-12Z.csv) | 23 |
-| Italian | `it` | [2026-11-05 21:21 UTC](data/it/new-articles-2026-11-05T21-21-12Z.csv) | 10 |
-| Portuguese | `pt` | [2026-11-05 21:21 UTC](data/pt/new-articles-2026-11-05T21-21-12Z.csv) | 48 |
-| Polish | `pl` | [2026-11-05 21:21 UTC](data/pl/new-articles-2026-11-05T21-21-12Z.csv) | 13 |
-| Arabic | `ar` | [2026-11-05 21:21 UTC](data/ar/new-articles-2026-11-05T21-21-12Z.csv) | 5 |
-| Persian | `fa` | [2026-11-05 21:21 UTC](data/fa/new-articles-2026-11-05T21-21-12Z.csv) | 9 |
-| Turkish | `tr` | [2026-11-05 21:21 UTC](data/tr/new-articles-2026-11-05T21-21-12Z.csv) | 3 |
-| Hebrew | `he` | [2026-11-05 21:21 UTC](data/he/new-articles-2026-11-05T21-21-12Z.csv) | 4 |
+| English | `en` | [2026-11-05 22:18 UTC](data/en/new-articles-2026-11-05T22-18-43Z.csv) | 15 |
+| Japanese | `ja` | [2026-11-05 22:18 UTC](data/ja/new-articles-2026-11-05T22-18-43Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-05 22:18 UTC](data/zh/new-articles-2026-11-05T22-18-43Z.csv) | 2 |
+| French | `fr` | [2026-11-05 22:18 UTC](data/fr/new-articles-2026-11-05T22-18-43Z.csv) | 9 |
+| German | `de` | [2026-11-05 22:18 UTC](data/de/new-articles-2026-11-05T22-18-43Z.csv) | 3 |
+| Russian | `ru` | [2026-11-05 22:18 UTC](data/ru/new-articles-2026-11-05T22-18-43Z.csv) | 3 |
+| Spanish | `es` | [2026-11-05 22:18 UTC](data/es/new-articles-2026-11-05T22-18-43Z.csv) | 5 |
+| Italian | `it` | [2026-11-05 22:18 UTC](data/it/new-articles-2026-11-05T22-18-43Z.csv) | 5 |
+| Portuguese | `pt` | [2026-11-05 22:18 UTC](data/pt/new-articles-2026-11-05T22-18-43Z.csv) | 13 |
+| Polish | `pl` | [2026-11-05 22:18 UTC](data/pl/new-articles-2026-11-05T22-18-43Z.csv) | 8 |
+| Arabic | `ar` | [2026-11-05 22:18 UTC](data/ar/new-articles-2026-11-05T22-18-43Z.csv) | 4 |
+| Persian | `fa` | [2026-11-05 22:18 UTC](data/fa/new-articles-2026-11-05T22-18-43Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-05 22:18 UTC](data/tr/new-articles-2026-11-05T22-18-43Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-05 22:18 UTC](data/he/new-articles-2026-11-05T22-18-43Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-05 21:21 UTC](data/sv/new-articles-2026-11-05T21-21-12Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-05 21:21 UTC](data/nl/new-articles-2026-11-05T21-21-12Z.csv) | 6 |
+| Dutch | `nl` | [2026-11-05 22:18 UTC](data/nl/new-articles-2026-11-05T22-18-43Z.csv) | 4 |
 | Korean | `ko` | [2026-11-05 19:21 UTC](data/ko/new-articles-2026-11-05T19-21-20Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-05 21:21 UTC](data/id/new-articles-2026-11-05T21-21-12Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-11-05 21:21 UTC](data/uk/new-articles-2026-11-05T21-21-12Z.csv) | 14 |
+| Indonesian | `id` | [2026-11-05 22:18 UTC](data/id/new-articles-2026-11-05T22-18-43Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-05 22:18 UTC](data/uk/new-articles-2026-11-05T22-18-43Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-11-05 17:19 UTC](data/vi/new-articles-2026-11-05T17-19-10Z.csv) | 2 |
 
-## English (en) — 2026-11-05 21:21 UTC
+## English (en) — 2026-11-05 22:18 UTC
 
-New articles created between 2026-11-05 20:21 UTC and 2026-11-05 21:21 UTC.
+New articles created between 2026-11-05 21:21 UTC and 2026-11-05 22:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-05T21-21-12Z.csv)
+[Full CSV](data/en/new-articles-2026-11-05T22-18-43Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-05 20:26:26 | [Dick Leeuwenburg](https://en.wikipedia.org/wiki/Dick_Leeuwenburg) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 3,316 |
-| 2026-11-05 20:38:23 | [2026–27 Mohammedan SC (Kolkata) season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Mohammedan_SC_%28Kolkata%29_season) | [MAS23](https://en.wikipedia.org/wiki/User:MAS23) | 4,694 |
-| 2026-11-05 20:41:17 | [Ryan Roadhouse](https://en.wikipedia.org/wiki/Ryan_Roadhouse) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 851 |
-| 2026-11-05 20:44:55 | [2026–27 Pacific Tigers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Pacific_Tigers_men%27s_basketball_team) | [Elijah 1022](https://en.wikipedia.org/wiki/User:Elijah_1022) | 3,867 |
-| 2026-11-05 20:46:45 | [Chornyi Lis](https://en.wikipedia.org/wiki/Chornyi_Lis) | [Skoropadsky](https://en.wikipedia.org/wiki/User:Skoropadsky) | 3,771 |
-| 2026-11-05 20:51:27 | [Aria parviloba](https://en.wikipedia.org/wiki/Aria_parviloba) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 8,985 |
-| 2026-11-05 20:51:30 | [Mariia Miachina](https://en.wikipedia.org/wiki/Mariia_Miachina) | [Majochka](https://en.wikipedia.org/wiki/User:Majochka) | 4,376 |
-| 2026-11-05 20:53:08 | [John Edmund Halpin](https://en.wikipedia.org/wiki/John_Edmund_Halpin) | [Smirkybec](https://en.wikipedia.org/wiki/User:Smirkybec) | 3,887 |
-| 2026-11-05 20:53:52 | [Michael J. Sosulski](https://en.wikipedia.org/wiki/Michael_J._Sosulski) | [Nataliacgj](https://en.wikipedia.org/wiki/User:Nataliacgj) | 1,973 |
-| 2026-11-05 20:56:24 | [2026–27 Boston University Terriers women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Boston_University_Terriers_women%27s_basketball_team) | [Bremerton98310](https://en.wikipedia.org/wiki/User:Bremerton98310) | 12,983 |
-| 2026-11-05 20:56:55 | [AZD-3043](https://en.wikipedia.org/wiki/AZD-3043) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 4,084 |
-| 2026-11-05 20:57:28 | [List of Galatasaray S.K. foreign footballers](https://en.wikipedia.org/wiki/List_of_Galatasaray_S.K._foreign_footballers) | [Ozanozan](https://en.wikipedia.org/wiki/User:Ozanozan) | 8,287 |
-| 2026-11-05 20:58:41 | [Lífeyrissjóður starfsmanna ríkisins](https://en.wikipedia.org/wiki/L%C3%ADfeyrissj%C3%B3%C3%B0ur_starfsmanna_r%C3%ADkisins) | [Jóhannesbjarki](https://en.wikipedia.org/wiki/User:J%C3%B3hannesbjarki) | 5,215 |
-| 2026-11-05 20:59:21 | [Country Club of Fairfield](https://en.wikipedia.org/wiki/Country_Club_of_Fairfield) | [Dlions1](https://en.wikipedia.org/wiki/User:Dlions1) | 17,887 |
-| 2026-11-05 20:59:57 | [United California Bank Building (Los Angeles)](https://en.wikipedia.org/wiki/United_California_Bank_Building_%28Los_Angeles%29) | [Gb321](https://en.wikipedia.org/wiki/User:Gb321) | 4,952 |
-| 2026-11-05 21:03:39 | [Aeonium gomerense](https://en.wikipedia.org/wiki/Aeonium_gomerense) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 2,201 |
-| 2026-11-05 21:05:05 | [Olivier Schrauwen](https://en.wikipedia.org/wiki/Olivier_Schrauwen) | [Carrotrhythmpumpkins](https://en.wikipedia.org/wiki/User:Carrotrhythmpumpkins) | 7,383 |
-| 2026-11-05 21:05:23 | [Parajeilongvirus](https://en.wikipedia.org/wiki/Parajeilongvirus) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,785 |
-| 2026-11-05 21:07:13 | [Hawken's Breed](https://en.wikipedia.org/wiki/Hawken%27s_Breed) | [CharmingCanyon](https://en.wikipedia.org/wiki/User:CharmingCanyon) | 1,898 |
-| 2026-11-05 21:15:50 | [Mariya Soskova](https://en.wikipedia.org/wiki/Mariya_Soskova) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 3,085 |
+| 2026-11-05 21:22:41 | [2026–27 Mercer Bears men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Mercer_Bears_men%27s_basketball_team) | [Buffalow77](https://en.wikipedia.org/wiki/User:Buffalow77) | 21,202 |
+| 2026-11-05 21:23:13 | [Francis W. Seeley](https://en.wikipedia.org/wiki/Francis_W._Seeley) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 13,076 |
+| 2026-11-05 21:30:36 | [Higor Luiz de Souza](https://en.wikipedia.org/wiki/Higor_Luiz_de_Souza) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 5,844 |
+| 2026-11-05 21:42:28 | [Sander van der Eijk](https://en.wikipedia.org/wiki/Sander_van_der_Eijk) | [XyloNerd](https://en.wikipedia.org/wiki/User:XyloNerd) | 2,405 |
+| 2026-11-05 21:55:55 | [Fred E. Schrader](https://en.wikipedia.org/wiki/Fred_E._Schrader) | [Nicodemism](https://en.wikipedia.org/wiki/User:Nicodemism) | 14,754 |
+| 2026-11-05 21:58:48 | [Christmas Island crab migration](https://en.wikipedia.org/wiki/Christmas_Island_crab_migration) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 6,962 |
+| 2026-11-05 22:02:34 | [Lucky Weekend](https://en.wikipedia.org/wiki/Lucky_Weekend) | [Bearcat](https://en.wikipedia.org/wiki/User:Bearcat) | 3,964 |
+| 2026-11-05 22:05:25 | [Brandon Crane](https://en.wikipedia.org/wiki/Brandon_Crane) | [S1r Gawa1n 2004](https://en.wikipedia.org/wiki/User:S1r_Gawa1n_2004) | 1,566 |
+| 2026-11-05 22:05:52 | [Robyn Gulley](https://en.wikipedia.org/wiki/Robyn_Gulley) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 704 |
+| 2026-11-05 22:07:59 | [Massimo Livi Bacci](https://en.wikipedia.org/wiki/Massimo_Livi_Bacci) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 8,124 |
+| 2026-11-05 22:12:17 | [Sean boy-jo (Performer)](https://en.wikipedia.org/wiki/Sean_boy-jo_%28Performer%29) | [Rainbowlover93](https://en.wikipedia.org/wiki/User:Rainbowlover93) | 5,571 |
+| 2026-11-05 22:13:21 | [Aria decipientiformis](https://en.wikipedia.org/wiki/Aria_decipientiformis) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 7,305 |
+| 2026-11-05 22:14:30 | [Jean-Marc Palm](https://en.wikipedia.org/wiki/Jean-Marc_Palm) | [Mohamad Darlin](https://en.wikipedia.org/wiki/User:Mohamad_Darlin) | 970 |
+| 2026-11-05 22:15:15 | [United States complicity in Gaza genocide](https://en.wikipedia.org/wiki/United_States_complicity_in_Gaza_genocide) | [Crampcomes](https://en.wikipedia.org/wiki/User:Crampcomes) | 2,801 |
+| 2026-11-05 22:17:20 | [Angus MacIntyre (British politician)](https://en.wikipedia.org/wiki/Angus_MacIntyre_%28British_politician%29) | [H.Brian Griffin](https://en.wikipedia.org/wiki/User:H.Brian_Griffin) | 5,657 |
