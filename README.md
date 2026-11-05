@@ -13,44 +13,42 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-05 06:21 UTC](data/en/new-articles-2026-11-05T06-21-01Z.csv) | 12 |
-| Japanese | `ja` | [2026-11-05 06:21 UTC](data/ja/new-articles-2026-11-05T06-21-01Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-05 06:21 UTC](data/zh/new-articles-2026-11-05T06-21-01Z.csv) | 4 |
+| English | `en` | [2026-11-05 07:23 UTC](data/en/new-articles-2026-11-05T07-23-22Z.csv) | 10 |
+| Japanese | `ja` | [2026-11-05 07:23 UTC](data/ja/new-articles-2026-11-05T07-23-22Z.csv) | 7 |
+| Chinese | `zh` | [2026-11-05 07:23 UTC](data/zh/new-articles-2026-11-05T07-23-22Z.csv) | 8 |
 | French | `fr` | [2026-11-05 06:21 UTC](data/fr/new-articles-2026-11-05T06-21-01Z.csv) | 5 |
-| German | `de` | [2026-11-05 06:21 UTC](data/de/new-articles-2026-11-05T06-21-01Z.csv) | 2 |
-| Russian | `ru` | [2026-11-05 06:21 UTC](data/ru/new-articles-2026-11-05T06-21-01Z.csv) | 5 |
-| Spanish | `es` | [2026-11-05 06:21 UTC](data/es/new-articles-2026-11-05T06-21-01Z.csv) | 3 |
-| Italian | `it` | [2026-11-05 06:21 UTC](data/it/new-articles-2026-11-05T06-21-01Z.csv) | 17 |
-| Portuguese | `pt` | [2026-11-05 05:19 UTC](data/pt/new-articles-2026-11-05T05-19-29Z.csv) | 3 |
+| German | `de` | [2026-11-05 07:23 UTC](data/de/new-articles-2026-11-05T07-23-22Z.csv) | 3 |
+| Russian | `ru` | [2026-11-05 07:23 UTC](data/ru/new-articles-2026-11-05T07-23-22Z.csv) | 7 |
+| Spanish | `es` | [2026-11-05 07:23 UTC](data/es/new-articles-2026-11-05T07-23-22Z.csv) | 1 |
+| Italian | `it` | [2026-11-05 07:23 UTC](data/it/new-articles-2026-11-05T07-23-22Z.csv) | 3 |
+| Portuguese | `pt` | [2026-11-05 07:23 UTC](data/pt/new-articles-2026-11-05T07-23-22Z.csv) | 2 |
 | Polish | `pl` | [2026-11-05 06:21 UTC](data/pl/new-articles-2026-11-05T06-21-01Z.csv) | 2 |
-| Arabic | `ar` | [2026-11-05 06:21 UTC](data/ar/new-articles-2026-11-05T06-21-01Z.csv) | 3 |
-| Persian | `fa` | [2026-11-05 06:21 UTC](data/fa/new-articles-2026-11-05T06-21-01Z.csv) | 4 |
-| Turkish | `tr` | [2026-11-05 06:21 UTC](data/tr/new-articles-2026-11-05T06-21-01Z.csv) | 6 |
-| Hebrew | `he` | [2026-11-05 06:21 UTC](data/he/new-articles-2026-11-05T06-21-01Z.csv) | 4 |
+| Arabic | `ar` | [2026-11-05 07:23 UTC](data/ar/new-articles-2026-11-05T07-23-22Z.csv) | 3 |
+| Persian | `fa` | [2026-11-05 07:23 UTC](data/fa/new-articles-2026-11-05T07-23-22Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-05 07:23 UTC](data/tr/new-articles-2026-11-05T07-23-22Z.csv) | 10 |
+| Hebrew | `he` | [2026-11-05 07:23 UTC](data/he/new-articles-2026-11-05T07-23-22Z.csv) | 4 |
 | Swedish | `sv` | [2026-11-05 01:18 UTC](data/sv/new-articles-2026-11-05T01-18-53Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-05 06:21 UTC](data/nl/new-articles-2026-11-05T06-21-01Z.csv) | 3 |
-| Korean | `ko` | [2026-11-05 06:21 UTC](data/ko/new-articles-2026-11-05T06-21-01Z.csv) | 4 |
-| Indonesian | `id` | [2026-11-05 06:21 UTC](data/id/new-articles-2026-11-05T06-21-01Z.csv) | 12 |
-| Ukrainian | `uk` | [2026-11-05 06:21 UTC](data/uk/new-articles-2026-11-05T06-21-01Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-11-05 06:21 UTC](data/vi/new-articles-2026-11-05T06-21-01Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-05 07:23 UTC](data/nl/new-articles-2026-11-05T07-23-22Z.csv) | 1 |
+| Korean | `ko` | [2026-11-05 07:23 UTC](data/ko/new-articles-2026-11-05T07-23-22Z.csv) | 9 |
+| Indonesian | `id` | [2026-11-05 07:23 UTC](data/id/new-articles-2026-11-05T07-23-22Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-11-05 07:23 UTC](data/uk/new-articles-2026-11-05T07-23-22Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-11-05 07:23 UTC](data/vi/new-articles-2026-11-05T07-23-22Z.csv) | 6 |
 
-## English (en) — 2026-11-05 06:21 UTC
+## English (en) — 2026-11-05 07:23 UTC
 
-New articles created between 2026-11-05 05:19 UTC and 2026-11-05 06:21 UTC.
+New articles created between 2026-11-05 06:21 UTC and 2026-11-05 07:23 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-05T06-21-01Z.csv)
+[Full CSV](data/en/new-articles-2026-11-05T07-23-22Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-05 05:25:26 | [Frankie Hughes (boxer)](https://en.wikipedia.org/wiki/Frankie_Hughes_%28boxer%29) | [GOAT Bones231012](https://en.wikipedia.org/wiki/User:GOAT_Bones231012) | 41,348 |
-| 2026-11-05 05:29:20 | [Rishi Das](https://en.wikipedia.org/wiki/Rishi_Das) | [Mizuroo](https://en.wikipedia.org/wiki/User:Mizuroo) | 9 |
-| 2026-11-05 05:30:36 | [2026 Vijayawada Municipal Corporation election](https://en.wikipedia.org/wiki/2026_Vijayawada_Municipal_Corporation_election) | [Kudich96](https://en.wikipedia.org/wiki/User:Kudich96) | 10,330 |
-| 2026-11-05 05:43:13 | [Dejazmach Jote Tulu](https://en.wikipedia.org/wiki/Dejazmach_Jote_Tulu) | [Leibah](https://en.wikipedia.org/wiki/User:Leibah) | 3,420 |
-| 2026-11-05 05:45:51 | [We are Busy Bodies ( record label)](https://en.wikipedia.org/wiki/We_are_Busy_Bodies_%28_record_label%29) | [Musicsoundsite](https://en.wikipedia.org/wiki/User:Musicsoundsite) | 9,166 |
-| 2026-11-05 05:58:39 | [Jess Rivera](https://en.wikipedia.org/wiki/Jess_Rivera) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 4,510 |
-| 2026-11-05 06:00:27 | [Jessica Bichler](https://en.wikipedia.org/wiki/Jessica_Bichler) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,387 |
-| 2026-11-05 06:03:39 | [April Cook](https://en.wikipedia.org/wiki/April_Cook) | [QuaintCable](https://en.wikipedia.org/wiki/User:QuaintCable) | 5,367 |
-| 2026-11-05 06:09:31 | [Abdelnasser Abdelfatah](https://en.wikipedia.org/wiki/Abdelnasser_Abdelfatah) | [رمضانوآيت الله](https://en.wikipedia.org/wiki/User:%D8%B1%D9%85%D8%B6%D8%A7%D9%86%D9%88%D8%A2%D9%8A%D8%AA_%D8%A7%D9%84%D9%84%D9%87) | 20,248 |
-| 2026-11-05 06:09:37 | [CD Fuenlabrada Atlantis](https://en.wikipedia.org/wiki/CD_Fuenlabrada_Atlantis) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 10,813 |
-| 2026-11-05 06:13:44 | [2026 Women's Nkosi Cup](https://en.wikipedia.org/wiki/2026_Women%27s_Nkosi_Cup) | [Axxter99](https://en.wikipedia.org/wiki/User:Axxter99) | 1,645 |
-| 2026-11-05 06:17:18 | [Banque Worms v. Bankamerica](https://en.wikipedia.org/wiki/Banque_Worms_v._Bankamerica) | [Blythwood](https://en.wikipedia.org/wiki/User:Blythwood) | 4,231 |
+| 2026-11-05 06:30:31 | [NGC 7385](https://en.wikipedia.org/wiki/NGC_7385) | [Galaxybeing](https://en.wikipedia.org/wiki/User:Galaxybeing) | 11,874 |
+| 2026-11-05 06:39:07 | [Bård Skogen](https://en.wikipedia.org/wiki/B%C3%A5rd_Skogen) | [Derlinus](https://en.wikipedia.org/wiki/User:Derlinus) | 7,725 |
+| 2026-11-05 06:39:34 | [2026–27 Euro Hockey Tour](https://en.wikipedia.org/wiki/2026%E2%80%9327_Euro_Hockey_Tour) | [Rnauser](https://en.wikipedia.org/wiki/User:Rnauser) | 8,034 |
+| 2026-11-05 06:46:00 | [Francisco Reidiney Duarte Gomes](https://en.wikipedia.org/wiki/Francisco_Reidiney_Duarte_Gomes) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 5,185 |
+| 2026-11-05 06:50:30 | [2026 Indonesia wiretapping incident](https://en.wikipedia.org/wiki/2026_Indonesia_wiretapping_incident) | [Jeromi Mikhael](https://en.wikipedia.org/wiki/User:Jeromi_Mikhael) | 1,611 |
+| 2026-11-05 06:55:12 | [Lasioglossum tamburinei](https://en.wikipedia.org/wiki/Lasioglossum_tamburinei) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,475 |
+| 2026-11-05 07:06:51 | [2026 Swiss Ice Hockey Games](https://en.wikipedia.org/wiki/2026_Swiss_Ice_Hockey_Games) | [Rnauser](https://en.wikipedia.org/wiki/User:Rnauser) | 11,821 |
+| 2026-11-05 07:13:21 | [Dudley Harrison](https://en.wikipedia.org/wiki/Dudley_Harrison) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,525 |
+| 2026-11-05 07:15:38 | [Mohamed Mahmoud al-Tablawi](https://en.wikipedia.org/wiki/Mohamed_Mahmoud_al-Tablawi) | [CtrlZultan](https://en.wikipedia.org/wiki/User:CtrlZultan) | 5,584 |
+| 2026-11-05 07:18:16 | [Ali Rae Horsted](https://en.wikipedia.org/wiki/Ali_Rae_Horsted) | [Roc0ast3r](https://en.wikipedia.org/wiki/User:Roc0ast3r) | 1,695 |
