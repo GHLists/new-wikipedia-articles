@@ -13,42 +13,36 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-06 08:20 UTC](data/en/new-articles-2026-11-06T08-20-11Z.csv) | 10 |
-| Japanese | `ja` | [2026-11-06 08:20 UTC](data/ja/new-articles-2026-11-06T08-20-11Z.csv) | 7 |
-| Chinese | `zh` | [2026-11-06 08:20 UTC](data/zh/new-articles-2026-11-06T08-20-11Z.csv) | 5 |
-| French | `fr` | [2026-11-06 08:20 UTC](data/fr/new-articles-2026-11-06T08-20-11Z.csv) | 1 |
-| German | `de` | [2026-11-06 08:20 UTC](data/de/new-articles-2026-11-06T08-20-11Z.csv) | 8 |
-| Russian | `ru` | [2026-11-06 08:20 UTC](data/ru/new-articles-2026-11-06T08-20-11Z.csv) | 11 |
-| Spanish | `es` | [2026-11-06 08:20 UTC](data/es/new-articles-2026-11-06T08-20-11Z.csv) | 6 |
-| Italian | `it` | [2026-11-06 07:19 UTC](data/it/new-articles-2026-11-06T07-19-02Z.csv) | 2 |
-| Portuguese | `pt` | [2026-11-06 07:19 UTC](data/pt/new-articles-2026-11-06T07-19-02Z.csv) | 1 |
-| Polish | `pl` | [2026-11-06 08:20 UTC](data/pl/new-articles-2026-11-06T08-20-11Z.csv) | 15 |
-| Arabic | `ar` | [2026-11-06 08:20 UTC](data/ar/new-articles-2026-11-06T08-20-11Z.csv) | 2 |
-| Persian | `fa` | [2026-11-06 08:20 UTC](data/fa/new-articles-2026-11-06T08-20-11Z.csv) | 24 |
-| Turkish | `tr` | [2026-11-06 08:20 UTC](data/tr/new-articles-2026-11-06T08-20-11Z.csv) | 8 |
-| Hebrew | `he` | [2026-11-06 08:20 UTC](data/he/new-articles-2026-11-06T08-20-11Z.csv) | 6 |
-| Swedish | `sv` | [2026-11-06 08:20 UTC](data/sv/new-articles-2026-11-06T08-20-11Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-06 08:20 UTC](data/nl/new-articles-2026-11-06T08-20-11Z.csv) | 2 |
-| Korean | `ko` | [2026-11-06 08:20 UTC](data/ko/new-articles-2026-11-06T08-20-11Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-06 08:20 UTC](data/id/new-articles-2026-11-06T08-20-11Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-11-06 07:19 UTC](data/uk/new-articles-2026-11-06T07-19-02Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-11-06 08:20 UTC](data/vi/new-articles-2026-11-06T08-20-11Z.csv) | 5 |
+| English | `en` | [2026-11-06 09:18 UTC](data/en/new-articles-2026-11-06T09-18-55Z.csv) | 4 |
+| Japanese | `ja` | [2026-11-06 09:18 UTC](data/ja/new-articles-2026-11-06T09-18-55Z.csv) | 6 |
+| Chinese | `zh` | [2026-11-06 09:18 UTC](data/zh/new-articles-2026-11-06T09-18-55Z.csv) | 7 |
+| French | `fr` | [2026-11-06 09:18 UTC](data/fr/new-articles-2026-11-06T09-18-55Z.csv) | 5 |
+| German | `de` | [2026-11-06 09:18 UTC](data/de/new-articles-2026-11-06T09-18-55Z.csv) | 7 |
+| Russian | `ru` | [2026-11-06 09:18 UTC](data/ru/new-articles-2026-11-06T09-18-55Z.csv) | 23 |
+| Spanish | `es` | [2026-11-06 09:18 UTC](data/es/new-articles-2026-11-06T09-18-55Z.csv) | 21 |
+| Italian | `it` | [2026-11-06 09:18 UTC](data/it/new-articles-2026-11-06T09-18-55Z.csv) | 3 |
+| Portuguese | `pt` | [2026-11-06 09:18 UTC](data/pt/new-articles-2026-11-06T09-18-55Z.csv) | 2 |
+| Polish | `pl` | [2026-11-06 09:18 UTC](data/pl/new-articles-2026-11-06T09-18-55Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-06 09:18 UTC](data/ar/new-articles-2026-11-06T09-18-55Z.csv) | 5 |
+| Persian | `fa` | [2026-11-06 09:18 UTC](data/fa/new-articles-2026-11-06T09-18-55Z.csv) | 42 |
+| Turkish | `tr` | [2026-11-06 09:18 UTC](data/tr/new-articles-2026-11-06T09-18-55Z.csv) | 7 |
+| Hebrew | `he` | [2026-11-06 09:18 UTC](data/he/new-articles-2026-11-06T09-18-55Z.csv) | 7 |
+| Swedish | `sv` | [2026-11-06 09:18 UTC](data/sv/new-articles-2026-11-06T09-18-55Z.csv) | 7 |
+| Dutch | `nl` | [2026-11-06 09:18 UTC](data/nl/new-articles-2026-11-06T09-18-55Z.csv) | 4 |
+| Korean | `ko` | [2026-11-06 09:18 UTC](data/ko/new-articles-2026-11-06T09-18-55Z.csv) | 4 |
+| Indonesian | `id` | [2026-11-06 09:18 UTC](data/id/new-articles-2026-11-06T09-18-55Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-11-06 09:18 UTC](data/uk/new-articles-2026-11-06T09-18-55Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-06 09:18 UTC](data/vi/new-articles-2026-11-06T09-18-55Z.csv) | 1 |
 
-## English (en) — 2026-11-06 08:20 UTC
+## English (en) — 2026-11-06 09:18 UTC
 
-New articles created between 2026-11-06 07:19 UTC and 2026-11-06 08:20 UTC.
+New articles created between 2026-11-06 08:20 UTC and 2026-11-06 09:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-06T08-20-11Z.csv)
+[Full CSV](data/en/new-articles-2026-11-06T09-18-55Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-06 07:23:55 | [2026 Cali Open WTA 125 – Doubles](https://en.wikipedia.org/wiki/2026_Cali_Open_WTA_125_%E2%80%93_Doubles) | [WildCherry06](https://en.wikipedia.org/wiki/User:WildCherry06) | 3,578 |
-| 2026-11-06 07:29:15 | [Fila onide](https://en.wikipedia.org/wiki/Fila_onide) | [Oramfe](https://en.wikipedia.org/wiki/User:Oramfe) | 2,001 |
-| 2026-11-06 07:29:54 | [2018 East Asian Baseball Cup](https://en.wikipedia.org/wiki/2018_East_Asian_Baseball_Cup) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 2,300 |
-| 2026-11-06 07:31:15 | [François Desset](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Desset) | [Sukidambi](https://en.wikipedia.org/wiki/User:Sukidambi) | 695 |
-| 2026-11-06 07:37:13 | [Jesús María de Jesús Moya](https://en.wikipedia.org/wiki/Jes%C3%BAs_Mar%C3%ADa_de_Jes%C3%BAs_Moya) | [Noel baran](https://en.wikipedia.org/wiki/User:Noel_baran) | 7,201 |
-| 2026-11-06 07:40:48 | [Thu Thảo Nguyễn](https://en.wikipedia.org/wiki/Thu_Th%E1%BA%A3o_Nguy%E1%BB%85n) | [Rc ramz](https://en.wikipedia.org/wiki/User:Rc_ramz) | 3,255 |
-| 2026-11-06 07:43:39 | [Jeilongvirus](https://en.wikipedia.org/wiki/Jeilongvirus) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,940 |
-| 2026-11-06 07:51:24 | [Narmovirus](https://en.wikipedia.org/wiki/Narmovirus) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,135 |
-| 2026-11-06 07:54:41 | [CMLL vs. MLW 2](https://en.wikipedia.org/wiki/CMLL_vs._MLW_2) | [PacmanPuncher72](https://en.wikipedia.org/wiki/User:PacmanPuncher72) | 7,201 |
-| 2026-11-06 08:04:44 | [West Marsh Mill, West Somerton](https://en.wikipedia.org/wiki/West_Marsh_Mill%2C_West_Somerton) | [Mjroots](https://en.wikipedia.org/wiki/User:Mjroots) | 3,454 |
+| 2026-11-06 08:30:18 | [Doreen Okong Alaleit](https://en.wikipedia.org/wiki/Doreen_Okong_Alaleit) | [Emma Oruk](https://en.wikipedia.org/wiki/User:Emma_Oruk) | 4,034 |
+| 2026-11-06 08:31:32 | [Dead Inside (Nita Strauss song)](https://en.wikipedia.org/wiki/Dead_Inside_%28Nita_Strauss_song%29) | [Flemza](https://en.wikipedia.org/wiki/User:Flemza) | 19,670 |
+| 2026-11-06 08:36:08 | [Capture of Barda](https://en.wikipedia.org/wiki/Capture_of_Barda) | [Hasanakhi05](https://en.wikipedia.org/wiki/User:Hasanakhi05) | 6,726 |
+| 2026-11-06 09:01:23 | [Younger baronets of Auchen Castle (1911)](https://en.wikipedia.org/wiki/Younger_baronets_of_Auchen_Castle_%281911%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,705 |
