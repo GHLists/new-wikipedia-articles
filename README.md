@@ -13,53 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-06 13:20 UTC](data/en/new-articles-2026-11-06T13-20-32Z.csv) | 21 |
-| Japanese | `ja` | [2026-11-06 13:20 UTC](data/ja/new-articles-2026-11-06T13-20-32Z.csv) | 7 |
-| Chinese | `zh` | [2026-11-06 13:20 UTC](data/zh/new-articles-2026-11-06T13-20-32Z.csv) | 6 |
-| French | `fr` | [2026-11-06 13:20 UTC](data/fr/new-articles-2026-11-06T13-20-32Z.csv) | 7 |
-| German | `de` | [2026-11-06 13:20 UTC](data/de/new-articles-2026-11-06T13-20-32Z.csv) | 9 |
-| Russian | `ru` | [2026-11-06 13:20 UTC](data/ru/new-articles-2026-11-06T13-20-32Z.csv) | 23 |
-| Spanish | `es` | [2026-11-06 13:20 UTC](data/es/new-articles-2026-11-06T13-20-32Z.csv) | 8 |
-| Italian | `it` | [2026-11-06 13:20 UTC](data/it/new-articles-2026-11-06T13-20-32Z.csv) | 7 |
-| Portuguese | `pt` | [2026-11-06 13:20 UTC](data/pt/new-articles-2026-11-06T13-20-32Z.csv) | 2 |
-| Polish | `pl` | [2026-11-06 13:20 UTC](data/pl/new-articles-2026-11-06T13-20-32Z.csv) | 7 |
-| Arabic | `ar` | [2026-11-06 13:20 UTC](data/ar/new-articles-2026-11-06T13-20-32Z.csv) | 2 |
-| Persian | `fa` | [2026-11-06 13:20 UTC](data/fa/new-articles-2026-11-06T13-20-32Z.csv) | 12 |
-| Turkish | `tr` | [2026-11-06 13:20 UTC](data/tr/new-articles-2026-11-06T13-20-32Z.csv) | 9 |
-| Hebrew | `he` | [2026-11-06 13:20 UTC](data/he/new-articles-2026-11-06T13-20-32Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-06 13:20 UTC](data/sv/new-articles-2026-11-06T13-20-32Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-06 13:20 UTC](data/nl/new-articles-2026-11-06T13-20-32Z.csv) | 3 |
-| Korean | `ko` | [2026-11-06 13:20 UTC](data/ko/new-articles-2026-11-06T13-20-32Z.csv) | 8 |
-| Indonesian | `id` | [2026-11-06 13:20 UTC](data/id/new-articles-2026-11-06T13-20-32Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-06 13:20 UTC](data/uk/new-articles-2026-11-06T13-20-32Z.csv) | 4 |
+| English | `en` | [2026-11-06 14:21 UTC](data/en/new-articles-2026-11-06T14-21-45Z.csv) | 16 |
+| Japanese | `ja` | [2026-11-06 14:21 UTC](data/ja/new-articles-2026-11-06T14-21-45Z.csv) | 7 |
+| Chinese | `zh` | [2026-11-06 14:21 UTC](data/zh/new-articles-2026-11-06T14-21-45Z.csv) | 4 |
+| French | `fr` | [2026-11-06 14:21 UTC](data/fr/new-articles-2026-11-06T14-21-45Z.csv) | 6 |
+| German | `de` | [2026-11-06 14:21 UTC](data/de/new-articles-2026-11-06T14-21-45Z.csv) | 6 |
+| Russian | `ru` | [2026-11-06 14:21 UTC](data/ru/new-articles-2026-11-06T14-21-45Z.csv) | 17 |
+| Spanish | `es` | [2026-11-06 14:21 UTC](data/es/new-articles-2026-11-06T14-21-45Z.csv) | 6 |
+| Italian | `it` | [2026-11-06 14:21 UTC](data/it/new-articles-2026-11-06T14-21-45Z.csv) | 16 |
+| Portuguese | `pt` | [2026-11-06 14:21 UTC](data/pt/new-articles-2026-11-06T14-21-45Z.csv) | 14 |
+| Polish | `pl` | [2026-11-06 14:21 UTC](data/pl/new-articles-2026-11-06T14-21-45Z.csv) | 3 |
+| Arabic | `ar` | [2026-11-06 14:21 UTC](data/ar/new-articles-2026-11-06T14-21-45Z.csv) | 13 |
+| Persian | `fa` | [2026-11-06 14:21 UTC](data/fa/new-articles-2026-11-06T14-21-45Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-06 14:21 UTC](data/tr/new-articles-2026-11-06T14-21-45Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-06 14:21 UTC](data/he/new-articles-2026-11-06T14-21-45Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-06 14:21 UTC](data/sv/new-articles-2026-11-06T14-21-45Z.csv) | 8 |
+| Dutch | `nl` | [2026-11-06 14:21 UTC](data/nl/new-articles-2026-11-06T14-21-45Z.csv) | 3 |
+| Korean | `ko` | [2026-11-06 14:21 UTC](data/ko/new-articles-2026-11-06T14-21-45Z.csv) | 12 |
+| Indonesian | `id` | [2026-11-06 14:21 UTC](data/id/new-articles-2026-11-06T14-21-45Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-06 14:21 UTC](data/uk/new-articles-2026-11-06T14-21-45Z.csv) | 4 |
 | Vietnamese | `vi` | [2026-11-06 13:20 UTC](data/vi/new-articles-2026-11-06T13-20-32Z.csv) | 5 |
 
-## English (en) — 2026-11-06 13:20 UTC
+## English (en) — 2026-11-06 14:21 UTC
 
-New articles created between 2026-11-06 12:19 UTC and 2026-11-06 13:20 UTC.
+New articles created between 2026-11-06 13:20 UTC and 2026-11-06 14:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-06T13-20-32Z.csv)
+[Full CSV](data/en/new-articles-2026-11-06T14-21-45Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-06 12:22:23 | [Edo Broadcasting Service](https://en.wikipedia.org/wiki/Edo_Broadcasting_Service) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 2,620 |
-| 2026-11-06 12:22:32 | [Ward baronets of Bixley (1660)](https://en.wikipedia.org/wiki/Ward_baronets_of_Bixley_%281660%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,995 |
-| 2026-11-06 12:26:40 | [Jaime Cárdenas Pardo](https://en.wikipedia.org/wiki/Jaime_C%C3%A1rdenas_Pardo) | [Haunted Spy](https://en.wikipedia.org/wiki/User:Haunted_Spy) | 11,086 |
-| 2026-11-06 12:28:39 | [Ukrainian list of Sandarmokh](https://en.wikipedia.org/wiki/Ukrainian_list_of_Sandarmokh) | [Buruneng](https://en.wikipedia.org/wiki/User:Buruneng) | 31,364 |
-| 2026-11-06 12:34:09 | [List of Ohio hurricanes](https://en.wikipedia.org/wiki/List_of_Ohio_hurricanes) | [Cailfornia](https://en.wikipedia.org/wiki/User:Cailfornia) | 32,503 |
-| 2026-11-06 12:34:21 | [Samia-Bugwe Kingdom](https://en.wikipedia.org/wiki/Samia-Bugwe_Kingdom) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 9,418 |
-| 2026-11-06 12:35:37 | [Cuttell (surname)](https://en.wikipedia.org/wiki/Cuttell_%28surname%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 370 |
-| 2026-11-06 12:44:15 | [L'hôtel National](https://en.wikipedia.org/wiki/L%27h%C3%B4tel_National) | [Lionelhunter200](https://en.wikipedia.org/wiki/User:Lionelhunter200) | 1,352 |
-| 2026-11-06 12:45:44 | [Alice Olander](https://en.wikipedia.org/wiki/Alice_Olander) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 3,811 |
-| 2026-11-06 12:47:14 | [Kanchanvan](https://en.wikipedia.org/wiki/Kanchanvan) | [Sntshkumar750](https://en.wikipedia.org/wiki/User:Sntshkumar750) | 2,355 |
-| 2026-11-06 12:50:14 | [Swimming at the 2026 Summer Youth Olympics – Men's 50 metre butterfly](https://en.wikipedia.org/wiki/Swimming_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Men%27s_50_metre_butterfly) | [MUAdìlö](https://en.wikipedia.org/wiki/User:MUAd%C3%ACl%C3%B6) | 1,167 |
-| 2026-11-06 12:52:02 | [Overbaugh](https://en.wikipedia.org/wiki/Overbaugh) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 375 |
-| 2026-11-06 12:54:29 | [Fausto Ramón Mejía Vallejo](https://en.wikipedia.org/wiki/Fausto_Ram%C3%B3n_Mej%C3%ADa_Vallejo) | [Noel baran](https://en.wikipedia.org/wiki/User:Noel_baran) | 8,813 |
-| 2026-11-06 13:02:02 | [Juthapich Indrajundra](https://en.wikipedia.org/wiki/Juthapich_Indrajundra) | [Girlypop Magnemite](https://en.wikipedia.org/wiki/User:Girlypop_Magnemite) | 16,501 |
-| 2026-11-06 13:02:22 | [Swimming at the 2026 Summer Youth Olympics – Men's 200 metre butterfly](https://en.wikipedia.org/wiki/Swimming_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Men%27s_200_metre_butterfly) | [MUAdìlö](https://en.wikipedia.org/wiki/User:MUAd%C3%ACl%C3%B6) | 1,314 |
-| 2026-11-06 13:02:49 | [Charu Singha, Charing Raja](https://en.wikipedia.org/wiki/Charu_Singha%2C_Charing_Raja) | [THeShavidow1](https://en.wikipedia.org/wiki/User:THeShavidow1) | 4,952 |
-| 2026-11-06 13:06:30 | [Ward baronets of Killagh (1682)](https://en.wikipedia.org/wiki/Ward_baronets_of_Killagh_%281682%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,450 |
-| 2026-11-06 13:11:46 | [Teghaza 001](https://en.wikipedia.org/wiki/Teghaza_001) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 4,809 |
-| 2026-11-06 13:11:52 | [Timeline of the 2024-2026 Serbian anti-corruption protests (August–December 2025)](https://en.wikipedia.org/wiki/Timeline_of_the_2024-2026_Serbian_anti-corruption_protests_%28August%E2%80%93December_2025%29) | [Graphite2277](https://en.wikipedia.org/wiki/User:Graphite2277) | 19,624 |
-| 2026-11-06 13:14:31 | [Nashville Yards](https://en.wikipedia.org/wiki/Nashville_Yards) | [Heroeswithmetaphors](https://en.wikipedia.org/wiki/User:Heroeswithmetaphors) | 7,708 |
-| 2026-11-06 13:14:37 | [Amani Ayed](https://en.wikipedia.org/wiki/Amani_Ayed) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 4,190 |
+| 2026-11-06 13:22:33 | [Orebaugh](https://en.wikipedia.org/wiki/Orebaugh) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 298 |
+| 2026-11-06 13:24:53 | [Global Dignity](https://en.wikipedia.org/wiki/Global_Dignity) | [Yadsalohcin](https://en.wikipedia.org/wiki/User:Yadsalohcin) | 6,821 |
+| 2026-11-06 13:30:49 | [Josip Bujanović](https://en.wikipedia.org/wiki/Josip_Bujanovi%C4%87) | [Amanuensis Balkanicus](https://en.wikipedia.org/wiki/User:Amanuensis_Balkanicus) | 17,796 |
+| 2026-11-06 13:34:58 | [France and the Russo-Ukrainian war](https://en.wikipedia.org/wiki/France_and_the_Russo-Ukrainian_war) | [The Sergei](https://en.wikipedia.org/wiki/User:The_Sergei) | 13,918 |
+| 2026-11-06 13:43:08 | [Park Hyun-bin (footballer)](https://en.wikipedia.org/wiki/Park_Hyun-bin_%28footballer%29) | [Explicit](https://en.wikipedia.org/wiki/User:Explicit) | 13,010 |
+| 2026-11-06 13:53:03 | [Jim Mitchell (lacrosse)](https://en.wikipedia.org/wiki/Jim_Mitchell_%28lacrosse%29) | [Msrinath](https://en.wikipedia.org/wiki/User:Msrinath) | 610 |
+| 2026-11-06 13:57:59 | [Expression Theory of Art](https://en.wikipedia.org/wiki/Expression_Theory_of_Art) | [Nob7752](https://en.wikipedia.org/wiki/User:Nob7752) | 1,009 |
+| 2026-11-06 13:58:31 | [Mita Chatterjee](https://en.wikipedia.org/wiki/Mita_Chatterjee) | [Babin Mew](https://en.wikipedia.org/wiki/User:Babin_Mew) | 13,823 |
+| 2026-11-06 14:02:59 | [Sayf al-Din Al-Mashhadani](https://en.wikipedia.org/wiki/Sayf_al-Din_Al-Mashhadani) | [HoraceEdits2919](https://en.wikipedia.org/wiki/User:HoraceEdits2919) | 7,795 |
+| 2026-11-06 14:03:10 | [Robert D. Adlard](https://en.wikipedia.org/wiki/Robert_D._Adlard) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-06 14:08:00 | [Nicole L. Gunter](https://en.wikipedia.org/wiki/Nicole_L._Gunter) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-06 14:11:48 | [Bective GFC](https://en.wikipedia.org/wiki/Bective_GFC) | [TwoInsurance](https://en.wikipedia.org/wiki/User:TwoInsurance) | 3,833 |
+| 2026-11-06 14:16:11 | [Ohuede](https://en.wikipedia.org/wiki/Ohuede) | [Catjacket](https://en.wikipedia.org/wiki/User:Catjacket) | 103 |
+| 2026-11-06 14:16:59 | [Babella caledonica](https://en.wikipedia.org/wiki/Babella_caledonica) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 766 |
+| 2026-11-06 14:17:49 | [Just One Before I Die](https://en.wikipedia.org/wiki/Just_One_Before_I_Die) | [NewCombo](https://en.wikipedia.org/wiki/User:NewCombo) | 6,373 |
+| 2026-11-06 14:18:46 | [James Kennelly](https://en.wikipedia.org/wiki/James_Kennelly) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 4,632 |
