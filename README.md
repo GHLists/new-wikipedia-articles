@@ -13,61 +13,58 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-06 15:19 UTC](data/en/new-articles-2026-11-06T15-19-39Z.csv) | 29 |
-| Japanese | `ja` | [2026-11-06 15:19 UTC](data/ja/new-articles-2026-11-06T15-19-39Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-06 15:19 UTC](data/zh/new-articles-2026-11-06T15-19-39Z.csv) | 21 |
-| French | `fr` | [2026-11-06 15:19 UTC](data/fr/new-articles-2026-11-06T15-19-39Z.csv) | 9 |
-| German | `de` | [2026-11-06 15:19 UTC](data/de/new-articles-2026-11-06T15-19-39Z.csv) | 9 |
-| Russian | `ru` | [2026-11-06 15:19 UTC](data/ru/new-articles-2026-11-06T15-19-39Z.csv) | 11 |
-| Spanish | `es` | [2026-11-06 15:19 UTC](data/es/new-articles-2026-11-06T15-19-39Z.csv) | 6 |
-| Italian | `it` | [2026-11-06 15:19 UTC](data/it/new-articles-2026-11-06T15-19-39Z.csv) | 8 |
-| Portuguese | `pt` | [2026-11-06 15:19 UTC](data/pt/new-articles-2026-11-06T15-19-39Z.csv) | 10 |
-| Polish | `pl` | [2026-11-06 15:19 UTC](data/pl/new-articles-2026-11-06T15-19-39Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-06 15:19 UTC](data/ar/new-articles-2026-11-06T15-19-39Z.csv) | 12 |
-| Persian | `fa` | [2026-11-06 15:19 UTC](data/fa/new-articles-2026-11-06T15-19-39Z.csv) | 19 |
-| Turkish | `tr` | [2026-11-06 15:19 UTC](data/tr/new-articles-2026-11-06T15-19-39Z.csv) | 5 |
-| Hebrew | `he` | [2026-11-06 15:19 UTC](data/he/new-articles-2026-11-06T15-19-39Z.csv) | 3 |
+| English | `en` | [2026-11-06 16:19 UTC](data/en/new-articles-2026-11-06T16-19-41Z.csv) | 26 |
+| Japanese | `ja` | [2026-11-06 16:19 UTC](data/ja/new-articles-2026-11-06T16-19-41Z.csv) | 2 |
+| Chinese | `zh` | [2026-11-06 16:19 UTC](data/zh/new-articles-2026-11-06T16-19-41Z.csv) | 14 |
+| French | `fr` | [2026-11-06 16:19 UTC](data/fr/new-articles-2026-11-06T16-19-41Z.csv) | 8 |
+| German | `de` | [2026-11-06 16:19 UTC](data/de/new-articles-2026-11-06T16-19-41Z.csv) | 13 |
+| Russian | `ru` | [2026-11-06 16:19 UTC](data/ru/new-articles-2026-11-06T16-19-41Z.csv) | 17 |
+| Spanish | `es` | [2026-11-06 16:19 UTC](data/es/new-articles-2026-11-06T16-19-41Z.csv) | 15 |
+| Italian | `it` | [2026-11-06 16:19 UTC](data/it/new-articles-2026-11-06T16-19-41Z.csv) | 7 |
+| Portuguese | `pt` | [2026-11-06 16:19 UTC](data/pt/new-articles-2026-11-06T16-19-41Z.csv) | 14 |
+| Polish | `pl` | [2026-11-06 16:19 UTC](data/pl/new-articles-2026-11-06T16-19-41Z.csv) | 4 |
+| Arabic | `ar` | [2026-11-06 16:19 UTC](data/ar/new-articles-2026-11-06T16-19-41Z.csv) | 6 |
+| Persian | `fa` | [2026-11-06 16:19 UTC](data/fa/new-articles-2026-11-06T16-19-41Z.csv) | 18 |
+| Turkish | `tr` | [2026-11-06 16:19 UTC](data/tr/new-articles-2026-11-06T16-19-41Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-06 16:19 UTC](data/he/new-articles-2026-11-06T16-19-41Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-06 15:19 UTC](data/sv/new-articles-2026-11-06T15-19-39Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-06 15:19 UTC](data/nl/new-articles-2026-11-06T15-19-39Z.csv) | 5 |
-| Korean | `ko` | [2026-11-06 15:19 UTC](data/ko/new-articles-2026-11-06T15-19-39Z.csv) | 12 |
-| Indonesian | `id` | [2026-11-06 15:19 UTC](data/id/new-articles-2026-11-06T15-19-39Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-11-06 15:19 UTC](data/uk/new-articles-2026-11-06T15-19-39Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-06 15:19 UTC](data/vi/new-articles-2026-11-06T15-19-39Z.csv) | 6 |
+| Dutch | `nl` | [2026-11-06 16:19 UTC](data/nl/new-articles-2026-11-06T16-19-41Z.csv) | 9 |
+| Korean | `ko` | [2026-11-06 16:19 UTC](data/ko/new-articles-2026-11-06T16-19-41Z.csv) | 7 |
+| Indonesian | `id` | [2026-11-06 16:19 UTC](data/id/new-articles-2026-11-06T16-19-41Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-11-06 16:19 UTC](data/uk/new-articles-2026-11-06T16-19-41Z.csv) | 12 |
+| Vietnamese | `vi` | [2026-11-06 16:19 UTC](data/vi/new-articles-2026-11-06T16-19-41Z.csv) | 1 |
 
-## English (en) — 2026-11-06 15:19 UTC
+## English (en) — 2026-11-06 16:19 UTC
 
-New articles created between 2026-11-06 14:21 UTC and 2026-11-06 15:19 UTC.
+New articles created between 2026-11-06 15:19 UTC and 2026-11-06 16:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-06T15-19-39Z.csv)
+[Full CSV](data/en/new-articles-2026-11-06T16-19-41Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-06 14:23:04 | [Mark Hollingsworth (journalist)](https://en.wikipedia.org/wiki/Mark_Hollingsworth_%28journalist%29) | [Rmasters74](https://en.wikipedia.org/wiki/User:Rmasters74) | 3,763 |
-| 2026-11-06 14:25:09 | [Babella pallida](https://en.wikipedia.org/wiki/Babella_pallida) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 747 |
-| 2026-11-06 14:30:58 | [Babella planispiralis](https://en.wikipedia.org/wiki/Babella_planispiralis) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 781 |
-| 2026-11-06 14:34:02 | [Suraia Zarin Rony](https://en.wikipedia.org/wiki/Suraia_Zarin_Rony) | [Ajijul Islam Emon](https://en.wikipedia.org/wiki/User:Ajijul_Islam_Emon) | 1,965 |
-| 2026-11-06 14:36:48 | [FC Eger](https://en.wikipedia.org/wiki/FC_Eger) | [RuthStevens](https://en.wikipedia.org/wiki/User:RuthStevens) | 2,319 |
-| 2026-11-06 14:39:54 | [Canada and the Russo-Ukrainian war](https://en.wikipedia.org/wiki/Canada_and_the_Russo-Ukrainian_war) | [The Sergei](https://en.wikipedia.org/wiki/User:The_Sergei) | 16,085 |
-| 2026-11-06 14:40:37 | [Aquitaine-Pyrenean dialects](https://en.wikipedia.org/wiki/Aquitaine-Pyrenean_dialects) | [Quince&Medlar](https://en.wikipedia.org/wiki/User:Quince%26Medlar) | 769 |
-| 2026-11-06 14:42:07 | [Princess Marie Cécilie of Prussia](https://en.wikipedia.org/wiki/Princess_Marie_C%C3%A9cilie_of_Prussia) | [Quetzal](https://en.wikipedia.org/wiki/User:Quetzal) | 8,509 |
-| 2026-11-06 14:44:21 | [Babella prominens](https://en.wikipedia.org/wiki/Babella_prominens) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 904 |
-| 2026-11-06 14:44:51 | [Hindu YUVA](https://en.wikipedia.org/wiki/Hindu_YUVA) | [Shahinshah121](https://en.wikipedia.org/wiki/User:Shahinshah121) | 5,299 |
-| 2026-11-06 14:49:44 | [2026 Afyonkarahisar shootings](https://en.wikipedia.org/wiki/2026_Afyonkarahisar_shootings) | [ErktheBerserker](https://en.wikipedia.org/wiki/User:ErktheBerserker) | 21,510 |
-| 2026-11-06 14:49:51 | [Sombra Inc.](https://en.wikipedia.org/wiki/Sombra_Inc.) | [Lorentsia](https://en.wikipedia.org/wiki/User:Lorentsia) | 7,520 |
-| 2026-11-06 14:52:12 | [Neustadt an der Waldnaab (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Neustadt_an_der_Waldnaab_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,696 |
-| 2026-11-06 14:54:21 | [Landrum High School](https://en.wikipedia.org/wiki/Landrum_High_School) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 2,339 |
-| 2026-11-06 14:57:31 | [Pleystein (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Pleystein_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,536 |
-| 2026-11-06 14:57:38 | [Curraha GAA](https://en.wikipedia.org/wiki/Curraha_GAA) | [TwoInsurance](https://en.wikipedia.org/wiki/User:TwoInsurance) | 6,536 |
-| 2026-11-06 14:57:52 | [I Kill the Bear](https://en.wikipedia.org/wiki/I_Kill_the_Bear) | [Nickmista](https://en.wikipedia.org/wiki/User:Nickmista) | 512 |
-| 2026-11-06 15:00:36 | [Pressath (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Pressath_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,555 |
-| 2026-11-06 15:02:37 | [Diego Mascardi](https://en.wikipedia.org/wiki/Diego_Mascardi) | [Ortizesp](https://en.wikipedia.org/wiki/User:Ortizesp) | 3,375 |
-| 2026-11-06 15:03:11 | [Schirmitz (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Schirmitz_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,539 |
-| 2026-11-06 15:03:51 | [Austrian Regionalliga South](https://en.wikipedia.org/wiki/Austrian_Regionalliga_South) | [Bocanegra](https://en.wikipedia.org/wiki/User:Bocanegra) | 10,539 |
-| 2026-11-06 15:04:46 | [Glenn Scolnik](https://en.wikipedia.org/wiki/Glenn_Scolnik) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 11,174 |
-| 2026-11-06 15:06:14 | [Babella ventricosa](https://en.wikipedia.org/wiki/Babella_ventricosa) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,110 |
-| 2026-11-06 15:06:46 | [Tännesberg (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/T%C3%A4nnesberg_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,531 |
-| 2026-11-06 15:10:02 | [Weiherhammer (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Weiherhammer_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,567 |
-| 2026-11-06 15:10:25 | [Jorman Álvarez](https://en.wikipedia.org/wiki/Jorman_%C3%81lvarez) | [Mypurplelightsaber](https://en.wikipedia.org/wiki/User:Mypurplelightsaber) | 10,343 |
-| 2026-11-06 15:11:13 | [Crystal Ball (band)](https://en.wikipedia.org/wiki/Crystal_Ball_%28band%29) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 6,700 |
-| 2026-11-06 15:14:33 | [Austrian Regionalliga North](https://en.wikipedia.org/wiki/Austrian_Regionalliga_North) | [Bocanegra](https://en.wikipedia.org/wiki/User:Bocanegra) | 8,215 |
-| 2026-11-06 15:15:33 | [Summer Holidays (2026 film)](https://en.wikipedia.org/wiki/Summer_Holidays_%282026_film%29) | [Ab207](https://en.wikipedia.org/wiki/User:Ab207) | 5,535 |
+| 2026-11-06 15:21:42 | [Mascardi](https://en.wikipedia.org/wiki/Mascardi) | [Ortizesp](https://en.wikipedia.org/wiki/User:Ortizesp) | 650 |
+| 2026-11-06 15:22:23 | [Steve Whisler](https://en.wikipedia.org/wiki/Steve_Whisler) | [Y2hyaXM](https://en.wikipedia.org/wiki/User:Y2hyaXM) | 20,561 |
+| 2026-11-06 15:24:55 | [Maria Czubaszek](https://en.wikipedia.org/wiki/Maria_Czubaszek) | [Franek Vetulani](https://en.wikipedia.org/wiki/User:Franek_Vetulani) | 671 |
+| 2026-11-06 15:26:39 | [Alteglofsheim (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Alteglofsheim_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,481 |
+| 2026-11-06 15:28:28 | [The Same Old Moon](https://en.wikipedia.org/wiki/The_Same_Old_Moon) | [HazelAlbertSheriff](https://en.wikipedia.org/wiki/User:HazelAlbertSheriff) | 7,496 |
+| 2026-11-06 15:29:31 | [Donaustauf (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Donaustauf_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,483 |
+| 2026-11-06 15:32:41 | [Kallmünz (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Kallm%C3%BCnz_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,476 |
+| 2026-11-06 15:33:49 | [Brian Matlock](https://en.wikipedia.org/wiki/Brian_Matlock) | [Coolxsearcher1414](https://en.wikipedia.org/wiki/User:Coolxsearcher1414) | 2,017 |
+| 2026-11-06 15:36:26 | [Bhauara Kali Mandir](https://en.wikipedia.org/wiki/Bhauara_Kali_Mandir) | [Sntshkumar750](https://en.wikipedia.org/wiki/User:Sntshkumar750) | 1,212 |
+| 2026-11-06 15:43:19 | [Píritu Municipality, Falcón](https://en.wikipedia.org/wiki/P%C3%ADritu_Municipality%2C_Falc%C3%B3n) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,227 |
+| 2026-11-06 15:44:03 | [Garous Abdolmalekian](https://en.wikipedia.org/wiki/Garous_Abdolmalekian) | [Seyadamah](https://en.wikipedia.org/wiki/User:Seyadamah) | 4,975 |
+| 2026-11-06 15:44:39 | [England women's cricket team in Sri Lanka in 2026–27](https://en.wikipedia.org/wiki/England_women%27s_cricket_team_in_Sri_Lanka_in_2026%E2%80%9327) | [Ravana](https://en.wikipedia.org/wiki/User:Ravana) | 5,617 |
+| 2026-11-06 15:49:57 | [Unión Municipality](https://en.wikipedia.org/wiki/Uni%C3%B3n_Municipality) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,265 |
+| 2026-11-06 15:50:44 | [Laaber (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Laaber_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,463 |
+| 2026-11-06 15:50:58 | [Niels Devalckeneer](https://en.wikipedia.org/wiki/Niels_Devalckeneer) | [Berre66](https://en.wikipedia.org/wiki/User:Berre66) | 3,681 |
+| 2026-11-06 15:52:39 | [Veronica Beard](https://en.wikipedia.org/wiki/Veronica_Beard) | [Heroeswithmetaphors](https://en.wikipedia.org/wiki/User:Heroeswithmetaphors) | 2,021 |
+| 2026-11-06 15:53:17 | [Pielenhofen-Wolfsegg](https://en.wikipedia.org/wiki/Pielenhofen-Wolfsegg) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,542 |
+| 2026-11-06 15:54:35 | [Grünwaldsee](https://en.wikipedia.org/wiki/Gr%C3%BCnwaldsee) | [Grilledcheeseisgreat](https://en.wikipedia.org/wiki/User:Grilledcheeseisgreat) | 2,200 |
+| 2026-11-06 15:56:48 | [Sünching (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/S%C3%BCnching_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,419 |
+| 2026-11-06 15:58:36 | [Nimeño I](https://en.wikipedia.org/wiki/Nime%C3%B1o_I) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 3,151 |
+| 2026-11-06 16:00:03 | [Wörth an der Donau (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/W%C3%B6rth_an_der_Donau_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,517 |
+| 2026-11-06 16:00:20 | [1980–81 Serie C1](https://en.wikipedia.org/wiki/1980%E2%80%9381_Serie_C1) | [ItaFootWiki](https://en.wikipedia.org/wiki/User:ItaFootWiki) | 5,671 |
+| 2026-11-06 16:07:24 | [News Publishers' Association](https://en.wikipedia.org/wiki/News_Publishers%27_Association) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 2,497 |
+| 2026-11-06 16:15:21 | [Australia women's cricket team in Sri Lanka in 2026–27](https://en.wikipedia.org/wiki/Australia_women%27s_cricket_team_in_Sri_Lanka_in_2026%E2%80%9327) | [Ravana](https://en.wikipedia.org/wiki/User:Ravana) | 2,882 |
+| 2026-11-06 16:18:36 | [Billy Mayo (actor)](https://en.wikipedia.org/wiki/Billy_Mayo_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,558 |
+| 2026-11-06 16:18:50 | [Merle Hinrich](https://en.wikipedia.org/wiki/Merle_Hinrich) | [AarvexSK](https://en.wikipedia.org/wiki/User:AarvexSK) | 5,867 |
