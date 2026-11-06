@@ -13,53 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-06 00:18 UTC](data/en/new-articles-2026-11-06T00-18-54Z.csv) | 21 |
-| Japanese | `ja` | [2026-11-06 00:18 UTC](data/ja/new-articles-2026-11-06T00-18-54Z.csv) | 6 |
-| Chinese | `zh` | [2026-11-06 00:18 UTC](data/zh/new-articles-2026-11-06T00-18-54Z.csv) | 4 |
-| French | `fr` | [2026-11-06 00:18 UTC](data/fr/new-articles-2026-11-06T00-18-54Z.csv) | 1 |
-| German | `de` | [2026-11-06 00:18 UTC](data/de/new-articles-2026-11-06T00-18-54Z.csv) | 8 |
-| Russian | `ru` | [2026-11-06 00:18 UTC](data/ru/new-articles-2026-11-06T00-18-54Z.csv) | 3 |
-| Spanish | `es` | [2026-11-06 00:18 UTC](data/es/new-articles-2026-11-06T00-18-54Z.csv) | 6 |
+| English | `en` | [2026-11-06 01:19 UTC](data/en/new-articles-2026-11-06T01-19-49Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-06 01:19 UTC](data/ja/new-articles-2026-11-06T01-19-49Z.csv) | 9 |
+| Chinese | `zh` | [2026-11-06 01:19 UTC](data/zh/new-articles-2026-11-06T01-19-49Z.csv) | 4 |
+| French | `fr` | [2026-11-06 01:19 UTC](data/fr/new-articles-2026-11-06T01-19-49Z.csv) | 3 |
+| German | `de` | [2026-11-06 01:19 UTC](data/de/new-articles-2026-11-06T01-19-49Z.csv) | 3 |
+| Russian | `ru` | [2026-11-06 01:19 UTC](data/ru/new-articles-2026-11-06T01-19-49Z.csv) | 3 |
+| Spanish | `es` | [2026-11-06 01:19 UTC](data/es/new-articles-2026-11-06T01-19-49Z.csv) | 2 |
 | Italian | `it` | [2026-11-06 00:18 UTC](data/it/new-articles-2026-11-06T00-18-54Z.csv) | 1 |
-| Portuguese | `pt` | [2026-11-06 00:18 UTC](data/pt/new-articles-2026-11-06T00-18-54Z.csv) | 20 |
-| Polish | `pl` | [2026-11-06 00:18 UTC](data/pl/new-articles-2026-11-06T00-18-54Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-06 00:18 UTC](data/ar/new-articles-2026-11-06T00-18-54Z.csv) | 2 |
-| Persian | `fa` | [2026-11-06 00:18 UTC](data/fa/new-articles-2026-11-06T00-18-54Z.csv) | 3 |
+| Portuguese | `pt` | [2026-11-06 01:19 UTC](data/pt/new-articles-2026-11-06T01-19-49Z.csv) | 23 |
+| Polish | `pl` | [2026-11-06 01:19 UTC](data/pl/new-articles-2026-11-06T01-19-49Z.csv) | 8 |
+| Arabic | `ar` | [2026-11-06 01:19 UTC](data/ar/new-articles-2026-11-06T01-19-49Z.csv) | 6 |
+| Persian | `fa` | [2026-11-06 01:19 UTC](data/fa/new-articles-2026-11-06T01-19-49Z.csv) | 4 |
 | Turkish | `tr` | [2026-11-06 00:18 UTC](data/tr/new-articles-2026-11-06T00-18-54Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-06 00:18 UTC](data/he/new-articles-2026-11-06T00-18-54Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-06 00:18 UTC](data/sv/new-articles-2026-11-06T00-18-54Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-06 00:18 UTC](data/nl/new-articles-2026-11-06T00-18-54Z.csv) | 2 |
-| Korean | `ko` | [2026-11-06 00:18 UTC](data/ko/new-articles-2026-11-06T00-18-54Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-06 00:18 UTC](data/id/new-articles-2026-11-06T00-18-54Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-06 01:19 UTC](data/sv/new-articles-2026-11-06T01-19-49Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-06 01:19 UTC](data/nl/new-articles-2026-11-06T01-19-49Z.csv) | 1 |
+| Korean | `ko` | [2026-11-06 01:19 UTC](data/ko/new-articles-2026-11-06T01-19-49Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-06 01:19 UTC](data/id/new-articles-2026-11-06T01-19-49Z.csv) | 5 |
 | Ukrainian | `uk` | [2026-11-05 23:18 UTC](data/uk/new-articles-2026-11-05T23-18-55Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-11-05 17:19 UTC](data/vi/new-articles-2026-11-05T17-19-10Z.csv) | 2 |
 
-## English (en) — 2026-11-06 00:18 UTC
+## English (en) — 2026-11-06 01:19 UTC
 
-New articles created between 2026-11-05 23:18 UTC and 2026-11-06 00:18 UTC.
+New articles created between 2026-11-06 00:18 UTC and 2026-11-06 01:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-06T00-18-54Z.csv)
+[Full CSV](data/en/new-articles-2026-11-06T01-19-49Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-05 23:23:36 | [2026 New Zealand Media Awards](https://en.wikipedia.org/wiki/2026_New_Zealand_Media_Awards) | [Slafayette](https://en.wikipedia.org/wiki/User:Slafayette) | 8,126 |
-| 2026-11-05 23:26:40 | [Chris Knoll](https://en.wikipedia.org/wiki/Chris_Knoll) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 776 |
-| 2026-11-05 23:28:28 | [Leonard Bell](https://en.wikipedia.org/wiki/Leonard_Bell) | [AnonymousScholar49](https://en.wikipedia.org/wiki/User:AnonymousScholar49) | 837 |
-| 2026-11-05 23:29:19 | [Sky Voices (TV channel)](https://en.wikipedia.org/wiki/Sky_Voices_%28TV_channel%29) | [ToyWio S](https://en.wikipedia.org/wiki/User:ToyWio_S) | 355 |
-| 2026-11-05 23:32:44 | [Magic tablecloth](https://en.wikipedia.org/wiki/Magic_tablecloth) | [Brandmeister](https://en.wikipedia.org/wiki/User:Brandmeister) | 1,347 |
-| 2026-11-05 23:35:32 | [Harpocratesius](https://en.wikipedia.org/wiki/Harpocratesius) | [MADplayerM](https://en.wikipedia.org/wiki/User:MADplayerM) | 308 |
-| 2026-11-05 23:37:16 | [Brian O'Looney](https://en.wikipedia.org/wiki/Brian_O%27Looney) | [Otto Sheva2](https://en.wikipedia.org/wiki/User:Otto_Sheva2) | 6,285 |
-| 2026-11-05 23:39:44 | [Clearwater (surname)](https://en.wikipedia.org/wiki/Clearwater_%28surname%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 739 |
-| 2026-11-05 23:49:24 | [Gordon Wallace (boxer, born 1911)](https://en.wikipedia.org/wiki/Gordon_Wallace_%28boxer%2C_born_1911%29) | [GOAT Bones231012](https://en.wikipedia.org/wiki/User:GOAT_Bones231012) | 30,640 |
-| 2026-11-05 23:56:36 | [Lisa Sheldon](https://en.wikipedia.org/wiki/Lisa_Sheldon) | [Coolxsearcher1414](https://en.wikipedia.org/wiki/User:Coolxsearcher1414) | 1,610 |
-| 2026-11-05 23:57:25 | [Domingo M. Guevarra Sr.](https://en.wikipedia.org/wiki/Domingo_M._Guevarra_Sr.) | [Chieharumachi](https://en.wikipedia.org/wiki/User:Chieharumachi) | 1,435 |
-| 2026-11-05 23:57:54 | [Cyclopropyl methoxycarbonyl metomidate](https://en.wikipedia.org/wiki/Cyclopropyl_methoxycarbonyl_metomidate) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 5,750 |
-| 2026-11-05 23:59:29 | [Patrick Hanley](https://en.wikipedia.org/wiki/Patrick_Hanley) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 670 |
-| 2026-11-06 00:00:18 | [Siege of Gabel](https://en.wikipedia.org/wiki/Siege_of_Gabel) | [Russo-winner1234](https://en.wikipedia.org/wiki/User:Russo-winner1234) | 2,654 |
-| 2026-11-06 00:00:28 | [Heggen Church](https://en.wikipedia.org/wiki/Heggen_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 5,125 |
-| 2026-11-06 00:01:53 | [Jim O'Connell (politician)](https://en.wikipedia.org/wiki/Jim_O%27Connell_%28politician%29) | [Coolxsearcher1414](https://en.wikipedia.org/wiki/User:Coolxsearcher1414) | 1,724 |
-| 2026-11-06 00:05:14 | [Woodbine (surname)](https://en.wikipedia.org/wiki/Woodbine_%28surname%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 902 |
-| 2026-11-06 00:05:25 | [List of Michelin Bib Gourmand restaurants in Thailand](https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Thailand) | [Dtmich24](https://en.wikipedia.org/wiki/User:Dtmich24) | 21,769 |
-| 2026-11-06 00:06:25 | [Forman (name)](https://en.wikipedia.org/wiki/Forman_%28name%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 6,275 |
-| 2026-11-06 00:15:26 | [2026 Senate Republican Conference leadership election](https://en.wikipedia.org/wiki/2026_Senate_Republican_Conference_leadership_election) | [Fixingthelies2025](https://en.wikipedia.org/wiki/User:Fixingthelies2025) | 2,931 |
-| 2026-11-06 00:17:25 | [L Corps](https://en.wikipedia.org/wiki/L_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 543 |
+| 2026-11-06 00:29:21 | [Kevin Nugent Jr.](https://en.wikipedia.org/wiki/Kevin_Nugent_Jr.) | [AnonymousScholar49](https://en.wikipedia.org/wiki/User:AnonymousScholar49) | 1,923 |
+| 2026-11-06 00:30:45 | [LI Corps](https://en.wikipedia.org/wiki/LI_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 498 |
+| 2026-11-06 00:32:34 | [Bruce Fletcher (artist)](https://en.wikipedia.org/wiki/Bruce_Fletcher_%28artist%29) | [Kate Corbin](https://en.wikipedia.org/wiki/User:Kate_Corbin) | 41 |
+| 2026-11-06 00:32:39 | [1985 South African Open – Doubles](https://en.wikipedia.org/wiki/1985_South_African_Open_%E2%80%93_Doubles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 4,813 |
+| 2026-11-06 00:44:37 | [Portrait of Robert de Montesquiou (Whistler)](https://en.wikipedia.org/wiki/Portrait_of_Robert_de_Montesquiou_%28Whistler%29) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,390 |
+| 2026-11-06 00:47:56 | [Kevin Malcolm](https://en.wikipedia.org/wiki/Kevin_Malcolm) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,761 |
+| 2026-11-06 00:49:00 | [LII Corps](https://en.wikipedia.org/wiki/LII_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 422 |
+| 2026-11-06 00:53:03 | [1957 Iowa State Teachers Panthers football team](https://en.wikipedia.org/wiki/1957_Iowa_State_Teachers_Panthers_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 4,368 |
+| 2026-11-06 00:55:07 | [LIII Corps](https://en.wikipedia.org/wiki/LIII_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 499 |
+| 2026-11-06 00:56:50 | [Kenn (name)](https://en.wikipedia.org/wiki/Kenn_%28name%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 2,014 |
+| 2026-11-06 00:59:37 | [LIV Corps](https://en.wikipedia.org/wiki/LIV_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 522 |
+| 2026-11-06 01:01:18 | [Rob Blanchard](https://en.wikipedia.org/wiki/Rob_Blanchard) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 1,613 |
+| 2026-11-06 01:02:02 | [LV Corps](https://en.wikipedia.org/wiki/LV_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 493 |
+| 2026-11-06 01:05:08 | [Ulluchay](https://en.wikipedia.org/wiki/Ulluchay) | [Boxes12](https://en.wikipedia.org/wiki/User:Boxes12) | 5,867 |
+| 2026-11-06 01:07:31 | [Tateishi Onojirō](https://en.wikipedia.org/wiki/Tateishi_Onojir%C5%8D) | [Nesnad](https://en.wikipedia.org/wiki/User:Nesnad) | 5,208 |
+| 2026-11-06 01:07:35 | [2026 Louisville Cardinals women's volleyball team](https://en.wikipedia.org/wiki/2026_Louisville_Cardinals_women%27s_volleyball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 29,578 |
+| 2026-11-06 01:11:09 | [Roy Lichtenstein (Warhol)](https://en.wikipedia.org/wiki/Roy_Lichtenstein_%28Warhol%29) | [Twixister](https://en.wikipedia.org/wiki/User:Twixister) | 9,733 |
+| 2026-11-06 01:18:14 | [Solumsmoen Chapel](https://en.wikipedia.org/wiki/Solumsmoen_Chapel) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 3,047 |
+| 2026-11-06 01:19:09 | [LVI Corps](https://en.wikipedia.org/wiki/LVI_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 462 |
