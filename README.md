@@ -13,51 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-06 05:19 UTC](data/en/new-articles-2026-11-06T05-19-27Z.csv) | 19 |
-| Japanese | `ja` | [2026-11-06 05:19 UTC](data/ja/new-articles-2026-11-06T05-19-27Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-06 05:19 UTC](data/zh/new-articles-2026-11-06T05-19-27Z.csv) | 1 |
-| French | `fr` | [2026-11-06 05:19 UTC](data/fr/new-articles-2026-11-06T05-19-27Z.csv) | 2 |
-| German | `de` | [2026-11-06 05:19 UTC](data/de/new-articles-2026-11-06T05-19-27Z.csv) | 5 |
-| Russian | `ru` | [2026-11-06 05:19 UTC](data/ru/new-articles-2026-11-06T05-19-27Z.csv) | 3 |
-| Spanish | `es` | [2026-11-06 05:19 UTC](data/es/new-articles-2026-11-06T05-19-27Z.csv) | 11 |
-| Italian | `it` | [2026-11-06 03:19 UTC](data/it/new-articles-2026-11-06T03-19-33Z.csv) | 1 |
-| Portuguese | `pt` | [2026-11-06 05:19 UTC](data/pt/new-articles-2026-11-06T05-19-27Z.csv) | 4 |
-| Polish | `pl` | [2026-11-06 05:19 UTC](data/pl/new-articles-2026-11-06T05-19-27Z.csv) | 5 |
+| English | `en` | [2026-11-06 06:20 UTC](data/en/new-articles-2026-11-06T06-20-52Z.csv) | 14 |
+| Japanese | `ja` | [2026-11-06 06:20 UTC](data/ja/new-articles-2026-11-06T06-20-52Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-06 06:20 UTC](data/zh/new-articles-2026-11-06T06-20-52Z.csv) | 7 |
+| French | `fr` | [2026-11-06 06:20 UTC](data/fr/new-articles-2026-11-06T06-20-52Z.csv) | 1 |
+| German | `de` | [2026-11-06 06:20 UTC](data/de/new-articles-2026-11-06T06-20-52Z.csv) | 4 |
+| Russian | `ru` | [2026-11-06 06:20 UTC](data/ru/new-articles-2026-11-06T06-20-52Z.csv) | 3 |
+| Spanish | `es` | [2026-11-06 06:20 UTC](data/es/new-articles-2026-11-06T06-20-52Z.csv) | 5 |
+| Italian | `it` | [2026-11-06 06:20 UTC](data/it/new-articles-2026-11-06T06-20-52Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-06 06:20 UTC](data/pt/new-articles-2026-11-06T06-20-52Z.csv) | 1 |
+| Polish | `pl` | [2026-11-06 06:20 UTC](data/pl/new-articles-2026-11-06T06-20-52Z.csv) | 1 |
 | Arabic | `ar` | [2026-11-06 05:19 UTC](data/ar/new-articles-2026-11-06T05-19-27Z.csv) | 3 |
-| Persian | `fa` | [2026-11-06 05:19 UTC](data/fa/new-articles-2026-11-06T05-19-27Z.csv) | 2 |
-| Turkish | `tr` | [2026-11-06 05:19 UTC](data/tr/new-articles-2026-11-06T05-19-27Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-06 05:19 UTC](data/he/new-articles-2026-11-06T05-19-27Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-06 05:19 UTC](data/sv/new-articles-2026-11-06T05-19-27Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-06 02:19 UTC](data/nl/new-articles-2026-11-06T02-19-19Z.csv) | 2 |
-| Korean | `ko` | [2026-11-06 05:19 UTC](data/ko/new-articles-2026-11-06T05-19-27Z.csv) | 5 |
-| Indonesian | `id` | [2026-11-06 05:19 UTC](data/id/new-articles-2026-11-06T05-19-27Z.csv) | 17 |
-| Ukrainian | `uk` | [2026-11-06 05:19 UTC](data/uk/new-articles-2026-11-06T05-19-27Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-11-06 05:19 UTC](data/vi/new-articles-2026-11-06T05-19-27Z.csv) | 3 |
+| Persian | `fa` | [2026-11-06 06:20 UTC](data/fa/new-articles-2026-11-06T06-20-52Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-06 06:20 UTC](data/tr/new-articles-2026-11-06T06-20-52Z.csv) | 7 |
+| Hebrew | `he` | [2026-11-06 06:20 UTC](data/he/new-articles-2026-11-06T06-20-52Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-06 06:20 UTC](data/sv/new-articles-2026-11-06T06-20-52Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-06 06:20 UTC](data/nl/new-articles-2026-11-06T06-20-52Z.csv) | 2 |
+| Korean | `ko` | [2026-11-06 06:20 UTC](data/ko/new-articles-2026-11-06T06-20-52Z.csv) | 9 |
+| Indonesian | `id` | [2026-11-06 06:20 UTC](data/id/new-articles-2026-11-06T06-20-52Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-11-06 06:20 UTC](data/uk/new-articles-2026-11-06T06-20-52Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-11-06 06:20 UTC](data/vi/new-articles-2026-11-06T06-20-52Z.csv) | 3 |
 
-## English (en) — 2026-11-06 05:19 UTC
+## English (en) — 2026-11-06 06:20 UTC
 
-New articles created between 2026-11-06 04:18 UTC and 2026-11-06 05:19 UTC.
+New articles created between 2026-11-06 05:19 UTC and 2026-11-06 06:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-06T05-19-27Z.csv)
+[Full CSV](data/en/new-articles-2026-11-06T06-20-52Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-06 04:21:33 | [AN/SPG-49](https://en.wikipedia.org/wiki/AN/SPG-49) | [AN.FSQ-7](https://en.wikipedia.org/wiki/User:AN.FSQ-7) | 12,788 |
-| 2026-11-06 04:22:14 | [1950 Iowa State Teachers Panthers football team](https://en.wikipedia.org/wiki/1950_Iowa_State_Teachers_Panthers_football_team) | [Cbl62](https://en.wikipedia.org/wiki/User:Cbl62) | 3,659 |
-| 2026-11-06 04:24:18 | [Jacob Martinez](https://en.wikipedia.org/wiki/Jacob_Martinez) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,610 |
-| 2026-11-06 04:32:47 | [2026 Boston College Eagles men's soccer team](https://en.wikipedia.org/wiki/2026_Boston_College_Eagles_men%27s_soccer_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 27,168 |
-| 2026-11-06 04:33:56 | [Furmanek](https://en.wikipedia.org/wiki/Furmanek) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,840 |
-| 2026-11-06 04:41:29 | [Lucia Baez-Geller](https://en.wikipedia.org/wiki/Lucia_Baez-Geller) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 1,576 |
-| 2026-11-06 04:45:24 | [Jack Evans (soccer)](https://en.wikipedia.org/wiki/Jack_Evans_%28soccer%29) | [Harry Alexander T](https://en.wikipedia.org/wiki/User:Harry_Alexander_T) | 3,307 |
-| 2026-11-06 04:48:54 | [Kuczera](https://en.wikipedia.org/wiki/Kuczera) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 945 |
-| 2026-11-06 04:49:45 | [Aa Ondu Notu](https://en.wikipedia.org/wiki/Aa_Ondu_Notu) | [CoorgGirl](https://en.wikipedia.org/wiki/User:CoorgGirl) | 5,564 |
-| 2026-11-06 04:51:19 | [Dr. Scarlet Mubokyi](https://en.wikipedia.org/wiki/Dr._Scarlet_Mubokyi) | [Aikiriza Justus](https://en.wikipedia.org/wiki/User:Aikiriza_Justus) | 2,834 |
-| 2026-11-06 04:57:18 | [Saurav Das (political activist)](https://en.wikipedia.org/wiki/Saurav_Das_%28political_activist%29) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 1,128 |
-| 2026-11-06 05:00:14 | [Veronica thomsonii](https://en.wikipedia.org/wiki/Veronica_thomsonii) | [Stitchbird2](https://en.wikipedia.org/wiki/User:Stitchbird2) | 1,613 |
-| 2026-11-06 05:01:03 | [Mangino (surname)](https://en.wikipedia.org/wiki/Mangino_%28surname%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 424 |
-| 2026-11-06 05:01:59 | [Seremban United F.C.](https://en.wikipedia.org/wiki/Seremban_United_F.C.) | [FM Malaysia](https://en.wikipedia.org/wiki/User:FM_Malaysia) | 5,558 |
-| 2026-11-06 05:03:10 | [Barclay's Bank Building](https://en.wikipedia.org/wiki/Barclay%27s_Bank_Building) | [Gb321](https://en.wikipedia.org/wiki/User:Gb321) | 293 |
-| 2026-11-06 05:08:54 | [Rebus: A Game Called Malice](https://en.wikipedia.org/wiki/Rebus%3A_A_Game_Called_Malice) | [Garethheathcote](https://en.wikipedia.org/wiki/User:Garethheathcote) | 3,382 |
-| 2026-11-06 05:09:30 | [Lasioglossum luteoaeneum](https://en.wikipedia.org/wiki/Lasioglossum_luteoaeneum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 1,901 |
-| 2026-11-06 05:11:06 | [Colonia Anzures](https://en.wikipedia.org/wiki/Colonia_Anzures) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 58,372 |
-| 2026-11-06 05:18:35 | [2026 Stu Sells 1824 Halifax Classic](https://en.wikipedia.org/wiki/2026_Stu_Sells_1824_Halifax_Classic) | [TracyFleuryFan](https://en.wikipedia.org/wiki/User:TracyFleuryFan) | 27,709 |
+| 2026-11-06 05:25:00 | [Lona Running Wolf](https://en.wikipedia.org/wiki/Lona_Running_Wolf) | [Ornithoptera](https://en.wikipedia.org/wiki/User:Ornithoptera) | 987 |
+| 2026-11-06 05:26:21 | [Ambroz (name)](https://en.wikipedia.org/wiki/Ambroz_%28name%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 279 |
+| 2026-11-06 05:28:29 | [Jo Genna Jover](https://en.wikipedia.org/wiki/Jo_Genna_Jover) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 5,326 |
+| 2026-11-06 05:28:51 | [Erin Farris-Olsen](https://en.wikipedia.org/wiki/Erin_Farris-Olsen) | [Ornithoptera](https://en.wikipedia.org/wiki/User:Ornithoptera) | 492 |
+| 2026-11-06 05:30:44 | [Sanggacala Matalam Baraguir](https://en.wikipedia.org/wiki/Sanggacala_Matalam_Baraguir) | [Minwrite](https://en.wikipedia.org/wiki/User:Minwrite) | 10,988 |
+| 2026-11-06 05:39:42 | [Abul Ainain Shuaisha](https://en.wikipedia.org/wiki/Abul_Ainain_Shuaisha) | [CtrlZultan](https://en.wikipedia.org/wiki/User:CtrlZultan) | 10,171 |
+| 2026-11-06 05:47:26 | [Masyar Rahmanzadeh](https://en.wikipedia.org/wiki/Masyar_Rahmanzadeh) | [Taw Tülki](https://en.wikipedia.org/wiki/User:Taw_T%C3%BClki) | 5,974 |
+| 2026-11-06 05:51:17 | [Natalie Weeks-O'Neal](https://en.wikipedia.org/wiki/Natalie_Weeks-O%27Neal) | [Ornithoptera](https://en.wikipedia.org/wiki/User:Ornithoptera) | 502 |
+| 2026-11-06 05:52:59 | [The Comedy Store (disambiguation)](https://en.wikipedia.org/wiki/The_Comedy_Store_%28disambiguation%29) | [Laterthanyouthink](https://en.wikipedia.org/wiki/User:Laterthanyouthink) | 853 |
+| 2026-11-06 06:00:10 | [Ulama in the Bangsamoro Parliament](https://en.wikipedia.org/wiki/Ulama_in_the_Bangsamoro_Parliament) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 6,153 |
+| 2026-11-06 06:04:02 | [Tricholoma focale](https://en.wikipedia.org/wiki/Tricholoma_focale) | [TheNatureKid](https://en.wikipedia.org/wiki/User:TheNatureKid) | 5,037 |
+| 2026-11-06 06:12:29 | [Wanluan pork knuckle](https://en.wikipedia.org/wiki/Wanluan_pork_knuckle) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 3,347 |
+| 2026-11-06 06:12:47 | [Dom Brew](https://en.wikipedia.org/wiki/Dom_Brew) | [Totallynotarandomalt69](https://en.wikipedia.org/wiki/User:Totallynotarandomalt69) | 28,982 |
+| 2026-11-06 06:18:16 | [Youth sector in the Bangsamoro Parliament](https://en.wikipedia.org/wiki/Youth_sector_in_the_Bangsamoro_Parliament) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 5,935 |
