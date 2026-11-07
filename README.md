@@ -13,46 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-07 08:20 UTC](data/en/new-articles-2026-11-07T08-20-13Z.csv) | 14 |
-| Japanese | `ja` | [2026-11-07 08:20 UTC](data/ja/new-articles-2026-11-07T08-20-13Z.csv) | 15 |
-| Chinese | `zh` | [2026-11-07 08:20 UTC](data/zh/new-articles-2026-11-07T08-20-13Z.csv) | 9 |
-| French | `fr` | [2026-11-07 08:20 UTC](data/fr/new-articles-2026-11-07T08-20-13Z.csv) | 4 |
-| German | `de` | [2026-11-07 08:20 UTC](data/de/new-articles-2026-11-07T08-20-13Z.csv) | 8 |
-| Russian | `ru` | [2026-11-07 08:20 UTC](data/ru/new-articles-2026-11-07T08-20-13Z.csv) | 11 |
-| Spanish | `es` | [2026-11-07 08:20 UTC](data/es/new-articles-2026-11-07T08-20-13Z.csv) | 3 |
-| Italian | `it` | [2026-11-07 08:20 UTC](data/it/new-articles-2026-11-07T08-20-13Z.csv) | 4 |
+| English | `en` | [2026-11-07 09:19 UTC](data/en/new-articles-2026-11-07T09-19-17Z.csv) | 13 |
+| Japanese | `ja` | [2026-11-07 09:19 UTC](data/ja/new-articles-2026-11-07T09-19-17Z.csv) | 7 |
+| Chinese | `zh` | [2026-11-07 09:19 UTC](data/zh/new-articles-2026-11-07T09-19-17Z.csv) | 15 |
+| French | `fr` | [2026-11-07 09:19 UTC](data/fr/new-articles-2026-11-07T09-19-17Z.csv) | 5 |
+| German | `de` | [2026-11-07 09:19 UTC](data/de/new-articles-2026-11-07T09-19-17Z.csv) | 10 |
+| Russian | `ru` | [2026-11-07 09:19 UTC](data/ru/new-articles-2026-11-07T09-19-17Z.csv) | 7 |
+| Spanish | `es` | [2026-11-07 09:19 UTC](data/es/new-articles-2026-11-07T09-19-17Z.csv) | 6 |
+| Italian | `it` | [2026-11-07 09:19 UTC](data/it/new-articles-2026-11-07T09-19-17Z.csv) | 2 |
 | Portuguese | `pt` | [2026-11-07 06:19 UTC](data/pt/new-articles-2026-11-07T06-19-03Z.csv) | 1 |
-| Polish | `pl` | [2026-11-07 08:20 UTC](data/pl/new-articles-2026-11-07T08-20-13Z.csv) | 7 |
-| Arabic | `ar` | [2026-11-07 08:20 UTC](data/ar/new-articles-2026-11-07T08-20-13Z.csv) | 9 |
-| Persian | `fa` | [2026-11-07 08:20 UTC](data/fa/new-articles-2026-11-07T08-20-13Z.csv) | 2 |
-| Turkish | `tr` | [2026-11-07 08:20 UTC](data/tr/new-articles-2026-11-07T08-20-13Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-07 08:20 UTC](data/he/new-articles-2026-11-07T08-20-13Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-07 08:20 UTC](data/sv/new-articles-2026-11-07T08-20-13Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-07 08:20 UTC](data/nl/new-articles-2026-11-07T08-20-13Z.csv) | 5 |
-| Korean | `ko` | [2026-11-07 08:20 UTC](data/ko/new-articles-2026-11-07T08-20-13Z.csv) | 4 |
-| Indonesian | `id` | [2026-11-07 08:20 UTC](data/id/new-articles-2026-11-07T08-20-13Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-07 08:20 UTC](data/uk/new-articles-2026-11-07T08-20-13Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-07 08:20 UTC](data/vi/new-articles-2026-11-07T08-20-13Z.csv) | 2 |
+| Polish | `pl` | [2026-11-07 09:19 UTC](data/pl/new-articles-2026-11-07T09-19-17Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-07 09:19 UTC](data/ar/new-articles-2026-11-07T09-19-17Z.csv) | 9 |
+| Persian | `fa` | [2026-11-07 09:19 UTC](data/fa/new-articles-2026-11-07T09-19-17Z.csv) | 14 |
+| Turkish | `tr` | [2026-11-07 09:19 UTC](data/tr/new-articles-2026-11-07T09-19-17Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-07 09:19 UTC](data/he/new-articles-2026-11-07T09-19-17Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-07 09:19 UTC](data/sv/new-articles-2026-11-07T09-19-17Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-07 09:19 UTC](data/nl/new-articles-2026-11-07T09-19-17Z.csv) | 4 |
+| Korean | `ko` | [2026-11-07 09:19 UTC](data/ko/new-articles-2026-11-07T09-19-17Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-07 09:19 UTC](data/id/new-articles-2026-11-07T09-19-17Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-11-07 09:19 UTC](data/uk/new-articles-2026-11-07T09-19-17Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-07 09:19 UTC](data/vi/new-articles-2026-11-07T09-19-17Z.csv) | 4 |
 
-## English (en) — 2026-11-07 08:20 UTC
+## English (en) — 2026-11-07 09:19 UTC
 
-New articles created between 2026-11-07 07:20 UTC and 2026-11-07 08:20 UTC.
+New articles created between 2026-11-07 08:20 UTC and 2026-11-07 09:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-07T08-20-13Z.csv)
+[Full CSV](data/en/new-articles-2026-11-07T09-19-17Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-07 07:21:24 | [Venita Wolf](https://en.wikipedia.org/wiki/Venita_Wolf) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,866 |
-| 2026-11-07 07:33:07 | [2026 Ohio State Buckeyes men's soccer team](https://en.wikipedia.org/wiki/2026_Ohio_State_Buckeyes_men%27s_soccer_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 35,580 |
-| 2026-11-07 07:41:49 | [Laws of the Constitution of Kelantan](https://en.wikipedia.org/wiki/Laws_of_the_Constitution_of_Kelantan) | [Hongqilim](https://en.wikipedia.org/wiki/User:Hongqilim) | 4,475 |
-| 2026-11-07 07:43:50 | [Hema Negi Karasi](https://en.wikipedia.org/wiki/Hema_Negi_Karasi) | [TypeInfo](https://en.wikipedia.org/wiki/User:TypeInfo) | 3,675 |
-| 2026-11-07 07:45:20 | [2026-27 Major Arena Soccer League season](https://en.wikipedia.org/wiki/2026-27_Major_Arena_Soccer_League_season) | [BootBoneBellBall](https://en.wikipedia.org/wiki/User:BootBoneBellBall) | 8,057 |
-| 2026-11-07 07:46:58 | [Carl Mannerheim (banker)](https://en.wikipedia.org/wiki/Carl_Mannerheim_%28banker%29) | [Juustila](https://en.wikipedia.org/wiki/User:Juustila) | 2,791 |
-| 2026-11-07 07:47:22 | [On Your Side (December 10 EP)](https://en.wikipedia.org/wiki/On_Your_Side_%28December_10_EP%29) | [Unilandofma](https://en.wikipedia.org/wiki/User:Unilandofma) | 4,781 |
-| 2026-11-07 07:54:00 | [Jean Charles Carpentero](https://en.wikipedia.org/wiki/Jean_Charles_Carpentero) | [Jvhertum](https://en.wikipedia.org/wiki/User:Jvhertum) | 6,450 |
-| 2026-11-07 08:04:54 | [Sancet](https://en.wikipedia.org/wiki/Sancet) | [Dieter Lloyd Wexler](https://en.wikipedia.org/wiki/User:Dieter_Lloyd_Wexler) | 361 |
-| 2026-11-07 08:05:31 | [South Korea men's national under-21 field hockey team](https://en.wikipedia.org/wiki/South_Korea_men%27s_national_under-21_field_hockey_team) | [SaoTanTeeta](https://en.wikipedia.org/wiki/User:SaoTanTeeta) | 2,326 |
-| 2026-11-07 08:09:56 | [Vivien Jäggi](https://en.wikipedia.org/wiki/Vivien_J%C3%A4ggi) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 2,785 |
-| 2026-11-07 08:10:07 | [Triple A Technologies](https://en.wikipedia.org/wiki/Triple_A_Technologies) | [Westmote](https://en.wikipedia.org/wiki/User:Westmote) | 7,474 |
-| 2026-11-07 08:10:08 | [Emely Jäggi](https://en.wikipedia.org/wiki/Emely_J%C3%A4ggi) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,327 |
-| 2026-11-07 08:19:43 | [1st Engineer Regiment](https://en.wikipedia.org/wiki/1st_Engineer_Regiment) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 217 |
+| 2026-11-07 08:20:36 | [2027 UEFA Women's Nations League League C](https://en.wikipedia.org/wiki/2027_UEFA_Women%27s_Nations_League_League_C) | [Louelle.ivy](https://en.wikipedia.org/wiki/User:Louelle.ivy) | 33,912 |
+| 2026-11-07 08:26:10 | [Ra. Karthik](https://en.wikipedia.org/wiki/Ra._Karthik) | [H2226](https://en.wikipedia.org/wiki/User:H2226) | 7,287 |
+| 2026-11-07 08:33:06 | [Nashtar](https://en.wikipedia.org/wiki/Nashtar) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 2,651 |
+| 2026-11-07 08:35:34 | [1887 in Oregon](https://en.wikipedia.org/wiki/1887_in_Oregon) | [Doomhope](https://en.wikipedia.org/wiki/User:Doomhope) | 1,710 |
+| 2026-11-07 08:46:46 | [League 4 (Iran)](https://en.wikipedia.org/wiki/League_4_%28Iran%29) | [Nimaabbasi.original](https://en.wikipedia.org/wiki/User:Nimaabbasi.original) | 3,685 |
+| 2026-11-07 08:47:15 | [Rhododendron smokianum](https://en.wikipedia.org/wiki/Rhododendron_smokianum) | [NShehan](https://en.wikipedia.org/wiki/User:NShehan) | 1,545 |
+| 2026-11-07 08:54:05 | [Provincial Leagues](https://en.wikipedia.org/wiki/Provincial_Leagues) | [Nimaabbasi.original](https://en.wikipedia.org/wiki/User:Nimaabbasi.original) | 4,764 |
+| 2026-11-07 08:54:57 | [Palmerston Interchange](https://en.wikipedia.org/wiki/Palmerston_Interchange) | [TheTransportPro](https://en.wikipedia.org/wiki/User:TheTransportPro) | 9,630 |
+| 2026-11-07 08:56:48 | [2026 FC Dinamo Batumi season](https://en.wikipedia.org/wiki/2026_FC_Dinamo_Batumi_season) | [CottonTraders](https://en.wikipedia.org/wiki/User:CottonTraders) | 6,725 |
+| 2026-11-07 08:59:21 | [Chikkala Ramachandra Rao](https://en.wikipedia.org/wiki/Chikkala_Ramachandra_Rao) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,669 |
+| 2026-11-07 09:02:19 | [Lumeiyi Formation](https://en.wikipedia.org/wiki/Lumeiyi_Formation) | [Stromatherium](https://en.wikipedia.org/wiki/User:Stromatherium) | 14,035 |
+| 2026-11-07 09:09:32 | [Sankoo district](https://en.wikipedia.org/wiki/Sankoo_district) | [Rajavijay56](https://en.wikipedia.org/wiki/User:Rajavijay56) | 1,687 |
+| 2026-11-07 09:11:52 | [Louise Charlotte de Neufville-Ritter](https://en.wikipedia.org/wiki/Louise_Charlotte_de_Neufville-Ritter) | [Jvhertum](https://en.wikipedia.org/wiki/User:Jvhertum) | 10,971 |
