@@ -13,45 +13,47 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-07 06:19 UTC](data/en/new-articles-2026-11-07T06-19-03Z.csv) | 13 |
-| Japanese | `ja` | [2026-11-07 06:19 UTC](data/ja/new-articles-2026-11-07T06-19-03Z.csv) | 8 |
-| Chinese | `zh` | [2026-11-07 06:19 UTC](data/zh/new-articles-2026-11-07T06-19-03Z.csv) | 3 |
-| French | `fr` | [2026-11-07 06:19 UTC](data/fr/new-articles-2026-11-07T06-19-03Z.csv) | 1 |
+| English | `en` | [2026-11-07 07:20 UTC](data/en/new-articles-2026-11-07T07-20-30Z.csv) | 15 |
+| Japanese | `ja` | [2026-11-07 07:20 UTC](data/ja/new-articles-2026-11-07T07-20-30Z.csv) | 12 |
+| Chinese | `zh` | [2026-11-07 07:20 UTC](data/zh/new-articles-2026-11-07T07-20-30Z.csv) | 4 |
+| French | `fr` | [2026-11-07 07:20 UTC](data/fr/new-articles-2026-11-07T07-20-30Z.csv) | 2 |
 | German | `de` | [2026-11-07 06:19 UTC](data/de/new-articles-2026-11-07T06-19-03Z.csv) | 4 |
-| Russian | `ru` | [2026-11-07 06:19 UTC](data/ru/new-articles-2026-11-07T06-19-03Z.csv) | 14 |
-| Spanish | `es` | [2026-11-07 06:19 UTC](data/es/new-articles-2026-11-07T06-19-03Z.csv) | 1 |
-| Italian | `it` | [2026-11-07 06:19 UTC](data/it/new-articles-2026-11-07T06-19-03Z.csv) | 1 |
+| Russian | `ru` | [2026-11-07 07:20 UTC](data/ru/new-articles-2026-11-07T07-20-30Z.csv) | 6 |
+| Spanish | `es` | [2026-11-07 07:20 UTC](data/es/new-articles-2026-11-07T07-20-30Z.csv) | 8 |
+| Italian | `it` | [2026-11-07 07:20 UTC](data/it/new-articles-2026-11-07T07-20-30Z.csv) | 2 |
 | Portuguese | `pt` | [2026-11-07 06:19 UTC](data/pt/new-articles-2026-11-07T06-19-03Z.csv) | 1 |
-| Polish | `pl` | [2026-11-07 06:19 UTC](data/pl/new-articles-2026-11-07T06-19-03Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-07 06:19 UTC](data/ar/new-articles-2026-11-07T06-19-03Z.csv) | 2 |
-| Persian | `fa` | [2026-11-07 06:19 UTC](data/fa/new-articles-2026-11-07T06-19-03Z.csv) | 34 |
-| Turkish | `tr` | [2026-11-07 06:19 UTC](data/tr/new-articles-2026-11-07T06-19-03Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-07 06:19 UTC](data/he/new-articles-2026-11-07T06-19-03Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-07 06:19 UTC](data/sv/new-articles-2026-11-07T06-19-03Z.csv) | 1 |
+| Polish | `pl` | [2026-11-07 07:20 UTC](data/pl/new-articles-2026-11-07T07-20-30Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-07 07:20 UTC](data/ar/new-articles-2026-11-07T07-20-30Z.csv) | 3 |
+| Persian | `fa` | [2026-11-07 07:20 UTC](data/fa/new-articles-2026-11-07T07-20-30Z.csv) | 11 |
+| Turkish | `tr` | [2026-11-07 07:20 UTC](data/tr/new-articles-2026-11-07T07-20-30Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-07 07:20 UTC](data/he/new-articles-2026-11-07T07-20-30Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-07 07:20 UTC](data/sv/new-articles-2026-11-07T07-20-30Z.csv) | 3 |
 | Dutch | `nl` | [2026-11-07 05:19 UTC](data/nl/new-articles-2026-11-07T05-19-03Z.csv) | 1 |
-| Korean | `ko` | [2026-11-07 06:19 UTC](data/ko/new-articles-2026-11-07T06-19-03Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-07 06:19 UTC](data/id/new-articles-2026-11-07T06-19-03Z.csv) | 11 |
-| Ukrainian | `uk` | [2026-11-07 04:18 UTC](data/uk/new-articles-2026-11-07T04-18-42Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-11-07 06:19 UTC](data/vi/new-articles-2026-11-07T06-19-03Z.csv) | 2 |
+| Korean | `ko` | [2026-11-07 07:20 UTC](data/ko/new-articles-2026-11-07T07-20-30Z.csv) | 8 |
+| Indonesian | `id` | [2026-11-07 07:20 UTC](data/id/new-articles-2026-11-07T07-20-30Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-11-07 07:20 UTC](data/uk/new-articles-2026-11-07T07-20-30Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-07 07:20 UTC](data/vi/new-articles-2026-11-07T07-20-30Z.csv) | 1 |
 
-## English (en) — 2026-11-07 06:19 UTC
+## English (en) — 2026-11-07 07:20 UTC
 
-New articles created between 2026-11-07 05:19 UTC and 2026-11-07 06:19 UTC.
+New articles created between 2026-11-07 06:19 UTC and 2026-11-07 07:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-07T06-19-03Z.csv)
+[Full CSV](data/en/new-articles-2026-11-07T07-20-30Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-07 05:21:32 | [Mandy Newton Rosenow](https://en.wikipedia.org/wiki/Mandy_Newton_Rosenow) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 762 |
-| 2026-11-07 05:25:50 | [Andrew Fitzgerald (politician)](https://en.wikipedia.org/wiki/Andrew_Fitzgerald_%28politician%29) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 777 |
-| 2026-11-07 05:35:23 | [2026 Syracuse Orange men's soccer team](https://en.wikipedia.org/wiki/2026_Syracuse_Orange_men%27s_soccer_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 37,306 |
-| 2026-11-07 05:36:28 | [Keith Glienke](https://en.wikipedia.org/wiki/Keith_Glienke) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 763 |
-| 2026-11-07 05:37:19 | [2026–27 Tennessee Tech Golden Eagles men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Tennessee_Tech_Golden_Eagles_men%27s_basketball_team) | [LakersFanatic15](https://en.wikipedia.org/wiki/User:LakersFanatic15) | 20,518 |
-| 2026-11-07 05:39:05 | [Women's FIH Youth Hockey5s World Cup](https://en.wikipedia.org/wiki/Women%27s_FIH_Youth_Hockey5s_World_Cup) | [SaoTanTeeta](https://en.wikipedia.org/wiki/User:SaoTanTeeta) | 1,404 |
-| 2026-11-07 05:40:18 | [Spracklin](https://en.wikipedia.org/wiki/Spracklin) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 873 |
-| 2026-11-07 05:51:51 | [Bob Harrison (defensive back)](https://en.wikipedia.org/wiki/Bob_Harrison_%28defensive_back%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,578 |
-| 2026-11-07 05:54:52 | [Triathlon at the 2026 Summer Youth Olympics – Women's](https://en.wikipedia.org/wiki/Triathlon_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Women%27s) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 8,063 |
-| 2026-11-07 05:55:23 | [Lasioglossum gilesi](https://en.wikipedia.org/wiki/Lasioglossum_gilesi) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 3,385 |
-| 2026-11-07 06:00:23 | [Ort (surname)](https://en.wikipedia.org/wiki/Ort_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 159 |
-| 2026-11-07 06:06:45 | [Archery at the 2026 Summer Youth Olympics – Boys' singles](https://en.wikipedia.org/wiki/Archery_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Boys%27_singles) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 11,032 |
-| 2026-11-07 06:15:11 | [Ortt (surname)](https://en.wikipedia.org/wiki/Ortt_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 162 |
+| 2026-11-07 06:19:47 | [Archery at the 2026 Summer Youth Olympics – Girls' singles](https://en.wikipedia.org/wiki/Archery_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Girls%27_singles) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 8,436 |
+| 2026-11-07 06:30:15 | [Oord (surname)](https://en.wikipedia.org/wiki/Oord_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 323 |
+| 2026-11-07 06:34:21 | [Perni Krishna Murthy](https://en.wikipedia.org/wiki/Perni_Krishna_Murthy) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,280 |
+| 2026-11-07 06:39:28 | [2026 UConn Huskies men's soccer team](https://en.wikipedia.org/wiki/2026_UConn_Huskies_men%27s_soccer_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 36,417 |
+| 2026-11-07 06:42:50 | [Spracklen](https://en.wikipedia.org/wiki/Spracklen) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 576 |
+| 2026-11-07 06:45:44 | [嘉義](https://en.wikipedia.org/wiki/%E5%98%89%E7%BE%A9) | [Saimmx](https://en.wikipedia.org/wiki/User:Saimmx) | 20 |
+| 2026-11-07 06:46:31 | [Lancaster Storm](https://en.wikipedia.org/wiki/Lancaster_Storm) | [Timd21](https://en.wikipedia.org/wiki/User:Timd21) | 4,250 |
+| 2026-11-07 06:47:19 | [Seymour B. Treadwell](https://en.wikipedia.org/wiki/Seymour_B._Treadwell) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 9,132 |
+| 2026-11-07 06:48:13 | [Poland and the Russo-Ukrainian war](https://en.wikipedia.org/wiki/Poland_and_the_Russo-Ukrainian_war) | [The Sergei](https://en.wikipedia.org/wiki/User:The_Sergei) | 59,100 |
+| 2026-11-07 06:58:16 | [Bederman](https://en.wikipedia.org/wiki/Bederman) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 393 |
+| 2026-11-07 07:06:44 | [Jose Bismarque Dias](https://en.wikipedia.org/wiki/Jose_Bismarque_Dias) | [Planemad](https://en.wikipedia.org/wiki/User:Planemad) | 12,967 |
+| 2026-11-07 07:06:48 | [Jon Fay](https://en.wikipedia.org/wiki/Jon_Fay) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 1,297 |
+| 2026-11-07 07:10:01 | [Daria Silișteanu](https://en.wikipedia.org/wiki/Daria_Sili%C8%99teanu) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 7,739 |
+| 2026-11-07 07:10:45 | [2026 North Carolina Tar Heels men's soccer team](https://en.wikipedia.org/wiki/2026_North_Carolina_Tar_Heels_men%27s_soccer_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 37,239 |
+| 2026-11-07 07:11:03 | [Humanz Top 20 Awards](https://en.wikipedia.org/wiki/Humanz_Top_20_Awards) | [Dinitrify](https://en.wikipedia.org/wiki/User:Dinitrify) | 2,054 |
