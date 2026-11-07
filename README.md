@@ -13,44 +13,56 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-07 03:18 UTC](data/en/new-articles-2026-11-07T03-18-47Z.csv) | 12 |
-| Japanese | `ja` | [2026-11-07 03:18 UTC](data/ja/new-articles-2026-11-07T03-18-47Z.csv) | 8 |
-| Chinese | `zh` | [2026-11-07 03:18 UTC](data/zh/new-articles-2026-11-07T03-18-47Z.csv) | 4 |
-| French | `fr` | [2026-11-07 03:18 UTC](data/fr/new-articles-2026-11-07T03-18-47Z.csv) | 7 |
+| English | `en` | [2026-11-07 04:18 UTC](data/en/new-articles-2026-11-07T04-18-42Z.csv) | 24 |
+| Japanese | `ja` | [2026-11-07 04:18 UTC](data/ja/new-articles-2026-11-07T04-18-42Z.csv) | 15 |
+| Chinese | `zh` | [2026-11-07 04:18 UTC](data/zh/new-articles-2026-11-07T04-18-42Z.csv) | 4 |
+| French | `fr` | [2026-11-07 04:18 UTC](data/fr/new-articles-2026-11-07T04-18-42Z.csv) | 6 |
 | German | `de` | [2026-11-07 02:19 UTC](data/de/new-articles-2026-11-07T02-19-23Z.csv) | 1 |
-| Russian | `ru` | [2026-11-07 03:18 UTC](data/ru/new-articles-2026-11-07T03-18-47Z.csv) | 1 |
-| Spanish | `es` | [2026-11-07 03:18 UTC](data/es/new-articles-2026-11-07T03-18-47Z.csv) | 5 |
-| Italian | `it` | [2026-11-07 02:19 UTC](data/it/new-articles-2026-11-07T02-19-23Z.csv) | 3 |
-| Portuguese | `pt` | [2026-11-07 03:18 UTC](data/pt/new-articles-2026-11-07T03-18-47Z.csv) | 4 |
-| Polish | `pl` | [2026-11-07 03:18 UTC](data/pl/new-articles-2026-11-07T03-18-47Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-07 03:18 UTC](data/ar/new-articles-2026-11-07T03-18-47Z.csv) | 3 |
+| Russian | `ru` | [2026-11-07 04:18 UTC](data/ru/new-articles-2026-11-07T04-18-42Z.csv) | 1 |
+| Spanish | `es` | [2026-11-07 04:18 UTC](data/es/new-articles-2026-11-07T04-18-42Z.csv) | 7 |
+| Italian | `it` | [2026-11-07 04:18 UTC](data/it/new-articles-2026-11-07T04-18-42Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-07 04:18 UTC](data/pt/new-articles-2026-11-07T04-18-42Z.csv) | 6 |
+| Polish | `pl` | [2026-11-07 04:18 UTC](data/pl/new-articles-2026-11-07T04-18-42Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-07 04:18 UTC](data/ar/new-articles-2026-11-07T04-18-42Z.csv) | 1 |
 | Persian | `fa` | [2026-11-07 03:18 UTC](data/fa/new-articles-2026-11-07T03-18-47Z.csv) | 2 |
 | Turkish | `tr` | [2026-11-07 03:18 UTC](data/tr/new-articles-2026-11-07T03-18-47Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-07 00:20 UTC](data/he/new-articles-2026-11-07T00-20-55Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-07 04:18 UTC](data/he/new-articles-2026-11-07T04-18-42Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-07 03:18 UTC](data/sv/new-articles-2026-11-07T03-18-47Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-07 03:18 UTC](data/nl/new-articles-2026-11-07T03-18-47Z.csv) | 1 |
-| Korean | `ko` | [2026-11-07 03:18 UTC](data/ko/new-articles-2026-11-07T03-18-47Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-07 03:18 UTC](data/id/new-articles-2026-11-07T03-18-47Z.csv) | 12 |
-| Ukrainian | `uk` | [2026-11-07 03:18 UTC](data/uk/new-articles-2026-11-07T03-18-47Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-11-07 03:18 UTC](data/vi/new-articles-2026-11-07T03-18-47Z.csv) | 5 |
+| Dutch | `nl` | [2026-11-07 04:18 UTC](data/nl/new-articles-2026-11-07T04-18-42Z.csv) | 3 |
+| Korean | `ko` | [2026-11-07 04:18 UTC](data/ko/new-articles-2026-11-07T04-18-42Z.csv) | 6 |
+| Indonesian | `id` | [2026-11-07 04:18 UTC](data/id/new-articles-2026-11-07T04-18-42Z.csv) | 15 |
+| Ukrainian | `uk` | [2026-11-07 04:18 UTC](data/uk/new-articles-2026-11-07T04-18-42Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-07 04:18 UTC](data/vi/new-articles-2026-11-07T04-18-42Z.csv) | 1 |
 
-## English (en) — 2026-11-07 03:18 UTC
+## English (en) — 2026-11-07 04:18 UTC
 
-New articles created between 2026-11-07 02:19 UTC and 2026-11-07 03:18 UTC.
+New articles created between 2026-11-07 03:18 UTC and 2026-11-07 04:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-07T03-18-47Z.csv)
+[Full CSV](data/en/new-articles-2026-11-07T04-18-42Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-07 02:19:42 | [2026 UCF Knights men's soccer team](https://en.wikipedia.org/wiki/2026_UCF_Knights_men%27s_soccer_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 31,853 |
-| 2026-11-07 02:24:08 | [Prakriti (disambiguation)](https://en.wikipedia.org/wiki/Prakriti_%28disambiguation%29) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 121 |
-| 2026-11-07 02:29:19 | [Bakke Church (Buskerud)](https://en.wikipedia.org/wiki/Bakke_Church_%28Buskerud%29) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 5,130 |
-| 2026-11-07 02:35:13 | [Shen Yiyao](https://en.wikipedia.org/wiki/Shen_Yiyao) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,842 |
-| 2026-11-07 02:42:44 | [Quinnie (name)](https://en.wikipedia.org/wiki/Quinnie_%28name%29) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 222 |
-| 2026-11-07 02:43:15 | [Adam Hamway](https://en.wikipedia.org/wiki/Adam_Hamway) | [TMBLover](https://en.wikipedia.org/wiki/User:TMBLover) | 3,072 |
-| 2026-11-07 02:51:58 | [Johannes Brockmann](https://en.wikipedia.org/wiki/Johannes_Brockmann) | [Wabbuh](https://en.wikipedia.org/wiki/User:Wabbuh) | 5,815 |
-| 2026-11-07 02:55:47 | [Lasioglossum melbournense](https://en.wikipedia.org/wiki/Lasioglossum_melbournense) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 3,074 |
-| 2026-11-07 03:03:29 | [2026 Furman Paladins men's soccer team](https://en.wikipedia.org/wiki/2026_Furman_Paladins_men%27s_soccer_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 34,524 |
-| 2026-11-07 03:04:33 | [Chuck Murphy (politician)](https://en.wikipedia.org/wiki/Chuck_Murphy_%28politician%29) | [Y2hyaXM](https://en.wikipedia.org/wiki/User:Y2hyaXM) | 3,970 |
-| 2026-11-07 03:05:48 | [LXVIII Corps](https://en.wikipedia.org/wiki/LXVIII_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 448 |
-| 2026-11-07 03:17:02 | [LXIX Corps](https://en.wikipedia.org/wiki/LXIX_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 408 |
+| 2026-11-07 03:20:17 | [Yao Qianxun](https://en.wikipedia.org/wiki/Yao_Qianxun) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 5,762 |
+| 2026-11-07 03:21:33 | [Christopher O'Mard](https://en.wikipedia.org/wiki/Christopher_O%27Mard) | [CROIX](https://en.wikipedia.org/wiki/User:CROIX) | 1,766 |
+| 2026-11-07 03:24:10 | [LXXI Corps](https://en.wikipedia.org/wiki/LXXI_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 384 |
+| 2026-11-07 03:27:22 | [LXXII Corps](https://en.wikipedia.org/wiki/LXXII_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 429 |
+| 2026-11-07 03:27:35 | [Donald Christian (politician)](https://en.wikipedia.org/wiki/Donald_Christian_%28politician%29) | [CROIX](https://en.wikipedia.org/wiki/User:CROIX) | 1,702 |
+| 2026-11-07 03:31:46 | [LXXIII Corps](https://en.wikipedia.org/wiki/LXXIII_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 420 |
+| 2026-11-07 03:32:43 | [Hilroy Humphreys](https://en.wikipedia.org/wiki/Hilroy_Humphreys) | [CROIX](https://en.wikipedia.org/wiki/User:CROIX) | 1,724 |
+| 2026-11-07 03:33:49 | [Saba Haider](https://en.wikipedia.org/wiki/Saba_Haider) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 1,626 |
+| 2026-11-07 03:35:12 | [Matthew Stokman](https://en.wikipedia.org/wiki/Matthew_Stokman) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,908 |
+| 2026-11-07 03:37:33 | [Eustace Cochrane](https://en.wikipedia.org/wiki/Eustace_Cochrane) | [CROIX](https://en.wikipedia.org/wiki/User:CROIX) | 1,670 |
+| 2026-11-07 03:41:40 | [Henderson Simon](https://en.wikipedia.org/wiki/Henderson_Simon) | [CROIX](https://en.wikipedia.org/wiki/User:CROIX) | 1,670 |
+| 2026-11-07 03:42:37 | [1956 Michigan Senate election](https://en.wikipedia.org/wiki/1956_Michigan_Senate_election) | [RoundSquare](https://en.wikipedia.org/wiki/User:RoundSquare) | 31,913 |
+| 2026-11-07 03:43:22 | [LXXIV Corps](https://en.wikipedia.org/wiki/LXXIV_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 374 |
+| 2026-11-07 03:45:47 | [Brontosaurus Breath](https://en.wikipedia.org/wiki/Brontosaurus_Breath) | [Iconoclasty](https://en.wikipedia.org/wiki/User:Iconoclasty) | 11,346 |
+| 2026-11-07 03:48:10 | [LXXV Corps](https://en.wikipedia.org/wiki/LXXV_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 399 |
+| 2026-11-07 03:48:29 | [Longford Jeremy](https://en.wikipedia.org/wiki/Longford_Jeremy) | [CROIX](https://en.wikipedia.org/wiki/User:CROIX) | 1,742 |
+| 2026-11-07 03:49:05 | [2026 Stockholm Open – Singles](https://en.wikipedia.org/wiki/2026_Stockholm_Open_%E2%80%93_Singles) | [Yimingbao](https://en.wikipedia.org/wiki/User:Yimingbao) | 10,263 |
+| 2026-11-07 03:58:37 | [Gertel Thom](https://en.wikipedia.org/wiki/Gertel_Thom) | [CROIX](https://en.wikipedia.org/wiki/User:CROIX) | 1,765 |
+| 2026-11-07 03:59:12 | [LXXVI Corps](https://en.wikipedia.org/wiki/LXXVI_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 450 |
+| 2026-11-07 04:06:29 | [79th Corps](https://en.wikipedia.org/wiki/79th_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 450 |
+| 2026-11-07 04:09:05 | [LXXX Corps](https://en.wikipedia.org/wiki/LXXX_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 384 |
+| 2026-11-07 04:11:20 | [Freddie Aughtry-Lindsay](https://en.wikipedia.org/wiki/Freddie_Aughtry-Lindsay) | [Mackensen](https://en.wikipedia.org/wiki/User:Mackensen) | 11,223 |
+| 2026-11-07 04:16:36 | [Stricklin (surname)](https://en.wikipedia.org/wiki/Stricklin_%28surname%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 637 |
+| 2026-11-07 04:16:36 | [LXXXII Corps](https://en.wikipedia.org/wiki/LXXXII_Corps) | [Mdewman6](https://en.wikipedia.org/wiki/User:Mdewman6) | 410 |
