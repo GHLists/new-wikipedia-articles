@@ -13,65 +13,67 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-07 16:19 UTC](data/en/new-articles-2026-11-07T16-19-08Z.csv) | 33 |
-| Japanese | `ja` | [2026-11-07 16:19 UTC](data/ja/new-articles-2026-11-07T16-19-08Z.csv) | 6 |
-| Chinese | `zh` | [2026-11-07 16:19 UTC](data/zh/new-articles-2026-11-07T16-19-08Z.csv) | 24 |
-| French | `fr` | [2026-11-07 16:19 UTC](data/fr/new-articles-2026-11-07T16-19-08Z.csv) | 17 |
-| German | `de` | [2026-11-07 16:19 UTC](data/de/new-articles-2026-11-07T16-19-08Z.csv) | 12 |
-| Russian | `ru` | [2026-11-07 16:19 UTC](data/ru/new-articles-2026-11-07T16-19-08Z.csv) | 11 |
-| Spanish | `es` | [2026-11-07 16:19 UTC](data/es/new-articles-2026-11-07T16-19-08Z.csv) | 33 |
-| Italian | `it` | [2026-11-07 16:19 UTC](data/it/new-articles-2026-11-07T16-19-08Z.csv) | 14 |
-| Portuguese | `pt` | [2026-11-07 16:19 UTC](data/pt/new-articles-2026-11-07T16-19-08Z.csv) | 8 |
-| Polish | `pl` | [2026-11-07 16:19 UTC](data/pl/new-articles-2026-11-07T16-19-08Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-07 16:19 UTC](data/ar/new-articles-2026-11-07T16-19-08Z.csv) | 3 |
-| Persian | `fa` | [2026-11-07 16:19 UTC](data/fa/new-articles-2026-11-07T16-19-08Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-07 16:19 UTC](data/tr/new-articles-2026-11-07T16-19-08Z.csv) | 27 |
-| Hebrew | `he` | [2026-11-07 16:19 UTC](data/he/new-articles-2026-11-07T16-19-08Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-07 16:19 UTC](data/sv/new-articles-2026-11-07T16-19-08Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-07 16:19 UTC](data/nl/new-articles-2026-11-07T16-19-08Z.csv) | 4 |
-| Korean | `ko` | [2026-11-07 16:19 UTC](data/ko/new-articles-2026-11-07T16-19-08Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-07 16:19 UTC](data/id/new-articles-2026-11-07T16-19-08Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-11-07 16:19 UTC](data/uk/new-articles-2026-11-07T16-19-08Z.csv) | 52 |
-| Vietnamese | `vi` | [2026-11-07 16:19 UTC](data/vi/new-articles-2026-11-07T16-19-08Z.csv) | 1 |
+| English | `en` | [2026-11-07 17:18 UTC](data/en/new-articles-2026-11-07T17-18-25Z.csv) | 35 |
+| Japanese | `ja` | [2026-11-07 17:18 UTC](data/ja/new-articles-2026-11-07T17-18-25Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-07 17:18 UTC](data/zh/new-articles-2026-11-07T17-18-25Z.csv) | 21 |
+| French | `fr` | [2026-11-07 17:18 UTC](data/fr/new-articles-2026-11-07T17-18-25Z.csv) | 12 |
+| German | `de` | [2026-11-07 17:18 UTC](data/de/new-articles-2026-11-07T17-18-25Z.csv) | 22 |
+| Russian | `ru` | [2026-11-07 17:18 UTC](data/ru/new-articles-2026-11-07T17-18-25Z.csv) | 23 |
+| Spanish | `es` | [2026-11-07 17:18 UTC](data/es/new-articles-2026-11-07T17-18-25Z.csv) | 10 |
+| Italian | `it` | [2026-11-07 17:18 UTC](data/it/new-articles-2026-11-07T17-18-25Z.csv) | 14 |
+| Portuguese | `pt` | [2026-11-07 17:18 UTC](data/pt/new-articles-2026-11-07T17-18-25Z.csv) | 4 |
+| Polish | `pl` | [2026-11-07 17:18 UTC](data/pl/new-articles-2026-11-07T17-18-25Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-07 17:18 UTC](data/ar/new-articles-2026-11-07T17-18-25Z.csv) | 5 |
+| Persian | `fa` | [2026-11-07 17:18 UTC](data/fa/new-articles-2026-11-07T17-18-25Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-07 17:18 UTC](data/tr/new-articles-2026-11-07T17-18-25Z.csv) | 6 |
+| Hebrew | `he` | [2026-11-07 17:18 UTC](data/he/new-articles-2026-11-07T17-18-25Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-07 17:18 UTC](data/sv/new-articles-2026-11-07T17-18-25Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-07 17:18 UTC](data/nl/new-articles-2026-11-07T17-18-25Z.csv) | 6 |
+| Korean | `ko` | [2026-11-07 17:18 UTC](data/ko/new-articles-2026-11-07T17-18-25Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-07 17:18 UTC](data/id/new-articles-2026-11-07T17-18-25Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-11-07 17:18 UTC](data/uk/new-articles-2026-11-07T17-18-25Z.csv) | 66 |
+| Vietnamese | `vi` | [2026-11-07 17:18 UTC](data/vi/new-articles-2026-11-07T17-18-25Z.csv) | 2 |
 
-## English (en) — 2026-11-07 16:19 UTC
+## English (en) — 2026-11-07 17:18 UTC
 
-New articles created between 2026-11-07 15:18 UTC and 2026-11-07 16:19 UTC.
+New articles created between 2026-11-07 16:19 UTC and 2026-11-07 17:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-07T16-19-08Z.csv)
+[Full CSV](data/en/new-articles-2026-11-07T17-18-25Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-07 15:19:03 | [Reginald Antrobus](https://en.wikipedia.org/wiki/Reginald_Antrobus) | [Andrew Davidson](https://en.wikipedia.org/wiki/User:Andrew_Davidson) | 1,533 |
-| 2026-11-07 15:19:06 | [Feilitzsch (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Feilitzsch_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,465 |
-| 2026-11-07 15:19:15 | [Our Cultural Heart](https://en.wikipedia.org/wiki/Our_Cultural_Heart) | [LivinAWestLife](https://en.wikipedia.org/wiki/User:LivinAWestLife) | 3,089 |
-| 2026-11-07 15:19:28 | [Aroplectrus noyesi](https://en.wikipedia.org/wiki/Aroplectrus_noyesi) | [Etherealite](https://en.wikipedia.org/wiki/User:Etherealite) | 1,233 |
-| 2026-11-07 15:20:00 | [Mbandi Ngola of Ndongo](https://en.wikipedia.org/wiki/Mbandi_Ngola_of_Ndongo) | [Wareno](https://en.wikipedia.org/wiki/User:Wareno) | 2,860 |
-| 2026-11-07 15:22:12 | [Our Lady of the Assumption Church, Olaszliszka](https://en.wikipedia.org/wiki/Our_Lady_of_the_Assumption_Church%2C_Olaszliszka) | [Dominicus347](https://en.wikipedia.org/wiki/User:Dominicus347) | 3,557 |
-| 2026-11-07 15:22:15 | [Spragins](https://en.wikipedia.org/wiki/Spragins) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 324 |
-| 2026-11-07 15:22:22 | [Lichtenberg (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Lichtenberg_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,470 |
-| 2026-11-07 15:22:35 | [Maxim Money](https://en.wikipedia.org/wiki/Maxim_Money) | [Jcwild](https://en.wikipedia.org/wiki/User:Jcwild) | 4,681 |
-| 2026-11-07 15:23:55 | [Babella claudoni](https://en.wikipedia.org/wiki/Babella_claudoni) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,430 |
-| 2026-11-07 15:24:51 | [Schauenstein (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Schauenstein_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,439 |
-| 2026-11-07 15:25:55 | [Beach wrestling at the 2026 Summer Youth Olympics – Women's 75 kg](https://en.wikipedia.org/wiki/Beach_wrestling_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Women%27s_75_kg) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 8,037 |
-| 2026-11-07 15:26:15 | [Road cycling at the 2026 Summer Youth Olympics – Men's individual road race](https://en.wikipedia.org/wiki/Road_cycling_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Men%27s_individual_road_race) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 5,667 |
-| 2026-11-07 15:28:26 | [Sparneck (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Sparneck_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,400 |
-| 2026-11-07 15:32:05 | [Raddy](https://en.wikipedia.org/wiki/Raddy) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 379 |
-| 2026-11-07 15:34:49 | [Llanelly Queen Victoria Road railway station](https://en.wikipedia.org/wiki/Llanelly_Queen_Victoria_Road_railway_station) | [Glowr Curt Ryder](https://en.wikipedia.org/wiki/User:Glowr_Curt_Ryder) | 5,632 |
-| 2026-11-07 15:38:18 | [Norman Waddell](https://en.wikipedia.org/wiki/Norman_Waddell) | [Dissident Muse](https://en.wikipedia.org/wiki/User:Dissident_Muse) | 14,011 |
-| 2026-11-07 15:50:55 | [Garry Lowe (disambiguation)](https://en.wikipedia.org/wiki/Garry_Lowe_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 334 |
-| 2026-11-07 15:52:25 | [The Avenues (Riyadh)](https://en.wikipedia.org/wiki/The_Avenues_%28Riyadh%29) | [LivinAWestLife](https://en.wikipedia.org/wiki/User:LivinAWestLife) | 2,624 |
-| 2026-11-07 15:54:29 | [Pulak Ghosh](https://en.wikipedia.org/wiki/Pulak_Ghosh) | [Pijushghosh1](https://en.wikipedia.org/wiki/User:Pijushghosh1) | 1,271 |
-| 2026-11-07 15:54:45 | [Sennai Habtes](https://en.wikipedia.org/wiki/Sennai_Habtes) | [Jkeezy1990](https://en.wikipedia.org/wiki/User:Jkeezy1990) | 1,487 |
-| 2026-11-07 15:54:48 | [Graham Machin](https://en.wikipedia.org/wiki/Graham_Machin) | [FuzzyMagma](https://en.wikipedia.org/wiki/User:FuzzyMagma) | 6,062 |
-| 2026-11-07 15:58:40 | [Kashima Formation](https://en.wikipedia.org/wiki/Kashima_Formation) | [Blu Adi](https://en.wikipedia.org/wiki/User:Blu_Adi) | 10,755 |
-| 2026-11-07 16:01:39 | [Charles F. Brooker](https://en.wikipedia.org/wiki/Charles_F._Brooker) | [Engineerchange](https://en.wikipedia.org/wiki/User:Engineerchange) | 7,137 |
-| 2026-11-07 16:08:01 | [Ward baronets of Wilbraham Place (1914)](https://en.wikipedia.org/wiki/Ward_baronets_of_Wilbraham_Place_%281914%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 836 |
-| 2026-11-07 16:08:24 | [Johannes Kolleck](https://en.wikipedia.org/wiki/Johannes_Kolleck) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,521 |
-| 2026-11-07 16:08:45 | [Chinese Studies in History](https://en.wikipedia.org/wiki/Chinese_Studies_in_History) | [许岚珊](https://en.wikipedia.org/wiki/User:%E8%AE%B8%E5%B2%9A%E7%8F%8A) | 3,315 |
-| 2026-11-07 16:12:19 | [Ballinlough GAA](https://en.wikipedia.org/wiki/Ballinlough_GAA) | [TwoInsurance](https://en.wikipedia.org/wiki/User:TwoInsurance) | 5,368 |
-| 2026-11-07 16:14:34 | [Juaso Senior High School](https://en.wikipedia.org/wiki/Juaso_Senior_High_School) | [Geenito deghazy](https://en.wikipedia.org/wiki/User:Geenito_deghazy) | 484 |
-| 2026-11-07 16:15:38 | [S-Game](https://en.wikipedia.org/wiki/S-Game) | [Imcdc](https://en.wikipedia.org/wiki/User:Imcdc) | 6,627 |
-| 2026-11-07 16:16:16 | [Casner](https://en.wikipedia.org/wiki/Casner) | [Zigzig20s](https://en.wikipedia.org/wiki/User:Zigzig20s) | 285 |
-| 2026-11-07 16:16:49 | [Fernando Castro (researcher)](https://en.wikipedia.org/wiki/Fernando_Castro_%28researcher%29) | [FuzzyMagma](https://en.wikipedia.org/wiki/User:FuzzyMagma) | 3,193 |
-| 2026-11-07 16:18:51 | [Larry Johnson (politician)](https://en.wikipedia.org/wiki/Larry_Johnson_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,684 |
+| 2026-11-07 16:20:13 | [Damacharla Anjaneyulu](https://en.wikipedia.org/wiki/Damacharla_Anjaneyulu) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,163 |
+| 2026-11-07 16:20:37 | [Felin Foel railway station](https://en.wikipedia.org/wiki/Felin_Foel_railway_station) | [Glowr Curt Ryder](https://en.wikipedia.org/wiki/User:Glowr_Curt_Ryder) | 4,973 |
+| 2026-11-07 16:21:14 | [Michotamia](https://en.wikipedia.org/wiki/Michotamia) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 1,597 |
+| 2026-11-07 16:23:00 | [Anna Taylor (nutritionist)](https://en.wikipedia.org/wiki/Anna_Taylor_%28nutritionist%29) | [PamD](https://en.wikipedia.org/wiki/User:PamD) | 2,532 |
+| 2026-11-07 16:23:49 | [Andrew Walsh (disambiguation)](https://en.wikipedia.org/wiki/Andrew_Walsh_%28disambiguation%29) | [P.hogg](https://en.wikipedia.org/wiki/User:P.hogg) | 304 |
+| 2026-11-07 16:25:28 | [Holy Trinity Church, Bodrogolaszi](https://en.wikipedia.org/wiki/Holy_Trinity_Church%2C_Bodrogolaszi) | [Dominicus347](https://en.wikipedia.org/wiki/User:Dominicus347) | 3,497 |
+| 2026-11-07 16:26:42 | [St.hubert Minor Seminary SHS](https://en.wikipedia.org/wiki/St.hubert_Minor_Seminary_SHS) | [Geenito deghazy](https://en.wikipedia.org/wiki/User:Geenito_deghazy) | 206 |
+| 2026-11-07 16:28:16 | [David Sikes](https://en.wikipedia.org/wiki/David_Sikes) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,367 |
+| 2026-11-07 16:31:28 | [New Deal (Waco Brothers album)](https://en.wikipedia.org/wiki/New_Deal_%28Waco_Brothers_album%29) | [Caro7200](https://en.wikipedia.org/wiki/User:Caro7200) | 4,277 |
+| 2026-11-07 16:32:24 | [Lara Westdorp](https://en.wikipedia.org/wiki/Lara_Westdorp) | [Y2hyaXM](https://en.wikipedia.org/wiki/User:Y2hyaXM) | 4,350 |
+| 2026-11-07 16:33:44 | [Mitwitz (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Mitwitz_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,410 |
+| 2026-11-07 16:37:07 | [Kategorî:Êla Mizûrî](https://en.wikipedia.org/wiki/Kategor%C3%AE%3A%C3%8Ala_Miz%C3%BBr%C3%AE) | [Ahmed A Issa](https://en.wikipedia.org/wiki/User:Ahmed_A_Issa) | 35 |
+| 2026-11-07 16:37:14 | [Chuck Cook (American politician)](https://en.wikipedia.org/wiki/Chuck_Cook_%28American_politician%29) | [Y2hyaXM](https://en.wikipedia.org/wiki/User:Y2hyaXM) | 5,659 |
+| 2026-11-07 16:38:12 | [Columbus Midrange Engine Plant](https://en.wikipedia.org/wiki/Columbus_Midrange_Engine_Plant) | [Thomasfan1916](https://en.wikipedia.org/wiki/User:Thomasfan1916) | 5,169 |
+| 2026-11-07 16:39:36 | [Teuschnitz (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Teuschnitz_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,500 |
+| 2026-11-07 16:41:47 | [Darcy Castro](https://en.wikipedia.org/wiki/Darcy_Castro) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,865 |
+| 2026-11-07 16:42:07 | [A Hedonist Manifesto](https://en.wikipedia.org/wiki/A_Hedonist_Manifesto) | [Uriahheep228](https://en.wikipedia.org/wiki/User:Uriahheep228) | 3,238 |
+| 2026-11-07 16:42:32 | [Locchi](https://en.wikipedia.org/wiki/Locchi) | [Gaux](https://en.wikipedia.org/wiki/User:Gaux) | 285 |
+| 2026-11-07 16:45:19 | [Road cycling at the 2026 Summer Youth Olympics – Women's individual road race](https://en.wikipedia.org/wiki/Road_cycling_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Women%27s_individual_road_race) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 5,903 |
+| 2026-11-07 16:45:20 | [Horeb railway station](https://en.wikipedia.org/wiki/Horeb_railway_station) | [Glowr Curt Ryder](https://en.wikipedia.org/wiki/User:Glowr_Curt_Ryder) | 5,679 |
+| 2026-11-07 16:46:16 | [Joannès](https://en.wikipedia.org/wiki/Joann%C3%A8s) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 318 |
+| 2026-11-07 16:52:27 | [Mabel Danvers Ryder, Countess of Harrowby](https://en.wikipedia.org/wiki/Mabel_Danvers_Ryder%2C_Countess_of_Harrowby) | [Manxshearwater](https://en.wikipedia.org/wiki/User:Manxshearwater) | 4,574 |
+| 2026-11-07 16:54:32 | [Rasul Mitsayev](https://en.wikipedia.org/wiki/Rasul_Mitsayev) | [Geregen2](https://en.wikipedia.org/wiki/User:Geregen2) | 7,076 |
+| 2026-11-07 16:56:04 | [Don Normark](https://en.wikipedia.org/wiki/Don_Normark) | [F12 Harlem](https://en.wikipedia.org/wiki/User:F12_Harlem) | 3,561 |
+| 2026-11-07 16:57:06 | [Eric Lee (politician)](https://en.wikipedia.org/wiki/Eric_Lee_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,789 |
+| 2026-11-07 17:03:05 | [Dandu Sivarama Raju](https://en.wikipedia.org/wiki/Dandu_Sivarama_Raju) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,643 |
+| 2026-11-07 17:03:48 | [William New Jr.](https://en.wikipedia.org/wiki/William_New_Jr.) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,566 |
+| 2026-11-07 17:04:49 | [Anthony Tippetts](https://en.wikipedia.org/wiki/Anthony_Tippetts) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,208 |
+| 2026-11-07 17:05:36 | [Beach wrestling at the 2026 Summer Youth Olympics – Women's 55 kg](https://en.wikipedia.org/wiki/Beach_wrestling_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Women%27s_55_kg) | [Charan Gowda S](https://en.wikipedia.org/wiki/User:Charan_Gowda_S) | 12,456 |
+| 2026-11-07 17:08:13 | [Listed buildings in Kingston upon Hull (Newland Ward)](https://en.wikipedia.org/wiki/Listed_buildings_in_Kingston_upon_Hull_%28Newland_Ward%29) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 22,834 |
+| 2026-11-07 17:08:16 | [Joannes (disambiguation)](https://en.wikipedia.org/wiki/Joannes_%28disambiguation%29) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 580 |
+| 2026-11-07 17:09:51 | [Anne Christine Lutkemeyer](https://en.wikipedia.org/wiki/Anne_Christine_Lutkemeyer) | [ScotlandForevertennis](https://en.wikipedia.org/wiki/User:ScotlandForevertennis) | 1,027 |
+| 2026-11-07 17:10:38 | [A Yakuza's Daughter Never Cries](https://en.wikipedia.org/wiki/A_Yakuza%27s_Daughter_Never_Cries) | [MoonLight5648](https://en.wikipedia.org/wiki/User:MoonLight5648) | 3,690 |
+| 2026-11-07 17:15:29 | [P. Mobil](https://en.wikipedia.org/wiki/P._Mobil) | [DBS](https://en.wikipedia.org/wiki/User:DBS) | 14,754 |
+| 2026-11-07 17:15:42 | [Marc McMain](https://en.wikipedia.org/wiki/Marc_McMain) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,458 |
