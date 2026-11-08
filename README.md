@@ -13,45 +13,49 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-08 11:19 UTC](data/en/new-articles-2026-11-08T11-19-53Z.csv) | 13 |
-| Japanese | `ja` | [2026-11-08 11:19 UTC](data/ja/new-articles-2026-11-08T11-19-53Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-08 11:19 UTC](data/zh/new-articles-2026-11-08T11-19-53Z.csv) | 12 |
-| French | `fr` | [2026-11-08 11:19 UTC](data/fr/new-articles-2026-11-08T11-19-53Z.csv) | 8 |
-| German | `de` | [2026-11-08 11:19 UTC](data/de/new-articles-2026-11-08T11-19-53Z.csv) | 13 |
-| Russian | `ru` | [2026-11-08 11:19 UTC](data/ru/new-articles-2026-11-08T11-19-53Z.csv) | 10 |
-| Spanish | `es` | [2026-11-08 11:19 UTC](data/es/new-articles-2026-11-08T11-19-53Z.csv) | 3 |
-| Italian | `it` | [2026-11-08 11:19 UTC](data/it/new-articles-2026-11-08T11-19-53Z.csv) | 9 |
-| Portuguese | `pt` | [2026-11-08 11:19 UTC](data/pt/new-articles-2026-11-08T11-19-53Z.csv) | 4 |
-| Polish | `pl` | [2026-11-08 11:19 UTC](data/pl/new-articles-2026-11-08T11-19-53Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-08 11:19 UTC](data/ar/new-articles-2026-11-08T11-19-53Z.csv) | 1 |
-| Persian | `fa` | [2026-11-08 11:19 UTC](data/fa/new-articles-2026-11-08T11-19-53Z.csv) | 14 |
-| Turkish | `tr` | [2026-11-08 11:19 UTC](data/tr/new-articles-2026-11-08T11-19-53Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-08 10:18 UTC](data/he/new-articles-2026-11-08T10-18-18Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-08 11:19 UTC](data/sv/new-articles-2026-11-08T11-19-53Z.csv) | 6 |
-| Dutch | `nl` | [2026-11-08 11:19 UTC](data/nl/new-articles-2026-11-08T11-19-53Z.csv) | 8 |
-| Korean | `ko` | [2026-11-08 11:19 UTC](data/ko/new-articles-2026-11-08T11-19-53Z.csv) | 6 |
-| Indonesian | `id` | [2026-11-08 10:18 UTC](data/id/new-articles-2026-11-08T10-18-18Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-11-08 11:19 UTC](data/uk/new-articles-2026-11-08T11-19-53Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-11-08 11:19 UTC](data/vi/new-articles-2026-11-08T11-19-53Z.csv) | 8 |
+| English | `en` | [2026-11-08 12:18 UTC](data/en/new-articles-2026-11-08T12-18-41Z.csv) | 17 |
+| Japanese | `ja` | [2026-11-08 12:18 UTC](data/ja/new-articles-2026-11-08T12-18-41Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-08 12:18 UTC](data/zh/new-articles-2026-11-08T12-18-41Z.csv) | 9 |
+| French | `fr` | [2026-11-08 12:18 UTC](data/fr/new-articles-2026-11-08T12-18-41Z.csv) | 7 |
+| German | `de` | [2026-11-08 12:18 UTC](data/de/new-articles-2026-11-08T12-18-41Z.csv) | 13 |
+| Russian | `ru` | [2026-11-08 12:18 UTC](data/ru/new-articles-2026-11-08T12-18-41Z.csv) | 14 |
+| Spanish | `es` | [2026-11-08 12:18 UTC](data/es/new-articles-2026-11-08T12-18-41Z.csv) | 5 |
+| Italian | `it` | [2026-11-08 12:18 UTC](data/it/new-articles-2026-11-08T12-18-41Z.csv) | 16 |
+| Portuguese | `pt` | [2026-11-08 12:18 UTC](data/pt/new-articles-2026-11-08T12-18-41Z.csv) | 2 |
+| Polish | `pl` | [2026-11-08 12:18 UTC](data/pl/new-articles-2026-11-08T12-18-41Z.csv) | 9 |
+| Arabic | `ar` | [2026-11-08 12:18 UTC](data/ar/new-articles-2026-11-08T12-18-41Z.csv) | 3 |
+| Persian | `fa` | [2026-11-08 12:18 UTC](data/fa/new-articles-2026-11-08T12-18-41Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-08 12:18 UTC](data/tr/new-articles-2026-11-08T12-18-41Z.csv) | 21 |
+| Hebrew | `he` | [2026-11-08 12:18 UTC](data/he/new-articles-2026-11-08T12-18-41Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-08 12:18 UTC](data/sv/new-articles-2026-11-08T12-18-41Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-08 12:18 UTC](data/nl/new-articles-2026-11-08T12-18-41Z.csv) | 5 |
+| Korean | `ko` | [2026-11-08 12:18 UTC](data/ko/new-articles-2026-11-08T12-18-41Z.csv) | 7 |
+| Indonesian | `id` | [2026-11-08 12:18 UTC](data/id/new-articles-2026-11-08T12-18-41Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-11-08 12:18 UTC](data/uk/new-articles-2026-11-08T12-18-41Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-08 12:18 UTC](data/vi/new-articles-2026-11-08T12-18-41Z.csv) | 8 |
 
-## English (en) — 2026-11-08 11:19 UTC
+## English (en) — 2026-11-08 12:18 UTC
 
-New articles created between 2026-11-08 10:18 UTC and 2026-11-08 11:19 UTC.
+New articles created between 2026-11-08 11:19 UTC and 2026-11-08 12:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-08T11-19-53Z.csv)
+[Full CSV](data/en/new-articles-2026-11-08T12-18-41Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-08 10:26:38 | [Zhongguancun Institute of Artificial Intelligence](https://en.wikipedia.org/wiki/Zhongguancun_Institute_of_Artificial_Intelligence) | [Tellarin](https://en.wikipedia.org/wiki/User:Tellarin) | 10,365 |
-| 2026-11-08 10:33:04 | [Umberto Pierantoni](https://en.wikipedia.org/wiki/Umberto_Pierantoni) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-08 10:38:19 | [FAMAD](https://en.wikipedia.org/wiki/FAMAD) | [120Hz USB type C HDMI cable cord](https://en.wikipedia.org/wiki/User:120Hz_USB_type_C_HDMI_cable_cord) | 4,605 |
-| 2026-11-08 10:44:25 | [Antonio Leonhardt](https://en.wikipedia.org/wiki/Antonio_Leonhardt) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,601 |
-| 2026-11-08 10:46:37 | [Pavel V. Uschakov](https://en.wikipedia.org/wiki/Pavel_V._Uschakov) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 116 |
-| 2026-11-08 10:52:38 | [İzmir Opera House](https://en.wikipedia.org/wiki/%C4%B0zmir_Opera_House) | [Ahmetlii](https://en.wikipedia.org/wiki/User:Ahmetlii) | 12,808 |
-| 2026-11-08 10:56:44 | [Jordan Brunoli](https://en.wikipedia.org/wiki/Jordan_Brunoli) | [Thursby16](https://en.wikipedia.org/wiki/User:Thursby16) | 4,310 |
-| 2026-11-08 10:58:09 | [Hideji Yamaguchi](https://en.wikipedia.org/wiki/Hideji_Yamaguchi) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-08 11:04:10 | [Lara Santana](https://en.wikipedia.org/wiki/Lara_Santana) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,975 |
-| 2026-11-08 11:07:47 | [Rutger Horst](https://en.wikipedia.org/wiki/Rutger_Horst) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-08 11:12:52 | [Marcel B. Bouché](https://en.wikipedia.org/wiki/Marcel_B._Bouch%C3%A9) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-08 11:13:59 | [Najeeb Ullah Khan (footballer)](https://en.wikipedia.org/wiki/Najeeb_Ullah_Khan_%28footballer%29) | [APQF11](https://en.wikipedia.org/wiki/User:APQF11) | 6,018 |
-| 2026-11-08 11:14:49 | [Tomb of Dreams](https://en.wikipedia.org/wiki/Tomb_of_Dreams) | [Vincehardy](https://en.wikipedia.org/wiki/User:Vincehardy) | 11,028 |
+| 2026-11-08 11:22:54 | [Mzilikazi, Bulawayo](https://en.wikipedia.org/wiki/Mzilikazi%2C_Bulawayo) | [Babakathy](https://en.wikipedia.org/wiki/User:Babakathy) | 894 |
+| 2026-11-08 11:23:50 | [Jelte](https://en.wikipedia.org/wiki/Jelte) | [PK2](https://en.wikipedia.org/wiki/User:PK2) | 2,519 |
+| 2026-11-08 11:27:20 | [Acme-client](https://en.wikipedia.org/wiki/Acme-client) | [Librecentralize](https://en.wikipedia.org/wiki/User:Librecentralize) | 5,263 |
+| 2026-11-08 11:29:26 | [The Högdalen Police Murder 1992](https://en.wikipedia.org/wiki/The_H%C3%B6gdalen_Police_Murder_1992) | [Giobladiraboda](https://en.wikipedia.org/wiki/User:Giobladiraboda) | 3,965 |
+| 2026-11-08 11:31:46 | [Itaf Qaissi](https://en.wikipedia.org/wiki/Itaf_Qaissi) | [Schestos](https://en.wikipedia.org/wiki/User:Schestos) | 2,755 |
+| 2026-11-08 11:37:14 | [Chang Mohan](https://en.wikipedia.org/wiki/Chang_Mohan) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 5,704 |
+| 2026-11-08 11:38:17 | [Johnny Falloon](https://en.wikipedia.org/wiki/Johnny_Falloon) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 4,597 |
+| 2026-11-08 11:43:15 | [1949 VFA Grand Final](https://en.wikipedia.org/wiki/1949_VFA_Grand_Final) | [Totallynotarandomalt69](https://en.wikipedia.org/wiki/User:Totallynotarandomalt69) | 20,620 |
+| 2026-11-08 11:44:42 | [Jubilee Memorial Bible College](https://en.wikipedia.org/wiki/Jubilee_Memorial_Bible_College) | [Smj1983](https://en.wikipedia.org/wiki/User:Smj1983) | 1,640 |
+| 2026-11-08 11:46:54 | [Suicide of Charlotte Fosgate](https://en.wikipedia.org/wiki/Suicide_of_Charlotte_Fosgate) | [NRP](https://en.wikipedia.org/wiki/User:NRP) | 6,822 |
+| 2026-11-08 11:54:18 | [Patrick Mauga](https://en.wikipedia.org/wiki/Patrick_Mauga) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 4,757 |
+| 2026-11-08 11:55:07 | [Nurse Even](https://en.wikipedia.org/wiki/Nurse_Even) | [JmKissme](https://en.wikipedia.org/wiki/User:JmKissme) | 4,988 |
+| 2026-11-08 11:58:27 | [Havi (Abdul Rehman Sajid)](https://en.wikipedia.org/wiki/Havi_%28Abdul_Rehman_Sajid%29) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 4,125 |
+| 2026-11-08 12:01:39 | [21st Jogja-NETPAC Asian Film Festival](https://en.wikipedia.org/wiki/21st_Jogja-NETPAC_Asian_Film_Festival) | [Semampunya](https://en.wikipedia.org/wiki/User:Semampunya) | 13,214 |
+| 2026-11-08 12:09:46 | [Will Cole](https://en.wikipedia.org/wiki/Will_Cole) | [Rugbyfan22](https://en.wikipedia.org/wiki/User:Rugbyfan22) | 5,302 |
+| 2026-11-08 12:12:11 | [IGSF11](https://en.wikipedia.org/wiki/IGSF11) | [Boghog](https://en.wikipedia.org/wiki/User:Boghog) | 3,832 |
+| 2026-11-08 12:15:36 | [Nikolaos Papatheodorou](https://en.wikipedia.org/wiki/Nikolaos_Papatheodorou) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,588 |
