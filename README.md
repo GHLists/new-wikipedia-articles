@@ -13,51 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-09 07:18 UTC](data/en/new-articles-2026-11-09T07-18-23Z.csv) | 19 |
-| Japanese | `ja` | [2026-11-09 07:18 UTC](data/ja/new-articles-2026-11-09T07-18-23Z.csv) | 11 |
-| Chinese | `zh` | [2026-11-09 07:18 UTC](data/zh/new-articles-2026-11-09T07-18-23Z.csv) | 10 |
-| French | `fr` | [2026-11-09 07:18 UTC](data/fr/new-articles-2026-11-09T07-18-23Z.csv) | 1 |
-| German | `de` | [2026-11-09 07:18 UTC](data/de/new-articles-2026-11-09T07-18-23Z.csv) | 2 |
-| Russian | `ru` | [2026-11-09 07:18 UTC](data/ru/new-articles-2026-11-09T07-18-23Z.csv) | 6 |
-| Spanish | `es` | [2026-11-09 07:18 UTC](data/es/new-articles-2026-11-09T07-18-23Z.csv) | 4 |
-| Italian | `it` | [2026-11-09 07:18 UTC](data/it/new-articles-2026-11-09T07-18-23Z.csv) | 3 |
+| English | `en` | [2026-11-09 08:19 UTC](data/en/new-articles-2026-11-09T08-19-15Z.csv) | 18 |
+| Japanese | `ja` | [2026-11-09 08:19 UTC](data/ja/new-articles-2026-11-09T08-19-15Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-09 08:19 UTC](data/zh/new-articles-2026-11-09T08-19-15Z.csv) | 10 |
+| French | `fr` | [2026-11-09 08:19 UTC](data/fr/new-articles-2026-11-09T08-19-15Z.csv) | 7 |
+| German | `de` | [2026-11-09 08:19 UTC](data/de/new-articles-2026-11-09T08-19-15Z.csv) | 7 |
+| Russian | `ru` | [2026-11-09 08:19 UTC](data/ru/new-articles-2026-11-09T08-19-15Z.csv) | 5 |
+| Spanish | `es` | [2026-11-09 08:19 UTC](data/es/new-articles-2026-11-09T08-19-15Z.csv) | 5 |
+| Italian | `it` | [2026-11-09 08:19 UTC](data/it/new-articles-2026-11-09T08-19-15Z.csv) | 7 |
 | Portuguese | `pt` | [2026-11-09 06:18 UTC](data/pt/new-articles-2026-11-09T06-18-18Z.csv) | 1 |
-| Polish | `pl` | [2026-11-09 06:18 UTC](data/pl/new-articles-2026-11-09T06-18-18Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-09 07:18 UTC](data/ar/new-articles-2026-11-09T07-18-23Z.csv) | 1 |
-| Persian | `fa` | [2026-11-09 07:18 UTC](data/fa/new-articles-2026-11-09T07-18-23Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-09 07:18 UTC](data/tr/new-articles-2026-11-09T07-18-23Z.csv) | 12 |
-| Hebrew | `he` | [2026-11-09 07:18 UTC](data/he/new-articles-2026-11-09T07-18-23Z.csv) | 6 |
-| Swedish | `sv` | [2026-11-09 07:18 UTC](data/sv/new-articles-2026-11-09T07-18-23Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-09 05:18 UTC](data/nl/new-articles-2026-11-09T05-18-23Z.csv) | 1 |
-| Korean | `ko` | [2026-11-09 07:18 UTC](data/ko/new-articles-2026-11-09T07-18-23Z.csv) | 7 |
-| Indonesian | `id` | [2026-11-09 07:18 UTC](data/id/new-articles-2026-11-09T07-18-23Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-11-09 07:18 UTC](data/uk/new-articles-2026-11-09T07-18-23Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-11-09 07:18 UTC](data/vi/new-articles-2026-11-09T07-18-23Z.csv) | 2 |
+| Polish | `pl` | [2026-11-09 08:19 UTC](data/pl/new-articles-2026-11-09T08-19-15Z.csv) | 4 |
+| Arabic | `ar` | [2026-11-09 08:19 UTC](data/ar/new-articles-2026-11-09T08-19-15Z.csv) | 3 |
+| Persian | `fa` | [2026-11-09 08:19 UTC](data/fa/new-articles-2026-11-09T08-19-15Z.csv) | 8 |
+| Turkish | `tr` | [2026-11-09 08:19 UTC](data/tr/new-articles-2026-11-09T08-19-15Z.csv) | 10 |
+| Hebrew | `he` | [2026-11-09 08:19 UTC](data/he/new-articles-2026-11-09T08-19-15Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-09 08:19 UTC](data/sv/new-articles-2026-11-09T08-19-15Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-09 08:19 UTC](data/nl/new-articles-2026-11-09T08-19-15Z.csv) | 4 |
+| Korean | `ko` | [2026-11-09 08:19 UTC](data/ko/new-articles-2026-11-09T08-19-15Z.csv) | 6 |
+| Indonesian | `id` | [2026-11-09 08:19 UTC](data/id/new-articles-2026-11-09T08-19-15Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-11-09 08:19 UTC](data/uk/new-articles-2026-11-09T08-19-15Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-09 08:19 UTC](data/vi/new-articles-2026-11-09T08-19-15Z.csv) | 2 |
 
-## English (en) — 2026-11-09 07:18 UTC
+## English (en) — 2026-11-09 08:19 UTC
 
-New articles created between 2026-11-09 06:18 UTC and 2026-11-09 07:18 UTC.
+New articles created between 2026-11-09 07:18 UTC and 2026-11-09 08:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-09T07-18-23Z.csv)
+[Full CSV](data/en/new-articles-2026-11-09T08-19-15Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-09 06:24:54 | [Public Figures](https://en.wikipedia.org/wiki/Public_Figures) | [Sean Stephens](https://en.wikipedia.org/wiki/User:Sean_Stephens) | 661 |
-| 2026-11-09 06:27:30 | [Indonesian National Route 21](https://en.wikipedia.org/wiki/Indonesian_National_Route_21) | [Yan Tantya](https://en.wikipedia.org/wiki/User:Yan_Tantya) | 807 |
-| 2026-11-09 06:27:50 | [Petalocephala](https://en.wikipedia.org/wiki/Petalocephala) | [Roy Bateman](https://en.wikipedia.org/wiki/User:Roy_Bateman) | 6,573 |
-| 2026-11-09 06:34:31 | [Indonesian National Route 25](https://en.wikipedia.org/wiki/Indonesian_National_Route_25) | [Yan Tantya](https://en.wikipedia.org/wiki/User:Yan_Tantya) | 845 |
-| 2026-11-09 06:39:27 | [2026–27 West Georgia Wolves men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_West_Georgia_Wolves_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 28,564 |
-| 2026-11-09 06:42:39 | [Karol Szymanowski International Music Competition](https://en.wikipedia.org/wiki/Karol_Szymanowski_International_Music_Competition) | [Ulysse.esca](https://en.wikipedia.org/wiki/User:Ulysse.esca) | 3,603 |
-| 2026-11-09 06:47:42 | [Indonesian National Route 23](https://en.wikipedia.org/wiki/Indonesian_National_Route_23) | [Yan Tantya](https://en.wikipedia.org/wiki/User:Yan_Tantya) | 897 |
-| 2026-11-09 06:55:09 | [Indonesian National Route 17](https://en.wikipedia.org/wiki/Indonesian_National_Route_17) | [Yan Tantya](https://en.wikipedia.org/wiki/User:Yan_Tantya) | 843 |
-| 2026-11-09 06:58:06 | [Lid-driven cavity flow](https://en.wikipedia.org/wiki/Lid-driven_cavity_flow) | [LaminarHurricane](https://en.wikipedia.org/wiki/User:LaminarHurricane) | 137 |
-| 2026-11-09 07:00:08 | [Indonesian National Route 18](https://en.wikipedia.org/wiki/Indonesian_National_Route_18) | [Yan Tantya](https://en.wikipedia.org/wiki/User:Yan_Tantya) | 939 |
-| 2026-11-09 07:01:02 | [Elif Su İltaş](https://en.wikipedia.org/wiki/Elif_Su_%C4%B0lta%C5%9F) | [CeeGee](https://en.wikipedia.org/wiki/User:CeeGee) | 4,733 |
-| 2026-11-09 07:01:55 | [Road cycling at the 2026 Summer Youth Olympics – Men's road time trial](https://en.wikipedia.org/wiki/Road_cycling_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Men%27s_road_time_trial) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 5,518 |
-| 2026-11-09 07:04:50 | [Road cycling at the 2026 Summer Youth Olympics – Women's road time trial](https://en.wikipedia.org/wiki/Road_cycling_at_the_2026_Summer_Youth_Olympics_%E2%80%93_Women%27s_road_time_trial) | [Almagestas](https://en.wikipedia.org/wiki/User:Almagestas) | 5,710 |
-| 2026-11-09 07:07:06 | [Andrej Sibinović](https://en.wikipedia.org/wiki/Andrej_Sibinovi%C4%87) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,142 |
-| 2026-11-09 07:08:32 | [Ayrson Heráclito](https://en.wikipedia.org/wiki/Ayrson_Her%C3%A1clito) | [StoppedTime](https://en.wikipedia.org/wiki/User:StoppedTime) | 2,677 |
-| 2026-11-09 07:08:40 | [Paul Elizondo](https://en.wikipedia.org/wiki/Paul_Elizondo) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,795 |
-| 2026-11-09 07:10:27 | [Indonesian National Route 19](https://en.wikipedia.org/wiki/Indonesian_National_Route_19) | [Yan Tantya](https://en.wikipedia.org/wiki/User:Yan_Tantya) | 891 |
-| 2026-11-09 07:14:59 | [Indonesian National Route 16](https://en.wikipedia.org/wiki/Indonesian_National_Route_16) | [Yan Tantya](https://en.wikipedia.org/wiki/User:Yan_Tantya) | 930 |
-| 2026-11-09 07:15:44 | [Chimalistac](https://en.wikipedia.org/wiki/Chimalistac) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 26,340 |
+| 2026-11-09 07:28:40 | [Fifth Geda Rinpoche](https://en.wikipedia.org/wiki/Fifth_Geda_Rinpoche) | [SongRuyi](https://en.wikipedia.org/wiki/User:SongRuyi) | 5,105 |
+| 2026-11-09 07:30:53 | [Miad Nakhavali](https://en.wikipedia.org/wiki/Miad_Nakhavali) | [Kolefon](https://en.wikipedia.org/wiki/User:Kolefon) | 10,584 |
+| 2026-11-09 07:32:44 | [Felix Oragwu](https://en.wikipedia.org/wiki/Felix_Oragwu) | [Cooklabel](https://en.wikipedia.org/wiki/User:Cooklabel) | 6,385 |
+| 2026-11-09 07:43:35 | [Deal Me In (album)](https://en.wikipedia.org/wiki/Deal_Me_In_%28album%29) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 5,158 |
+| 2026-11-09 07:44:46 | [List of Ambassadors of Portugal to Austria](https://en.wikipedia.org/wiki/List_of_Ambassadors_of_Portugal_to_Austria) | [Filiep](https://en.wikipedia.org/wiki/User:Filiep) | 13,636 |
+| 2026-11-09 07:44:50 | [2-Methylmethamphetamine](https://en.wikipedia.org/wiki/2-Methylmethamphetamine) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 4,368 |
+| 2026-11-09 07:45:09 | [Marikina Town Center](https://en.wikipedia.org/wiki/Marikina_Town_Center) | [Bryski 25](https://en.wikipedia.org/wiki/User:Bryski_25) | 3,104 |
+| 2026-11-09 07:45:38 | [2026 NSL final](https://en.wikipedia.org/wiki/2026_NSL_final) | [OTTtruther](https://en.wikipedia.org/wiki/User:OTTtruther) | 1,787 |
+| 2026-11-09 07:47:49 | [Beri Monastery](https://en.wikipedia.org/wiki/Beri_Monastery) | [SongRuyi](https://en.wikipedia.org/wiki/User:SongRuyi) | 2,431 |
+| 2026-11-09 07:53:26 | [Alkborough Windmill](https://en.wikipedia.org/wiki/Alkborough_Windmill) | [Mjroots](https://en.wikipedia.org/wiki/User:Mjroots) | 3,535 |
+| 2026-11-09 07:57:13 | [History of the Conservative Party of New York State](https://en.wikipedia.org/wiki/History_of_the_Conservative_Party_of_New_York_State) | [CopyleftEverything](https://en.wikipedia.org/wiki/User:CopyleftEverything) | 39,920 |
+| 2026-11-09 07:57:23 | [Hioki Kentarō](https://en.wikipedia.org/wiki/Hioki_Kentar%C5%8D) | [Pro310](https://en.wikipedia.org/wiki/User:Pro310) | 1,104 |
+| 2026-11-09 08:03:39 | [Diespeck (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Diespeck_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,511 |
+| 2026-11-09 08:09:20 | [Hagenbüchach-Wilhelmsdorf](https://en.wikipedia.org/wiki/Hagenb%C3%BCchach-Wilhelmsdorf) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,639 |
+| 2026-11-09 08:14:29 | [Neuhof an der Zenn (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Neuhof_an_der_Zenn_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,539 |
+| 2026-11-09 08:17:03 | [Nahaama III](https://en.wikipedia.org/wiki/Nahaama_III) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 2,847 |
+| 2026-11-09 08:17:18 | [Scheinfeld (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Scheinfeld_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,590 |
+| 2026-11-09 08:17:30 | [Beauchamp baronets of Grosvenor Place (1911)](https://en.wikipedia.org/wiki/Beauchamp_baronets_of_Grosvenor_Place_%281911%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,662 |
