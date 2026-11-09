@@ -13,55 +13,56 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-09 12:18 UTC](data/en/new-articles-2026-11-09T12-18-24Z.csv) | 23 |
-| Japanese | `ja` | [2026-11-09 12:18 UTC](data/ja/new-articles-2026-11-09T12-18-24Z.csv) | 12 |
-| Chinese | `zh` | [2026-11-09 12:18 UTC](data/zh/new-articles-2026-11-09T12-18-24Z.csv) | 17 |
-| French | `fr` | [2026-11-09 12:18 UTC](data/fr/new-articles-2026-11-09T12-18-24Z.csv) | 7 |
-| German | `de` | [2026-11-09 12:18 UTC](data/de/new-articles-2026-11-09T12-18-24Z.csv) | 8 |
-| Russian | `ru` | [2026-11-09 12:18 UTC](data/ru/new-articles-2026-11-09T12-18-24Z.csv) | 15 |
-| Spanish | `es` | [2026-11-09 12:18 UTC](data/es/new-articles-2026-11-09T12-18-24Z.csv) | 11 |
-| Italian | `it` | [2026-11-09 12:18 UTC](data/it/new-articles-2026-11-09T12-18-24Z.csv) | 10 |
-| Portuguese | `pt` | [2026-11-09 12:18 UTC](data/pt/new-articles-2026-11-09T12-18-24Z.csv) | 3 |
-| Polish | `pl` | [2026-11-09 12:18 UTC](data/pl/new-articles-2026-11-09T12-18-24Z.csv) | 7 |
-| Arabic | `ar` | [2026-11-09 12:18 UTC](data/ar/new-articles-2026-11-09T12-18-24Z.csv) | 1 |
-| Persian | `fa` | [2026-11-09 12:18 UTC](data/fa/new-articles-2026-11-09T12-18-24Z.csv) | 8 |
-| Turkish | `tr` | [2026-11-09 12:18 UTC](data/tr/new-articles-2026-11-09T12-18-24Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-09 12:18 UTC](data/he/new-articles-2026-11-09T12-18-24Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-09 12:18 UTC](data/sv/new-articles-2026-11-09T12-18-24Z.csv) | 5 |
-| Dutch | `nl` | [2026-11-09 12:18 UTC](data/nl/new-articles-2026-11-09T12-18-24Z.csv) | 7 |
-| Korean | `ko` | [2026-11-09 12:18 UTC](data/ko/new-articles-2026-11-09T12-18-24Z.csv) | 9 |
-| Indonesian | `id` | [2026-11-09 12:18 UTC](data/id/new-articles-2026-11-09T12-18-24Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-09 12:18 UTC](data/uk/new-articles-2026-11-09T12-18-24Z.csv) | 13 |
-| Vietnamese | `vi` | [2026-11-09 12:18 UTC](data/vi/new-articles-2026-11-09T12-18-24Z.csv) | 3 |
+| English | `en` | [2026-11-09 13:19 UTC](data/en/new-articles-2026-11-09T13-19-05Z.csv) | 24 |
+| Japanese | `ja` | [2026-11-09 13:19 UTC](data/ja/new-articles-2026-11-09T13-19-05Z.csv) | 14 |
+| Chinese | `zh` | [2026-11-09 13:19 UTC](data/zh/new-articles-2026-11-09T13-19-05Z.csv) | 6 |
+| French | `fr` | [2026-11-09 13:19 UTC](data/fr/new-articles-2026-11-09T13-19-05Z.csv) | 5 |
+| German | `de` | [2026-11-09 13:19 UTC](data/de/new-articles-2026-11-09T13-19-05Z.csv) | 11 |
+| Russian | `ru` | [2026-11-09 13:19 UTC](data/ru/new-articles-2026-11-09T13-19-05Z.csv) | 28 |
+| Spanish | `es` | [2026-11-09 13:19 UTC](data/es/new-articles-2026-11-09T13-19-05Z.csv) | 23 |
+| Italian | `it` | [2026-11-09 13:19 UTC](data/it/new-articles-2026-11-09T13-19-05Z.csv) | 11 |
+| Portuguese | `pt` | [2026-11-09 13:19 UTC](data/pt/new-articles-2026-11-09T13-19-05Z.csv) | 3 |
+| Polish | `pl` | [2026-11-09 13:19 UTC](data/pl/new-articles-2026-11-09T13-19-05Z.csv) | 8 |
+| Arabic | `ar` | [2026-11-09 13:19 UTC](data/ar/new-articles-2026-11-09T13-19-05Z.csv) | 7 |
+| Persian | `fa` | [2026-11-09 13:19 UTC](data/fa/new-articles-2026-11-09T13-19-05Z.csv) | 5 |
+| Turkish | `tr` | [2026-11-09 13:19 UTC](data/tr/new-articles-2026-11-09T13-19-05Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-09 13:19 UTC](data/he/new-articles-2026-11-09T13-19-05Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-09 13:19 UTC](data/sv/new-articles-2026-11-09T13-19-05Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-09 13:19 UTC](data/nl/new-articles-2026-11-09T13-19-05Z.csv) | 7 |
+| Korean | `ko` | [2026-11-09 13:19 UTC](data/ko/new-articles-2026-11-09T13-19-05Z.csv) | 6 |
+| Indonesian | `id` | [2026-11-09 13:19 UTC](data/id/new-articles-2026-11-09T13-19-05Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-09 13:19 UTC](data/uk/new-articles-2026-11-09T13-19-05Z.csv) | 5 |
+| Vietnamese | `vi` | [2026-11-09 13:19 UTC](data/vi/new-articles-2026-11-09T13-19-05Z.csv) | 3 |
 
-## English (en) — 2026-11-09 12:18 UTC
+## English (en) — 2026-11-09 13:19 UTC
 
-New articles created between 2026-11-09 11:18 UTC and 2026-11-09 12:18 UTC.
+New articles created between 2026-11-09 12:18 UTC and 2026-11-09 13:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-09T12-18-24Z.csv)
+[Full CSV](data/en/new-articles-2026-11-09T13-19-05Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-09 11:19:20 | [Mecynodes kisilkumi](https://en.wikipedia.org/wiki/Mecynodes_kisilkumi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,332 |
-| 2026-11-09 11:19:28 | [Mukhammadrasul Abdumajidov](https://en.wikipedia.org/wiki/Mukhammadrasul_Abdumajidov) | [Umarxon III](https://en.wikipedia.org/wiki/User:Umarxon_III) | 4,234 |
-| 2026-11-09 11:22:33 | [Mecynodes gilvipennis](https://en.wikipedia.org/wiki/Mecynodes_gilvipennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,208 |
-| 2026-11-09 11:24:52 | [Everard baronets of Ballyboy (1622)](https://en.wikipedia.org/wiki/Everard_baronets_of_Ballyboy_%281622%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,732 |
-| 2026-11-09 11:46:14 | [Howard Coray](https://en.wikipedia.org/wiki/Howard_Coray) | [Jlamro](https://en.wikipedia.org/wiki/User:Jlamro) | 13,367 |
-| 2026-11-09 11:49:43 | [Esymus alaiensis](https://en.wikipedia.org/wiki/Esymus_alaiensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,126 |
-| 2026-11-09 11:50:20 | [Victor Espadinha](https://en.wikipedia.org/wiki/Victor_Espadinha) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 3,724 |
-| 2026-11-09 11:50:58 | [2027 D1 Grand Prix series](https://en.wikipedia.org/wiki/2027_D1_Grand_Prix_series) | [Fawwaz Rafif](https://en.wikipedia.org/wiki/User:Fawwaz_Rafif) | 5,170 |
-| 2026-11-09 11:53:07 | [Esymus ornatulus](https://en.wikipedia.org/wiki/Esymus_ornatulus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,163 |
-| 2026-11-09 11:53:08 | [John Eyre/temp](https://en.wikipedia.org/wiki/John_Eyre/temp) | [Graham87](https://en.wikipedia.org/wiki/User:Graham87) | 23 |
-| 2026-11-09 11:56:10 | [Esymus finitimus](https://en.wikipedia.org/wiki/Esymus_finitimus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,122 |
-| 2026-11-09 11:56:32 | [1949–50 Schenectady Packers season](https://en.wikipedia.org/wiki/1949%E2%80%9350_Schenectady_Packers_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,028 |
-| 2026-11-09 11:58:28 | [2016–17 FC Nitra season](https://en.wikipedia.org/wiki/2016%E2%80%9317_FC_Nitra_season) | [Lazio](https://en.wikipedia.org/wiki/User:Lazio) | 56,178 |
-| 2026-11-09 12:02:06 | [Phalacronothus suturinigra](https://en.wikipedia.org/wiki/Phalacronothus_suturinigra) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,274 |
-| 2026-11-09 12:02:17 | [Gerrish, New Hampshire](https://en.wikipedia.org/wiki/Gerrish%2C_New_Hampshire) | [Listfixer3000](https://en.wikipedia.org/wiki/User:Listfixer3000) | 2,145 |
-| 2026-11-09 12:05:19 | [Test for sjovv](https://en.wikipedia.org/wiki/Test_for_sjovv) | [LassFV](https://en.wikipedia.org/wiki/User:LassFV) | 2,038 |
-| 2026-11-09 12:05:38 | [Södra Hammarbyhamnen](https://en.wikipedia.org/wiki/S%C3%B6dra_Hammarbyhamnen) | [Saftgurka](https://en.wikipedia.org/wiki/User:Saftgurka) | 12,553 |
-| 2026-11-09 12:05:48 | [Euorodalus tersus](https://en.wikipedia.org/wiki/Euorodalus_tersus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,143 |
-| 2026-11-09 12:09:09 | [1949–50 Hartford Hurricanes season](https://en.wikipedia.org/wiki/1949%E2%80%9350_Hartford_Hurricanes_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 7,717 |
-| 2026-11-09 12:09:39 | [Esymus indulgens](https://en.wikipedia.org/wiki/Esymus_indulgens) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,144 |
-| 2026-11-09 12:12:01 | [Esymus sicardi](https://en.wikipedia.org/wiki/Esymus_sicardi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,978 |
-| 2026-11-09 12:15:55 | [1949–50 Scranton Miners season](https://en.wikipedia.org/wiki/1949%E2%80%9350_Scranton_Miners_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 10,818 |
-| 2026-11-09 12:16:21 | [Wibke von Bonin](https://en.wikipedia.org/wiki/Wibke_von_Bonin) | [PamD](https://en.wikipedia.org/wiki/User:PamD) | 2,376 |
+| 2026-11-09 12:18:37 | [Rosemary Nwankwo](https://en.wikipedia.org/wiki/Rosemary_Nwankwo) | [Obinna Tony](https://en.wikipedia.org/wiki/User:Obinna_Tony) | 5,552 |
+| 2026-11-09 12:18:52 | [Esymus filitarsis](https://en.wikipedia.org/wiki/Esymus_filitarsis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,977 |
+| 2026-11-09 12:19:55 | [1949–50 Bridgeport Aer-A-Sols season](https://en.wikipedia.org/wiki/1949%E2%80%9350_Bridgeport_Aer-A-Sols_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 8,583 |
+| 2026-11-09 12:21:37 | [Esymus pyreti](https://en.wikipedia.org/wiki/Esymus_pyreti) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,968 |
+| 2026-11-09 12:25:19 | [1949–50 New York / Saratoga Harlem Yankees season](https://en.wikipedia.org/wiki/1949%E2%80%9350_New_York_/_Saratoga_Harlem_Yankees_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 10,774 |
+| 2026-11-09 12:25:38 | [Phalacronothus fumigatulus](https://en.wikipedia.org/wiki/Phalacronothus_fumigatulus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,194 |
+| 2026-11-09 12:29:39 | [Tuan Rondahaim Saragih Garingging](https://en.wikipedia.org/wiki/Tuan_Rondahaim_Saragih_Garingging) | [Laindan](https://en.wikipedia.org/wiki/User:Laindan) | 5,640 |
+| 2026-11-09 12:29:39 | [Sereana Naitokatoka](https://en.wikipedia.org/wiki/Sereana_Naitokatoka) | [PlaytheballRL](https://en.wikipedia.org/wiki/User:PlaytheballRL) | 3,600 |
+| 2026-11-09 12:31:24 | [Aphodobius amplipennis](https://en.wikipedia.org/wiki/Aphodobius_amplipennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,121 |
+| 2026-11-09 12:38:15 | [Joaquim Letria](https://en.wikipedia.org/wiki/Joaquim_Letria) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 9,827 |
+| 2026-11-09 12:38:55 | [Chen Kangyue](https://en.wikipedia.org/wiki/Chen_Kangyue) | [EtVVV](https://en.wikipedia.org/wiki/User:EtVVV) | 5,158 |
+| 2026-11-09 12:38:59 | [Himayatuddin Muhammad Saidi](https://en.wikipedia.org/wiki/Himayatuddin_Muhammad_Saidi) | [Laindan](https://en.wikipedia.org/wiki/User:Laindan) | 6,953 |
+| 2026-11-09 12:42:43 | [Lasioglossum sturti](https://en.wikipedia.org/wiki/Lasioglossum_sturti) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,677 |
+| 2026-11-09 12:44:08 | [1950–51 Scranton Miners season](https://en.wikipedia.org/wiki/1950%E2%80%9351_Scranton_Miners_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 12,423 |
+| 2026-11-09 12:44:24 | [Gobonimo Market fire](https://en.wikipedia.org/wiki/Gobonimo_Market_fire) | [Antoniya-26](https://en.wikipedia.org/wiki/User:Antoniya-26) | 6,531 |
+| 2026-11-09 12:49:53 | [Gliese 777 Ac/temp](https://en.wikipedia.org/wiki/Gliese_777_Ac/temp) | [Graham87](https://en.wikipedia.org/wiki/User:Graham87) | 27 |
+| 2026-11-09 12:52:08 | [Mesontoplatys dorsalis](https://en.wikipedia.org/wiki/Mesontoplatys_dorsalis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,232 |
+| 2026-11-09 12:53:01 | [Derek Hardwick (actor)](https://en.wikipedia.org/wiki/Derek_Hardwick_%28actor%29) | [Duffbeerforme](https://en.wikipedia.org/wiki/User:Duffbeerforme) | 3,604 |
+| 2026-11-09 12:58:51 | [Kanwar Muhammad Yaseen](https://en.wikipedia.org/wiki/Kanwar_Muhammad_Yaseen) | [UC10SirSyedTown](https://en.wikipedia.org/wiki/User:UC10SirSyedTown) | 1,810 |
+| 2026-11-09 12:59:00 | [Mesontoplatys mungo](https://en.wikipedia.org/wiki/Mesontoplatys_mungo) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,029 |
+| 2026-11-09 13:01:55 | [Mesontoplatys arabicus](https://en.wikipedia.org/wiki/Mesontoplatys_arabicus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,179 |
+| 2026-11-09 13:02:52 | [Gliese 777 Ab/temp](https://en.wikipedia.org/wiki/Gliese_777_Ab/temp) | [Graham87](https://en.wikipedia.org/wiki/User:Graham87) | 27 |
+| 2026-11-09 13:03:26 | [2003–04 Serie C2](https://en.wikipedia.org/wiki/2003%E2%80%9304_Serie_C2) | [11piemontesibellitosti](https://en.wikipedia.org/wiki/User:11piemontesibellitosti) | 7,944 |
+| 2026-11-09 13:08:46 | [Night of the Living Dummy II (Goosebumps episode)](https://en.wikipedia.org/wiki/Night_of_the_Living_Dummy_II_%28Goosebumps_episode%29) | [Ketchupisgood](https://en.wikipedia.org/wiki/User:Ketchupisgood) | 2,750 |
