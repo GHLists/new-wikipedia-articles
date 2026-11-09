@@ -13,72 +13,69 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-08 23:20 UTC](data/en/new-articles-2026-11-08T23-20-43Z.csv) | 40 |
-| Japanese | `ja` | [2026-11-08 23:20 UTC](data/ja/new-articles-2026-11-08T23-20-43Z.csv) | 2 |
-| Chinese | `zh` | [2026-11-08 23:20 UTC](data/zh/new-articles-2026-11-08T23-20-43Z.csv) | 10 |
-| French | `fr` | [2026-11-08 23:20 UTC](data/fr/new-articles-2026-11-08T23-20-43Z.csv) | 8 |
-| German | `de` | [2026-11-08 23:20 UTC](data/de/new-articles-2026-11-08T23-20-43Z.csv) | 3 |
-| Russian | `ru` | [2026-11-08 23:20 UTC](data/ru/new-articles-2026-11-08T23-20-43Z.csv) | 8 |
-| Spanish | `es` | [2026-11-08 23:20 UTC](data/es/new-articles-2026-11-08T23-20-43Z.csv) | 13 |
-| Italian | `it` | [2026-11-08 23:20 UTC](data/it/new-articles-2026-11-08T23-20-43Z.csv) | 12 |
-| Portuguese | `pt` | [2026-11-08 23:20 UTC](data/pt/new-articles-2026-11-08T23-20-43Z.csv) | 8 |
-| Polish | `pl` | [2026-11-08 23:20 UTC](data/pl/new-articles-2026-11-08T23-20-43Z.csv) | 4 |
-| Arabic | `ar` | [2026-11-08 23:20 UTC](data/ar/new-articles-2026-11-08T23-20-43Z.csv) | 1 |
-| Persian | `fa` | [2026-11-08 23:20 UTC](data/fa/new-articles-2026-11-08T23-20-43Z.csv) | 294 |
-| Turkish | `tr` | [2026-11-08 23:20 UTC](data/tr/new-articles-2026-11-08T23-20-43Z.csv) | 6 |
+| English | `en` | [2026-11-09 00:19 UTC](data/en/new-articles-2026-11-09T00-19-03Z.csv) | 37 |
+| Japanese | `ja` | [2026-11-09 00:19 UTC](data/ja/new-articles-2026-11-09T00-19-03Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-09 00:19 UTC](data/zh/new-articles-2026-11-09T00-19-03Z.csv) | 6 |
+| French | `fr` | [2026-11-09 00:19 UTC](data/fr/new-articles-2026-11-09T00-19-03Z.csv) | 7 |
+| German | `de` | [2026-11-09 00:19 UTC](data/de/new-articles-2026-11-09T00-19-03Z.csv) | 3 |
+| Russian | `ru` | [2026-11-09 00:19 UTC](data/ru/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
+| Spanish | `es` | [2026-11-09 00:19 UTC](data/es/new-articles-2026-11-09T00-19-03Z.csv) | 8 |
+| Italian | `it` | [2026-11-09 00:19 UTC](data/it/new-articles-2026-11-09T00-19-03Z.csv) | 3 |
+| Portuguese | `pt` | [2026-11-09 00:19 UTC](data/pt/new-articles-2026-11-09T00-19-03Z.csv) | 11 |
+| Polish | `pl` | [2026-11-09 00:19 UTC](data/pl/new-articles-2026-11-09T00-19-03Z.csv) | 4 |
+| Arabic | `ar` | [2026-11-09 00:19 UTC](data/ar/new-articles-2026-11-09T00-19-03Z.csv) | 3 |
+| Persian | `fa` | [2026-11-09 00:19 UTC](data/fa/new-articles-2026-11-09T00-19-03Z.csv) | 219 |
+| Turkish | `tr` | [2026-11-09 00:19 UTC](data/tr/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-08 22:19 UTC](data/he/new-articles-2026-11-08T22-19-49Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-08 23:20 UTC](data/sv/new-articles-2026-11-08T23-20-43Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-08 23:20 UTC](data/nl/new-articles-2026-11-08T23-20-43Z.csv) | 2 |
-| Korean | `ko` | [2026-11-08 17:18 UTC](data/ko/new-articles-2026-11-08T17-18-22Z.csv) | 4 |
-| Indonesian | `id` | [2026-11-08 23:20 UTC](data/id/new-articles-2026-11-08T23-20-43Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-08 23:20 UTC](data/uk/new-articles-2026-11-08T23-20-43Z.csv) | 8 |
-| Vietnamese | `vi` | [2026-11-08 23:20 UTC](data/vi/new-articles-2026-11-08T23-20-43Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-09 00:19 UTC](data/sv/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-09 00:19 UTC](data/nl/new-articles-2026-11-09T00-19-03Z.csv) | 4 |
+| Korean | `ko` | [2026-11-09 00:19 UTC](data/ko/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-09 00:19 UTC](data/id/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-09 00:19 UTC](data/uk/new-articles-2026-11-09T00-19-03Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-09 00:19 UTC](data/vi/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
 
-## English (en) — 2026-11-08 23:20 UTC
+## English (en) — 2026-11-09 00:19 UTC
 
-New articles created between 2026-11-08 22:19 UTC and 2026-11-08 23:20 UTC.
+New articles created between 2026-11-08 23:20 UTC and 2026-11-09 00:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-08T23-20-43Z.csv)
+[Full CSV](data/en/new-articles-2026-11-09T00-19-03Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-08 22:20:37 | [Alliance Centropolis Towers](https://en.wikipedia.org/wiki/Alliance_Centropolis_Towers) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 8,536 |
-| 2026-11-08 22:22:59 | [Drominboy](https://en.wikipedia.org/wiki/Drominboy) | [TheUltimateGenealogy](https://en.wikipedia.org/wiki/User:TheUltimateGenealogy) | 6,330 |
-| 2026-11-08 22:25:27 | [The Enchanted Brahmin's Son](https://en.wikipedia.org/wiki/The_Enchanted_Brahmin%27s_Son) | [KHR FolkMyth](https://en.wikipedia.org/wiki/User:KHR_FolkMyth) | 24,938 |
-| 2026-11-08 22:27:49 | [List of organizations that self-identify as FNIM governments](https://en.wikipedia.org/wiki/List_of_organizations_that_self-identify_as_FNIM_governments) | [Bohemian Baltimore](https://en.wikipedia.org/wiki/User:Bohemian_Baltimore) | 7,119 |
-| 2026-11-08 22:29:27 | [Coal Tar Research Association](https://en.wikipedia.org/wiki/Coal_Tar_Research_Association) | [Kyteto](https://en.wikipedia.org/wiki/User:Kyteto) | 2,648 |
-| 2026-11-08 22:31:18 | [Emilia Cortez](https://en.wikipedia.org/wiki/Emilia_Cortez) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 4,746 |
-| 2026-11-08 22:32:04 | [Tricholoma subannulatum](https://en.wikipedia.org/wiki/Tricholoma_subannulatum) | [TheNatureKid](https://en.wikipedia.org/wiki/User:TheNatureKid) | 3,361 |
-| 2026-11-08 22:33:59 | [Semecarpus borneensis](https://en.wikipedia.org/wiki/Semecarpus_borneensis) | [Declangi](https://en.wikipedia.org/wiki/User:Declangi) | 2,966 |
-| 2026-11-08 22:34:59 | [Murder of Betty Alexander](https://en.wikipedia.org/wiki/Murder_of_Betty_Alexander) | [Davidgoodheart](https://en.wikipedia.org/wiki/User:Davidgoodheart) | 3,201 |
-| 2026-11-08 22:35:50 | [Región VIII - Norte, Chiapas](https://en.wikipedia.org/wiki/Regi%C3%B3n_VIII_-_Norte%2C_Chiapas) | [ManuelPal97](https://en.wikipedia.org/wiki/User:ManuelPal97) | 6,814 |
-| 2026-11-08 22:36:34 | [Al-Khiwai offensive](https://en.wikipedia.org/wiki/Al-Khiwai_offensive) | [SDUpdates32349](https://en.wikipedia.org/wiki/User:SDUpdates32349) | 4,647 |
-| 2026-11-08 22:37:24 | [Antoa Senior High School](https://en.wikipedia.org/wiki/Antoa_Senior_High_School) | [Asamoah Daniel Kwame Oware](https://en.wikipedia.org/wiki/User:Asamoah_Daniel_Kwame_Oware) | 2,718 |
-| 2026-11-08 22:40:06 | [BOM (group)](https://en.wikipedia.org/wiki/BOM_%28group%29) | [Swe97](https://en.wikipedia.org/wiki/User:Swe97) | 10,655 |
-| 2026-11-08 22:43:15 | [2024 Sporting Cristal season](https://en.wikipedia.org/wiki/2024_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 2,415 |
-| 2026-11-08 22:43:19 | [Región IX- Istmo-Costa, Chiapas](https://en.wikipedia.org/wiki/Regi%C3%B3n_IX-_Istmo-Costa%2C_Chiapas) | [ManuelPal97](https://en.wikipedia.org/wiki/User:ManuelPal97) | 5,139 |
-| 2026-11-08 22:43:41 | [Greater London Regional Planning Committee](https://en.wikipedia.org/wiki/Greater_London_Regional_Planning_Committee) | [UrbaniteMunicipalist](https://en.wikipedia.org/wiki/User:UrbaniteMunicipalist) | 3,580 |
-| 2026-11-08 22:45:07 | [Sacha Marie Taylor](https://en.wikipedia.org/wiki/Sacha_Marie_Taylor) | [Etheth](https://en.wikipedia.org/wiki/User:Etheth) | 3,007 |
-| 2026-11-08 22:47:14 | [Edward Charles Cyril Baly](https://en.wikipedia.org/wiki/Edward_Charles_Cyril_Baly) | [MerielGJones](https://en.wikipedia.org/wiki/User:MerielGJones) | 7,392 |
-| 2026-11-08 22:47:30 | [Panagiota Argyriou](https://en.wikipedia.org/wiki/Panagiota_Argyriou) | [TheBeanMan123](https://en.wikipedia.org/wiki/User:TheBeanMan123) | 15,028 |
-| 2026-11-08 22:47:50 | [Olímpia Esporte Clube](https://en.wikipedia.org/wiki/Ol%C3%ADmpia_Esporte_Clube) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 3,825 |
-| 2026-11-08 22:49:07 | [33 Upper Brook Street](https://en.wikipedia.org/wiki/33_Upper_Brook_Street) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,579 |
-| 2026-11-08 22:51:03 | [Jacob Allen](https://en.wikipedia.org/wiki/Jacob_Allen) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,828 |
-| 2026-11-08 22:51:17 | [Sacrosanct (album)](https://en.wikipedia.org/wiki/Sacrosanct_%28album%29) | [Indianawick](https://en.wikipedia.org/wiki/User:Indianawick) | 4,344 |
-| 2026-11-08 22:51:18 | [Bevel (musical project)](https://en.wikipedia.org/wiki/Bevel_%28musical_project%29) | [Toweli](https://en.wikipedia.org/wiki/User:Toweli) | 2,305 |
-| 2026-11-08 22:52:53 | [Andrew Yun](https://en.wikipedia.org/wiki/Andrew_Yun) | [Jumplike23](https://en.wikipedia.org/wiki/User:Jumplike23) | 16,631 |
-| 2026-11-08 22:59:35 | [Aria wyensis](https://en.wikipedia.org/wiki/Aria_wyensis) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 5,360 |
-| 2026-11-08 23:00:15 | [34 Upper Brook Street](https://en.wikipedia.org/wiki/34_Upper_Brook_Street) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 2,949 |
-| 2026-11-08 23:01:10 | [Beatrice Welters](https://en.wikipedia.org/wiki/Beatrice_Welters) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 5,751 |
-| 2026-11-08 23:01:20 | [2026–27 George Mason Patriots men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_George_Mason_Patriots_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 44,726 |
-| 2026-11-08 23:01:53 | [Tina Abrams](https://en.wikipedia.org/wiki/Tina_Abrams) | [Coqui002](https://en.wikipedia.org/wiki/User:Coqui002) | 2,211 |
-| 2026-11-08 23:02:53 | [French Troops Resting](https://en.wikipedia.org/wiki/French_Troops_Resting) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,170 |
-| 2026-11-08 23:03:00 | [Rey Hernandez](https://en.wikipedia.org/wiki/Rey_Hernandez) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,479 |
-| 2026-11-08 23:04:11 | [2026 UEC Cyclo-cross European Championships](https://en.wikipedia.org/wiki/2026_UEC_Cyclo-cross_European_Championships) | [Pelotas](https://en.wikipedia.org/wiki/User:Pelotas) | 13,473 |
-| 2026-11-08 23:05:18 | [Catching Faith](https://en.wikipedia.org/wiki/Catching_Faith) | [Ketchupisgood](https://en.wikipedia.org/wiki/User:Ketchupisgood) | 1,165 |
-| 2026-11-08 23:08:29 | [Mitchell Smith (politician)](https://en.wikipedia.org/wiki/Mitchell_Smith_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,058 |
-| 2026-11-08 23:08:55 | [2025 Sporting Cristal season](https://en.wikipedia.org/wiki/2025_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 2,378 |
-| 2026-11-08 23:09:43 | [Eugenia Gibson](https://en.wikipedia.org/wiki/Eugenia_Gibson) | [Rosiestep](https://en.wikipedia.org/wiki/User:Rosiestep) | 1,911 |
-| 2026-11-08 23:12:21 | [2026–27 George Washington Revolutionaries men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_George_Washington_Revolutionaries_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 43,929 |
-| 2026-11-08 23:14:54 | [Haji Gayb of Alpan](https://en.wikipedia.org/wiki/Haji_Gayb_of_Alpan) | [Hasanakhi05](https://en.wikipedia.org/wiki/User:Hasanakhi05) | 5,226 |
-| 2026-11-08 23:17:11 | [Charles G. Løvenskiold](https://en.wikipedia.org/wiki/Charles_G._L%C3%B8venskiold) | [Guerreroast](https://en.wikipedia.org/wiki/User:Guerreroast) | 4,102 |
+| 2026-11-08 23:20:52 | [2026–27 Loyola Ramblers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Loyola_Ramblers_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 43,451 |
+| 2026-11-08 23:21:59 | [Opera Cup (2026)](https://en.wikipedia.org/wiki/Opera_Cup_%282026%29) | [PacmanPuncher72](https://en.wikipedia.org/wiki/User:PacmanPuncher72) | 4,609 |
+| 2026-11-08 23:22:23 | [USCGC Sailfish](https://en.wikipedia.org/wiki/USCGC_Sailfish) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 8,336 |
+| 2026-11-08 23:24:41 | [Robert C. Masters](https://en.wikipedia.org/wiki/Robert_C._Masters) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 5,711 |
+| 2026-11-08 23:26:15 | [Carlo Imperato (actor)](https://en.wikipedia.org/wiki/Carlo_Imperato_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,910 |
+| 2026-11-08 23:26:57 | [Hackelia patens](https://en.wikipedia.org/wiki/Hackelia_patens) | [Aojrocks](https://en.wikipedia.org/wiki/User:Aojrocks) | 1,026 |
+| 2026-11-08 23:27:44 | [2026–27 Rhode Island Rams men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Rhode_Island_Rams_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 39,711 |
+| 2026-11-08 23:29:15 | [35 Upper Brook Street](https://en.wikipedia.org/wiki/35_Upper_Brook_Street) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,179 |
+| 2026-11-08 23:30:18 | [Muhammad Ahmed Durrani](https://en.wikipedia.org/wiki/Muhammad_Ahmed_Durrani) | [Enderramsby](https://en.wikipedia.org/wiki/User:Enderramsby) | 750 |
+| 2026-11-08 23:33:00 | [Jack Elwell](https://en.wikipedia.org/wiki/Jack_Elwell) | [Dafootballguy](https://en.wikipedia.org/wiki/User:Dafootballguy) | 192 |
+| 2026-11-08 23:33:48 | [Hippolyte coerulescens](https://en.wikipedia.org/wiki/Hippolyte_coerulescens) | [McNugget240](https://en.wikipedia.org/wiki/User:McNugget240) | 4,666 |
+| 2026-11-08 23:33:59 | [2026–27 Saint Joseph's Hawks men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Saint_Joseph%27s_Hawks_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 39,477 |
+| 2026-11-08 23:35:11 | [2026 Sporting Cristal season](https://en.wikipedia.org/wiki/2026_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 3,780 |
+| 2026-11-08 23:39:52 | [Lasioglossum sphecodopse](https://en.wikipedia.org/wiki/Lasioglossum_sphecodopse) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,982 |
+| 2026-11-08 23:40:13 | [USCGC Tiger Shark](https://en.wikipedia.org/wiki/USCGC_Tiger_Shark) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 5,195 |
+| 2026-11-08 23:40:57 | [British Portland Cement Research Association](https://en.wikipedia.org/wiki/British_Portland_Cement_Research_Association) | [Kyteto](https://en.wikipedia.org/wiki/User:Kyteto) | 2,164 |
+| 2026-11-08 23:41:41 | [36 Upper Brook Street](https://en.wikipedia.org/wiki/36_Upper_Brook_Street) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,526 |
+| 2026-11-08 23:44:26 | [Hunt Falls](https://en.wikipedia.org/wiki/Hunt_Falls) | [Masterhatch](https://en.wikipedia.org/wiki/User:Masterhatch) | 4,478 |
+| 2026-11-08 23:45:39 | [Pacific Song Contest](https://en.wikipedia.org/wiki/Pacific_Song_Contest) | [ChakatSandwalker](https://en.wikipedia.org/wiki/User:ChakatSandwalker) | 6,118 |
+| 2026-11-08 23:47:54 | [Gutte](https://en.wikipedia.org/wiki/Gutte) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 4,633 |
+| 2026-11-08 23:48:57 | [2026–27 Dayton Flyers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Dayton_Flyers_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 43,544 |
+| 2026-11-08 23:50:37 | [Alleria Windrunner](https://en.wikipedia.org/wiki/Alleria_Windrunner) | [Haleth](https://en.wikipedia.org/wiki/User:Haleth) | 17,001 |
+| 2026-11-08 23:55:04 | [2026–27 Fordham Rams men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Fordham_Rams_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 40,425 |
+| 2026-11-08 23:55:32 | [Department of Physics, University of Warwick](https://en.wikipedia.org/wiki/Department_of_Physics%2C_University_of_Warwick) | [OSmeone](https://en.wikipedia.org/wiki/User:OSmeone) | 12,477 |
+| 2026-11-08 23:56:22 | [2026 junior college football rankings](https://en.wikipedia.org/wiki/2026_junior_college_football_rankings) | [Aciut](https://en.wikipedia.org/wiki/User:Aciut) | 28,433 |
+| 2026-11-08 23:56:31 | [37 Upper Brook Street](https://en.wikipedia.org/wiki/37_Upper_Brook_Street) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,343 |
+| 2026-11-08 23:57:03 | [Peter Degraves](https://en.wikipedia.org/wiki/Peter_Degraves) | [Rakkar](https://en.wikipedia.org/wiki/User:Rakkar) | 587 |
+| 2026-11-08 23:57:42 | [Diego Rizzi](https://en.wikipedia.org/wiki/Diego_Rizzi) | [Murray Nozick](https://en.wikipedia.org/wiki/User:Murray_Nozick) | 17,159 |
+| 2026-11-09 00:00:14 | [Michael Terence Ferguson](https://en.wikipedia.org/wiki/Michael_Terence_Ferguson) | [Cyrobyte](https://en.wikipedia.org/wiki/User:Cyrobyte) | 890 |
+| 2026-11-09 00:02:36 | [2026–27 La Salle Explorers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Salle_Explorers_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 43,007 |
+| 2026-11-09 00:05:18 | [2027 Sporting Cristal season](https://en.wikipedia.org/wiki/2027_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 2,418 |
+| 2026-11-09 00:05:24 | [Harrison Koe](https://en.wikipedia.org/wiki/Harrison_Koe) | [Telovemi97](https://en.wikipedia.org/wiki/User:Telovemi97) | 4,487 |
+| 2026-11-09 00:05:47 | [Cryptantha oxygona](https://en.wikipedia.org/wiki/Cryptantha_oxygona) | [Aojrocks](https://en.wikipedia.org/wiki/User:Aojrocks) | 1,541 |
+| 2026-11-09 00:07:57 | [38 Upper Brook Street](https://en.wikipedia.org/wiki/38_Upper_Brook_Street) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,408 |
+| 2026-11-09 00:08:25 | [1993 Acura U.S. Hardcourts – Singles](https://en.wikipedia.org/wiki/1993_Acura_U.S._Hardcourts_%E2%80%93_Singles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 13,070 |
+| 2026-11-09 00:10:59 | [2026–27 St. Bonaventure Bonnies men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_St._Bonaventure_Bonnies_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 42,674 |
+| 2026-11-09 00:17:58 | [1984 Virginia Slims of New Orleans – Singles](https://en.wikipedia.org/wiki/1984_Virginia_Slims_of_New_Orleans_%E2%80%93_Singles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 6,880 |
