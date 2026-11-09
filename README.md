@@ -13,49 +13,49 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-09 01:20 UTC](data/en/new-articles-2026-11-09T01-20-50Z.csv) | 17 |
-| Japanese | `ja` | [2026-11-09 01:20 UTC](data/ja/new-articles-2026-11-09T01-20-50Z.csv) | 9 |
-| Chinese | `zh` | [2026-11-09 01:20 UTC](data/zh/new-articles-2026-11-09T01-20-50Z.csv) | 1 |
-| French | `fr` | [2026-11-09 01:20 UTC](data/fr/new-articles-2026-11-09T01-20-50Z.csv) | 3 |
-| German | `de` | [2026-11-09 01:20 UTC](data/de/new-articles-2026-11-09T01-20-50Z.csv) | 6 |
-| Russian | `ru` | [2026-11-09 01:20 UTC](data/ru/new-articles-2026-11-09T01-20-50Z.csv) | 1 |
-| Spanish | `es` | [2026-11-09 01:20 UTC](data/es/new-articles-2026-11-09T01-20-50Z.csv) | 3 |
-| Italian | `it` | [2026-11-09 01:20 UTC](data/it/new-articles-2026-11-09T01-20-50Z.csv) | 4 |
-| Portuguese | `pt` | [2026-11-09 01:20 UTC](data/pt/new-articles-2026-11-09T01-20-50Z.csv) | 5 |
+| English | `en` | [2026-11-09 02:20 UTC](data/en/new-articles-2026-11-09T02-20-04Z.csv) | 17 |
+| Japanese | `ja` | [2026-11-09 02:20 UTC](data/ja/new-articles-2026-11-09T02-20-04Z.csv) | 2 |
+| Chinese | `zh` | [2026-11-09 02:20 UTC](data/zh/new-articles-2026-11-09T02-20-04Z.csv) | 7 |
+| French | `fr` | [2026-11-09 02:20 UTC](data/fr/new-articles-2026-11-09T02-20-04Z.csv) | 4 |
+| German | `de` | [2026-11-09 02:20 UTC](data/de/new-articles-2026-11-09T02-20-04Z.csv) | 1 |
+| Russian | `ru` | [2026-11-09 02:20 UTC](data/ru/new-articles-2026-11-09T02-20-04Z.csv) | 6 |
+| Spanish | `es` | [2026-11-09 02:20 UTC](data/es/new-articles-2026-11-09T02-20-04Z.csv) | 8 |
+| Italian | `it` | [2026-11-09 02:20 UTC](data/it/new-articles-2026-11-09T02-20-04Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-09 02:20 UTC](data/pt/new-articles-2026-11-09T02-20-04Z.csv) | 6 |
 | Polish | `pl` | [2026-11-09 01:20 UTC](data/pl/new-articles-2026-11-09T01-20-50Z.csv) | 5 |
 | Arabic | `ar` | [2026-11-09 00:19 UTC](data/ar/new-articles-2026-11-09T00-19-03Z.csv) | 3 |
-| Persian | `fa` | [2026-11-09 01:20 UTC](data/fa/new-articles-2026-11-09T01-20-50Z.csv) | 124 |
-| Turkish | `tr` | [2026-11-09 00:19 UTC](data/tr/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
+| Persian | `fa` | [2026-11-09 02:20 UTC](data/fa/new-articles-2026-11-09T02-20-04Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-09 02:20 UTC](data/tr/new-articles-2026-11-09T02-20-04Z.csv) | 2 |
 | Hebrew | `he` | [2026-11-08 22:19 UTC](data/he/new-articles-2026-11-08T22-19-49Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-09 00:19 UTC](data/sv/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-09 01:20 UTC](data/nl/new-articles-2026-11-09T01-20-50Z.csv) | 1 |
-| Korean | `ko` | [2026-11-09 01:20 UTC](data/ko/new-articles-2026-11-09T01-20-50Z.csv) | 6 |
-| Indonesian | `id` | [2026-11-09 01:20 UTC](data/id/new-articles-2026-11-09T01-20-50Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-09 01:20 UTC](data/uk/new-articles-2026-11-09T01-20-50Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-11-09 00:19 UTC](data/vi/new-articles-2026-11-09T00-19-03Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-09 02:20 UTC](data/sv/new-articles-2026-11-09T02-20-04Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-09 02:20 UTC](data/nl/new-articles-2026-11-09T02-20-04Z.csv) | 2 |
+| Korean | `ko` | [2026-11-09 02:20 UTC](data/ko/new-articles-2026-11-09T02-20-04Z.csv) | 8 |
+| Indonesian | `id` | [2026-11-09 02:20 UTC](data/id/new-articles-2026-11-09T02-20-04Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-09 02:20 UTC](data/uk/new-articles-2026-11-09T02-20-04Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-09 02:20 UTC](data/vi/new-articles-2026-11-09T02-20-04Z.csv) | 2 |
 
-## English (en) — 2026-11-09 01:20 UTC
+## English (en) — 2026-11-09 02:20 UTC
 
-New articles created between 2026-11-09 00:19 UTC and 2026-11-09 01:20 UTC.
+New articles created between 2026-11-09 01:20 UTC and 2026-11-09 02:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-09T01-20-50Z.csv)
+[Full CSV](data/en/new-articles-2026-11-09T02-20-04Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-09 00:19:03 | [Chinedu Ozor](https://en.wikipedia.org/wiki/Chinedu_Ozor) | [Telovemi97](https://en.wikipedia.org/wiki/User:Telovemi97) | 6,574 |
-| 2026-11-09 00:30:41 | [1987 Belgian Open – Singles](https://en.wikipedia.org/wiki/1987_Belgian_Open_%E2%80%93_Singles) | [Pablito064](https://en.wikipedia.org/wiki/User:Pablito064) | 7,507 |
-| 2026-11-09 00:33:37 | [Dustin Johnson (American football)](https://en.wikipedia.org/wiki/Dustin_Johnson_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,553 |
-| 2026-11-09 00:36:17 | [Interstellar Laser Fantasy](https://en.wikipedia.org/wiki/Interstellar_Laser_Fantasy) | [Expandinglight5](https://en.wikipedia.org/wiki/User:Expandinglight5) | 6,153 |
-| 2026-11-09 00:39:00 | [Xie Guying](https://en.wikipedia.org/wiki/Xie_Guying) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,011 |
-| 2026-11-09 00:39:08 | [Lasioglossum tasmaniae](https://en.wikipedia.org/wiki/Lasioglossum_tasmaniae) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,178 |
-| 2026-11-09 00:41:13 | [Jim Harding (American football)](https://en.wikipedia.org/wiki/Jim_Harding_%28American_football%29) | [Mackensen](https://en.wikipedia.org/wiki/User:Mackensen) | 9,369 |
-| 2026-11-09 00:43:55 | [Ireland national lacrosse sixes team](https://en.wikipedia.org/wiki/Ireland_national_lacrosse_sixes_team) | [TomasK81](https://en.wikipedia.org/wiki/User:TomasK81) | 3,586 |
-| 2026-11-09 00:44:24 | [List of tallest buildings in Belarus](https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Belarus) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 16,197 |
-| 2026-11-09 00:47:11 | [List of Manhattanville University alumni](https://en.wikipedia.org/wiki/List_of_Manhattanville_University_alumni) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 7,095 |
-| 2026-11-09 00:50:15 | [Star Blazer (1983 LaserDisc game)](https://en.wikipedia.org/wiki/Star_Blazer_%281983_LaserDisc_game%29) | [Expandinglight5](https://en.wikipedia.org/wiki/User:Expandinglight5) | 5,394 |
-| 2026-11-09 00:52:41 | [Barskoon (river)](https://en.wikipedia.org/wiki/Barskoon_%28river%29) | [Thermokarst](https://en.wikipedia.org/wiki/User:Thermokarst) | 3,837 |
-| 2026-11-09 00:53:03 | [2026–27 South Florida Bulls men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_South_Florida_Bulls_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 41,271 |
-| 2026-11-09 00:58:32 | [Chen Ziyan](https://en.wikipedia.org/wiki/Chen_Ziyan) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,102 |
-| 2026-11-09 01:02:51 | [Pillsbury Lake(Webster), New Hampshire](https://en.wikipedia.org/wiki/Pillsbury_Lake%28Webster%29%2C_New_Hampshire) | [Listfixer3000](https://en.wikipedia.org/wiki/User:Listfixer3000) | 4,544 |
-| 2026-11-09 01:06:06 | [Fresco d'Este](https://en.wikipedia.org/wiki/Fresco_d%27Este) | [StefThrax](https://en.wikipedia.org/wiki/User:StefThrax) | 11,736 |
-| 2026-11-09 01:11:34 | [2026–27 Wichita State Shockers men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Wichita_State_Shockers_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 39,267 |
+| 2026-11-09 01:22:32 | [2026–27 Temple Owls men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Temple_Owls_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 39,461 |
+| 2026-11-09 01:23:45 | [Angler Dangler](https://en.wikipedia.org/wiki/Angler_Dangler) | [Expandinglight5](https://en.wikipedia.org/wiki/User:Expandinglight5) | 5,906 |
+| 2026-11-09 01:24:01 | [Nanami Togo](https://en.wikipedia.org/wiki/Nanami_Togo) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 4,811 |
+| 2026-11-09 01:27:30 | [1903 Cheney Normal football team](https://en.wikipedia.org/wiki/1903_Cheney_Normal_football_team) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 5,029 |
+| 2026-11-09 01:38:32 | [Dragør Fort](https://en.wikipedia.org/wiki/Drag%C3%B8r_Fort) | [DnieperSniper](https://en.wikipedia.org/wiki/User:DnieperSniper) | 5,835 |
+| 2026-11-09 01:38:55 | [Guillaume Vallet](https://en.wikipedia.org/wiki/Guillaume_Vallet) | [Simon Ellistrand](https://en.wikipedia.org/wiki/User:Simon_Ellistrand) | 5,259 |
+| 2026-11-09 01:40:27 | [Chibuzo Okereke](https://en.wikipedia.org/wiki/Chibuzo_Okereke) | [Wikinaija](https://en.wikipedia.org/wiki/User:Wikinaija) | 11,247 |
+| 2026-11-09 01:40:53 | [List of John Jay College of Criminal Justice people](https://en.wikipedia.org/wiki/List_of_John_Jay_College_of_Criminal_Justice_people) | [Rublamb](https://en.wikipedia.org/wiki/User:Rublamb) | 21,537 |
+| 2026-11-09 01:41:43 | [Big City Comedy](https://en.wikipedia.org/wiki/Big_City_Comedy) | [Wellington Bay](https://en.wikipedia.org/wiki/User:Wellington_Bay) | 2,158 |
+| 2026-11-09 01:54:14 | [Part-Time Detective](https://en.wikipedia.org/wiki/Part-Time_Detective) | [Nicholas0](https://en.wikipedia.org/wiki/User:Nicholas0) | 7,860 |
+| 2026-11-09 01:56:33 | [1904 Cheney Normal football team](https://en.wikipedia.org/wiki/1904_Cheney_Normal_football_team) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 4,515 |
+| 2026-11-09 01:57:08 | [Part-Time Detective 2](https://en.wikipedia.org/wiki/Part-Time_Detective_2) | [Nicholas0](https://en.wikipedia.org/wiki/User:Nicholas0) | 9,968 |
+| 2026-11-09 01:59:14 | [Nari Satyagraha Committee](https://en.wikipedia.org/wiki/Nari_Satyagraha_Committee) | [Jesusm5276](https://en.wikipedia.org/wiki/User:Jesusm5276) | 10,448 |
+| 2026-11-09 02:02:00 | [Hermina Dumont Huiswoud](https://en.wikipedia.org/wiki/Hermina_Dumont_Huiswoud) | [Vikwan](https://en.wikipedia.org/wiki/User:Vikwan) | 5,892 |
+| 2026-11-09 02:04:56 | [Khamari Brooks](https://en.wikipedia.org/wiki/Khamari_Brooks) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 74 |
+| 2026-11-09 02:06:36 | [Classic Again](https://en.wikipedia.org/wiki/Classic_Again) | [วรุฒ หิ่มสาใจ](https://en.wikipedia.org/wiki/User:%E0%B8%A7%E0%B8%A3%E0%B8%B8%E0%B8%92_%E0%B8%AB%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B9%83%E0%B8%88) | 14,515 |
+| 2026-11-09 02:11:12 | [Solid electrolyte interphase](https://en.wikipedia.org/wiki/Solid_electrolyte_interphase) | [Sora Fujita](https://en.wikipedia.org/wiki/User:Sora_Fujita) | 3,936 |
