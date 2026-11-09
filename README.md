@@ -13,50 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-09 08:19 UTC](data/en/new-articles-2026-11-09T08-19-15Z.csv) | 18 |
-| Japanese | `ja` | [2026-11-09 08:19 UTC](data/ja/new-articles-2026-11-09T08-19-15Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-09 08:19 UTC](data/zh/new-articles-2026-11-09T08-19-15Z.csv) | 10 |
-| French | `fr` | [2026-11-09 08:19 UTC](data/fr/new-articles-2026-11-09T08-19-15Z.csv) | 7 |
-| German | `de` | [2026-11-09 08:19 UTC](data/de/new-articles-2026-11-09T08-19-15Z.csv) | 7 |
-| Russian | `ru` | [2026-11-09 08:19 UTC](data/ru/new-articles-2026-11-09T08-19-15Z.csv) | 5 |
-| Spanish | `es` | [2026-11-09 08:19 UTC](data/es/new-articles-2026-11-09T08-19-15Z.csv) | 5 |
-| Italian | `it` | [2026-11-09 08:19 UTC](data/it/new-articles-2026-11-09T08-19-15Z.csv) | 7 |
+| English | `en` | [2026-11-09 09:19 UTC](data/en/new-articles-2026-11-09T09-19-16Z.csv) | 22 |
+| Japanese | `ja` | [2026-11-09 09:19 UTC](data/ja/new-articles-2026-11-09T09-19-16Z.csv) | 8 |
+| Chinese | `zh` | [2026-11-09 09:19 UTC](data/zh/new-articles-2026-11-09T09-19-16Z.csv) | 12 |
+| French | `fr` | [2026-11-09 09:19 UTC](data/fr/new-articles-2026-11-09T09-19-16Z.csv) | 11 |
+| German | `de` | [2026-11-09 09:19 UTC](data/de/new-articles-2026-11-09T09-19-16Z.csv) | 7 |
+| Russian | `ru` | [2026-11-09 09:19 UTC](data/ru/new-articles-2026-11-09T09-19-16Z.csv) | 7 |
+| Spanish | `es` | [2026-11-09 09:19 UTC](data/es/new-articles-2026-11-09T09-19-16Z.csv) | 5 |
+| Italian | `it` | [2026-11-09 09:19 UTC](data/it/new-articles-2026-11-09T09-19-16Z.csv) | 11 |
 | Portuguese | `pt` | [2026-11-09 06:18 UTC](data/pt/new-articles-2026-11-09T06-18-18Z.csv) | 1 |
-| Polish | `pl` | [2026-11-09 08:19 UTC](data/pl/new-articles-2026-11-09T08-19-15Z.csv) | 4 |
-| Arabic | `ar` | [2026-11-09 08:19 UTC](data/ar/new-articles-2026-11-09T08-19-15Z.csv) | 3 |
-| Persian | `fa` | [2026-11-09 08:19 UTC](data/fa/new-articles-2026-11-09T08-19-15Z.csv) | 8 |
-| Turkish | `tr` | [2026-11-09 08:19 UTC](data/tr/new-articles-2026-11-09T08-19-15Z.csv) | 10 |
-| Hebrew | `he` | [2026-11-09 08:19 UTC](data/he/new-articles-2026-11-09T08-19-15Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-09 08:19 UTC](data/sv/new-articles-2026-11-09T08-19-15Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-09 08:19 UTC](data/nl/new-articles-2026-11-09T08-19-15Z.csv) | 4 |
+| Polish | `pl` | [2026-11-09 09:19 UTC](data/pl/new-articles-2026-11-09T09-19-16Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-09 09:19 UTC](data/ar/new-articles-2026-11-09T09-19-16Z.csv) | 1 |
+| Persian | `fa` | [2026-11-09 09:19 UTC](data/fa/new-articles-2026-11-09T09-19-16Z.csv) | 7 |
+| Turkish | `tr` | [2026-11-09 09:19 UTC](data/tr/new-articles-2026-11-09T09-19-16Z.csv) | 8 |
+| Hebrew | `he` | [2026-11-09 09:19 UTC](data/he/new-articles-2026-11-09T09-19-16Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-09 09:19 UTC](data/sv/new-articles-2026-11-09T09-19-16Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-09 09:19 UTC](data/nl/new-articles-2026-11-09T09-19-16Z.csv) | 5 |
 | Korean | `ko` | [2026-11-09 08:19 UTC](data/ko/new-articles-2026-11-09T08-19-15Z.csv) | 6 |
-| Indonesian | `id` | [2026-11-09 08:19 UTC](data/id/new-articles-2026-11-09T08-19-15Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-11-09 08:19 UTC](data/uk/new-articles-2026-11-09T08-19-15Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-11-09 08:19 UTC](data/vi/new-articles-2026-11-09T08-19-15Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-09 09:19 UTC](data/id/new-articles-2026-11-09T09-19-16Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-11-09 09:19 UTC](data/uk/new-articles-2026-11-09T09-19-16Z.csv) | 11 |
+| Vietnamese | `vi` | [2026-11-09 09:19 UTC](data/vi/new-articles-2026-11-09T09-19-16Z.csv) | 1 |
 
-## English (en) — 2026-11-09 08:19 UTC
+## English (en) — 2026-11-09 09:19 UTC
 
-New articles created between 2026-11-09 07:18 UTC and 2026-11-09 08:19 UTC.
+New articles created between 2026-11-09 08:19 UTC and 2026-11-09 09:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-09T08-19-15Z.csv)
+[Full CSV](data/en/new-articles-2026-11-09T09-19-16Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-09 07:28:40 | [Fifth Geda Rinpoche](https://en.wikipedia.org/wiki/Fifth_Geda_Rinpoche) | [SongRuyi](https://en.wikipedia.org/wiki/User:SongRuyi) | 5,105 |
-| 2026-11-09 07:30:53 | [Miad Nakhavali](https://en.wikipedia.org/wiki/Miad_Nakhavali) | [Kolefon](https://en.wikipedia.org/wiki/User:Kolefon) | 10,584 |
-| 2026-11-09 07:32:44 | [Felix Oragwu](https://en.wikipedia.org/wiki/Felix_Oragwu) | [Cooklabel](https://en.wikipedia.org/wiki/User:Cooklabel) | 6,385 |
-| 2026-11-09 07:43:35 | [Deal Me In (album)](https://en.wikipedia.org/wiki/Deal_Me_In_%28album%29) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 5,158 |
-| 2026-11-09 07:44:46 | [List of Ambassadors of Portugal to Austria](https://en.wikipedia.org/wiki/List_of_Ambassadors_of_Portugal_to_Austria) | [Filiep](https://en.wikipedia.org/wiki/User:Filiep) | 13,636 |
-| 2026-11-09 07:44:50 | [2-Methylmethamphetamine](https://en.wikipedia.org/wiki/2-Methylmethamphetamine) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 4,368 |
-| 2026-11-09 07:45:09 | [Marikina Town Center](https://en.wikipedia.org/wiki/Marikina_Town_Center) | [Bryski 25](https://en.wikipedia.org/wiki/User:Bryski_25) | 3,104 |
-| 2026-11-09 07:45:38 | [2026 NSL final](https://en.wikipedia.org/wiki/2026_NSL_final) | [OTTtruther](https://en.wikipedia.org/wiki/User:OTTtruther) | 1,787 |
-| 2026-11-09 07:47:49 | [Beri Monastery](https://en.wikipedia.org/wiki/Beri_Monastery) | [SongRuyi](https://en.wikipedia.org/wiki/User:SongRuyi) | 2,431 |
-| 2026-11-09 07:53:26 | [Alkborough Windmill](https://en.wikipedia.org/wiki/Alkborough_Windmill) | [Mjroots](https://en.wikipedia.org/wiki/User:Mjroots) | 3,535 |
-| 2026-11-09 07:57:13 | [History of the Conservative Party of New York State](https://en.wikipedia.org/wiki/History_of_the_Conservative_Party_of_New_York_State) | [CopyleftEverything](https://en.wikipedia.org/wiki/User:CopyleftEverything) | 39,920 |
-| 2026-11-09 07:57:23 | [Hioki Kentarō](https://en.wikipedia.org/wiki/Hioki_Kentar%C5%8D) | [Pro310](https://en.wikipedia.org/wiki/User:Pro310) | 1,104 |
-| 2026-11-09 08:03:39 | [Diespeck (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Diespeck_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,511 |
-| 2026-11-09 08:09:20 | [Hagenbüchach-Wilhelmsdorf](https://en.wikipedia.org/wiki/Hagenb%C3%BCchach-Wilhelmsdorf) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,639 |
-| 2026-11-09 08:14:29 | [Neuhof an der Zenn (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Neuhof_an_der_Zenn_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,539 |
-| 2026-11-09 08:17:03 | [Nahaama III](https://en.wikipedia.org/wiki/Nahaama_III) | [Lord Dim 1](https://en.wikipedia.org/wiki/User:Lord_Dim_1) | 2,847 |
-| 2026-11-09 08:17:18 | [Scheinfeld (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Scheinfeld_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,590 |
-| 2026-11-09 08:17:30 | [Beauchamp baronets of Grosvenor Place (1911)](https://en.wikipedia.org/wiki/Beauchamp_baronets_of_Grosvenor_Place_%281911%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,662 |
+| 2026-11-09 08:20:14 | [Uehlfeld (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Uehlfeld_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,490 |
+| 2026-11-09 08:22:59 | [Jetour Huanyouzhe](https://en.wikipedia.org/wiki/Jetour_Huanyouzhe) | [Needlesballoon](https://en.wikipedia.org/wiki/User:Needlesballoon) | 7,568 |
+| 2026-11-09 08:23:19 | [Uffenheim (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Uffenheim_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,658 |
+| 2026-11-09 08:37:26 | [Happurg (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Happurg_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,428 |
+| 2026-11-09 08:40:00 | [Snow racer](https://en.wikipedia.org/wiki/Snow_racer) | [Blockhaj](https://en.wikipedia.org/wiki/User:Blockhaj) | 1,886 |
+| 2026-11-09 08:40:20 | [Roy Crowhurst](https://en.wikipedia.org/wiki/Roy_Crowhurst) | [Harry Alexander T](https://en.wikipedia.org/wiki/User:Harry_Alexander_T) | 4,637 |
+| 2026-11-09 08:41:50 | [Henfenfeld (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Henfenfeld_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,474 |
+| 2026-11-09 08:42:21 | [Linda Clemons (Author)](https://en.wikipedia.org/wiki/Linda_Clemons_%28Author%29) | [Gidasabo](https://en.wikipedia.org/wiki/User:Gidasabo) | 5,139 |
+| 2026-11-09 08:43:11 | [Beauchamp baronets of Woodborough (1918)](https://en.wikipedia.org/wiki/Beauchamp_baronets_of_Woodborough_%281918%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,204 |
+| 2026-11-09 08:45:38 | [Velden (Verwaltungsgemeinschaft, Middle Franconia)](https://en.wikipedia.org/wiki/Velden_%28Verwaltungsgemeinschaft%2C_Middle_Franconia%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,485 |
+| 2026-11-09 08:46:50 | [Disco (2026 film)](https://en.wikipedia.org/wiki/Disco_%282026_film%29) | [Ajeeshkumar4u](https://en.wikipedia.org/wiki/User:Ajeeshkumar4u) | 5,578 |
+| 2026-11-09 08:50:07 | [Mortgage industry of Russia](https://en.wikipedia.org/wiki/Mortgage_industry_of_Russia) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 19,935 |
+| 2026-11-09 08:51:47 | [Derry Senior Camogie Championship](https://en.wikipedia.org/wiki/Derry_Senior_Camogie_Championship) | [Nobbaet](https://en.wikipedia.org/wiki/User:Nobbaet) | 14,200 |
+| 2026-11-09 08:55:26 | [Alaṃkāradappaṇa](https://en.wikipedia.org/wiki/Ala%E1%B9%83k%C4%81radappa%E1%B9%87a) | [TryKid](https://en.wikipedia.org/wiki/User:TryKid) | 6,978 |
+| 2026-11-09 08:59:13 | [Mongolia at the 2026 Asian Para Games](https://en.wikipedia.org/wiki/Mongolia_at_the_2026_Asian_Para_Games) | [Jn045](https://en.wikipedia.org/wiki/User:Jn045) | 7,568 |
+| 2026-11-09 09:00:18 | [Expect No Mercy (video game)](https://en.wikipedia.org/wiki/Expect_No_Mercy_%28video_game%29) | [Timur9008](https://en.wikipedia.org/wiki/User:Timur9008) | 3,032 |
+| 2026-11-09 09:05:37 | [Ebelsbach (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Ebelsbach_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,469 |
+| 2026-11-09 09:09:35 | [Nairobi Railway City](https://en.wikipedia.org/wiki/Nairobi_Railway_City) | [MrKilimani](https://en.wikipedia.org/wiki/User:MrKilimani) | 3,881 |
+| 2026-11-09 09:09:36 | [Ebern (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Ebern_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,430 |
+| 2026-11-09 09:13:10 | [Hofheim in Unterfranken (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Hofheim_in_Unterfranken_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,577 |
+| 2026-11-09 09:16:28 | [Theres (Verwaltungsgemeinschaft)](https://en.wikipedia.org/wiki/Theres_%28Verwaltungsgemeinschaft%29) | [Markussep](https://en.wikipedia.org/wiki/User:Markussep) | 1,426 |
+| 2026-11-09 09:18:56 | [Amber Estenson](https://en.wikipedia.org/wiki/Amber_Estenson) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 9,456 |
