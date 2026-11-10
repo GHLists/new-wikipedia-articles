@@ -13,54 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-09 23:19 UTC](data/en/new-articles-2026-11-09T23-19-46Z.csv) | 22 |
-| Japanese | `ja` | [2026-11-09 23:19 UTC](data/ja/new-articles-2026-11-09T23-19-46Z.csv) | 2 |
-| Chinese | `zh` | [2026-11-09 23:19 UTC](data/zh/new-articles-2026-11-09T23-19-46Z.csv) | 2 |
-| French | `fr` | [2026-11-09 23:19 UTC](data/fr/new-articles-2026-11-09T23-19-46Z.csv) | 12 |
-| German | `de` | [2026-11-09 23:19 UTC](data/de/new-articles-2026-11-09T23-19-46Z.csv) | 10 |
-| Russian | `ru` | [2026-11-09 23:19 UTC](data/ru/new-articles-2026-11-09T23-19-46Z.csv) | 3 |
-| Spanish | `es` | [2026-11-09 23:19 UTC](data/es/new-articles-2026-11-09T23-19-46Z.csv) | 10 |
-| Italian | `it` | [2026-11-09 23:19 UTC](data/it/new-articles-2026-11-09T23-19-46Z.csv) | 5 |
-| Portuguese | `pt` | [2026-11-09 23:19 UTC](data/pt/new-articles-2026-11-09T23-19-46Z.csv) | 7 |
-| Polish | `pl` | [2026-11-09 23:19 UTC](data/pl/new-articles-2026-11-09T23-19-46Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-09 23:19 UTC](data/ar/new-articles-2026-11-09T23-19-46Z.csv) | 3 |
-| Persian | `fa` | [2026-11-09 23:19 UTC](data/fa/new-articles-2026-11-09T23-19-46Z.csv) | 11 |
-| Turkish | `tr` | [2026-11-09 23:19 UTC](data/tr/new-articles-2026-11-09T23-19-46Z.csv) | 2 |
+| English | `en` | [2026-11-10 00:18 UTC](data/en/new-articles-2026-11-10T00-18-33Z.csv) | 22 |
+| Japanese | `ja` | [2026-11-10 00:18 UTC](data/ja/new-articles-2026-11-10T00-18-33Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-10 00:18 UTC](data/zh/new-articles-2026-11-10T00-18-33Z.csv) | 8 |
+| French | `fr` | [2026-11-10 00:18 UTC](data/fr/new-articles-2026-11-10T00-18-33Z.csv) | 13 |
+| German | `de` | [2026-11-10 00:18 UTC](data/de/new-articles-2026-11-10T00-18-33Z.csv) | 7 |
+| Russian | `ru` | [2026-11-10 00:18 UTC](data/ru/new-articles-2026-11-10T00-18-33Z.csv) | 2 |
+| Spanish | `es` | [2026-11-10 00:18 UTC](data/es/new-articles-2026-11-10T00-18-33Z.csv) | 6 |
+| Italian | `it` | [2026-11-10 00:18 UTC](data/it/new-articles-2026-11-10T00-18-33Z.csv) | 13 |
+| Portuguese | `pt` | [2026-11-10 00:18 UTC](data/pt/new-articles-2026-11-10T00-18-33Z.csv) | 8 |
+| Polish | `pl` | [2026-11-10 00:18 UTC](data/pl/new-articles-2026-11-10T00-18-33Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-10 00:18 UTC](data/ar/new-articles-2026-11-10T00-18-33Z.csv) | 2 |
+| Persian | `fa` | [2026-11-10 00:18 UTC](data/fa/new-articles-2026-11-10T00-18-33Z.csv) | 5 |
+| Turkish | `tr` | [2026-11-10 00:18 UTC](data/tr/new-articles-2026-11-10T00-18-33Z.csv) | 2 |
 | Hebrew | `he` | [2026-11-09 23:19 UTC](data/he/new-articles-2026-11-09T23-19-46Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-09 23:19 UTC](data/sv/new-articles-2026-11-09T23-19-46Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-09 23:19 UTC](data/nl/new-articles-2026-11-09T23-19-46Z.csv) | 5 |
-| Korean | `ko` | [2026-11-09 22:18 UTC](data/ko/new-articles-2026-11-09T22-18-54Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-09 23:19 UTC](data/id/new-articles-2026-11-09T23-19-46Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-10 00:18 UTC](data/sv/new-articles-2026-11-10T00-18-33Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-10 00:18 UTC](data/nl/new-articles-2026-11-10T00-18-33Z.csv) | 5 |
+| Korean | `ko` | [2026-11-10 00:18 UTC](data/ko/new-articles-2026-11-10T00-18-33Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-10 00:18 UTC](data/id/new-articles-2026-11-10T00-18-33Z.csv) | 2 |
 | Ukrainian | `uk` | [2026-11-09 23:19 UTC](data/uk/new-articles-2026-11-09T23-19-46Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-09 19:20 UTC](data/vi/new-articles-2026-11-09T19-20-11Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-10 00:18 UTC](data/vi/new-articles-2026-11-10T00-18-33Z.csv) | 4 |
 
-## English (en) — 2026-11-09 23:19 UTC
+## English (en) — 2026-11-10 00:18 UTC
 
-New articles created between 2026-11-09 22:18 UTC and 2026-11-09 23:19 UTC.
+New articles created between 2026-11-09 23:19 UTC and 2026-11-10 00:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-09T23-19-46Z.csv)
+[Full CSV](data/en/new-articles-2026-11-10T00-18-33Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-09 22:18:59 | [Phereclus (mythology)](https://en.wikipedia.org/wiki/Phereclus_%28mythology%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 1,266 |
-| 2026-11-09 22:22:54 | [Governor's Palace, Benghazi](https://en.wikipedia.org/wiki/Governor%27s_Palace%2C_Benghazi) | [Plumbago Capensis](https://en.wikipedia.org/wiki/User:Plumbago_Capensis) | 3,095 |
-| 2026-11-09 22:25:11 | [Red Winter (disambiguation)](https://en.wikipedia.org/wiki/Red_Winter_%28disambiguation%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 258 |
-| 2026-11-09 22:30:11 | [Bull City Press](https://en.wikipedia.org/wiki/Bull_City_Press) | [Mistergerbik](https://en.wikipedia.org/wiki/User:Mistergerbik) | 7,051 |
-| 2026-11-09 22:34:39 | [Fran Covey](https://en.wikipedia.org/wiki/Fran_Covey) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,850 |
-| 2026-11-09 22:45:28 | [List of Ohio hurricane (1800-1849)](https://en.wikipedia.org/wiki/List_of_Ohio_hurricane_%281800-1849%29) | [Cailfornia](https://en.wikipedia.org/wiki/User:Cailfornia) | 294 |
-| 2026-11-09 22:45:45 | [Deborah Klein Lopez](https://en.wikipedia.org/wiki/Deborah_Klein_Lopez) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,185 |
-| 2026-11-09 22:48:26 | [Pi Wei Lun](https://en.wikipedia.org/wiki/Pi_Wei_Lun) | [Foristslow](https://en.wikipedia.org/wiki/User:Foristslow) | 817 |
-| 2026-11-09 22:49:27 | [Rowntree (surname)](https://en.wikipedia.org/wiki/Rowntree_%28surname%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 2,584 |
-| 2026-11-09 22:49:42 | [1998–99 FC Schalke 04 season](https://en.wikipedia.org/wiki/1998%E2%80%9399_FC_Schalke_04_season) | [Marauder09](https://en.wikipedia.org/wiki/User:Marauder09) | 18,742 |
-| 2026-11-09 22:52:18 | [So Get Up (song by Underground Sound of Lisbon featuring Ithaka)](https://en.wikipedia.org/wiki/So_Get_Up_%28song_by_Underground_Sound_of_Lisbon_featuring_Ithaka%29) | [LVRof90sHouse](https://en.wikipedia.org/wiki/User:LVRof90sHouse) | 17,688 |
-| 2026-11-09 22:53:16 | [Abdulrahman Alfozan](https://en.wikipedia.org/wiki/Abdulrahman_Alfozan) | [No Swan So Fine](https://en.wikipedia.org/wiki/User:No_Swan_So_Fine) | 7,574 |
-| 2026-11-09 22:55:55 | [David Hébert](https://en.wikipedia.org/wiki/David_H%C3%A9bert) | [Kyle4344](https://en.wikipedia.org/wiki/User:Kyle4344) | 4,849 |
-| 2026-11-09 22:56:12 | [Dom Belza](https://en.wikipedia.org/wiki/Dom_Belza) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,775 |
-| 2026-11-09 22:56:49 | [Bibliography of the Arctic](https://en.wikipedia.org/wiki/Bibliography_of_the_Arctic) | [TimothyBlue](https://en.wikipedia.org/wiki/User:TimothyBlue) | 997 |
-| 2026-11-09 23:02:55 | [Charles Hughes (California politician)](https://en.wikipedia.org/wiki/Charles_Hughes_%28California_politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,413 |
-| 2026-11-09 23:10:24 | [Jennifer Hardin](https://en.wikipedia.org/wiki/Jennifer_Hardin) | [Mad Mismagius](https://en.wikipedia.org/wiki/User:Mad_Mismagius) | 4,148 |
-| 2026-11-09 23:11:11 | [Selected Poems 1939–1975](https://en.wikipedia.org/wiki/Selected_Poems_1939%E2%80%931975) | [Perry Middlemiss](https://en.wikipedia.org/wiki/User:Perry_Middlemiss) | 8,049 |
-| 2026-11-09 23:12:04 | [Morávka meteorite](https://en.wikipedia.org/wiki/Mor%C3%A1vka_meteorite) | [Animalculum](https://en.wikipedia.org/wiki/User:Animalculum) | 4,477 |
-| 2026-11-09 23:13:41 | [Love and pop (disambiguation)](https://en.wikipedia.org/wiki/Love_and_pop_%28disambiguation%29) | [Goobab](https://en.wikipedia.org/wiki/User:Goobab) | 345 |
-| 2026-11-09 23:18:06 | [1958 Milwaukee Cardinals football team](https://en.wikipedia.org/wiki/1958_Milwaukee_Cardinals_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 6,036 |
-| 2026-11-09 23:19:04 | [Sanctuary of Santa Maria delle Vertighe](https://en.wikipedia.org/wiki/Sanctuary_of_Santa_Maria_delle_Vertighe) | [Curious Trope](https://en.wikipedia.org/wiki/User:Curious_Trope) | 5,567 |
+| 2026-11-09 23:23:04 | [Tammy Caputi](https://en.wikipedia.org/wiki/Tammy_Caputi) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,555 |
+| 2026-11-09 23:25:29 | [Preludes (Szymanowski)](https://en.wikipedia.org/wiki/Preludes_%28Szymanowski%29) | [Ulysse.esca](https://en.wikipedia.org/wiki/User:Ulysse.esca) | 9,142 |
+| 2026-11-09 23:25:42 | [Karen Gresham](https://en.wikipedia.org/wiki/Karen_Gresham) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,465 |
+| 2026-11-09 23:37:14 | [Mary Rose (Arizona politician)](https://en.wikipedia.org/wiki/Mary_Rose_%28Arizona_politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,101 |
+| 2026-11-09 23:38:37 | [Chris Pashula](https://en.wikipedia.org/wiki/Chris_Pashula) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,058 |
+| 2026-11-09 23:44:11 | [James Rogers (Arizona politician)](https://en.wikipedia.org/wiki/James_Rogers_%28Arizona_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,649 |
+| 2026-11-09 23:45:01 | [List of things named after Stephen Cole Kleene](https://en.wikipedia.org/wiki/List_of_things_named_after_Stephen_Cole_Kleene) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 518 |
+| 2026-11-09 23:52:08 | [Tyler Farnsworth](https://en.wikipedia.org/wiki/Tyler_Farnsworth) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,244 |
+| 2026-11-09 23:54:36 | [Kleinen (surname)](https://en.wikipedia.org/wiki/Kleinen_%28surname%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 772 |
+| 2026-11-09 23:54:42 | [Christine Scianna](https://en.wikipedia.org/wiki/Christine_Scianna) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,834 |
+| 2026-11-09 23:56:54 | [Deborah Howard (politician)](https://en.wikipedia.org/wiki/Deborah_Howard_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,660 |
+| 2026-11-10 00:00:53 | [Julia Romero Gusse](https://en.wikipedia.org/wiki/Julia_Romero_Gusse) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,360 |
+| 2026-11-10 00:01:26 | [Truffled turkey](https://en.wikipedia.org/wiki/Truffled_turkey) | [Whonting](https://en.wikipedia.org/wiki/User:Whonting) | 7,167 |
+| 2026-11-10 00:01:31 | [Casey Swensen](https://en.wikipedia.org/wiki/Casey_Swensen) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,278 |
+| 2026-11-10 00:02:28 | [2026–2028 Florida Legislature](https://en.wikipedia.org/wiki/2026%E2%80%932028_Florida_Legislature) | [EagleImperial](https://en.wikipedia.org/wiki/User:EagleImperial) | 6,887 |
+| 2026-11-10 00:03:47 | [Holly Lyon](https://en.wikipedia.org/wiki/Holly_Lyon) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,386 |
+| 2026-11-10 00:03:53 | [Just Score It](https://en.wikipedia.org/wiki/Just_Score_It) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 2,318 |
+| 2026-11-10 00:05:24 | [Brett Shumate](https://en.wikipedia.org/wiki/Brett_Shumate) | [Coqui002](https://en.wikipedia.org/wiki/User:Coqui002) | 3,091 |
+| 2026-11-10 00:08:09 | [Brian Wrightson](https://en.wikipedia.org/wiki/Brian_Wrightson) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,433 |
+| 2026-11-10 00:09:17 | [Hollace](https://en.wikipedia.org/wiki/Hollace) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 140 |
+| 2026-11-10 00:12:16 | [Demon Home](https://en.wikipedia.org/wiki/Demon_Home) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 2,517 |
+| 2026-11-10 00:17:12 | [Sara Hernandez](https://en.wikipedia.org/wiki/Sara_Hernandez) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,544 |
