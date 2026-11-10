@@ -1,0 +1,2 @@
+created_at,article,pageid,user,bytes,comment,project
+2026-11-10T21:56:56Z,파이썬git,4301884,Poisonwok,679,"새 문서: = 파이썬 Git 기초 = '''Git:''' 파일의 변경사항과 작업 기록을 관리하는 도구. === 1. 최초 설정 (Terminal) === <code>git config --global init.defaultBranch main git init . git add Midterm1.ipynb git commit -m ""Initial commit…",ko.wikipedia.org
