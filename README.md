@@ -13,49 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-11 01:22 UTC](data/en/new-articles-2026-11-11T01-22-09Z.csv) | 17 |
-| Japanese | `ja` | [2026-11-11 01:22 UTC](data/ja/new-articles-2026-11-11T01-22-09Z.csv) | 6 |
-| Chinese | `zh` | [2026-11-11 01:22 UTC](data/zh/new-articles-2026-11-11T01-22-09Z.csv) | 3 |
-| French | `fr` | [2026-11-11 01:22 UTC](data/fr/new-articles-2026-11-11T01-22-09Z.csv) | 5 |
-| German | `de` | [2026-11-11 01:22 UTC](data/de/new-articles-2026-11-11T01-22-09Z.csv) | 3 |
-| Russian | `ru` | [2026-11-11 01:22 UTC](data/ru/new-articles-2026-11-11T01-22-09Z.csv) | 2 |
-| Spanish | `es` | [2026-11-11 01:22 UTC](data/es/new-articles-2026-11-11T01-22-09Z.csv) | 5 |
-| Italian | `it` | [2026-11-11 01:22 UTC](data/it/new-articles-2026-11-11T01-22-09Z.csv) | 2 |
-| Portuguese | `pt` | [2026-11-11 01:22 UTC](data/pt/new-articles-2026-11-11T01-22-09Z.csv) | 10 |
-| Polish | `pl` | [2026-11-11 01:22 UTC](data/pl/new-articles-2026-11-11T01-22-09Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-11 01:22 UTC](data/ar/new-articles-2026-11-11T01-22-09Z.csv) | 3 |
-| Persian | `fa` | [2026-11-11 01:22 UTC](data/fa/new-articles-2026-11-11T01-22-09Z.csv) | 3 |
+| English | `en` | [2026-11-11 02:21 UTC](data/en/new-articles-2026-11-11T02-21-32Z.csv) | 16 |
+| Japanese | `ja` | [2026-11-11 02:21 UTC](data/ja/new-articles-2026-11-11T02-21-32Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-11 02:21 UTC](data/zh/new-articles-2026-11-11T02-21-32Z.csv) | 4 |
+| French | `fr` | [2026-11-11 02:21 UTC](data/fr/new-articles-2026-11-11T02-21-32Z.csv) | 4 |
+| German | `de` | [2026-11-11 02:21 UTC](data/de/new-articles-2026-11-11T02-21-32Z.csv) | 1 |
+| Russian | `ru` | [2026-11-11 02:21 UTC](data/ru/new-articles-2026-11-11T02-21-32Z.csv) | 4 |
+| Spanish | `es` | [2026-11-11 02:21 UTC](data/es/new-articles-2026-11-11T02-21-32Z.csv) | 7 |
+| Italian | `it` | [2026-11-11 02:21 UTC](data/it/new-articles-2026-11-11T02-21-32Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-11 02:21 UTC](data/pt/new-articles-2026-11-11T02-21-32Z.csv) | 5 |
+| Polish | `pl` | [2026-11-11 02:21 UTC](data/pl/new-articles-2026-11-11T02-21-32Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-11 02:21 UTC](data/ar/new-articles-2026-11-11T02-21-32Z.csv) | 3 |
+| Persian | `fa` | [2026-11-11 02:21 UTC](data/fa/new-articles-2026-11-11T02-21-32Z.csv) | 3 |
 | Turkish | `tr` | [2026-11-11 00:19 UTC](data/tr/new-articles-2026-11-11T00-19-26Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-10 23:21 UTC](data/he/new-articles-2026-11-10T23-21-02Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-10 22:21 UTC](data/sv/new-articles-2026-11-10T22-21-06Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-11 00:19 UTC](data/nl/new-articles-2026-11-11T00-19-26Z.csv) | 1 |
-| Korean | `ko` | [2026-11-11 01:22 UTC](data/ko/new-articles-2026-11-11T01-22-09Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-11 01:22 UTC](data/id/new-articles-2026-11-11T01-22-09Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-11-11 01:22 UTC](data/uk/new-articles-2026-11-11T01-22-09Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-11 02:21 UTC](data/sv/new-articles-2026-11-11T02-21-32Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-11 02:21 UTC](data/nl/new-articles-2026-11-11T02-21-32Z.csv) | 2 |
+| Korean | `ko` | [2026-11-11 02:21 UTC](data/ko/new-articles-2026-11-11T02-21-32Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-11 02:21 UTC](data/id/new-articles-2026-11-11T02-21-32Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-11-11 02:21 UTC](data/uk/new-articles-2026-11-11T02-21-32Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-11-11 00:19 UTC](data/vi/new-articles-2026-11-11T00-19-26Z.csv) | 1 |
 
-## English (en) — 2026-11-11 01:22 UTC
+## English (en) — 2026-11-11 02:21 UTC
 
-New articles created between 2026-11-11 00:19 UTC and 2026-11-11 01:22 UTC.
+New articles created between 2026-11-11 01:22 UTC and 2026-11-11 02:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-11T01-22-09Z.csv)
+[Full CSV](data/en/new-articles-2026-11-11T02-21-32Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-11 00:19:46 | [Lobatera Municipality](https://en.wikipedia.org/wiki/Lobatera_Municipality) | [Manh2107](https://en.wikipedia.org/wiki/User:Manh2107) | 3,312 |
-| 2026-11-11 00:26:50 | [Goran Dizdar](https://en.wikipedia.org/wiki/Goran_Dizdar) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 3,831 |
-| 2026-11-11 00:31:37 | [Sean Boyd (American football)](https://en.wikipedia.org/wiki/Sean_Boyd_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,700 |
-| 2026-11-11 00:32:23 | [Sonja Ogletree Satani](https://en.wikipedia.org/wiki/Sonja_Ogletree_Satani) | [ProfessorKaiFlai](https://en.wikipedia.org/wiki/User:ProfessorKaiFlai) | 5,564 |
-| 2026-11-11 00:32:36 | [Nyana rooiwalensis](https://en.wikipedia.org/wiki/Nyana_rooiwalensis) | [SlvrHwk](https://en.wikipedia.org/wiki/User:SlvrHwk) | 2,766 |
-| 2026-11-11 00:40:38 | [Jerry Donald](https://en.wikipedia.org/wiki/Jerry_Donald) | [Y2hyaXM](https://en.wikipedia.org/wiki/User:Y2hyaXM) | 54,145 |
-| 2026-11-11 00:52:22 | [1998–99 Danish Elite Division](https://en.wikipedia.org/wiki/1998%E2%80%9399_Danish_Elite_Division) | [Alexandrianscrolls](https://en.wikipedia.org/wiki/User:Alexandrianscrolls) | 7,089 |
-| 2026-11-11 00:55:57 | [Ryan Taughrin](https://en.wikipedia.org/wiki/Ryan_Taughrin) | [EdHistory101](https://en.wikipedia.org/wiki/User:EdHistory101) | 2,446 |
-| 2026-11-11 00:58:01 | [Roger Bernard](https://en.wikipedia.org/wiki/Roger_Bernard) | [GOAT Bones231012](https://en.wikipedia.org/wiki/User:GOAT_Bones231012) | 56,923 |
-| 2026-11-11 00:58:35 | [Faiez Zannad](https://en.wikipedia.org/wiki/Faiez_Zannad) | [InlandWinter](https://en.wikipedia.org/wiki/User:InlandWinter) | 12,772 |
-| 2026-11-11 01:02:42 | [Protolabinae](https://en.wikipedia.org/wiki/Protolabinae) | [Piranga94](https://en.wikipedia.org/wiki/User:Piranga94) | 2,102 |
-| 2026-11-11 01:09:35 | [List of places of worship in the Rural City of Horsham](https://en.wikipedia.org/wiki/List_of_places_of_worship_in_the_Rural_City_of_Horsham) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 10,074 |
-| 2026-11-11 01:12:10 | [List of churches in the Rural City of Horsham](https://en.wikipedia.org/wiki/List_of_churches_in_the_Rural_City_of_Horsham) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 58 |
-| 2026-11-11 01:15:02 | [Lasioglossum chapmani](https://en.wikipedia.org/wiki/Lasioglossum_chapmani) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 3,286 |
-| 2026-11-11 01:16:15 | [Blanche Pitney](https://en.wikipedia.org/wiki/Blanche_Pitney) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 2,792 |
-| 2026-11-11 01:16:26 | [St Germain's Church, Winestead](https://en.wikipedia.org/wiki/St_Germain%27s_Church%2C_Winestead) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 3,119 |
-| 2026-11-11 01:20:29 | [2028 Massachusetts ballot measures](https://en.wikipedia.org/wiki/2028_Massachusetts_ballot_measures) | [Slugger O'Toole](https://en.wikipedia.org/wiki/User:Slugger_O%27Toole) | 10,519 |
+| 2026-11-11 01:23:03 | [Secret History (Procopius)](https://en.wikipedia.org/wiki/Secret_History_%28Procopius%29) | [Jay-Wiki](https://en.wikipedia.org/wiki/User:Jay-Wiki) | 28,804 |
+| 2026-11-11 01:23:45 | ["Danza Indigenas" by Judy Baca](https://en.wikipedia.org/wiki/%22Danza_Indigenas%22_by_Judy_Baca) | [Chicanainmed](https://en.wikipedia.org/wiki/User:Chicanainmed) | 0 |
+| 2026-11-11 01:24:50 | [Nina Avidar Wiener](https://en.wikipedia.org/wiki/Nina_Avidar_Wiener) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 2,923 |
+| 2026-11-11 01:28:44 | [Α-Chloromethylmescaline](https://en.wikipedia.org/wiki/%CE%91-Chloromethylmescaline) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 4,022 |
+| 2026-11-11 01:34:00 | [Yen Ennai Edho Seidhai](https://en.wikipedia.org/wiki/Yen_Ennai_Edho_Seidhai) | [Kailash29792](https://en.wikipedia.org/wiki/User:Kailash29792) | 4,976 |
+| 2026-11-11 01:35:01 | [Penal labor exception](https://en.wikipedia.org/wiki/Penal_labor_exception) | [Bohemian Baltimore](https://en.wikipedia.org/wiki/User:Bohemian_Baltimore) | 2,790 |
+| 2026-11-11 01:37:14 | [Morgan DeWitt-Snow](https://en.wikipedia.org/wiki/Morgan_DeWitt-Snow) | [TillyTubs10](https://en.wikipedia.org/wiki/User:TillyTubs10) | 36 |
+| 2026-11-11 01:56:01 | [Caroline Finnestad Lund](https://en.wikipedia.org/wiki/Caroline_Finnestad_Lund) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,738 |
+| 2026-11-11 01:58:52 | [Before I Crash Out](https://en.wikipedia.org/wiki/Before_I_Crash_Out) | [Alexbarbershop](https://en.wikipedia.org/wiki/User:Alexbarbershop) | 4,081 |
+| 2026-11-11 02:04:27 | [Czech Red Cross](https://en.wikipedia.org/wiki/Czech_Red_Cross) | [Thief-River-Faller](https://en.wikipedia.org/wiki/User:Thief-River-Faller) | 1,969 |
+| 2026-11-11 02:05:58 | [Oyrondu](https://en.wikipedia.org/wiki/Oyrondu) | [Thermokarst](https://en.wikipedia.org/wiki/User:Thermokarst) | 4,763 |
+| 2026-11-11 02:06:29 | [Chicago Firehouse Restaurant](https://en.wikipedia.org/wiki/Chicago_Firehouse_Restaurant) | [Heroeswithmetaphors](https://en.wikipedia.org/wiki/User:Heroeswithmetaphors) | 638 |
+| 2026-11-11 02:11:59 | [National Wrestling Arena](https://en.wikipedia.org/wiki/National_Wrestling_Arena) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 2,338 |
+| 2026-11-11 02:14:13 | [Pichu (disambiguation)](https://en.wikipedia.org/wiki/Pichu_%28disambiguation%29) | [BDD](https://en.wikipedia.org/wiki/User:BDD) | 659 |
+| 2026-11-11 02:14:49 | [Gèlè Festival](https://en.wikipedia.org/wiki/G%C3%A8l%C3%A8_Festival) | [Oramfe](https://en.wikipedia.org/wiki/User:Oramfe) | 5,210 |
+| 2026-11-11 02:18:35 | [Pokémon: Mewtwo Returns (Pokémon TV Special)](https://en.wikipedia.org/wiki/Pok%C3%A9mon%3A_Mewtwo_Returns_%28Pok%C3%A9mon_TV_Special%29) | [Ketchupisgood](https://en.wikipedia.org/wiki/User:Ketchupisgood) | 4,272 |
