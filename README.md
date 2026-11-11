@@ -13,55 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-11 06:21 UTC](data/en/new-articles-2026-11-11T06-21-15Z.csv) | 23 |
-| Japanese | `ja` | [2026-11-11 06:21 UTC](data/ja/new-articles-2026-11-11T06-21-15Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-11 06:21 UTC](data/zh/new-articles-2026-11-11T06-21-15Z.csv) | 4 |
-| French | `fr` | [2026-11-11 06:21 UTC](data/fr/new-articles-2026-11-11T06-21-15Z.csv) | 3 |
-| German | `de` | [2026-11-11 06:21 UTC](data/de/new-articles-2026-11-11T06-21-15Z.csv) | 2 |
-| Russian | `ru` | [2026-11-11 06:21 UTC](data/ru/new-articles-2026-11-11T06-21-15Z.csv) | 10 |
-| Spanish | `es` | [2026-11-11 06:21 UTC](data/es/new-articles-2026-11-11T06-21-15Z.csv) | 3 |
-| Italian | `it` | [2026-11-11 05:19 UTC](data/it/new-articles-2026-11-11T05-19-28Z.csv) | 1 |
+| English | `en` | [2026-11-11 07:19 UTC](data/en/new-articles-2026-11-11T07-19-00Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-11 07:19 UTC](data/ja/new-articles-2026-11-11T07-19-00Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-11 07:19 UTC](data/zh/new-articles-2026-11-11T07-19-00Z.csv) | 8 |
+| French | `fr` | [2026-11-11 07:19 UTC](data/fr/new-articles-2026-11-11T07-19-00Z.csv) | 1 |
+| German | `de` | [2026-11-11 07:19 UTC](data/de/new-articles-2026-11-11T07-19-00Z.csv) | 2 |
+| Russian | `ru` | [2026-11-11 07:19 UTC](data/ru/new-articles-2026-11-11T07-19-00Z.csv) | 4 |
+| Spanish | `es` | [2026-11-11 07:19 UTC](data/es/new-articles-2026-11-11T07-19-00Z.csv) | 3 |
+| Italian | `it` | [2026-11-11 07:19 UTC](data/it/new-articles-2026-11-11T07-19-00Z.csv) | 3 |
 | Portuguese | `pt` | [2026-11-11 06:21 UTC](data/pt/new-articles-2026-11-11T06-21-15Z.csv) | 1 |
-| Polish | `pl` | [2026-11-11 06:21 UTC](data/pl/new-articles-2026-11-11T06-21-15Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-11 06:21 UTC](data/ar/new-articles-2026-11-11T06-21-15Z.csv) | 4 |
-| Persian | `fa` | [2026-11-11 06:21 UTC](data/fa/new-articles-2026-11-11T06-21-15Z.csv) | 2 |
-| Turkish | `tr` | [2026-11-11 06:21 UTC](data/tr/new-articles-2026-11-11T06-21-15Z.csv) | 8 |
-| Hebrew | `he` | [2026-11-11 06:21 UTC](data/he/new-articles-2026-11-11T06-21-15Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-11 06:21 UTC](data/sv/new-articles-2026-11-11T06-21-15Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-11 06:21 UTC](data/nl/new-articles-2026-11-11T06-21-15Z.csv) | 1 |
-| Korean | `ko` | [2026-11-11 06:21 UTC](data/ko/new-articles-2026-11-11T06-21-15Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-11 06:21 UTC](data/id/new-articles-2026-11-11T06-21-15Z.csv) | 9 |
+| Polish | `pl` | [2026-11-11 07:19 UTC](data/pl/new-articles-2026-11-11T07-19-00Z.csv) | 7 |
+| Arabic | `ar` | [2026-11-11 07:19 UTC](data/ar/new-articles-2026-11-11T07-19-00Z.csv) | 2 |
+| Persian | `fa` | [2026-11-11 07:19 UTC](data/fa/new-articles-2026-11-11T07-19-00Z.csv) | 14 |
+| Turkish | `tr` | [2026-11-11 07:19 UTC](data/tr/new-articles-2026-11-11T07-19-00Z.csv) | 8 |
+| Hebrew | `he` | [2026-11-11 07:19 UTC](data/he/new-articles-2026-11-11T07-19-00Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-11 07:19 UTC](data/sv/new-articles-2026-11-11T07-19-00Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-11 07:19 UTC](data/nl/new-articles-2026-11-11T07-19-00Z.csv) | 2 |
+| Korean | `ko` | [2026-11-11 07:19 UTC](data/ko/new-articles-2026-11-11T07-19-00Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-11 07:19 UTC](data/id/new-articles-2026-11-11T07-19-00Z.csv) | 5 |
 | Ukrainian | `uk` | [2026-11-11 06:21 UTC](data/uk/new-articles-2026-11-11T06-21-15Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-11-11 06:21 UTC](data/vi/new-articles-2026-11-11T06-21-15Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-11 07:19 UTC](data/vi/new-articles-2026-11-11T07-19-00Z.csv) | 1 |
 
-## English (en) — 2026-11-11 06:21 UTC
+## English (en) — 2026-11-11 07:19 UTC
 
-New articles created between 2026-11-11 05:19 UTC and 2026-11-11 06:21 UTC.
+New articles created between 2026-11-11 06:21 UTC and 2026-11-11 07:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-11T06-21-15Z.csv)
+[Full CSV](data/en/new-articles-2026-11-11T07-19-00Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-11 05:23:50 | [Husan Ara Kaun](https://en.wikipedia.org/wiki/Husan_Ara_Kaun) | [Qoeudjsn](https://en.wikipedia.org/wiki/User:Qoeudjsn) | 1,040 |
-| 2026-11-11 05:27:57 | [1970–71 Serie D](https://en.wikipedia.org/wiki/1970%E2%80%9371_Serie_D) | [11piemontesibellitosti](https://en.wikipedia.org/wiki/User:11piemontesibellitosti) | 6,212 |
-| 2026-11-11 05:30:25 | [Canadian Elections Database](https://en.wikipedia.org/wiki/Canadian_Elections_Database) | [WindBorneListener](https://en.wikipedia.org/wiki/User:WindBorneListener) | 1,858 |
-| 2026-11-11 05:31:14 | [Lasioglossum callomelittinum](https://en.wikipedia.org/wiki/Lasioglossum_callomelittinum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,760 |
-| 2026-11-11 05:34:03 | [Jules Sbroglia](https://en.wikipedia.org/wiki/Jules_Sbroglia) | [ShadowBallX](https://en.wikipedia.org/wiki/User:ShadowBallX) | 9,444 |
-| 2026-11-11 05:35:17 | [The Hawthorns (house)](https://en.wikipedia.org/wiki/The_Hawthorns_%28house%29) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 7,437 |
-| 2026-11-11 05:35:24 | [Kochav](https://en.wikipedia.org/wiki/Kochav) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 392 |
-| 2026-11-11 05:36:36 | [IEEE 1621](https://en.wikipedia.org/wiki/IEEE_1621) | [Leonard LMT](https://en.wikipedia.org/wiki/User:Leonard_LMT) | 10,855 |
-| 2026-11-11 05:43:39 | [Goleta Valley Cottage Hospital](https://en.wikipedia.org/wiki/Goleta_Valley_Cottage_Hospital) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 9,468 |
-| 2026-11-11 05:47:44 | [Arya Shams](https://en.wikipedia.org/wiki/Arya_Shams) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,450 |
-| 2026-11-11 05:48:02 | [Ann Marie Vozzo](https://en.wikipedia.org/wiki/Ann_Marie_Vozzo) | [Didier Landner](https://en.wikipedia.org/wiki/User:Didier_Landner) | 1,776 |
-| 2026-11-11 05:50:59 | [Ref (song)](https://en.wikipedia.org/wiki/Ref_%28song%29) | [Cheromaniii](https://en.wikipedia.org/wiki/User:Cheromaniii) | 4,749 |
-| 2026-11-11 05:52:33 | [Karl Skorecki](https://en.wikipedia.org/wiki/Karl_Skorecki) | [OldCompass](https://en.wikipedia.org/wiki/User:OldCompass) | 19,878 |
-| 2026-11-11 05:52:41 | [Olawuseyi Wilson](https://en.wikipedia.org/wiki/Olawuseyi_Wilson) | [MiaSanMiaRossoneri](https://en.wikipedia.org/wiki/User:MiaSanMiaRossoneri) | 3,198 |
-| 2026-11-11 05:53:19 | [Samantha O'Loughlin](https://en.wikipedia.org/wiki/Samantha_O%27Loughlin) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,479 |
-| 2026-11-11 05:53:29 | [Yakamys](https://en.wikipedia.org/wiki/Yakamys) | [Nyxosaurusrex](https://en.wikipedia.org/wiki/User:Nyxosaurusrex) | 243 |
-| 2026-11-11 05:55:28 | [André Panza](https://en.wikipedia.org/wiki/Andr%C3%A9_Panza) | [CapitalPun](https://en.wikipedia.org/wiki/User:CapitalPun) | 6,251 |
-| 2026-11-11 05:57:06 | [Elkaïm](https://en.wikipedia.org/wiki/Elka%C3%AFm) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 373 |
-| 2026-11-11 05:57:13 | [Elkayam](https://en.wikipedia.org/wiki/Elkayam) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 451 |
-| 2026-11-11 05:57:20 | [Naser parvani](https://en.wikipedia.org/wiki/Naser_parvani) | [Seyadamah](https://en.wikipedia.org/wiki/User:Seyadamah) | 7,453 |
-| 2026-11-11 05:59:07 | [Dasakhiatbha Lamare](https://en.wikipedia.org/wiki/Dasakhiatbha_Lamare) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,883 |
-| 2026-11-11 06:01:44 | [Työmiehen lauantai](https://en.wikipedia.org/wiki/Ty%C3%B6miehen_lauantai) | [Juustila](https://en.wikipedia.org/wiki/User:Juustila) | 2,532 |
-| 2026-11-11 06:20:26 | [Sena Nagamoto](https://en.wikipedia.org/wiki/Sena_Nagamoto) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 9,154 |
+| 2026-11-11 06:27:19 | [Markham baronets of Sedgebrooke (1642)](https://en.wikipedia.org/wiki/Markham_baronets_of_Sedgebrooke_%281642%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 2,536 |
+| 2026-11-11 06:28:43 | [Tricholoma atrofibrillosum](https://en.wikipedia.org/wiki/Tricholoma_atrofibrillosum) | [TheNatureKid](https://en.wikipedia.org/wiki/User:TheNatureKid) | 2,915 |
+| 2026-11-11 06:30:59 | [David Nongrum](https://en.wikipedia.org/wiki/David_Nongrum) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,424 |
+| 2026-11-11 06:38:18 | [Eliakim (name)](https://en.wikipedia.org/wiki/Eliakim_%28name%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,559 |
+| 2026-11-11 06:39:40 | [East Town railway station](https://en.wikipedia.org/wiki/East_Town_railway_station) | [Its-mrb](https://en.wikipedia.org/wiki/User:Its-mrb) | 19,223 |
+| 2026-11-11 06:44:23 | [Lagenosocereus luetzelburgii](https://en.wikipedia.org/wiki/Lagenosocereus_luetzelburgii) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 6,193 |
+| 2026-11-11 06:45:28 | [Louane Plisson](https://en.wikipedia.org/wiki/Louane_Plisson) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 6,515 |
+| 2026-11-11 06:47:01 | [2026–27 Abilene Christian Wildcats men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Abilene_Christian_Wildcats_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 28,872 |
+| 2026-11-11 06:50:53 | [1952–53 Manchester British-Americans season](https://en.wikipedia.org/wiki/1952%E2%80%9353_Manchester_British-Americans_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 18,186 |
+| 2026-11-11 06:54:30 | [1951–52 Manchester British-Americans season](https://en.wikipedia.org/wiki/1951%E2%80%9352_Manchester_British-Americans_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 13,606 |
+| 2026-11-11 07:00:20 | [Egg sausage](https://en.wikipedia.org/wiki/Egg_sausage) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 3,544 |
+| 2026-11-11 07:00:30 | [1952–53 Elmira Colonels season](https://en.wikipedia.org/wiki/1952%E2%80%9353_Elmira_Colonels_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 12,327 |
+| 2026-11-11 07:00:44 | [Bob Van Dyke](https://en.wikipedia.org/wiki/Bob_Van_Dyke) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 4,998 |
+| 2026-11-11 07:01:17 | [List of Malayalam songs recorded by Vani Jairam](https://en.wikipedia.org/wiki/List_of_Malayalam_songs_recorded_by_Vani_Jairam) | [Bangwiki](https://en.wikipedia.org/wiki/User:Bangwiki) | 6,602 |
+| 2026-11-11 07:05:56 | [1951–52 Elmira Colonels season](https://en.wikipedia.org/wiki/1951%E2%80%9352_Elmira_Colonels_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 12,993 |
+| 2026-11-11 07:06:41 | [Craspedia diversicolor](https://en.wikipedia.org/wiki/Craspedia_diversicolor) | [Stitchbird2](https://en.wikipedia.org/wiki/User:Stitchbird2) | 1,416 |
+| 2026-11-11 07:10:13 | [Markham baronets of Beachborough Park (1911)](https://en.wikipedia.org/wiki/Markham_baronets_of_Beachborough_Park_%281911%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 2,742 |
+| 2026-11-11 07:13:45 | [Tonasa Formation](https://en.wikipedia.org/wiki/Tonasa_Formation) | [Daeng Dino](https://en.wikipedia.org/wiki/User:Daeng_Dino) | 4,322 |
+| 2026-11-11 07:17:02 | [Harrell Station Paleontological Site](https://en.wikipedia.org/wiki/Harrell_Station_Paleontological_Site) | [NShehan](https://en.wikipedia.org/wiki/User:NShehan) | 8,187 |
