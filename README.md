@@ -13,49 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-12 02:19 UTC](data/en/new-articles-2026-11-12T02-19-22Z.csv) | 17 |
-| Japanese | `ja` | [2026-11-12 02:19 UTC](data/ja/new-articles-2026-11-12T02-19-22Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-12 02:19 UTC](data/zh/new-articles-2026-11-12T02-19-22Z.csv) | 11 |
-| French | `fr` | [2026-11-12 02:19 UTC](data/fr/new-articles-2026-11-12T02-19-22Z.csv) | 4 |
+| English | `en` | [2026-11-12 03:19 UTC](data/en/new-articles-2026-11-12T03-19-35Z.csv) | 18 |
+| Japanese | `ja` | [2026-11-12 03:19 UTC](data/ja/new-articles-2026-11-12T03-19-35Z.csv) | 5 |
+| Chinese | `zh` | [2026-11-12 03:19 UTC](data/zh/new-articles-2026-11-12T03-19-35Z.csv) | 7 |
+| French | `fr` | [2026-11-12 03:19 UTC](data/fr/new-articles-2026-11-12T03-19-35Z.csv) | 3 |
 | German | `de` | [2026-11-12 01:18 UTC](data/de/new-articles-2026-11-12T01-18-52Z.csv) | 2 |
-| Russian | `ru` | [2026-11-12 02:19 UTC](data/ru/new-articles-2026-11-12T02-19-22Z.csv) | 3 |
-| Spanish | `es` | [2026-11-12 02:19 UTC](data/es/new-articles-2026-11-12T02-19-22Z.csv) | 8 |
+| Russian | `ru` | [2026-11-12 03:19 UTC](data/ru/new-articles-2026-11-12T03-19-35Z.csv) | 6 |
+| Spanish | `es` | [2026-11-12 03:19 UTC](data/es/new-articles-2026-11-12T03-19-35Z.csv) | 6 |
 | Italian | `it` | [2026-11-12 02:19 UTC](data/it/new-articles-2026-11-12T02-19-22Z.csv) | 2 |
-| Portuguese | `pt` | [2026-11-12 02:19 UTC](data/pt/new-articles-2026-11-12T02-19-22Z.csv) | 5 |
-| Polish | `pl` | [2026-11-12 02:19 UTC](data/pl/new-articles-2026-11-12T02-19-22Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-12 03:19 UTC](data/pt/new-articles-2026-11-12T03-19-35Z.csv) | 5 |
+| Polish | `pl` | [2026-11-12 03:19 UTC](data/pl/new-articles-2026-11-12T03-19-35Z.csv) | 1 |
 | Arabic | `ar` | [2026-11-11 23:19 UTC](data/ar/new-articles-2026-11-11T23-19-09Z.csv) | 3 |
-| Persian | `fa` | [2026-11-12 02:19 UTC](data/fa/new-articles-2026-11-12T02-19-22Z.csv) | 4 |
-| Turkish | `tr` | [2026-11-12 00:19 UTC](data/tr/new-articles-2026-11-12T00-19-18Z.csv) | 1 |
+| Persian | `fa` | [2026-11-12 03:19 UTC](data/fa/new-articles-2026-11-12T03-19-35Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-12 03:19 UTC](data/tr/new-articles-2026-11-12T03-19-35Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-12 02:19 UTC](data/he/new-articles-2026-11-12T02-19-22Z.csv) | 2 |
 | Swedish | `sv` | [2026-11-12 01:18 UTC](data/sv/new-articles-2026-11-12T01-18-52Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-12 02:19 UTC](data/nl/new-articles-2026-11-12T02-19-22Z.csv) | 1 |
-| Korean | `ko` | [2026-11-12 02:19 UTC](data/ko/new-articles-2026-11-12T02-19-22Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-12 02:19 UTC](data/id/new-articles-2026-11-12T02-19-22Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-11-11 23:19 UTC](data/uk/new-articles-2026-11-11T23-19-09Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-11-12 02:19 UTC](data/vi/new-articles-2026-11-12T02-19-22Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-12 03:19 UTC](data/nl/new-articles-2026-11-12T03-19-35Z.csv) | 1 |
+| Korean | `ko` | [2026-11-12 03:19 UTC](data/ko/new-articles-2026-11-12T03-19-35Z.csv) | 4 |
+| Indonesian | `id` | [2026-11-12 03:19 UTC](data/id/new-articles-2026-11-12T03-19-35Z.csv) | 15 |
+| Ukrainian | `uk` | [2026-11-12 03:19 UTC](data/uk/new-articles-2026-11-12T03-19-35Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-12 03:19 UTC](data/vi/new-articles-2026-11-12T03-19-35Z.csv) | 1 |
 
-## English (en) — 2026-11-12 02:19 UTC
+## English (en) — 2026-11-12 03:19 UTC
 
-New articles created between 2026-11-12 01:18 UTC and 2026-11-12 02:19 UTC.
+New articles created between 2026-11-12 02:19 UTC and 2026-11-12 03:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-12T02-19-22Z.csv)
+[Full CSV](data/en/new-articles-2026-11-12T03-19-35Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-12 01:21:25 | [Dmitry Frolyanov](https://en.wikipedia.org/wiki/Dmitry_Frolyanov) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 2,706 |
-| 2026-11-12 01:28:34 | [Clara Rivero-Baleine](https://en.wikipedia.org/wiki/Clara_Rivero-Baleine) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 4,510 |
-| 2026-11-12 01:28:54 | [Bolivians in Spain](https://en.wikipedia.org/wiki/Bolivians_in_Spain) | [NikosLikomitros](https://en.wikipedia.org/wiki/User:NikosLikomitros) | 9,917 |
-| 2026-11-12 01:35:39 | [Teddie](https://en.wikipedia.org/wiki/Teddie) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 755 |
-| 2026-11-12 01:38:20 | [Frankfurter Allee station](https://en.wikipedia.org/wiki/Frankfurter_Allee_station) | [AlphaBeta135](https://en.wikipedia.org/wiki/User:AlphaBeta135) | 207 |
-| 2026-11-12 01:46:11 | [Risa Afriyani Ulfa](https://en.wikipedia.org/wiki/Risa_Afriyani_Ulfa) | [Luthfi Waskitojati](https://en.wikipedia.org/wiki/User:Luthfi_Waskitojati) | 2,959 |
-| 2026-11-12 01:47:34 | [50 Percent](https://en.wikipedia.org/wiki/50_Percent) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 3,084 |
-| 2026-11-12 01:53:35 | [Brazilians in Spain](https://en.wikipedia.org/wiki/Brazilians_in_Spain) | [NikosLikomitros](https://en.wikipedia.org/wiki/User:NikosLikomitros) | 3,161 |
-| 2026-11-12 01:58:35 | [Growing Op](https://en.wikipedia.org/wiki/Growing_Op) | [Bearcat](https://en.wikipedia.org/wiki/User:Bearcat) | 5,604 |
-| 2026-11-12 02:04:43 | [Michika Sakamoto](https://en.wikipedia.org/wiki/Michika_Sakamoto) | [Luthfi Waskitojati](https://en.wikipedia.org/wiki/User:Luthfi_Waskitojati) | 2,566 |
-| 2026-11-12 02:06:52 | [Lasioglossum cambagei](https://en.wikipedia.org/wiki/Lasioglossum_cambagei) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,618 |
-| 2026-11-12 02:09:51 | [Croweacin](https://en.wikipedia.org/wiki/Croweacin) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 4,549 |
-| 2026-11-12 02:11:35 | [Tedi (given name)](https://en.wikipedia.org/wiki/Tedi_%28given_name%29) | [Joshua Perez Najera](https://en.wikipedia.org/wiki/User:Joshua_Perez_Najera) | 978 |
-| 2026-11-12 02:14:18 | [Anggita Oktaviani](https://en.wikipedia.org/wiki/Anggita_Oktaviani) | [Luthfi Waskitojati](https://en.wikipedia.org/wiki/User:Luthfi_Waskitojati) | 4,179 |
-| 2026-11-12 02:14:50 | [2025–26 Śląsk Wrocław season](https://en.wikipedia.org/wiki/2025%E2%80%9326_%C5%9Al%C4%85sk_Wroc%C5%82aw_season) | [Sakiv](https://en.wikipedia.org/wiki/User:Sakiv) | 21,474 |
-| 2026-11-12 02:16:28 | [Rebecca Amidon](https://en.wikipedia.org/wiki/Rebecca_Amidon) | [Elli](https://en.wikipedia.org/wiki/User:Elli) | 4,549 |
-| 2026-11-12 02:18:29 | [Tan Tan (children's book series)](https://en.wikipedia.org/wiki/Tan_Tan_%28children%27s_book_series%29) | [WhisperToMe](https://en.wikipedia.org/wiki/User:WhisperToMe) | 2,581 |
+| 2026-11-12 02:19:38 | [David Angibeaud](https://en.wikipedia.org/wiki/David_Angibeaud) | [Wvhistory1](https://en.wikipedia.org/wiki/User:Wvhistory1) | 6,051 |
+| 2026-11-12 02:28:01 | [Ajeng Sri Handayani](https://en.wikipedia.org/wiki/Ajeng_Sri_Handayani) | [Luthfi Waskitojati](https://en.wikipedia.org/wiki/User:Luthfi_Waskitojati) | 4,915 |
+| 2026-11-12 02:28:06 | [Audra Lea Keener](https://en.wikipedia.org/wiki/Audra_Lea_Keener) | [AJTheVyonder](https://en.wikipedia.org/wiki/User:AJTheVyonder) | 4,507 |
+| 2026-11-12 02:32:28 | [Robby Discher](https://en.wikipedia.org/wiki/Robby_Discher) | [Mackensen](https://en.wikipedia.org/wiki/User:Mackensen) | 11,105 |
+| 2026-11-12 02:33:59 | [Tierpark station](https://en.wikipedia.org/wiki/Tierpark_station) | [AlphaBeta135](https://en.wikipedia.org/wiki/User:AlphaBeta135) | 157 |
+| 2026-11-12 02:34:29 | [Roman Gagliano](https://en.wikipedia.org/wiki/Roman_Gagliano) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 6,476 |
+| 2026-11-12 02:36:12 | [Uhlandstraße station](https://en.wikipedia.org/wiki/Uhlandstra%C3%9Fe_station) | [AlphaBeta135](https://en.wikipedia.org/wiki/User:AlphaBeta135) | 147 |
+| 2026-11-12 02:38:22 | [MK Restaurant Group](https://en.wikipedia.org/wiki/MK_Restaurant_Group) | [วรุฒ หิ่มสาใจ](https://en.wikipedia.org/wiki/User:%E0%B8%A7%E0%B8%A3%E0%B8%B8%E0%B8%92_%E0%B8%AB%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B9%83%E0%B8%88) | 5,527 |
+| 2026-11-12 02:41:20 | [Osmorhizole](https://en.wikipedia.org/wiki/Osmorhizole) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 2,364 |
+| 2026-11-12 02:41:21 | [Angelina Novolodskaya](https://en.wikipedia.org/wiki/Angelina_Novolodskaya) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 6,527 |
+| 2026-11-12 02:46:50 | [List of places of worship in Hindmarsh Shire](https://en.wikipedia.org/wiki/List_of_places_of_worship_in_Hindmarsh_Shire) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 22,032 |
+| 2026-11-12 02:52:30 | [John McVeigh (linebacker)](https://en.wikipedia.org/wiki/John_McVeigh_%28linebacker%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,509 |
+| 2026-11-12 02:59:19 | [3,5-Dimethoxyallylbenzene](https://en.wikipedia.org/wiki/3%2C5-Dimethoxyallylbenzene) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 2,871 |
+| 2026-11-12 03:08:37 | [Anna Hirakawa](https://en.wikipedia.org/wiki/Anna_Hirakawa) | [Luthfi Waskitojati](https://en.wikipedia.org/wiki/User:Luthfi_Waskitojati) | 4,160 |
+| 2026-11-12 03:10:10 | [Rita Paul (artist)](https://en.wikipedia.org/wiki/Rita_Paul_%28artist%29) | [Star Mississippi](https://en.wikipedia.org/wiki/User:Star_Mississippi) | 1,438 |
+| 2026-11-12 03:13:27 | [Lasioglossum contaminatum](https://en.wikipedia.org/wiki/Lasioglossum_contaminatum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,318 |
+| 2026-11-12 03:14:13 | [Pașca](https://en.wikipedia.org/wiki/Pa%C8%99ca) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 235 |
+| 2026-11-12 03:15:02 | [PATCON](https://en.wikipedia.org/wiki/PATCON) | [CzarJobKhaya](https://en.wikipedia.org/wiki/User:CzarJobKhaya) | 3,062 |
