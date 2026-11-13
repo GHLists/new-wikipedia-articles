@@ -13,52 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-13 11:19 UTC](data/en/new-articles-2026-11-13T11-19-03Z.csv) | 20 |
-| Japanese | `ja` | [2026-11-13 11:19 UTC](data/ja/new-articles-2026-11-13T11-19-03Z.csv) | 7 |
-| Chinese | `zh` | [2026-11-13 11:19 UTC](data/zh/new-articles-2026-11-13T11-19-03Z.csv) | 4 |
-| French | `fr` | [2026-11-13 11:19 UTC](data/fr/new-articles-2026-11-13T11-19-03Z.csv) | 13 |
-| German | `de` | [2026-11-13 11:19 UTC](data/de/new-articles-2026-11-13T11-19-03Z.csv) | 12 |
-| Russian | `ru` | [2026-11-13 11:19 UTC](data/ru/new-articles-2026-11-13T11-19-03Z.csv) | 46 |
-| Spanish | `es` | [2026-11-13 11:19 UTC](data/es/new-articles-2026-11-13T11-19-03Z.csv) | 5 |
-| Italian | `it` | [2026-11-13 11:19 UTC](data/it/new-articles-2026-11-13T11-19-03Z.csv) | 24 |
-| Portuguese | `pt` | [2026-11-13 11:19 UTC](data/pt/new-articles-2026-11-13T11-19-03Z.csv) | 3 |
-| Polish | `pl` | [2026-11-13 11:19 UTC](data/pl/new-articles-2026-11-13T11-19-03Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-13 11:19 UTC](data/ar/new-articles-2026-11-13T11-19-03Z.csv) | 1 |
-| Persian | `fa` | [2026-11-13 11:19 UTC](data/fa/new-articles-2026-11-13T11-19-03Z.csv) | 11 |
-| Turkish | `tr` | [2026-11-13 11:19 UTC](data/tr/new-articles-2026-11-13T11-19-03Z.csv) | 3 |
-| Hebrew | `he` | [2026-11-13 11:19 UTC](data/he/new-articles-2026-11-13T11-19-03Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-13 11:19 UTC](data/sv/new-articles-2026-11-13T11-19-03Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-13 11:19 UTC](data/nl/new-articles-2026-11-13T11-19-03Z.csv) | 10 |
-| Korean | `ko` | [2026-11-13 11:19 UTC](data/ko/new-articles-2026-11-13T11-19-03Z.csv) | 8 |
-| Indonesian | `id` | [2026-11-13 11:19 UTC](data/id/new-articles-2026-11-13T11-19-03Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-11-13 11:19 UTC](data/uk/new-articles-2026-11-13T11-19-03Z.csv) | 7 |
-| Vietnamese | `vi` | [2026-11-13 11:19 UTC](data/vi/new-articles-2026-11-13T11-19-03Z.csv) | 3 |
+| English | `en` | [2026-11-13 12:18 UTC](data/en/new-articles-2026-11-13T12-18-50Z.csv) | 16 |
+| Japanese | `ja` | [2026-11-13 12:18 UTC](data/ja/new-articles-2026-11-13T12-18-50Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-13 12:18 UTC](data/zh/new-articles-2026-11-13T12-18-50Z.csv) | 5 |
+| French | `fr` | [2026-11-13 12:18 UTC](data/fr/new-articles-2026-11-13T12-18-50Z.csv) | 11 |
+| German | `de` | [2026-11-13 12:18 UTC](data/de/new-articles-2026-11-13T12-18-50Z.csv) | 16 |
+| Russian | `ru` | [2026-11-13 12:18 UTC](data/ru/new-articles-2026-11-13T12-18-50Z.csv) | 9 |
+| Spanish | `es` | [2026-11-13 12:18 UTC](data/es/new-articles-2026-11-13T12-18-50Z.csv) | 3 |
+| Italian | `it` | [2026-11-13 12:18 UTC](data/it/new-articles-2026-11-13T12-18-50Z.csv) | 9 |
+| Portuguese | `pt` | [2026-11-13 12:18 UTC](data/pt/new-articles-2026-11-13T12-18-50Z.csv) | 1 |
+| Polish | `pl` | [2026-11-13 12:18 UTC](data/pl/new-articles-2026-11-13T12-18-50Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-13 12:18 UTC](data/ar/new-articles-2026-11-13T12-18-50Z.csv) | 4 |
+| Persian | `fa` | [2026-11-13 12:18 UTC](data/fa/new-articles-2026-11-13T12-18-50Z.csv) | 7 |
+| Turkish | `tr` | [2026-11-13 12:18 UTC](data/tr/new-articles-2026-11-13T12-18-50Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-13 12:18 UTC](data/he/new-articles-2026-11-13T12-18-50Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-13 12:18 UTC](data/sv/new-articles-2026-11-13T12-18-50Z.csv) | 6 |
+| Dutch | `nl` | [2026-11-13 12:18 UTC](data/nl/new-articles-2026-11-13T12-18-50Z.csv) | 2 |
+| Korean | `ko` | [2026-11-13 12:18 UTC](data/ko/new-articles-2026-11-13T12-18-50Z.csv) | 6 |
+| Indonesian | `id` | [2026-11-13 12:18 UTC](data/id/new-articles-2026-11-13T12-18-50Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-13 12:18 UTC](data/uk/new-articles-2026-11-13T12-18-50Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-13 12:18 UTC](data/vi/new-articles-2026-11-13T12-18-50Z.csv) | 6 |
 
-## English (en) — 2026-11-13 11:19 UTC
+## English (en) — 2026-11-13 12:18 UTC
 
-New articles created between 2026-11-13 10:20 UTC and 2026-11-13 11:19 UTC.
+New articles created between 2026-11-13 11:19 UTC and 2026-11-13 12:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-13T11-19-03Z.csv)
+[Full CSV](data/en/new-articles-2026-11-13T12-18-50Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-13 10:22:36 | [Haplogroup R-S1194](https://en.wikipedia.org/wiki/Haplogroup_R-S1194) | [R1bS1194](https://en.wikipedia.org/wiki/User:R1bS1194) | 35,718 |
-| 2026-11-13 10:22:39 | [Psammodius laevipennis](https://en.wikipedia.org/wiki/Psammodius_laevipennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,463 |
-| 2026-11-13 10:24:13 | [2026 Microsoft outage](https://en.wikipedia.org/wiki/2026_Microsoft_outage) | [Cosmic840](https://en.wikipedia.org/wiki/User:Cosmic840) | 169 |
-| 2026-11-13 10:33:41 | [Psammodius nocturnus](https://en.wikipedia.org/wiki/Psammodius_nocturnus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,955 |
-| 2026-11-13 10:39:29 | [Psammodius convexus](https://en.wikipedia.org/wiki/Psammodius_convexus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,818 |
-| 2026-11-13 10:46:44 | [Monica Mezzapelle](https://en.wikipedia.org/wiki/Monica_Mezzapelle) | [BankSforLifez](https://en.wikipedia.org/wiki/User:BankSforLifez) | 4,623 |
-| 2026-11-13 10:53:23 | [Psammodius sefrensis](https://en.wikipedia.org/wiki/Psammodius_sefrensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,829 |
-| 2026-11-13 10:56:33 | [Argeiinae](https://en.wikipedia.org/wiki/Argeiinae) | [Astrobirder-isopods](https://en.wikipedia.org/wiki/User:Astrobirder-isopods) | 4,916 |
-| 2026-11-13 10:57:44 | [National Council on Inland Transport](https://en.wikipedia.org/wiki/National_Council_on_Inland_Transport) | [MRSC](https://en.wikipedia.org/wiki/User:MRSC) | 747 |
-| 2026-11-13 11:00:41 | [Annu (field hockey)](https://en.wikipedia.org/wiki/Annu_%28field_hockey%29) | [SaoTanTeeta](https://en.wikipedia.org/wiki/User:SaoTanTeeta) | 2,616 |
-| 2026-11-13 11:00:43 | [Kemal Merkit](https://en.wikipedia.org/wiki/Kemal_Merkit) | [Emirstrick](https://en.wikipedia.org/wiki/User:Emirstrick) | 4,193 |
-| 2026-11-13 11:05:00 | [Living It Up in Another World Until I Get Bored](https://en.wikipedia.org/wiki/Living_It_Up_in_Another_World_Until_I_Get_Bored) | [Tebus19](https://en.wikipedia.org/wiki/User:Tebus19) | 6,125 |
-| 2026-11-13 11:05:46 | [Richard Mott Gummere](https://en.wikipedia.org/wiki/Richard_Mott_Gummere) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 51 |
-| 2026-11-13 11:05:57 | [Shoshee Chunder Dutt](https://en.wikipedia.org/wiki/Shoshee_Chunder_Dutt) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 51 |
-| 2026-11-13 11:06:06 | [William Arthur Jobson Archbold](https://en.wikipedia.org/wiki/William_Arthur_Jobson_Archbold) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 61 |
-| 2026-11-13 11:06:17 | [Edward Philip Coleridge](https://en.wikipedia.org/wiki/Edward_Philip_Coleridge) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 54 |
-| 2026-11-13 11:07:52 | [Subikunnahar](https://en.wikipedia.org/wiki/Subikunnahar) | [Ajijul Islam Emon](https://en.wikipedia.org/wiki/User:Ajijul_Islam_Emon) | 2,896 |
-| 2026-11-13 11:09:52 | [Psammodius generosus](https://en.wikipedia.org/wiki/Psammodius_generosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,855 |
-| 2026-11-13 11:13:28 | [Ziyater Hanim](https://en.wikipedia.org/wiki/Ziyater_Hanim) | [Almo12479](https://en.wikipedia.org/wiki/User:Almo12479) | 2,349 |
-| 2026-11-13 11:17:12 | [Leiopsammodius deyrupi](https://en.wikipedia.org/wiki/Leiopsammodius_deyrupi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,111 |
+| 2026-11-13 11:23:52 | [Leiopsammodius acei](https://en.wikipedia.org/wiki/Leiopsammodius_acei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,067 |
+| 2026-11-13 11:25:00 | [Muhammad Rehan (senator)](https://en.wikipedia.org/wiki/Muhammad_Rehan_%28senator%29) | [UC10SirSyedTown](https://en.wikipedia.org/wiki/User:UC10SirSyedTown) | 578 |
+| 2026-11-13 11:25:22 | [Kozyn, Rivne Oblast](https://en.wikipedia.org/wiki/Kozyn%2C_Rivne_Oblast) | [Marcin 303](https://en.wikipedia.org/wiki/User:Marcin_303) | 292 |
+| 2026-11-13 11:25:31 | [Kum-Aryk, Chüy Region](https://en.wikipedia.org/wiki/Kum-Aryk%2C_Ch%C3%BCy_Region) | [Thermokarst](https://en.wikipedia.org/wiki/User:Thermokarst) | 7,359 |
+| 2026-11-13 11:32:40 | [Heluiz Chandler Washburne](https://en.wikipedia.org/wiki/Heluiz_Chandler_Washburne) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 56 |
+| 2026-11-13 11:32:48 | [Frances Charlotte Ryder](https://en.wikipedia.org/wiki/Frances_Charlotte_Ryder) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 54 |
+| 2026-11-13 11:33:42 | [Leiopsammodius scabrifrons](https://en.wikipedia.org/wiki/Leiopsammodius_scabrifrons) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,847 |
+| 2026-11-13 11:35:17 | [Toomi](https://en.wikipedia.org/wiki/Toomi) | [Petewarrior](https://en.wikipedia.org/wiki/User:Petewarrior) | 14,416 |
+| 2026-11-13 11:39:53 | [Leiopsammodius gestroi](https://en.wikipedia.org/wiki/Leiopsammodius_gestroi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,023 |
+| 2026-11-13 11:41:01 | [Skip Loans](https://en.wikipedia.org/wiki/Skip_Loans) | [JgTango](https://en.wikipedia.org/wiki/User:JgTango) | 2,297 |
+| 2026-11-13 11:44:48 | [Patrick Dromgoole](https://en.wikipedia.org/wiki/Patrick_Dromgoole) | [Chaiten1](https://en.wikipedia.org/wiki/User:Chaiten1) | 5,238 |
+| 2026-11-13 11:47:20 | [Gyromastigidae](https://en.wikipedia.org/wiki/Gyromastigidae) | [Jako96](https://en.wikipedia.org/wiki/User:Jako96) | 5,400 |
+| 2026-11-13 12:03:12 | [Bathygyge grandis](https://en.wikipedia.org/wiki/Bathygyge_grandis) | [Astrobirder-isopods](https://en.wikipedia.org/wiki/User:Astrobirder-isopods) | 1,858 |
+| 2026-11-13 12:03:48 | [Ganga Ram Dhanuk](https://en.wikipedia.org/wiki/Ganga_Ram_Dhanuk) | [Roseraabhishek](https://en.wikipedia.org/wiki/User:Roseraabhishek) | 6,058 |
+| 2026-11-13 12:07:27 | [Hamza Bakır](https://en.wikipedia.org/wiki/Hamza_Bak%C4%B1r) | [Emirstrick](https://en.wikipedia.org/wiki/User:Emirstrick) | 6,294 |
+| 2026-11-13 12:12:12 | [Ultras Malappuram](https://en.wikipedia.org/wiki/Ultras_Malappuram) | [Rishadjafar123](https://en.wikipedia.org/wiki/User:Rishadjafar123) | 8,633 |
