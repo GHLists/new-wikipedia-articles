@@ -13,41 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-13 05:20 UTC](data/en/new-articles-2026-11-13T05-20-10Z.csv) | 9 |
-| Japanese | `ja` | [2026-11-13 05:20 UTC](data/ja/new-articles-2026-11-13T05-20-10Z.csv) | 8 |
-| Chinese | `zh` | [2026-11-13 05:20 UTC](data/zh/new-articles-2026-11-13T05-20-10Z.csv) | 5 |
-| French | `fr` | [2026-11-13 04:20 UTC](data/fr/new-articles-2026-11-13T04-20-58Z.csv) | 5 |
-| German | `de` | [2026-11-13 04:20 UTC](data/de/new-articles-2026-11-13T04-20-58Z.csv) | 2 |
-| Russian | `ru` | [2026-11-13 05:20 UTC](data/ru/new-articles-2026-11-13T05-20-10Z.csv) | 6 |
-| Spanish | `es` | [2026-11-13 05:20 UTC](data/es/new-articles-2026-11-13T05-20-10Z.csv) | 4 |
-| Italian | `it` | [2026-11-13 05:20 UTC](data/it/new-articles-2026-11-13T05-20-10Z.csv) | 4 |
-| Portuguese | `pt` | [2026-11-13 05:20 UTC](data/pt/new-articles-2026-11-13T05-20-10Z.csv) | 1 |
-| Polish | `pl` | [2026-11-13 05:20 UTC](data/pl/new-articles-2026-11-13T05-20-10Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-13 05:20 UTC](data/ar/new-articles-2026-11-13T05-20-10Z.csv) | 4 |
-| Persian | `fa` | [2026-11-13 05:20 UTC](data/fa/new-articles-2026-11-13T05-20-10Z.csv) | 1 |
+| English | `en` | [2026-11-13 06:21 UTC](data/en/new-articles-2026-11-13T06-21-21Z.csv) | 14 |
+| Japanese | `ja` | [2026-11-13 06:21 UTC](data/ja/new-articles-2026-11-13T06-21-21Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-13 06:21 UTC](data/zh/new-articles-2026-11-13T06-21-21Z.csv) | 5 |
+| French | `fr` | [2026-11-13 06:21 UTC](data/fr/new-articles-2026-11-13T06-21-21Z.csv) | 3 |
+| German | `de` | [2026-11-13 06:21 UTC](data/de/new-articles-2026-11-13T06-21-21Z.csv) | 4 |
+| Russian | `ru` | [2026-11-13 06:21 UTC](data/ru/new-articles-2026-11-13T06-21-21Z.csv) | 7 |
+| Spanish | `es` | [2026-11-13 06:21 UTC](data/es/new-articles-2026-11-13T06-21-21Z.csv) | 6 |
+| Italian | `it` | [2026-11-13 06:21 UTC](data/it/new-articles-2026-11-13T06-21-21Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-13 06:21 UTC](data/pt/new-articles-2026-11-13T06-21-21Z.csv) | 1 |
+| Polish | `pl` | [2026-11-13 06:21 UTC](data/pl/new-articles-2026-11-13T06-21-21Z.csv) | 3 |
+| Arabic | `ar` | [2026-11-13 06:21 UTC](data/ar/new-articles-2026-11-13T06-21-21Z.csv) | 4 |
+| Persian | `fa` | [2026-11-13 06:21 UTC](data/fa/new-articles-2026-11-13T06-21-21Z.csv) | 2 |
 | Turkish | `tr` | [2026-11-13 03:20 UTC](data/tr/new-articles-2026-11-13T03-20-57Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-13 05:20 UTC](data/he/new-articles-2026-11-13T05-20-10Z.csv) | 5 |
+| Hebrew | `he` | [2026-11-13 06:21 UTC](data/he/new-articles-2026-11-13T06-21-21Z.csv) | 4 |
 | Swedish | `sv` | [2026-11-13 05:20 UTC](data/sv/new-articles-2026-11-13T05-20-10Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-13 05:20 UTC](data/nl/new-articles-2026-11-13T05-20-10Z.csv) | 1 |
-| Korean | `ko` | [2026-11-13 05:20 UTC](data/ko/new-articles-2026-11-13T05-20-10Z.csv) | 5 |
-| Indonesian | `id` | [2026-11-13 05:20 UTC](data/id/new-articles-2026-11-13T05-20-10Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-13 06:21 UTC](data/nl/new-articles-2026-11-13T06-21-21Z.csv) | 2 |
+| Korean | `ko` | [2026-11-13 06:21 UTC](data/ko/new-articles-2026-11-13T06-21-21Z.csv) | 6 |
+| Indonesian | `id` | [2026-11-13 06:21 UTC](data/id/new-articles-2026-11-13T06-21-21Z.csv) | 10 |
 | Ukrainian | `uk` | [2026-11-13 05:20 UTC](data/uk/new-articles-2026-11-13T05-20-10Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-13 05:20 UTC](data/vi/new-articles-2026-11-13T05-20-10Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-11-13 06:21 UTC](data/vi/new-articles-2026-11-13T06-21-21Z.csv) | 2 |
 
-## English (en) — 2026-11-13 05:20 UTC
+## English (en) — 2026-11-13 06:21 UTC
 
-New articles created between 2026-11-13 04:20 UTC and 2026-11-13 05:20 UTC.
+New articles created between 2026-11-13 05:20 UTC and 2026-11-13 06:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-13T05-20-10Z.csv)
+[Full CSV](data/en/new-articles-2026-11-13T06-21-21Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-13 04:33:07 | [2016–17 New Zealand Formula Ford Championship](https://en.wikipedia.org/wiki/2016%E2%80%9317_New_Zealand_Formula_Ford_Championship) | [SquirrelIAm](https://en.wikipedia.org/wiki/User:SquirrelIAm) | 21,419 |
-| 2026-11-13 04:44:24 | [Cedar Wright](https://en.wikipedia.org/wiki/Cedar_Wright) | [Dwarfroe](https://en.wikipedia.org/wiki/User:Dwarfroe) | 7,610 |
-| 2026-11-13 04:50:37 | [Kg. Rawa-Butterworth Rangers F.C.](https://en.wikipedia.org/wiki/Kg._Rawa-Butterworth_Rangers_F.C.) | [FM Malaysia](https://en.wikipedia.org/wiki/User:FM_Malaysia) | 6,533 |
-| 2026-11-13 04:57:08 | [Tytan Teepprasan](https://en.wikipedia.org/wiki/Tytan_Teepprasan) | [Rlsmr3139](https://en.wikipedia.org/wiki/User:Rlsmr3139) | 41,056 |
-| 2026-11-13 05:04:19 | [Paynes Properties](https://en.wikipedia.org/wiki/Paynes_Properties) | [Celebrating suburbia](https://en.wikipedia.org/wiki/User:Celebrating_suburbia) | 6,870 |
-| 2026-11-13 05:09:52 | [Surprise Atoll](https://en.wikipedia.org/wiki/Surprise_Atoll) | [Dr vulpes](https://en.wikipedia.org/wiki/User:Dr_vulpes) | 3,097 |
-| 2026-11-13 05:12:39 | [Sarah Rogerson](https://en.wikipedia.org/wiki/Sarah_Rogerson) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,442 |
-| 2026-11-13 05:17:20 | [Josh Slaughter](https://en.wikipedia.org/wiki/Josh_Slaughter) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,447 |
-| 2026-11-13 05:17:25 | [HiSky (satellite communications company)](https://en.wikipedia.org/wiki/HiSky_%28satellite_communications_company%29) | [Renek78](https://en.wikipedia.org/wiki/User:Renek78) | 5,515 |
+| 2026-11-13 05:22:18 | [Devin Lander](https://en.wikipedia.org/wiki/Devin_Lander) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,431 |
+| 2026-11-13 05:34:16 | [Paolo Pironi](https://en.wikipedia.org/wiki/Paolo_Pironi) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,443 |
+| 2026-11-13 05:37:34 | [Goose Geesaman](https://en.wikipedia.org/wiki/Goose_Geesaman) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,485 |
+| 2026-11-13 05:49:53 | [Rosemary Kent](https://en.wikipedia.org/wiki/Rosemary_Kent) | [Twixister](https://en.wikipedia.org/wiki/User:Twixister) | 6,054 |
+| 2026-11-13 05:49:54 | [Craig Herskowitz](https://en.wikipedia.org/wiki/Craig_Herskowitz) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,485 |
+| 2026-11-13 05:52:01 | [Wurmbea novae-zelandiae](https://en.wikipedia.org/wiki/Wurmbea_novae-zelandiae) | [Alexeyevitch](https://en.wikipedia.org/wiki/User:Alexeyevitch) | 9,326 |
+| 2026-11-13 05:55:42 | [Santosh Bhartiya (author)](https://en.wikipedia.org/wiki/Santosh_Bhartiya_%28author%29) | [JamesSmith66](https://en.wikipedia.org/wiki/User:JamesSmith66) | 13,669 |
+| 2026-11-13 05:56:55 | [Tapish](https://en.wikipedia.org/wiki/Tapish) | [Qoeudjsn](https://en.wikipedia.org/wiki/User:Qoeudjsn) | 1,339 |
+| 2026-11-13 05:59:32 | [Sean O'Donnell (judge)](https://en.wikipedia.org/wiki/Sean_O%27Donnell_%28judge%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,589 |
+| 2026-11-13 06:01:08 | [Invinity Energy Systems](https://en.wikipedia.org/wiki/Invinity_Energy_Systems) | [Sora Fujita](https://en.wikipedia.org/wiki/User:Sora_Fujita) | 5,075 |
+| 2026-11-13 06:01:17 | [2014 Indiana House of Representatives election](https://en.wikipedia.org/wiki/2014_Indiana_House_of_Representatives_election) | [Whiskerpedia](https://en.wikipedia.org/wiki/User:Whiskerpedia) | 121,542 |
+| 2026-11-13 06:06:41 | [A'Yonna Kellum](https://en.wikipedia.org/wiki/A%27Yonna_Kellum) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,560 |
+| 2026-11-13 06:13:08 | [Chris Jimenez](https://en.wikipedia.org/wiki/Chris_Jimenez) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,483 |
+| 2026-11-13 06:14:28 | [2026–27 Austin Peay Governors men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Austin_Peay_Governors_men%27s_basketball_team) | [Gzagona](https://en.wikipedia.org/wiki/User:Gzagona) | 28,413 |
