@@ -13,45 +13,44 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-13 03:20 UTC](data/en/new-articles-2026-11-13T03-20-57Z.csv) | 13 |
-| Japanese | `ja` | [2026-11-13 03:20 UTC](data/ja/new-articles-2026-11-13T03-20-57Z.csv) | 6 |
-| Chinese | `zh` | [2026-11-13 03:20 UTC](data/zh/new-articles-2026-11-13T03-20-57Z.csv) | 4 |
-| French | `fr` | [2026-11-13 03:20 UTC](data/fr/new-articles-2026-11-13T03-20-57Z.csv) | 6 |
-| German | `de` | [2026-11-13 02:18 UTC](data/de/new-articles-2026-11-13T02-18-41Z.csv) | 4 |
-| Russian | `ru` | [2026-11-13 03:20 UTC](data/ru/new-articles-2026-11-13T03-20-57Z.csv) | 7 |
-| Spanish | `es` | [2026-11-13 03:20 UTC](data/es/new-articles-2026-11-13T03-20-57Z.csv) | 3 |
-| Italian | `it` | [2026-11-13 03:20 UTC](data/it/new-articles-2026-11-13T03-20-57Z.csv) | 1 |
+| English | `en` | [2026-11-13 04:20 UTC](data/en/new-articles-2026-11-13T04-20-58Z.csv) | 12 |
+| Japanese | `ja` | [2026-11-13 04:20 UTC](data/ja/new-articles-2026-11-13T04-20-58Z.csv) | 7 |
+| Chinese | `zh` | [2026-11-13 04:20 UTC](data/zh/new-articles-2026-11-13T04-20-58Z.csv) | 7 |
+| French | `fr` | [2026-11-13 04:20 UTC](data/fr/new-articles-2026-11-13T04-20-58Z.csv) | 5 |
+| German | `de` | [2026-11-13 04:20 UTC](data/de/new-articles-2026-11-13T04-20-58Z.csv) | 2 |
+| Russian | `ru` | [2026-11-13 04:20 UTC](data/ru/new-articles-2026-11-13T04-20-58Z.csv) | 12 |
+| Spanish | `es` | [2026-11-13 04:20 UTC](data/es/new-articles-2026-11-13T04-20-58Z.csv) | 12 |
+| Italian | `it` | [2026-11-13 04:20 UTC](data/it/new-articles-2026-11-13T04-20-58Z.csv) | 5 |
 | Portuguese | `pt` | [2026-11-13 03:20 UTC](data/pt/new-articles-2026-11-13T03-20-57Z.csv) | 5 |
-| Polish | `pl` | [2026-11-13 03:20 UTC](data/pl/new-articles-2026-11-13T03-20-57Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-13 03:20 UTC](data/ar/new-articles-2026-11-13T03-20-57Z.csv) | 5 |
+| Polish | `pl` | [2026-11-13 04:20 UTC](data/pl/new-articles-2026-11-13T04-20-58Z.csv) | 3 |
+| Arabic | `ar` | [2026-11-13 04:20 UTC](data/ar/new-articles-2026-11-13T04-20-58Z.csv) | 2 |
 | Persian | `fa` | [2026-11-13 03:20 UTC](data/fa/new-articles-2026-11-13T03-20-57Z.csv) | 3 |
 | Turkish | `tr` | [2026-11-13 03:20 UTC](data/tr/new-articles-2026-11-13T03-20-57Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-13 00:19 UTC](data/he/new-articles-2026-11-13T00-19-55Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-13 03:20 UTC](data/sv/new-articles-2026-11-13T03-20-57Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-13 03:20 UTC](data/nl/new-articles-2026-11-13T03-20-57Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-13 04:20 UTC](data/he/new-articles-2026-11-13T04-20-58Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-13 04:20 UTC](data/sv/new-articles-2026-11-13T04-20-58Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-13 04:20 UTC](data/nl/new-articles-2026-11-13T04-20-58Z.csv) | 2 |
 | Korean | `ko` | [2026-11-13 03:20 UTC](data/ko/new-articles-2026-11-13T03-20-57Z.csv) | 4 |
-| Indonesian | `id` | [2026-11-13 03:20 UTC](data/id/new-articles-2026-11-13T03-20-57Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-11-13 03:20 UTC](data/uk/new-articles-2026-11-13T03-20-57Z.csv) | 11 |
-| Vietnamese | `vi` | [2026-11-13 03:20 UTC](data/vi/new-articles-2026-11-13T03-20-57Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-13 04:20 UTC](data/id/new-articles-2026-11-13T04-20-58Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-11-13 04:20 UTC](data/uk/new-articles-2026-11-13T04-20-58Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-13 04:20 UTC](data/vi/new-articles-2026-11-13T04-20-58Z.csv) | 3 |
 
-## English (en) — 2026-11-13 03:20 UTC
+## English (en) — 2026-11-13 04:20 UTC
 
-New articles created between 2026-11-13 02:18 UTC and 2026-11-13 03:20 UTC.
+New articles created between 2026-11-13 03:20 UTC and 2026-11-13 04:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-13T03-20-57Z.csv)
+[Full CSV](data/en/new-articles-2026-11-13T04-20-58Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-13 02:19:32 | [Tom McKee (Minnesota politician)](https://en.wikipedia.org/wiki/Tom_McKee_%28Minnesota_politician%29) | [Tymewalk](https://en.wikipedia.org/wiki/User:Tymewalk) | 2,827 |
-| 2026-11-13 02:20:04 | [Cinavu](https://en.wikipedia.org/wiki/Cinavu) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 4,009 |
-| 2026-11-13 02:22:26 | [Torpo Church](https://en.wikipedia.org/wiki/Torpo_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,232 |
-| 2026-11-13 02:26:29 | [2026–27 Nicholls Colonels men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Nicholls_Colonels_men%27s_basketball_team) | [RedSox39](https://en.wikipedia.org/wiki/User:RedSox39) | 27,440 |
-| 2026-11-13 02:31:01 | [Guns of the Dawn](https://en.wikipedia.org/wiki/Guns_of_the_Dawn) | [Michelangelo1992](https://en.wikipedia.org/wiki/User:Michelangelo1992) | 11,256 |
-| 2026-11-13 02:33:01 | [Ulyssa](https://en.wikipedia.org/wiki/Ulyssa) | [Visceralrealism](https://en.wikipedia.org/wiki/User:Visceralrealism) | 5,799 |
-| 2026-11-13 02:38:56 | [Susan Gurley McBee](https://en.wikipedia.org/wiki/Susan_Gurley_McBee) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,248 |
-| 2026-11-13 02:56:54 | [Daniel Marguerat](https://en.wikipedia.org/wiki/Daniel_Marguerat) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 3,741 |
-| 2026-11-13 02:58:26 | [List of places of worship in Yarriambiack Shire](https://en.wikipedia.org/wiki/List_of_places_of_worship_in_Yarriambiack_Shire) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 20,509 |
-| 2026-11-13 03:03:14 | [Hanna-Leena Ronkainen](https://en.wikipedia.org/wiki/Hanna-Leena_Ronkainen) | [Derlinus](https://en.wikipedia.org/wiki/User:Derlinus) | 7,613 |
-| 2026-11-13 03:08:02 | [Burnie Football Association](https://en.wikipedia.org/wiki/Burnie_Football_Association) | [Mrchikkin](https://en.wikipedia.org/wiki/User:Mrchikkin) | 19,169 |
-| 2026-11-13 03:18:23 | [2nd Spartan Regiment](https://en.wikipedia.org/wiki/2nd_Spartan_Regiment) | [Moritoriko](https://en.wikipedia.org/wiki/User:Moritoriko) | 2,766 |
-| 2026-11-13 03:18:42 | [BRM Kuala Kangsar F.C.](https://en.wikipedia.org/wiki/BRM_Kuala_Kangsar_F.C.) | [FM Malaysia](https://en.wikipedia.org/wiki/User:FM_Malaysia) | 9,815 |
+| 2026-11-13 03:29:47 | [Jordan Hall (defensive tackle)](https://en.wikipedia.org/wiki/Jordan_Hall_%28defensive_tackle%29) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 77 |
+| 2026-11-13 03:32:02 | [George of Wied](https://en.wikipedia.org/wiki/George_of_Wied) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 11,442 |
+| 2026-11-13 03:34:11 | [Neues Museum Weimar](https://en.wikipedia.org/wiki/Neues_Museum_Weimar) | [Ferrengi](https://en.wikipedia.org/wiki/User:Ferrengi) | 1,411 |
+| 2026-11-13 03:37:31 | [Bungabong, Sultan Mastura](https://en.wikipedia.org/wiki/Bungabong%2C_Sultan_Mastura) | [Minwrite](https://en.wikipedia.org/wiki/User:Minwrite) | 4,365 |
+| 2026-11-13 03:45:27 | [Bengisu Yıldız](https://en.wikipedia.org/wiki/Bengisu_Y%C4%B1ld%C4%B1z) | [Snailchildren](https://en.wikipedia.org/wiki/User:Snailchildren) | 23,465 |
+| 2026-11-13 03:46:32 | [Kentucky's 58th House of Representatives district](https://en.wikipedia.org/wiki/Kentucky%27s_58th_House_of_Representatives_district) | [Mad Mismagius](https://en.wikipedia.org/wiki/User:Mad_Mismagius) | 8,482 |
+| 2026-11-13 03:50:46 | [Orangemeryx](https://en.wikipedia.org/wiki/Orangemeryx) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 1,868 |
+| 2026-11-13 03:53:30 | [1939 Eastern Washington Savages football team](https://en.wikipedia.org/wiki/1939_Eastern_Washington_Savages_football_team) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,790 |
+| 2026-11-13 04:00:24 | [The Space Between the Darkness and the Light](https://en.wikipedia.org/wiki/The_Space_Between_the_Darkness_and_the_Light) | [Kaivangelion](https://en.wikipedia.org/wiki/User:Kaivangelion) | 5,012 |
+| 2026-11-13 04:08:22 | [Himeka (disambiguation)](https://en.wikipedia.org/wiki/Himeka_%28disambiguation%29) | [ItzAPotato2009](https://en.wikipedia.org/wiki/User:ItzAPotato2009) | 337 |
+| 2026-11-13 04:09:54 | [Talem Priyobarta](https://en.wikipedia.org/wiki/Talem_Priyobarta) | [SaoTanTeeta](https://en.wikipedia.org/wiki/User:SaoTanTeeta) | 2,595 |
+| 2026-11-13 04:19:06 | [Ateşböceği](https://en.wikipedia.org/wiki/Ate%C5%9Fb%C3%B6ce%C4%9Fi) | [Samyazh](https://en.wikipedia.org/wiki/User:Samyazh) | 10,520 |
