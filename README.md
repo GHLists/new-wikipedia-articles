@@ -13,69 +13,58 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-13 21:21 UTC](data/en/new-articles-2026-11-13T21-21-21Z.csv) | 37 |
-| Japanese | `ja` | [2026-11-13 21:21 UTC](data/ja/new-articles-2026-11-13T21-21-21Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-13 21:21 UTC](data/zh/new-articles-2026-11-13T21-21-21Z.csv) | 5 |
-| French | `fr` | [2026-11-13 21:21 UTC](data/fr/new-articles-2026-11-13T21-21-21Z.csv) | 6 |
-| German | `de` | [2026-11-13 21:21 UTC](data/de/new-articles-2026-11-13T21-21-21Z.csv) | 26 |
-| Russian | `ru` | [2026-11-13 21:21 UTC](data/ru/new-articles-2026-11-13T21-21-21Z.csv) | 5 |
-| Spanish | `es` | [2026-11-13 21:21 UTC](data/es/new-articles-2026-11-13T21-21-21Z.csv) | 7 |
-| Italian | `it` | [2026-11-13 21:21 UTC](data/it/new-articles-2026-11-13T21-21-21Z.csv) | 12 |
-| Portuguese | `pt` | [2026-11-13 21:21 UTC](data/pt/new-articles-2026-11-13T21-21-21Z.csv) | 15 |
-| Polish | `pl` | [2026-11-13 21:21 UTC](data/pl/new-articles-2026-11-13T21-21-21Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-13 21:21 UTC](data/ar/new-articles-2026-11-13T21-21-21Z.csv) | 7 |
-| Persian | `fa` | [2026-11-13 21:21 UTC](data/fa/new-articles-2026-11-13T21-21-21Z.csv) | 7 |
-| Turkish | `tr` | [2026-11-13 21:21 UTC](data/tr/new-articles-2026-11-13T21-21-21Z.csv) | 5 |
+| English | `en` | [2026-11-13 22:21 UTC](data/en/new-articles-2026-11-13T22-21-34Z.csv) | 26 |
+| Japanese | `ja` | [2026-11-13 22:21 UTC](data/ja/new-articles-2026-11-13T22-21-34Z.csv) | 6 |
+| Chinese | `zh` | [2026-11-13 22:21 UTC](data/zh/new-articles-2026-11-13T22-21-34Z.csv) | 3 |
+| French | `fr` | [2026-11-13 22:21 UTC](data/fr/new-articles-2026-11-13T22-21-34Z.csv) | 11 |
+| German | `de` | [2026-11-13 22:21 UTC](data/de/new-articles-2026-11-13T22-21-34Z.csv) | 21 |
+| Russian | `ru` | [2026-11-13 22:21 UTC](data/ru/new-articles-2026-11-13T22-21-34Z.csv) | 9 |
+| Spanish | `es` | [2026-11-13 22:21 UTC](data/es/new-articles-2026-11-13T22-21-34Z.csv) | 7 |
+| Italian | `it` | [2026-11-13 22:21 UTC](data/it/new-articles-2026-11-13T22-21-34Z.csv) | 8 |
+| Portuguese | `pt` | [2026-11-13 22:21 UTC](data/pt/new-articles-2026-11-13T22-21-34Z.csv) | 19 |
+| Polish | `pl` | [2026-11-13 22:21 UTC](data/pl/new-articles-2026-11-13T22-21-34Z.csv) | 9 |
+| Arabic | `ar` | [2026-11-13 22:21 UTC](data/ar/new-articles-2026-11-13T22-21-34Z.csv) | 6 |
+| Persian | `fa` | [2026-11-13 22:21 UTC](data/fa/new-articles-2026-11-13T22-21-34Z.csv) | 1 |
+| Turkish | `tr` | [2026-11-13 22:21 UTC](data/tr/new-articles-2026-11-13T22-21-34Z.csv) | 4 |
 | Hebrew | `he` | [2026-11-13 21:21 UTC](data/he/new-articles-2026-11-13T21-21-21Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-13 21:21 UTC](data/sv/new-articles-2026-11-13T21-21-21Z.csv) | 5 |
-| Dutch | `nl` | [2026-11-13 21:21 UTC](data/nl/new-articles-2026-11-13T21-21-21Z.csv) | 2 |
-| Korean | `ko` | [2026-11-13 19:18 UTC](data/ko/new-articles-2026-11-13T19-18-42Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-13 22:21 UTC](data/sv/new-articles-2026-11-13T22-21-34Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-13 22:21 UTC](data/nl/new-articles-2026-11-13T22-21-34Z.csv) | 1 |
+| Korean | `ko` | [2026-11-13 22:21 UTC](data/ko/new-articles-2026-11-13T22-21-34Z.csv) | 1 |
 | Indonesian | `id` | [2026-11-13 20:22 UTC](data/id/new-articles-2026-11-13T20-22-17Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-13 21:21 UTC](data/uk/new-articles-2026-11-13T21-21-21Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-11-13 22:21 UTC](data/uk/new-articles-2026-11-13T22-21-34Z.csv) | 10 |
 | Vietnamese | `vi` | [2026-11-13 17:18 UTC](data/vi/new-articles-2026-11-13T17-18-58Z.csv) | 3 |
 
-## English (en) — 2026-11-13 21:21 UTC
+## English (en) — 2026-11-13 22:21 UTC
 
-New articles created between 2026-11-13 20:22 UTC and 2026-11-13 21:21 UTC.
+New articles created between 2026-11-13 21:21 UTC and 2026-11-13 22:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-13T21-21-21Z.csv)
+[Full CSV](data/en/new-articles-2026-11-13T22-21-34Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-13 20:22:27 | [2026 Kobe Challenger – Singles](https://en.wikipedia.org/wiki/2026_Kobe_Challenger_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,791 |
-| 2026-11-13 20:22:44 | [2026 American Conference men's soccer tournament](https://en.wikipedia.org/wiki/2026_American_Conference_men%27s_soccer_tournament) | [Buffalow77](https://en.wikipedia.org/wiki/User:Buffalow77) | 11,049 |
-| 2026-11-13 20:24:09 | [Fisher Building (disambiguation)](https://en.wikipedia.org/wiki/Fisher_Building_%28disambiguation%29) | [Epicgenius](https://en.wikipedia.org/wiki/User:Epicgenius) | 222 |
-| 2026-11-13 20:25:04 | [2026 Kobe Challenger – Doubles](https://en.wikipedia.org/wiki/2026_Kobe_Challenger_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,140 |
-| 2026-11-13 20:27:53 | [Bobby Simpson (footballer, born 1889)](https://en.wikipedia.org/wiki/Bobby_Simpson_%28footballer%2C_born_1889%29) | [Wxmdrgn](https://en.wikipedia.org/wiki/User:Wxmdrgn) | 3,432 |
-| 2026-11-13 20:28:07 | [Mrtve Mačke](https://en.wikipedia.org/wiki/Mrtve_Ma%C4%8Dke) | [Akir-toj](https://en.wikipedia.org/wiki/User:Akir-toj) | 6,400 |
-| 2026-11-13 20:29:10 | [2026 Challenger Banque Nationale de Drummondville](https://en.wikipedia.org/wiki/2026_Challenger_Banque_Nationale_de_Drummondville) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,326 |
-| 2026-11-13 20:29:39 | [Anastassiya Andrianova](https://en.wikipedia.org/wiki/Anastassiya_Andrianova) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,585 |
-| 2026-11-13 20:30:35 | [2026–27 Rice Owls men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Rice_Owls_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 41,325 |
-| 2026-11-13 20:32:29 | [William K. Bell](https://en.wikipedia.org/wiki/William_K._Bell) | [V. S. Video](https://en.wikipedia.org/wiki/User:V._S._Video) | 1,208 |
-| 2026-11-13 20:34:11 | [2026 Challenger Banque Nationale de Drummondville – Singles](https://en.wikipedia.org/wiki/2026_Challenger_Banque_Nationale_de_Drummondville_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,980 |
-| 2026-11-13 20:35:08 | [João Guilherme (footballer, born 2000)](https://en.wikipedia.org/wiki/Jo%C3%A3o_Guilherme_%28footballer%2C_born_2000%29) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 8,296 |
-| 2026-11-13 20:36:06 | [2026 Challenger Banque Nationale de Drummondville – Doubles](https://en.wikipedia.org/wiki/2026_Challenger_Banque_Nationale_de_Drummondville_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,229 |
-| 2026-11-13 20:39:54 | [Derbent Medical College](https://en.wikipedia.org/wiki/Derbent_Medical_College) | [Boxes12](https://en.wikipedia.org/wiki/User:Boxes12) | 4,453 |
-| 2026-11-13 20:41:22 | [2026 NSW Open](https://en.wikipedia.org/wiki/2026_NSW_Open) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,892 |
-| 2026-11-13 20:44:43 | [Emily A. Thompson](https://en.wikipedia.org/wiki/Emily_A._Thompson) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,330 |
-| 2026-11-13 20:45:34 | [2026–27 Tulane Green Wave men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Tulane_Green_Wave_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 42,047 |
-| 2026-11-13 20:46:40 | [Mud Rock Vol. II](https://en.wikipedia.org/wiki/Mud_Rock_Vol._II) | [ItsBri](https://en.wikipedia.org/wiki/User:ItsBri) | 11,990 |
-| 2026-11-13 20:53:51 | [Grupo Simpa](https://en.wikipedia.org/wiki/Grupo_Simpa) | [Rogredosainz](https://en.wikipedia.org/wiki/User:Rogredosainz) | 16,612 |
-| 2026-11-13 20:55:02 | [Nikephoros the Leper](https://en.wikipedia.org/wiki/Nikephoros_the_Leper) | [Imperator1453](https://en.wikipedia.org/wiki/User:Imperator1453) | 4,383 |
-| 2026-11-13 20:57:05 | [Port of anzali](https://en.wikipedia.org/wiki/Port_of_anzali) | [Arman.Farsi57](https://en.wikipedia.org/wiki/User:Arman.Farsi57) | 4,503 |
-| 2026-11-13 20:57:43 | [Rich George](https://en.wikipedia.org/wiki/Rich_George) | [Horestanky](https://en.wikipedia.org/wiki/User:Horestanky) | 11,598 |
-| 2026-11-13 20:58:21 | [The Boy Is Mine:Las Vegas Residency](https://en.wikipedia.org/wiki/The_Boy_Is_Mine%3ALas_Vegas_Residency) | [FOHWTBS](https://en.wikipedia.org/wiki/User:FOHWTBS) | 1,773 |
-| 2026-11-13 20:59:54 | [Gift Bright](https://en.wikipedia.org/wiki/Gift_Bright) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 3,291 |
-| 2026-11-13 21:00:32 | [Social Apocalypse](https://en.wikipedia.org/wiki/Social_Apocalypse) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 6,168 |
-| 2026-11-13 21:01:36 | [2026 NSW Open – Men's singles](https://en.wikipedia.org/wiki/2026_NSW_Open_%E2%80%93_Men%27s_singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,877 |
-| 2026-11-13 21:02:34 | [Kevin Garner](https://en.wikipedia.org/wiki/Kevin_Garner) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,390 |
-| 2026-11-13 21:03:53 | [2026 NSW Open – Men's doubles](https://en.wikipedia.org/wiki/2026_NSW_Open_%E2%80%93_Men%27s_doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,048 |
-| 2026-11-13 21:05:30 | [Østen Hanson](https://en.wikipedia.org/wiki/%C3%98sten_Hanson) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 4,984 |
-| 2026-11-13 21:06:52 | [2026–27 Mississippi State Bulldogs men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Mississippi_State_Bulldogs_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 46,821 |
-| 2026-11-13 21:10:01 | [Regina Ross (politician)](https://en.wikipedia.org/wiki/Regina_Ross_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,958 |
-| 2026-11-13 21:11:28 | [Craspedia blepharia](https://en.wikipedia.org/wiki/Craspedia_blepharia) | [Stitchbird2](https://en.wikipedia.org/wiki/User:Stitchbird2) | 2,133 |
-| 2026-11-13 21:15:15 | [Psychiatric emergency room](https://en.wikipedia.org/wiki/Psychiatric_emergency_room) | [WhatamIdoing](https://en.wikipedia.org/wiki/User:WhatamIdoing) | 4,968 |
-| 2026-11-13 21:15:48 | [John Gallagher (sculptor)](https://en.wikipedia.org/wiki/John_Gallagher_%28sculptor%29) | [Smirkybec](https://en.wikipedia.org/wiki/User:Smirkybec) | 3,544 |
-| 2026-11-13 21:17:24 | [Sam Rosemark](https://en.wikipedia.org/wiki/Sam_Rosemark) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,347 |
-| 2026-11-13 21:17:41 | [2026 New Orleans ship collision](https://en.wikipedia.org/wiki/2026_New_Orleans_ship_collision) | [Noble Attempt](https://en.wikipedia.org/wiki/User:Noble_Attempt) | 1,061 |
-| 2026-11-13 21:19:24 | [2026 Champaign Challenger](https://en.wikipedia.org/wiki/2026_Champaign_Challenger) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 2,293 |
+| 2026-11-13 21:23:49 | [2026 Champaign Challenger – Singles](https://en.wikipedia.org/wiki/2026_Champaign_Challenger_%E2%80%93_Singles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 6,876 |
+| 2026-11-13 21:24:29 | [Grigor Grigorov](https://en.wikipedia.org/wiki/Grigor_Grigorov) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 3,139 |
+| 2026-11-13 21:25:44 | [Katharina Schuler](https://en.wikipedia.org/wiki/Katharina_Schuler) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 2,022 |
+| 2026-11-13 21:26:29 | [2026 Champaign Challenger – Doubles](https://en.wikipedia.org/wiki/2026_Champaign_Challenger_%E2%80%93_Doubles) | [Adamtt9](https://en.wikipedia.org/wiki/User:Adamtt9) | 4,118 |
+| 2026-11-13 21:27:59 | [Melanie Macey](https://en.wikipedia.org/wiki/Melanie_Macey) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,164 |
+| 2026-11-13 21:28:06 | [Aria colchica](https://en.wikipedia.org/wiki/Aria_colchica) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 6,058 |
+| 2026-11-13 21:30:56 | [Keel GAA](https://en.wikipedia.org/wiki/Keel_GAA) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 5,493 |
+| 2026-11-13 21:31:28 | [Football at the 2004 Summer Olympics – Men's tournament final](https://en.wikipedia.org/wiki/Football_at_the_2004_Summer_Olympics_%E2%80%93_Men%27s_tournament_final) | [Fma12](https://en.wikipedia.org/wiki/User:Fma12) | 20,148 |
+| 2026-11-13 21:34:29 | [2026 US national ground stop](https://en.wikipedia.org/wiki/2026_US_national_ground_stop) | [A.Classical-Futurist](https://en.wikipedia.org/wiki/User:A.Classical-Futurist) | 1,839 |
+| 2026-11-13 21:37:34 | [John Wetzel (Michigan politician)](https://en.wikipedia.org/wiki/John_Wetzel_%28Michigan_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,374 |
+| 2026-11-13 21:37:40 | [University of York Restore Britain Society](https://en.wikipedia.org/wiki/University_of_York_Restore_Britain_Society) | [Stuart Newmanite](https://en.wikipedia.org/wiki/User:Stuart_Newmanite) | 4,962 |
+| 2026-11-13 21:37:51 | [Willie Burton (politician)](https://en.wikipedia.org/wiki/Willie_Burton_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,208 |
+| 2026-11-13 21:38:56 | [Rúben Pereira (footballer)](https://en.wikipedia.org/wiki/R%C3%BAben_Pereira_%28footballer%29) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 5,686 |
+| 2026-11-13 21:50:58 | [Rubina Greenwood](https://en.wikipedia.org/wiki/Rubina_Greenwood) | [Azad-xorasan](https://en.wikipedia.org/wiki/User:Azad-xorasan) | 1,645 |
+| 2026-11-13 21:52:08 | [Gary Eugene Strahan](https://en.wikipedia.org/wiki/Gary_Eugene_Strahan) | [Wahalalala](https://en.wikipedia.org/wiki/User:Wahalalala) | 5,369 |
+| 2026-11-13 21:57:59 | [Oumar Konaté](https://en.wikipedia.org/wiki/Oumar_Konat%C3%A9) | [Paul Vaurie](https://en.wikipedia.org/wiki/User:Paul_Vaurie) | 4,929 |
+| 2026-11-13 21:59:37 | [Fábricas Universales](https://en.wikipedia.org/wiki/F%C3%A1bricas_Universales) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 11,976 |
+| 2026-11-13 22:00:40 | [Lulu Adams](https://en.wikipedia.org/wiki/Lulu_Adams) | [Jerimee](https://en.wikipedia.org/wiki/User:Jerimee) | 3,967 |
+| 2026-11-13 22:03:27 | [Gender bias in voice technology](https://en.wikipedia.org/wiki/Gender_bias_in_voice_technology) | [Viriditas](https://en.wikipedia.org/wiki/User:Viriditas) | 20,445 |
+| 2026-11-13 22:04:14 | [2003–04 FC Zürich season](https://en.wikipedia.org/wiki/2003%E2%80%9304_FC_Z%C3%BCrich_season) | [Huligan0](https://en.wikipedia.org/wiki/User:Huligan0) | 10,943 |
+| 2026-11-13 22:07:24 | [Lime tree of Macugnaga](https://en.wikipedia.org/wiki/Lime_tree_of_Macugnaga) | [Murray Nozick](https://en.wikipedia.org/wiki/User:Murray_Nozick) | 11,891 |
+| 2026-11-13 22:09:20 | [DragonForce (album)](https://en.wikipedia.org/wiki/DragonForce_%28album%29) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 5,412 |
+| 2026-11-13 22:11:19 | [Deicoon (mythology)](https://en.wikipedia.org/wiki/Deicoon_%28mythology%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 1,638 |
+| 2026-11-13 22:15:57 | [Burn the Ships (disambiguation)](https://en.wikipedia.org/wiki/Burn_the_Ships_%28disambiguation%29) | [BarrelProof](https://en.wikipedia.org/wiki/User:BarrelProof) | 899 |
+| 2026-11-13 22:16:32 | [Orest Gritsak](https://en.wikipedia.org/wiki/Orest_Gritsak) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 3,131 |
+| 2026-11-13 22:16:33 | [The Humans (2027 play)](https://en.wikipedia.org/wiki/The_Humans_%282027_play%29) | [GoodbyeYellowBrickRoad123](https://en.wikipedia.org/wiki/User:GoodbyeYellowBrickRoad123) | 1,998 |
