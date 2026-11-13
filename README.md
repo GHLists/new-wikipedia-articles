@@ -13,67 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-13 15:20 UTC](data/en/new-articles-2026-11-13T15-20-58Z.csv) | 35 |
-| Japanese | `ja` | [2026-11-13 15:20 UTC](data/ja/new-articles-2026-11-13T15-20-58Z.csv) | 9 |
-| Chinese | `zh` | [2026-11-13 15:20 UTC](data/zh/new-articles-2026-11-13T15-20-58Z.csv) | 7 |
-| French | `fr` | [2026-11-13 15:20 UTC](data/fr/new-articles-2026-11-13T15-20-58Z.csv) | 6 |
-| German | `de` | [2026-11-13 15:20 UTC](data/de/new-articles-2026-11-13T15-20-58Z.csv) | 14 |
-| Russian | `ru` | [2026-11-13 15:20 UTC](data/ru/new-articles-2026-11-13T15-20-58Z.csv) | 14 |
-| Spanish | `es` | [2026-11-13 15:20 UTC](data/es/new-articles-2026-11-13T15-20-58Z.csv) | 36 |
-| Italian | `it` | [2026-11-13 15:20 UTC](data/it/new-articles-2026-11-13T15-20-58Z.csv) | 10 |
-| Portuguese | `pt` | [2026-11-13 15:20 UTC](data/pt/new-articles-2026-11-13T15-20-58Z.csv) | 14 |
-| Polish | `pl` | [2026-11-13 15:20 UTC](data/pl/new-articles-2026-11-13T15-20-58Z.csv) | 7 |
-| Arabic | `ar` | [2026-11-13 15:20 UTC](data/ar/new-articles-2026-11-13T15-20-58Z.csv) | 3 |
-| Persian | `fa` | [2026-11-13 15:20 UTC](data/fa/new-articles-2026-11-13T15-20-58Z.csv) | 5 |
-| Turkish | `tr` | [2026-11-13 15:20 UTC](data/tr/new-articles-2026-11-13T15-20-58Z.csv) | 4 |
-| Hebrew | `he` | [2026-11-13 15:20 UTC](data/he/new-articles-2026-11-13T15-20-58Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-13 15:20 UTC](data/sv/new-articles-2026-11-13T15-20-58Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-13 15:20 UTC](data/nl/new-articles-2026-11-13T15-20-58Z.csv) | 11 |
-| Korean | `ko` | [2026-11-13 15:20 UTC](data/ko/new-articles-2026-11-13T15-20-58Z.csv) | 12 |
-| Indonesian | `id` | [2026-11-13 15:20 UTC](data/id/new-articles-2026-11-13T15-20-58Z.csv) | 10 |
-| Ukrainian | `uk` | [2026-11-13 15:20 UTC](data/uk/new-articles-2026-11-13T15-20-58Z.csv) | 9 |
-| Vietnamese | `vi` | [2026-11-13 15:20 UTC](data/vi/new-articles-2026-11-13T15-20-58Z.csv) | 1 |
+| English | `en` | [2026-11-13 16:20 UTC](data/en/new-articles-2026-11-13T16-20-15Z.csv) | 22 |
+| Japanese | `ja` | [2026-11-13 16:20 UTC](data/ja/new-articles-2026-11-13T16-20-15Z.csv) | 14 |
+| Chinese | `zh` | [2026-11-13 16:20 UTC](data/zh/new-articles-2026-11-13T16-20-15Z.csv) | 9 |
+| French | `fr` | [2026-11-13 16:20 UTC](data/fr/new-articles-2026-11-13T16-20-15Z.csv) | 20 |
+| German | `de` | [2026-11-13 16:20 UTC](data/de/new-articles-2026-11-13T16-20-15Z.csv) | 13 |
+| Russian | `ru` | [2026-11-13 16:20 UTC](data/ru/new-articles-2026-11-13T16-20-15Z.csv) | 9 |
+| Spanish | `es` | [2026-11-13 16:20 UTC](data/es/new-articles-2026-11-13T16-20-15Z.csv) | 12 |
+| Italian | `it` | [2026-11-13 16:20 UTC](data/it/new-articles-2026-11-13T16-20-15Z.csv) | 11 |
+| Portuguese | `pt` | [2026-11-13 16:20 UTC](data/pt/new-articles-2026-11-13T16-20-15Z.csv) | 3 |
+| Polish | `pl` | [2026-11-13 16:20 UTC](data/pl/new-articles-2026-11-13T16-20-15Z.csv) | 6 |
+| Arabic | `ar` | [2026-11-13 16:20 UTC](data/ar/new-articles-2026-11-13T16-20-15Z.csv) | 3 |
+| Persian | `fa` | [2026-11-13 16:20 UTC](data/fa/new-articles-2026-11-13T16-20-15Z.csv) | 7 |
+| Turkish | `tr` | [2026-11-13 16:20 UTC](data/tr/new-articles-2026-11-13T16-20-15Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-13 16:20 UTC](data/he/new-articles-2026-11-13T16-20-15Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-13 16:20 UTC](data/sv/new-articles-2026-11-13T16-20-15Z.csv) | 8 |
+| Dutch | `nl` | [2026-11-13 16:20 UTC](data/nl/new-articles-2026-11-13T16-20-15Z.csv) | 7 |
+| Korean | `ko` | [2026-11-13 16:20 UTC](data/ko/new-articles-2026-11-13T16-20-15Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-13 16:20 UTC](data/id/new-articles-2026-11-13T16-20-15Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-11-13 16:20 UTC](data/uk/new-articles-2026-11-13T16-20-15Z.csv) | 17 |
+| Vietnamese | `vi` | [2026-11-13 16:20 UTC](data/vi/new-articles-2026-11-13T16-20-15Z.csv) | 2 |
 
-## English (en) — 2026-11-13 15:20 UTC
+## English (en) — 2026-11-13 16:20 UTC
 
-New articles created between 2026-11-13 14:19 UTC and 2026-11-13 15:20 UTC.
+New articles created between 2026-11-13 15:20 UTC and 2026-11-13 16:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-13T15-20-58Z.csv)
+[Full CSV](data/en/new-articles-2026-11-13T16-20-15Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-13 14:20:38 | [Determinate Assembly](https://en.wikipedia.org/wiki/Determinate_Assembly) | [Sjbghh450](https://en.wikipedia.org/wiki/User:Sjbghh450) | 8,294 |
-| 2026-11-13 14:21:39 | [Flush river (Belfast)](https://en.wikipedia.org/wiki/Flush_river_%28Belfast%29) | [Billsmith60](https://en.wikipedia.org/wiki/User:Billsmith60) | 2,074 |
-| 2026-11-13 14:22:21 | [David Bernstein (architect)](https://en.wikipedia.org/wiki/David_Bernstein_%28architect%29) | [Paul W](https://en.wikipedia.org/wiki/User:Paul_W) | 3,393 |
-| 2026-11-13 14:28:10 | [Rhyssemodes](https://en.wikipedia.org/wiki/Rhyssemodes) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,045 |
-| 2026-11-13 14:29:48 | [Hans Trommer](https://en.wikipedia.org/wiki/Hans_Trommer) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 2,963 |
-| 2026-11-13 14:30:46 | [Armenian Genocide studies](https://en.wikipedia.org/wiki/Armenian_Genocide_studies) | [Bruce Chetta77](https://en.wikipedia.org/wiki/User:Bruce_Chetta77) | 6,135 |
-| 2026-11-13 14:31:03 | [Rhyssemodes tenuisculptus](https://en.wikipedia.org/wiki/Rhyssemodes_tenuisculptus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,140 |
-| 2026-11-13 14:32:15 | [Lee Jong-gu](https://en.wikipedia.org/wiki/Lee_Jong-gu) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 4,409 |
-| 2026-11-13 14:34:28 | [Governmet of Cyprus](https://en.wikipedia.org/wiki/Governmet_of_Cyprus) | [Alphavitario](https://en.wikipedia.org/wiki/User:Alphavitario) | 6,086 |
-| 2026-11-13 14:35:25 | [Rhyssemodes orientalis](https://en.wikipedia.org/wiki/Rhyssemodes_orientalis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,965 |
-| 2026-11-13 14:36:38 | [Hemanta Mukherjee and Uttam Kumar](https://en.wikipedia.org/wiki/Hemanta_Mukherjee_and_Uttam_Kumar) | [Babin Mew](https://en.wikipedia.org/wiki/User:Babin_Mew) | 8,602 |
-| 2026-11-13 14:38:14 | [Rhyssemodes bouvieri](https://en.wikipedia.org/wiki/Rhyssemodes_bouvieri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,922 |
-| 2026-11-13 14:38:33 | [List of Civilian Conservation Corps camps](https://en.wikipedia.org/wiki/List_of_Civilian_Conservation_Corps_camps) | [Dclemens1971](https://en.wikipedia.org/wiki/User:Dclemens1971) | 4,725 |
-| 2026-11-13 14:40:27 | [Tân Khánh](https://en.wikipedia.org/wiki/T%C3%A2n_Kh%C3%A1nh) | [Shhhnotsoloud](https://en.wikipedia.org/wiki/User:Shhhnotsoloud) | 544 |
-| 2026-11-13 14:42:07 | [Kwon Young-hae](https://en.wikipedia.org/wiki/Kwon_Young-hae) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 3,867 |
-| 2026-11-13 14:42:30 | [William Woods (RAF officer)](https://en.wikipedia.org/wiki/William_Woods_%28RAF_officer%29) | [Gaia Octavia Agrippa](https://en.wikipedia.org/wiki/User:Gaia_Octavia_Agrippa) | 1,053 |
-| 2026-11-13 14:42:59 | [The Mating Game (TV series)](https://en.wikipedia.org/wiki/The_Mating_Game_%28TV_series%29) | [Baguala](https://en.wikipedia.org/wiki/User:Baguala) | 5,145 |
-| 2026-11-13 14:47:20 | [Electrification of the Natal Main Line](https://en.wikipedia.org/wiki/Electrification_of_the_Natal_Main_Line) | [Kiwi-click.4v](https://en.wikipedia.org/wiki/User:Kiwi-click.4v) | 23,647 |
-| 2026-11-13 14:48:56 | [Pleurophorus opacus](https://en.wikipedia.org/wiki/Pleurophorus_opacus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,976 |
-| 2026-11-13 14:50:20 | [2027 BAL qualification](https://en.wikipedia.org/wiki/2027_BAL_qualification) | [Buffalow77](https://en.wikipedia.org/wiki/User:Buffalow77) | 26,771 |
-| 2026-11-13 14:53:02 | [Annsiri Walaikanok](https://en.wikipedia.org/wiki/Annsiri_Walaikanok) | [Skaterlight2013](https://en.wikipedia.org/wiki/User:Skaterlight2013) | 6,807 |
-| 2026-11-13 14:57:46 | [Pleurophorus apicipennis](https://en.wikipedia.org/wiki/Pleurophorus_apicipennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,023 |
-| 2026-11-13 14:58:25 | [Invest 95P](https://en.wikipedia.org/wiki/Invest_95P) | [StormL00ver](https://en.wikipedia.org/wiki/User:StormL00ver) | 712 |
-| 2026-11-13 14:58:51 | [Andrey Gorovets](https://en.wikipedia.org/wiki/Andrey_Gorovets) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 2,568 |
-| 2026-11-13 15:00:22 | [Se-mi (name)](https://en.wikipedia.org/wiki/Se-mi_%28name%29) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 1,070 |
-| 2026-11-13 15:00:37 | [Lee Byung-tae](https://en.wikipedia.org/wiki/Lee_Byung-tae) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 6,238 |
-| 2026-11-13 15:01:29 | [Platytomus variolosus](https://en.wikipedia.org/wiki/Platytomus_variolosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,367 |
-| 2026-11-13 15:05:04 | [1985 FC Dynamo Kyiv season](https://en.wikipedia.org/wiki/1985_FC_Dynamo_Kyiv_season) | [KrypticRule](https://en.wikipedia.org/wiki/User:KrypticRule) | 35,634 |
-| 2026-11-13 15:05:11 | [Padala, Bulgaria](https://en.wikipedia.org/wiki/Padala%2C_Bulgaria) | [Local gen alpha](https://en.wikipedia.org/wiki/User:Local_gen_alpha) | 520 |
-| 2026-11-13 15:08:04 | [Pesach Osina](https://en.wikipedia.org/wiki/Pesach_Osina) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,919 |
-| 2026-11-13 15:09:18 | [Myron Bostdorp](https://en.wikipedia.org/wiki/Myron_Bostdorp) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 3,027 |
-| 2026-11-13 15:10:32 | [Chimwemwe Kussein](https://en.wikipedia.org/wiki/Chimwemwe_Kussein) | [Victuallers](https://en.wikipedia.org/wiki/User:Victuallers) | 3,269 |
-| 2026-11-13 15:18:35 | [Thanat Danjesda](https://en.wikipedia.org/wiki/Thanat_Danjesda) | [Matchabake](https://en.wikipedia.org/wiki/User:Matchabake) | 16,173 |
-| 2026-11-13 15:18:39 | [Pleurophorus tonkinensis](https://en.wikipedia.org/wiki/Pleurophorus_tonkinensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,903 |
-| 2026-11-13 15:19:52 | [Ki-hoon](https://en.wikipedia.org/wiki/Ki-hoon) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 1,258 |
+| 2026-11-13 15:21:15 | [Pleurophorus impressicollis](https://en.wikipedia.org/wiki/Pleurophorus_impressicollis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,056 |
+| 2026-11-13 15:22:17 | [Lee Yang-ho](https://en.wikipedia.org/wiki/Lee_Yang-ho) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 6,380 |
+| 2026-11-13 15:23:24 | [Pleurophorus cracens](https://en.wikipedia.org/wiki/Pleurophorus_cracens) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,888 |
+| 2026-11-13 15:26:19 | [Padala (disambiguation)](https://en.wikipedia.org/wiki/Padala_%28disambiguation%29) | [Ansgar Slopsbane](https://en.wikipedia.org/wiki/User:Ansgar_Slopsbane) | 428 |
+| 2026-11-13 15:27:38 | [Ghaith Al-Madadha](https://en.wikipedia.org/wiki/Ghaith_Al-Madadha) | [Zalata42](https://en.wikipedia.org/wiki/User:Zalata42) | 9,038 |
+| 2026-11-13 15:29:46 | [Eric Brown (defensive back, born 1967)](https://en.wikipedia.org/wiki/Eric_Brown_%28defensive_back%2C_born_1967%29) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 4,796 |
+| 2026-11-13 15:32:44 | [Odochilus syntheticus](https://en.wikipedia.org/wiki/Odochilus_syntheticus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,934 |
+| 2026-11-13 15:33:00 | [Oleksiy Koval](https://en.wikipedia.org/wiki/Oleksiy_Koval) | [Loitd](https://en.wikipedia.org/wiki/User:Loitd) | 4,737 |
+| 2026-11-13 15:39:38 | [Ian Phillips (New York politician)](https://en.wikipedia.org/wiki/Ian_Phillips_%28New_York_politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 3,213 |
+| 2026-11-13 15:40:18 | [Odochilus buruensis](https://en.wikipedia.org/wiki/Odochilus_buruensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,924 |
+| 2026-11-13 15:40:27 | [Kim Dong-jin (politician)](https://en.wikipedia.org/wiki/Kim_Dong-jin_%28politician%29) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 5,761 |
+| 2026-11-13 15:48:35 | [Max Diamant](https://en.wikipedia.org/wiki/Max_Diamant) | [Edward Mike005](https://en.wikipedia.org/wiki/User:Edward_Mike005) | 7,539 |
+| 2026-11-13 15:51:53 | [Life and Deaths of Max Linder](https://en.wikipedia.org/wiki/Life_and_Deaths_of_Max_Linder) | [Wikiwriter22](https://en.wikipedia.org/wiki/User:Wikiwriter22) | 366 |
+| 2026-11-13 15:57:26 | [Jordan Quiggin](https://en.wikipedia.org/wiki/Jordan_Quiggin) | [The-Pope](https://en.wikipedia.org/wiki/User:The-Pope) | 3,265 |
+| 2026-11-13 15:58:04 | [Ichgola Androgyn](https://en.wikipedia.org/wiki/Ichgola_Androgyn) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 6,755 |
+| 2026-11-13 15:58:35 | [2026–27 Northwestern State Demons basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Northwestern_State_Demons_basketball_team) | [RedSox39](https://en.wikipedia.org/wiki/User:RedSox39) | 26,726 |
+| 2026-11-13 15:59:30 | [Rubens (given name)](https://en.wikipedia.org/wiki/Rubens_%28given_name%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 58 |
+| 2026-11-13 16:04:14 | [Shot Rider](https://en.wikipedia.org/wiki/Shot_Rider) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,983 |
+| 2026-11-13 16:11:31 | [Cooper baron](https://en.wikipedia.org/wiki/Cooper_baron) | [Thewetroadinsummer](https://en.wikipedia.org/wiki/User:Thewetroadinsummer) | 283 |
+| 2026-11-13 16:17:19 | [Amora (mythology)](https://en.wikipedia.org/wiki/Amora_%28mythology%29) | [Lumehia](https://en.wikipedia.org/wiki/User:Lumehia) | 1,756 |
+| 2026-11-13 16:17:35 | [Back in the World (short stories)](https://en.wikipedia.org/wiki/Back_in_the_World_%28short_stories%29) | [36hourblock](https://en.wikipedia.org/wiki/User:36hourblock) | 5,087 |
+| 2026-11-13 16:19:32 | [Artificial intelligence in Pakistan](https://en.wikipedia.org/wiki/Artificial_intelligence_in_Pakistan) | [KhizraRazzaqi](https://en.wikipedia.org/wiki/User:KhizraRazzaqi) | 11,149 |
