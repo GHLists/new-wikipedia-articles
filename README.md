@@ -13,43 +13,49 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-14 10:20 UTC](data/en/new-articles-2026-11-14T10-20-24Z.csv) | 11 |
-| Japanese | `ja` | [2026-11-14 10:20 UTC](data/ja/new-articles-2026-11-14T10-20-24Z.csv) | 6 |
-| Chinese | `zh` | [2026-11-14 10:20 UTC](data/zh/new-articles-2026-11-14T10-20-24Z.csv) | 4 |
-| French | `fr` | [2026-11-14 10:20 UTC](data/fr/new-articles-2026-11-14T10-20-24Z.csv) | 6 |
-| German | `de` | [2026-11-14 10:20 UTC](data/de/new-articles-2026-11-14T10-20-24Z.csv) | 5 |
-| Russian | `ru` | [2026-11-14 10:20 UTC](data/ru/new-articles-2026-11-14T10-20-24Z.csv) | 9 |
-| Spanish | `es` | [2026-11-14 10:20 UTC](data/es/new-articles-2026-11-14T10-20-24Z.csv) | 3 |
-| Italian | `it` | [2026-11-14 10:20 UTC](data/it/new-articles-2026-11-14T10-20-24Z.csv) | 5 |
-| Portuguese | `pt` | [2026-11-14 10:20 UTC](data/pt/new-articles-2026-11-14T10-20-24Z.csv) | 1 |
-| Polish | `pl` | [2026-11-14 10:20 UTC](data/pl/new-articles-2026-11-14T10-20-24Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-14 10:20 UTC](data/ar/new-articles-2026-11-14T10-20-24Z.csv) | 2 |
-| Persian | `fa` | [2026-11-14 10:20 UTC](data/fa/new-articles-2026-11-14T10-20-24Z.csv) | 1 |
-| Turkish | `tr` | [2026-11-14 10:20 UTC](data/tr/new-articles-2026-11-14T10-20-24Z.csv) | 3 |
-| Hebrew | `he` | [2026-11-14 10:20 UTC](data/he/new-articles-2026-11-14T10-20-24Z.csv) | 6 |
-| Swedish | `sv` | [2026-11-14 10:20 UTC](data/sv/new-articles-2026-11-14T10-20-24Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-14 10:20 UTC](data/nl/new-articles-2026-11-14T10-20-24Z.csv) | 12 |
-| Korean | `ko` | [2026-11-14 09:21 UTC](data/ko/new-articles-2026-11-14T09-21-08Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-14 10:20 UTC](data/id/new-articles-2026-11-14T10-20-24Z.csv) | 10 |
-| Ukrainian | `uk` | [2026-11-14 10:20 UTC](data/uk/new-articles-2026-11-14T10-20-24Z.csv) | 9 |
-| Vietnamese | `vi` | [2026-11-14 10:20 UTC](data/vi/new-articles-2026-11-14T10-20-24Z.csv) | 4 |
+| English | `en` | [2026-11-14 11:18 UTC](data/en/new-articles-2026-11-14T11-18-23Z.csv) | 17 |
+| Japanese | `ja` | [2026-11-14 11:18 UTC](data/ja/new-articles-2026-11-14T11-18-23Z.csv) | 5 |
+| Chinese | `zh` | [2026-11-14 11:18 UTC](data/zh/new-articles-2026-11-14T11-18-23Z.csv) | 7 |
+| French | `fr` | [2026-11-14 11:18 UTC](data/fr/new-articles-2026-11-14T11-18-23Z.csv) | 6 |
+| German | `de` | [2026-11-14 11:18 UTC](data/de/new-articles-2026-11-14T11-18-23Z.csv) | 17 |
+| Russian | `ru` | [2026-11-14 11:18 UTC](data/ru/new-articles-2026-11-14T11-18-23Z.csv) | 9 |
+| Spanish | `es` | [2026-11-14 11:18 UTC](data/es/new-articles-2026-11-14T11-18-23Z.csv) | 7 |
+| Italian | `it` | [2026-11-14 11:18 UTC](data/it/new-articles-2026-11-14T11-18-23Z.csv) | 12 |
+| Portuguese | `pt` | [2026-11-14 11:18 UTC](data/pt/new-articles-2026-11-14T11-18-23Z.csv) | 3 |
+| Polish | `pl` | [2026-11-14 11:18 UTC](data/pl/new-articles-2026-11-14T11-18-23Z.csv) | 8 |
+| Arabic | `ar` | [2026-11-14 11:18 UTC](data/ar/new-articles-2026-11-14T11-18-23Z.csv) | 3 |
+| Persian | `fa` | [2026-11-14 11:18 UTC](data/fa/new-articles-2026-11-14T11-18-23Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-14 11:18 UTC](data/tr/new-articles-2026-11-14T11-18-23Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-14 11:18 UTC](data/he/new-articles-2026-11-14T11-18-23Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-14 11:18 UTC](data/sv/new-articles-2026-11-14T11-18-23Z.csv) | 6 |
+| Dutch | `nl` | [2026-11-14 11:18 UTC](data/nl/new-articles-2026-11-14T11-18-23Z.csv) | 30 |
+| Korean | `ko` | [2026-11-14 11:18 UTC](data/ko/new-articles-2026-11-14T11-18-23Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-14 11:18 UTC](data/id/new-articles-2026-11-14T11-18-23Z.csv) | 7 |
+| Ukrainian | `uk` | [2026-11-14 11:18 UTC](data/uk/new-articles-2026-11-14T11-18-23Z.csv) | 23 |
+| Vietnamese | `vi` | [2026-11-14 11:18 UTC](data/vi/new-articles-2026-11-14T11-18-23Z.csv) | 2 |
 
-## English (en) — 2026-11-14 10:20 UTC
+## English (en) — 2026-11-14 11:18 UTC
 
-New articles created between 2026-11-14 09:21 UTC and 2026-11-14 10:20 UTC.
+New articles created between 2026-11-14 10:20 UTC and 2026-11-14 11:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-14T10-20-24Z.csv)
+[Full CSV](data/en/new-articles-2026-11-14T11-18-23Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-14 09:24:01 | [Damasus (mythology)](https://en.wikipedia.org/wiki/Damasus_%28mythology%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 1,385 |
-| 2026-11-14 09:28:37 | [Hailan River massacre](https://en.wikipedia.org/wiki/Hailan_River_massacre) | [안드레아박](https://en.wikipedia.org/wiki/User:%EC%95%88%EB%93%9C%EB%A0%88%EC%95%84%EB%B0%95) | 4,617 |
-| 2026-11-14 09:30:39 | [Chibati](https://en.wikipedia.org/wiki/Chibati) | [Zurabalomtadze](https://en.wikipedia.org/wiki/User:Zurabalomtadze) | 1,467 |
-| 2026-11-14 09:42:43 | [Barbara Joyce Abang](https://en.wikipedia.org/wiki/Barbara_Joyce_Abang) | [Emma Oruk](https://en.wikipedia.org/wiki/User:Emma_Oruk) | 1,450 |
-| 2026-11-14 09:46:47 | [1991 Louisiana State Senate election](https://en.wikipedia.org/wiki/1991_Louisiana_State_Senate_election) | [Longestview](https://en.wikipedia.org/wiki/User:Longestview) | 54,584 |
-| 2026-11-14 09:48:44 | [First Hudson River Derby](https://en.wikipedia.org/wiki/First_Hudson_River_Derby) | [RedMuffers](https://en.wikipedia.org/wiki/User:RedMuffers) | 4,392 |
-| 2026-11-14 09:54:25 | [Daphnée Mpetshi Perricard](https://en.wikipedia.org/wiki/Daphn%C3%A9e_Mpetshi_Perricard) | [ScotlandForevertennis](https://en.wikipedia.org/wiki/User:ScotlandForevertennis) | 5,605 |
-| 2026-11-14 10:10:39 | [Compañero (album)](https://en.wikipedia.org/wiki/Compa%C3%B1ero_%28album%29) | [Tobyjamesaus](https://en.wikipedia.org/wiki/User:Tobyjamesaus) | 5,201 |
-| 2026-11-14 10:11:08 | [Luna Award for Best Picture](https://en.wikipedia.org/wiki/Luna_Award_for_Best_Picture) | [Astro.nick20](https://en.wikipedia.org/wiki/User:Astro.nick20) | 3,637 |
-| 2026-11-14 10:18:16 | [Kimberly Fisher](https://en.wikipedia.org/wiki/Kimberly_Fisher) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,990 |
-| 2026-11-14 10:20:04 | [Carlo Ghidelli](https://en.wikipedia.org/wiki/Carlo_Ghidelli) | [Noel baran](https://en.wikipedia.org/wiki/User:Noel_baran) | 7,805 |
+| 2026-11-14 10:23:35 | [Wolf Rainer Abraham](https://en.wikipedia.org/wiki/Wolf_Rainer_Abraham) | [Shirt58](https://en.wikipedia.org/wiki/User:Shirt58) | 549 |
+| 2026-11-14 10:32:43 | [Kelly Garrett (politician)](https://en.wikipedia.org/wiki/Kelly_Garrett_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,376 |
+| 2026-11-14 10:33:20 | [Antifa (Poland)](https://en.wikipedia.org/wiki/Antifa_%28Poland%29) | [Mafo](https://en.wikipedia.org/wiki/User:Mafo) | 14,564 |
+| 2026-11-14 10:38:05 | [French language in Ivory Coast](https://en.wikipedia.org/wiki/French_language_in_Ivory_Coast) | [Quince&Medlar](https://en.wikipedia.org/wiki/User:Quince%26Medlar) | 1,776 |
+| 2026-11-14 10:38:31 | [János Móga](https://en.wikipedia.org/wiki/J%C3%A1nos_M%C3%B3ga) | [Edward Mike005](https://en.wikipedia.org/wiki/User:Edward_Mike005) | 5,844 |
+| 2026-11-14 10:41:06 | [Forster baronets of Aldermaston (1620)](https://en.wikipedia.org/wiki/Forster_baronets_of_Aldermaston_%281620%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,909 |
+| 2026-11-14 10:43:02 | [Thermal Power Plant Morava](https://en.wikipedia.org/wiki/Thermal_Power_Plant_Morava) | [AirWolf](https://en.wikipedia.org/wiki/User:AirWolf) | 3,594 |
+| 2026-11-14 10:53:30 | [Herbert Gill](https://en.wikipedia.org/wiki/Herbert_Gill) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 7,786 |
+| 2026-11-14 10:53:56 | [Chestnut tree of Melle](https://en.wikipedia.org/wiki/Chestnut_tree_of_Melle) | [Murray Nozick](https://en.wikipedia.org/wiki/User:Murray_Nozick) | 4,756 |
+| 2026-11-14 10:57:33 | [Gymnastics at the 2027 European Games](https://en.wikipedia.org/wiki/Gymnastics_at_the_2027_European_Games) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 10,028 |
+| 2026-11-14 10:59:31 | [Lisa McIntyre](https://en.wikipedia.org/wiki/Lisa_McIntyre) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,516 |
+| 2026-11-14 11:01:11 | [Hainan mass grave](https://en.wikipedia.org/wiki/Hainan_mass_grave) | [안드레아박](https://en.wikipedia.org/wiki/User:%EC%95%88%EB%93%9C%EB%A0%88%EC%95%84%EB%B0%95) | 7,217 |
+| 2026-11-14 11:07:58 | [The Republican Make Australia Great Again](https://en.wikipedia.org/wiki/The_Republican_Make_Australia_Great_Again) | [LivelyRatification](https://en.wikipedia.org/wiki/User:LivelyRatification) | 5,395 |
+| 2026-11-14 11:12:00 | [Praise Ugoh](https://en.wikipedia.org/wiki/Praise_Ugoh) | [Obinna Tony](https://en.wikipedia.org/wiki/User:Obinna_Tony) | 1,262 |
+| 2026-11-14 11:12:05 | [Sárospatak Reformed College](https://en.wikipedia.org/wiki/S%C3%A1rospatak_Reformed_College) | [Dominicus347](https://en.wikipedia.org/wiki/User:Dominicus347) | 6,510 |
+| 2026-11-14 11:13:18 | [Forster baronets of East Greenwich (1661)](https://en.wikipedia.org/wiki/Forster_baronets_of_East_Greenwich_%281661%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,615 |
+| 2026-11-14 11:16:46 | [Mister Rubber Europe:](https://en.wikipedia.org/wiki/Mister_Rubber_Europe%3A) | [159753](https://en.wikipedia.org/wiki/User:159753) | 8,813 |
