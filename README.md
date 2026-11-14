@@ -13,57 +13,49 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-14 15:18 UTC](data/en/new-articles-2026-11-14T15-18-49Z.csv) | 25 |
-| Japanese | `ja` | [2026-11-14 15:18 UTC](data/ja/new-articles-2026-11-14T15-18-49Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-14 15:18 UTC](data/zh/new-articles-2026-11-14T15-18-49Z.csv) | 13 |
-| French | `fr` | [2026-11-14 15:18 UTC](data/fr/new-articles-2026-11-14T15-18-49Z.csv) | 8 |
-| German | `de` | [2026-11-14 15:18 UTC](data/de/new-articles-2026-11-14T15-18-49Z.csv) | 12 |
-| Russian | `ru` | [2026-11-14 15:18 UTC](data/ru/new-articles-2026-11-14T15-18-49Z.csv) | 14 |
-| Spanish | `es` | [2026-11-14 15:18 UTC](data/es/new-articles-2026-11-14T15-18-49Z.csv) | 40 |
-| Italian | `it` | [2026-11-14 15:18 UTC](data/it/new-articles-2026-11-14T15-18-49Z.csv) | 9 |
-| Portuguese | `pt` | [2026-11-14 15:18 UTC](data/pt/new-articles-2026-11-14T15-18-49Z.csv) | 6 |
-| Polish | `pl` | [2026-11-14 15:18 UTC](data/pl/new-articles-2026-11-14T15-18-49Z.csv) | 8 |
-| Arabic | `ar` | [2026-11-14 15:18 UTC](data/ar/new-articles-2026-11-14T15-18-49Z.csv) | 6 |
-| Persian | `fa` | [2026-11-14 15:18 UTC](data/fa/new-articles-2026-11-14T15-18-49Z.csv) | 4 |
-| Turkish | `tr` | [2026-11-14 15:18 UTC](data/tr/new-articles-2026-11-14T15-18-49Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-14 15:18 UTC](data/he/new-articles-2026-11-14T15-18-49Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-14 15:18 UTC](data/sv/new-articles-2026-11-14T15-18-49Z.csv) | 6 |
-| Dutch | `nl` | [2026-11-14 15:18 UTC](data/nl/new-articles-2026-11-14T15-18-49Z.csv) | 12 |
-| Korean | `ko` | [2026-11-14 15:18 UTC](data/ko/new-articles-2026-11-14T15-18-49Z.csv) | 8 |
-| Indonesian | `id` | [2026-11-14 15:18 UTC](data/id/new-articles-2026-11-14T15-18-49Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-11-14 15:18 UTC](data/uk/new-articles-2026-11-14T15-18-49Z.csv) | 9 |
-| Vietnamese | `vi` | [2026-11-14 15:18 UTC](data/vi/new-articles-2026-11-14T15-18-49Z.csv) | 2 |
+| English | `en` | [2026-11-14 16:21 UTC](data/en/new-articles-2026-11-14T16-21-13Z.csv) | 17 |
+| Japanese | `ja` | [2026-11-14 16:21 UTC](data/ja/new-articles-2026-11-14T16-21-13Z.csv) | 9 |
+| Chinese | `zh` | [2026-11-14 16:21 UTC](data/zh/new-articles-2026-11-14T16-21-13Z.csv) | 9 |
+| French | `fr` | [2026-11-14 16:21 UTC](data/fr/new-articles-2026-11-14T16-21-13Z.csv) | 12 |
+| German | `de` | [2026-11-14 16:21 UTC](data/de/new-articles-2026-11-14T16-21-13Z.csv) | 17 |
+| Russian | `ru` | [2026-11-14 16:21 UTC](data/ru/new-articles-2026-11-14T16-21-13Z.csv) | 24 |
+| Spanish | `es` | [2026-11-14 16:21 UTC](data/es/new-articles-2026-11-14T16-21-13Z.csv) | 7 |
+| Italian | `it` | [2026-11-14 16:21 UTC](data/it/new-articles-2026-11-14T16-21-13Z.csv) | 13 |
+| Portuguese | `pt` | [2026-11-14 16:21 UTC](data/pt/new-articles-2026-11-14T16-21-13Z.csv) | 7 |
+| Polish | `pl` | [2026-11-14 16:21 UTC](data/pl/new-articles-2026-11-14T16-21-13Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-14 16:21 UTC](data/ar/new-articles-2026-11-14T16-21-13Z.csv) | 8 |
+| Persian | `fa` | [2026-11-14 16:21 UTC](data/fa/new-articles-2026-11-14T16-21-13Z.csv) | 10 |
+| Turkish | `tr` | [2026-11-14 16:21 UTC](data/tr/new-articles-2026-11-14T16-21-13Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-14 16:21 UTC](data/he/new-articles-2026-11-14T16-21-13Z.csv) | 6 |
+| Swedish | `sv` | [2026-11-14 16:21 UTC](data/sv/new-articles-2026-11-14T16-21-13Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-14 16:21 UTC](data/nl/new-articles-2026-11-14T16-21-13Z.csv) | 4 |
+| Korean | `ko` | [2026-11-14 16:21 UTC](data/ko/new-articles-2026-11-14T16-21-13Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-14 16:21 UTC](data/id/new-articles-2026-11-14T16-21-13Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-14 16:21 UTC](data/uk/new-articles-2026-11-14T16-21-13Z.csv) | 17 |
+| Vietnamese | `vi` | [2026-11-14 16:21 UTC](data/vi/new-articles-2026-11-14T16-21-13Z.csv) | 2 |
 
-## English (en) — 2026-11-14 15:18 UTC
+## English (en) — 2026-11-14 16:21 UTC
 
-New articles created between 2026-11-14 14:19 UTC and 2026-11-14 15:18 UTC.
+New articles created between 2026-11-14 15:18 UTC and 2026-11-14 16:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-14T15-18-49Z.csv)
+[Full CSV](data/en/new-articles-2026-11-14T16-21-13Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-14 14:19:49 | [Megan Smyth-Lynch](https://en.wikipedia.org/wiki/Megan_Smyth-Lynch) | [Bring back Daz Sampson](https://en.wikipedia.org/wiki/User:Bring_back_Daz_Sampson) | 13,537 |
-| 2026-11-14 14:20:33 | [Sinjar Academy](https://en.wikipedia.org/wiki/Sinjar_Academy) | [Nobedarê Dunav](https://en.wikipedia.org/wiki/User:Nobedar%C3%AA_Dunav) | 22,614 |
-| 2026-11-14 14:26:06 | [Kolobani](https://en.wikipedia.org/wiki/Kolobani) | [SandroChess](https://en.wikipedia.org/wiki/User:SandroChess) | 2,708 |
-| 2026-11-14 14:27:35 | [Xiang Chinese-speaking people](https://en.wikipedia.org/wiki/Xiang_Chinese-speaking_people) | [HoxHomo](https://en.wikipedia.org/wiki/User:HoxHomo) | 2,839 |
-| 2026-11-14 14:28:00 | [John Michael McCloskey](https://en.wikipedia.org/wiki/John_Michael_McCloskey) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 605 |
-| 2026-11-14 14:29:21 | [Joseph McClusky](https://en.wikipedia.org/wiki/Joseph_McClusky) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,491 |
-| 2026-11-14 14:31:14 | [Sottogonna](https://en.wikipedia.org/wiki/Sottogonna) | [Alienautic](https://en.wikipedia.org/wiki/User:Alienautic) | 2,959 |
-| 2026-11-14 14:31:20 | [Parvarik ManuRanjan](https://en.wikipedia.org/wiki/Parvarik_ManuRanjan) | [Capitals00](https://en.wikipedia.org/wiki/User:Capitals00) | 1,095 |
-| 2026-11-14 14:40:50 | [List of Miami RedHawks women's basketball head coaches](https://en.wikipedia.org/wiki/List_of_Miami_RedHawks_women%27s_basketball_head_coaches) | [Therobertrich](https://en.wikipedia.org/wiki/User:Therobertrich) | 3,219 |
-| 2026-11-14 14:41:18 | [Derek Webb (disambiguation)](https://en.wikipedia.org/wiki/Derek_Webb_%28disambiguation%29) | [AHKallas](https://en.wikipedia.org/wiki/User:AHKallas) | 307 |
-| 2026-11-14 14:42:09 | [Anna Aho Rink](https://en.wikipedia.org/wiki/Anna_Aho_Rink) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,910 |
-| 2026-11-14 14:44:42 | [João Bá](https://en.wikipedia.org/wiki/Jo%C3%A3o_B%C3%A1) | [Cassilvwikis](https://en.wikipedia.org/wiki/User:Cassilvwikis) | 6,947 |
-| 2026-11-14 14:48:17 | [Earl Ortman](https://en.wikipedia.org/wiki/Earl_Ortman) | [Bill Wrigley](https://en.wikipedia.org/wiki/User:Bill_Wrigley) | 33,208 |
-| 2026-11-14 14:51:21 | [Joe Moss (politician)](https://en.wikipedia.org/wiki/Joe_Moss_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,757 |
-| 2026-11-14 14:52:10 | [Nakali](https://en.wikipedia.org/wiki/Nakali) | [Wisdood](https://en.wikipedia.org/wiki/User:Wisdood) | 394 |
-| 2026-11-14 15:00:36 | [Gaitanism](https://en.wikipedia.org/wiki/Gaitanism) | [Theencyclopedian.tn](https://en.wikipedia.org/wiki/User:Theencyclopedian.tn) | 3,875 |
-| 2026-11-14 15:00:54 | [Briar Bearss](https://en.wikipedia.org/wiki/Briar_Bearss) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,632 |
-| 2026-11-14 15:04:34 | [Wuhou Shrine, Chengdu](https://en.wikipedia.org/wiki/Wuhou_Shrine%2C_Chengdu) | [Esiymbro](https://en.wikipedia.org/wiki/User:Esiymbro) | 4,627 |
-| 2026-11-14 15:06:19 | [Odochilus bacchusi](https://en.wikipedia.org/wiki/Odochilus_bacchusi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,912 |
-| 2026-11-14 15:07:12 | [Jaxon Deur](https://en.wikipedia.org/wiki/Jaxon_Deur) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,209 |
-| 2026-11-14 15:07:51 | [Jesse Watters controversies](https://en.wikipedia.org/wiki/Jesse_Watters_controversies) | [MentenTRK](https://en.wikipedia.org/wiki/User:MentenTRK) | 26,965 |
-| 2026-11-14 15:08:26 | [Odochilus pittinoi](https://en.wikipedia.org/wiki/Odochilus_pittinoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,888 |
-| 2026-11-14 15:12:21 | [DuckTales (multimedia franchise)](https://en.wikipedia.org/wiki/DuckTales_%28multimedia_franchise%29) | [Jim-Carven](https://en.wikipedia.org/wiki/User:Jim-Carven) | 595 |
-| 2026-11-14 15:14:03 | [Larry Johnson (Michigan politician)](https://en.wikipedia.org/wiki/Larry_Johnson_%28Michigan_politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,215 |
-| 2026-11-14 15:16:27 | [Bayarsaikhan Gundavaa](https://en.wikipedia.org/wiki/Bayarsaikhan_Gundavaa) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 1,652 |
+| 2026-11-14 15:22:14 | [Canarium incisum](https://en.wikipedia.org/wiki/Canarium_incisum) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,973 |
+| 2026-11-14 15:25:57 | [Wang Dongwei](https://en.wikipedia.org/wiki/Wang_Dongwei) | [Shwangtianyuan](https://en.wikipedia.org/wiki/User:Shwangtianyuan) | 7,193 |
+| 2026-11-14 15:26:20 | [Mohit Ulva](https://en.wikipedia.org/wiki/Mohit_Ulva) | [Ratnadeva](https://en.wikipedia.org/wiki/User:Ratnadeva) | 1,667 |
+| 2026-11-14 15:47:06 | [2026 MTV Video Music Awards Japan](https://en.wikipedia.org/wiki/2026_MTV_Video_Music_Awards_Japan) | [Julioprodriguez35](https://en.wikipedia.org/wiki/User:Julioprodriguez35) | 1,494 |
+| 2026-11-14 15:49:34 | [National Spiritual Assembly of the Baháʼís of Iran](https://en.wikipedia.org/wiki/National_Spiritual_Assembly_of_the_Bah%C3%A1%CA%BC%C3%ADs_of_Iran) | [Tarikhejtemai](https://en.wikipedia.org/wiki/User:Tarikhejtemai) | 35,200 |
+| 2026-11-14 15:50:25 | [Vladimir Gurevich](https://en.wikipedia.org/wiki/Vladimir_Gurevich) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 2,611 |
+| 2026-11-14 15:52:46 | [Bloomington, South Dakota](https://en.wikipedia.org/wiki/Bloomington%2C_South_Dakota) | [Mrmoustache12](https://en.wikipedia.org/wiki/User:Mrmoustache12) | 466 |
+| 2026-11-14 15:56:09 | [Snakes & Ladders (Armand Hammer album)](https://en.wikipedia.org/wiki/Snakes_%26_Ladders_%28Armand_Hammer_album%29) | [Guerreroast](https://en.wikipedia.org/wiki/User:Guerreroast) | 5,356 |
+| 2026-11-14 15:58:56 | [Luke Baartman](https://en.wikipedia.org/wiki/Luke_Baartman) | [Microwave Anarchist](https://en.wikipedia.org/wiki/User:Microwave_Anarchist) | 6,100 |
+| 2026-11-14 16:00:56 | [2026 Cuiabá Esporte Clube season](https://en.wikipedia.org/wiki/2026_Cuiab%C3%A1_Esporte_Clube_season) | [Sakiv](https://en.wikipedia.org/wiki/User:Sakiv) | 4,599 |
+| 2026-11-14 16:09:50 | [Barbara Herbert](https://en.wikipedia.org/wiki/Barbara_Herbert) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 213 |
+| 2026-11-14 16:12:48 | [Barbara Hubbard](https://en.wikipedia.org/wiki/Barbara_Hubbard) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 339 |
+| 2026-11-14 16:14:07 | [Wang Lujin](https://en.wikipedia.org/wiki/Wang_Lujin) | [Shwangtianyuan](https://en.wikipedia.org/wiki/User:Shwangtianyuan) | 7,263 |
+| 2026-11-14 16:15:14 | [Perkins' Battalion](https://en.wikipedia.org/wiki/Perkins%27_Battalion) | [Makingarticles](https://en.wikipedia.org/wiki/User:Makingarticles) | 3,178 |
+| 2026-11-14 16:19:27 | [Loch na Cuilce](https://en.wikipedia.org/wiki/Loch_na_Cuilce) | [Rimmer1993](https://en.wikipedia.org/wiki/User:Rimmer1993) | 3,890 |
+| 2026-11-14 16:20:07 | [Canarium rugosum](https://en.wikipedia.org/wiki/Canarium_rugosum) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,320 |
+| 2026-11-14 16:20:07 | [Omotara Johnson](https://en.wikipedia.org/wiki/Omotara_Johnson) | [Afí-afeti](https://en.wikipedia.org/wiki/User:Af%C3%AD-afeti) | 4,188 |
