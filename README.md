@@ -13,59 +13,63 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-14 19:19 UTC](data/en/new-articles-2026-11-14T19-19-03Z.csv) | 27 |
-| Japanese | `ja` | [2026-11-14 19:19 UTC](data/ja/new-articles-2026-11-14T19-19-03Z.csv) | 2 |
-| Chinese | `zh` | [2026-11-14 19:19 UTC](data/zh/new-articles-2026-11-14T19-19-03Z.csv) | 4 |
-| French | `fr` | [2026-11-14 19:19 UTC](data/fr/new-articles-2026-11-14T19-19-03Z.csv) | 15 |
-| German | `de` | [2026-11-14 19:19 UTC](data/de/new-articles-2026-11-14T19-19-03Z.csv) | 3 |
-| Russian | `ru` | [2026-11-14 19:19 UTC](data/ru/new-articles-2026-11-14T19-19-03Z.csv) | 9 |
-| Spanish | `es` | [2026-11-14 19:19 UTC](data/es/new-articles-2026-11-14T19-19-03Z.csv) | 18 |
-| Italian | `it` | [2026-11-14 19:19 UTC](data/it/new-articles-2026-11-14T19-19-03Z.csv) | 7 |
-| Portuguese | `pt` | [2026-11-14 19:19 UTC](data/pt/new-articles-2026-11-14T19-19-03Z.csv) | 8 |
-| Polish | `pl` | [2026-11-14 19:19 UTC](data/pl/new-articles-2026-11-14T19-19-03Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-14 19:19 UTC](data/ar/new-articles-2026-11-14T19-19-03Z.csv) | 6 |
-| Persian | `fa` | [2026-11-14 19:19 UTC](data/fa/new-articles-2026-11-14T19-19-03Z.csv) | 9 |
-| Turkish | `tr` | [2026-11-14 19:19 UTC](data/tr/new-articles-2026-11-14T19-19-03Z.csv) | 3 |
-| Hebrew | `he` | [2026-11-14 19:19 UTC](data/he/new-articles-2026-11-14T19-19-03Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-14 19:19 UTC](data/sv/new-articles-2026-11-14T19-19-03Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-14 19:19 UTC](data/nl/new-articles-2026-11-14T19-19-03Z.csv) | 3 |
+| English | `en` | [2026-11-14 20:19 UTC](data/en/new-articles-2026-11-14T20-19-09Z.csv) | 31 |
+| Japanese | `ja` | [2026-11-14 20:19 UTC](data/ja/new-articles-2026-11-14T20-19-09Z.csv) | 1 |
+| Chinese | `zh` | [2026-11-14 20:19 UTC](data/zh/new-articles-2026-11-14T20-19-09Z.csv) | 4 |
+| French | `fr` | [2026-11-14 20:19 UTC](data/fr/new-articles-2026-11-14T20-19-09Z.csv) | 6 |
+| German | `de` | [2026-11-14 20:19 UTC](data/de/new-articles-2026-11-14T20-19-09Z.csv) | 9 |
+| Russian | `ru` | [2026-11-14 20:19 UTC](data/ru/new-articles-2026-11-14T20-19-09Z.csv) | 14 |
+| Spanish | `es` | [2026-11-14 20:19 UTC](data/es/new-articles-2026-11-14T20-19-09Z.csv) | 16 |
+| Italian | `it` | [2026-11-14 20:19 UTC](data/it/new-articles-2026-11-14T20-19-09Z.csv) | 6 |
+| Portuguese | `pt` | [2026-11-14 20:19 UTC](data/pt/new-articles-2026-11-14T20-19-09Z.csv) | 15 |
+| Polish | `pl` | [2026-11-14 20:19 UTC](data/pl/new-articles-2026-11-14T20-19-09Z.csv) | 7 |
+| Arabic | `ar` | [2026-11-14 20:19 UTC](data/ar/new-articles-2026-11-14T20-19-09Z.csv) | 7 |
+| Persian | `fa` | [2026-11-14 20:19 UTC](data/fa/new-articles-2026-11-14T20-19-09Z.csv) | 7 |
+| Turkish | `tr` | [2026-11-14 20:19 UTC](data/tr/new-articles-2026-11-14T20-19-09Z.csv) | 5 |
+| Hebrew | `he` | [2026-11-14 20:19 UTC](data/he/new-articles-2026-11-14T20-19-09Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-14 20:19 UTC](data/sv/new-articles-2026-11-14T20-19-09Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-14 20:19 UTC](data/nl/new-articles-2026-11-14T20-19-09Z.csv) | 1 |
 | Korean | `ko` | [2026-11-14 17:21 UTC](data/ko/new-articles-2026-11-14T17-21-57Z.csv) | 2 |
 | Indonesian | `id` | [2026-11-14 18:20 UTC](data/id/new-articles-2026-11-14T18-20-23Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-14 19:19 UTC](data/uk/new-articles-2026-11-14T19-19-03Z.csv) | 23 |
+| Ukrainian | `uk` | [2026-11-14 20:19 UTC](data/uk/new-articles-2026-11-14T20-19-09Z.csv) | 19 |
 | Vietnamese | `vi` | [2026-11-14 17:21 UTC](data/vi/new-articles-2026-11-14T17-21-57Z.csv) | 2 |
 
-## English (en) — 2026-11-14 19:19 UTC
+## English (en) — 2026-11-14 20:19 UTC
 
-New articles created between 2026-11-14 18:20 UTC and 2026-11-14 19:19 UTC.
+New articles created between 2026-11-14 19:19 UTC and 2026-11-14 20:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-14T19-19-03Z.csv)
+[Full CSV](data/en/new-articles-2026-11-14T20-19-09Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-14 18:23:10 | [Malachi Sharpe](https://en.wikipedia.org/wiki/Malachi_Sharpe) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 4,026 |
-| 2026-11-14 18:24:36 | [Steve Ingram (American football)](https://en.wikipedia.org/wiki/Steve_Ingram_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,632 |
-| 2026-11-14 18:26:42 | [Nathan Giffard](https://en.wikipedia.org/wiki/Nathan_Giffard) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,441 |
-| 2026-11-14 18:31:15 | [Shaidai](https://en.wikipedia.org/wiki/Shaidai) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,301 |
-| 2026-11-14 18:32:22 | [Lucas Coriaty](https://en.wikipedia.org/wiki/Lucas_Coriaty) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,436 |
-| 2026-11-14 18:32:23 | [Echepolus](https://en.wikipedia.org/wiki/Echepolus) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 1,189 |
-| 2026-11-14 18:32:29 | [Harrie Kuster](https://en.wikipedia.org/wiki/Harrie_Kuster) | [Bocanegra](https://en.wikipedia.org/wiki/User:Bocanegra) | 12,552 |
-| 2026-11-14 18:32:46 | [PicPay](https://en.wikipedia.org/wiki/PicPay) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 3,279 |
-| 2026-11-14 18:34:19 | [Agustín Barrios Gómez Méndez](https://en.wikipedia.org/wiki/Agust%C3%ADn_Barrios_G%C3%B3mez_M%C3%A9ndez) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 9,087 |
-| 2026-11-14 18:36:34 | [Kathryn Brennan](https://en.wikipedia.org/wiki/Kathryn_Brennan) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,589 |
-| 2026-11-14 18:39:27 | [Carl Huth](https://en.wikipedia.org/wiki/Carl_Huth) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 219 |
-| 2026-11-14 18:41:14 | [Strutwear Knitting Company Building](https://en.wikipedia.org/wiki/Strutwear_Knitting_Company_Building) | [SusanLesch](https://en.wikipedia.org/wiki/User:SusanLesch) | 2,282 |
-| 2026-11-14 18:45:54 | [Morikichi Otake](https://en.wikipedia.org/wiki/Morikichi_Otake) | [Metalune](https://en.wikipedia.org/wiki/User:Metalune) | 2,931 |
-| 2026-11-14 18:51:07 | [Richard Umiker](https://en.wikipedia.org/wiki/Richard_Umiker) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,435 |
-| 2026-11-14 18:51:08 | [Opuntia pubescens](https://en.wikipedia.org/wiki/Opuntia_pubescens) | [Gaiacoyote](https://en.wikipedia.org/wiki/User:Gaiacoyote) | 16,678 |
-| 2026-11-14 18:51:48 | [1861 Manchester City Council election](https://en.wikipedia.org/wiki/1861_Manchester_City_Council_election) | [JoeKramer04](https://en.wikipedia.org/wiki/User:JoeKramer04) | 12,113 |
-| 2026-11-14 19:02:36 | [Holly Jeffreys](https://en.wikipedia.org/wiki/Holly_Jeffreys) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,570 |
-| 2026-11-14 19:04:20 | [2026 World U-17 Hockey Challenge](https://en.wikipedia.org/wiki/2026_World_U-17_Hockey_Challenge) | [Zumikos](https://en.wikipedia.org/wiki/User:Zumikos) | 5,078 |
-| 2026-11-14 19:05:57 | [2026 World Triathlon Duathlon Championships](https://en.wikipedia.org/wiki/2026_World_Triathlon_Duathlon_Championships) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 14,102 |
-| 2026-11-14 19:10:16 | [Melencolia Estatica](https://en.wikipedia.org/wiki/Melencolia_Estatica) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 3,892 |
-| 2026-11-14 19:14:48 | [2026–27 in Egyptian football](https://en.wikipedia.org/wiki/2026%E2%80%9327_in_Egyptian_football) | [Mohamedmokhtar22](https://en.wikipedia.org/wiki/User:Mohamedmokhtar22) | 52,460 |
-| 2026-11-14 19:18:15 | [Heerbrugg](https://en.wikipedia.org/wiki/Heerbrugg) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,490 |
-| 2026-11-14 19:18:18 | [Old Lands (Fribourg)](https://en.wikipedia.org/wiki/Old_Lands_%28Fribourg%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,041 |
-| 2026-11-14 19:18:21 | [Karl Joseph Ringold](https://en.wikipedia.org/wiki/Karl_Joseph_Ringold) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,464 |
-| 2026-11-14 19:18:23 | [Wilhelm Joos](https://en.wikipedia.org/wiki/Wilhelm_Joos) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 5,787 |
-| 2026-11-14 19:18:26 | [Claudius Cantiuncula](https://en.wikipedia.org/wiki/Claudius_Cantiuncula) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,610 |
-| 2026-11-14 19:18:29 | [Eduard Pfyffer](https://en.wikipedia.org/wiki/Eduard_Pfyffer) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 5,146 |
+| 2026-11-14 19:20:10 | [Mackenzi Truelove](https://en.wikipedia.org/wiki/Mackenzi_Truelove) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,504 |
+| 2026-11-14 19:21:48 | [Bee Jackson](https://en.wikipedia.org/wiki/Bee_Jackson) | [AkaneNel](https://en.wikipedia.org/wiki/User:AkaneNel) | 12,610 |
+| 2026-11-14 19:23:04 | [Pamaal](https://en.wikipedia.org/wiki/Pamaal) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,446 |
+| 2026-11-14 19:24:19 | [DESI1](https://en.wikipedia.org/wiki/DESI1) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 693 |
+| 2026-11-14 19:24:25 | [Amanda Wiederaenders](https://en.wikipedia.org/wiki/Amanda_Wiederaenders) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,545 |
+| 2026-11-14 19:29:51 | [DESI2](https://en.wikipedia.org/wiki/DESI2) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 959 |
+| 2026-11-14 19:30:25 | [Fakoli](https://en.wikipedia.org/wiki/Fakoli) | [Catjacket](https://en.wikipedia.org/wiki/User:Catjacket) | 847 |
+| 2026-11-14 19:32:17 | [Go! Go! Go!](https://en.wikipedia.org/wiki/Go%21_Go%21_Go%21) | [Javajourney](https://en.wikipedia.org/wiki/User:Javajourney) | 8,826 |
+| 2026-11-14 19:33:04 | [Jessica Maldonado](https://en.wikipedia.org/wiki/Jessica_Maldonado) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,551 |
+| 2026-11-14 19:34:15 | [Tianfu International Finance Center](https://en.wikipedia.org/wiki/Tianfu_International_Finance_Center) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 6,199 |
+| 2026-11-14 19:36:12 | [Sie Dawson](https://en.wikipedia.org/wiki/Sie_Dawson) | [Runabout5921](https://en.wikipedia.org/wiki/User:Runabout5921) | 22,160 |
+| 2026-11-14 19:43:00 | [Igor Milioransa](https://en.wikipedia.org/wiki/Igor_Milioransa) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,242 |
+| 2026-11-14 19:45:16 | [Bill Oemichen](https://en.wikipedia.org/wiki/Bill_Oemichen) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,481 |
+| 2026-11-14 19:46:18 | [The Juicy album LAFAM](https://en.wikipedia.org/wiki/The_Juicy_album_LAFAM) | [Elvinthabiso](https://en.wikipedia.org/wiki/User:Elvinthabiso) | 1,037 |
+| 2026-11-14 19:46:30 | [Emmett Blake](https://en.wikipedia.org/wiki/Emmett_Blake) | [Runabout5921](https://en.wikipedia.org/wiki/User:Runabout5921) | 9,419 |
+| 2026-11-14 19:46:55 | [2021 WPT Alicante Open](https://en.wikipedia.org/wiki/2021_WPT_Alicante_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 41,163 |
+| 2026-11-14 19:48:36 | [Ben Gruber (politician)](https://en.wikipedia.org/wiki/Ben_Gruber_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,466 |
+| 2026-11-14 19:51:31 | [Ball Greezy](https://en.wikipedia.org/wiki/Ball_Greezy) | [Malcolmhendy](https://en.wikipedia.org/wiki/User:Malcolmhendy) | 613 |
+| 2026-11-14 19:54:00 | [1994 Billboard Music Awards](https://en.wikipedia.org/wiki/1994_Billboard_Music_Awards) | [Kittystyler](https://en.wikipedia.org/wiki/User:Kittystyler) | 2,765 |
+| 2026-11-14 19:54:51 | [Henery](https://en.wikipedia.org/wiki/Henery) | [Chessrat](https://en.wikipedia.org/wiki/User:Chessrat) | 505 |
+| 2026-11-14 19:56:12 | [Arlette Hidalgo](https://en.wikipedia.org/wiki/Arlette_Hidalgo) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,529 |
+| 2026-11-14 19:57:21 | [Yangtze River Delta Project](https://en.wikipedia.org/wiki/Yangtze_River_Delta_Project) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 14,611 |
+| 2026-11-14 20:03:34 | [1996 Billboard Music Awards](https://en.wikipedia.org/wiki/1996_Billboard_Music_Awards) | [Kittystyler](https://en.wikipedia.org/wiki/User:Kittystyler) | 2,729 |
+| 2026-11-14 20:03:49 | [Bulgaria at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Bulgaria_at_the_2026_Summer_Youth_Olympics) | [AlexIs2022](https://en.wikipedia.org/wiki/User:AlexIs2022) | 7,165 |
+| 2026-11-14 20:04:28 | [Noah Rodríguez Guallar](https://en.wikipedia.org/wiki/Noah_Rodr%C3%ADguez_Guallar) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 3,983 |
+| 2026-11-14 20:04:36 | [Phillip J. Keller](https://en.wikipedia.org/wiki/Phillip_J._Keller) | [Penale52](https://en.wikipedia.org/wiki/User:Penale52) | 5,009 |
+| 2026-11-14 20:09:14 | [1997 Billboard Music Awards](https://en.wikipedia.org/wiki/1997_Billboard_Music_Awards) | [Kittystyler](https://en.wikipedia.org/wiki/User:Kittystyler) | 4,984 |
+| 2026-11-14 20:13:52 | [Shannon Welsh](https://en.wikipedia.org/wiki/Shannon_Welsh) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,402 |
+| 2026-11-14 20:15:32 | [Kuwait at the 2028 Summer Olympics](https://en.wikipedia.org/wiki/Kuwait_at_the_2028_Summer_Olympics) | [ML2026](https://en.wikipedia.org/wiki/User:ML2026) | 2,681 |
+| 2026-11-14 20:17:36 | [Olivia Miller](https://en.wikipedia.org/wiki/Olivia_Miller) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,434 |
+| 2026-11-14 20:17:36 | [Belarusians in Poznań](https://en.wikipedia.org/wiki/Belarusians_in_Pozna%C5%84) | [Go6rbI](https://en.wikipedia.org/wiki/User:Go6rbI) | 47,364 |
