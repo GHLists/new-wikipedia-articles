@@ -13,53 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-13 23:18 UTC](data/en/new-articles-2026-11-13T23-18-55Z.csv) | 21 |
-| Japanese | `ja` | [2026-11-13 23:18 UTC](data/ja/new-articles-2026-11-13T23-18-55Z.csv) | 5 |
-| Chinese | `zh` | [2026-11-13 22:21 UTC](data/zh/new-articles-2026-11-13T22-21-34Z.csv) | 3 |
-| French | `fr` | [2026-11-13 23:18 UTC](data/fr/new-articles-2026-11-13T23-18-55Z.csv) | 11 |
-| German | `de` | [2026-11-13 23:18 UTC](data/de/new-articles-2026-11-13T23-18-55Z.csv) | 6 |
-| Russian | `ru` | [2026-11-13 23:18 UTC](data/ru/new-articles-2026-11-13T23-18-55Z.csv) | 8 |
-| Spanish | `es` | [2026-11-13 23:18 UTC](data/es/new-articles-2026-11-13T23-18-55Z.csv) | 7 |
-| Italian | `it` | [2026-11-13 23:18 UTC](data/it/new-articles-2026-11-13T23-18-55Z.csv) | 6 |
-| Portuguese | `pt` | [2026-11-13 23:18 UTC](data/pt/new-articles-2026-11-13T23-18-55Z.csv) | 7 |
-| Polish | `pl` | [2026-11-13 23:18 UTC](data/pl/new-articles-2026-11-13T23-18-55Z.csv) | 2 |
-| Arabic | `ar` | [2026-11-13 23:18 UTC](data/ar/new-articles-2026-11-13T23-18-55Z.csv) | 6 |
-| Persian | `fa` | [2026-11-13 23:18 UTC](data/fa/new-articles-2026-11-13T23-18-55Z.csv) | 7 |
-| Turkish | `tr` | [2026-11-13 23:18 UTC](data/tr/new-articles-2026-11-13T23-18-55Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-13 23:18 UTC](data/he/new-articles-2026-11-13T23-18-55Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-13 23:18 UTC](data/sv/new-articles-2026-11-13T23-18-55Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-13 23:18 UTC](data/nl/new-articles-2026-11-13T23-18-55Z.csv) | 1 |
-| Korean | `ko` | [2026-11-13 23:18 UTC](data/ko/new-articles-2026-11-13T23-18-55Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-13 20:22 UTC](data/id/new-articles-2026-11-13T20-22-17Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-13 23:18 UTC](data/uk/new-articles-2026-11-13T23-18-55Z.csv) | 6 |
+| English | `en` | [2026-11-14 00:18 UTC](data/en/new-articles-2026-11-14T00-18-57Z.csv) | 13 |
+| Japanese | `ja` | [2026-11-14 00:18 UTC](data/ja/new-articles-2026-11-14T00-18-57Z.csv) | 11 |
+| Chinese | `zh` | [2026-11-14 00:18 UTC](data/zh/new-articles-2026-11-14T00-18-57Z.csv) | 1 |
+| French | `fr` | [2026-11-14 00:18 UTC](data/fr/new-articles-2026-11-14T00-18-57Z.csv) | 5 |
+| German | `de` | [2026-11-14 00:18 UTC](data/de/new-articles-2026-11-14T00-18-57Z.csv) | 9 |
+| Russian | `ru` | [2026-11-14 00:18 UTC](data/ru/new-articles-2026-11-14T00-18-57Z.csv) | 6 |
+| Spanish | `es` | [2026-11-14 00:18 UTC](data/es/new-articles-2026-11-14T00-18-57Z.csv) | 4 |
+| Italian | `it` | [2026-11-14 00:18 UTC](data/it/new-articles-2026-11-14T00-18-57Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-14 00:18 UTC](data/pt/new-articles-2026-11-14T00-18-57Z.csv) | 10 |
+| Polish | `pl` | [2026-11-14 00:18 UTC](data/pl/new-articles-2026-11-14T00-18-57Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-14 00:18 UTC](data/ar/new-articles-2026-11-14T00-18-57Z.csv) | 3 |
+| Persian | `fa` | [2026-11-14 00:18 UTC](data/fa/new-articles-2026-11-14T00-18-57Z.csv) | 1 |
+| Turkish | `tr` | [2026-11-14 00:18 UTC](data/tr/new-articles-2026-11-14T00-18-57Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-14 00:18 UTC](data/he/new-articles-2026-11-14T00-18-57Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-14 00:18 UTC](data/sv/new-articles-2026-11-14T00-18-57Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-14 00:18 UTC](data/nl/new-articles-2026-11-14T00-18-57Z.csv) | 2 |
+| Korean | `ko` | [2026-11-14 00:18 UTC](data/ko/new-articles-2026-11-14T00-18-57Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-14 00:18 UTC](data/id/new-articles-2026-11-14T00-18-57Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-14 00:18 UTC](data/uk/new-articles-2026-11-14T00-18-57Z.csv) | 6 |
 | Vietnamese | `vi` | [2026-11-13 17:18 UTC](data/vi/new-articles-2026-11-13T17-18-58Z.csv) | 3 |
 
-## English (en) — 2026-11-13 23:18 UTC
+## English (en) — 2026-11-14 00:18 UTC
 
-New articles created between 2026-11-13 22:21 UTC and 2026-11-13 23:18 UTC.
+New articles created between 2026-11-13 23:18 UTC and 2026-11-14 00:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-13T23-18-55Z.csv)
+[Full CSV](data/en/new-articles-2026-11-14T00-18-57Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-13 22:24:27 | [John Dickson (physician)](https://en.wikipedia.org/wiki/John_Dickson_%28physician%29) | [Seasider53](https://en.wikipedia.org/wiki/User:Seasider53) | 3,242 |
-| 2026-11-13 22:27:13 | [Andro Babić](https://en.wikipedia.org/wiki/Andro_Babi%C4%87) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 3,526 |
-| 2026-11-13 22:29:50 | [Giandante X](https://en.wikipedia.org/wiki/Giandante_X) | [Murray Nozick](https://en.wikipedia.org/wiki/User:Murray_Nozick) | 22,679 |
-| 2026-11-13 22:30:08 | [Theo Ketelaar](https://en.wikipedia.org/wiki/Theo_Ketelaar) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 10,518 |
-| 2026-11-13 22:36:49 | [Eugène Ewald](https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ewald) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 8,176 |
-| 2026-11-13 22:42:20 | [Antonius van der Linde](https://en.wikipedia.org/wiki/Antonius_van_der_Linde) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 7,395 |
-| 2026-11-13 22:43:03 | [2026–27 Vanderbilt Commodores men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Vanderbilt_Commodores_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 49,176 |
-| 2026-11-13 22:48:06 | [Yahshi Khan of Karaman](https://en.wikipedia.org/wiki/Yahshi_Khan_of_Karaman) | [Sezgin Avşar](https://en.wikipedia.org/wiki/User:Sezgin_Av%C5%9Far) | 1,524 |
-| 2026-11-13 22:48:44 | [Russian corvette Zeleny Dol](https://en.wikipedia.org/wiki/Russian_corvette_Zeleny_Dol) | [Thefakeslimshady777](https://en.wikipedia.org/wiki/User:Thefakeslimshady777) | 4,738 |
-| 2026-11-13 22:48:56 | [Jimmy Phelps](https://en.wikipedia.org/wiki/Jimmy_Phelps) | [Kyle4344](https://en.wikipedia.org/wiki/User:Kyle4344) | 5,543 |
-| 2026-11-13 22:49:21 | [2016 FIA FR World Cup](https://en.wikipedia.org/wiki/2016_FIA_FR_World_Cup) | [MSport1005](https://en.wikipedia.org/wiki/User:MSport1005) | 35 |
-| 2026-11-13 22:50:01 | [Negro World/Bibliography](https://en.wikipedia.org/wiki/Negro_World/Bibliography) | [Dizzle2008](https://en.wikipedia.org/wiki/User:Dizzle2008) | 431 |
-| 2026-11-13 22:54:41 | [Wagga Football League](https://en.wikipedia.org/wiki/Wagga_Football_League) | [Mrchikkin](https://en.wikipedia.org/wiki/User:Mrchikkin) | 29,462 |
-| 2026-11-13 22:56:38 | [Lumiar Studios](https://en.wikipedia.org/wiki/Lumiar_Studios) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 18,702 |
-| 2026-11-13 22:58:28 | [Aria busambarensis](https://en.wikipedia.org/wiki/Aria_busambarensis) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 8,950 |
-| 2026-11-13 23:01:54 | [Metropolitan Police Committee](https://en.wikipedia.org/wiki/Metropolitan_Police_Committee) | [UrbaniteMunicipalist](https://en.wikipedia.org/wiki/User:UrbaniteMunicipalist) | 4,102 |
-| 2026-11-13 23:02:10 | [Ennio Belelli](https://en.wikipedia.org/wiki/Ennio_Belelli) | [Murray Nozick](https://en.wikipedia.org/wiki/User:Murray_Nozick) | 17,535 |
-| 2026-11-13 23:06:23 | [2026–27 South Carolina Gamecocks men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_South_Carolina_Gamecocks_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 51,730 |
-| 2026-11-13 23:14:41 | [HWPriceGuide](https://en.wikipedia.org/wiki/HWPriceGuide) | [RLCplacidlakeview](https://en.wikipedia.org/wiki/User:RLCplacidlakeview) | 254 |
-| 2026-11-13 23:15:24 | [Russian corvette Vyshniy Volochyok](https://en.wikipedia.org/wiki/Russian_corvette_Vyshniy_Volochyok) | [Thefakeslimshady777](https://en.wikipedia.org/wiki/User:Thefakeslimshady777) | 5,012 |
-| 2026-11-13 23:18:44 | [Blackview](https://en.wikipedia.org/wiki/Blackview) | [Buster Baxter](https://en.wikipedia.org/wiki/User:Buster_Baxter) | 2,611 |
+| 2026-11-13 23:20:14 | [2026–27 Texas A&M Aggies men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Texas_A%26M_Aggies_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 49,058 |
+| 2026-11-13 23:21:33 | [Bryan Goldberg (politician)](https://en.wikipedia.org/wiki/Bryan_Goldberg_%28politician%29) | [TheCustodian0fIvalice](https://en.wikipedia.org/wiki/User:TheCustodian0fIvalice) | 3,834 |
+| 2026-11-13 23:22:48 | [Odile Liboiron-Ladouceur](https://en.wikipedia.org/wiki/Odile_Liboiron-Ladouceur) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 3,216 |
+| 2026-11-13 23:27:24 | [Synhoria](https://en.wikipedia.org/wiki/Synhoria) | [Roy Bateman](https://en.wikipedia.org/wiki/User:Roy_Bateman) | 1,783 |
+| 2026-11-13 23:31:27 | [Felix Sosa-Camejo](https://en.wikipedia.org/wiki/Felix_Sosa-Camejo) | [Turtlewithabaseball](https://en.wikipedia.org/wiki/User:Turtlewithabaseball) | 3,120 |
+| 2026-11-13 23:49:53 | [2026–27 Louisiana–Monroe Warhawks men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Louisiana%E2%80%93Monroe_Warhawks_men%27s_basketball_team) | [Mikecamdo](https://en.wikipedia.org/wiki/User:Mikecamdo) | 42,747 |
+| 2026-11-13 23:52:15 | [Newtek Bank](https://en.wikipedia.org/wiki/Newtek_Bank) | [FaithConners05](https://en.wikipedia.org/wiki/User:FaithConners05) | 5,249 |
+| 2026-11-13 23:52:19 | [Strategic Management of Airspace, Routes and Trajectories](https://en.wikipedia.org/wiki/Strategic_Management_of_Airspace%2C_Routes_and_Trajectories) | [Kencf0618](https://en.wikipedia.org/wiki/User:Kencf0618) | 271 |
+| 2026-11-14 00:03:11 | [Carrollton station](https://en.wikipedia.org/wiki/Carrollton_station) | [Tick bonk](https://en.wikipedia.org/wiki/User:Tick_bonk) | 1,869 |
+| 2026-11-14 00:04:28 | [Jose Angel Guerra Mendez](https://en.wikipedia.org/wiki/Jose_Angel_Guerra_Mendez) | [MajorFelloww](https://en.wikipedia.org/wiki/User:MajorFelloww) | 3,535 |
+| 2026-11-14 00:06:01 | [Mark Ten](https://en.wikipedia.org/wiki/Mark_Ten) | [AnyaPoletti](https://en.wikipedia.org/wiki/User:AnyaPoletti) | 7,613 |
+| 2026-11-14 00:07:59 | [Louisiana SPCA](https://en.wikipedia.org/wiki/Louisiana_SPCA) | [WhisperToMe](https://en.wikipedia.org/wiki/User:WhisperToMe) | 3,491 |
+| 2026-11-14 00:10:53 | [Sarum Master](https://en.wikipedia.org/wiki/Sarum_Master) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 3,137 |
