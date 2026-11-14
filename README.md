@@ -13,57 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-14 18:20 UTC](data/en/new-articles-2026-11-14T18-20-23Z.csv) | 25 |
-| Japanese | `ja` | [2026-11-14 18:20 UTC](data/ja/new-articles-2026-11-14T18-20-23Z.csv) | 2 |
-| Chinese | `zh` | [2026-11-14 18:20 UTC](data/zh/new-articles-2026-11-14T18-20-23Z.csv) | 5 |
-| French | `fr` | [2026-11-14 18:20 UTC](data/fr/new-articles-2026-11-14T18-20-23Z.csv) | 10 |
-| German | `de` | [2026-11-14 18:20 UTC](data/de/new-articles-2026-11-14T18-20-23Z.csv) | 16 |
-| Russian | `ru` | [2026-11-14 18:20 UTC](data/ru/new-articles-2026-11-14T18-20-23Z.csv) | 25 |
-| Spanish | `es` | [2026-11-14 18:20 UTC](data/es/new-articles-2026-11-14T18-20-23Z.csv) | 9 |
-| Italian | `it` | [2026-11-14 18:20 UTC](data/it/new-articles-2026-11-14T18-20-23Z.csv) | 11 |
-| Portuguese | `pt` | [2026-11-14 18:20 UTC](data/pt/new-articles-2026-11-14T18-20-23Z.csv) | 12 |
-| Polish | `pl` | [2026-11-14 18:20 UTC](data/pl/new-articles-2026-11-14T18-20-23Z.csv) | 12 |
-| Arabic | `ar` | [2026-11-14 18:20 UTC](data/ar/new-articles-2026-11-14T18-20-23Z.csv) | 5 |
-| Persian | `fa` | [2026-11-14 18:20 UTC](data/fa/new-articles-2026-11-14T18-20-23Z.csv) | 1 |
-| Turkish | `tr` | [2026-11-14 18:20 UTC](data/tr/new-articles-2026-11-14T18-20-23Z.csv) | 4 |
-| Hebrew | `he` | [2026-11-14 18:20 UTC](data/he/new-articles-2026-11-14T18-20-23Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-14 18:20 UTC](data/sv/new-articles-2026-11-14T18-20-23Z.csv) | 9 |
-| Dutch | `nl` | [2026-11-14 18:20 UTC](data/nl/new-articles-2026-11-14T18-20-23Z.csv) | 5 |
+| English | `en` | [2026-11-14 19:19 UTC](data/en/new-articles-2026-11-14T19-19-03Z.csv) | 27 |
+| Japanese | `ja` | [2026-11-14 19:19 UTC](data/ja/new-articles-2026-11-14T19-19-03Z.csv) | 2 |
+| Chinese | `zh` | [2026-11-14 19:19 UTC](data/zh/new-articles-2026-11-14T19-19-03Z.csv) | 4 |
+| French | `fr` | [2026-11-14 19:19 UTC](data/fr/new-articles-2026-11-14T19-19-03Z.csv) | 15 |
+| German | `de` | [2026-11-14 19:19 UTC](data/de/new-articles-2026-11-14T19-19-03Z.csv) | 3 |
+| Russian | `ru` | [2026-11-14 19:19 UTC](data/ru/new-articles-2026-11-14T19-19-03Z.csv) | 9 |
+| Spanish | `es` | [2026-11-14 19:19 UTC](data/es/new-articles-2026-11-14T19-19-03Z.csv) | 18 |
+| Italian | `it` | [2026-11-14 19:19 UTC](data/it/new-articles-2026-11-14T19-19-03Z.csv) | 7 |
+| Portuguese | `pt` | [2026-11-14 19:19 UTC](data/pt/new-articles-2026-11-14T19-19-03Z.csv) | 8 |
+| Polish | `pl` | [2026-11-14 19:19 UTC](data/pl/new-articles-2026-11-14T19-19-03Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-14 19:19 UTC](data/ar/new-articles-2026-11-14T19-19-03Z.csv) | 6 |
+| Persian | `fa` | [2026-11-14 19:19 UTC](data/fa/new-articles-2026-11-14T19-19-03Z.csv) | 9 |
+| Turkish | `tr` | [2026-11-14 19:19 UTC](data/tr/new-articles-2026-11-14T19-19-03Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-14 19:19 UTC](data/he/new-articles-2026-11-14T19-19-03Z.csv) | 5 |
+| Swedish | `sv` | [2026-11-14 19:19 UTC](data/sv/new-articles-2026-11-14T19-19-03Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-14 19:19 UTC](data/nl/new-articles-2026-11-14T19-19-03Z.csv) | 3 |
 | Korean | `ko` | [2026-11-14 17:21 UTC](data/ko/new-articles-2026-11-14T17-21-57Z.csv) | 2 |
 | Indonesian | `id` | [2026-11-14 18:20 UTC](data/id/new-articles-2026-11-14T18-20-23Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-14 18:20 UTC](data/uk/new-articles-2026-11-14T18-20-23Z.csv) | 12 |
+| Ukrainian | `uk` | [2026-11-14 19:19 UTC](data/uk/new-articles-2026-11-14T19-19-03Z.csv) | 23 |
 | Vietnamese | `vi` | [2026-11-14 17:21 UTC](data/vi/new-articles-2026-11-14T17-21-57Z.csv) | 2 |
 
-## English (en) — 2026-11-14 18:20 UTC
+## English (en) — 2026-11-14 19:19 UTC
 
-New articles created between 2026-11-14 17:21 UTC and 2026-11-14 18:20 UTC.
+New articles created between 2026-11-14 18:20 UTC and 2026-11-14 19:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-14T18-20-23Z.csv)
+[Full CSV](data/en/new-articles-2026-11-14T19-19-03Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-14 17:22:15 | [Port Harcourt International Marathon](https://en.wikipedia.org/wiki/Port_Harcourt_International_Marathon) | [Andikan Efiok Eduok](https://en.wikipedia.org/wiki/User:Andikan_Efiok_Eduok) | 725 |
-| 2026-11-14 17:22:47 | [2026–27 Air Force Falcons women's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Air_Force_Falcons_women%27s_basketball_team) | [Colorado001](https://en.wikipedia.org/wiki/User:Colorado001) | 23,798 |
-| 2026-11-14 17:24:59 | [Ladakh Autonomous Hill Development Council, Sham](https://en.wikipedia.org/wiki/Ladakh_Autonomous_Hill_Development_Council%2C_Sham) | [Rajavijay56](https://en.wikipedia.org/wiki/User:Rajavijay56) | 3,311 |
-| 2026-11-14 17:31:25 | [Avtandil Nariashvili](https://en.wikipedia.org/wiki/Avtandil_Nariashvili) | [Zurabalomtadze](https://en.wikipedia.org/wiki/User:Zurabalomtadze) | 2,845 |
-| 2026-11-14 17:33:07 | [Pons Maior](https://en.wikipedia.org/wiki/Pons_Maior) | [Plumbago Capensis](https://en.wikipedia.org/wiki/User:Plumbago_Capensis) | 3,000 |
-| 2026-11-14 17:37:51 | [Libstar](https://en.wikipedia.org/wiki/Libstar) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 12,286 |
-| 2026-11-14 17:38:19 | [Hungarian Protestant Congregation of Belgium](https://en.wikipedia.org/wiki/Hungarian_Protestant_Congregation_of_Belgium) | [Dominicus347](https://en.wikipedia.org/wiki/User:Dominicus347) | 2,009 |
-| 2026-11-14 17:39:03 | [Ice Billion Berg](https://en.wikipedia.org/wiki/Ice_Billion_Berg) | [Malcolmhendy](https://en.wikipedia.org/wiki/User:Malcolmhendy) | 2 |
-| 2026-11-14 17:43:10 | [USCGC Wahoo](https://en.wikipedia.org/wiki/USCGC_Wahoo) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 7,582 |
-| 2026-11-14 17:44:31 | [The vivaparous quadrupeds of North America](https://en.wikipedia.org/wiki/The_vivaparous_quadrupeds_of_North_America) | [Jengod](https://en.wikipedia.org/wiki/User:Jengod) | 561 |
-| 2026-11-14 17:45:33 | [Listed buildings in Kingston upon Hull (University Ward)](https://en.wikipedia.org/wiki/Listed_buildings_in_Kingston_upon_Hull_%28University_Ward%29) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 34,369 |
-| 2026-11-14 17:46:00 | [Hôtel de Ville, Saint-Dié-des-Vosges](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Saint-Di%C3%A9-des-Vosges) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 7,871 |
-| 2026-11-14 17:47:57 | [Johanna Preinstorfer](https://en.wikipedia.org/wiki/Johanna_Preinstorfer) | [Scanlan](https://en.wikipedia.org/wiki/User:Scanlan) | 5,187 |
-| 2026-11-14 17:53:57 | [August Mayer](https://en.wikipedia.org/wiki/August_Mayer) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 387 |
-| 2026-11-14 17:58:03 | [2026 Criciúma Esporte Clube season](https://en.wikipedia.org/wiki/2026_Crici%C3%BAma_Esporte_Clube_season) | [Sakiv](https://en.wikipedia.org/wiki/User:Sakiv) | 5,499 |
-| 2026-11-14 17:59:32 | [Massachusetts historical markers](https://en.wikipedia.org/wiki/Massachusetts_historical_markers) | [Dmoore5556](https://en.wikipedia.org/wiki/User:Dmoore5556) | 3,748 |
-| 2026-11-14 18:08:06 | [Listed buildings in Kingston upon Hull](https://en.wikipedia.org/wiki/Listed_buildings_in_Kingston_upon_Hull) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 1,527 |
-| 2026-11-14 18:09:12 | [USCGC Ahi](https://en.wikipedia.org/wiki/USCGC_Ahi) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 6,582 |
-| 2026-11-14 18:09:32 | [Whitman Fighting Missionaries football, 1900–1909](https://en.wikipedia.org/wiki/Whitman_Fighting_Missionaries_football%2C_1900%E2%80%931909) | [PK-WIKI](https://en.wikipedia.org/wiki/User:PK-WIKI) | 672 |
-| 2026-11-14 18:09:33 | [Samuel Deering](https://en.wikipedia.org/wiki/Samuel_Deering) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,435 |
-| 2026-11-14 18:10:58 | [Harry Denesha](https://en.wikipedia.org/wiki/Harry_Denesha) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 6,186 |
-| 2026-11-14 18:11:41 | [Carl Gonzenbach](https://en.wikipedia.org/wiki/Carl_Gonzenbach) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 306 |
-| 2026-11-14 18:13:57 | [Lawrence Schissel](https://en.wikipedia.org/wiki/Lawrence_Schissel) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,450 |
-| 2026-11-14 18:15:22 | [Kuwait at the 2026 Asian Para Games](https://en.wikipedia.org/wiki/Kuwait_at_the_2026_Asian_Para_Games) | [Jn045](https://en.wikipedia.org/wiki/User:Jn045) | 17,280 |
-| 2026-11-14 18:18:55 | [Isaac Fernandez](https://en.wikipedia.org/wiki/Isaac_Fernandez) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,450 |
+| 2026-11-14 18:23:10 | [Malachi Sharpe](https://en.wikipedia.org/wiki/Malachi_Sharpe) | [Gri3720](https://en.wikipedia.org/wiki/User:Gri3720) | 4,026 |
+| 2026-11-14 18:24:36 | [Steve Ingram (American football)](https://en.wikipedia.org/wiki/Steve_Ingram_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,632 |
+| 2026-11-14 18:26:42 | [Nathan Giffard](https://en.wikipedia.org/wiki/Nathan_Giffard) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,441 |
+| 2026-11-14 18:31:15 | [Shaidai](https://en.wikipedia.org/wiki/Shaidai) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,301 |
+| 2026-11-14 18:32:22 | [Lucas Coriaty](https://en.wikipedia.org/wiki/Lucas_Coriaty) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,436 |
+| 2026-11-14 18:32:23 | [Echepolus](https://en.wikipedia.org/wiki/Echepolus) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 1,189 |
+| 2026-11-14 18:32:29 | [Harrie Kuster](https://en.wikipedia.org/wiki/Harrie_Kuster) | [Bocanegra](https://en.wikipedia.org/wiki/User:Bocanegra) | 12,552 |
+| 2026-11-14 18:32:46 | [PicPay](https://en.wikipedia.org/wiki/PicPay) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 3,279 |
+| 2026-11-14 18:34:19 | [Agustín Barrios Gómez Méndez](https://en.wikipedia.org/wiki/Agust%C3%ADn_Barrios_G%C3%B3mez_M%C3%A9ndez) | [Keizers](https://en.wikipedia.org/wiki/User:Keizers) | 9,087 |
+| 2026-11-14 18:36:34 | [Kathryn Brennan](https://en.wikipedia.org/wiki/Kathryn_Brennan) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,589 |
+| 2026-11-14 18:39:27 | [Carl Huth](https://en.wikipedia.org/wiki/Carl_Huth) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 219 |
+| 2026-11-14 18:41:14 | [Strutwear Knitting Company Building](https://en.wikipedia.org/wiki/Strutwear_Knitting_Company_Building) | [SusanLesch](https://en.wikipedia.org/wiki/User:SusanLesch) | 2,282 |
+| 2026-11-14 18:45:54 | [Morikichi Otake](https://en.wikipedia.org/wiki/Morikichi_Otake) | [Metalune](https://en.wikipedia.org/wiki/User:Metalune) | 2,931 |
+| 2026-11-14 18:51:07 | [Richard Umiker](https://en.wikipedia.org/wiki/Richard_Umiker) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,435 |
+| 2026-11-14 18:51:08 | [Opuntia pubescens](https://en.wikipedia.org/wiki/Opuntia_pubescens) | [Gaiacoyote](https://en.wikipedia.org/wiki/User:Gaiacoyote) | 16,678 |
+| 2026-11-14 18:51:48 | [1861 Manchester City Council election](https://en.wikipedia.org/wiki/1861_Manchester_City_Council_election) | [JoeKramer04](https://en.wikipedia.org/wiki/User:JoeKramer04) | 12,113 |
+| 2026-11-14 19:02:36 | [Holly Jeffreys](https://en.wikipedia.org/wiki/Holly_Jeffreys) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,570 |
+| 2026-11-14 19:04:20 | [2026 World U-17 Hockey Challenge](https://en.wikipedia.org/wiki/2026_World_U-17_Hockey_Challenge) | [Zumikos](https://en.wikipedia.org/wiki/User:Zumikos) | 5,078 |
+| 2026-11-14 19:05:57 | [2026 World Triathlon Duathlon Championships](https://en.wikipedia.org/wiki/2026_World_Triathlon_Duathlon_Championships) | [Mpjmcevoybeta](https://en.wikipedia.org/wiki/User:Mpjmcevoybeta) | 14,102 |
+| 2026-11-14 19:10:16 | [Melencolia Estatica](https://en.wikipedia.org/wiki/Melencolia_Estatica) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 3,892 |
+| 2026-11-14 19:14:48 | [2026–27 in Egyptian football](https://en.wikipedia.org/wiki/2026%E2%80%9327_in_Egyptian_football) | [Mohamedmokhtar22](https://en.wikipedia.org/wiki/User:Mohamedmokhtar22) | 52,460 |
+| 2026-11-14 19:18:15 | [Heerbrugg](https://en.wikipedia.org/wiki/Heerbrugg) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,490 |
+| 2026-11-14 19:18:18 | [Old Lands (Fribourg)](https://en.wikipedia.org/wiki/Old_Lands_%28Fribourg%29) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,041 |
+| 2026-11-14 19:18:21 | [Karl Joseph Ringold](https://en.wikipedia.org/wiki/Karl_Joseph_Ringold) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,464 |
+| 2026-11-14 19:18:23 | [Wilhelm Joos](https://en.wikipedia.org/wiki/Wilhelm_Joos) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 5,787 |
+| 2026-11-14 19:18:26 | [Claudius Cantiuncula](https://en.wikipedia.org/wiki/Claudius_Cantiuncula) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 4,610 |
+| 2026-11-14 19:18:29 | [Eduard Pfyffer](https://en.wikipedia.org/wiki/Eduard_Pfyffer) | [7804j](https://en.wikipedia.org/wiki/User:7804j) | 5,146 |
