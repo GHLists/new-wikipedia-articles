@@ -13,47 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-15 10:21 UTC](data/en/new-articles-2026-11-15T10-21-15Z.csv) | 15 |
-| Japanese | `ja` | [2026-11-15 10:21 UTC](data/ja/new-articles-2026-11-15T10-21-15Z.csv) | 9 |
-| Chinese | `zh` | [2026-11-15 10:21 UTC](data/zh/new-articles-2026-11-15T10-21-15Z.csv) | 22 |
-| French | `fr` | [2026-11-15 10:21 UTC](data/fr/new-articles-2026-11-15T10-21-15Z.csv) | 7 |
-| German | `de` | [2026-11-15 10:21 UTC](data/de/new-articles-2026-11-15T10-21-15Z.csv) | 16 |
-| Russian | `ru` | [2026-11-15 10:21 UTC](data/ru/new-articles-2026-11-15T10-21-15Z.csv) | 12 |
-| Spanish | `es` | [2026-11-15 10:21 UTC](data/es/new-articles-2026-11-15T10-21-15Z.csv) | 5 |
-| Italian | `it` | [2026-11-15 10:21 UTC](data/it/new-articles-2026-11-15T10-21-15Z.csv) | 3 |
-| Portuguese | `pt` | [2026-11-15 09:20 UTC](data/pt/new-articles-2026-11-15T09-20-55Z.csv) | 3 |
-| Polish | `pl` | [2026-11-15 10:21 UTC](data/pl/new-articles-2026-11-15T10-21-15Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-15 10:21 UTC](data/ar/new-articles-2026-11-15T10-21-15Z.csv) | 4 |
-| Persian | `fa` | [2026-11-15 10:21 UTC](data/fa/new-articles-2026-11-15T10-21-15Z.csv) | 7 |
-| Turkish | `tr` | [2026-11-15 10:21 UTC](data/tr/new-articles-2026-11-15T10-21-15Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-15 09:20 UTC](data/he/new-articles-2026-11-15T09-20-55Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-15 10:21 UTC](data/sv/new-articles-2026-11-15T10-21-15Z.csv) | 5 |
-| Dutch | `nl` | [2026-11-15 10:21 UTC](data/nl/new-articles-2026-11-15T10-21-15Z.csv) | 6 |
-| Korean | `ko` | [2026-11-15 10:21 UTC](data/ko/new-articles-2026-11-15T10-21-15Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-15 10:21 UTC](data/id/new-articles-2026-11-15T10-21-15Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-11-15 10:21 UTC](data/uk/new-articles-2026-11-15T10-21-15Z.csv) | 10 |
-| Vietnamese | `vi` | [2026-11-15 10:21 UTC](data/vi/new-articles-2026-11-15T10-21-15Z.csv) | 26 |
+| English | `en` | [2026-11-15 11:19 UTC](data/en/new-articles-2026-11-15T11-19-35Z.csv) | 14 |
+| Japanese | `ja` | [2026-11-15 11:19 UTC](data/ja/new-articles-2026-11-15T11-19-35Z.csv) | 12 |
+| Chinese | `zh` | [2026-11-15 11:19 UTC](data/zh/new-articles-2026-11-15T11-19-35Z.csv) | 16 |
+| French | `fr` | [2026-11-15 11:19 UTC](data/fr/new-articles-2026-11-15T11-19-35Z.csv) | 8 |
+| German | `de` | [2026-11-15 11:19 UTC](data/de/new-articles-2026-11-15T11-19-35Z.csv) | 10 |
+| Russian | `ru` | [2026-11-15 11:19 UTC](data/ru/new-articles-2026-11-15T11-19-35Z.csv) | 13 |
+| Spanish | `es` | [2026-11-15 11:19 UTC](data/es/new-articles-2026-11-15T11-19-35Z.csv) | 8 |
+| Italian | `it` | [2026-11-15 11:19 UTC](data/it/new-articles-2026-11-15T11-19-35Z.csv) | 7 |
+| Portuguese | `pt` | [2026-11-15 11:19 UTC](data/pt/new-articles-2026-11-15T11-19-35Z.csv) | 2 |
+| Polish | `pl` | [2026-11-15 11:19 UTC](data/pl/new-articles-2026-11-15T11-19-35Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-15 11:19 UTC](data/ar/new-articles-2026-11-15T11-19-35Z.csv) | 4 |
+| Persian | `fa` | [2026-11-15 11:19 UTC](data/fa/new-articles-2026-11-15T11-19-35Z.csv) | 11 |
+| Turkish | `tr` | [2026-11-15 11:19 UTC](data/tr/new-articles-2026-11-15T11-19-35Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-15 11:19 UTC](data/he/new-articles-2026-11-15T11-19-35Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-15 11:19 UTC](data/sv/new-articles-2026-11-15T11-19-35Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-15 11:19 UTC](data/nl/new-articles-2026-11-15T11-19-35Z.csv) | 2 |
+| Korean | `ko` | [2026-11-15 11:19 UTC](data/ko/new-articles-2026-11-15T11-19-35Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-15 11:19 UTC](data/id/new-articles-2026-11-15T11-19-35Z.csv) | 13 |
+| Ukrainian | `uk` | [2026-11-15 11:19 UTC](data/uk/new-articles-2026-11-15T11-19-35Z.csv) | 23 |
+| Vietnamese | `vi` | [2026-11-15 11:19 UTC](data/vi/new-articles-2026-11-15T11-19-35Z.csv) | 3 |
 
-## English (en) — 2026-11-15 10:21 UTC
+## English (en) — 2026-11-15 11:19 UTC
 
-New articles created between 2026-11-15 09:20 UTC and 2026-11-15 10:21 UTC.
+New articles created between 2026-11-15 10:21 UTC and 2026-11-15 11:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-15T10-21-15Z.csv)
+[Full CSV](data/en/new-articles-2026-11-15T11-19-35Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-15 09:22:43 | [Bombay Tailors](https://en.wikipedia.org/wiki/Bombay_Tailors) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,610 |
-| 2026-11-15 09:28:39 | [Masoom (Pakistani TV series)](https://en.wikipedia.org/wiki/Masoom_%28Pakistani_TV_series%29) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,215 |
-| 2026-11-15 09:35:31 | [Lutfi Dalipi](https://en.wikipedia.org/wiki/Lutfi_Dalipi) | [FootballerInTheMaking](https://en.wikipedia.org/wiki/User:FootballerInTheMaking) | 13,467 |
-| 2026-11-15 09:36:41 | [Sharpasand](https://en.wikipedia.org/wiki/Sharpasand) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 4,652 |
-| 2026-11-15 09:40:57 | [Propallorphan](https://en.wikipedia.org/wiki/Propallorphan) | [Oeryc](https://en.wikipedia.org/wiki/User:Oeryc) | 4,957 |
-| 2026-11-15 09:41:57 | [Meschini](https://en.wikipedia.org/wiki/Meschini) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 80 |
-| 2026-11-15 09:43:22 | [Jordan Michael](https://en.wikipedia.org/wiki/Jordan_Michael) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,173 |
-| 2026-11-15 09:46:41 | [Domani (2027 film)](https://en.wikipedia.org/wiki/Domani_%282027_film%29) | [Asqueladd](https://en.wikipedia.org/wiki/User:Asqueladd) | 5,478 |
-| 2026-11-15 09:58:45 | [Xenophrys truongsonensis](https://en.wikipedia.org/wiki/Xenophrys_truongsonensis) | [JHuntphoto](https://en.wikipedia.org/wiki/User:JHuntphoto) | 2,386 |
-| 2026-11-15 09:58:56 | [2026 Marib campaign](https://en.wikipedia.org/wiki/2026_Marib_campaign) | [Kgeo2.0](https://en.wikipedia.org/wiki/User:Kgeo2.0) | 4,198 |
-| 2026-11-15 10:04:02 | [Shaoyang–Yongzhou high-speed railway](https://en.wikipedia.org/wiki/Shaoyang%E2%80%93Yongzhou_high-speed_railway) | [Grahamec](https://en.wikipedia.org/wiki/User:Grahamec) | 7,508 |
-| 2026-11-15 10:09:09 | [Bismil (TV series)](https://en.wikipedia.org/wiki/Bismil_%28TV_series%29) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 5,389 |
-| 2026-11-15 10:11:50 | [4th Kerala Assembly](https://en.wikipedia.org/wiki/4th_Kerala_Assembly) | [TamilSelvan](https://en.wikipedia.org/wiki/User:TamilSelvan) | 10,489 |
-| 2026-11-15 10:16:39 | [Pinus × densithunbergii](https://en.wikipedia.org/wiki/Pinus_%C3%97_densithunbergii) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 1,692 |
-| 2026-11-15 10:20:49 | [The Last Refuge (book)](https://en.wikipedia.org/wiki/The_Last_Refuge_%28book%29) | [Aviationwikiflight](https://en.wikipedia.org/wiki/User:Aviationwikiflight) | 5,680 |
+| 2026-11-15 10:22:40 | [Dominga Capati](https://en.wikipedia.org/wiki/Dominga_Capati) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 3,693 |
+| 2026-11-15 10:30:32 | [Bismil (disambiguation)](https://en.wikipedia.org/wiki/Bismil_%28disambiguation%29) | [Ansgar Slopsbane](https://en.wikipedia.org/wiki/User:Ansgar_Slopsbane) | 413 |
+| 2026-11-15 10:39:49 | [OPzV battery](https://en.wikipedia.org/wiki/OPzV_battery) | [Kofgk](https://en.wikipedia.org/wiki/User:Kofgk) | 10,502 |
+| 2026-11-15 10:42:02 | [Winter Love (TV series)](https://en.wikipedia.org/wiki/Winter_Love_%28TV_series%29) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 2,720 |
+| 2026-11-15 10:42:47 | [List of works by Shunji Iwai](https://en.wikipedia.org/wiki/List_of_works_by_Shunji_Iwai) | [Inmyfuture1321](https://en.wikipedia.org/wiki/User:Inmyfuture1321) | 21,100 |
+| 2026-11-15 10:43:11 | [Xinyi Skyway System](https://en.wikipedia.org/wiki/Xinyi_Skyway_System) | [Saimmx](https://en.wikipedia.org/wiki/User:Saimmx) | 7,067 |
+| 2026-11-15 10:48:24 | [Rutba (TV series)](https://en.wikipedia.org/wiki/Rutba_%28TV_series%29) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,117 |
+| 2026-11-15 10:48:25 | [Tullah Hanley](https://en.wikipedia.org/wiki/Tullah_Hanley) | [Twixister](https://en.wikipedia.org/wiki/User:Twixister) | 17,683 |
+| 2026-11-15 10:52:03 | [Hla Hla Aung](https://en.wikipedia.org/wiki/Hla_Hla_Aung) | [Htanaungg](https://en.wikipedia.org/wiki/User:Htanaungg) | 1,713 |
+| 2026-11-15 10:54:51 | [Main Zameen Tu Aasman](https://en.wikipedia.org/wiki/Main_Zameen_Tu_Aasman) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,348 |
+| 2026-11-15 10:57:06 | [Raqaas](https://en.wikipedia.org/wiki/Raqaas) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 2,184 |
+| 2026-11-15 11:02:38 | [Ahenzae](https://en.wikipedia.org/wiki/Ahenzae) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,039 |
+| 2026-11-15 11:09:36 | [Lying-In Hospital (disambiguation)](https://en.wikipedia.org/wiki/Lying-In_Hospital_%28disambiguation%29) | [Squawk7700](https://en.wikipedia.org/wiki/User:Squawk7700) | 495 |
+| 2026-11-15 11:16:54 | [Let's Try Mohabbat](https://en.wikipedia.org/wiki/Let%27s_Try_Mohabbat) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,052 |
