@@ -13,50 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-14 23:19 UTC](data/en/new-articles-2026-11-14T23-19-05Z.csv) | 18 |
-| Japanese | `ja` | [2026-11-14 23:19 UTC](data/ja/new-articles-2026-11-14T23-19-05Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-14 23:19 UTC](data/zh/new-articles-2026-11-14T23-19-05Z.csv) | 3 |
-| French | `fr` | [2026-11-14 23:19 UTC](data/fr/new-articles-2026-11-14T23-19-05Z.csv) | 6 |
-| German | `de` | [2026-11-14 23:19 UTC](data/de/new-articles-2026-11-14T23-19-05Z.csv) | 11 |
-| Russian | `ru` | [2026-11-14 23:19 UTC](data/ru/new-articles-2026-11-14T23-19-05Z.csv) | 7 |
-| Spanish | `es` | [2026-11-14 23:19 UTC](data/es/new-articles-2026-11-14T23-19-05Z.csv) | 13 |
-| Italian | `it` | [2026-11-14 23:19 UTC](data/it/new-articles-2026-11-14T23-19-05Z.csv) | 2 |
-| Portuguese | `pt` | [2026-11-14 23:19 UTC](data/pt/new-articles-2026-11-14T23-19-05Z.csv) | 6 |
-| Polish | `pl` | [2026-11-14 23:19 UTC](data/pl/new-articles-2026-11-14T23-19-05Z.csv) | 7 |
+| English | `en` | [2026-11-15 00:20 UTC](data/en/new-articles-2026-11-15T00-20-35Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-15 00:20 UTC](data/ja/new-articles-2026-11-15T00-20-35Z.csv) | 9 |
+| Chinese | `zh` | [2026-11-15 00:20 UTC](data/zh/new-articles-2026-11-15T00-20-35Z.csv) | 4 |
+| French | `fr` | [2026-11-15 00:20 UTC](data/fr/new-articles-2026-11-15T00-20-35Z.csv) | 4 |
+| German | `de` | [2026-11-15 00:20 UTC](data/de/new-articles-2026-11-15T00-20-35Z.csv) | 14 |
+| Russian | `ru` | [2026-11-15 00:20 UTC](data/ru/new-articles-2026-11-15T00-20-35Z.csv) | 3 |
+| Spanish | `es` | [2026-11-15 00:20 UTC](data/es/new-articles-2026-11-15T00-20-35Z.csv) | 6 |
+| Italian | `it` | [2026-11-15 00:20 UTC](data/it/new-articles-2026-11-15T00-20-35Z.csv) | 11 |
+| Portuguese | `pt` | [2026-11-15 00:20 UTC](data/pt/new-articles-2026-11-15T00-20-35Z.csv) | 4 |
+| Polish | `pl` | [2026-11-15 00:20 UTC](data/pl/new-articles-2026-11-15T00-20-35Z.csv) | 5 |
 | Arabic | `ar` | [2026-11-14 23:19 UTC](data/ar/new-articles-2026-11-14T23-19-05Z.csv) | 1 |
-| Persian | `fa` | [2026-11-14 23:19 UTC](data/fa/new-articles-2026-11-14T23-19-05Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-14 23:19 UTC](data/tr/new-articles-2026-11-14T23-19-05Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-14 23:19 UTC](data/he/new-articles-2026-11-14T23-19-05Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-14 22:18 UTC](data/sv/new-articles-2026-11-14T22-18-17Z.csv) | 1 |
+| Persian | `fa` | [2026-11-15 00:20 UTC](data/fa/new-articles-2026-11-15T00-20-35Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-15 00:20 UTC](data/tr/new-articles-2026-11-15T00-20-35Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-15 00:20 UTC](data/he/new-articles-2026-11-15T00-20-35Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-15 00:20 UTC](data/sv/new-articles-2026-11-15T00-20-35Z.csv) | 1 |
 | Dutch | `nl` | [2026-11-14 23:19 UTC](data/nl/new-articles-2026-11-14T23-19-05Z.csv) | 4 |
-| Korean | `ko` | [2026-11-14 23:19 UTC](data/ko/new-articles-2026-11-14T23-19-05Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-14 23:19 UTC](data/id/new-articles-2026-11-14T23-19-05Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-14 23:19 UTC](data/uk/new-articles-2026-11-14T23-19-05Z.csv) | 6 |
+| Korean | `ko` | [2026-11-15 00:20 UTC](data/ko/new-articles-2026-11-15T00-20-35Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-15 00:20 UTC](data/id/new-articles-2026-11-15T00-20-35Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-15 00:20 UTC](data/uk/new-articles-2026-11-15T00-20-35Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-11-14 22:18 UTC](data/vi/new-articles-2026-11-14T22-18-17Z.csv) | 1 |
 
-## English (en) — 2026-11-14 23:19 UTC
+## English (en) — 2026-11-15 00:20 UTC
 
-New articles created between 2026-11-14 22:18 UTC and 2026-11-14 23:19 UTC.
+New articles created between 2026-11-14 23:19 UTC and 2026-11-15 00:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-14T23-19-05Z.csv)
+[Full CSV](data/en/new-articles-2026-11-15T00-20-35Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-14 22:19:34 | [Finley Warden](https://en.wikipedia.org/wiki/Finley_Warden) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,361 |
-| 2026-11-14 22:20:35 | [Polyscias mollis](https://en.wikipedia.org/wiki/Polyscias_mollis) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 3,397 |
-| 2026-11-14 22:22:57 | [Alberto Gracia](https://en.wikipedia.org/wiki/Alberto_Gracia) | [Animaliak](https://en.wikipedia.org/wiki/User:Animaliak) | 6,959 |
-| 2026-11-14 22:24:36 | [Felix von Zobel](https://en.wikipedia.org/wiki/Felix_von_Zobel) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,776 |
-| 2026-11-14 22:24:38 | [Shirin Farhad (TV series)](https://en.wikipedia.org/wiki/Shirin_Farhad_%28TV_series%29) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,274 |
-| 2026-11-14 22:30:17 | [Saena Omar Shalhout](https://en.wikipedia.org/wiki/Saena_Omar_Shalhout) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,301 |
-| 2026-11-14 22:33:40 | [DKW 3-cylinder 2-stoke liquid-cooled engine](https://en.wikipedia.org/wiki/DKW_3-cylinder_2-stoke_liquid-cooled_engine) | [Kunszabo](https://en.wikipedia.org/wiki/User:Kunszabo) | 2,444 |
-| 2026-11-14 22:35:29 | [2027 in Misfits Boxing and MF Pro](https://en.wikipedia.org/wiki/2027_in_Misfits_Boxing_and_MF_Pro) | [GhaziTwaissi](https://en.wikipedia.org/wiki/User:GhaziTwaissi) | 3,595 |
-| 2026-11-14 22:37:39 | [Mohabbat Mukhtasir](https://en.wikipedia.org/wiki/Mohabbat_Mukhtasir) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 2,131 |
-| 2026-11-14 22:47:06 | [Jerobeam Salakyttä Team](https://en.wikipedia.org/wiki/Jerobeam_Salakytt%C3%A4_Team) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,356 |
-| 2026-11-14 22:47:10 | [St. Louis County Department of Public Health](https://en.wikipedia.org/wiki/St._Louis_County_Department_of_Public_Health) | [WhisperToMe](https://en.wikipedia.org/wiki/User:WhisperToMe) | 3,234 |
-| 2026-11-14 22:47:38 | [Hôtel de Ville, Bois-Guillaume](https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville%2C_Bois-Guillaume) | [Dormskirk](https://en.wikipedia.org/wiki/User:Dormskirk) | 6,394 |
-| 2026-11-14 22:53:57 | [Ignácio de Loiola Alvares Nogueira Neto](https://en.wikipedia.org/wiki/Ign%C3%A1cio_de_Loiola_Alvares_Nogueira_Neto) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 6,907 |
-| 2026-11-14 22:58:23 | [Dan Ackman (Lawyer)](https://en.wikipedia.org/wiki/Dan_Ackman_%28Lawyer%29) | [Andyugral](https://en.wikipedia.org/wiki/User:Andyugral) | 8,172 |
-| 2026-11-14 23:04:54 | [Marian Fell](https://en.wikipedia.org/wiki/Marian_Fell) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 42 |
-| 2026-11-14 23:08:48 | [Polyscias australiana](https://en.wikipedia.org/wiki/Polyscias_australiana) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 3,239 |
-| 2026-11-14 23:12:50 | [Gala Veldhoen](https://en.wikipedia.org/wiki/Gala_Veldhoen) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 5,037 |
-| 2026-11-14 23:18:03 | [Agnes Kinloch Kingston](https://en.wikipedia.org/wiki/Agnes_Kinloch_Kingston) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 53 |
+| 2026-11-14 23:21:52 | [Rivara Castle](https://en.wikipedia.org/wiki/Rivara_Castle) | [Plumbago Capensis](https://en.wikipedia.org/wiki/User:Plumbago_Capensis) | 3,782 |
+| 2026-11-14 23:27:29 | [Francisco Bens](https://en.wikipedia.org/wiki/Francisco_Bens) | [Sundostund](https://en.wikipedia.org/wiki/User:Sundostund) | 6,914 |
+| 2026-11-14 23:29:32 | [Ocoee River State Park](https://en.wikipedia.org/wiki/Ocoee_River_State_Park) | [B81161625](https://en.wikipedia.org/wiki/User:B81161625) | 1,254 |
+| 2026-11-14 23:30:28 | [Marie Ravenel de La Coste](https://en.wikipedia.org/wiki/Marie_Ravenel_de_La_Coste) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 3,222 |
+| 2026-11-14 23:31:49 | [Clemens von Goetze](https://en.wikipedia.org/wiki/Clemens_von_Goetze) | [Theodore Christopher](https://en.wikipedia.org/wiki/User:Theodore_Christopher) | 5,101 |
+| 2026-11-14 23:41:49 | [Ellen Elizabeth Frewer](https://en.wikipedia.org/wiki/Ellen_Elizabeth_Frewer) | [Godsy](https://en.wikipedia.org/wiki/User:Godsy) | 53 |
+| 2026-11-14 23:43:00 | [Gérard Bouguyon](https://en.wikipedia.org/wiki/G%C3%A9rard_Bouguyon) | [Jevansen](https://en.wikipedia.org/wiki/User:Jevansen) | 2,592 |
+| 2026-11-14 23:43:19 | [Austin Animal Services](https://en.wikipedia.org/wiki/Austin_Animal_Services) | [WhisperToMe](https://en.wikipedia.org/wiki/User:WhisperToMe) | 2,791 |
+| 2026-11-14 23:46:15 | [Mary Salmon](https://en.wikipedia.org/wiki/Mary_Salmon) | [Oronsay](https://en.wikipedia.org/wiki/User:Oronsay) | 3,718 |
+| 2026-11-14 23:47:36 | [Marc Beckman](https://en.wikipedia.org/wiki/Marc_Beckman) | [Pickled Pigeon](https://en.wikipedia.org/wiki/User:Pickled_Pigeon) | 553 |
+| 2026-11-14 23:48:09 | [Piney Branch Complex](https://en.wikipedia.org/wiki/Piney_Branch_Complex) | [Boomersooner6553](https://en.wikipedia.org/wiki/User:Boomersooner6553) | 8,171 |
+| 2026-11-14 23:50:04 | [Chris Cogswell](https://en.wikipedia.org/wiki/Chris_Cogswell) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,478 |
+| 2026-11-14 23:50:31 | [Yaffa Tebeje](https://en.wikipedia.org/wiki/Yaffa_Tebeje) | [Totalstgamer](https://en.wikipedia.org/wiki/User:Totalstgamer) | 4,610 |
+| 2026-11-14 23:53:37 | [Clara Pratte](https://en.wikipedia.org/wiki/Clara_Pratte) | [Coqui002](https://en.wikipedia.org/wiki/User:Coqui002) | 1,955 |
+| 2026-11-14 23:54:12 | [Ward Galanis](https://en.wikipedia.org/wiki/Ward_Galanis) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,478 |
+| 2026-11-15 00:01:48 | [Cody York](https://en.wikipedia.org/wiki/Cody_York) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,457 |
+| 2026-11-15 00:07:38 | [Sonneveld House](https://en.wikipedia.org/wiki/Sonneveld_House) | [TomasVial](https://en.wikipedia.org/wiki/User:TomasVial) | 5,562 |
+| 2026-11-15 00:10:20 | [USCGC Heron](https://en.wikipedia.org/wiki/USCGC_Heron) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 7,429 |
+| 2026-11-15 00:11:30 | [List of Ctenitis species](https://en.wikipedia.org/wiki/List_of_Ctenitis_species) | [Choess](https://en.wikipedia.org/wiki/User:Choess) | 7,538 |
