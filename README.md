@@ -13,57 +13,58 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-15 17:20 UTC](data/en/new-articles-2026-11-15T17-20-13Z.csv) | 25 |
-| Japanese | `ja` | [2026-11-15 17:20 UTC](data/ja/new-articles-2026-11-15T17-20-13Z.csv) | 7 |
-| Chinese | `zh` | [2026-11-15 17:20 UTC](data/zh/new-articles-2026-11-15T17-20-13Z.csv) | 5 |
-| French | `fr` | [2026-11-15 17:20 UTC](data/fr/new-articles-2026-11-15T17-20-13Z.csv) | 7 |
-| German | `de` | [2026-11-15 17:20 UTC](data/de/new-articles-2026-11-15T17-20-13Z.csv) | 13 |
-| Russian | `ru` | [2026-11-15 17:20 UTC](data/ru/new-articles-2026-11-15T17-20-13Z.csv) | 26 |
-| Spanish | `es` | [2026-11-15 17:20 UTC](data/es/new-articles-2026-11-15T17-20-13Z.csv) | 7 |
-| Italian | `it` | [2026-11-15 17:20 UTC](data/it/new-articles-2026-11-15T17-20-13Z.csv) | 11 |
-| Portuguese | `pt` | [2026-11-15 17:20 UTC](data/pt/new-articles-2026-11-15T17-20-13Z.csv) | 6 |
-| Polish | `pl` | [2026-11-15 17:20 UTC](data/pl/new-articles-2026-11-15T17-20-13Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-15 17:20 UTC](data/ar/new-articles-2026-11-15T17-20-13Z.csv) | 6 |
-| Persian | `fa` | [2026-11-15 17:20 UTC](data/fa/new-articles-2026-11-15T17-20-13Z.csv) | 15 |
-| Turkish | `tr` | [2026-11-15 17:20 UTC](data/tr/new-articles-2026-11-15T17-20-13Z.csv) | 3 |
-| Hebrew | `he` | [2026-11-15 17:20 UTC](data/he/new-articles-2026-11-15T17-20-13Z.csv) | 11 |
-| Swedish | `sv` | [2026-11-15 17:20 UTC](data/sv/new-articles-2026-11-15T17-20-13Z.csv) | 5 |
-| Dutch | `nl` | [2026-11-15 17:20 UTC](data/nl/new-articles-2026-11-15T17-20-13Z.csv) | 4 |
-| Korean | `ko` | [2026-11-15 17:20 UTC](data/ko/new-articles-2026-11-15T17-20-13Z.csv) | 3 |
+| English | `en` | [2026-11-15 18:19 UTC](data/en/new-articles-2026-11-15T18-19-17Z.csv) | 26 |
+| Japanese | `ja` | [2026-11-15 18:19 UTC](data/ja/new-articles-2026-11-15T18-19-17Z.csv) | 2 |
+| Chinese | `zh` | [2026-11-15 18:19 UTC](data/zh/new-articles-2026-11-15T18-19-17Z.csv) | 11 |
+| French | `fr` | [2026-11-15 18:19 UTC](data/fr/new-articles-2026-11-15T18-19-17Z.csv) | 13 |
+| German | `de` | [2026-11-15 18:19 UTC](data/de/new-articles-2026-11-15T18-19-17Z.csv) | 14 |
+| Russian | `ru` | [2026-11-15 18:19 UTC](data/ru/new-articles-2026-11-15T18-19-17Z.csv) | 12 |
+| Spanish | `es` | [2026-11-15 18:19 UTC](data/es/new-articles-2026-11-15T18-19-17Z.csv) | 17 |
+| Italian | `it` | [2026-11-15 18:19 UTC](data/it/new-articles-2026-11-15T18-19-17Z.csv) | 10 |
+| Portuguese | `pt` | [2026-11-15 18:19 UTC](data/pt/new-articles-2026-11-15T18-19-17Z.csv) | 5 |
+| Polish | `pl` | [2026-11-15 18:19 UTC](data/pl/new-articles-2026-11-15T18-19-17Z.csv) | 9 |
+| Arabic | `ar` | [2026-11-15 18:19 UTC](data/ar/new-articles-2026-11-15T18-19-17Z.csv) | 10 |
+| Persian | `fa` | [2026-11-15 18:19 UTC](data/fa/new-articles-2026-11-15T18-19-17Z.csv) | 10 |
+| Turkish | `tr` | [2026-11-15 18:19 UTC](data/tr/new-articles-2026-11-15T18-19-17Z.csv) | 6 |
+| Hebrew | `he` | [2026-11-15 18:19 UTC](data/he/new-articles-2026-11-15T18-19-17Z.csv) | 7 |
+| Swedish | `sv` | [2026-11-15 18:19 UTC](data/sv/new-articles-2026-11-15T18-19-17Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-15 18:19 UTC](data/nl/new-articles-2026-11-15T18-19-17Z.csv) | 2 |
+| Korean | `ko` | [2026-11-15 18:19 UTC](data/ko/new-articles-2026-11-15T18-19-17Z.csv) | 2 |
 | Indonesian | `id` | [2026-11-15 17:20 UTC](data/id/new-articles-2026-11-15T17-20-13Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-15 17:20 UTC](data/uk/new-articles-2026-11-15T17-20-13Z.csv) | 12 |
-| Vietnamese | `vi` | [2026-11-15 15:19 UTC](data/vi/new-articles-2026-11-15T15-19-37Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-15 18:19 UTC](data/uk/new-articles-2026-11-15T18-19-17Z.csv) | 9 |
+| Vietnamese | `vi` | [2026-11-15 18:19 UTC](data/vi/new-articles-2026-11-15T18-19-17Z.csv) | 1 |
 
-## English (en) — 2026-11-15 17:20 UTC
+## English (en) — 2026-11-15 18:19 UTC
 
-New articles created between 2026-11-15 16:19 UTC and 2026-11-15 17:20 UTC.
+New articles created between 2026-11-15 17:20 UTC and 2026-11-15 18:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-15T17-20-13Z.csv)
+[Full CSV](data/en/new-articles-2026-11-15T18-19-17Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-15 16:20:58 | [David Rein (politician)](https://en.wikipedia.org/wiki/David_Rein_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,454 |
-| 2026-11-15 16:24:23 | [Chayatorn Trairattanapradit](https://en.wikipedia.org/wiki/Chayatorn_Trairattanapradit) | [Matchabake](https://en.wikipedia.org/wiki/User:Matchabake) | 22,111 |
-| 2026-11-15 16:27:18 | [1863 Manchester City Council election](https://en.wikipedia.org/wiki/1863_Manchester_City_Council_election) | [JoeKramer04](https://en.wikipedia.org/wiki/User:JoeKramer04) | 9,499 |
-| 2026-11-15 16:29:54 | [GLYCTK](https://en.wikipedia.org/wiki/GLYCTK) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 586 |
-| 2026-11-15 16:31:36 | [Listed buildings in York (Acomb Ward)](https://en.wikipedia.org/wiki/Listed_buildings_in_York_%28Acomb_Ward%29) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 7,234 |
-| 2026-11-15 16:34:00 | [Browne family of Westport](https://en.wikipedia.org/wiki/Browne_family_of_Westport) | [Nentricks](https://en.wikipedia.org/wiki/User:Nentricks) | 14,036 |
-| 2026-11-15 16:34:02 | [2026–27 Loyola Marymount Lions men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Loyola_Marymount_Lions_men%27s_basketball_team) | [RedSox39](https://en.wikipedia.org/wiki/User:RedSox39) | 28,078 |
-| 2026-11-15 16:34:06 | [HYKK](https://en.wikipedia.org/wiki/HYKK) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 1,074 |
-| 2026-11-15 16:35:26 | [Gabriel Cervantes](https://en.wikipedia.org/wiki/Gabriel_Cervantes) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,414 |
-| 2026-11-15 16:44:25 | [Will Caton](https://en.wikipedia.org/wiki/Will_Caton) | [EssNS](https://en.wikipedia.org/wiki/User:EssNS) | 11,629 |
-| 2026-11-15 16:45:14 | [Chris VanDijk](https://en.wikipedia.org/wiki/Chris_VanDijk) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,397 |
-| 2026-11-15 16:46:04 | [Wilde Lecture](https://en.wikipedia.org/wiki/Wilde_Lecture) | [MLP Updater](https://en.wikipedia.org/wiki/User:MLP_Updater) | 2,576 |
-| 2026-11-15 16:47:01 | [List of Tennessee hurricanes](https://en.wikipedia.org/wiki/List_of_Tennessee_hurricanes) | [Cailfornia](https://en.wikipedia.org/wiki/User:Cailfornia) | 646 |
-| 2026-11-15 16:48:57 | [IPPK](https://en.wikipedia.org/wiki/IPPK) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 751 |
-| 2026-11-15 16:50:49 | [Antonio García-Bravo](https://en.wikipedia.org/wiki/Antonio_Garc%C3%ADa-Bravo) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-15 16:51:49 | [Comac CE-25A](https://en.wikipedia.org/wiki/Comac_CE-25A) | [Anna Frodesiak](https://en.wikipedia.org/wiki/User:Anna_Frodesiak) | 1,146 |
-| 2026-11-15 16:53:45 | [Luis Alberto García-Ayachi](https://en.wikipedia.org/wiki/Luis_Alberto_Garc%C3%ADa-Ayachi) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-15 16:54:23 | [Pulau Tulai](https://en.wikipedia.org/wiki/Pulau_Tulai) | [Nahum8000](https://en.wikipedia.org/wiki/User:Nahum8000) | 1,775 |
-| 2026-11-15 16:54:45 | [Nathan Nwachuku](https://en.wikipedia.org/wiki/Nathan_Nwachuku) | [Tagebunshin](https://en.wikipedia.org/wiki/User:Tagebunshin) | 6,829 |
-| 2026-11-15 16:56:15 | [Jacki Marsh](https://en.wikipedia.org/wiki/Jacki_Marsh) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,520 |
-| 2026-11-15 16:57:38 | [Morris Flecks](https://en.wikipedia.org/wiki/Morris_Flecks) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-15 17:01:42 | [2026 Syed Modi International](https://en.wikipedia.org/wiki/2026_Syed_Modi_International) | [Kumarpramit](https://en.wikipedia.org/wiki/User:Kumarpramit) | 4,098 |
-| 2026-11-15 17:02:02 | [Honored Builder of Ukraine](https://en.wikipedia.org/wiki/Honored_Builder_of_Ukraine) | [Melnikov v n](https://en.wikipedia.org/wiki/User:Melnikov_v_n) | 3,344 |
-| 2026-11-15 17:15:01 | [Appuram](https://en.wikipedia.org/wiki/Appuram) | [Ajeeshkumar4u](https://en.wikipedia.org/wiki/User:Ajeeshkumar4u) | 9,916 |
-| 2026-11-15 17:16:41 | [Blautia producta](https://en.wikipedia.org/wiki/Blautia_producta) | [ChaseKiwi](https://en.wikipedia.org/wiki/User:ChaseKiwi) | 6,277 |
+| 2026-11-15 17:20:40 | [Ranstädter Steinweg](https://en.wikipedia.org/wiki/Ranst%C3%A4dter_Steinweg) | [Andreas Wolf 01](https://en.wikipedia.org/wiki/User:Andreas_Wolf_01) | 21,119 |
+| 2026-11-15 17:24:41 | [Mildred Melrose](https://en.wikipedia.org/wiki/Mildred_Melrose) | [AkaneNel](https://en.wikipedia.org/wiki/User:AkaneNel) | 11,773 |
+| 2026-11-15 17:25:03 | [Henk Jan Meijer](https://en.wikipedia.org/wiki/Henk_Jan_Meijer) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 8,653 |
+| 2026-11-15 17:28:00 | [1864 Manchester City Council election](https://en.wikipedia.org/wiki/1864_Manchester_City_Council_election) | [JoeKramer04](https://en.wikipedia.org/wiki/User:JoeKramer04) | 9,320 |
+| 2026-11-15 17:28:13 | [Moise Carelus](https://en.wikipedia.org/wiki/Moise_Carelus) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,511 |
+| 2026-11-15 17:31:30 | [Darius Fulghum](https://en.wikipedia.org/wiki/Darius_Fulghum) | [Keif26](https://en.wikipedia.org/wiki/User:Keif26) | 539 |
+| 2026-11-15 17:32:20 | [Extrawurst (film)](https://en.wikipedia.org/wiki/Extrawurst_%28film%29) | [Abcmaxx](https://en.wikipedia.org/wiki/User:Abcmaxx) | 9,313 |
+| 2026-11-15 17:34:29 | [Carolann Reid](https://en.wikipedia.org/wiki/Carolann_Reid) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,458 |
+| 2026-11-15 17:37:41 | [1969 Sporting Cristal season](https://en.wikipedia.org/wiki/1969_Sporting_Cristal_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,984 |
+| 2026-11-15 17:41:08 | [Ethan Werstler](https://en.wikipedia.org/wiki/Ethan_Werstler) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,357 |
+| 2026-11-15 17:42:13 | [N-Jacobi field](https://en.wikipedia.org/wiki/N-Jacobi_field) | [Skysmith](https://en.wikipedia.org/wiki/User:Skysmith) | 26 |
+| 2026-11-15 17:42:37 | [Matt Alexander (politician)](https://en.wikipedia.org/wiki/Matt_Alexander_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,548 |
+| 2026-11-15 17:45:53 | [Brandi Mandato](https://en.wikipedia.org/wiki/Brandi_Mandato) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,463 |
+| 2026-11-15 17:46:18 | [Lebanoculicoides](https://en.wikipedia.org/wiki/Lebanoculicoides) | [TheLivingDanish1](https://en.wikipedia.org/wiki/User:TheLivingDanish1) | 822 |
+| 2026-11-15 17:51:41 | [Aaron Gutierrez](https://en.wikipedia.org/wiki/Aaron_Gutierrez) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,283 |
+| 2026-11-15 17:52:49 | [Brandon Webster-Mansfield](https://en.wikipedia.org/wiki/Brandon_Webster-Mansfield) | [Fleets](https://en.wikipedia.org/wiki/User:Fleets) | 7,449 |
+| 2026-11-15 17:53:14 | [Second Battle of En Nahud](https://en.wikipedia.org/wiki/Second_Battle_of_En_Nahud) | [SDUpdates32349](https://en.wikipedia.org/wiki/User:SDUpdates32349) | 3,942 |
+| 2026-11-15 17:53:26 | [Lisa Pratt (politician)](https://en.wikipedia.org/wiki/Lisa_Pratt_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,435 |
+| 2026-11-15 18:00:34 | [British Paper and Board Industry Research Association](https://en.wikipedia.org/wiki/British_Paper_and_Board_Industry_Research_Association) | [Kyteto](https://en.wikipedia.org/wiki/User:Kyteto) | 2,965 |
+| 2026-11-15 18:00:43 | [Roche de Vic](https://en.wikipedia.org/wiki/Roche_de_Vic) | [Conlinp](https://en.wikipedia.org/wiki/User:Conlinp) | 4,316 |
+| 2026-11-15 18:02:04 | [Teddy Collins (politician)](https://en.wikipedia.org/wiki/Teddy_Collins_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,243 |
+| 2026-11-15 18:04:04 | [Estádio Municipal Dr. Alves Vieira](https://en.wikipedia.org/wiki/Est%C3%A1dio_Municipal_Dr._Alves_Vieira) | [44 Gabriel](https://en.wikipedia.org/wiki/User:44_Gabriel) | 4,019 |
+| 2026-11-15 18:08:24 | [Ukraine's 169th electoral district](https://en.wikipedia.org/wiki/Ukraine%27s_169th_electoral_district) | [Nurken](https://en.wikipedia.org/wiki/User:Nurken) | 15,210 |
+| 2026-11-15 18:08:37 | [Burn (BigXthaPlug song)](https://en.wikipedia.org/wiki/Burn_%28BigXthaPlug_song%29) | [Alékoloco](https://en.wikipedia.org/wiki/User:Al%C3%A9koloco) | 3,587 |
+| 2026-11-15 18:11:30 | [Toni Lombardi](https://en.wikipedia.org/wiki/Toni_Lombardi) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,512 |
+| 2026-11-15 18:15:29 | [Aisha al-Qahtani](https://en.wikipedia.org/wiki/Aisha_al-Qahtani) | [Spiderpig662](https://en.wikipedia.org/wiki/User:Spiderpig662) | 4,545 |
