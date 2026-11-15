@@ -13,49 +13,55 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-15 03:18 UTC](data/en/new-articles-2026-11-15T03-18-56Z.csv) | 17 |
-| Japanese | `ja` | [2026-11-15 03:18 UTC](data/ja/new-articles-2026-11-15T03-18-56Z.csv) | 9 |
-| Chinese | `zh` | [2026-11-15 03:18 UTC](data/zh/new-articles-2026-11-15T03-18-56Z.csv) | 14 |
-| French | `fr` | [2026-11-15 03:18 UTC](data/fr/new-articles-2026-11-15T03-18-56Z.csv) | 2 |
-| German | `de` | [2026-11-15 03:18 UTC](data/de/new-articles-2026-11-15T03-18-56Z.csv) | 1 |
-| Russian | `ru` | [2026-11-15 03:18 UTC](data/ru/new-articles-2026-11-15T03-18-56Z.csv) | 1 |
-| Spanish | `es` | [2026-11-15 03:18 UTC](data/es/new-articles-2026-11-15T03-18-56Z.csv) | 5 |
-| Italian | `it` | [2026-11-15 03:18 UTC](data/it/new-articles-2026-11-15T03-18-56Z.csv) | 4 |
-| Portuguese | `pt` | [2026-11-15 03:18 UTC](data/pt/new-articles-2026-11-15T03-18-56Z.csv) | 4 |
-| Polish | `pl` | [2026-11-15 03:18 UTC](data/pl/new-articles-2026-11-15T03-18-56Z.csv) | 2 |
+| English | `en` | [2026-11-15 04:18 UTC](data/en/new-articles-2026-11-15T04-18-59Z.csv) | 23 |
+| Japanese | `ja` | [2026-11-15 04:18 UTC](data/ja/new-articles-2026-11-15T04-18-59Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-15 04:18 UTC](data/zh/new-articles-2026-11-15T04-18-59Z.csv) | 11 |
+| French | `fr` | [2026-11-15 04:18 UTC](data/fr/new-articles-2026-11-15T04-18-59Z.csv) | 6 |
+| German | `de` | [2026-11-15 04:18 UTC](data/de/new-articles-2026-11-15T04-18-59Z.csv) | 1 |
+| Russian | `ru` | [2026-11-15 04:18 UTC](data/ru/new-articles-2026-11-15T04-18-59Z.csv) | 3 |
+| Spanish | `es` | [2026-11-15 04:18 UTC](data/es/new-articles-2026-11-15T04-18-59Z.csv) | 8 |
+| Italian | `it` | [2026-11-15 04:18 UTC](data/it/new-articles-2026-11-15T04-18-59Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-15 04:18 UTC](data/pt/new-articles-2026-11-15T04-18-59Z.csv) | 3 |
+| Polish | `pl` | [2026-11-15 04:18 UTC](data/pl/new-articles-2026-11-15T04-18-59Z.csv) | 3 |
 | Arabic | `ar` | [2026-11-15 03:18 UTC](data/ar/new-articles-2026-11-15T03-18-56Z.csv) | 1 |
-| Persian | `fa` | [2026-11-15 03:18 UTC](data/fa/new-articles-2026-11-15T03-18-56Z.csv) | 6 |
+| Persian | `fa` | [2026-11-15 04:18 UTC](data/fa/new-articles-2026-11-15T04-18-59Z.csv) | 3 |
 | Turkish | `tr` | [2026-11-15 03:18 UTC](data/tr/new-articles-2026-11-15T03-18-56Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-15 03:18 UTC](data/he/new-articles-2026-11-15T03-18-56Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-15 03:18 UTC](data/sv/new-articles-2026-11-15T03-18-56Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-15 03:18 UTC](data/nl/new-articles-2026-11-15T03-18-56Z.csv) | 2 |
-| Korean | `ko` | [2026-11-15 03:18 UTC](data/ko/new-articles-2026-11-15T03-18-56Z.csv) | 5 |
-| Indonesian | `id` | [2026-11-15 03:18 UTC](data/id/new-articles-2026-11-15T03-18-56Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-11-15 03:18 UTC](data/uk/new-articles-2026-11-15T03-18-56Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-15 04:18 UTC](data/sv/new-articles-2026-11-15T04-18-59Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-15 04:18 UTC](data/nl/new-articles-2026-11-15T04-18-59Z.csv) | 1 |
+| Korean | `ko` | [2026-11-15 04:18 UTC](data/ko/new-articles-2026-11-15T04-18-59Z.csv) | 6 |
+| Indonesian | `id` | [2026-11-15 04:18 UTC](data/id/new-articles-2026-11-15T04-18-59Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-15 04:18 UTC](data/uk/new-articles-2026-11-15T04-18-59Z.csv) | 1 |
 | Vietnamese | `vi` | [2026-11-15 03:18 UTC](data/vi/new-articles-2026-11-15T03-18-56Z.csv) | 3 |
 
-## English (en) — 2026-11-15 03:18 UTC
+## English (en) — 2026-11-15 04:18 UTC
 
-New articles created between 2026-11-15 02:18 UTC and 2026-11-15 03:18 UTC.
+New articles created between 2026-11-15 03:18 UTC and 2026-11-15 04:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-15T03-18-56Z.csv)
+[Full CSV](data/en/new-articles-2026-11-15T04-18-59Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-15 02:24:26 | [MRTV (disambiguation)](https://en.wikipedia.org/wiki/MRTV_%28disambiguation%29) | [Ahri Boy](https://en.wikipedia.org/wiki/User:Ahri_Boy) | 133 |
-| 2026-11-15 02:30:34 | [Max Dean (DJ)](https://en.wikipedia.org/wiki/Max_Dean_%28DJ%29) | [Amadeolrodrigues](https://en.wikipedia.org/wiki/User:Amadeolrodrigues) | 8,480 |
-| 2026-11-15 02:37:06 | [Tikaram](https://en.wikipedia.org/wiki/Tikaram) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 157 |
-| 2026-11-15 02:37:16 | [Pfeufer](https://en.wikipedia.org/wiki/Pfeufer) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 26 |
-| 2026-11-15 02:37:18 | [Jacob's Ladder (Tasmania)](https://en.wikipedia.org/wiki/Jacob%27s_Ladder_%28Tasmania%29) | [1Ink](https://en.wikipedia.org/wiki/User:1Ink) | 2,402 |
-| 2026-11-15 02:39:29 | [Riordan (DJ)](https://en.wikipedia.org/wiki/Riordan_%28DJ%29) | [Amadeolrodrigues](https://en.wikipedia.org/wiki/User:Amadeolrodrigues) | 7,184 |
-| 2026-11-15 02:44:37 | [Herman Carroll](https://en.wikipedia.org/wiki/Herman_Carroll) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,080 |
-| 2026-11-15 02:46:12 | [Can't Decide (Max Dean, Luke Dean and Locky song)](https://en.wikipedia.org/wiki/Can%27t_Decide_%28Max_Dean%2C_Luke_Dean_and_Locky_song%29) | [Amadeolrodrigues](https://en.wikipedia.org/wiki/User:Amadeolrodrigues) | 4,038 |
-| 2026-11-15 02:46:16 | [2027 Alpine Skiing World Cup – Men's slalom](https://en.wikipedia.org/wiki/2027_Alpine_Skiing_World_Cup_%E2%80%93_Men%27s_slalom) | [AyaK](https://en.wikipedia.org/wiki/User:AyaK) | 18,358 |
-| 2026-11-15 02:50:14 | [Panditrao](https://en.wikipedia.org/wiki/Panditrao) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 369 |
-| 2026-11-15 02:52:02 | [Khotkar](https://en.wikipedia.org/wiki/Khotkar) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 134 |
-| 2026-11-15 02:57:32 | [List of presidential trips made by Jimmy Carter (1978)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_Jimmy_Carter_%281978%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 21,506 |
-| 2026-11-15 03:00:30 | [Naro-Fominsk (595)](https://en.wikipedia.org/wiki/Naro-Fominsk_%28595%29) | [Heroeswithmetaphors](https://en.wikipedia.org/wiki/User:Heroeswithmetaphors) | 580 |
-| 2026-11-15 03:01:37 | [Jeffrey C. Isaac](https://en.wikipedia.org/wiki/Jeffrey_C._Isaac) | [许岚珊](https://en.wikipedia.org/wiki/User:%E8%AE%B8%E5%B2%9A%E7%8F%8A) | 4,107 |
-| 2026-11-15 03:01:50 | [1969 FBC Melgar season](https://en.wikipedia.org/wiki/1969_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,767 |
-| 2026-11-15 03:05:52 | [Bill Braecklein](https://en.wikipedia.org/wiki/Bill_Braecklein) | [Koala15](https://en.wikipedia.org/wiki/User:Koala15) | 1,734 |
-| 2026-11-15 03:09:18 | [Ana Belo](https://en.wikipedia.org/wiki/Ana_Belo) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 6,525 |
+| 2026-11-15 03:19:13 | [1970 FBC Melgar season](https://en.wikipedia.org/wiki/1970_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,767 |
+| 2026-11-15 03:20:23 | [2026 Continental Classic](https://en.wikipedia.org/wiki/2026_Continental_Classic) | [Sceptre](https://en.wikipedia.org/wiki/User:Sceptre) | 8,510 |
+| 2026-11-15 03:27:32 | [Cloonee](https://en.wikipedia.org/wiki/Cloonee) | [Amadeolrodrigues](https://en.wikipedia.org/wiki/User:Amadeolrodrigues) | 6,680 |
+| 2026-11-15 03:28:16 | [Victor Mosa](https://en.wikipedia.org/wiki/Victor_Mosa) | [ShadowBallX](https://en.wikipedia.org/wiki/User:ShadowBallX) | 5,120 |
+| 2026-11-15 03:28:24 | [Stenodera](https://en.wikipedia.org/wiki/Stenodera) | [Roy Bateman](https://en.wikipedia.org/wiki/User:Roy_Bateman) | 2,215 |
+| 2026-11-15 03:33:49 | [Anne Winship Bates Leach](https://en.wikipedia.org/wiki/Anne_Winship_Bates_Leach) | [Willthacheerleader18](https://en.wikipedia.org/wiki/User:Willthacheerleader18) | 5,098 |
+| 2026-11-15 03:34:13 | [Lasioglossum woodsi](https://en.wikipedia.org/wiki/Lasioglossum_woodsi) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,611 |
+| 2026-11-15 03:35:25 | [1971 FBC Melgar season](https://en.wikipedia.org/wiki/1971_FBC_Melgar_season) | [ROLAND CES](https://en.wikipedia.org/wiki/User:ROLAND_CES) | 1,767 |
+| 2026-11-15 03:37:15 | [Craspedia huriawa](https://en.wikipedia.org/wiki/Craspedia_huriawa) | [Stitchbird2](https://en.wikipedia.org/wiki/User:Stitchbird2) | 2,026 |
+| 2026-11-15 03:47:14 | [Zoe Hill](https://en.wikipedia.org/wiki/Zoe_Hill) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,554 |
+| 2026-11-15 03:53:40 | [Bryson Reyes](https://en.wikipedia.org/wiki/Bryson_Reyes) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,476 |
+| 2026-11-15 03:57:18 | [Guylène Proulx](https://en.wikipedia.org/wiki/Guyl%C3%A8ne_Proulx) | [Dr vulpes](https://en.wikipedia.org/wiki/User:Dr_vulpes) | 3,175 |
+| 2026-11-15 03:57:44 | [Becky Nichols](https://en.wikipedia.org/wiki/Becky_Nichols) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,482 |
+| 2026-11-15 03:58:30 | [Preeta A. K.](https://en.wikipedia.org/wiki/Preeta_A._K.) | [Mydreamsparrow](https://en.wikipedia.org/wiki/User:Mydreamsparrow) | 8,210 |
+| 2026-11-15 04:02:58 | [Eastenderz](https://en.wikipedia.org/wiki/Eastenderz) | [Amadeolrodrigues](https://en.wikipedia.org/wiki/User:Amadeolrodrigues) | 4,790 |
+| 2026-11-15 04:06:26 | [East End Dubs](https://en.wikipedia.org/wiki/East_End_Dubs) | [Amadeolrodrigues](https://en.wikipedia.org/wiki/User:Amadeolrodrigues) | 5,724 |
+| 2026-11-15 04:07:18 | [SNR G127.1+00.5](https://en.wikipedia.org/wiki/SNR_G127.1%2B00.5) | [Shocksingularity](https://en.wikipedia.org/wiki/User:Shocksingularity) | 4,044 |
+| 2026-11-15 04:07:33 | [Grind Mode (group)](https://en.wikipedia.org/wiki/Grind_Mode_%28group%29) | [Malcolmhendy](https://en.wikipedia.org/wiki/User:Malcolmhendy) | 405 |
+| 2026-11-15 04:07:43 | [2011 CEV 125cc season](https://en.wikipedia.org/wiki/2011_CEV_125cc_season) | [Ousmane0306](https://en.wikipedia.org/wiki/User:Ousmane0306) | 27,125 |
+| 2026-11-15 04:08:48 | [2027 Auckland FC (OFC Professional League) season](https://en.wikipedia.org/wiki/2027_Auckland_FC_%28OFC_Professional_League%29_season) | [MrScottsman](https://en.wikipedia.org/wiki/User:MrScottsman) | 22,117 |
+| 2026-11-15 04:12:10 | [Katherine Washnok](https://en.wikipedia.org/wiki/Katherine_Washnok) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,435 |
+| 2026-11-15 04:17:36 | [William of Chiriton](https://en.wikipedia.org/wiki/William_of_Chiriton) | [Quoting Querying Questioner](https://en.wikipedia.org/wiki/User:Quoting_Querying_Questioner) | 6,949 |
+| 2026-11-15 04:18:10 | [Somni (album)](https://en.wikipedia.org/wiki/Somni_%28album%29) | [Majgyck](https://en.wikipedia.org/wiki/User:Majgyck) | 13,226 |
