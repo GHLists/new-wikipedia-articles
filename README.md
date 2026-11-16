@@ -13,62 +13,68 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-16 01:19 UTC](data/en/new-articles-2026-11-16T01-19-18Z.csv) | 30 |
-| Japanese | `ja` | [2026-11-16 01:19 UTC](data/ja/new-articles-2026-11-16T01-19-18Z.csv) | 5 |
-| Chinese | `zh` | [2026-11-16 01:19 UTC](data/zh/new-articles-2026-11-16T01-19-18Z.csv) | 6 |
-| French | `fr` | [2026-11-16 01:19 UTC](data/fr/new-articles-2026-11-16T01-19-18Z.csv) | 3 |
-| German | `de` | [2026-11-16 01:19 UTC](data/de/new-articles-2026-11-16T01-19-18Z.csv) | 3 |
+| English | `en` | [2026-11-16 02:19 UTC](data/en/new-articles-2026-11-16T02-19-17Z.csv) | 36 |
+| Japanese | `ja` | [2026-11-16 02:19 UTC](data/ja/new-articles-2026-11-16T02-19-17Z.csv) | 1 |
+| Chinese | `zh` | [2026-11-16 02:19 UTC](data/zh/new-articles-2026-11-16T02-19-17Z.csv) | 10 |
+| French | `fr` | [2026-11-16 02:19 UTC](data/fr/new-articles-2026-11-16T02-19-17Z.csv) | 3 |
+| German | `de` | [2026-11-16 02:19 UTC](data/de/new-articles-2026-11-16T02-19-17Z.csv) | 1 |
 | Russian | `ru` | [2026-11-16 01:19 UTC](data/ru/new-articles-2026-11-16T01-19-18Z.csv) | 5 |
-| Spanish | `es` | [2026-11-16 01:19 UTC](data/es/new-articles-2026-11-16T01-19-18Z.csv) | 4 |
-| Italian | `it` | [2026-11-16 01:19 UTC](data/it/new-articles-2026-11-16T01-19-18Z.csv) | 3 |
-| Portuguese | `pt` | [2026-11-16 01:19 UTC](data/pt/new-articles-2026-11-16T01-19-18Z.csv) | 7 |
-| Polish | `pl` | [2026-11-16 01:19 UTC](data/pl/new-articles-2026-11-16T01-19-18Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-16 01:19 UTC](data/ar/new-articles-2026-11-16T01-19-18Z.csv) | 2 |
-| Persian | `fa` | [2026-11-16 01:19 UTC](data/fa/new-articles-2026-11-16T01-19-18Z.csv) | 3 |
+| Spanish | `es` | [2026-11-16 02:19 UTC](data/es/new-articles-2026-11-16T02-19-17Z.csv) | 7 |
+| Italian | `it` | [2026-11-16 02:19 UTC](data/it/new-articles-2026-11-16T02-19-17Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-16 02:19 UTC](data/pt/new-articles-2026-11-16T02-19-17Z.csv) | 16 |
+| Polish | `pl` | [2026-11-16 02:19 UTC](data/pl/new-articles-2026-11-16T02-19-17Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-16 02:19 UTC](data/ar/new-articles-2026-11-16T02-19-17Z.csv) | 5 |
+| Persian | `fa` | [2026-11-16 02:19 UTC](data/fa/new-articles-2026-11-16T02-19-17Z.csv) | 2 |
 | Turkish | `tr` | [2026-11-16 00:19 UTC](data/tr/new-articles-2026-11-16T00-19-33Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-15 23:18 UTC](data/he/new-articles-2026-11-15T23-18-44Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-16 01:19 UTC](data/sv/new-articles-2026-11-16T01-19-18Z.csv) | 6 |
-| Dutch | `nl` | [2026-11-16 01:19 UTC](data/nl/new-articles-2026-11-16T01-19-18Z.csv) | 1 |
-| Korean | `ko` | [2026-11-15 23:18 UTC](data/ko/new-articles-2026-11-15T23-18-44Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-16 01:19 UTC](data/id/new-articles-2026-11-16T01-19-18Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-16 02:19 UTC](data/nl/new-articles-2026-11-16T02-19-17Z.csv) | 4 |
+| Korean | `ko` | [2026-11-16 02:19 UTC](data/ko/new-articles-2026-11-16T02-19-17Z.csv) | 4 |
+| Indonesian | `id` | [2026-11-16 02:19 UTC](data/id/new-articles-2026-11-16T02-19-17Z.csv) | 13 |
 | Ukrainian | `uk` | [2026-11-16 01:19 UTC](data/uk/new-articles-2026-11-16T01-19-18Z.csv) | 5 |
 | Vietnamese | `vi` | [2026-11-15 21:19 UTC](data/vi/new-articles-2026-11-15T21-19-27Z.csv) | 1 |
 
-## English (en) — 2026-11-16 01:19 UTC
+## English (en) — 2026-11-16 02:19 UTC
 
-New articles created between 2026-11-16 00:19 UTC and 2026-11-16 01:19 UTC.
+New articles created between 2026-11-16 01:19 UTC and 2026-11-16 02:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-16T01-19-18Z.csv)
+[Full CSV](data/en/new-articles-2026-11-16T02-19-17Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-16 00:19:36 | [East La Libertad](https://en.wikipedia.org/wiki/East_La_Libertad) | [AvanceNationalSV](https://en.wikipedia.org/wiki/User:AvanceNationalSV) | 7,268 |
-| 2026-11-16 00:20:46 | [Brendan Webber](https://en.wikipedia.org/wiki/Brendan_Webber) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,421 |
-| 2026-11-16 00:21:25 | [Misti Norris](https://en.wikipedia.org/wiki/Misti_Norris) | [CaptainAngus](https://en.wikipedia.org/wiki/User:CaptainAngus) | 7,457 |
-| 2026-11-16 00:21:28 | [Hirtellina lanceolata](https://en.wikipedia.org/wiki/Hirtellina_lanceolata) | [Alanli1996](https://en.wikipedia.org/wiki/User:Alanli1996) | 1,509 |
-| 2026-11-16 00:22:07 | [South La Libertad](https://en.wikipedia.org/wiki/South_La_Libertad) | [AvanceNationalSV](https://en.wikipedia.org/wiki/User:AvanceNationalSV) | 7,252 |
-| 2026-11-16 00:24:36 | [Coastal La Libertad](https://en.wikipedia.org/wiki/Coastal_La_Libertad) | [AvanceNationalSV](https://en.wikipedia.org/wiki/User:AvanceNationalSV) | 7,242 |
-| 2026-11-16 00:26:38 | [2027 NRL season results](https://en.wikipedia.org/wiki/2027_NRL_season_results) | [WDM10](https://en.wikipedia.org/wiki/User:WDM10) | 5,951 |
-| 2026-11-16 00:27:40 | [West La Paz](https://en.wikipedia.org/wiki/West_La_Paz) | [AvanceNationalSV](https://en.wikipedia.org/wiki/User:AvanceNationalSV) | 6,891 |
-| 2026-11-16 00:28:35 | [Laurie Garbel](https://en.wikipedia.org/wiki/Laurie_Garbel) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,523 |
-| 2026-11-16 00:28:49 | [Clare Phillipson](https://en.wikipedia.org/wiki/Clare_Phillipson) | [Victuallers](https://en.wikipedia.org/wiki/User:Victuallers) | 4,792 |
-| 2026-11-16 00:29:05 | [East La Paz](https://en.wikipedia.org/wiki/East_La_Paz) | [AvanceNationalSV](https://en.wikipedia.org/wiki/User:AvanceNationalSV) | 6,812 |
-| 2026-11-16 00:32:06 | [Blaine DesLauriers](https://en.wikipedia.org/wiki/Blaine_DesLauriers) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,427 |
-| 2026-11-16 00:33:34 | [Timothy Mihalick](https://en.wikipedia.org/wiki/Timothy_Mihalick) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,417 |
-| 2026-11-16 00:34:19 | [Hol Church (Buskerud)](https://en.wikipedia.org/wiki/Hol_Church_%28Buskerud%29) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 3,971 |
-| 2026-11-16 00:37:30 | [Doveland (album)](https://en.wikipedia.org/wiki/Doveland_%28album%29) | [Jibblesnark86](https://en.wikipedia.org/wiki/User:Jibblesnark86) | 5,277 |
-| 2026-11-16 00:41:47 | [Tedi Rowland](https://en.wikipedia.org/wiki/Tedi_Rowland) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,412 |
-| 2026-11-16 00:42:17 | [Charlie Parks (Canadian football)](https://en.wikipedia.org/wiki/Charlie_Parks_%28Canadian_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,127 |
-| 2026-11-16 00:43:25 | [Zealous advocacy](https://en.wikipedia.org/wiki/Zealous_advocacy) | [V.B.Speranza](https://en.wikipedia.org/wiki/User:V.B.Speranza) | 6,961 |
-| 2026-11-16 00:44:36 | [Taylor Crouse](https://en.wikipedia.org/wiki/Taylor_Crouse) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,416 |
-| 2026-11-16 00:46:26 | [Keith Gudehus](https://en.wikipedia.org/wiki/Keith_Gudehus) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,414 |
-| 2026-11-16 00:46:40 | [Awareness activism](https://en.wikipedia.org/wiki/Awareness_activism) | [Fadesga](https://en.wikipedia.org/wiki/User:Fadesga) | 1,295 |
-| 2026-11-16 00:46:50 | [Behula (disambiguation)](https://en.wikipedia.org/wiki/Behula_%28disambiguation%29) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 357 |
-| 2026-11-16 00:49:15 | [Lasioglossum bryotrichum](https://en.wikipedia.org/wiki/Lasioglossum_bryotrichum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 3,049 |
-| 2026-11-16 00:51:41 | [Steve Sauter](https://en.wikipedia.org/wiki/Steve_Sauter) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,398 |
-| 2026-11-16 00:54:21 | [Greg Vetter](https://en.wikipedia.org/wiki/Greg_Vetter) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,393 |
-| 2026-11-16 00:56:48 | [Lukas Maughan](https://en.wikipedia.org/wiki/Lukas_Maughan) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,405 |
-| 2026-11-16 00:59:03 | [Tram Shelter, Kew](https://en.wikipedia.org/wiki/Tram_Shelter%2C_Kew) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 9,144 |
-| 2026-11-16 01:03:14 | [Jal Al-Liyah](https://en.wikipedia.org/wiki/Jal_Al-Liyah) | [Irvin calicut](https://en.wikipedia.org/wiki/User:Irvin_calicut) | 1,273 |
-| 2026-11-16 01:09:49 | [Joseph Campbell (21st-century Maine politician)](https://en.wikipedia.org/wiki/Joseph_Campbell_%2821st-century_Maine_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,422 |
-| 2026-11-16 01:18:54 | [Brian Ugwu](https://en.wikipedia.org/wiki/Brian_Ugwu) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,926 |
+| 2026-11-16 01:19:32 | [Hillary Pham](https://en.wikipedia.org/wiki/Hillary_Pham) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,595 |
+| 2026-11-16 01:23:26 | [Kelabe Tewolde](https://en.wikipedia.org/wiki/Kelabe_Tewolde) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,494 |
+| 2026-11-16 01:28:02 | [Jessica Forsythe](https://en.wikipedia.org/wiki/Jessica_Forsythe) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,507 |
+| 2026-11-16 01:29:04 | [Tram shelter, Armadale](https://en.wikipedia.org/wiki/Tram_shelter%2C_Armadale) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 9,185 |
+| 2026-11-16 01:30:17 | [Grusonia aggeria](https://en.wikipedia.org/wiki/Grusonia_aggeria) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 6,079 |
+| 2026-11-16 01:32:31 | [Duane Poitra](https://en.wikipedia.org/wiki/Duane_Poitra) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,398 |
+| 2026-11-16 01:34:44 | [Polyscias nodosa](https://en.wikipedia.org/wiki/Polyscias_nodosa) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 3,559 |
+| 2026-11-16 01:34:51 | [James E. Scott Carver Homes](https://en.wikipedia.org/wiki/James_E._Scott_Carver_Homes) | [Malcolmhendy](https://en.wikipedia.org/wiki/User:Malcolmhendy) | 1,028 |
+| 2026-11-16 01:36:46 | [List of places of worship in Buloke Shire](https://en.wikipedia.org/wiki/List_of_places_of_worship_in_Buloke_Shire) | [1geel0ng1](https://en.wikipedia.org/wiki/User:1geel0ng1) | 16,355 |
+| 2026-11-16 01:36:56 | [Andrew Broaddus (Virginia politician)](https://en.wikipedia.org/wiki/Andrew_Broaddus_%28Virginia_politician%29) | [Engineerchange](https://en.wikipedia.org/wiki/User:Engineerchange) | 4,085 |
+| 2026-11-16 01:41:28 | [Starita](https://en.wikipedia.org/wiki/Starita) | [Vycl1994](https://en.wikipedia.org/wiki/User:Vycl1994) | 199 |
+| 2026-11-16 01:46:58 | [Alan Gross (politician)](https://en.wikipedia.org/wiki/Alan_Gross_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,417 |
+| 2026-11-16 01:48:02 | [Broaddus (surname)](https://en.wikipedia.org/wiki/Broaddus_%28surname%29) | [Engineerchange](https://en.wikipedia.org/wiki/User:Engineerchange) | 544 |
+| 2026-11-16 01:48:05 | [Veggli Church](https://en.wikipedia.org/wiki/Veggli_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,664 |
+| 2026-11-16 01:48:41 | [Steve Russell (New Hampshire politician)](https://en.wikipedia.org/wiki/Steve_Russell_%28New_Hampshire_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,464 |
+| 2026-11-16 01:49:30 | [Gorka Abascal](https://en.wikipedia.org/wiki/Gorka_Abascal) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 5,637 |
+| 2026-11-16 01:50:53 | [Tram shelter, Caulfield North](https://en.wikipedia.org/wiki/Tram_shelter%2C_Caulfield_North) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 9,252 |
+| 2026-11-16 01:53:31 | [Lindseigh Picard](https://en.wikipedia.org/wiki/Lindseigh_Picard) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,555 |
+| 2026-11-16 01:54:56 | [Edward River Football League](https://en.wikipedia.org/wiki/Edward_River_Football_League) | [Mrchikkin](https://en.wikipedia.org/wiki/User:Mrchikkin) | 11,265 |
+| 2026-11-16 01:55:16 | [Georgette Bouillot](https://en.wikipedia.org/wiki/Georgette_Bouillot) | [SDGB1217](https://en.wikipedia.org/wiki/User:SDGB1217) | 4,409 |
+| 2026-11-16 01:56:39 | [Ypres After the First Bombardment](https://en.wikipedia.org/wiki/Ypres_After_the_First_Bombardment) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,319 |
+| 2026-11-16 01:57:37 | [Luc Jasmin III](https://en.wikipedia.org/wiki/Luc_Jasmin_III) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,492 |
+| 2026-11-16 01:59:58 | [Kristan Tilton](https://en.wikipedia.org/wiki/Kristan_Tilton) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,545 |
+| 2026-11-16 02:00:01 | [Dance With Me (Underground Sound of Lisbon song)](https://en.wikipedia.org/wiki/Dance_With_Me_%28Underground_Sound_of_Lisbon_song%29) | [LVRof90sHouse](https://en.wikipedia.org/wiki/User:LVRof90sHouse) | 5,731 |
+| 2026-11-16 02:01:14 | [2027 CONCACAF Gold Cup qualification](https://en.wikipedia.org/wiki/2027_CONCACAF_Gold_Cup_qualification) | [Eh Oh Canada](https://en.wikipedia.org/wiki/User:Eh_Oh_Canada) | 8,658 |
+| 2026-11-16 02:01:26 | [1925–26 American Basketball League season](https://en.wikipedia.org/wiki/1925%E2%80%9326_American_Basketball_League_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 20,297 |
+| 2026-11-16 02:01:46 | [Meredith O'Rourke](https://en.wikipedia.org/wiki/Meredith_O%27Rourke) | [ElijahPepe](https://en.wikipedia.org/wiki/User:ElijahPepe) | 4,882 |
+| 2026-11-16 02:03:03 | [Tyler York (politician)](https://en.wikipedia.org/wiki/Tyler_York_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,390 |
+| 2026-11-16 02:07:01 | [Stephanie Arne (politician)](https://en.wikipedia.org/wiki/Stephanie_Arne_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,491 |
+| 2026-11-16 02:07:55 | [Luscius Lanuvinus](https://en.wikipedia.org/wiki/Luscius_Lanuvinus) | [Graearms](https://en.wikipedia.org/wiki/User:Graearms) | 1,365 |
+| 2026-11-16 02:09:00 | [Dave Lince](https://en.wikipedia.org/wiki/Dave_Lince) | [Dafootballguy](https://en.wikipedia.org/wiki/User:Dafootballguy) | 407 |
+| 2026-11-16 02:11:47 | [Hadromastax polynesica](https://en.wikipedia.org/wiki/Hadromastax_polynesica) | [Astrobirder-isopods](https://en.wikipedia.org/wiki/User:Astrobirder-isopods) | 3,116 |
+| 2026-11-16 02:13:05 | [Doug Sharbono](https://en.wikipedia.org/wiki/Doug_Sharbono) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,404 |
+| 2026-11-16 02:17:16 | [Mary Ann Perkins](https://en.wikipedia.org/wiki/Mary_Ann_Perkins) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,536 |
+| 2026-11-16 02:17:16 | [Shōdoshima Olive Park](https://en.wikipedia.org/wiki/Sh%C5%8Ddoshima_Olive_Park) | [McNugget240](https://en.wikipedia.org/wiki/User:McNugget240) | 3,301 |
+| 2026-11-16 02:18:41 | [Moradores (East Timor)](https://en.wikipedia.org/wiki/Moradores_%28East_Timor%29) | [Wareno](https://en.wikipedia.org/wiki/User:Wareno) | 3,949 |
