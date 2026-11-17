@@ -13,42 +13,44 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-17 05:20 UTC](data/en/new-articles-2026-11-17T05-20-28Z.csv) | 10 |
-| Japanese | `ja` | [2026-11-17 05:20 UTC](data/ja/new-articles-2026-11-17T05-20-28Z.csv) | 6 |
-| Chinese | `zh` | [2026-11-17 05:20 UTC](data/zh/new-articles-2026-11-17T05-20-28Z.csv) | 7 |
-| French | `fr` | [2026-11-17 05:20 UTC](data/fr/new-articles-2026-11-17T05-20-28Z.csv) | 1 |
-| German | `de` | [2026-11-17 05:20 UTC](data/de/new-articles-2026-11-17T05-20-28Z.csv) | 2 |
-| Russian | `ru` | [2026-11-17 05:20 UTC](data/ru/new-articles-2026-11-17T05-20-28Z.csv) | 2 |
+| English | `en` | [2026-11-17 06:18 UTC](data/en/new-articles-2026-11-17T06-18-34Z.csv) | 12 |
+| Japanese | `ja` | [2026-11-17 06:18 UTC](data/ja/new-articles-2026-11-17T06-18-34Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-17 06:18 UTC](data/zh/new-articles-2026-11-17T06-18-34Z.csv) | 13 |
+| French | `fr` | [2026-11-17 06:18 UTC](data/fr/new-articles-2026-11-17T06-18-34Z.csv) | 1 |
+| German | `de` | [2026-11-17 06:18 UTC](data/de/new-articles-2026-11-17T06-18-34Z.csv) | 2 |
+| Russian | `ru` | [2026-11-17 06:18 UTC](data/ru/new-articles-2026-11-17T06-18-34Z.csv) | 3 |
 | Spanish | `es` | [2026-11-17 05:20 UTC](data/es/new-articles-2026-11-17T05-20-28Z.csv) | 8 |
-| Italian | `it` | [2026-11-17 05:20 UTC](data/it/new-articles-2026-11-17T05-20-28Z.csv) | 2 |
-| Portuguese | `pt` | [2026-11-17 05:20 UTC](data/pt/new-articles-2026-11-17T05-20-28Z.csv) | 3 |
+| Italian | `it` | [2026-11-17 06:18 UTC](data/it/new-articles-2026-11-17T06-18-34Z.csv) | 3 |
+| Portuguese | `pt` | [2026-11-17 06:18 UTC](data/pt/new-articles-2026-11-17T06-18-34Z.csv) | 2 |
 | Polish | `pl` | [2026-11-17 03:19 UTC](data/pl/new-articles-2026-11-17T03-19-01Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-17 05:20 UTC](data/ar/new-articles-2026-11-17T05-20-28Z.csv) | 1 |
-| Persian | `fa` | [2026-11-17 05:20 UTC](data/fa/new-articles-2026-11-17T05-20-28Z.csv) | 2 |
-| Turkish | `tr` | [2026-11-17 05:20 UTC](data/tr/new-articles-2026-11-17T05-20-28Z.csv) | 6 |
-| Hebrew | `he` | [2026-11-17 05:20 UTC](data/he/new-articles-2026-11-17T05-20-28Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-17 04:19 UTC](data/sv/new-articles-2026-11-17T04-19-16Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-17 06:18 UTC](data/ar/new-articles-2026-11-17T06-18-34Z.csv) | 1 |
+| Persian | `fa` | [2026-11-17 06:18 UTC](data/fa/new-articles-2026-11-17T06-18-34Z.csv) | 12 |
+| Turkish | `tr` | [2026-11-17 06:18 UTC](data/tr/new-articles-2026-11-17T06-18-34Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-17 06:18 UTC](data/he/new-articles-2026-11-17T06-18-34Z.csv) | 5 |
+| Swedish | `sv` | [2026-11-17 06:18 UTC](data/sv/new-articles-2026-11-17T06-18-34Z.csv) | 2 |
 | Dutch | `nl` | [2026-11-17 04:19 UTC](data/nl/new-articles-2026-11-17T04-19-16Z.csv) | 1 |
-| Korean | `ko` | [2026-11-17 05:20 UTC](data/ko/new-articles-2026-11-17T05-20-28Z.csv) | 6 |
-| Indonesian | `id` | [2026-11-17 05:20 UTC](data/id/new-articles-2026-11-17T05-20-28Z.csv) | 11 |
+| Korean | `ko` | [2026-11-17 06:18 UTC](data/ko/new-articles-2026-11-17T06-18-34Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-17 06:18 UTC](data/id/new-articles-2026-11-17T06-18-34Z.csv) | 7 |
 | Ukrainian | `uk` | [2026-11-17 05:20 UTC](data/uk/new-articles-2026-11-17T05-20-28Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-11-17 05:20 UTC](data/vi/new-articles-2026-11-17T05-20-28Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-17 06:18 UTC](data/vi/new-articles-2026-11-17T06-18-34Z.csv) | 1 |
 
-## English (en) — 2026-11-17 05:20 UTC
+## English (en) — 2026-11-17 06:18 UTC
 
-New articles created between 2026-11-17 04:19 UTC and 2026-11-17 05:20 UTC.
+New articles created between 2026-11-17 05:20 UTC and 2026-11-17 06:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-17T05-20-28Z.csv)
+[Full CSV](data/en/new-articles-2026-11-17T06-18-34Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-17 04:29:48 | [USCGC Bluefin](https://en.wikipedia.org/wiki/USCGC_Bluefin) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 5,983 |
-| 2026-11-17 04:32:14 | [List of compositions by Florence Price](https://en.wikipedia.org/wiki/List_of_compositions_by_Florence_Price) | [A.Classical-Futurist](https://en.wikipedia.org/wiki/User:A.Classical-Futurist) | 33,831 |
-| 2026-11-17 04:57:12 | [Kristin Kenner](https://en.wikipedia.org/wiki/Kristin_Kenner) | [Tymewalk](https://en.wikipedia.org/wiki/User:Tymewalk) | 3,734 |
-| 2026-11-17 05:00:04 | [The Breakdown (album)](https://en.wikipedia.org/wiki/The_Breakdown_%28album%29) | [L to the K](https://en.wikipedia.org/wiki/User:L_to_the_K) | 5,966 |
-| 2026-11-17 05:03:44 | [USCGC Bonito](https://en.wikipedia.org/wiki/USCGC_Bonito) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 7,156 |
-| 2026-11-17 05:08:21 | [Cecil Gordon McAdam](https://en.wikipedia.org/wiki/Cecil_Gordon_McAdam) | [Cdeverist3934](https://en.wikipedia.org/wiki/User:Cdeverist3934) | 2,305 |
-| 2026-11-17 05:08:34 | [Lasioglossum disclusum](https://en.wikipedia.org/wiki/Lasioglossum_disclusum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,917 |
-| 2026-11-17 05:11:11 | [Rivkah Reyes](https://en.wikipedia.org/wiki/Rivkah_Reyes) | [Andise1](https://en.wikipedia.org/wiki/User:Andise1) | 6,692 |
-| 2026-11-17 05:15:15 | [Paul Osterman](https://en.wikipedia.org/wiki/Paul_Osterman) | [Thriley](https://en.wikipedia.org/wiki/User:Thriley) | 1,930 |
-| 2026-11-17 05:18:38 | [You (DJ Vibe & Ithaka song)](https://en.wikipedia.org/wiki/You_%28DJ_Vibe_%26_Ithaka_song%29) | [LVRof90sHouse](https://en.wikipedia.org/wiki/User:LVRof90sHouse) | 11,412 |
+| 2026-11-17 05:22:34 | [Mimiminu](https://en.wikipedia.org/wiki/Mimiminu) | [김지성1](https://en.wikipedia.org/wiki/User:%EA%B9%80%EC%A7%80%EC%84%B11) | 8,845 |
+| 2026-11-17 05:24:51 | [Chung Seung-je](https://en.wikipedia.org/wiki/Chung_Seung-je) | [김지성1](https://en.wikipedia.org/wiki/User:%EA%B9%80%EC%A7%80%EC%84%B11) | 8,964 |
+| 2026-11-17 05:28:44 | [2026 SEC volleyball tournament](https://en.wikipedia.org/wiki/2026_SEC_volleyball_tournament) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 7,477 |
+| 2026-11-17 05:41:39 | [Animal Político](https://en.wikipedia.org/wiki/Animal_Pol%C3%ADtico) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 5,867 |
+| 2026-11-17 05:41:47 | [Jayannth & the Jingo Pen (2026 film)](https://en.wikipedia.org/wiki/Jayannth_%26_the_Jingo_Pen_%282026_film%29) | [Creativefrog](https://en.wikipedia.org/wiki/User:Creativefrog) | 8,589 |
+| 2026-11-17 05:48:15 | [Debra R. Schoenberg](https://en.wikipedia.org/wiki/Debra_R._Schoenberg) | [Nikolasbrady](https://en.wikipedia.org/wiki/User:Nikolasbrady) | 3,223 |
+| 2026-11-17 05:52:26 | [Alan Javier](https://en.wikipedia.org/wiki/Alan_Javier) | [Trypp](https://en.wikipedia.org/wiki/User:Trypp) | 12,183 |
+| 2026-11-17 06:06:29 | [Advection scheme](https://en.wikipedia.org/wiki/Advection_scheme) | [LaminarHurricane](https://en.wikipedia.org/wiki/User:LaminarHurricane) | 9,273 |
+| 2026-11-17 06:08:05 | [Philine wareni](https://en.wikipedia.org/wiki/Philine_wareni) | [MargaretRDonald](https://en.wikipedia.org/wiki/User:MargaretRDonald) | 1,235 |
+| 2026-11-17 06:08:51 | [Lasioglossum melanopterum](https://en.wikipedia.org/wiki/Lasioglossum_melanopterum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,469 |
+| 2026-11-17 06:12:28 | [Azri Danial Yusra](https://en.wikipedia.org/wiki/Azri_Danial_Yusra) | [Kapisan2016](https://en.wikipedia.org/wiki/User:Kapisan2016) | 9,946 |
+| 2026-11-17 06:17:20 | [J.P. Pomare](https://en.wikipedia.org/wiki/J.P._Pomare) | [Cdlang32](https://en.wikipedia.org/wiki/User:Cdlang32) | 5,498 |
