@@ -13,44 +13,42 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-17 06:18 UTC](data/en/new-articles-2026-11-17T06-18-34Z.csv) | 12 |
-| Japanese | `ja` | [2026-11-17 06:18 UTC](data/ja/new-articles-2026-11-17T06-18-34Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-17 06:18 UTC](data/zh/new-articles-2026-11-17T06-18-34Z.csv) | 13 |
+| English | `en` | [2026-11-17 07:20 UTC](data/en/new-articles-2026-11-17T07-20-09Z.csv) | 10 |
+| Japanese | `ja` | [2026-11-17 07:20 UTC](data/ja/new-articles-2026-11-17T07-20-09Z.csv) | 7 |
+| Chinese | `zh` | [2026-11-17 07:20 UTC](data/zh/new-articles-2026-11-17T07-20-09Z.csv) | 18 |
 | French | `fr` | [2026-11-17 06:18 UTC](data/fr/new-articles-2026-11-17T06-18-34Z.csv) | 1 |
-| German | `de` | [2026-11-17 06:18 UTC](data/de/new-articles-2026-11-17T06-18-34Z.csv) | 2 |
-| Russian | `ru` | [2026-11-17 06:18 UTC](data/ru/new-articles-2026-11-17T06-18-34Z.csv) | 3 |
-| Spanish | `es` | [2026-11-17 05:20 UTC](data/es/new-articles-2026-11-17T05-20-28Z.csv) | 8 |
-| Italian | `it` | [2026-11-17 06:18 UTC](data/it/new-articles-2026-11-17T06-18-34Z.csv) | 3 |
-| Portuguese | `pt` | [2026-11-17 06:18 UTC](data/pt/new-articles-2026-11-17T06-18-34Z.csv) | 2 |
-| Polish | `pl` | [2026-11-17 03:19 UTC](data/pl/new-articles-2026-11-17T03-19-01Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-17 06:18 UTC](data/ar/new-articles-2026-11-17T06-18-34Z.csv) | 1 |
-| Persian | `fa` | [2026-11-17 06:18 UTC](data/fa/new-articles-2026-11-17T06-18-34Z.csv) | 12 |
-| Turkish | `tr` | [2026-11-17 06:18 UTC](data/tr/new-articles-2026-11-17T06-18-34Z.csv) | 4 |
-| Hebrew | `he` | [2026-11-17 06:18 UTC](data/he/new-articles-2026-11-17T06-18-34Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-17 06:18 UTC](data/sv/new-articles-2026-11-17T06-18-34Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-17 04:19 UTC](data/nl/new-articles-2026-11-17T04-19-16Z.csv) | 1 |
-| Korean | `ko` | [2026-11-17 06:18 UTC](data/ko/new-articles-2026-11-17T06-18-34Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-17 06:18 UTC](data/id/new-articles-2026-11-17T06-18-34Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-11-17 05:20 UTC](data/uk/new-articles-2026-11-17T05-20-28Z.csv) | 2 |
+| German | `de` | [2026-11-17 07:20 UTC](data/de/new-articles-2026-11-17T07-20-09Z.csv) | 8 |
+| Russian | `ru` | [2026-11-17 07:20 UTC](data/ru/new-articles-2026-11-17T07-20-09Z.csv) | 5 |
+| Spanish | `es` | [2026-11-17 07:20 UTC](data/es/new-articles-2026-11-17T07-20-09Z.csv) | 3 |
+| Italian | `it` | [2026-11-17 07:20 UTC](data/it/new-articles-2026-11-17T07-20-09Z.csv) | 4 |
+| Portuguese | `pt` | [2026-11-17 07:20 UTC](data/pt/new-articles-2026-11-17T07-20-09Z.csv) | 1 |
+| Polish | `pl` | [2026-11-17 07:20 UTC](data/pl/new-articles-2026-11-17T07-20-09Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-17 07:20 UTC](data/ar/new-articles-2026-11-17T07-20-09Z.csv) | 10 |
+| Persian | `fa` | [2026-11-17 07:20 UTC](data/fa/new-articles-2026-11-17T07-20-09Z.csv) | 20 |
+| Turkish | `tr` | [2026-11-17 07:20 UTC](data/tr/new-articles-2026-11-17T07-20-09Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-17 07:20 UTC](data/he/new-articles-2026-11-17T07-20-09Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-17 07:20 UTC](data/sv/new-articles-2026-11-17T07-20-09Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-17 07:20 UTC](data/nl/new-articles-2026-11-17T07-20-09Z.csv) | 1 |
+| Korean | `ko` | [2026-11-17 07:20 UTC](data/ko/new-articles-2026-11-17T07-20-09Z.csv) | 9 |
+| Indonesian | `id` | [2026-11-17 07:20 UTC](data/id/new-articles-2026-11-17T07-20-09Z.csv) | 10 |
+| Ukrainian | `uk` | [2026-11-17 07:20 UTC](data/uk/new-articles-2026-11-17T07-20-09Z.csv) | 3 |
 | Vietnamese | `vi` | [2026-11-17 06:18 UTC](data/vi/new-articles-2026-11-17T06-18-34Z.csv) | 1 |
 
-## English (en) — 2026-11-17 06:18 UTC
+## English (en) — 2026-11-17 07:20 UTC
 
-New articles created between 2026-11-17 05:20 UTC and 2026-11-17 06:18 UTC.
+New articles created between 2026-11-17 06:18 UTC and 2026-11-17 07:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-17T06-18-34Z.csv)
+[Full CSV](data/en/new-articles-2026-11-17T07-20-09Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-17 05:22:34 | [Mimiminu](https://en.wikipedia.org/wiki/Mimiminu) | [김지성1](https://en.wikipedia.org/wiki/User:%EA%B9%80%EC%A7%80%EC%84%B11) | 8,845 |
-| 2026-11-17 05:24:51 | [Chung Seung-je](https://en.wikipedia.org/wiki/Chung_Seung-je) | [김지성1](https://en.wikipedia.org/wiki/User:%EA%B9%80%EC%A7%80%EC%84%B11) | 8,964 |
-| 2026-11-17 05:28:44 | [2026 SEC volleyball tournament](https://en.wikipedia.org/wiki/2026_SEC_volleyball_tournament) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 7,477 |
-| 2026-11-17 05:41:39 | [Animal Político](https://en.wikipedia.org/wiki/Animal_Pol%C3%ADtico) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 5,867 |
-| 2026-11-17 05:41:47 | [Jayannth & the Jingo Pen (2026 film)](https://en.wikipedia.org/wiki/Jayannth_%26_the_Jingo_Pen_%282026_film%29) | [Creativefrog](https://en.wikipedia.org/wiki/User:Creativefrog) | 8,589 |
-| 2026-11-17 05:48:15 | [Debra R. Schoenberg](https://en.wikipedia.org/wiki/Debra_R._Schoenberg) | [Nikolasbrady](https://en.wikipedia.org/wiki/User:Nikolasbrady) | 3,223 |
-| 2026-11-17 05:52:26 | [Alan Javier](https://en.wikipedia.org/wiki/Alan_Javier) | [Trypp](https://en.wikipedia.org/wiki/User:Trypp) | 12,183 |
-| 2026-11-17 06:06:29 | [Advection scheme](https://en.wikipedia.org/wiki/Advection_scheme) | [LaminarHurricane](https://en.wikipedia.org/wiki/User:LaminarHurricane) | 9,273 |
-| 2026-11-17 06:08:05 | [Philine wareni](https://en.wikipedia.org/wiki/Philine_wareni) | [MargaretRDonald](https://en.wikipedia.org/wiki/User:MargaretRDonald) | 1,235 |
-| 2026-11-17 06:08:51 | [Lasioglossum melanopterum](https://en.wikipedia.org/wiki/Lasioglossum_melanopterum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,469 |
-| 2026-11-17 06:12:28 | [Azri Danial Yusra](https://en.wikipedia.org/wiki/Azri_Danial_Yusra) | [Kapisan2016](https://en.wikipedia.org/wiki/User:Kapisan2016) | 9,946 |
-| 2026-11-17 06:17:20 | [J.P. Pomare](https://en.wikipedia.org/wiki/J.P._Pomare) | [Cdlang32](https://en.wikipedia.org/wiki/User:Cdlang32) | 5,498 |
+| 2026-11-17 06:19:47 | [Chikeezing (film)](https://en.wikipedia.org/wiki/Chikeezing_%28film%29) | [Anandrajkumar0000](https://en.wikipedia.org/wiki/User:Anandrajkumar0000) | 4,590 |
+| 2026-11-17 06:26:46 | [Al-Hakim Mosque (Indonesia)](https://en.wikipedia.org/wiki/Al-Hakim_Mosque_%28Indonesia%29) | [RabidTuberculosis](https://en.wikipedia.org/wiki/User:RabidTuberculosis) | 8,152 |
+| 2026-11-17 06:27:14 | [Eugenia umbellulifera](https://en.wikipedia.org/wiki/Eugenia_umbellulifera) | [Tom Radulovich](https://en.wikipedia.org/wiki/User:Tom_Radulovich) | 2,021 |
+| 2026-11-17 06:29:25 | [Saint Matthias–on–the–Weir, Bristol](https://en.wikipedia.org/wiki/Saint_Matthias%E2%80%93on%E2%80%93the%E2%80%93Weir%2C_Bristol) | [Julius Barclay](https://en.wikipedia.org/wiki/User:Julius_Barclay) | 3,911 |
+| 2026-11-17 06:32:30 | [Kartar Singh (Sikh musician)](https://en.wikipedia.org/wiki/Kartar_Singh_%28Sikh_musician%29) | [Kuldeepburjbhalaike](https://en.wikipedia.org/wiki/User:Kuldeepburjbhalaike) | 529 |
+| 2026-11-17 06:32:57 | [North Jersey District Water Supply Commission](https://en.wikipedia.org/wiki/North_Jersey_District_Water_Supply_Commission) | [Kether83](https://en.wikipedia.org/wiki/User:Kether83) | 2,133 |
+| 2026-11-17 06:51:52 | [Electoral threshold by country](https://en.wikipedia.org/wiki/Electoral_threshold_by_country) | [Erel Segal](https://en.wikipedia.org/wiki/User:Erel_Segal) | 63,549 |
+| 2026-11-17 07:00:19 | [Ahilya Moshos](https://en.wikipedia.org/wiki/Ahilya_Moshos) | [Scorpio835](https://en.wikipedia.org/wiki/User:Scorpio835) | 6,734 |
+| 2026-11-17 07:14:20 | [Los Lorenzanas](https://en.wikipedia.org/wiki/Los_Lorenzanas) | [Fastdriver20](https://en.wikipedia.org/wiki/User:Fastdriver20) | 5,252 |
+| 2026-11-17 07:17:21 | [Yelena Malykhina](https://en.wikipedia.org/wiki/Yelena_Malykhina) | [Scorpio835](https://en.wikipedia.org/wiki/User:Scorpio835) | 6,204 |
