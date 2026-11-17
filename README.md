@@ -13,72 +13,70 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-17 16:20 UTC](data/en/new-articles-2026-11-17T16-20-26Z.csv) | 40 |
-| Japanese | `ja` | [2026-11-17 16:20 UTC](data/ja/new-articles-2026-11-17T16-20-26Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-17 16:20 UTC](data/zh/new-articles-2026-11-17T16-20-26Z.csv) | 7 |
-| French | `fr` | [2026-11-17 16:20 UTC](data/fr/new-articles-2026-11-17T16-20-26Z.csv) | 13 |
-| German | `de` | [2026-11-17 16:20 UTC](data/de/new-articles-2026-11-17T16-20-26Z.csv) | 11 |
-| Russian | `ru` | [2026-11-17 16:20 UTC](data/ru/new-articles-2026-11-17T16-20-26Z.csv) | 5 |
-| Spanish | `es` | [2026-11-17 16:20 UTC](data/es/new-articles-2026-11-17T16-20-26Z.csv) | 19 |
-| Italian | `it` | [2026-11-17 16:20 UTC](data/it/new-articles-2026-11-17T16-20-26Z.csv) | 10 |
-| Portuguese | `pt` | [2026-11-17 16:20 UTC](data/pt/new-articles-2026-11-17T16-20-26Z.csv) | 19 |
-| Polish | `pl` | [2026-11-17 16:20 UTC](data/pl/new-articles-2026-11-17T16-20-26Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-17 16:20 UTC](data/ar/new-articles-2026-11-17T16-20-26Z.csv) | 3 |
-| Persian | `fa` | [2026-11-17 16:20 UTC](data/fa/new-articles-2026-11-17T16-20-26Z.csv) | 16 |
-| Turkish | `tr` | [2026-11-17 16:20 UTC](data/tr/new-articles-2026-11-17T16-20-26Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-17 16:20 UTC](data/he/new-articles-2026-11-17T16-20-26Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-17 16:20 UTC](data/sv/new-articles-2026-11-17T16-20-26Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-17 16:20 UTC](data/nl/new-articles-2026-11-17T16-20-26Z.csv) | 5 |
-| Korean | `ko` | [2026-11-17 16:20 UTC](data/ko/new-articles-2026-11-17T16-20-26Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-17 15:18 UTC](data/id/new-articles-2026-11-17T15-18-35Z.csv) | 9 |
-| Ukrainian | `uk` | [2026-11-17 16:20 UTC](data/uk/new-articles-2026-11-17T16-20-26Z.csv) | 9 |
-| Vietnamese | `vi` | [2026-11-17 16:20 UTC](data/vi/new-articles-2026-11-17T16-20-26Z.csv) | 2 |
+| English | `en` | [2026-11-17 17:21 UTC](data/en/new-articles-2026-11-17T17-21-14Z.csv) | 38 |
+| Japanese | `ja` | [2026-11-17 17:21 UTC](data/ja/new-articles-2026-11-17T17-21-14Z.csv) | 8 |
+| Chinese | `zh` | [2026-11-17 17:21 UTC](data/zh/new-articles-2026-11-17T17-21-14Z.csv) | 3 |
+| French | `fr` | [2026-11-17 17:21 UTC](data/fr/new-articles-2026-11-17T17-21-14Z.csv) | 12 |
+| German | `de` | [2026-11-17 17:21 UTC](data/de/new-articles-2026-11-17T17-21-14Z.csv) | 13 |
+| Russian | `ru` | [2026-11-17 17:21 UTC](data/ru/new-articles-2026-11-17T17-21-14Z.csv) | 29 |
+| Spanish | `es` | [2026-11-17 17:21 UTC](data/es/new-articles-2026-11-17T17-21-14Z.csv) | 17 |
+| Italian | `it` | [2026-11-17 17:21 UTC](data/it/new-articles-2026-11-17T17-21-14Z.csv) | 11 |
+| Portuguese | `pt` | [2026-11-17 17:21 UTC](data/pt/new-articles-2026-11-17T17-21-14Z.csv) | 15 |
+| Polish | `pl` | [2026-11-17 17:21 UTC](data/pl/new-articles-2026-11-17T17-21-14Z.csv) | 7 |
+| Arabic | `ar` | [2026-11-17 17:21 UTC](data/ar/new-articles-2026-11-17T17-21-14Z.csv) | 4 |
+| Persian | `fa` | [2026-11-17 17:21 UTC](data/fa/new-articles-2026-11-17T17-21-14Z.csv) | 14 |
+| Turkish | `tr` | [2026-11-17 17:21 UTC](data/tr/new-articles-2026-11-17T17-21-14Z.csv) | 3 |
+| Hebrew | `he` | [2026-11-17 17:21 UTC](data/he/new-articles-2026-11-17T17-21-14Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-17 17:21 UTC](data/sv/new-articles-2026-11-17T17-21-14Z.csv) | 5 |
+| Dutch | `nl` | [2026-11-17 17:21 UTC](data/nl/new-articles-2026-11-17T17-21-14Z.csv) | 7 |
+| Korean | `ko` | [2026-11-17 17:21 UTC](data/ko/new-articles-2026-11-17T17-21-14Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-17 17:21 UTC](data/id/new-articles-2026-11-17T17-21-14Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-17 17:21 UTC](data/uk/new-articles-2026-11-17T17-21-14Z.csv) | 8 |
+| Vietnamese | `vi` | [2026-11-17 17:21 UTC](data/vi/new-articles-2026-11-17T17-21-14Z.csv) | 3 |
 
-## English (en) — 2026-11-17 16:20 UTC
+## English (en) — 2026-11-17 17:21 UTC
 
-New articles created between 2026-11-17 15:18 UTC and 2026-11-17 16:20 UTC.
+New articles created between 2026-11-17 16:20 UTC and 2026-11-17 17:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-17T16-20-26Z.csv)
+[Full CSV](data/en/new-articles-2026-11-17T17-21-14Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-17 15:21:23 | [Termitopisthes termiticola](https://en.wikipedia.org/wiki/Termitopisthes_termiticola) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,455 |
-| 2026-11-17 15:23:06 | [Body swap appearances in television](https://en.wikipedia.org/wiki/Body_swap_appearances_in_television) | [Itzcuauhtli11](https://en.wikipedia.org/wiki/User:Itzcuauhtli11) | 118,736 |
-| 2026-11-17 15:24:05 | [Keith Pritchard](https://en.wikipedia.org/wiki/Keith_Pritchard) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,093 |
-| 2026-11-17 15:24:34 | [Paracorythoderus](https://en.wikipedia.org/wiki/Paracorythoderus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,924 |
-| 2026-11-17 15:29:32 | [Papa Gets the Bird](https://en.wikipedia.org/wiki/Papa_Gets_the_Bird) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,603 |
-| 2026-11-17 15:29:52 | [November 2026 technology outages](https://en.wikipedia.org/wiki/November_2026_technology_outages) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 804 |
-| 2026-11-17 15:30:17 | [Paracorythoderus ridens](https://en.wikipedia.org/wiki/Paracorythoderus_ridens) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,918 |
-| 2026-11-17 15:31:45 | [二泉映月](https://en.wikipedia.org/wiki/%E4%BA%8C%E6%B3%89%E6%98%A0%E6%9C%88) | [B81161625](https://en.wikipedia.org/wiki/User:B81161625) | 2,778 |
-| 2026-11-17 15:32:13 | [Kevin Onstott](https://en.wikipedia.org/wiki/Kevin_Onstott) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,031 |
-| 2026-11-17 15:33:03 | [Paracorythoderus casperi](https://en.wikipedia.org/wiki/Paracorythoderus_casperi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,868 |
-| 2026-11-17 15:34:05 | [Frank Kimble](https://en.wikipedia.org/wiki/Frank_Kimble) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 4,183 |
-| 2026-11-17 15:35:50 | [Onstott](https://en.wikipedia.org/wiki/Onstott) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 170 |
-| 2026-11-17 15:36:46 | [25th Illinois General Assembly](https://en.wikipedia.org/wiki/25th_Illinois_General_Assembly) | [Patapsco913](https://en.wikipedia.org/wiki/User:Patapsco913) | 1,704 |
-| 2026-11-17 15:39:38 | [Arthur Diósy](https://en.wikipedia.org/wiki/Arthur_Di%C3%B3sy) | [Blu Adi](https://en.wikipedia.org/wiki/User:Blu_Adi) | 9,189 |
-| 2026-11-17 15:39:51 | [Raaja Rani (TV series)](https://en.wikipedia.org/wiki/Raaja_Rani_%28TV_series%29) | [Libraa2019](https://en.wikipedia.org/wiki/User:Libraa2019) | 3,198 |
-| 2026-11-17 15:40:17 | [Jetour X70M](https://en.wikipedia.org/wiki/Jetour_X70M) | [Jengtingchen](https://en.wikipedia.org/wiki/User:Jengtingchen) | 397 |
-| 2026-11-17 15:41:14 | [Liam Wilson (boxer)](https://en.wikipedia.org/wiki/Liam_Wilson_%28boxer%29) | [Litmus123](https://en.wikipedia.org/wiki/User:Litmus123) | 4,011 |
-| 2026-11-17 15:43:05 | [Brenden Kelley](https://en.wikipedia.org/wiki/Brenden_Kelley) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,940 |
-| 2026-11-17 15:45:41 | [Los Huistas](https://en.wikipedia.org/wiki/Los_Huistas) | [Fastdriver20](https://en.wikipedia.org/wiki/User:Fastdriver20) | 5,061 |
-| 2026-11-17 15:51:02 | [Corry Kenner](https://en.wikipedia.org/wiki/Corry_Kenner) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,400 |
-| 2026-11-17 15:52:17 | [William Worsham](https://en.wikipedia.org/wiki/William_Worsham) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,033 |
-| 2026-11-17 15:54:47 | [Body swap appearances in film](https://en.wikipedia.org/wiki/Body_swap_appearances_in_film) | [Itzcuauhtli11](https://en.wikipedia.org/wiki/User:Itzcuauhtli11) | 40,426 |
-| 2026-11-17 15:56:26 | [Qubba al-Fadawiyya Mosque](https://en.wikipedia.org/wiki/Qubba_al-Fadawiyya_Mosque) | [Prosnu](https://en.wikipedia.org/wiki/User:Prosnu) | 3,183 |
-| 2026-11-17 15:59:56 | [Slave Driver](https://en.wikipedia.org/wiki/Slave_Driver) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 3,514 |
-| 2026-11-17 16:02:06 | [Charlotte Nutt](https://en.wikipedia.org/wiki/Charlotte_Nutt) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,453 |
-| 2026-11-17 16:03:59 | [1990 Westmeath Senior Hurling Championship](https://en.wikipedia.org/wiki/1990_Westmeath_Senior_Hurling_Championship) | [Panto Anto](https://en.wikipedia.org/wiki/User:Panto_Anto) | 3,658 |
-| 2026-11-17 16:04:00 | [John Chiles (politician)](https://en.wikipedia.org/wiki/John_Chiles_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,718 |
-| 2026-11-17 16:04:10 | [2026 Russian Air Force Antonov An-12 crash](https://en.wikipedia.org/wiki/2026_Russian_Air_Force_Antonov_An-12_crash) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 388 |
-| 2026-11-17 16:04:45 | [John Kondrla](https://en.wikipedia.org/wiki/John_Kondrla) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 3,717 |
-| 2026-11-17 16:06:04 | [Reed Johnson (politician)](https://en.wikipedia.org/wiki/Reed_Johnson_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,400 |
-| 2026-11-17 16:07:06 | [Miami-Dade Public Housing Agency](https://en.wikipedia.org/wiki/Miami-Dade_Public_Housing_Agency) | [Malcolmhendy](https://en.wikipedia.org/wiki/User:Malcolmhendy) | 421 |
-| 2026-11-17 16:11:00 | [Jeff Brown (Missouri politician)](https://en.wikipedia.org/wiki/Jeff_Brown_%28Missouri_politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,629 |
-| 2026-11-17 16:11:54 | [Huang Ribo](https://en.wikipedia.org/wiki/Huang_Ribo) | [Shwangtianyuan](https://en.wikipedia.org/wiki/User:Shwangtianyuan) | 5,209 |
-| 2026-11-17 16:12:37 | [Shanya Gill](https://en.wikipedia.org/wiki/Shanya_Gill) | [Strivemilic](https://en.wikipedia.org/wiki/User:Strivemilic) | 6,000 |
-| 2026-11-17 16:12:41 | [Jesse St. Gelais](https://en.wikipedia.org/wiki/Jesse_St._Gelais) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,598 |
-| 2026-11-17 16:15:44 | [Jon Lee (politician)](https://en.wikipedia.org/wiki/Jon_Lee_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,467 |
-| 2026-11-17 16:16:21 | [Rupahati](https://en.wikipedia.org/wiki/Rupahati) | [NAQW92](https://en.wikipedia.org/wiki/User:NAQW92) | 14 |
-| 2026-11-17 16:16:33 | [Scott Crumpecker](https://en.wikipedia.org/wiki/Scott_Crumpecker) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,509 |
-| 2026-11-17 16:19:02 | [Andrei Makarov (politician)](https://en.wikipedia.org/wiki/Andrei_Makarov_%28politician%29) | [Athanasius238](https://en.wikipedia.org/wiki/User:Athanasius238) | 2,337 |
-| 2026-11-17 16:20:01 | [Michael Welsh (Oregon politician)](https://en.wikipedia.org/wiki/Michael_Welsh_%28Oregon_politician%29) | [Esprqii](https://en.wikipedia.org/wiki/User:Esprqii) | 1,530 |
+| 2026-11-17 16:20:45 | [CVSky](https://en.wikipedia.org/wiki/CVSky) | [Dablue](https://en.wikipedia.org/wiki/User:Dablue) | 9,873 |
+| 2026-11-17 16:20:50 | [Jerry Roche](https://en.wikipedia.org/wiki/Jerry_Roche) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,438 |
+| 2026-11-17 16:22:19 | [Cheryle Perkins](https://en.wikipedia.org/wiki/Cheryle_Perkins) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,307 |
+| 2026-11-17 16:24:30 | [Laura Dronen](https://en.wikipedia.org/wiki/Laura_Dronen) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,401 |
+| 2026-11-17 16:24:42 | [Microdous](https://en.wikipedia.org/wiki/Microdous) | [Quetzal1964](https://en.wikipedia.org/wiki/User:Quetzal1964) | 1,117 |
+| 2026-11-17 16:25:12 | [CVsky](https://en.wikipedia.org/wiki/CVsky) | [Dablue](https://en.wikipedia.org/wiki/User:Dablue) | 9,873 |
+| 2026-11-17 16:26:11 | [Cheryle](https://en.wikipedia.org/wiki/Cheryle) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 347 |
+| 2026-11-17 16:27:01 | [Corey Johnson (North Dakota politician)](https://en.wikipedia.org/wiki/Corey_Johnson_%28North_Dakota_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,435 |
+| 2026-11-17 16:29:14 | [Claude eugene garton](https://en.wikipedia.org/wiki/Claude_eugene_garton) | [Skjanes tbay](https://en.wikipedia.org/wiki/User:Skjanes_tbay) | 3,497 |
+| 2026-11-17 16:29:38 | [Shadow Soul](https://en.wikipedia.org/wiki/Shadow_Soul) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 3,985 |
+| 2026-11-17 16:30:17 | [Terry Goerger](https://en.wikipedia.org/wiki/Terry_Goerger) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,405 |
+| 2026-11-17 16:31:22 | [Shawn Kessel](https://en.wikipedia.org/wiki/Shawn_Kessel) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,400 |
+| 2026-11-17 16:32:17 | [Kevin Wolsky](https://en.wikipedia.org/wiki/Kevin_Wolsky) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,400 |
+| 2026-11-17 16:34:06 | [Mike Heger](https://en.wikipedia.org/wiki/Mike_Heger) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,390 |
+| 2026-11-17 16:34:22 | [Gisela Triana](https://en.wikipedia.org/wiki/Gisela_Triana) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 1,028 |
+| 2026-11-17 16:34:48 | [Shahla Ismail](https://en.wikipedia.org/wiki/Shahla_Ismail) | [Victuallers](https://en.wikipedia.org/wiki/User:Victuallers) | 3,782 |
+| 2026-11-17 16:34:55 | [Louise Secker](https://en.wikipedia.org/wiki/Louise_Secker) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,757 |
+| 2026-11-17 16:37:15 | [Jaime Hawk](https://en.wikipedia.org/wiki/Jaime_Hawk) | [Miraclepine](https://en.wikipedia.org/wiki/User:Miraclepine) | 965 |
+| 2026-11-17 16:39:12 | [Kylan Klauzer](https://en.wikipedia.org/wiki/Kylan_Klauzer) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,405 |
+| 2026-11-17 16:43:33 | [John Drinkwater (politician)](https://en.wikipedia.org/wiki/John_Drinkwater_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,605 |
+| 2026-11-17 16:47:05 | [Univillion](https://en.wikipedia.org/wiki/Univillion) | [Citipedia2048](https://en.wikipedia.org/wiki/User:Citipedia2048) | 2,520 |
+| 2026-11-17 16:47:37 | [Paracorythoderus marshalli](https://en.wikipedia.org/wiki/Paracorythoderus_marshalli) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,195 |
+| 2026-11-17 16:48:28 | [Dean Helmick](https://en.wikipedia.org/wiki/Dean_Helmick) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,895 |
+| 2026-11-17 16:48:29 | [Celina Reyes](https://en.wikipedia.org/wiki/Celina_Reyes) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,691 |
+| 2026-11-17 16:53:58 | [USCGC Brant](https://en.wikipedia.org/wiki/USCGC_Brant) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 5,516 |
+| 2026-11-17 16:56:16 | [Hospitalism (public health)](https://en.wikipedia.org/wiki/Hospitalism_%28public_health%29) | [Scope creep](https://en.wikipedia.org/wiki/User:Scope_creep) | 1,154 |
+| 2026-11-17 16:58:48 | [Rebecca Harned](https://en.wikipedia.org/wiki/Rebecca_Harned) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,356 |
+| 2026-11-17 17:00:56 | [Esporte Clube Olímpia](https://en.wikipedia.org/wiki/Esporte_Clube_Ol%C3%ADmpia) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 4,444 |
+| 2026-11-17 17:07:31 | [Pia Laviosa Zambotti](https://en.wikipedia.org/wiki/Pia_Laviosa_Zambotti) | [Spinster300](https://en.wikipedia.org/wiki/User:Spinster300) | 1,200 |
+| 2026-11-17 17:08:56 | [2028 North Carolina gubernatorial election](https://en.wikipedia.org/wiki/2028_North_Carolina_gubernatorial_election) | [Yoblyblob](https://en.wikipedia.org/wiki/User:Yoblyblob) | 2,823 |
+| 2026-11-17 17:08:59 | [2027 CONIFA Women's World Football Cup](https://en.wikipedia.org/wiki/2027_CONIFA_Women%27s_World_Football_Cup) | [Sherms95](https://en.wikipedia.org/wiki/User:Sherms95) | 2,144 |
+| 2026-11-17 17:12:33 | [2026-27 Creighton Bluejays men's basketball team](https://en.wikipedia.org/wiki/2026-27_Creighton_Bluejays_men%27s_basketball_team) | [TheAmazingRaspberry](https://en.wikipedia.org/wiki/User:TheAmazingRaspberry) | 9,337 |
+| 2026-11-17 17:13:02 | [Hemicorythoderus](https://en.wikipedia.org/wiki/Hemicorythoderus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,980 |
+| 2026-11-17 17:15:45 | [Listed buildings in Bishopthorpe](https://en.wikipedia.org/wiki/Listed_buildings_in_Bishopthorpe) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 26,556 |
+| 2026-11-17 17:15:56 | [Teter (surname)](https://en.wikipedia.org/wiki/Teter_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 151 |
+| 2026-11-17 17:20:02 | [Baharsjah](https://en.wikipedia.org/wiki/Baharsjah) | [PamD](https://en.wikipedia.org/wiki/User:PamD) | 330 |
+| 2026-11-17 17:20:02 | [Arvind Raiyani](https://en.wikipedia.org/wiki/Arvind_Raiyani) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,395 |
+| 2026-11-17 17:20:16 | [Cindy Maxwell-Ostdiek](https://en.wikipedia.org/wiki/Cindy_Maxwell-Ostdiek) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,242 |
