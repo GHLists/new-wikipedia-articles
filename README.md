@@ -13,67 +13,67 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-18 22:19 UTC](data/en/new-articles-2026-11-18T22-19-58Z.csv) | 35 |
-| Japanese | `ja` | [2026-11-18 22:19 UTC](data/ja/new-articles-2026-11-18T22-19-58Z.csv) | 1 |
-| Chinese | `zh` | [2026-11-18 21:19 UTC](data/zh/new-articles-2026-11-18T21-19-58Z.csv) | 2 |
-| French | `fr` | [2026-11-18 22:19 UTC](data/fr/new-articles-2026-11-18T22-19-58Z.csv) | 4 |
-| German | `de` | [2026-11-18 22:19 UTC](data/de/new-articles-2026-11-18T22-19-58Z.csv) | 16 |
-| Russian | `ru` | [2026-11-18 22:19 UTC](data/ru/new-articles-2026-11-18T22-19-58Z.csv) | 8 |
-| Spanish | `es` | [2026-11-18 22:19 UTC](data/es/new-articles-2026-11-18T22-19-58Z.csv) | 12 |
-| Italian | `it` | [2026-11-18 22:19 UTC](data/it/new-articles-2026-11-18T22-19-58Z.csv) | 3 |
-| Portuguese | `pt` | [2026-11-18 22:19 UTC](data/pt/new-articles-2026-11-18T22-19-58Z.csv) | 10 |
-| Polish | `pl` | [2026-11-18 22:19 UTC](data/pl/new-articles-2026-11-18T22-19-58Z.csv) | 18 |
-| Arabic | `ar` | [2026-11-18 22:19 UTC](data/ar/new-articles-2026-11-18T22-19-58Z.csv) | 8 |
+| English | `en` | [2026-11-18 23:20 UTC](data/en/new-articles-2026-11-18T23-20-18Z.csv) | 35 |
+| Japanese | `ja` | [2026-11-18 23:20 UTC](data/ja/new-articles-2026-11-18T23-20-18Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-18 23:20 UTC](data/zh/new-articles-2026-11-18T23-20-18Z.csv) | 1 |
+| French | `fr` | [2026-11-18 23:20 UTC](data/fr/new-articles-2026-11-18T23-20-18Z.csv) | 1 |
+| German | `de` | [2026-11-18 23:20 UTC](data/de/new-articles-2026-11-18T23-20-18Z.csv) | 4 |
+| Russian | `ru` | [2026-11-18 23:20 UTC](data/ru/new-articles-2026-11-18T23-20-18Z.csv) | 6 |
+| Spanish | `es` | [2026-11-18 23:20 UTC](data/es/new-articles-2026-11-18T23-20-18Z.csv) | 6 |
+| Italian | `it` | [2026-11-18 23:20 UTC](data/it/new-articles-2026-11-18T23-20-18Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-18 23:20 UTC](data/pt/new-articles-2026-11-18T23-20-18Z.csv) | 5 |
+| Polish | `pl` | [2026-11-18 23:20 UTC](data/pl/new-articles-2026-11-18T23-20-18Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-18 23:20 UTC](data/ar/new-articles-2026-11-18T23-20-18Z.csv) | 7 |
 | Persian | `fa` | [2026-11-18 22:19 UTC](data/fa/new-articles-2026-11-18T22-19-58Z.csv) | 4 |
 | Turkish | `tr` | [2026-11-18 22:19 UTC](data/tr/new-articles-2026-11-18T22-19-58Z.csv) | 6 |
-| Hebrew | `he` | [2026-11-18 22:19 UTC](data/he/new-articles-2026-11-18T22-19-58Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-18 22:19 UTC](data/sv/new-articles-2026-11-18T22-19-58Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-18 22:19 UTC](data/nl/new-articles-2026-11-18T22-19-58Z.csv) | 4 |
-| Korean | `ko` | [2026-11-18 22:19 UTC](data/ko/new-articles-2026-11-18T22-19-58Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-18 21:19 UTC](data/id/new-articles-2026-11-18T21-19-58Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-18 22:19 UTC](data/uk/new-articles-2026-11-18T22-19-58Z.csv) | 6 |
+| Hebrew | `he` | [2026-11-18 23:20 UTC](data/he/new-articles-2026-11-18T23-20-18Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-18 23:20 UTC](data/sv/new-articles-2026-11-18T23-20-18Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-18 23:20 UTC](data/nl/new-articles-2026-11-18T23-20-18Z.csv) | 3 |
+| Korean | `ko` | [2026-11-18 23:20 UTC](data/ko/new-articles-2026-11-18T23-20-18Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-18 23:20 UTC](data/id/new-articles-2026-11-18T23-20-18Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-18 23:20 UTC](data/uk/new-articles-2026-11-18T23-20-18Z.csv) | 6 |
 | Vietnamese | `vi` | [2026-11-18 17:19 UTC](data/vi/new-articles-2026-11-18T17-19-58Z.csv) | 1 |
 
-## English (en) — 2026-11-18 22:19 UTC
+## English (en) — 2026-11-18 23:20 UTC
 
-New articles created between 2026-11-18 21:19 UTC and 2026-11-18 22:19 UTC.
+New articles created between 2026-11-18 22:19 UTC and 2026-11-18 23:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-18T22-19-58Z.csv)
+[Full CSV](data/en/new-articles-2026-11-18T23-20-18Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-18 21:22:23 | [Takane no Nadeshiko](https://en.wikipedia.org/wiki/Takane_no_Nadeshiko) | [Dimensionally](https://en.wikipedia.org/wiki/User:Dimensionally) | 42,123 |
-| 2026-11-18 21:22:51 | [Katharine Clausen](https://en.wikipedia.org/wiki/Katharine_Clausen) | [Smirkybec](https://en.wikipedia.org/wiki/User:Smirkybec) | 4,745 |
-| 2026-11-18 21:25:40 | [William Delbert Funkhouser](https://en.wikipedia.org/wiki/William_Delbert_Funkhouser) | [MealycupSage](https://en.wikipedia.org/wiki/User:MealycupSage) | 9,345 |
-| 2026-11-18 21:25:57 | [Kasristskali](https://en.wikipedia.org/wiki/Kasristskali) | [UncleKhash](https://en.wikipedia.org/wiki/User:UncleKhash) | 1,789 |
-| 2026-11-18 21:30:22 | [Jan Loeff](https://en.wikipedia.org/wiki/Jan_Loeff) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 10,304 |
-| 2026-11-18 21:31:25 | [Holy Church of the Archangels (Taxiarchon)](https://en.wikipedia.org/wiki/Holy_Church_of_the_Archangels_%28Taxiarchon%29) | [Tzim78](https://en.wikipedia.org/wiki/User:Tzim78) | 11,967 |
-| 2026-11-18 21:31:38 | [Grupo Liberación](https://en.wikipedia.org/wiki/Grupo_Liberaci%C3%B3n) | [WIthxoutawarning](https://en.wikipedia.org/wiki/User:WIthxoutawarning) | 8,669 |
-| 2026-11-18 21:34:15 | [Ugandictis](https://en.wikipedia.org/wiki/Ugandictis) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 2,152 |
-| 2026-11-18 21:36:15 | [Moraea brevistyla](https://en.wikipedia.org/wiki/Moraea_brevistyla) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,175 |
-| 2026-11-18 21:41:02 | [Myrna Muñoz](https://en.wikipedia.org/wiki/Myrna_Mu%C3%B1oz) | [Esprqii](https://en.wikipedia.org/wiki/User:Esprqii) | 3,868 |
-| 2026-11-18 21:43:21 | [Irian Ribas Carrasco](https://en.wikipedia.org/wiki/Irian_Ribas_Carrasco) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 4,337 |
-| 2026-11-18 21:44:08 | [Libertas praestantissimum](https://en.wikipedia.org/wiki/Libertas_praestantissimum) | [Arbitrarily0](https://en.wikipedia.org/wiki/User:Arbitrarily0) | 1,473 |
-| 2026-11-18 21:44:59 | [Barnabás Bíró](https://en.wikipedia.org/wiki/Barnab%C3%A1s_B%C3%ADr%C3%B3) | [Rakeck](https://en.wikipedia.org/wiki/User:Rakeck) | 1,267 |
-| 2026-11-18 21:46:37 | [Moraea umbellata](https://en.wikipedia.org/wiki/Moraea_umbellata) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,286 |
-| 2026-11-18 21:46:47 | [Courtney Bangs](https://en.wikipedia.org/wiki/Courtney_Bangs) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,310 |
-| 2026-11-18 21:48:10 | [Charles Henry Danielle](https://en.wikipedia.org/wiki/Charles_Henry_Danielle) | [EditDude](https://en.wikipedia.org/wiki/User:EditDude) | 22,256 |
-| 2026-11-18 21:50:02 | [LeRoy Chatfield](https://en.wikipedia.org/wiki/LeRoy_Chatfield) | [Ungathering](https://en.wikipedia.org/wiki/User:Ungathering) | 5,966 |
-| 2026-11-18 21:51:17 | [Brücke (surname)](https://en.wikipedia.org/wiki/Br%C3%BCcke_%28surname%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 192 |
-| 2026-11-18 21:54:34 | [Zane Myers](https://en.wikipedia.org/wiki/Zane_Myers) | [Supersaints2014](https://en.wikipedia.org/wiki/User:Supersaints2014) | 6,621 |
-| 2026-11-18 21:58:06 | [Moraea pritzeliana](https://en.wikipedia.org/wiki/Moraea_pritzeliana) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,482 |
-| 2026-11-18 21:59:48 | [Shannon DeLoach](https://en.wikipedia.org/wiki/Shannon_DeLoach) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,106 |
-| 2026-11-18 22:00:40 | [Barhee](https://en.wikipedia.org/wiki/Barhee) | [Lavoisier Alvearus](https://en.wikipedia.org/wiki/User:Lavoisier_Alvearus) | 5,488 |
-| 2026-11-18 22:04:08 | [Jorge Martínez Jiménez](https://en.wikipedia.org/wiki/Jorge_Mart%C3%ADnez_Jim%C3%A9nez) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 4,149 |
-| 2026-11-18 22:04:20 | [Montez Aiken](https://en.wikipedia.org/wiki/Montez_Aiken) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,782 |
-| 2026-11-18 22:04:52 | [Moraea elegans](https://en.wikipedia.org/wiki/Moraea_elegans) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,624 |
-| 2026-11-18 22:06:21 | [Bistrot de Pays](https://en.wikipedia.org/wiki/Bistrot_de_Pays) | [HenryMP02](https://en.wikipedia.org/wiki/User:HenryMP02) | 2,554 |
-| 2026-11-18 22:06:22 | [UFFO Group](https://en.wikipedia.org/wiki/UFFO_Group) | [Samyatilius](https://en.wikipedia.org/wiki/User:Samyatilius) | 1,216 |
-| 2026-11-18 22:12:47 | [Moraea cedarmonticola](https://en.wikipedia.org/wiki/Moraea_cedarmonticola) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,163 |
-| 2026-11-18 22:14:19 | [Dhikale](https://en.wikipedia.org/wiki/Dhikale) | [Electron230](https://en.wikipedia.org/wiki/User:Electron230) | 125 |
-| 2026-11-18 22:14:22 | [2008–09 1. FC Köln season](https://en.wikipedia.org/wiki/2008%E2%80%9309_1._FC_K%C3%B6ln_season) | [Marauder09](https://en.wikipedia.org/wiki/User:Marauder09) | 22,457 |
-| 2026-11-18 22:14:57 | [Isaac Lewis Baker](https://en.wikipedia.org/wiki/Isaac_Lewis_Baker) | [Jengod](https://en.wikipedia.org/wiki/User:Jengod) | 6,794 |
-| 2026-11-18 22:15:43 | [Korey Williams (politician)](https://en.wikipedia.org/wiki/Korey_Williams_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,085 |
-| 2026-11-18 22:16:15 | [Aamhi](https://en.wikipedia.org/wiki/Aamhi) | [Electron230](https://en.wikipedia.org/wiki/User:Electron230) | 218 |
-| 2026-11-18 22:16:47 | [Crosby Island Marsh Preserve](https://en.wikipedia.org/wiki/Crosby_Island_Marsh_Preserve) | [Jacob Rampino](https://en.wikipedia.org/wiki/User:Jacob_Rampino) | 1,391 |
-| 2026-11-18 22:18:45 | [Mukundrao](https://en.wikipedia.org/wiki/Mukundrao) | [Electron230](https://en.wikipedia.org/wiki/User:Electron230) | 125 |
+| 2026-11-18 22:21:29 | [Abhiram](https://en.wikipedia.org/wiki/Abhiram) | [Electron230](https://en.wikipedia.org/wiki/User:Electron230) | 197 |
+| 2026-11-18 22:22:28 | [RJP Music SMC Limited](https://en.wikipedia.org/wiki/RJP_Music_SMC_Limited) | [Ripomart](https://en.wikipedia.org/wiki/User:Ripomart) | 5,454 |
+| 2026-11-18 22:23:34 | [Moraea minor](https://en.wikipedia.org/wiki/Moraea_minor) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,257 |
+| 2026-11-18 22:23:39 | [Akira Kurabayashi](https://en.wikipedia.org/wiki/Akira_Kurabayashi) | [GuiltyGearFan37](https://en.wikipedia.org/wiki/User:GuiltyGearFan37) | 6,086 |
+| 2026-11-18 22:24:09 | [House Liao: The Capellan Confederation](https://en.wikipedia.org/wiki/House_Liao%3A_The_Capellan_Confederation) | [BOZ](https://en.wikipedia.org/wiki/User:BOZ) | 1,203 |
+| 2026-11-18 22:24:39 | [Vishnupant](https://en.wikipedia.org/wiki/Vishnupant) | [Electron230](https://en.wikipedia.org/wiki/User:Electron230) | 205 |
+| 2026-11-18 22:27:24 | [Henry Wilkins Wright](https://en.wikipedia.org/wiki/Henry_Wilkins_Wright) | [Nataliacgj](https://en.wikipedia.org/wiki/User:Nataliacgj) | 4,603 |
+| 2026-11-18 22:27:38 | [James Reveley](https://en.wikipedia.org/wiki/James_Reveley) | [Southdevonian](https://en.wikipedia.org/wiki/User:Southdevonian) | 6,507 |
+| 2026-11-18 22:28:30 | [Fall From Heaven II](https://en.wikipedia.org/wiki/Fall_From_Heaven_II) | [Zxcvbnm](https://en.wikipedia.org/wiki/User:Zxcvbnm) | 2,493 |
+| 2026-11-18 22:29:32 | [William Tackett](https://en.wikipedia.org/wiki/William_Tackett) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 8,075 |
+| 2026-11-18 22:29:50 | [Mangharam](https://en.wikipedia.org/wiki/Mangharam) | [Electron230](https://en.wikipedia.org/wiki/User:Electron230) | 105 |
+| 2026-11-18 22:31:18 | [Moraea patens](https://en.wikipedia.org/wiki/Moraea_patens) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,270 |
+| 2026-11-18 22:33:58 | [J. Galen Buckwalter](https://en.wikipedia.org/wiki/J._Galen_Buckwalter) | [Bluerasberry](https://en.wikipedia.org/wiki/User:Bluerasberry) | 5,609 |
+| 2026-11-18 22:34:23 | [House Kurita: The Draconis Combine](https://en.wikipedia.org/wiki/House_Kurita%3A_The_Draconis_Combine) | [BOZ](https://en.wikipedia.org/wiki/User:BOZ) | 1,226 |
+| 2026-11-18 22:34:49 | [Sucheta](https://en.wikipedia.org/wiki/Sucheta) | [Electron230](https://en.wikipedia.org/wiki/User:Electron230) | 241 |
+| 2026-11-18 22:35:09 | [Angle Bush](https://en.wikipedia.org/wiki/Angle_Bush) | [Cocojan](https://en.wikipedia.org/wiki/User:Cocojan) | 1,544 |
+| 2026-11-18 22:38:00 | [H-1 (date)](https://en.wikipedia.org/wiki/H-1_%28date%29) | [Lavoisier Alvearus](https://en.wikipedia.org/wiki/User:Lavoisier_Alvearus) | 5,906 |
+| 2026-11-18 22:39:02 | [History of Raja CA](https://en.wikipedia.org/wiki/History_of_Raja_CA) | [Oussama 499](https://en.wikipedia.org/wiki/User:Oussama_499) | 2,114 |
+| 2026-11-18 22:40:16 | [Moraea comptonii](https://en.wikipedia.org/wiki/Moraea_comptonii) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,354 |
+| 2026-11-18 22:41:08 | [History of Raja CA (1949–1990)](https://en.wikipedia.org/wiki/History_of_Raja_CA_%281949%E2%80%931990%29) | [Oussama 499](https://en.wikipedia.org/wiki/User:Oussama_499) | 71,151 |
+| 2026-11-18 22:42:04 | [History of Raja CA (1990–present)](https://en.wikipedia.org/wiki/History_of_Raja_CA_%281990%E2%80%93present%29) | [Oussama 499](https://en.wikipedia.org/wiki/User:Oussama_499) | 102,567 |
+| 2026-11-18 22:44:51 | [Blossoming Chestnut Trees](https://en.wikipedia.org/wiki/Blossoming_Chestnut_Trees) | [No Swan So Fine](https://en.wikipedia.org/wiki/User:No_Swan_So_Fine) | 1,860 |
+| 2026-11-18 22:45:10 | [House Marik: The Free Worlds League](https://en.wikipedia.org/wiki/House_Marik%3A_The_Free_Worlds_League) | [BOZ](https://en.wikipedia.org/wiki/User:BOZ) | 1,239 |
+| 2026-11-18 22:50:55 | [Moraea ciliata](https://en.wikipedia.org/wiki/Moraea_ciliata) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,508 |
+| 2026-11-18 22:52:24 | [Kate Stanley (politician)](https://en.wikipedia.org/wiki/Kate_Stanley_%28politician%29) | [Osevilla](https://en.wikipedia.org/wiki/User:Osevilla) | 7,095 |
+| 2026-11-18 22:54:10 | [House Steiner: The Lyran Commonwealth](https://en.wikipedia.org/wiki/House_Steiner%3A_The_Lyran_Commonwealth) | [BOZ](https://en.wikipedia.org/wiki/User:BOZ) | 1,280 |
+| 2026-11-18 23:00:32 | [All Saints' Church, Preston, East Riding of Yorkshire](https://en.wikipedia.org/wiki/All_Saints%27_Church%2C_Preston%2C_East_Riding_of_Yorkshire) | [Warofdreams](https://en.wikipedia.org/wiki/User:Warofdreams) | 3,442 |
+| 2026-11-18 23:03:52 | [Ok Goodnight](https://en.wikipedia.org/wiki/Ok_Goodnight) | [TofuAndDecaf](https://en.wikipedia.org/wiki/User:TofuAndDecaf) | 4,302 |
+| 2026-11-18 23:04:20 | [Vaikuntha Vasan](https://en.wikipedia.org/wiki/Vaikuntha_Vasan) | [Avinash.Ashok3](https://en.wikipedia.org/wiki/User:Avinash.Ashok3) | 7,897 |
+| 2026-11-18 23:07:02 | [Operation Lash](https://en.wikipedia.org/wiki/Operation_Lash) | [GRZ-MT](https://en.wikipedia.org/wiki/User:GRZ-MT) | 2,425 |
+| 2026-11-18 23:09:42 | [Rosario Castellanos National University](https://en.wikipedia.org/wiki/Rosario_Castellanos_National_University) | [Tabu Makiadi](https://en.wikipedia.org/wiki/User:Tabu_Makiadi) | 6,813 |
+| 2026-11-18 23:11:20 | [Aria amici-petri](https://en.wikipedia.org/wiki/Aria_amici-petri) | [Conan Wolff](https://en.wikipedia.org/wiki/User:Conan_Wolff) | 9,779 |
+| 2026-11-18 23:13:02 | [Sandra Mairhofer](https://en.wikipedia.org/wiki/Sandra_Mairhofer) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 3,040 |
+| 2026-11-18 23:15:55 | [A. Jackson Crawford Building](https://en.wikipedia.org/wiki/A._Jackson_Crawford_Building) | [208yeahh](https://en.wikipedia.org/wiki/User:208yeahh) | 3,321 |
+| 2026-11-18 23:16:22 | [Khetsuu Khad](https://en.wikipedia.org/wiki/Khetsuu_Khad) | [Nyraxis](https://en.wikipedia.org/wiki/User:Nyraxis) | 1,963 |
