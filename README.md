@@ -13,54 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-18 06:19 UTC](data/en/new-articles-2026-11-18T06-19-22Z.csv) | 22 |
-| Japanese | `ja` | [2026-11-18 06:19 UTC](data/ja/new-articles-2026-11-18T06-19-22Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-18 06:19 UTC](data/zh/new-articles-2026-11-18T06-19-22Z.csv) | 4 |
-| French | `fr` | [2026-11-18 06:19 UTC](data/fr/new-articles-2026-11-18T06-19-22Z.csv) | 1 |
-| German | `de` | [2026-11-18 06:19 UTC](data/de/new-articles-2026-11-18T06-19-22Z.csv) | 2 |
-| Russian | `ru` | [2026-11-18 06:19 UTC](data/ru/new-articles-2026-11-18T06-19-22Z.csv) | 2 |
-| Spanish | `es` | [2026-11-18 06:19 UTC](data/es/new-articles-2026-11-18T06-19-22Z.csv) | 7 |
-| Italian | `it` | [2026-11-18 06:19 UTC](data/it/new-articles-2026-11-18T06-19-22Z.csv) | 2 |
+| English | `en` | [2026-11-18 07:20 UTC](data/en/new-articles-2026-11-18T07-20-32Z.csv) | 14 |
+| Japanese | `ja` | [2026-11-18 07:20 UTC](data/ja/new-articles-2026-11-18T07-20-32Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-18 07:20 UTC](data/zh/new-articles-2026-11-18T07-20-32Z.csv) | 3 |
+| French | `fr` | [2026-11-18 07:20 UTC](data/fr/new-articles-2026-11-18T07-20-32Z.csv) | 4 |
+| German | `de` | [2026-11-18 07:20 UTC](data/de/new-articles-2026-11-18T07-20-32Z.csv) | 7 |
+| Russian | `ru` | [2026-11-18 07:20 UTC](data/ru/new-articles-2026-11-18T07-20-32Z.csv) | 4 |
+| Spanish | `es` | [2026-11-18 07:20 UTC](data/es/new-articles-2026-11-18T07-20-32Z.csv) | 8 |
+| Italian | `it` | [2026-11-18 07:20 UTC](data/it/new-articles-2026-11-18T07-20-32Z.csv) | 3 |
 | Portuguese | `pt` | [2026-11-18 06:19 UTC](data/pt/new-articles-2026-11-18T06-19-22Z.csv) | 6 |
-| Polish | `pl` | [2026-11-18 06:19 UTC](data/pl/new-articles-2026-11-18T06-19-22Z.csv) | 2 |
-| Arabic | `ar` | [2026-11-18 06:19 UTC](data/ar/new-articles-2026-11-18T06-19-22Z.csv) | 6 |
-| Persian | `fa` | [2026-11-18 06:19 UTC](data/fa/new-articles-2026-11-18T06-19-22Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-18 05:20 UTC](data/tr/new-articles-2026-11-18T05-20-25Z.csv) | 4 |
-| Hebrew | `he` | [2026-11-18 06:19 UTC](data/he/new-articles-2026-11-18T06-19-22Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-18 06:19 UTC](data/sv/new-articles-2026-11-18T06-19-22Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-18 06:19 UTC](data/nl/new-articles-2026-11-18T06-19-22Z.csv) | 1 |
-| Korean | `ko` | [2026-11-18 06:19 UTC](data/ko/new-articles-2026-11-18T06-19-22Z.csv) | 9 |
-| Indonesian | `id` | [2026-11-18 06:19 UTC](data/id/new-articles-2026-11-18T06-19-22Z.csv) | 12 |
-| Ukrainian | `uk` | [2026-11-18 06:19 UTC](data/uk/new-articles-2026-11-18T06-19-22Z.csv) | 3 |
-| Vietnamese | `vi` | [2026-11-18 05:20 UTC](data/vi/new-articles-2026-11-18T05-20-25Z.csv) | 1 |
+| Polish | `pl` | [2026-11-18 07:20 UTC](data/pl/new-articles-2026-11-18T07-20-32Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-18 07:20 UTC](data/ar/new-articles-2026-11-18T07-20-32Z.csv) | 9 |
+| Persian | `fa` | [2026-11-18 07:20 UTC](data/fa/new-articles-2026-11-18T07-20-32Z.csv) | 10 |
+| Turkish | `tr` | [2026-11-18 07:20 UTC](data/tr/new-articles-2026-11-18T07-20-32Z.csv) | 5 |
+| Hebrew | `he` | [2026-11-18 07:20 UTC](data/he/new-articles-2026-11-18T07-20-32Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-18 07:20 UTC](data/sv/new-articles-2026-11-18T07-20-32Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-18 07:20 UTC](data/nl/new-articles-2026-11-18T07-20-32Z.csv) | 1 |
+| Korean | `ko` | [2026-11-18 07:20 UTC](data/ko/new-articles-2026-11-18T07-20-32Z.csv) | 8 |
+| Indonesian | `id` | [2026-11-18 07:20 UTC](data/id/new-articles-2026-11-18T07-20-32Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-11-18 07:20 UTC](data/uk/new-articles-2026-11-18T07-20-32Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-18 07:20 UTC](data/vi/new-articles-2026-11-18T07-20-32Z.csv) | 1 |
 
-## English (en) — 2026-11-18 06:19 UTC
+## English (en) — 2026-11-18 07:20 UTC
 
-New articles created between 2026-11-18 05:20 UTC and 2026-11-18 06:19 UTC.
+New articles created between 2026-11-18 06:19 UTC and 2026-11-18 07:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-18T06-19-22Z.csv)
+[Full CSV](data/en/new-articles-2026-11-18T07-20-32Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-18 05:20:33 | [West Mexican black bear](https://en.wikipedia.org/wiki/West_Mexican_black_bear) | [Rajbarage](https://en.wikipedia.org/wiki/User:Rajbarage) | 943 |
-| 2026-11-18 05:24:07 | [Ballito Junction Regional Mall](https://en.wikipedia.org/wiki/Ballito_Junction_Regional_Mall) | [Livingstone7](https://en.wikipedia.org/wiki/User:Livingstone7) | 3,854 |
-| 2026-11-18 05:24:52 | [Bryan Lizotte](https://en.wikipedia.org/wiki/Bryan_Lizotte) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,511 |
-| 2026-11-18 05:27:45 | [USCGC Shearwater](https://en.wikipedia.org/wiki/USCGC_Shearwater) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 7,268 |
-| 2026-11-18 05:35:48 | [Lucy Perkins](https://en.wikipedia.org/wiki/Lucy_Perkins) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,445 |
-| 2026-11-18 05:40:36 | [Adam Franz (politician)](https://en.wikipedia.org/wiki/Adam_Franz_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,456 |
-| 2026-11-18 05:42:20 | [Xinghai Square station](https://en.wikipedia.org/wiki/Xinghai_Square_station) | [Benteds](https://en.wikipedia.org/wiki/User:Benteds) | 359 |
-| 2026-11-18 05:44:21 | [Elizabeth Allen-Pennebaker](https://en.wikipedia.org/wiki/Elizabeth_Allen-Pennebaker) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,537 |
-| 2026-11-18 05:46:30 | [Tuzla Cemetery](https://en.wikipedia.org/wiki/Tuzla_Cemetery) | [Kostantinopolisli Kostantinopulos](https://en.wikipedia.org/wiki/User:Kostantinopolisli_Kostantinopulos) | 2,611 |
-| 2026-11-18 05:46:59 | [Sister (comedy sketch)](https://en.wikipedia.org/wiki/Sister_%28comedy_sketch%29) | [KConWiki](https://en.wikipedia.org/wiki/User:KConWiki) | 1,177 |
-| 2026-11-18 05:48:44 | [Rebecca Boutin](https://en.wikipedia.org/wiki/Rebecca_Boutin) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,604 |
-| 2026-11-18 05:51:57 | [Komal Joya](https://en.wikipedia.org/wiki/Komal_Joya) | [Saddam19](https://en.wikipedia.org/wiki/User:Saddam19) | 1,708 |
-| 2026-11-18 05:52:59 | [NUU (company)](https://en.wikipedia.org/wiki/NUU_%28company%29) | [Gyrogrins](https://en.wikipedia.org/wiki/User:Gyrogrins) | 6,932 |
-| 2026-11-18 05:54:12 | [Mary Beth Raven](https://en.wikipedia.org/wiki/Mary_Beth_Raven) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,609 |
-| 2026-11-18 05:58:20 | [Heather Robitaille](https://en.wikipedia.org/wiki/Heather_Robitaille) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,624 |
-| 2026-11-18 06:02:14 | [Gunma Green Wings](https://en.wikipedia.org/wiki/Gunma_Green_Wings) | [Jinshi's gf](https://en.wikipedia.org/wiki/User:Jinshi%27s_gf) | 10,924 |
-| 2026-11-18 06:03:05 | [H-20 (peptide)](https://en.wikipedia.org/wiki/H-20_%28peptide%29) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 3,076 |
-| 2026-11-18 06:05:00 | [Weave living](https://en.wikipedia.org/wiki/Weave_living) | [Flubbick](https://en.wikipedia.org/wiki/User:Flubbick) | 6,356 |
-| 2026-11-18 06:05:13 | [List of Nepalese provinces by life expectancy](https://en.wikipedia.org/wiki/List_of_Nepalese_provinces_by_life_expectancy) | [Heven 310](https://en.wikipedia.org/wiki/User:Heven_310) | 2,896 |
-| 2026-11-18 06:07:02 | [Maria Baliszewska](https://en.wikipedia.org/wiki/Maria_Baliszewska) | [Kelisi](https://en.wikipedia.org/wiki/User:Kelisi) | 6,948 |
-| 2026-11-18 06:17:16 | [2027 in Colorado](https://en.wikipedia.org/wiki/2027_in_Colorado) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 2,185 |
-| 2026-11-18 06:18:50 | [Disston Sugar Mill Ruins](https://en.wikipedia.org/wiki/Disston_Sugar_Mill_Ruins) | [Jacob Rampino](https://en.wikipedia.org/wiki/User:Jacob_Rampino) | 1,952 |
+| 2026-11-18 06:22:01 | [Melas (surname)](https://en.wikipedia.org/wiki/Melas_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 257 |
+| 2026-11-18 06:24:39 | [Dharmanand Mortha](https://en.wikipedia.org/wiki/Dharmanand_Mortha) | [Loonprofew](https://en.wikipedia.org/wiki/User:Loonprofew) | 3,196 |
+| 2026-11-18 06:36:03 | [Annette Green](https://en.wikipedia.org/wiki/Annette_Green) | [Cielquiparle](https://en.wikipedia.org/wiki/User:Cielquiparle) | 1,045 |
+| 2026-11-18 06:37:19 | [Suyuzhuang Line](https://en.wikipedia.org/wiki/Suyuzhuang_Line) | [Longhuasz](https://en.wikipedia.org/wiki/User:Longhuasz) | 35 |
+| 2026-11-18 06:39:59 | [Mela (surname)](https://en.wikipedia.org/wiki/Mela_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 283 |
+| 2026-11-18 06:40:19 | [Battle of Dushan](https://en.wikipedia.org/wiki/Battle_of_Dushan) | [Krips15](https://en.wikipedia.org/wiki/User:Krips15) | 11,014 |
+| 2026-11-18 06:40:33 | [Edmund Wood (priest)](https://en.wikipedia.org/wiki/Edmund_Wood_%28priest%29) | [NomadSpeculator](https://en.wikipedia.org/wiki/User:NomadSpeculator) | 4,382 |
+| 2026-11-18 06:47:57 | [Sumi Madhok](https://en.wikipedia.org/wiki/Sumi_Madhok) | [RJ Raawat](https://en.wikipedia.org/wiki/User:RJ_Raawat) | 564 |
+| 2026-11-18 06:59:08 | [Hornby railway station, New Zealand](https://en.wikipedia.org/wiki/Hornby_railway_station%2C_New_Zealand) | [Dlpkbr](https://en.wikipedia.org/wiki/User:Dlpkbr) | 11,390 |
+| 2026-11-18 06:59:11 | [Nora (singer)](https://en.wikipedia.org/wiki/Nora_%28singer%29) | [Feeeshies](https://en.wikipedia.org/wiki/User:Feeeshies) | 8,740 |
+| 2026-11-18 07:00:34 | [Mele (surname)](https://en.wikipedia.org/wiki/Mele_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 219 |
+| 2026-11-18 07:03:49 | [Wenda Parkinson](https://en.wikipedia.org/wiki/Wenda_Parkinson) | [Jishara](https://en.wikipedia.org/wiki/User:Jishara) | 13,386 |
+| 2026-11-18 07:10:14 | [Three Tears in Borneo](https://en.wikipedia.org/wiki/Three_Tears_in_Borneo) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 8,275 |
+| 2026-11-18 07:20:08 | [DXPP](https://en.wikipedia.org/wiki/DXPP) | [TheKuysGian26](https://en.wikipedia.org/wiki/User:TheKuysGian26) | 1,235 |
