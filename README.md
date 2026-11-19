@@ -13,67 +13,62 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-19 15:19 UTC](data/en/new-articles-2026-11-19T15-19-38Z.csv) | 35 |
-| Japanese | `ja` | [2026-11-19 15:19 UTC](data/ja/new-articles-2026-11-19T15-19-38Z.csv) | 7 |
-| Chinese | `zh` | [2026-11-19 13:21 UTC](data/zh/new-articles-2026-11-19T13-21-08Z.csv) | 6 |
-| French | `fr` | [2026-11-19 15:19 UTC](data/fr/new-articles-2026-11-19T15-19-38Z.csv) | 8 |
-| German | `de` | [2026-11-19 15:19 UTC](data/de/new-articles-2026-11-19T15-19-38Z.csv) | 11 |
-| Russian | `ru` | [2026-11-19 15:19 UTC](data/ru/new-articles-2026-11-19T15-19-38Z.csv) | 16 |
-| Spanish | `es` | [2026-11-19 15:19 UTC](data/es/new-articles-2026-11-19T15-19-38Z.csv) | 10 |
-| Italian | `it` | [2026-11-19 15:19 UTC](data/it/new-articles-2026-11-19T15-19-38Z.csv) | 6 |
-| Portuguese | `pt` | [2026-11-19 15:19 UTC](data/pt/new-articles-2026-11-19T15-19-38Z.csv) | 3 |
-| Polish | `pl` | [2026-11-19 15:19 UTC](data/pl/new-articles-2026-11-19T15-19-38Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-19 15:19 UTC](data/ar/new-articles-2026-11-19T15-19-38Z.csv) | 7 |
-| Persian | `fa` | [2026-11-19 15:19 UTC](data/fa/new-articles-2026-11-19T15-19-38Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-19 15:19 UTC](data/tr/new-articles-2026-11-19T15-19-38Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-19 15:19 UTC](data/he/new-articles-2026-11-19T15-19-38Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-19 15:19 UTC](data/sv/new-articles-2026-11-19T15-19-38Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-19 15:19 UTC](data/nl/new-articles-2026-11-19T15-19-38Z.csv) | 2 |
+| English | `en` | [2026-11-19 16:19 UTC](data/en/new-articles-2026-11-19T16-19-10Z.csv) | 30 |
+| Japanese | `ja` | [2026-11-19 16:19 UTC](data/ja/new-articles-2026-11-19T16-19-10Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-19 16:19 UTC](data/zh/new-articles-2026-11-19T16-19-10Z.csv) | 5 |
+| French | `fr` | [2026-11-19 16:19 UTC](data/fr/new-articles-2026-11-19T16-19-10Z.csv) | 9 |
+| German | `de` | [2026-11-19 16:19 UTC](data/de/new-articles-2026-11-19T16-19-10Z.csv) | 12 |
+| Russian | `ru` | [2026-11-19 16:19 UTC](data/ru/new-articles-2026-11-19T16-19-10Z.csv) | 7 |
+| Spanish | `es` | [2026-11-19 16:19 UTC](data/es/new-articles-2026-11-19T16-19-10Z.csv) | 11 |
+| Italian | `it` | [2026-11-19 16:19 UTC](data/it/new-articles-2026-11-19T16-19-10Z.csv) | 10 |
+| Portuguese | `pt` | [2026-11-19 16:19 UTC](data/pt/new-articles-2026-11-19T16-19-10Z.csv) | 3 |
+| Polish | `pl` | [2026-11-19 16:19 UTC](data/pl/new-articles-2026-11-19T16-19-10Z.csv) | 7 |
+| Arabic | `ar` | [2026-11-19 16:19 UTC](data/ar/new-articles-2026-11-19T16-19-10Z.csv) | 1 |
+| Persian | `fa` | [2026-11-19 16:19 UTC](data/fa/new-articles-2026-11-19T16-19-10Z.csv) | 11 |
+| Turkish | `tr` | [2026-11-19 16:19 UTC](data/tr/new-articles-2026-11-19T16-19-10Z.csv) | 9 |
+| Hebrew | `he` | [2026-11-19 16:19 UTC](data/he/new-articles-2026-11-19T16-19-10Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-19 16:19 UTC](data/sv/new-articles-2026-11-19T16-19-10Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-19 16:19 UTC](data/nl/new-articles-2026-11-19T16-19-10Z.csv) | 2 |
 | Korean | `ko` | [2026-11-19 15:19 UTC](data/ko/new-articles-2026-11-19T15-19-38Z.csv) | 10 |
-| Indonesian | `id` | [2026-11-19 15:19 UTC](data/id/new-articles-2026-11-19T15-19-38Z.csv) | 13 |
-| Ukrainian | `uk` | [2026-11-19 15:19 UTC](data/uk/new-articles-2026-11-19T15-19-38Z.csv) | 20 |
-| Vietnamese | `vi` | [2026-11-19 15:19 UTC](data/vi/new-articles-2026-11-19T15-19-38Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-19 16:19 UTC](data/id/new-articles-2026-11-19T16-19-10Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-19 16:19 UTC](data/uk/new-articles-2026-11-19T16-19-10Z.csv) | 11 |
+| Vietnamese | `vi` | [2026-11-19 16:19 UTC](data/vi/new-articles-2026-11-19T16-19-10Z.csv) | 3 |
 
-## English (en) — 2026-11-19 15:19 UTC
+## English (en) — 2026-11-19 16:19 UTC
 
-New articles created between 2026-11-19 14:19 UTC and 2026-11-19 15:19 UTC.
+New articles created between 2026-11-19 15:19 UTC and 2026-11-19 16:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-19T15-19-38Z.csv)
+[Full CSV](data/en/new-articles-2026-11-19T16-19-10Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-19 14:20:10 | [Aganocrossus krikkeni](https://en.wikipedia.org/wiki/Aganocrossus_krikkeni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,026 |
-| 2026-11-19 14:22:42 | [Niki Polygyros F.C.](https://en.wikipedia.org/wiki/Niki_Polygyros_F.C.) | [Seanjackson67](https://en.wikipedia.org/wiki/User:Seanjackson67) | 7,244 |
-| 2026-11-19 14:23:16 | [Aganocrossus meticulosus](https://en.wikipedia.org/wiki/Aganocrossus_meticulosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,417 |
-| 2026-11-19 14:25:37 | [Moraea cookii](https://en.wikipedia.org/wiki/Moraea_cookii) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,233 |
-| 2026-11-19 14:25:40 | [Tommy Paradise](https://en.wikipedia.org/wiki/Tommy_Paradise) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,113 |
-| 2026-11-19 14:26:58 | [Aganocrossus periculosus](https://en.wikipedia.org/wiki/Aganocrossus_periculosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,431 |
-| 2026-11-19 14:30:06 | [Aganocrossus plicatus](https://en.wikipedia.org/wiki/Aganocrossus_plicatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,395 |
-| 2026-11-19 14:31:50 | [Apalonychus waterhousei](https://en.wikipedia.org/wiki/Apalonychus_waterhousei) | [Surtsicna](https://en.wikipedia.org/wiki/User:Surtsicna) | 1,595 |
-| 2026-11-19 14:32:37 | [Grandview Heights School](https://en.wikipedia.org/wiki/Grandview_Heights_School) | [New poltics](https://en.wikipedia.org/wiki/User:New_poltics) | 7,646 |
-| 2026-11-19 14:36:34 | [Moraea kamiesensis](https://en.wikipedia.org/wiki/Moraea_kamiesensis) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,444 |
-| 2026-11-19 14:37:50 | [Muratina](https://en.wikipedia.org/wiki/Muratina) | [Moti allu](https://en.wikipedia.org/wiki/User:Moti_allu) | 168 |
-| 2026-11-19 14:40:39 | [Aganocrossus pseudamoenus](https://en.wikipedia.org/wiki/Aganocrossus_pseudamoenus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,434 |
-| 2026-11-19 14:44:18 | [Liam Mitakaro](https://en.wikipedia.org/wiki/Liam_Mitakaro) | [New poltics](https://en.wikipedia.org/wiki/User:New_poltics) | 10,061 |
-| 2026-11-19 14:44:23 | [Gokul Milk](https://en.wikipedia.org/wiki/Gokul_Milk) | [Sir Tragedy](https://en.wikipedia.org/wiki/User:Sir_Tragedy) | 818 |
-| 2026-11-19 14:45:32 | [Moraea venenata](https://en.wikipedia.org/wiki/Moraea_venenata) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,075 |
-| 2026-11-19 14:49:45 | [Aganocrossus pseudourostigma](https://en.wikipedia.org/wiki/Aganocrossus_pseudourostigma) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,467 |
-| 2026-11-19 14:50:42 | [ICJ (disambiguation)](https://en.wikipedia.org/wiki/ICJ_%28disambiguation%29) | [Joriki](https://en.wikipedia.org/wiki/User:Joriki) | 348 |
-| 2026-11-19 14:53:47 | [Aganocrossus vestitus](https://en.wikipedia.org/wiki/Aganocrossus_vestitus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,107 |
-| 2026-11-19 14:54:22 | [Hunter Hackett](https://en.wikipedia.org/wiki/Hunter_Hackett) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,613 |
-| 2026-11-19 14:56:59 | [Moraea bifida](https://en.wikipedia.org/wiki/Moraea_bifida) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,388 |
-| 2026-11-19 14:57:24 | [James Kingston (disambiguation)](https://en.wikipedia.org/wiki/James_Kingston_%28disambiguation%29) | [Necrothesp](https://en.wikipedia.org/wiki/User:Necrothesp) | 306 |
-| 2026-11-19 14:58:01 | [Leptarctus](https://en.wikipedia.org/wiki/Leptarctus) | [NGPezz](https://en.wikipedia.org/wiki/User:NGPezz) | 3,279 |
-| 2026-11-19 15:04:26 | [2021 WPT Las Rozas Open](https://en.wikipedia.org/wiki/2021_WPT_Las_Rozas_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 41,389 |
-| 2026-11-19 15:06:02 | [Statue of Mahaska](https://en.wikipedia.org/wiki/Statue_of_Mahaska) | [JJonahJackalope](https://en.wikipedia.org/wiki/User:JJonahJackalope) | 14,892 |
-| 2026-11-19 15:06:46 | [Aganocrossus rudolfpetrovitzi](https://en.wikipedia.org/wiki/Aganocrossus_rudolfpetrovitzi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,182 |
-| 2026-11-19 15:10:33 | [Dilortomaeus](https://en.wikipedia.org/wiki/Dilortomaeus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,503 |
-| 2026-11-19 15:10:56 | [Jarrod Brooks](https://en.wikipedia.org/wiki/Jarrod_Brooks) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,984 |
-| 2026-11-19 15:11:01 | [Moraea longifolia](https://en.wikipedia.org/wiki/Moraea_longifolia) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,511 |
-| 2026-11-19 15:12:19 | [District Jail Attock](https://en.wikipedia.org/wiki/District_Jail_Attock) | [Anxious Existence](https://en.wikipedia.org/wiki/User:Anxious_Existence) | 4,387 |
-| 2026-11-19 15:12:48 | [Elena Mendizabal](https://en.wikipedia.org/wiki/Elena_Mendizabal) | [Roundtheworld](https://en.wikipedia.org/wiki/User:Roundtheworld) | 6,560 |
-| 2026-11-19 15:12:54 | [Moorfoot](https://en.wikipedia.org/wiki/Moorfoot) | [Tim Ivorson](https://en.wikipedia.org/wiki/User:Tim_Ivorson) | 122 |
-| 2026-11-19 15:13:31 | [Sílvia Tuyà](https://en.wikipedia.org/wiki/S%C3%ADlvia_Tuy%C3%A0) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 3,912 |
-| 2026-11-19 15:14:18 | [Dilortomaeus senegalensis](https://en.wikipedia.org/wiki/Dilortomaeus_senegalensis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,399 |
-| 2026-11-19 15:17:04 | [Trichaphodius globosus](https://en.wikipedia.org/wiki/Trichaphodius_globosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,026 |
-| 2026-11-19 15:18:21 | [Phil Graves (politician)](https://en.wikipedia.org/wiki/Phil_Graves_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,975 |
+| 2026-11-19 15:21:55 | [Moraea bipartita](https://en.wikipedia.org/wiki/Moraea_bipartita) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,275 |
+| 2026-11-19 15:22:59 | [Philip Lindkvist-Fløtten](https://en.wikipedia.org/wiki/Philip_Lindkvist-Fl%C3%B8tten) | [PyotrRossetti](https://en.wikipedia.org/wiki/User:PyotrRossetti) | 4,346 |
+| 2026-11-19 15:24:09 | [Stephen Otterstrom](https://en.wikipedia.org/wiki/Stephen_Otterstrom) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,068 |
+| 2026-11-19 15:29:52 | [Barleeia haliotiphila](https://en.wikipedia.org/wiki/Barleeia_haliotiphila) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,986 |
+| 2026-11-19 15:29:54 | [Michael Finch](https://en.wikipedia.org/wiki/Michael_Finch) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,957 |
+| 2026-11-19 15:35:15 | [Jabotinsky Institute Archives](https://en.wikipedia.org/wiki/Jabotinsky_Institute_Archives) | [K.F.Nielsen11321](https://en.wikipedia.org/wiki/User:K.F.Nielsen11321) | 5,794 |
+| 2026-11-19 15:36:33 | [Moraea autumnalis](https://en.wikipedia.org/wiki/Moraea_autumnalis) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,162 |
+| 2026-11-19 15:37:50 | [Liz Oates](https://en.wikipedia.org/wiki/Liz_Oates) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,722 |
+| 2026-11-19 15:38:56 | [Nallamilli Moola Reddy](https://en.wikipedia.org/wiki/Nallamilli_Moola_Reddy) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 1,561 |
+| 2026-11-19 15:39:24 | [Barleeia subtenuis](https://en.wikipedia.org/wiki/Barleeia_subtenuis) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 2,027 |
+| 2026-11-19 15:44:37 | [Hong Kong International Academy of Policing](https://en.wikipedia.org/wiki/Hong_Kong_International_Academy_of_Policing) | [SigillumVert](https://en.wikipedia.org/wiki/User:SigillumVert) | 2,438 |
+| 2026-11-19 15:46:30 | [José Luis Rivas](https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rivas) | [Itzcuauhtli11](https://en.wikipedia.org/wiki/User:Itzcuauhtli11) | 7,324 |
+| 2026-11-19 15:47:36 | [Cristoforo Lombardo](https://en.wikipedia.org/wiki/Cristoforo_Lombardo) | [Sam Pumpkin](https://en.wikipedia.org/wiki/User:Sam_Pumpkin) | 6,194 |
+| 2026-11-19 15:49:18 | [Moraea bulbillifera](https://en.wikipedia.org/wiki/Moraea_bulbillifera) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,571 |
+| 2026-11-19 15:51:46 | [2025-26 North West Women's Regional Football League](https://en.wikipedia.org/wiki/2025-26_North_West_Women%27s_Regional_Football_League) | [CptGrez](https://en.wikipedia.org/wiki/User:CptGrez) | 10,911 |
+| 2026-11-19 15:51:49 | [Gira (surname)](https://en.wikipedia.org/wiki/Gira_%28surname%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 366 |
+| 2026-11-19 15:52:57 | [Jinji Lake Art Museum](https://en.wikipedia.org/wiki/Jinji_Lake_Art_Museum) | [Jpbowen](https://en.wikipedia.org/wiki/User:Jpbowen) | 3,530 |
+| 2026-11-19 15:55:18 | [West Virginia High School Football State Championships and playoff history (2024–present)](https://en.wikipedia.org/wiki/West_Virginia_High_School_Football_State_Championships_and_playoff_history_%282024%E2%80%93present%29) | [Ahecht](https://en.wikipedia.org/wiki/User:Ahecht) | 60,248 |
+| 2026-11-19 15:57:09 | [West Virginia High School Football State Championships and playoff history (1903–2023)](https://en.wikipedia.org/wiki/West_Virginia_High_School_Football_State_Championships_and_playoff_history_%281903%E2%80%932023%29) | [Ahecht](https://en.wikipedia.org/wiki/User:Ahecht) | 228,860 |
+| 2026-11-19 15:58:24 | [Moraea longiflora](https://en.wikipedia.org/wiki/Moraea_longiflora) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,350 |
+| 2026-11-19 15:59:48 | [Barleeia aemilii](https://en.wikipedia.org/wiki/Barleeia_aemilii) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,415 |
+| 2026-11-19 16:00:42 | [Elizabeth N. Ellis](https://en.wikipedia.org/wiki/Elizabeth_N._Ellis) | [DempseyHayes](https://en.wikipedia.org/wiki/User:DempseyHayes) | 3,776 |
+| 2026-11-19 16:03:14 | [Wanda Nolan](https://en.wikipedia.org/wiki/Wanda_Nolan) | [Bearcat](https://en.wikipedia.org/wiki/User:Bearcat) | 3,742 |
+| 2026-11-19 16:05:08 | [Funayama's lattice](https://en.wikipedia.org/wiki/Funayama%27s_lattice) | [Saroad](https://en.wikipedia.org/wiki/User:Saroad) | 14,047 |
+| 2026-11-19 16:05:34 | [Barleeia chefiae](https://en.wikipedia.org/wiki/Barleeia_chefiae) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,419 |
+| 2026-11-19 16:10:18 | [Barleeia cinguloides](https://en.wikipedia.org/wiki/Barleeia_cinguloides) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,248 |
+| 2026-11-19 16:11:26 | [Broadus (name)](https://en.wikipedia.org/wiki/Broadus_%28name%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,119 |
+| 2026-11-19 16:16:07 | [Barleeia pervulgata](https://en.wikipedia.org/wiki/Barleeia_pervulgata) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,240 |
+| 2026-11-19 16:18:22 | [Skweezy Jibbs](https://en.wikipedia.org/wiki/Skweezy_Jibbs) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 4,926 |
+| 2026-11-19 16:18:59 | [Toyota Corolla Deck](https://en.wikipedia.org/wiki/Toyota_Corolla_Deck) | [Andra Febrian](https://en.wikipedia.org/wiki/User:Andra_Febrian) | 5,998 |
