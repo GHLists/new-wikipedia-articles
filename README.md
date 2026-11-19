@@ -13,50 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-19 12:19 UTC](data/en/new-articles-2026-11-19T12-19-51Z.csv) | 18 |
-| Japanese | `ja` | [2026-11-19 12:19 UTC](data/ja/new-articles-2026-11-19T12-19-51Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-19 12:19 UTC](data/zh/new-articles-2026-11-19T12-19-51Z.csv) | 6 |
-| French | `fr` | [2026-11-19 12:19 UTC](data/fr/new-articles-2026-11-19T12-19-51Z.csv) | 15 |
-| German | `de` | [2026-11-19 12:19 UTC](data/de/new-articles-2026-11-19T12-19-51Z.csv) | 15 |
-| Russian | `ru` | [2026-11-19 12:19 UTC](data/ru/new-articles-2026-11-19T12-19-51Z.csv) | 8 |
-| Spanish | `es` | [2026-11-19 12:19 UTC](data/es/new-articles-2026-11-19T12-19-51Z.csv) | 5 |
-| Italian | `it` | [2026-11-19 12:19 UTC](data/it/new-articles-2026-11-19T12-19-51Z.csv) | 12 |
-| Portuguese | `pt` | [2026-11-19 12:19 UTC](data/pt/new-articles-2026-11-19T12-19-51Z.csv) | 4 |
-| Polish | `pl` | [2026-11-19 12:19 UTC](data/pl/new-articles-2026-11-19T12-19-51Z.csv) | 2 |
-| Arabic | `ar` | [2026-11-19 12:19 UTC](data/ar/new-articles-2026-11-19T12-19-51Z.csv) | 3 |
-| Persian | `fa` | [2026-11-19 12:19 UTC](data/fa/new-articles-2026-11-19T12-19-51Z.csv) | 7 |
-| Turkish | `tr` | [2026-11-19 12:19 UTC](data/tr/new-articles-2026-11-19T12-19-51Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-19 12:19 UTC](data/he/new-articles-2026-11-19T12-19-51Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-19 12:19 UTC](data/sv/new-articles-2026-11-19T12-19-51Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-19 12:19 UTC](data/nl/new-articles-2026-11-19T12-19-51Z.csv) | 2 |
-| Korean | `ko` | [2026-11-19 12:19 UTC](data/ko/new-articles-2026-11-19T12-19-51Z.csv) | 4 |
-| Indonesian | `id` | [2026-11-19 12:19 UTC](data/id/new-articles-2026-11-19T12-19-51Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-11-19 12:19 UTC](data/uk/new-articles-2026-11-19T12-19-51Z.csv) | 12 |
-| Vietnamese | `vi` | [2026-11-19 12:19 UTC](data/vi/new-articles-2026-11-19T12-19-51Z.csv) | 3 |
+| English | `en` | [2026-11-19 13:21 UTC](data/en/new-articles-2026-11-19T13-21-08Z.csv) | 18 |
+| Japanese | `ja` | [2026-11-19 13:21 UTC](data/ja/new-articles-2026-11-19T13-21-08Z.csv) | 8 |
+| Chinese | `zh` | [2026-11-19 13:21 UTC](data/zh/new-articles-2026-11-19T13-21-08Z.csv) | 6 |
+| French | `fr` | [2026-11-19 13:21 UTC](data/fr/new-articles-2026-11-19T13-21-08Z.csv) | 6 |
+| German | `de` | [2026-11-19 13:21 UTC](data/de/new-articles-2026-11-19T13-21-08Z.csv) | 9 |
+| Russian | `ru` | [2026-11-19 13:21 UTC](data/ru/new-articles-2026-11-19T13-21-08Z.csv) | 12 |
+| Spanish | `es` | [2026-11-19 13:21 UTC](data/es/new-articles-2026-11-19T13-21-08Z.csv) | 7 |
+| Italian | `it` | [2026-11-19 13:21 UTC](data/it/new-articles-2026-11-19T13-21-08Z.csv) | 11 |
+| Portuguese | `pt` | [2026-11-19 13:21 UTC](data/pt/new-articles-2026-11-19T13-21-08Z.csv) | 5 |
+| Polish | `pl` | [2026-11-19 13:21 UTC](data/pl/new-articles-2026-11-19T13-21-08Z.csv) | 4 |
+| Arabic | `ar` | [2026-11-19 13:21 UTC](data/ar/new-articles-2026-11-19T13-21-08Z.csv) | 6 |
+| Persian | `fa` | [2026-11-19 13:21 UTC](data/fa/new-articles-2026-11-19T13-21-08Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-19 13:21 UTC](data/tr/new-articles-2026-11-19T13-21-08Z.csv) | 6 |
+| Hebrew | `he` | [2026-11-19 13:21 UTC](data/he/new-articles-2026-11-19T13-21-08Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-19 13:21 UTC](data/sv/new-articles-2026-11-19T13-21-08Z.csv) | 8 |
+| Dutch | `nl` | [2026-11-19 13:21 UTC](data/nl/new-articles-2026-11-19T13-21-08Z.csv) | 4 |
+| Korean | `ko` | [2026-11-19 13:21 UTC](data/ko/new-articles-2026-11-19T13-21-08Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-19 13:21 UTC](data/id/new-articles-2026-11-19T13-21-08Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-11-19 13:21 UTC](data/uk/new-articles-2026-11-19T13-21-08Z.csv) | 9 |
+| Vietnamese | `vi` | [2026-11-19 13:21 UTC](data/vi/new-articles-2026-11-19T13-21-08Z.csv) | 2 |
 
-## English (en) — 2026-11-19 12:19 UTC
+## English (en) — 2026-11-19 13:21 UTC
 
-New articles created between 2026-11-19 11:22 UTC and 2026-11-19 12:19 UTC.
+New articles created between 2026-11-19 12:19 UTC and 2026-11-19 13:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-19T12-19-51Z.csv)
+[Full CSV](data/en/new-articles-2026-11-19T13-21-08Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-19 11:26:41 | [1927–28 American Basketball League season](https://en.wikipedia.org/wiki/1927%E2%80%9328_American_Basketball_League_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 21,043 |
-| 2026-11-19 11:29:00 | [...My Sombre Existence...](https://en.wikipedia.org/wiki/...My_Sombre_Existence...) | [VixililyS](https://en.wikipedia.org/wiki/User:VixililyS) | 3,785 |
-| 2026-11-19 11:30:35 | [2026–27 Pyramids FC season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Pyramids_FC_season) | [Mohamedmokhtar22](https://en.wikipedia.org/wiki/User:Mohamedmokhtar22) | 15,974 |
-| 2026-11-19 11:32:28 | [Antecessorirhyparus](https://en.wikipedia.org/wiki/Antecessorirhyparus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,811 |
-| 2026-11-19 11:36:08 | [Antecessorirhyparus octovirgatus](https://en.wikipedia.org/wiki/Antecessorirhyparus_octovirgatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,985 |
-| 2026-11-19 11:36:26 | [Per Lind](https://en.wikipedia.org/wiki/Per_Lind) | [Saftgurka](https://en.wikipedia.org/wiki/User:Saftgurka) | 21,207 |
-| 2026-11-19 11:41:15 | [1985–86 FC FC Steaua București season](https://en.wikipedia.org/wiki/1985%E2%80%9386_FC_FC_Steaua_Bucure%C8%99ti_season) | [KrypticRule](https://en.wikipedia.org/wiki/User:KrypticRule) | 34,059 |
-| 2026-11-19 11:42:06 | [Antonio Cannoni](https://en.wikipedia.org/wiki/Antonio_Cannoni) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,693 |
-| 2026-11-19 11:45:05 | [1985–86 FC Steaua București season](https://en.wikipedia.org/wiki/1985%E2%80%9386_FC_Steaua_Bucure%C8%99ti_season) | [KrypticRule](https://en.wikipedia.org/wiki/User:KrypticRule) | 34,085 |
-| 2026-11-19 11:46:21 | [Cuao](https://en.wikipedia.org/wiki/Cuao) | [Argo Navis](https://en.wikipedia.org/wiki/User:Argo_Navis) | 106 |
-| 2026-11-19 11:50:44 | [Nafeeza Nori](https://en.wikipedia.org/wiki/Nafeeza_Nori) | [Cesare Faragò](https://en.wikipedia.org/wiki/User:Cesare_Farag%C3%B2) | 6,754 |
-| 2026-11-19 11:53:55 | [Stoke Mandeville Stadium Hall of Fame](https://en.wikipedia.org/wiki/Stoke_Mandeville_Stadium_Hall_of_Fame) | [Wheelpower SMS](https://en.wikipedia.org/wiki/User:Wheelpower_SMS) | 8,257 |
-| 2026-11-19 11:56:05 | [Lemon-bellied tufted flycatcher](https://en.wikipedia.org/wiki/Lemon-bellied_tufted_flycatcher) | [Aa77zz](https://en.wikipedia.org/wiki/User:Aa77zz) | 4,708 |
-| 2026-11-19 11:56:38 | [1932–33 National Professional Basketball League season](https://en.wikipedia.org/wiki/1932%E2%80%9333_National_Professional_Basketball_League_season) | [QBKennedy](https://en.wikipedia.org/wiki/User:QBKennedy) | 17,316 |
-| 2026-11-19 12:00:52 | [Club RTL (pay-TV)](https://en.wikipedia.org/wiki/Club_RTL_%28pay-TV%29) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 5,151 |
-| 2026-11-19 12:02:58 | [Erast Konyk](https://en.wikipedia.org/wiki/Erast_Konyk) | [Замішанець](https://en.wikipedia.org/wiki/User:%D0%97%D0%B0%D0%BC%D1%96%D1%88%D0%B0%D0%BD%D0%B5%D1%86%D1%8C) | 8,980 |
-| 2026-11-19 12:13:46 | [Clara Strack](https://en.wikipedia.org/wiki/Clara_Strack) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 12,422 |
-| 2026-11-19 12:14:29 | [Charles Walters Council for Innovation and Research](https://en.wikipedia.org/wiki/Charles_Walters_Council_for_Innovation_and_Research) | [The BO77!](https://en.wikipedia.org/wiki/User:The_BO77%21) | 1,961 |
+| 2026-11-19 12:24:46 | [Cryptaphodius](https://en.wikipedia.org/wiki/Cryptaphodius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,319 |
+| 2026-11-19 12:28:52 | [Cryptaphodius excavatus](https://en.wikipedia.org/wiki/Cryptaphodius_excavatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,023 |
+| 2026-11-19 12:28:58 | [Icelandic middle names](https://en.wikipedia.org/wiki/Icelandic_middle_names) | [StarTrekker](https://en.wikipedia.org/wiki/User:StarTrekker) | 1,264 |
+| 2026-11-19 12:35:00 | [Aganocrossus ingloriosus](https://en.wikipedia.org/wiki/Aganocrossus_ingloriosus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,117 |
+| 2026-11-19 12:38:46 | [Morrow House (Somerset, Kentucky)](https://en.wikipedia.org/wiki/Morrow_House_%28Somerset%2C_Kentucky%29) | [208yeahh](https://en.wikipedia.org/wiki/User:208yeahh) | 3,139 |
+| 2026-11-19 12:39:07 | [Aganocrossus newmanae](https://en.wikipedia.org/wiki/Aganocrossus_newmanae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,119 |
+| 2026-11-19 12:42:50 | [Aganocrossus paraciprianii](https://en.wikipedia.org/wiki/Aganocrossus_paraciprianii) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,155 |
+| 2026-11-19 12:45:50 | [Aganocrossus tacitus](https://en.wikipedia.org/wiki/Aganocrossus_tacitus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,008 |
+| 2026-11-19 12:45:59 | [Leather Liton](https://en.wikipedia.org/wiki/Leather_Liton) | [Vinegarymass911](https://en.wikipedia.org/wiki/User:Vinegarymass911) | 5,402 |
+| 2026-11-19 12:48:05 | [Afonso Gonçalves](https://en.wikipedia.org/wiki/Afonso_Gon%C3%A7alves) | [Faviola7](https://en.wikipedia.org/wiki/User:Faviola7) | 16,360 |
+| 2026-11-19 12:52:26 | [T. E. Sorenson](https://en.wikipedia.org/wiki/T._E._Sorenson) | [Jordano53](https://en.wikipedia.org/wiki/User:Jordano53) | 11,373 |
+| 2026-11-19 12:55:46 | [Elina Chauvet](https://en.wikipedia.org/wiki/Elina_Chauvet) | [Victuallers](https://en.wikipedia.org/wiki/User:Victuallers) | 4,428 |
+| 2026-11-19 12:59:15 | [Aganocrossus apicenotatus](https://en.wikipedia.org/wiki/Aganocrossus_apicenotatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,316 |
+| 2026-11-19 12:59:36 | [Moraea fugax](https://en.wikipedia.org/wiki/Moraea_fugax) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 2,192 |
+| 2026-11-19 13:00:54 | [Grafted into the Army](https://en.wikipedia.org/wiki/Grafted_into_the_Army) | [DannyRogers800](https://en.wikipedia.org/wiki/User:DannyRogers800) | 25,880 |
+| 2026-11-19 13:05:50 | [Moraea flavescens](https://en.wikipedia.org/wiki/Moraea_flavescens) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,140 |
+| 2026-11-19 13:13:16 | [Twenty-second Zionist Congress](https://en.wikipedia.org/wiki/Twenty-second_Zionist_Congress) | [Balabush](https://en.wikipedia.org/wiki/User:Balabush) | 1,776 |
+| 2026-11-19 13:16:52 | [Moraea atropunctata](https://en.wikipedia.org/wiki/Moraea_atropunctata) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,354 |
