@@ -13,50 +13,52 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-19 03:19 UTC](data/en/new-articles-2026-11-19T03-19-58Z.csv) | 18 |
-| Japanese | `ja` | [2026-11-19 03:19 UTC](data/ja/new-articles-2026-11-19T03-19-58Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-19 03:19 UTC](data/zh/new-articles-2026-11-19T03-19-58Z.csv) | 6 |
-| French | `fr` | [2026-11-19 03:19 UTC](data/fr/new-articles-2026-11-19T03-19-58Z.csv) | 1 |
-| German | `de` | [2026-11-19 03:19 UTC](data/de/new-articles-2026-11-19T03-19-58Z.csv) | 6 |
-| Russian | `ru` | [2026-11-19 03:19 UTC](data/ru/new-articles-2026-11-19T03-19-58Z.csv) | 5 |
-| Spanish | `es` | [2026-11-19 03:19 UTC](data/es/new-articles-2026-11-19T03-19-58Z.csv) | 6 |
-| Italian | `it` | [2026-11-19 02:19 UTC](data/it/new-articles-2026-11-19T02-19-04Z.csv) | 2 |
-| Portuguese | `pt` | [2026-11-19 03:19 UTC](data/pt/new-articles-2026-11-19T03-19-58Z.csv) | 4 |
-| Polish | `pl` | [2026-11-19 03:19 UTC](data/pl/new-articles-2026-11-19T03-19-58Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-19 03:19 UTC](data/ar/new-articles-2026-11-19T03-19-58Z.csv) | 5 |
-| Persian | `fa` | [2026-11-19 01:21 UTC](data/fa/new-articles-2026-11-19T01-21-32Z.csv) | 1 |
-| Turkish | `tr` | [2026-11-19 00:21 UTC](data/tr/new-articles-2026-11-19T00-21-27Z.csv) | 1 |
+| English | `en` | [2026-11-19 04:20 UTC](data/en/new-articles-2026-11-19T04-20-12Z.csv) | 20 |
+| Japanese | `ja` | [2026-11-19 04:20 UTC](data/ja/new-articles-2026-11-19T04-20-12Z.csv) | 6 |
+| Chinese | `zh` | [2026-11-19 04:20 UTC](data/zh/new-articles-2026-11-19T04-20-12Z.csv) | 4 |
+| French | `fr` | [2026-11-19 04:20 UTC](data/fr/new-articles-2026-11-19T04-20-12Z.csv) | 1 |
+| German | `de` | [2026-11-19 04:20 UTC](data/de/new-articles-2026-11-19T04-20-12Z.csv) | 9 |
+| Russian | `ru` | [2026-11-19 04:20 UTC](data/ru/new-articles-2026-11-19T04-20-12Z.csv) | 2 |
+| Spanish | `es` | [2026-11-19 04:20 UTC](data/es/new-articles-2026-11-19T04-20-12Z.csv) | 5 |
+| Italian | `it` | [2026-11-19 04:20 UTC](data/it/new-articles-2026-11-19T04-20-12Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-19 04:20 UTC](data/pt/new-articles-2026-11-19T04-20-12Z.csv) | 2 |
+| Polish | `pl` | [2026-11-19 04:20 UTC](data/pl/new-articles-2026-11-19T04-20-12Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-19 04:20 UTC](data/ar/new-articles-2026-11-19T04-20-12Z.csv) | 1 |
+| Persian | `fa` | [2026-11-19 04:20 UTC](data/fa/new-articles-2026-11-19T04-20-12Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-19 04:20 UTC](data/tr/new-articles-2026-11-19T04-20-12Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-18 23:20 UTC](data/he/new-articles-2026-11-18T23-20-18Z.csv) | 2 |
 | Swedish | `sv` | [2026-11-19 03:19 UTC](data/sv/new-articles-2026-11-19T03-19-58Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-19 02:19 UTC](data/nl/new-articles-2026-11-19T02-19-04Z.csv) | 2 |
-| Korean | `ko` | [2026-11-19 03:19 UTC](data/ko/new-articles-2026-11-19T03-19-58Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-19 03:19 UTC](data/id/new-articles-2026-11-19T03-19-58Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-11-19 02:19 UTC](data/uk/new-articles-2026-11-19T02-19-04Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-19 03:19 UTC](data/vi/new-articles-2026-11-19T03-19-58Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-19 04:20 UTC](data/nl/new-articles-2026-11-19T04-20-12Z.csv) | 2 |
+| Korean | `ko` | [2026-11-19 04:20 UTC](data/ko/new-articles-2026-11-19T04-20-12Z.csv) | 12 |
+| Indonesian | `id` | [2026-11-19 04:20 UTC](data/id/new-articles-2026-11-19T04-20-12Z.csv) | 12 |
+| Ukrainian | `uk` | [2026-11-19 04:20 UTC](data/uk/new-articles-2026-11-19T04-20-12Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-11-19 04:20 UTC](data/vi/new-articles-2026-11-19T04-20-12Z.csv) | 2 |
 
-## English (en) — 2026-11-19 03:19 UTC
+## English (en) — 2026-11-19 04:20 UTC
 
-New articles created between 2026-11-19 02:19 UTC and 2026-11-19 03:19 UTC.
+New articles created between 2026-11-19 03:19 UTC and 2026-11-19 04:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-19T03-19-58Z.csv)
+[Full CSV](data/en/new-articles-2026-11-19T04-20-12Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-19 02:21:52 | [Mari Nobre](https://en.wikipedia.org/wiki/Mari_Nobre) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,009 |
-| 2026-11-19 02:22:17 | [2027 in Minnesota](https://en.wikipedia.org/wiki/2027_in_Minnesota) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 1,678 |
-| 2026-11-19 02:34:44 | [Salam Pacific Indonesia Lines](https://en.wikipedia.org/wiki/Salam_Pacific_Indonesia_Lines) | [Moterias](https://en.wikipedia.org/wiki/User:Moterias) | 15,123 |
-| 2026-11-19 02:41:29 | [Chocolate scene](https://en.wikipedia.org/wiki/Chocolate_scene) | [TarangoTheGreatest](https://en.wikipedia.org/wiki/User:TarangoTheGreatest) | 147 |
-| 2026-11-19 02:42:41 | [Runkus](https://en.wikipedia.org/wiki/Runkus) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,462 |
-| 2026-11-19 02:42:50 | [Otto Hall](https://en.wikipedia.org/wiki/Otto_Hall) | [Chao Garden](https://en.wikipedia.org/wiki/User:Chao_Garden) | 3,031 |
-| 2026-11-19 02:47:27 | [John W. McKnight (politician, born 1879)](https://en.wikipedia.org/wiki/John_W._McKnight_%28politician%2C_born_1879%29) | [Penale52](https://en.wikipedia.org/wiki/User:Penale52) | 3,753 |
-| 2026-11-19 02:50:31 | [Terapontoidei](https://en.wikipedia.org/wiki/Terapontoidei) | [Bloopityboop](https://en.wikipedia.org/wiki/User:Bloopityboop) | 2,201 |
-| 2026-11-19 02:56:52 | [2010 Florida Senate election](https://en.wikipedia.org/wiki/2010_Florida_Senate_election) | [Indylover2010](https://en.wikipedia.org/wiki/User:Indylover2010) | 5,463 |
-| 2026-11-19 03:02:08 | [List of presidential trips made by Gerald Ford (1976–77)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_Gerald_Ford_%281976%E2%80%9377%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 45,598 |
-| 2026-11-19 03:06:23 | [Irénée Beaubien](https://en.wikipedia.org/wiki/Ir%C3%A9n%C3%A9e_Beaubien) | [Dr vulpes](https://en.wikipedia.org/wiki/User:Dr_vulpes) | 775 |
-| 2026-11-19 03:07:51 | [Virgelle Ferry](https://en.wikipedia.org/wiki/Virgelle_Ferry) | [Grizfan37](https://en.wikipedia.org/wiki/User:Grizfan37) | 2,931 |
-| 2026-11-19 03:08:31 | [Pilaster (disambiguation)](https://en.wikipedia.org/wiki/Pilaster_%28disambiguation%29) | [Fgnievinski](https://en.wikipedia.org/wiki/User:Fgnievinski) | 173 |
-| 2026-11-19 03:11:05 | [Sarah Cissé](https://en.wikipedia.org/wiki/Sarah_Ciss%C3%A9) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 6,044 |
-| 2026-11-19 03:12:32 | [Paradiso 17](https://en.wikipedia.org/wiki/Paradiso_17) | [Phibeatrice](https://en.wikipedia.org/wiki/User:Phibeatrice) | 332 |
-| 2026-11-19 03:14:36 | [USCGC Skipjack](https://en.wikipedia.org/wiki/USCGC_Skipjack) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 6,239 |
-| 2026-11-19 03:18:26 | [Omaru](https://en.wikipedia.org/wiki/Omaru) | [1brianm7](https://en.wikipedia.org/wiki/User:1brianm7) | 320 |
-| 2026-11-19 03:18:51 | [Madonna Songbook](https://en.wikipedia.org/wiki/Madonna_Songbook) | [Julioprodriguez35](https://en.wikipedia.org/wiki/User:Julioprodriguez35) | 1,713 |
+| 2026-11-19 03:23:06 | [Somerset Armory](https://en.wikipedia.org/wiki/Somerset_Armory) | [208yeahh](https://en.wikipedia.org/wiki/User:208yeahh) | 4,166 |
+| 2026-11-19 03:24:57 | [Dan Nigro production discography](https://en.wikipedia.org/wiki/Dan_Nigro_production_discography) | [Harbordelsol](https://en.wikipedia.org/wiki/User:Harbordelsol) | 15,064 |
+| 2026-11-19 03:27:26 | [Pays d'Orthe](https://en.wikipedia.org/wiki/Pays_d%27Orthe) | [Newm30](https://en.wikipedia.org/wiki/User:Newm30) | 624 |
+| 2026-11-19 03:29:25 | [Ivory Curry](https://en.wikipedia.org/wiki/Ivory_Curry) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,000 |
+| 2026-11-19 03:34:35 | [Pronunciation of loanwords in English](https://en.wikipedia.org/wiki/Pronunciation_of_loanwords_in_English) | [B81161625](https://en.wikipedia.org/wiki/User:B81161625) | 470 |
+| 2026-11-19 03:34:40 | [Oh, Please!](https://en.wikipedia.org/wiki/Oh%2C_Please%21) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 2,011 |
+| 2026-11-19 03:40:34 | [Ilham Bicara](https://en.wikipedia.org/wiki/Ilham_Bicara) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 4,619 |
+| 2026-11-19 03:41:13 | [Ryan Berry](https://en.wikipedia.org/wiki/Ryan_Berry) | [Stanloona2020](https://en.wikipedia.org/wiki/User:Stanloona2020) | 2,934 |
+| 2026-11-19 03:42:09 | [Zakkyo](https://en.wikipedia.org/wiki/Zakkyo) | [Glebushko0703](https://en.wikipedia.org/wiki/User:Glebushko0703) | 2,533 |
+| 2026-11-19 03:43:59 | [New Mexico black bear.](https://en.wikipedia.org/wiki/New_Mexico_black_bear.) | [Rajbarage](https://en.wikipedia.org/wiki/User:Rajbarage) | 946 |
+| 2026-11-19 03:44:09 | [Venglustat](https://en.wikipedia.org/wiki/Venglustat) | [Whywhenwhohow](https://en.wikipedia.org/wiki/User:Whywhenwhohow) | 8,459 |
+| 2026-11-19 03:52:48 | [Mulaug, Sultan Kudarat](https://en.wikipedia.org/wiki/Mulaug%2C_Sultan_Kudarat) | [Minwrite](https://en.wikipedia.org/wiki/User:Minwrite) | 5,238 |
+| 2026-11-19 03:54:13 | [Jim Kingston (disambiguation)](https://en.wikipedia.org/wiki/Jim_Kingston_%28disambiguation%29) | [BilledMammal](https://en.wikipedia.org/wiki/User:BilledMammal) | 127 |
+| 2026-11-19 03:56:23 | [Kannon-ji](https://en.wikipedia.org/wiki/Kannon-ji) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 121 |
+| 2026-11-19 03:56:30 | [J. Edward Russo](https://en.wikipedia.org/wiki/J._Edward_Russo) | [Stroodlecoin](https://en.wikipedia.org/wiki/User:Stroodlecoin) | 7,343 |
+| 2026-11-19 04:02:40 | [Donald Trump and Islamophobia](https://en.wikipedia.org/wiki/Donald_Trump_and_Islamophobia) | [Milhouse10000](https://en.wikipedia.org/wiki/User:Milhouse10000) | 29,974 |
+| 2026-11-19 04:03:40 | [Populist paradox](https://en.wikipedia.org/wiki/Populist_paradox) | [Erel Segal](https://en.wikipedia.org/wiki/User:Erel_Segal) | 10,944 |
+| 2026-11-19 04:12:45 | [Aïnhoa Risacher](https://en.wikipedia.org/wiki/A%C3%AFnhoa_Risacher) | [DetroitFan7](https://en.wikipedia.org/wiki/User:DetroitFan7) | 5,822 |
+| 2026-11-19 04:14:14 | [Minamata (disambiguation)](https://en.wikipedia.org/wiki/Minamata_%28disambiguation%29) | [Gray eyes](https://en.wikipedia.org/wiki/User:Gray_eyes) | 230 |
+| 2026-11-19 04:17:29 | [USCGC Steelhead](https://en.wikipedia.org/wiki/USCGC_Steelhead) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 4,631 |
