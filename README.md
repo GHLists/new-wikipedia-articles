@@ -13,43 +13,47 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-20 03:19 UTC](data/en/new-articles-2026-11-20T03-19-50Z.csv) | 11 |
-| Japanese | `ja` | [2026-11-20 03:19 UTC](data/ja/new-articles-2026-11-20T03-19-50Z.csv) | 10 |
-| Chinese | `zh` | [2026-11-20 03:19 UTC](data/zh/new-articles-2026-11-20T03-19-50Z.csv) | 10 |
-| French | `fr` | [2026-11-20 03:19 UTC](data/fr/new-articles-2026-11-20T03-19-50Z.csv) | 2 |
-| German | `de` | [2026-11-20 01:18 UTC](data/de/new-articles-2026-11-20T01-18-51Z.csv) | 3 |
-| Russian | `ru` | [2026-11-20 02:19 UTC](data/ru/new-articles-2026-11-20T02-19-45Z.csv) | 3 |
-| Spanish | `es` | [2026-11-20 03:19 UTC](data/es/new-articles-2026-11-20T03-19-50Z.csv) | 12 |
-| Italian | `it` | [2026-11-20 03:19 UTC](data/it/new-articles-2026-11-20T03-19-50Z.csv) | 1 |
-| Portuguese | `pt` | [2026-11-20 03:19 UTC](data/pt/new-articles-2026-11-20T03-19-50Z.csv) | 7 |
+| English | `en` | [2026-11-20 04:20 UTC](data/en/new-articles-2026-11-20T04-20-04Z.csv) | 15 |
+| Japanese | `ja` | [2026-11-20 04:20 UTC](data/ja/new-articles-2026-11-20T04-20-04Z.csv) | 6 |
+| Chinese | `zh` | [2026-11-20 04:20 UTC](data/zh/new-articles-2026-11-20T04-20-04Z.csv) | 5 |
+| French | `fr` | [2026-11-20 04:20 UTC](data/fr/new-articles-2026-11-20T04-20-04Z.csv) | 1 |
+| German | `de` | [2026-11-20 04:20 UTC](data/de/new-articles-2026-11-20T04-20-04Z.csv) | 4 |
+| Russian | `ru` | [2026-11-20 04:20 UTC](data/ru/new-articles-2026-11-20T04-20-04Z.csv) | 4 |
+| Spanish | `es` | [2026-11-20 04:20 UTC](data/es/new-articles-2026-11-20T04-20-04Z.csv) | 5 |
+| Italian | `it` | [2026-11-20 04:20 UTC](data/it/new-articles-2026-11-20T04-20-04Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-20 04:20 UTC](data/pt/new-articles-2026-11-20T04-20-04Z.csv) | 4 |
 | Polish | `pl` | [2026-11-20 03:19 UTC](data/pl/new-articles-2026-11-20T03-19-50Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-20 02:19 UTC](data/ar/new-articles-2026-11-20T02-19-45Z.csv) | 1 |
-| Persian | `fa` | [2026-11-20 03:19 UTC](data/fa/new-articles-2026-11-20T03-19-50Z.csv) | 4 |
-| Turkish | `tr` | [2026-11-20 03:19 UTC](data/tr/new-articles-2026-11-20T03-19-50Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-20 04:20 UTC](data/ar/new-articles-2026-11-20T04-20-04Z.csv) | 1 |
+| Persian | `fa` | [2026-11-20 04:20 UTC](data/fa/new-articles-2026-11-20T04-20-04Z.csv) | 1 |
+| Turkish | `tr` | [2026-11-20 04:20 UTC](data/tr/new-articles-2026-11-20T04-20-04Z.csv) | 2 |
 | Hebrew | `he` | [2026-11-20 02:19 UTC](data/he/new-articles-2026-11-20T02-19-45Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-20 03:19 UTC](data/sv/new-articles-2026-11-20T03-19-50Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-20 04:20 UTC](data/sv/new-articles-2026-11-20T04-20-04Z.csv) | 3 |
 | Dutch | `nl` | [2026-11-20 03:19 UTC](data/nl/new-articles-2026-11-20T03-19-50Z.csv) | 2 |
-| Korean | `ko` | [2026-11-20 03:19 UTC](data/ko/new-articles-2026-11-20T03-19-50Z.csv) | 6 |
-| Indonesian | `id` | [2026-11-20 03:19 UTC](data/id/new-articles-2026-11-20T03-19-50Z.csv) | 8 |
-| Ukrainian | `uk` | [2026-11-20 03:19 UTC](data/uk/new-articles-2026-11-20T03-19-50Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-11-20 03:19 UTC](data/vi/new-articles-2026-11-20T03-19-50Z.csv) | 1 |
+| Korean | `ko` | [2026-11-20 04:20 UTC](data/ko/new-articles-2026-11-20T04-20-04Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-20 04:20 UTC](data/id/new-articles-2026-11-20T04-20-04Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-11-20 04:20 UTC](data/uk/new-articles-2026-11-20T04-20-04Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-20 04:20 UTC](data/vi/new-articles-2026-11-20T04-20-04Z.csv) | 4 |
 
-## English (en) — 2026-11-20 03:19 UTC
+## English (en) — 2026-11-20 04:20 UTC
 
-New articles created between 2026-11-20 02:19 UTC and 2026-11-20 03:19 UTC.
+New articles created between 2026-11-20 03:19 UTC and 2026-11-20 04:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-20T03-19-50Z.csv)
+[Full CSV](data/en/new-articles-2026-11-20T04-20-04Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-20 02:33:08 | [Aseanpithecus](https://en.wikipedia.org/wiki/Aseanpithecus) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 2,138 |
-| 2026-11-20 02:37:05 | [Christoph Schuck](https://en.wikipedia.org/wiki/Christoph_Schuck) | [ConflictFan](https://en.wikipedia.org/wiki/User:ConflictFan) | 3,763 |
-| 2026-11-20 02:38:30 | [Hedenstad Church](https://en.wikipedia.org/wiki/Hedenstad_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,715 |
-| 2026-11-20 02:43:20 | [Viscounty of Tartas](https://en.wikipedia.org/wiki/Viscounty_of_Tartas) | [Newm30](https://en.wikipedia.org/wiki/User:Newm30) | 1,638 |
-| 2026-11-20 02:44:44 | [USCGC Sturgeon](https://en.wikipedia.org/wiki/USCGC_Sturgeon) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 5,522 |
-| 2026-11-20 02:46:52 | [Ophelia (Brockhurst)](https://en.wikipedia.org/wiki/Ophelia_%28Brockhurst%29) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,740 |
-| 2026-11-20 02:47:35 | [Louise Kirtland](https://en.wikipedia.org/wiki/Louise_Kirtland) | [4meter4](https://en.wikipedia.org/wiki/User:4meter4) | 7,787 |
-| 2026-11-20 02:49:00 | [Anthradapis](https://en.wikipedia.org/wiki/Anthradapis) | [Anteosaurus magnificus](https://en.wikipedia.org/wiki/User:Anteosaurus_magnificus) | 2,263 |
-| 2026-11-20 02:49:19 | [Efteløt Church](https://en.wikipedia.org/wiki/Eftel%C3%B8t_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 6,936 |
-| 2026-11-20 03:10:46 | [MV Lafayette (1929)](https://en.wikipedia.org/wiki/MV_Lafayette_%281929%29) | [Indylover2010](https://en.wikipedia.org/wiki/User:Indylover2010) | 10,943 |
-| 2026-11-20 03:18:28 | [Plionictis](https://en.wikipedia.org/wiki/Plionictis) | [NGPezz](https://en.wikipedia.org/wiki/User:NGPezz) | 2,691 |
+| 2026-11-20 03:23:00 | [Eulachnus agilis](https://en.wikipedia.org/wiki/Eulachnus_agilis) | [Nephila121](https://en.wikipedia.org/wiki/User:Nephila121) | 2,926 |
+| 2026-11-20 03:24:21 | [Gedvilas](https://en.wikipedia.org/wiki/Gedvilas) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 884 |
+| 2026-11-20 03:25:43 | [Padaythar Stadium](https://en.wikipedia.org/wiki/Padaythar_Stadium) | [ZyTun](https://en.wikipedia.org/wiki/User:ZyTun) | 1,511 |
+| 2026-11-20 03:27:45 | [Kent Gıda](https://en.wikipedia.org/wiki/Kent_G%C4%B1da) | [Taw Tülki](https://en.wikipedia.org/wiki/User:Taw_T%C3%BClki) | 7,584 |
+| 2026-11-20 03:32:50 | [List of vocal works by Georg Philipp Telemann (TVWV)](https://en.wikipedia.org/wiki/List_of_vocal_works_by_Georg_Philipp_Telemann_%28TVWV%29) | [Mauschw](https://en.wikipedia.org/wiki/User:Mauschw) | 829,607 |
+| 2026-11-20 03:33:31 | [Raoulia beauverdii](https://en.wikipedia.org/wiki/Raoulia_beauverdii) | [Alexeyevitch](https://en.wikipedia.org/wiki/User:Alexeyevitch) | 7,551 |
+| 2026-11-20 03:34:23 | [Warlords: China in Disarray, 1916–1950](https://en.wikipedia.org/wiki/Warlords%3A_China_in_Disarray%2C_1916%E2%80%931950) | [Guinness323](https://en.wikipedia.org/wiki/User:Guinness323) | 7,851 |
+| 2026-11-20 03:34:58 | [Carl Friedrich Göschel](https://en.wikipedia.org/wiki/Carl_Friedrich_G%C3%B6schel) | [PlatonicScribe](https://en.wikipedia.org/wiki/User:PlatonicScribe) | 6,537 |
+| 2026-11-20 03:39:53 | [List of instrumental works by Georg Philipp Telemann (TWV)](https://en.wikipedia.org/wiki/List_of_instrumental_works_by_Georg_Philipp_Telemann_%28TWV%29) | [Mauschw](https://en.wikipedia.org/wiki/User:Mauschw) | 421,506 |
+| 2026-11-20 03:46:20 | [Eichenwalde](https://en.wikipedia.org/wiki/Eichenwalde) | [Zxcvbnm](https://en.wikipedia.org/wiki/User:Zxcvbnm) | 7,446 |
+| 2026-11-20 03:49:17 | [Call on Me (Daft Punk)](https://en.wikipedia.org/wiki/Call_on_Me_%28Daft_Punk%29) | [Nepaxt](https://en.wikipedia.org/wiki/User:Nepaxt) | 313 |
+| 2026-11-20 03:55:28 | [Crystal Arcade](https://en.wikipedia.org/wiki/Crystal_Arcade) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 3,753 |
+| 2026-11-20 04:02:49 | [1957–58 Santosh Trophy](https://en.wikipedia.org/wiki/1957%E2%80%9358_Santosh_Trophy) | [Tintin1107](https://en.wikipedia.org/wiki/User:Tintin1107) | 2,048 |
+| 2026-11-20 04:04:09 | [Hans Melis](https://en.wikipedia.org/wiki/Hans_Melis) | [JJonahJackalope](https://en.wikipedia.org/wiki/User:JJonahJackalope) | 6,543 |
+| 2026-11-20 04:05:52 | [Red Warriors (gang)](https://en.wikipedia.org/wiki/Red_Warriors_%28gang%29) | [GloBoy93](https://en.wikipedia.org/wiki/User:GloBoy93) | 14,830 |
