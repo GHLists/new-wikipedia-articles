@@ -13,45 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-20 14:18 UTC](data/en/new-articles-2026-11-20T14-18-42Z.csv) | 13 |
-| Japanese | `ja` | [2026-11-20 14:18 UTC](data/ja/new-articles-2026-11-20T14-18-42Z.csv) | 11 |
-| Chinese | `zh` | [2026-11-20 14:18 UTC](data/zh/new-articles-2026-11-20T14-18-42Z.csv) | 6 |
-| French | `fr` | [2026-11-20 14:18 UTC](data/fr/new-articles-2026-11-20T14-18-42Z.csv) | 14 |
-| German | `de` | [2026-11-20 14:18 UTC](data/de/new-articles-2026-11-20T14-18-42Z.csv) | 10 |
-| Russian | `ru` | [2026-11-20 14:18 UTC](data/ru/new-articles-2026-11-20T14-18-42Z.csv) | 5 |
-| Spanish | `es` | [2026-11-20 14:18 UTC](data/es/new-articles-2026-11-20T14-18-42Z.csv) | 40 |
-| Italian | `it` | [2026-11-20 14:18 UTC](data/it/new-articles-2026-11-20T14-18-42Z.csv) | 11 |
-| Portuguese | `pt` | [2026-11-20 14:18 UTC](data/pt/new-articles-2026-11-20T14-18-42Z.csv) | 3 |
-| Polish | `pl` | [2026-11-20 14:18 UTC](data/pl/new-articles-2026-11-20T14-18-42Z.csv) | 8 |
-| Arabic | `ar` | [2026-11-20 14:18 UTC](data/ar/new-articles-2026-11-20T14-18-42Z.csv) | 5 |
-| Persian | `fa` | [2026-11-20 14:18 UTC](data/fa/new-articles-2026-11-20T14-18-42Z.csv) | 10 |
-| Turkish | `tr` | [2026-11-20 14:18 UTC](data/tr/new-articles-2026-11-20T14-18-42Z.csv) | 5 |
-| Hebrew | `he` | [2026-11-20 14:18 UTC](data/he/new-articles-2026-11-20T14-18-42Z.csv) | 6 |
-| Swedish | `sv` | [2026-11-20 13:20 UTC](data/sv/new-articles-2026-11-20T13-20-10Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-20 14:18 UTC](data/nl/new-articles-2026-11-20T14-18-42Z.csv) | 9 |
-| Korean | `ko` | [2026-11-20 14:18 UTC](data/ko/new-articles-2026-11-20T14-18-42Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-20 14:18 UTC](data/id/new-articles-2026-11-20T14-18-42Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-11-20 14:18 UTC](data/uk/new-articles-2026-11-20T14-18-42Z.csv) | 21 |
-| Vietnamese | `vi` | [2026-11-20 14:18 UTC](data/vi/new-articles-2026-11-20T14-18-42Z.csv) | 3 |
+| English | `en` | [2026-11-20 15:21 UTC](data/en/new-articles-2026-11-20T15-21-10Z.csv) | 27 |
+| Japanese | `ja` | [2026-11-20 15:21 UTC](data/ja/new-articles-2026-11-20T15-21-10Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-20 15:21 UTC](data/zh/new-articles-2026-11-20T15-21-10Z.csv) | 3 |
+| French | `fr` | [2026-11-20 15:21 UTC](data/fr/new-articles-2026-11-20T15-21-10Z.csv) | 10 |
+| German | `de` | [2026-11-20 15:21 UTC](data/de/new-articles-2026-11-20T15-21-10Z.csv) | 8 |
+| Russian | `ru` | [2026-11-20 15:21 UTC](data/ru/new-articles-2026-11-20T15-21-10Z.csv) | 13 |
+| Spanish | `es` | [2026-11-20 15:21 UTC](data/es/new-articles-2026-11-20T15-21-10Z.csv) | 1 |
+| Italian | `it` | [2026-11-20 15:21 UTC](data/it/new-articles-2026-11-20T15-21-10Z.csv) | 11 |
+| Portuguese | `pt` | [2026-11-20 15:21 UTC](data/pt/new-articles-2026-11-20T15-21-10Z.csv) | 2 |
+| Polish | `pl` | [2026-11-20 15:21 UTC](data/pl/new-articles-2026-11-20T15-21-10Z.csv) | 3 |
+| Arabic | `ar` | [2026-11-20 15:21 UTC](data/ar/new-articles-2026-11-20T15-21-10Z.csv) | 11 |
+| Persian | `fa` | [2026-11-20 15:21 UTC](data/fa/new-articles-2026-11-20T15-21-10Z.csv) | 2 |
+| Turkish | `tr` | [2026-11-20 15:21 UTC](data/tr/new-articles-2026-11-20T15-21-10Z.csv) | 5 |
+| Hebrew | `he` | [2026-11-20 15:21 UTC](data/he/new-articles-2026-11-20T15-21-10Z.csv) | 8 |
+| Swedish | `sv` | [2026-11-20 15:21 UTC](data/sv/new-articles-2026-11-20T15-21-10Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-20 15:21 UTC](data/nl/new-articles-2026-11-20T15-21-10Z.csv) | 7 |
+| Korean | `ko` | [2026-11-20 15:21 UTC](data/ko/new-articles-2026-11-20T15-21-10Z.csv) | 6 |
+| Indonesian | `id` | [2026-11-20 15:21 UTC](data/id/new-articles-2026-11-20T15-21-10Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-20 15:21 UTC](data/uk/new-articles-2026-11-20T15-21-10Z.csv) | 36 |
+| Vietnamese | `vi` | [2026-11-20 15:21 UTC](data/vi/new-articles-2026-11-20T15-21-10Z.csv) | 2 |
 
-## English (en) — 2026-11-20 14:18 UTC
+## English (en) — 2026-11-20 15:21 UTC
 
-New articles created between 2026-11-20 13:20 UTC and 2026-11-20 14:18 UTC.
+New articles created between 2026-11-20 14:18 UTC and 2026-11-20 15:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-20T14-18-42Z.csv)
+[Full CSV](data/en/new-articles-2026-11-20T15-21-10Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-20 13:24:12 | [Bohdan Kolomiichuk](https://en.wikipedia.org/wiki/Bohdan_Kolomiichuk) | [Замішанець](https://en.wikipedia.org/wiki/User:%D0%97%D0%B0%D0%BC%D1%96%D1%88%D0%B0%D0%BD%D0%B5%D1%86%D1%8C) | 6,317 |
-| 2026-11-20 13:27:12 | [Photoroom](https://en.wikipedia.org/wiki/Photoroom) | [Tessrina](https://en.wikipedia.org/wiki/User:Tessrina) | 15,732 |
-| 2026-11-20 13:34:46 | [The End of All Gods](https://en.wikipedia.org/wiki/The_End_of_All_Gods) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 4,246 |
-| 2026-11-20 13:50:02 | [Rus'-Byzantine War of 970–971](https://en.wikipedia.org/wiki/Rus%27-Byzantine_War_of_970%E2%80%93971) | [B81161625](https://en.wikipedia.org/wiki/User:B81161625) | 4,697 |
-| 2026-11-20 13:52:43 | [Youcam AI Pro](https://en.wikipedia.org/wiki/Youcam_AI_Pro) | [Tessrina](https://en.wikipedia.org/wiki/User:Tessrina) | 12,030 |
-| 2026-11-20 13:53:14 | [Football at the 2026 Vietnam National Games](https://en.wikipedia.org/wiki/Football_at_the_2026_Vietnam_National_Games) | [Tống Thành Hưng](https://en.wikipedia.org/wiki/User:T%E1%BB%91ng_Th%C3%A0nh_H%C6%B0ng) | 5,991 |
-| 2026-11-20 13:54:36 | [Squealer (band)](https://en.wikipedia.org/wiki/Squealer_%28band%29) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 8,921 |
-| 2026-11-20 13:57:00 | [Dorcas Ollita](https://en.wikipedia.org/wiki/Dorcas_Ollita) | [MadjarKB](https://en.wikipedia.org/wiki/User:MadjarKB) | 6,001 |
-| 2026-11-20 13:57:05 | [ShengShu Technology](https://en.wikipedia.org/wiki/ShengShu_Technology) | [Tessrina](https://en.wikipedia.org/wiki/User:Tessrina) | 28,515 |
-| 2026-11-20 14:08:50 | [Septuagint English Tanakh](https://en.wikipedia.org/wiki/Septuagint_English_Tanakh) | [Kayedavi](https://en.wikipedia.org/wiki/User:Kayedavi) | 9,021 |
-| 2026-11-20 14:13:15 | [Melly Mike (rapper)](https://en.wikipedia.org/wiki/Melly_Mike_%28rapper%29) | [AdobongPogi](https://en.wikipedia.org/wiki/User:AdobongPogi) | 7,076 |
-| 2026-11-20 14:13:24 | [Yu clan of Yingchuan](https://en.wikipedia.org/wiki/Yu_clan_of_Yingchuan) | [Huayra&Rose](https://en.wikipedia.org/wiki/User:Huayra%26Rose) | 10,989 |
-| 2026-11-20 14:14:23 | [Panchkarma](https://en.wikipedia.org/wiki/Panchkarma) | [Maleniathebladeofmiquela](https://en.wikipedia.org/wiki/User:Maleniathebladeofmiquela) | 9,855 |
+| 2026-11-20 14:20:37 | [Louis Carr (disambiguation)](https://en.wikipedia.org/wiki/Louis_Carr_%28disambiguation%29) | [Chrisahn](https://en.wikipedia.org/wiki/User:Chrisahn) | 187 |
+| 2026-11-20 14:22:19 | [Professor Martin Ayanore](https://en.wikipedia.org/wiki/Professor_Martin_Ayanore) | [Crab44](https://en.wikipedia.org/wiki/User:Crab44) | 6,791 |
+| 2026-11-20 14:23:26 | [Fury in Paradise](https://en.wikipedia.org/wiki/Fury_in_Paradise) | [CharmingCanyon](https://en.wikipedia.org/wiki/User:CharmingCanyon) | 4,031 |
+| 2026-11-20 14:31:11 | [2026–27 Men's Super League](https://en.wikipedia.org/wiki/2026%E2%80%9327_Men%27s_Super_League) | [Eggcalledted](https://en.wikipedia.org/wiki/User:Eggcalledted) | 12,317 |
+| 2026-11-20 14:32:20 | [Jon Painter](https://en.wikipedia.org/wiki/Jon_Painter) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,470 |
+| 2026-11-20 14:39:34 | [Moraea tripetala](https://en.wikipedia.org/wiki/Moraea_tripetala) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 2,843 |
+| 2026-11-20 14:40:26 | [The Rookie series 6](https://en.wikipedia.org/wiki/The_Rookie_series_6) | [4biua](https://en.wikipedia.org/wiki/User:4biua) | 67,510 |
+| 2026-11-20 14:42:18 | [Masoretic English Tanakh](https://en.wikipedia.org/wiki/Masoretic_English_Tanakh) | [Kayedavi](https://en.wikipedia.org/wiki/User:Kayedavi) | 9,514 |
+| 2026-11-20 14:44:32 | [LYG1](https://en.wikipedia.org/wiki/LYG1) | [Rkott](https://en.wikipedia.org/wiki/User:Rkott) | 624 |
+| 2026-11-20 14:45:41 | [Christine Morrow (zoologist)](https://en.wikipedia.org/wiki/Christine_Morrow_%28zoologist%29) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 104 |
+| 2026-11-20 14:45:52 | [2026 BWF World Tour Finals](https://en.wikipedia.org/wiki/2026_BWF_World_Tour_Finals) | [Faiz Abbsy](https://en.wikipedia.org/wiki/User:Faiz_Abbsy) | 48,185 |
+| 2026-11-20 14:50:28 | [Allen G. Collins](https://en.wikipedia.org/wiki/Allen_G._Collins) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-20 14:52:43 | [Paco Cárdenas](https://en.wikipedia.org/wiki/Paco_C%C3%A1rdenas) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-20 14:55:09 | [The Rookie series 7](https://en.wikipedia.org/wiki/The_Rookie_series_7) | [4biua](https://en.wikipedia.org/wiki/User:4biua) | 37,870 |
+| 2026-11-20 14:55:39 | [Fernanda Azevedo](https://en.wikipedia.org/wiki/Fernanda_Azevedo) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-20 14:57:10 | [Curtis Erwin](https://en.wikipedia.org/wiki/Curtis_Erwin) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,514 |
+| 2026-11-20 14:57:41 | [Belinda Alvarez](https://en.wikipedia.org/wiki/Belinda_Alvarez) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-20 14:58:12 | [Keyboard harmonica](https://en.wikipedia.org/wiki/Keyboard_harmonica) | [Why? I Ask](https://en.wikipedia.org/wiki/User:Why%3F_I_Ask) | 24 |
+| 2026-11-20 15:01:18 | [Death Forest](https://en.wikipedia.org/wiki/Death_Forest) | [LePetitFilesdeFrance](https://en.wikipedia.org/wiki/User:LePetitFilesdeFrance) | 9,893 |
+| 2026-11-20 15:02:38 | [Matt Penman](https://en.wikipedia.org/wiki/Matt_Penman) | [MontmartreMeta](https://en.wikipedia.org/wiki/User:MontmartreMeta) | 5,784 |
+| 2026-11-20 15:02:50 | [Nicole J. de Voogd](https://en.wikipedia.org/wiki/Nicole_J._de_Voogd) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-20 15:04:10 | [Bibliography of college fraternities and sororities](https://en.wikipedia.org/wiki/Bibliography_of_college_fraternities_and_sororities) | [Naraht](https://en.wikipedia.org/wiki/User:Naraht) | 15,098 |
+| 2026-11-20 15:04:42 | [The Rookie series 8](https://en.wikipedia.org/wiki/The_Rookie_series_8) | [4biua](https://en.wikipedia.org/wiki/User:4biua) | 35,052 |
+| 2026-11-20 15:06:24 | [Aaron Forst](https://en.wikipedia.org/wiki/Aaron_Forst) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,557 |
+| 2026-11-20 15:07:16 | [Self-Injury, Medicine and Society](https://en.wikipedia.org/wiki/Self-Injury%2C_Medicine_and_Society) | [Boredintheevening](https://en.wikipedia.org/wiki/User:Boredintheevening) | 3,401 |
+| 2026-11-20 15:16:49 | [Dorte Janussen](https://en.wikipedia.org/wiki/Dorte_Janussen) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-20 15:20:11 | [61st Oklahoma Legislature](https://en.wikipedia.org/wiki/61st_Oklahoma_Legislature) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 6,154 |
