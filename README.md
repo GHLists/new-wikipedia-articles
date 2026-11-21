@@ -13,48 +13,43 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-21 01:19 UTC](data/en/new-articles-2026-11-21T01-19-04Z.csv) | 16 |
-| Japanese | `ja` | [2026-11-21 01:19 UTC](data/ja/new-articles-2026-11-21T01-19-04Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-21 01:19 UTC](data/zh/new-articles-2026-11-21T01-19-04Z.csv) | 1 |
+| English | `en` | [2026-11-21 02:18 UTC](data/en/new-articles-2026-11-21T02-18-41Z.csv) | 11 |
+| Japanese | `ja` | [2026-11-21 02:18 UTC](data/ja/new-articles-2026-11-21T02-18-41Z.csv) | 8 |
+| Chinese | `zh` | [2026-11-21 02:18 UTC](data/zh/new-articles-2026-11-21T02-18-41Z.csv) | 2 |
 | French | `fr` | [2026-11-21 01:19 UTC](data/fr/new-articles-2026-11-21T01-19-04Z.csv) | 15 |
-| German | `de` | [2026-11-21 00:21 UTC](data/de/new-articles-2026-11-21T00-21-04Z.csv) | 6 |
-| Russian | `ru` | [2026-11-21 01:19 UTC](data/ru/new-articles-2026-11-21T01-19-04Z.csv) | 8 |
-| Spanish | `es` | [2026-11-21 01:19 UTC](data/es/new-articles-2026-11-21T01-19-04Z.csv) | 6 |
-| Italian | `it` | [2026-11-21 00:21 UTC](data/it/new-articles-2026-11-21T00-21-04Z.csv) | 5 |
-| Portuguese | `pt` | [2026-11-21 01:19 UTC](data/pt/new-articles-2026-11-21T01-19-04Z.csv) | 7 |
+| German | `de` | [2026-11-21 02:18 UTC](data/de/new-articles-2026-11-21T02-18-41Z.csv) | 2 |
+| Russian | `ru` | [2026-11-21 02:18 UTC](data/ru/new-articles-2026-11-21T02-18-41Z.csv) | 1 |
+| Spanish | `es` | [2026-11-21 02:18 UTC](data/es/new-articles-2026-11-21T02-18-41Z.csv) | 11 |
+| Italian | `it` | [2026-11-21 02:18 UTC](data/it/new-articles-2026-11-21T02-18-41Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-21 02:18 UTC](data/pt/new-articles-2026-11-21T02-18-41Z.csv) | 9 |
 | Polish | `pl` | [2026-11-21 01:19 UTC](data/pl/new-articles-2026-11-21T01-19-04Z.csv) | 4 |
-| Arabic | `ar` | [2026-11-21 01:19 UTC](data/ar/new-articles-2026-11-21T01-19-04Z.csv) | 1 |
-| Persian | `fa` | [2026-11-21 00:21 UTC](data/fa/new-articles-2026-11-21T00-21-04Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-21 02:18 UTC](data/ar/new-articles-2026-11-21T02-18-41Z.csv) | 1 |
+| Persian | `fa` | [2026-11-21 02:18 UTC](data/fa/new-articles-2026-11-21T02-18-41Z.csv) | 2 |
 | Turkish | `tr` | [2026-11-21 01:19 UTC](data/tr/new-articles-2026-11-21T01-19-04Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-21 00:21 UTC](data/he/new-articles-2026-11-21T00-21-04Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-21 00:21 UTC](data/sv/new-articles-2026-11-21T00-21-04Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-21 02:18 UTC](data/sv/new-articles-2026-11-21T02-18-41Z.csv) | 1 |
 | Dutch | `nl` | [2026-11-21 01:19 UTC](data/nl/new-articles-2026-11-21T01-19-04Z.csv) | 1 |
-| Korean | `ko` | [2026-11-21 01:19 UTC](data/ko/new-articles-2026-11-21T01-19-04Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-21 01:19 UTC](data/id/new-articles-2026-11-21T01-19-04Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-11-21 01:19 UTC](data/uk/new-articles-2026-11-21T01-19-04Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-11-20 23:19 UTC](data/vi/new-articles-2026-11-20T23-19-37Z.csv) | 1 |
+| Korean | `ko` | [2026-11-21 02:18 UTC](data/ko/new-articles-2026-11-21T02-18-41Z.csv) | 9 |
+| Indonesian | `id` | [2026-11-21 02:18 UTC](data/id/new-articles-2026-11-21T02-18-41Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-21 02:18 UTC](data/uk/new-articles-2026-11-21T02-18-41Z.csv) | 7 |
+| Vietnamese | `vi` | [2026-11-21 02:18 UTC](data/vi/new-articles-2026-11-21T02-18-41Z.csv) | 1 |
 
-## English (en) — 2026-11-21 01:19 UTC
+## English (en) — 2026-11-21 02:18 UTC
 
-New articles created between 2026-11-21 00:21 UTC and 2026-11-21 01:19 UTC.
+New articles created between 2026-11-21 01:19 UTC and 2026-11-21 02:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-21T01-19-04Z.csv)
+[Full CSV](data/en/new-articles-2026-11-21T02-18-41Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-21 00:22:30 | [Moncorvo railway station](https://en.wikipedia.org/wiki/Moncorvo_railway_station) | [V.B.Speranza](https://en.wikipedia.org/wiki/User:V.B.Speranza) | 4,805 |
-| 2026-11-21 00:22:49 | [Henryk Ittar](https://en.wikipedia.org/wiki/Henryk_Ittar) | [Szeremeta](https://en.wikipedia.org/wiki/User:Szeremeta) | 6,864 |
-| 2026-11-21 00:32:02 | [Justin Packard](https://en.wikipedia.org/wiki/Justin_Packard) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,445 |
-| 2026-11-21 00:33:07 | [Oktyabrskoye, Panfilov District](https://en.wikipedia.org/wiki/Oktyabrskoye%2C_Panfilov_District) | [Thermokarst](https://en.wikipedia.org/wiki/User:Thermokarst) | 4,947 |
-| 2026-11-21 00:33:30 | [Peniel (collection)](https://en.wikipedia.org/wiki/Peniel_%28collection%29) | [Perry Middlemiss](https://en.wikipedia.org/wiki/User:Perry_Middlemiss) | 3,963 |
-| 2026-11-21 00:40:47 | [Donna Danis](https://en.wikipedia.org/wiki/Donna_Danis) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,428 |
-| 2026-11-21 00:41:44 | [Eduardo Espina](https://en.wikipedia.org/wiki/Eduardo_Espina) | [Guval Mjion](https://en.wikipedia.org/wiki/User:Guval_Mjion) | 10,678 |
-| 2026-11-21 00:42:46 | [Pamela Sanderson](https://en.wikipedia.org/wiki/Pamela_Sanderson) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,454 |
-| 2026-11-21 00:45:21 | [National Commission for Wales](https://en.wikipedia.org/wiki/National_Commission_for_Wales) | [DankJae](https://en.wikipedia.org/wiki/User:DankJae) | 10,625 |
-| 2026-11-21 00:46:45 | [Lisa Brown (New Hampshire politician)](https://en.wikipedia.org/wiki/Lisa_Brown_%28New_Hampshire_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,611 |
-| 2026-11-21 00:49:22 | [Alison Murphy](https://en.wikipedia.org/wiki/Alison_Murphy) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,544 |
-| 2026-11-21 00:54:20 | [Lisa Beaudoin](https://en.wikipedia.org/wiki/Lisa_Beaudoin) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,544 |
-| 2026-11-21 00:59:10 | [Xororó](https://en.wikipedia.org/wiki/Xoror%C3%B3) | [V.B.Speranza](https://en.wikipedia.org/wiki/User:V.B.Speranza) | 9,305 |
-| 2026-11-21 01:08:18 | [Antigona (Accius)](https://en.wikipedia.org/wiki/Antigona_%28Accius%29) | [Graearms](https://en.wikipedia.org/wiki/User:Graearms) | 3,315 |
-| 2026-11-21 01:12:39 | [Blacklift](https://en.wikipedia.org/wiki/Blacklift) | [Scu ba](https://en.wikipedia.org/wiki/User:Scu_ba) | 6,986 |
-| 2026-11-21 01:14:22 | [Lasioglossum imitans](https://en.wikipedia.org/wiki/Lasioglossum_imitans) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 3,173 |
+| 2026-11-21 01:24:21 | [Tuft Church](https://en.wikipedia.org/wiki/Tuft_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 5,654 |
+| 2026-11-21 01:26:57 | [Mission Branch Library](https://en.wikipedia.org/wiki/Mission_Branch_Library) | [RayScript](https://en.wikipedia.org/wiki/User:RayScript) | 16,251 |
+| 2026-11-21 01:31:19 | [History of the New York City Subway (to 1940)](https://en.wikipedia.org/wiki/History_of_the_New_York_City_Subway_%28to_1940%29) | [MerlynThe](https://en.wikipedia.org/wiki/User:MerlynThe) | 73,969 |
+| 2026-11-21 01:35:35 | [Komnes Church](https://en.wikipedia.org/wiki/Komnes_Church) | [Jay1279](https://en.wikipedia.org/wiki/User:Jay1279) | 4,681 |
+| 2026-11-21 01:36:25 | [Chen Yansheng](https://en.wikipedia.org/wiki/Chen_Yansheng) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 2,885 |
+| 2026-11-21 01:36:57 | [Incidents and Accidents on the New York City Subway](https://en.wikipedia.org/wiki/Incidents_and_Accidents_on_the_New_York_City_Subway) | [MerlynThe](https://en.wikipedia.org/wiki/User:MerlynThe) | 26,992 |
+| 2026-11-21 01:42:53 | [Sukin](https://en.wikipedia.org/wiki/Sukin) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,350 |
+| 2026-11-21 01:44:13 | [Tom Brown (AI)](https://en.wikipedia.org/wiki/Tom_Brown_%28AI%29) | [Ashishlohorung](https://en.wikipedia.org/wiki/User:Ashishlohorung) | 582 |
+| 2026-11-21 01:46:36 | [Gabe Sommers](https://en.wikipedia.org/wiki/Gabe_Sommers) | [Finn Shipley](https://en.wikipedia.org/wiki/User:Finn_Shipley) | 9,896 |
+| 2026-11-21 01:53:19 | [Battle of Hippis River](https://en.wikipedia.org/wiki/Battle_of_Hippis_River) | [A.Cython](https://en.wikipedia.org/wiki/User:A.Cython) | 9,285 |
+| 2026-11-21 02:11:22 | [Fairfield School District 21](https://en.wikipedia.org/wiki/Fairfield_School_District_21) | [Grizfan37](https://en.wikipedia.org/wiki/User:Grizfan37) | 13,125 |
