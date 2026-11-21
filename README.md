@@ -13,68 +13,55 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-21 04:18 UTC](data/en/new-articles-2026-11-21T04-18-46Z.csv) | 36 |
-| Japanese | `ja` | [2026-11-21 04:18 UTC](data/ja/new-articles-2026-11-21T04-18-46Z.csv) | 13 |
-| Chinese | `zh` | [2026-11-21 04:18 UTC](data/zh/new-articles-2026-11-21T04-18-46Z.csv) | 2 |
-| French | `fr` | [2026-11-21 04:18 UTC](data/fr/new-articles-2026-11-21T04-18-46Z.csv) | 1 |
-| German | `de` | [2026-11-21 04:18 UTC](data/de/new-articles-2026-11-21T04-18-46Z.csv) | 1 |
-| Russian | `ru` | [2026-11-21 04:18 UTC](data/ru/new-articles-2026-11-21T04-18-46Z.csv) | 4 |
-| Spanish | `es` | [2026-11-21 04:18 UTC](data/es/new-articles-2026-11-21T04-18-46Z.csv) | 2 |
+| English | `en` | [2026-11-21 05:19 UTC](data/en/new-articles-2026-11-21T05-19-49Z.csv) | 23 |
+| Japanese | `ja` | [2026-11-21 05:19 UTC](data/ja/new-articles-2026-11-21T05-19-49Z.csv) | 12 |
+| Chinese | `zh` | [2026-11-21 05:19 UTC](data/zh/new-articles-2026-11-21T05-19-49Z.csv) | 3 |
+| French | `fr` | [2026-11-21 05:19 UTC](data/fr/new-articles-2026-11-21T05-19-49Z.csv) | 1 |
+| German | `de` | [2026-11-21 05:19 UTC](data/de/new-articles-2026-11-21T05-19-49Z.csv) | 1 |
+| Russian | `ru` | [2026-11-21 05:19 UTC](data/ru/new-articles-2026-11-21T05-19-49Z.csv) | 8 |
+| Spanish | `es` | [2026-11-21 05:19 UTC](data/es/new-articles-2026-11-21T05-19-49Z.csv) | 5 |
 | Italian | `it` | [2026-11-21 04:18 UTC](data/it/new-articles-2026-11-21T04-18-46Z.csv) | 2 |
-| Portuguese | `pt` | [2026-11-21 04:18 UTC](data/pt/new-articles-2026-11-21T04-18-46Z.csv) | 2 |
+| Portuguese | `pt` | [2026-11-21 05:19 UTC](data/pt/new-articles-2026-11-21T05-19-49Z.csv) | 3 |
 | Polish | `pl` | [2026-11-21 03:19 UTC](data/pl/new-articles-2026-11-21T03-19-00Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-21 04:18 UTC](data/ar/new-articles-2026-11-21T04-18-46Z.csv) | 3 |
-| Persian | `fa` | [2026-11-21 04:18 UTC](data/fa/new-articles-2026-11-21T04-18-46Z.csv) | 1 |
-| Turkish | `tr` | [2026-11-21 01:19 UTC](data/tr/new-articles-2026-11-21T01-19-04Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-21 04:18 UTC](data/he/new-articles-2026-11-21T04-18-46Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-21 04:18 UTC](data/sv/new-articles-2026-11-21T04-18-46Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-21 05:19 UTC](data/ar/new-articles-2026-11-21T05-19-49Z.csv) | 3 |
+| Persian | `fa` | [2026-11-21 05:19 UTC](data/fa/new-articles-2026-11-21T05-19-49Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-21 05:19 UTC](data/tr/new-articles-2026-11-21T05-19-49Z.csv) | 1 |
+| Hebrew | `he` | [2026-11-21 05:19 UTC](data/he/new-articles-2026-11-21T05-19-49Z.csv) | 1 |
+| Swedish | `sv` | [2026-11-21 05:19 UTC](data/sv/new-articles-2026-11-21T05-19-49Z.csv) | 1 |
 | Dutch | `nl` | [2026-11-21 04:18 UTC](data/nl/new-articles-2026-11-21T04-18-46Z.csv) | 1 |
-| Korean | `ko` | [2026-11-21 04:18 UTC](data/ko/new-articles-2026-11-21T04-18-46Z.csv) | 4 |
-| Indonesian | `id` | [2026-11-21 04:18 UTC](data/id/new-articles-2026-11-21T04-18-46Z.csv) | 7 |
-| Ukrainian | `uk` | [2026-11-21 04:18 UTC](data/uk/new-articles-2026-11-21T04-18-46Z.csv) | 17 |
-| Vietnamese | `vi` | [2026-11-21 04:18 UTC](data/vi/new-articles-2026-11-21T04-18-46Z.csv) | 1 |
+| Korean | `ko` | [2026-11-21 05:19 UTC](data/ko/new-articles-2026-11-21T05-19-49Z.csv) | 11 |
+| Indonesian | `id` | [2026-11-21 05:19 UTC](data/id/new-articles-2026-11-21T05-19-49Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-21 05:19 UTC](data/uk/new-articles-2026-11-21T05-19-49Z.csv) | 21 |
+| Vietnamese | `vi` | [2026-11-21 05:19 UTC](data/vi/new-articles-2026-11-21T05-19-49Z.csv) | 1 |
 
-## English (en) — 2026-11-21 04:18 UTC
+## English (en) — 2026-11-21 05:19 UTC
 
-New articles created between 2026-11-21 03:19 UTC and 2026-11-21 04:18 UTC.
+New articles created between 2026-11-21 04:18 UTC and 2026-11-21 05:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-21T04-18-46Z.csv)
+[Full CSV](data/en/new-articles-2026-11-21T05-19-49Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-21 03:19:00 | [Maihueniopsis ovata](https://en.wikipedia.org/wiki/Maihueniopsis_ovata) | [Betagamma5](https://en.wikipedia.org/wiki/User:Betagamma5) | 9,872 |
-| 2026-11-21 03:19:09 | [Pauline Martineau](https://en.wikipedia.org/wiki/Pauline_Martineau) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,576 |
-| 2026-11-21 03:21:35 | [Frank Anthony (American politician)](https://en.wikipedia.org/wiki/Frank_Anthony_%28American_politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,448 |
-| 2026-11-21 03:23:30 | [Jessica Margeson](https://en.wikipedia.org/wiki/Jessica_Margeson) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,571 |
-| 2026-11-21 03:25:33 | [Larry Devoe](https://en.wikipedia.org/wiki/Larry_Devoe) | [Leroji](https://en.wikipedia.org/wiki/User:Leroji) | 7,133 |
-| 2026-11-21 03:30:08 | [Alessandro Maria Masullo](https://en.wikipedia.org/wiki/Alessandro_Maria_Masullo) | [Ana likes flowers](https://en.wikipedia.org/wiki/User:Ana_likes_flowers) | 416 |
-| 2026-11-21 03:30:08 | [Karyn Battey](https://en.wikipedia.org/wiki/Karyn_Battey) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,551 |
-| 2026-11-21 03:31:34 | [Christopher Calhoun](https://en.wikipedia.org/wiki/Christopher_Calhoun) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,477 |
-| 2026-11-21 03:31:44 | [Bayside High School (Australia)](https://en.wikipedia.org/wiki/Bayside_High_School_%28Australia%29) | [Jmik](https://en.wikipedia.org/wiki/User:Jmik) | 11,265 |
-| 2026-11-21 03:35:53 | [Ading Cruz Jr.](https://en.wikipedia.org/wiki/Ading_Cruz_Jr.) | [Autolover2006](https://en.wikipedia.org/wiki/User:Autolover2006) | 863 |
-| 2026-11-21 03:36:31 | [W. Gordon Allen](https://en.wikipedia.org/wiki/W._Gordon_Allen) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,458 |
-| 2026-11-21 03:36:59 | [USCGC Tarpon](https://en.wikipedia.org/wiki/USCGC_Tarpon) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 4,236 |
-| 2026-11-21 03:42:05 | [Janet McEwen](https://en.wikipedia.org/wiki/Janet_McEwen) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,551 |
-| 2026-11-21 03:44:44 | [Life 2: Giver/Taker](https://en.wikipedia.org/wiki/Life_2%3A_Giver/Taker) | [ClientReprieve01](https://en.wikipedia.org/wiki/User:ClientReprieve01) | 21,201 |
-| 2026-11-21 03:45:01 | [Tim Morehouse (politician)](https://en.wikipedia.org/wiki/Tim_Morehouse_%28politician%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,515 |
-| 2026-11-21 03:45:28 | [Elliott Neff](https://en.wikipedia.org/wiki/Elliott_Neff) | [Linkdog330](https://en.wikipedia.org/wiki/User:Linkdog330) | 1,279 |
-| 2026-11-21 03:48:49 | [It's a Little Late, but I've Fallen in Love with My Childhood Friend](https://en.wikipedia.org/wiki/It%27s_a_Little_Late%2C_but_I%27ve_Fallen_in_Love_with_My_Childhood_Friend) | [Narutolovehinata5](https://en.wikipedia.org/wiki/User:Narutolovehinata5) | 299 |
-| 2026-11-21 03:53:10 | [Mike Pellerito](https://en.wikipedia.org/wiki/Mike_Pellerito) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,453 |
-| 2026-11-21 03:54:41 | [Falconbridge FC](https://en.wikipedia.org/wiki/Falconbridge_FC) | [Rscott187](https://en.wikipedia.org/wiki/User:Rscott187) | 3,171 |
-| 2026-11-21 03:56:59 | [Adam Haverstock](https://en.wikipedia.org/wiki/Adam_Haverstock) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,458 |
-| 2026-11-21 03:59:32 | [Heidi Jakoby](https://en.wikipedia.org/wiki/Heidi_Jakoby) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,551 |
-| 2026-11-21 04:01:19 | [Ellen Boudreau](https://en.wikipedia.org/wiki/Ellen_Boudreau) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,561 |
-| 2026-11-21 04:03:59 | [2026 Ladakh Autonomous Hill Development Council, Sankoo election](https://en.wikipedia.org/wiki/2026_Ladakh_Autonomous_Hill_Development_Council%2C_Sankoo_election) | [Rajavijay56](https://en.wikipedia.org/wiki/User:Rajavijay56) | 4,232 |
-| 2026-11-21 04:05:27 | [Robert Richard-Snipes](https://en.wikipedia.org/wiki/Robert_Richard-Snipes) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,488 |
-| 2026-11-21 04:07:27 | [Korovinellidae](https://en.wikipedia.org/wiki/Korovinellidae) | [Lindianr](https://en.wikipedia.org/wiki/User:Lindianr) | 871 |
-| 2026-11-21 04:07:35 | [Bridal Veil Falls (Tuba, Benguet)](https://en.wikipedia.org/wiki/Bridal_Veil_Falls_%28Tuba%2C_Benguet%29) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 3,539 |
-| 2026-11-21 04:08:51 | [Teri Harkins](https://en.wikipedia.org/wiki/Teri_Harkins) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,551 |
-| 2026-11-21 04:09:44 | [Anas Bani Odeh](https://en.wikipedia.org/wiki/Anas_Bani_Odeh) | [Sakiv](https://en.wikipedia.org/wiki/User:Sakiv) | 2,447 |
-| 2026-11-21 04:10:00 | [Kokate](https://en.wikipedia.org/wiki/Kokate) | [Electron230](https://en.wikipedia.org/wiki/User:Electron230) | 157 |
-| 2026-11-21 04:10:50 | [Lee Nyquist](https://en.wikipedia.org/wiki/Lee_Nyquist) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,438 |
-| 2026-11-21 04:13:20 | [Peter Ryder](https://en.wikipedia.org/wiki/Peter_Ryder) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,438 |
-| 2026-11-21 04:15:32 | [Pavel Štefka](https://en.wikipedia.org/wiki/Pavel_%C5%A0tefka) | [Aaina26](https://en.wikipedia.org/wiki/User:Aaina26) | 2,142 |
-| 2026-11-21 04:15:45 | [St. Paradise](https://en.wikipedia.org/wiki/St._Paradise) | [Bobglickman](https://en.wikipedia.org/wiki/User:Bobglickman) | 7,900 |
-| 2026-11-21 04:15:58 | [Ethan Aho](https://en.wikipedia.org/wiki/Ethan_Aho) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,428 |
-| 2026-11-21 04:16:03 | [A Dream Like Mine](https://en.wikipedia.org/wiki/A_Dream_Like_Mine) | [Dobbyelf62](https://en.wikipedia.org/wiki/User:Dobbyelf62) | 5,349 |
-| 2026-11-21 04:18:05 | [Minoan palace of Petras](https://en.wikipedia.org/wiki/Minoan_palace_of_Petras) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 76 |
+| 2026-11-21 04:19:02 | [Claire Holston](https://en.wikipedia.org/wiki/Claire_Holston) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,561 |
+| 2026-11-21 04:19:09 | [Sockburn railway station](https://en.wikipedia.org/wiki/Sockburn_railway_station) | [Dlpkbr](https://en.wikipedia.org/wiki/User:Dlpkbr) | 13,714 |
+| 2026-11-21 04:23:09 | [2030 United States gubernatorial elections](https://en.wikipedia.org/wiki/2030_United_States_gubernatorial_elections) | [Coolxsearcher1414](https://en.wikipedia.org/wiki/User:Coolxsearcher1414) | 13,240 |
+| 2026-11-21 04:28:27 | [Sayido Nasafi](https://en.wikipedia.org/wiki/Sayido_Nasafi) | [Zosya95](https://en.wikipedia.org/wiki/User:Zosya95) | 20,945 |
+| 2026-11-21 04:32:00 | [Barkmann](https://en.wikipedia.org/wiki/Barkmann) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 272 |
+| 2026-11-21 04:32:35 | [Lasioglossum instabilis](https://en.wikipedia.org/wiki/Lasioglossum_instabilis) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 3,141 |
+| 2026-11-21 04:35:19 | [Osterhage](https://en.wikipedia.org/wiki/Osterhage) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 194 |
+| 2026-11-21 04:40:32 | [Overbaugh](https://en.wikipedia.org/wiki/Overbaugh) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 376 |
+| 2026-11-21 04:44:39 | [Orebaugh](https://en.wikipedia.org/wiki/Orebaugh) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 337 |
+| 2026-11-21 04:49:36 | [Thisted (surname)](https://en.wikipedia.org/wiki/Thisted_%28surname%29) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 324 |
+| 2026-11-21 04:52:57 | [Palczewski (surname)](https://en.wikipedia.org/wiki/Palczewski_%28surname%29) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 324 |
+| 2026-11-21 04:53:26 | [List of people engulfed by a whale](https://en.wikipedia.org/wiki/List_of_people_engulfed_by_a_whale) | [AydinZubair186](https://en.wikipedia.org/wiki/User:AydinZubair186) | 6,809 |
+| 2026-11-21 04:55:05 | [Stefy (surname)](https://en.wikipedia.org/wiki/Stefy_%28surname%29) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 249 |
+| 2026-11-21 04:58:47 | [Welopōʻai](https://en.wikipedia.org/wiki/Welop%C5%8D%CA%BBai) | [Itsvankaitsvanko](https://en.wikipedia.org/wiki/User:Itsvankaitsvanko) | 461 |
+| 2026-11-21 05:01:17 | [Stasi (surname)](https://en.wikipedia.org/wiki/Stasi_%28surname%29) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 512 |
+| 2026-11-21 05:01:57 | [Fallocyathidae](https://en.wikipedia.org/wiki/Fallocyathidae) | [Lindianr](https://en.wikipedia.org/wiki/User:Lindianr) | 958 |
+| 2026-11-21 05:02:49 | [Wilhelm von Reinländer](https://en.wikipedia.org/wiki/Wilhelm_von_Reinl%C3%A4nder) | [Sundostund](https://en.wikipedia.org/wiki/User:Sundostund) | 6,972 |
+| 2026-11-21 05:05:20 | [Bederson](https://en.wikipedia.org/wiki/Bederson) | [Ashl7779p870](https://en.wikipedia.org/wiki/User:Ashl7779p870) | 301 |
+| 2026-11-21 05:07:01 | [Famke van Heel](https://en.wikipedia.org/wiki/Famke_van_Heel) | [Lachie23](https://en.wikipedia.org/wiki/User:Lachie23) | 7,820 |
+| 2026-11-21 05:10:39 | [Sky Haneul Kim](https://en.wikipedia.org/wiki/Sky_Haneul_Kim) | [CarCai](https://en.wikipedia.org/wiki/User:CarCai) | 5,886 |
+| 2026-11-21 05:14:09 | [E. J. Carroll (disambiguation)](https://en.wikipedia.org/wiki/E._J._Carroll_%28disambiguation%29) | [Kundus2006](https://en.wikipedia.org/wiki/User:Kundus2006) | 303 |
+| 2026-11-21 05:15:46 | [Thisted (disambiguation)](https://en.wikipedia.org/wiki/Thisted_%28disambiguation%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 283 |
+| 2026-11-21 05:18:18 | [1952–53 Santosh Trophy](https://en.wikipedia.org/wiki/1952%E2%80%9353_Santosh_Trophy) | [Tintin1107](https://en.wikipedia.org/wiki/User:Tintin1107) | 2,477 |
