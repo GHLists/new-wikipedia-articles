@@ -13,51 +13,49 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-22 05:21 UTC](data/en/new-articles-2026-11-22T05-21-03Z.csv) | 19 |
-| Japanese | `ja` | [2026-11-22 05:21 UTC](data/ja/new-articles-2026-11-22T05-21-03Z.csv) | 13 |
-| Chinese | `zh` | [2026-11-22 05:21 UTC](data/zh/new-articles-2026-11-22T05-21-03Z.csv) | 5 |
+| English | `en` | [2026-11-22 06:18 UTC](data/en/new-articles-2026-11-22T06-18-27Z.csv) | 17 |
+| Japanese | `ja` | [2026-11-22 06:18 UTC](data/ja/new-articles-2026-11-22T06-18-27Z.csv) | 8 |
+| Chinese | `zh` | [2026-11-22 06:18 UTC](data/zh/new-articles-2026-11-22T06-18-27Z.csv) | 4 |
 | French | `fr` | [2026-11-22 05:21 UTC](data/fr/new-articles-2026-11-22T05-21-03Z.csv) | 1 |
-| German | `de` | [2026-11-22 05:21 UTC](data/de/new-articles-2026-11-22T05-21-03Z.csv) | 1 |
-| Russian | `ru` | [2026-11-22 05:21 UTC](data/ru/new-articles-2026-11-22T05-21-03Z.csv) | 7 |
-| Spanish | `es` | [2026-11-22 05:21 UTC](data/es/new-articles-2026-11-22T05-21-03Z.csv) | 2 |
-| Italian | `it` | [2026-11-22 03:20 UTC](data/it/new-articles-2026-11-22T03-20-11Z.csv) | 1 |
-| Portuguese | `pt` | [2026-11-22 05:21 UTC](data/pt/new-articles-2026-11-22T05-21-03Z.csv) | 2 |
-| Polish | `pl` | [2026-11-22 05:21 UTC](data/pl/new-articles-2026-11-22T05-21-03Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-22 05:21 UTC](data/ar/new-articles-2026-11-22T05-21-03Z.csv) | 3 |
-| Persian | `fa` | [2026-11-22 05:21 UTC](data/fa/new-articles-2026-11-22T05-21-03Z.csv) | 1 |
-| Turkish | `tr` | [2026-11-22 05:21 UTC](data/tr/new-articles-2026-11-22T05-21-03Z.csv) | 6 |
-| Hebrew | `he` | [2026-11-22 05:21 UTC](data/he/new-articles-2026-11-22T05-21-03Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-22 05:21 UTC](data/sv/new-articles-2026-11-22T05-21-03Z.csv) | 3 |
+| German | `de` | [2026-11-22 06:18 UTC](data/de/new-articles-2026-11-22T06-18-27Z.csv) | 4 |
+| Russian | `ru` | [2026-11-22 06:18 UTC](data/ru/new-articles-2026-11-22T06-18-27Z.csv) | 4 |
+| Spanish | `es` | [2026-11-22 06:18 UTC](data/es/new-articles-2026-11-22T06-18-27Z.csv) | 7 |
+| Italian | `it` | [2026-11-22 06:18 UTC](data/it/new-articles-2026-11-22T06-18-27Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-22 06:18 UTC](data/pt/new-articles-2026-11-22T06-18-27Z.csv) | 4 |
+| Polish | `pl` | [2026-11-22 06:18 UTC](data/pl/new-articles-2026-11-22T06-18-27Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-22 06:18 UTC](data/ar/new-articles-2026-11-22T06-18-27Z.csv) | 1 |
+| Persian | `fa` | [2026-11-22 06:18 UTC](data/fa/new-articles-2026-11-22T06-18-27Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-22 06:18 UTC](data/tr/new-articles-2026-11-22T06-18-27Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-22 06:18 UTC](data/he/new-articles-2026-11-22T06-18-27Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-22 06:18 UTC](data/sv/new-articles-2026-11-22T06-18-27Z.csv) | 5 |
 | Dutch | `nl` | [2026-11-22 05:21 UTC](data/nl/new-articles-2026-11-22T05-21-03Z.csv) | 1 |
-| Korean | `ko` | [2026-11-22 05:21 UTC](data/ko/new-articles-2026-11-22T05-21-03Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-22 05:21 UTC](data/id/new-articles-2026-11-22T05-21-03Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-11-22 05:21 UTC](data/uk/new-articles-2026-11-22T05-21-03Z.csv) | 2 |
-| Vietnamese | `vi` | [2026-11-22 05:21 UTC](data/vi/new-articles-2026-11-22T05-21-03Z.csv) | 4 |
+| Korean | `ko` | [2026-11-22 06:18 UTC](data/ko/new-articles-2026-11-22T06-18-27Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-22 06:18 UTC](data/id/new-articles-2026-11-22T06-18-27Z.csv) | 8 |
+| Ukrainian | `uk` | [2026-11-22 06:18 UTC](data/uk/new-articles-2026-11-22T06-18-27Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-11-22 06:18 UTC](data/vi/new-articles-2026-11-22T06-18-27Z.csv) | 3 |
 
-## English (en) — 2026-11-22 05:21 UTC
+## English (en) — 2026-11-22 06:18 UTC
 
-New articles created between 2026-11-22 04:19 UTC and 2026-11-22 05:21 UTC.
+New articles created between 2026-11-22 05:21 UTC and 2026-11-22 06:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-22T05-21-03Z.csv)
+[Full CSV](data/en/new-articles-2026-11-22T06-18-27Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-22 04:20:46 | [Mary Catherine Roberson](https://en.wikipedia.org/wiki/Mary_Catherine_Roberson) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 1,527 |
-| 2026-11-22 04:21:02 | [Curtis Craig](https://en.wikipedia.org/wiki/Curtis_Craig) | [XCBRO172](https://en.wikipedia.org/wiki/User:XCBRO172) | 234 |
-| 2026-11-22 04:21:23 | [William A. Richards (psychologist)](https://en.wikipedia.org/wiki/William_A._Richards_%28psychologist%29) | [AlyInWikiWonderland](https://en.wikipedia.org/wiki/User:AlyInWikiWonderland) | 4,766 |
-| 2026-11-22 04:25:58 | [Barannik](https://en.wikipedia.org/wiki/Barannik) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 322 |
-| 2026-11-22 04:26:13 | [Military Intelligence Service (Poland)](https://en.wikipedia.org/wiki/Military_Intelligence_Service_%28Poland%29) | [Antoni12345](https://en.wikipedia.org/wiki/User:Antoni12345) | 4,164 |
-| 2026-11-22 04:27:41 | [Mekayla](https://en.wikipedia.org/wiki/Mekayla) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 259 |
-| 2026-11-22 04:50:48 | [Missosology](https://en.wikipedia.org/wiki/Missosology) | [Rc ramz](https://en.wikipedia.org/wiki/User:Rc_ramz) | 6,089 |
-| 2026-11-22 04:51:15 | [Lou Krugman](https://en.wikipedia.org/wiki/Lou_Krugman) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,280 |
-| 2026-11-22 05:01:41 | [MV New Mwanza](https://en.wikipedia.org/wiki/MV_New_Mwanza) | [Cagliost](https://en.wikipedia.org/wiki/User:Cagliost) | 392 |
-| 2026-11-22 05:05:01 | [1947 South American Championships in Athletics – Results](https://en.wikipedia.org/wiki/1947_South_American_Championships_in_Athletics_%E2%80%93_Results) | [Pietaster](https://en.wikipedia.org/wiki/User:Pietaster) | 2,997 |
-| 2026-11-22 05:06:23 | [Laurin (film)](https://en.wikipedia.org/wiki/Laurin_%28film%29) | [Drown Soda](https://en.wikipedia.org/wiki/User:Drown_Soda) | 3,029 |
-| 2026-11-22 05:08:13 | [Veronica lavaudiana](https://en.wikipedia.org/wiki/Veronica_lavaudiana) | [Stitchbird2](https://en.wikipedia.org/wiki/User:Stitchbird2) | 2,577 |
-| 2026-11-22 05:08:56 | [Lasioglossum opacicolle](https://en.wikipedia.org/wiki/Lasioglossum_opacicolle) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,951 |
-| 2026-11-22 05:10:36 | [2026–27 Dartmouth Big Green men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Dartmouth_Big_Green_men%27s_basketball_team) | [RedSox39](https://en.wikipedia.org/wiki/User:RedSox39) | 18,648 |
-| 2026-11-22 05:13:53 | [Hal Stewart (football manager)](https://en.wikipedia.org/wiki/Hal_Stewart_%28football_manager%29) | [Ansgar Slopsbane](https://en.wikipedia.org/wiki/User:Ansgar_Slopsbane) | 1,809 |
-| 2026-11-22 05:16:13 | [Harvest Moon: The Winds of Anthos](https://en.wikipedia.org/wiki/Harvest_Moon%3A_The_Winds_of_Anthos) | [Vrtxd](https://en.wikipedia.org/wiki/User:Vrtxd) | 1,176 |
-| 2026-11-22 05:16:59 | [Murder of Palomita Gusmão](https://en.wikipedia.org/wiki/Murder_of_Palomita_Gusm%C3%A3o) | [Jgefd](https://en.wikipedia.org/wiki/User:Jgefd) | 15,759 |
-| 2026-11-22 05:17:45 | [Madden Iamaleava](https://en.wikipedia.org/wiki/Madden_Iamaleava) | [Butters.From.SouthPark](https://en.wikipedia.org/wiki/User:Butters.From.SouthPark) | 1,722 |
-| 2026-11-22 05:17:54 | [El Deforma](https://en.wikipedia.org/wiki/El_Deforma) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 3,510 |
+| 2026-11-22 05:23:13 | [Steve Hoyem](https://en.wikipedia.org/wiki/Steve_Hoyem) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 5,155 |
+| 2026-11-22 05:40:57 | [Moses David Ashkenazi](https://en.wikipedia.org/wiki/Moses_David_Ashkenazi) | [Echo713](https://en.wikipedia.org/wiki/User:Echo713) | 3,360 |
+| 2026-11-22 05:44:05 | [Rubira](https://en.wikipedia.org/wiki/Rubira) | [Knightoftheswords281](https://en.wikipedia.org/wiki/User:Knightoftheswords281) | 317 |
+| 2026-11-22 05:51:45 | [List of presidential trips made by Gerald Ford (1974)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_Gerald_Ford_%281974%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 10,810 |
+| 2026-11-22 05:52:48 | [The Downs at Albuquerque](https://en.wikipedia.org/wiki/The_Downs_at_Albuquerque) | [Mark O'Keeffe](https://en.wikipedia.org/wiki/User:Mark_O%27Keeffe) | 2,350 |
+| 2026-11-22 05:53:56 | [Lasioglossum seductum](https://en.wikipedia.org/wiki/Lasioglossum_seductum) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,986 |
+| 2026-11-22 05:55:14 | [Lake Frías](https://en.wikipedia.org/wiki/Lake_Fr%C3%ADas) | [Leon332Z](https://en.wikipedia.org/wiki/User:Leon332Z) | 3,328 |
+| 2026-11-22 05:59:38 | [Philip Froissant](https://en.wikipedia.org/wiki/Philip_Froissant) | [Keivan.f](https://en.wikipedia.org/wiki/User:Keivan.f) | 5,222 |
+| 2026-11-22 06:01:13 | [Glaciares de Santiago National Park](https://en.wikipedia.org/wiki/Glaciares_de_Santiago_National_Park) | [Declangi](https://en.wikipedia.org/wiki/User:Declangi) | 3,993 |
+| 2026-11-22 06:04:39 | [Rakta Tilak](https://en.wikipedia.org/wiki/Rakta_Tilak) | [Tiger Shankar](https://en.wikipedia.org/wiki/User:Tiger_Shankar) | 8,269 |
+| 2026-11-22 06:07:05 | [Salix amplexicaulis](https://en.wikipedia.org/wiki/Salix_amplexicaulis) | [Balsam Cottonwood](https://en.wikipedia.org/wiki/User:Balsam_Cottonwood) | 380 |
+| 2026-11-22 06:07:38 | [Ancillotti (band)](https://en.wikipedia.org/wiki/Ancillotti_%28band%29) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 7,901 |
+| 2026-11-22 06:09:50 | [Ancillotti](https://en.wikipedia.org/wiki/Ancillotti) | [Geschichte](https://en.wikipedia.org/wiki/User:Geschichte) | 253 |
+| 2026-11-22 06:10:34 | [Jfeady](https://en.wikipedia.org/wiki/Jfeady) | [Anasfarid608](https://en.wikipedia.org/wiki/User:Anasfarid608) | 0 |
+| 2026-11-22 06:10:42 | [Felix-Antonio Ilinca](https://en.wikipedia.org/wiki/Felix-Antonio_Ilinca) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 2,996 |
+| 2026-11-22 06:12:18 | [Anatole Vlachos](https://en.wikipedia.org/wiki/Anatole_Vlachos) | [GeorgeMHall](https://en.wikipedia.org/wiki/User:GeorgeMHall) | 2,269 |
+| 2026-11-22 06:16:28 | [Zhou Yanhan](https://en.wikipedia.org/wiki/Zhou_Yanhan) | [Derlinus](https://en.wikipedia.org/wiki/User:Derlinus) | 8,179 |
