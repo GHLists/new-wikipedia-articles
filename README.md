@@ -13,51 +13,52 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-22 12:19 UTC](data/en/new-articles-2026-11-22T12-19-23Z.csv) | 19 |
-| Japanese | `ja` | [2026-11-22 12:19 UTC](data/ja/new-articles-2026-11-22T12-19-23Z.csv) | 18 |
-| Chinese | `zh` | [2026-11-22 12:19 UTC](data/zh/new-articles-2026-11-22T12-19-23Z.csv) | 7 |
-| French | `fr` | [2026-11-22 12:19 UTC](data/fr/new-articles-2026-11-22T12-19-23Z.csv) | 7 |
-| German | `de` | [2026-11-22 12:19 UTC](data/de/new-articles-2026-11-22T12-19-23Z.csv) | 7 |
-| Russian | `ru` | [2026-11-22 12:19 UTC](data/ru/new-articles-2026-11-22T12-19-23Z.csv) | 9 |
-| Spanish | `es` | [2026-11-22 12:19 UTC](data/es/new-articles-2026-11-22T12-19-23Z.csv) | 5 |
-| Italian | `it` | [2026-11-22 12:19 UTC](data/it/new-articles-2026-11-22T12-19-23Z.csv) | 10 |
-| Portuguese | `pt` | [2026-11-22 12:19 UTC](data/pt/new-articles-2026-11-22T12-19-23Z.csv) | 4 |
-| Polish | `pl` | [2026-11-22 12:19 UTC](data/pl/new-articles-2026-11-22T12-19-23Z.csv) | 12 |
-| Arabic | `ar` | [2026-11-22 12:19 UTC](data/ar/new-articles-2026-11-22T12-19-23Z.csv) | 5 |
-| Persian | `fa` | [2026-11-22 12:19 UTC](data/fa/new-articles-2026-11-22T12-19-23Z.csv) | 11 |
-| Turkish | `tr` | [2026-11-22 12:19 UTC](data/tr/new-articles-2026-11-22T12-19-23Z.csv) | 8 |
-| Hebrew | `he` | [2026-11-22 12:19 UTC](data/he/new-articles-2026-11-22T12-19-23Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-22 12:19 UTC](data/sv/new-articles-2026-11-22T12-19-23Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-22 12:19 UTC](data/nl/new-articles-2026-11-22T12-19-23Z.csv) | 4 |
-| Korean | `ko` | [2026-11-22 12:19 UTC](data/ko/new-articles-2026-11-22T12-19-23Z.csv) | 8 |
-| Indonesian | `id` | [2026-11-22 12:19 UTC](data/id/new-articles-2026-11-22T12-19-23Z.csv) | 18 |
-| Ukrainian | `uk` | [2026-11-22 12:19 UTC](data/uk/new-articles-2026-11-22T12-19-23Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-11-22 12:19 UTC](data/vi/new-articles-2026-11-22T12-19-23Z.csv) | 2 |
+| English | `en` | [2026-11-22 13:19 UTC](data/en/new-articles-2026-11-22T13-19-49Z.csv) | 20 |
+| Japanese | `ja` | [2026-11-22 13:19 UTC](data/ja/new-articles-2026-11-22T13-19-49Z.csv) | 16 |
+| Chinese | `zh` | [2026-11-22 13:19 UTC](data/zh/new-articles-2026-11-22T13-19-49Z.csv) | 8 |
+| French | `fr` | [2026-11-22 13:19 UTC](data/fr/new-articles-2026-11-22T13-19-49Z.csv) | 6 |
+| German | `de` | [2026-11-22 13:19 UTC](data/de/new-articles-2026-11-22T13-19-49Z.csv) | 12 |
+| Russian | `ru` | [2026-11-22 13:19 UTC](data/ru/new-articles-2026-11-22T13-19-49Z.csv) | 16 |
+| Spanish | `es` | [2026-11-22 13:19 UTC](data/es/new-articles-2026-11-22T13-19-49Z.csv) | 7 |
+| Italian | `it` | [2026-11-22 13:19 UTC](data/it/new-articles-2026-11-22T13-19-49Z.csv) | 9 |
+| Portuguese | `pt` | [2026-11-22 13:19 UTC](data/pt/new-articles-2026-11-22T13-19-49Z.csv) | 5 |
+| Polish | `pl` | [2026-11-22 13:19 UTC](data/pl/new-articles-2026-11-22T13-19-49Z.csv) | 12 |
+| Arabic | `ar` | [2026-11-22 13:19 UTC](data/ar/new-articles-2026-11-22T13-19-49Z.csv) | 9 |
+| Persian | `fa` | [2026-11-22 13:19 UTC](data/fa/new-articles-2026-11-22T13-19-49Z.csv) | 5 |
+| Turkish | `tr` | [2026-11-22 13:19 UTC](data/tr/new-articles-2026-11-22T13-19-49Z.csv) | 5 |
+| Hebrew | `he` | [2026-11-22 13:19 UTC](data/he/new-articles-2026-11-22T13-19-49Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-22 13:19 UTC](data/sv/new-articles-2026-11-22T13-19-49Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-22 13:19 UTC](data/nl/new-articles-2026-11-22T13-19-49Z.csv) | 2 |
+| Korean | `ko` | [2026-11-22 13:19 UTC](data/ko/new-articles-2026-11-22T13-19-49Z.csv) | 10 |
+| Indonesian | `id` | [2026-11-22 13:19 UTC](data/id/new-articles-2026-11-22T13-19-49Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-11-22 13:19 UTC](data/uk/new-articles-2026-11-22T13-19-49Z.csv) | 14 |
+| Vietnamese | `vi` | [2026-11-22 13:19 UTC](data/vi/new-articles-2026-11-22T13-19-49Z.csv) | 2 |
 
-## English (en) — 2026-11-22 12:19 UTC
+## English (en) — 2026-11-22 13:19 UTC
 
-New articles created between 2026-11-22 11:20 UTC and 2026-11-22 12:19 UTC.
+New articles created between 2026-11-22 12:19 UTC and 2026-11-22 13:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-22T12-19-23Z.csv)
+[Full CSV](data/en/new-articles-2026-11-22T13-19-49Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-22 11:22:36 | [2001-02 campioanto smamriese fmeminile](https://en.wikipedia.org/wiki/2001-02_campioanto_smamriese_fmeminile) | [Jyfggh](https://en.wikipedia.org/wiki/User:Jyfggh) | 14,457 |
-| 2026-11-22 11:25:53 | [Bandaragama](https://en.wikipedia.org/wiki/Bandaragama) | [Dewmitha](https://en.wikipedia.org/wiki/User:Dewmitha) | 6,747 |
-| 2026-11-22 11:26:06 | [2002-03 campioantk sammriese fmeminile](https://en.wikipedia.org/wiki/2002-03_campioantk_sammriese_fmeminile) | [Jyfggh](https://en.wikipedia.org/wiki/User:Jyfggh) | 14,556 |
-| 2026-11-22 11:30:04 | [The Prospecting Bear](https://en.wikipedia.org/wiki/The_Prospecting_Bear) | [Go D. Usopp](https://en.wikipedia.org/wiki/User:Go_D._Usopp) | 2,718 |
-| 2026-11-22 11:31:32 | [2003-04 cmapoanto sammairese femminile](https://en.wikipedia.org/wiki/2003-04_cmapoanto_sammairese_femminile) | [Jyfggh](https://en.wikipedia.org/wiki/User:Jyfggh) | 14,585 |
-| 2026-11-22 11:35:25 | [Cmapianto smamriese fmeminile 2004-05](https://en.wikipedia.org/wiki/Cmapianto_smamriese_fmeminile_2004-05) | [Jyfggh](https://en.wikipedia.org/wiki/User:Jyfggh) | 14,606 |
-| 2026-11-22 11:38:58 | [Kartli-Kakhetian Uprising (1625)](https://en.wikipedia.org/wiki/Kartli-Kakhetian_Uprising_%281625%29) | [Guram B1](https://en.wikipedia.org/wiki/User:Guram_B1) | 6,885 |
-| 2026-11-22 11:39:28 | [2005-06 cmapiaonto smariese femminile](https://en.wikipedia.org/wiki/2005-06_cmapiaonto_smariese_femminile) | [Jyfggh](https://en.wikipedia.org/wiki/User:Jyfggh) | 14,658 |
-| 2026-11-22 11:42:59 | [David W Chadwick](https://en.wikipedia.org/wiki/David_W_Chadwick) | [D.w.chadwick](https://en.wikipedia.org/wiki/User:D.w.chadwick) | 6,537 |
-| 2026-11-22 11:44:02 | [2006-07 cmapionato smamriese fmeminile](https://en.wikipedia.org/wiki/2006-07_cmapionato_smamriese_fmeminile) | [Jyfggh](https://en.wikipedia.org/wiki/User:Jyfggh) | 14,777 |
-| 2026-11-22 11:49:31 | [2007-08 cmaliaonto smairese femminile](https://en.wikipedia.org/wiki/2007-08_cmaliaonto_smairese_femminile) | [Jyfggh](https://en.wikipedia.org/wiki/User:Jyfggh) | 15,245 |
-| 2026-11-22 11:52:13 | [No. 8 Park](https://en.wikipedia.org/wiki/No._8_Park) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 32,828 |
-| 2026-11-22 11:56:10 | [Xuande (disambiguation)](https://en.wikipedia.org/wiki/Xuande_%28disambiguation%29) | [Векочел](https://en.wikipedia.org/wiki/User:%D0%92%D0%B5%D0%BA%D0%BE%D1%87%D0%B5%D0%BB) | 311 |
-| 2026-11-22 12:04:37 | [Nihal Tauro](https://en.wikipedia.org/wiki/Nihal_Tauro) | [TSTSR241224](https://en.wikipedia.org/wiki/User:TSTSR241224) | 1,516 |
-| 2026-11-22 12:12:04 | [Jim Shapiro (politician)](https://en.wikipedia.org/wiki/Jim_Shapiro_%28politician%29) | [Birdlab](https://en.wikipedia.org/wiki/User:Birdlab) | 2,456 |
-| 2026-11-22 12:12:44 | [Leon Hutten](https://en.wikipedia.org/wiki/Leon_Hutten) | [Gruesome Gary](https://en.wikipedia.org/wiki/User:Gruesome_Gary) | 6,064 |
-| 2026-11-22 12:15:15 | [Castello Lopes Cinemas](https://en.wikipedia.org/wiki/Castello_Lopes_Cinemas) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 7,496 |
-| 2026-11-22 12:16:03 | [Francis Allison](https://en.wikipedia.org/wiki/Francis_Allison) | [Waltuh Heisenberg](https://en.wikipedia.org/wiki/User:Waltuh_Heisenberg) | 2,208 |
-| 2026-11-22 12:16:26 | [The Cambodia-China Times](https://en.wikipedia.org/wiki/The_Cambodia-China_Times) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 5,438 |
+| 2026-11-22 12:25:33 | [Bengasi Centrale railway station](https://en.wikipedia.org/wiki/Bengasi_Centrale_railway_station) | [Plumbago Capensis](https://en.wikipedia.org/wiki/User:Plumbago_Capensis) | 2,833 |
+| 2026-11-22 12:27:27 | [Jithin K. Jose](https://en.wikipedia.org/wiki/Jithin_K._Jose) | [Zakariya K Abdulla](https://en.wikipedia.org/wiki/User:Zakariya_K_Abdulla) | 3,904 |
+| 2026-11-22 12:28:11 | [Siege of Cardona (1711)](https://en.wikipedia.org/wiki/Siege_of_Cardona_%281711%29) | [JohnGalt1714](https://en.wikipedia.org/wiki/User:JohnGalt1714) | 13,354 |
+| 2026-11-22 12:28:35 | [Kai Stensgaard](https://en.wikipedia.org/wiki/Kai_Stensgaard) | [Kai Stensgaard](https://en.wikipedia.org/wiki/User:Kai_Stensgaard) | 7,425 |
+| 2026-11-22 12:32:52 | [Kazumasa Yoshida (wrestler)](https://en.wikipedia.org/wiki/Kazumasa_Yoshida_%28wrestler%29) | [JeyReydar97](https://en.wikipedia.org/wiki/User:JeyReydar97) | 9,785 |
+| 2026-11-22 12:34:03 | [List of railway stations in South Korea: A](https://en.wikipedia.org/wiki/List_of_railway_stations_in_South_Korea%3A_A) | [LandAndTree](https://en.wikipedia.org/wiki/User:LandAndTree) | 2,352 |
+| 2026-11-22 12:37:05 | [List of programs broadcast by MeTV Toons](https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_MeTV_Toons) | [Cailfornia](https://en.wikipedia.org/wiki/User:Cailfornia) | 3,758 |
+| 2026-11-22 12:37:08 | [Lithium-ion battery fire](https://en.wikipedia.org/wiki/Lithium-ion_battery_fire) | [Sora Fujita](https://en.wikipedia.org/wiki/User:Sora_Fujita) | 5,178 |
+| 2026-11-22 12:37:53 | [Law Reform (Personal Injuries) (Amendment) Act 1953](https://en.wikipedia.org/wiki/Law_Reform_%28Personal_Injuries%29_%28Amendment%29_Act_1953) | [Hughbe98](https://en.wikipedia.org/wiki/User:Hughbe98) | 3,833 |
+| 2026-11-22 12:37:59 | [Saddiction](https://en.wikipedia.org/wiki/Saddiction) | [Oroborvs](https://en.wikipedia.org/wiki/User:Oroborvs) | 52,084 |
+| 2026-11-22 12:42:53 | [Military rule over Arabs in Israel](https://en.wikipedia.org/wiki/Military_rule_over_Arabs_in_Israel) | [Eyad0308](https://en.wikipedia.org/wiki/User:Eyad0308) | 37,063 |
+| 2026-11-22 12:42:59 | [Transport in Upper Silesia](https://en.wikipedia.org/wiki/Transport_in_Upper_Silesia) | [Soybean46](https://en.wikipedia.org/wiki/User:Soybean46) | 13,438 |
+| 2026-11-22 12:46:18 | [August 1867 Dublin University by-election](https://en.wikipedia.org/wiki/August_1867_Dublin_University_by-election) | [Spleodrach](https://en.wikipedia.org/wiki/User:Spleodrach) | 1,087 |
+| 2026-11-22 12:49:21 | [Denny baronets of Dumbarton (1913)](https://en.wikipedia.org/wiki/Denny_baronets_of_Dumbarton_%281913%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 2,487 |
+| 2026-11-22 12:52:32 | [Episcopal formation](https://en.wikipedia.org/wiki/Episcopal_formation) | [TheLionHasSeen](https://en.wikipedia.org/wiki/User:TheLionHasSeen) | 4,920 |
+| 2026-11-22 12:56:26 | [List of railway stations in South Korea: B](https://en.wikipedia.org/wiki/List_of_railway_stations_in_South_Korea%3A_B) | [LandAndTree](https://en.wikipedia.org/wiki/User:LandAndTree) | 6,632 |
+| 2026-11-22 12:59:28 | [Invention story](https://en.wikipedia.org/wiki/Invention_story) | [Piotrus](https://en.wikipedia.org/wiki/User:Piotrus) | 15,904 |
+| 2026-11-22 12:59:54 | [30 Marsh Wall](https://en.wikipedia.org/wiki/30_Marsh_Wall) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,910 |
+| 2026-11-22 13:00:54 | [List of railway stations in South Korea](https://en.wikipedia.org/wiki/List_of_railway_stations_in_South_Korea) | [LandAndTree](https://en.wikipedia.org/wiki/User:LandAndTree) | 616 |
+| 2026-11-22 13:11:26 | [APEC Singapore 1990](https://en.wikipedia.org/wiki/APEC_Singapore_1990) | [Toadboy123](https://en.wikipedia.org/wiki/User:Toadboy123) | 12,641 |
