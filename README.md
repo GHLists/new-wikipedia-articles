@@ -13,52 +13,54 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-23 09:20 UTC](data/en/new-articles-2026-11-23T09-20-25Z.csv) | 20 |
-| Japanese | `ja` | [2026-11-23 09:20 UTC](data/ja/new-articles-2026-11-23T09-20-25Z.csv) | 21 |
-| Chinese | `zh` | [2026-11-23 09:20 UTC](data/zh/new-articles-2026-11-23T09-20-25Z.csv) | 12 |
-| French | `fr` | [2026-11-23 09:20 UTC](data/fr/new-articles-2026-11-23T09-20-25Z.csv) | 8 |
-| German | `de` | [2026-11-23 09:20 UTC](data/de/new-articles-2026-11-23T09-20-25Z.csv) | 10 |
-| Russian | `ru` | [2026-11-23 09:20 UTC](data/ru/new-articles-2026-11-23T09-20-25Z.csv) | 15 |
-| Spanish | `es` | [2026-11-23 09:20 UTC](data/es/new-articles-2026-11-23T09-20-25Z.csv) | 1 |
-| Italian | `it` | [2026-11-23 09:20 UTC](data/it/new-articles-2026-11-23T09-20-25Z.csv) | 11 |
-| Portuguese | `pt` | [2026-11-23 09:20 UTC](data/pt/new-articles-2026-11-23T09-20-25Z.csv) | 2 |
-| Polish | `pl` | [2026-11-23 09:20 UTC](data/pl/new-articles-2026-11-23T09-20-25Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-23 09:20 UTC](data/ar/new-articles-2026-11-23T09-20-25Z.csv) | 11 |
-| Persian | `fa` | [2026-11-23 09:20 UTC](data/fa/new-articles-2026-11-23T09-20-25Z.csv) | 5 |
-| Turkish | `tr` | [2026-11-23 09:20 UTC](data/tr/new-articles-2026-11-23T09-20-25Z.csv) | 6 |
-| Hebrew | `he` | [2026-11-23 09:20 UTC](data/he/new-articles-2026-11-23T09-20-25Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-23 09:20 UTC](data/sv/new-articles-2026-11-23T09-20-25Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-23 09:20 UTC](data/nl/new-articles-2026-11-23T09-20-25Z.csv) | 6 |
-| Korean | `ko` | [2026-11-23 09:20 UTC](data/ko/new-articles-2026-11-23T09-20-25Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-23 09:20 UTC](data/id/new-articles-2026-11-23T09-20-25Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-11-23 09:20 UTC](data/uk/new-articles-2026-11-23T09-20-25Z.csv) | 6 |
+| English | `en` | [2026-11-23 10:21 UTC](data/en/new-articles-2026-11-23T10-21-15Z.csv) | 22 |
+| Japanese | `ja` | [2026-11-23 10:21 UTC](data/ja/new-articles-2026-11-23T10-21-15Z.csv) | 20 |
+| Chinese | `zh` | [2026-11-23 10:21 UTC](data/zh/new-articles-2026-11-23T10-21-15Z.csv) | 17 |
+| French | `fr` | [2026-11-23 10:21 UTC](data/fr/new-articles-2026-11-23T10-21-15Z.csv) | 7 |
+| German | `de` | [2026-11-23 10:21 UTC](data/de/new-articles-2026-11-23T10-21-15Z.csv) | 8 |
+| Russian | `ru` | [2026-11-23 10:21 UTC](data/ru/new-articles-2026-11-23T10-21-15Z.csv) | 5 |
+| Spanish | `es` | [2026-11-23 10:21 UTC](data/es/new-articles-2026-11-23T10-21-15Z.csv) | 2 |
+| Italian | `it` | [2026-11-23 10:21 UTC](data/it/new-articles-2026-11-23T10-21-15Z.csv) | 18 |
+| Portuguese | `pt` | [2026-11-23 10:21 UTC](data/pt/new-articles-2026-11-23T10-21-15Z.csv) | 3 |
+| Polish | `pl` | [2026-11-23 10:21 UTC](data/pl/new-articles-2026-11-23T10-21-15Z.csv) | 4 |
+| Arabic | `ar` | [2026-11-23 10:21 UTC](data/ar/new-articles-2026-11-23T10-21-15Z.csv) | 9 |
+| Persian | `fa` | [2026-11-23 10:21 UTC](data/fa/new-articles-2026-11-23T10-21-15Z.csv) | 6 |
+| Turkish | `tr` | [2026-11-23 10:21 UTC](data/tr/new-articles-2026-11-23T10-21-15Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-23 10:21 UTC](data/he/new-articles-2026-11-23T10-21-15Z.csv) | 7 |
+| Swedish | `sv` | [2026-11-23 10:21 UTC](data/sv/new-articles-2026-11-23T10-21-15Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-23 10:21 UTC](data/nl/new-articles-2026-11-23T10-21-15Z.csv) | 4 |
+| Korean | `ko` | [2026-11-23 10:21 UTC](data/ko/new-articles-2026-11-23T10-21-15Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-23 10:21 UTC](data/id/new-articles-2026-11-23T10-21-15Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-11-23 10:21 UTC](data/uk/new-articles-2026-11-23T10-21-15Z.csv) | 5 |
 | Vietnamese | `vi` | [2026-11-23 09:20 UTC](data/vi/new-articles-2026-11-23T09-20-25Z.csv) | 5 |
 
-## English (en) — 2026-11-23 09:20 UTC
+## English (en) — 2026-11-23 10:21 UTC
 
-New articles created between 2026-11-23 08:18 UTC and 2026-11-23 09:20 UTC.
+New articles created between 2026-11-23 09:20 UTC and 2026-11-23 10:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-23T09-20-25Z.csv)
+[Full CSV](data/en/new-articles-2026-11-23T10-21-15Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-23 08:23:51 | [Colobanthus hookeri](https://en.wikipedia.org/wiki/Colobanthus_hookeri) | [Stitchbird2](https://en.wikipedia.org/wiki/User:Stitchbird2) | 2,363 |
-| 2026-11-23 08:24:10 | [Taiwanese Indigenous literature](https://en.wikipedia.org/wiki/Taiwanese_Indigenous_literature) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 8,849 |
-| 2026-11-23 08:38:30 | [Jawwad Ahmed Qazi](https://en.wikipedia.org/wiki/Jawwad_Ahmed_Qazi) | [Anxious Existence](https://en.wikipedia.org/wiki/User:Anxious_Existence) | 4,325 |
-| 2026-11-23 08:39:11 | [Pholeoaphodius](https://en.wikipedia.org/wiki/Pholeoaphodius) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,528 |
-| 2026-11-23 08:41:08 | [Lane baronets of Cavendish Square (1913)](https://en.wikipedia.org/wiki/Lane_baronets_of_Cavendish_Square_%281913%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,560 |
-| 2026-11-23 08:46:54 | [Alloblackburneus](https://en.wikipedia.org/wiki/Alloblackburneus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,247 |
-| 2026-11-23 08:48:14 | [Bob Acri (Album)](https://en.wikipedia.org/wiki/Bob_Acri_%28Album%29) | [SussexBrancher](https://en.wikipedia.org/wiki/User:SussexBrancher) | 1,324 |
-| 2026-11-23 08:50:50 | [Alloblackburneus acutulus](https://en.wikipedia.org/wiki/Alloblackburneus_acutulus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,157 |
-| 2026-11-23 08:53:19 | [Bis(3-sulfopropyl)disulfide](https://en.wikipedia.org/wiki/Bis%283-sulfopropyl%29disulfide) | [Arya61](https://en.wikipedia.org/wiki/User:Arya61) | 2,434 |
-| 2026-11-23 08:54:51 | [Wei Huairen](https://en.wikipedia.org/wiki/Wei_Huairen) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 16,292 |
-| 2026-11-23 08:56:36 | [Women's Hockey5s Pan American Cup](https://en.wikipedia.org/wiki/Women%27s_Hockey5s_Pan_American_Cup) | [SaoTanTeeta](https://en.wikipedia.org/wiki/User:SaoTanTeeta) | 2,149 |
-| 2026-11-23 08:57:00 | [An Ordinary Wonder](https://en.wikipedia.org/wiki/An_Ordinary_Wonder) | [Olaoye Sheu Ibrahim](https://en.wikipedia.org/wiki/User:Olaoye_Sheu_Ibrahim) | 5,771 |
-| 2026-11-23 08:59:05 | [Pseudodiala](https://en.wikipedia.org/wiki/Pseudodiala) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,860 |
-| 2026-11-23 08:59:42 | [Alloblackburneus aegrotus](https://en.wikipedia.org/wiki/Alloblackburneus_aegrotus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,339 |
-| 2026-11-23 09:04:53 | [Alloblackburneus cavidomus](https://en.wikipedia.org/wiki/Alloblackburneus_cavidomus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,300 |
-| 2026-11-23 09:07:15 | [Alloblackburneus cynomysi](https://en.wikipedia.org/wiki/Alloblackburneus_cynomysi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,196 |
-| 2026-11-23 09:10:57 | [Alloblackburneus fordi](https://en.wikipedia.org/wiki/Alloblackburneus_fordi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,339 |
-| 2026-11-23 09:13:20 | [Alloblackburneus geomysi](https://en.wikipedia.org/wiki/Alloblackburneus_geomysi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,212 |
-| 2026-11-23 09:14:11 | [Butterwick Windmill](https://en.wikipedia.org/wiki/Butterwick_Windmill) | [Mjroots](https://en.wikipedia.org/wiki/User:Mjroots) | 4,925 |
-| 2026-11-23 09:16:50 | [Saryu Kamala Express](https://en.wikipedia.org/wiki/Saryu_Kamala_Express) | [Sntshkumar750](https://en.wikipedia.org/wiki/User:Sntshkumar750) | 2,322 |
+| 2026-11-23 09:21:36 | [Tian Tian Hainanese Chicken Rice](https://en.wikipedia.org/wiki/Tian_Tian_Hainanese_Chicken_Rice) | [Another Believer](https://en.wikipedia.org/wiki/User:Another_Believer) | 1,718 |
+| 2026-11-23 09:25:22 | [Musidora (collective)](https://en.wikipedia.org/wiki/Musidora_%28collective%29) | [Masato.harada](https://en.wikipedia.org/wiki/User:Masato.harada) | 14,224 |
+| 2026-11-23 09:25:31 | [Alloblackburneus guadalajarae](https://en.wikipedia.org/wiki/Alloblackburneus_guadalajarae) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,183 |
+| 2026-11-23 09:28:33 | [Alloblackburneus ibanezbernali](https://en.wikipedia.org/wiki/Alloblackburneus_ibanezbernali) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,410 |
+| 2026-11-23 09:31:29 | [Alloblackburneus lentus](https://en.wikipedia.org/wiki/Alloblackburneus_lentus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,426 |
+| 2026-11-23 09:34:37 | [MV Angara](https://en.wikipedia.org/wiki/MV_Angara) | [Fastdriver20](https://en.wikipedia.org/wiki/User:Fastdriver20) | 1,976 |
+| 2026-11-23 09:35:52 | [David Kimball Anderson](https://en.wikipedia.org/wiki/David_Kimball_Anderson) | [Strattonsmith](https://en.wikipedia.org/wiki/User:Strattonsmith) | 1,181 |
+| 2026-11-23 09:37:03 | [Pseudodiala acuta](https://en.wikipedia.org/wiki/Pseudodiala_acuta) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 3,058 |
+| 2026-11-23 09:38:22 | [Alloblackburneus rubeolus](https://en.wikipedia.org/wiki/Alloblackburneus_rubeolus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,686 |
+| 2026-11-23 09:40:21 | [If I Had One Wish (song)](https://en.wikipedia.org/wiki/If_I_Had_One_Wish_%28song%29) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 3,240 |
+| 2026-11-23 09:41:22 | [Alloblackburneus saylori](https://en.wikipedia.org/wiki/Alloblackburneus_saylori) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,264 |
+| 2026-11-23 09:44:28 | [Alloblackburneus tenuistriatus](https://en.wikipedia.org/wiki/Alloblackburneus_tenuistriatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,357 |
+| 2026-11-23 09:47:40 | [Alloblackburneus troglodytes](https://en.wikipedia.org/wiki/Alloblackburneus_troglodytes) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,324 |
+| 2026-11-23 09:50:25 | [Stefanutti Stocks](https://en.wikipedia.org/wiki/Stefanutti_Stocks) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 20,089 |
+| 2026-11-23 09:52:52 | [Barbie Sticker Designer](https://en.wikipedia.org/wiki/Barbie_Sticker_Designer) | [Timur9008](https://en.wikipedia.org/wiki/User:Timur9008) | 2,841 |
+| 2026-11-23 09:53:39 | [Blackburneus charmionus](https://en.wikipedia.org/wiki/Blackburneus_charmionus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,342 |
+| 2026-11-23 09:56:15 | [West Gondar Zone](https://en.wikipedia.org/wiki/West_Gondar_Zone) | [Malaalaa](https://en.wikipedia.org/wiki/User:Malaalaa) | 3,355 |
+| 2026-11-23 09:58:20 | [National Sports Authority (Ghana)](https://en.wikipedia.org/wiki/National_Sports_Authority_%28Ghana%29) | [Danidamiobi](https://en.wikipedia.org/wiki/User:Danidamiobi) | 6,380 |
+| 2026-11-23 10:00:00 | [Black Challenge](https://en.wikipedia.org/wiki/Black_Challenge) | [Danidamiobi](https://en.wikipedia.org/wiki/User:Danidamiobi) | 5,232 |
+| 2026-11-23 10:03:32 | [Blackburneus diminutus](https://en.wikipedia.org/wiki/Blackburneus_diminutus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,180 |
+| 2026-11-23 10:07:44 | [Léo Besson](https://en.wikipedia.org/wiki/L%C3%A9o_Besson) | [FootballerInTheMaking](https://en.wikipedia.org/wiki/User:FootballerInTheMaking) | 15,567 |
+| 2026-11-23 10:14:27 | [Giovanni Bianucci](https://en.wikipedia.org/wiki/Giovanni_Bianucci) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
