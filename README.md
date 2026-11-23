@@ -13,47 +13,42 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-23 07:20 UTC](data/en/new-articles-2026-11-23T07-20-56Z.csv) | 15 |
-| Japanese | `ja` | [2026-11-23 07:20 UTC](data/ja/new-articles-2026-11-23T07-20-56Z.csv) | 22 |
-| Chinese | `zh` | [2026-11-23 07:20 UTC](data/zh/new-articles-2026-11-23T07-20-56Z.csv) | 7 |
-| French | `fr` | [2026-11-23 07:20 UTC](data/fr/new-articles-2026-11-23T07-20-56Z.csv) | 2 |
-| German | `de` | [2026-11-23 07:20 UTC](data/de/new-articles-2026-11-23T07-20-56Z.csv) | 6 |
-| Russian | `ru` | [2026-11-23 07:20 UTC](data/ru/new-articles-2026-11-23T07-20-56Z.csv) | 8 |
-| Spanish | `es` | [2026-11-23 07:20 UTC](data/es/new-articles-2026-11-23T07-20-56Z.csv) | 2 |
-| Italian | `it` | [2026-11-23 07:20 UTC](data/it/new-articles-2026-11-23T07-20-56Z.csv) | 8 |
+| English | `en` | [2026-11-23 08:18 UTC](data/en/new-articles-2026-11-23T08-18-31Z.csv) | 10 |
+| Japanese | `ja` | [2026-11-23 08:18 UTC](data/ja/new-articles-2026-11-23T08-18-31Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-23 08:18 UTC](data/zh/new-articles-2026-11-23T08-18-31Z.csv) | 9 |
+| French | `fr` | [2026-11-23 08:18 UTC](data/fr/new-articles-2026-11-23T08-18-31Z.csv) | 2 |
+| German | `de` | [2026-11-23 08:18 UTC](data/de/new-articles-2026-11-23T08-18-31Z.csv) | 10 |
+| Russian | `ru` | [2026-11-23 08:18 UTC](data/ru/new-articles-2026-11-23T08-18-31Z.csv) | 6 |
+| Spanish | `es` | [2026-11-23 08:18 UTC](data/es/new-articles-2026-11-23T08-18-31Z.csv) | 3 |
+| Italian | `it` | [2026-11-23 08:18 UTC](data/it/new-articles-2026-11-23T08-18-31Z.csv) | 10 |
 | Portuguese | `pt` | [2026-11-23 07:20 UTC](data/pt/new-articles-2026-11-23T07-20-56Z.csv) | 1 |
-| Polish | `pl` | [2026-11-23 07:20 UTC](data/pl/new-articles-2026-11-23T07-20-56Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-23 07:20 UTC](data/ar/new-articles-2026-11-23T07-20-56Z.csv) | 5 |
-| Persian | `fa` | [2026-11-23 07:20 UTC](data/fa/new-articles-2026-11-23T07-20-56Z.csv) | 3 |
-| Turkish | `tr` | [2026-11-23 07:20 UTC](data/tr/new-articles-2026-11-23T07-20-56Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-23 06:19 UTC](data/he/new-articles-2026-11-23T06-19-27Z.csv) | 4 |
+| Polish | `pl` | [2026-11-23 08:18 UTC](data/pl/new-articles-2026-11-23T08-18-31Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-23 08:18 UTC](data/ar/new-articles-2026-11-23T08-18-31Z.csv) | 7 |
+| Persian | `fa` | [2026-11-23 08:18 UTC](data/fa/new-articles-2026-11-23T08-18-31Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-23 08:18 UTC](data/tr/new-articles-2026-11-23T08-18-31Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-23 08:18 UTC](data/he/new-articles-2026-11-23T08-18-31Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-23 07:20 UTC](data/sv/new-articles-2026-11-23T07-20-56Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-23 07:20 UTC](data/nl/new-articles-2026-11-23T07-20-56Z.csv) | 2 |
-| Korean | `ko` | [2026-11-23 07:20 UTC](data/ko/new-articles-2026-11-23T07-20-56Z.csv) | 5 |
-| Indonesian | `id` | [2026-11-23 07:20 UTC](data/id/new-articles-2026-11-23T07-20-56Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-11-23 07:20 UTC](data/uk/new-articles-2026-11-23T07-20-56Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-23 07:20 UTC](data/vi/new-articles-2026-11-23T07-20-56Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-23 08:18 UTC](data/nl/new-articles-2026-11-23T08-18-31Z.csv) | 2 |
+| Korean | `ko` | [2026-11-23 08:18 UTC](data/ko/new-articles-2026-11-23T08-18-31Z.csv) | 8 |
+| Indonesian | `id` | [2026-11-23 08:18 UTC](data/id/new-articles-2026-11-23T08-18-31Z.csv) | 5 |
+| Ukrainian | `uk` | [2026-11-23 08:18 UTC](data/uk/new-articles-2026-11-23T08-18-31Z.csv) | 3 |
+| Vietnamese | `vi` | [2026-11-23 08:18 UTC](data/vi/new-articles-2026-11-23T08-18-31Z.csv) | 3 |
 
-## English (en) — 2026-11-23 07:20 UTC
+## English (en) — 2026-11-23 08:18 UTC
 
-New articles created between 2026-11-23 06:19 UTC and 2026-11-23 07:20 UTC.
+New articles created between 2026-11-23 07:20 UTC and 2026-11-23 08:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-23T07-20-56Z.csv)
+[Full CSV](data/en/new-articles-2026-11-23T08-18-31Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-23 06:22:41 | [Loosey Goosey & Fried Chicken](https://en.wikipedia.org/wiki/Loosey_Goosey_%26_Fried_Chicken) | [Boomfour](https://en.wikipedia.org/wiki/User:Boomfour) | 2,061 |
-| 2026-11-23 06:23:00 | [Khabbab Mawla Utba](https://en.wikipedia.org/wiki/Khabbab_Mawla_Utba) | [Saddam19](https://en.wikipedia.org/wiki/User:Saddam19) | 1,856 |
-| 2026-11-23 06:30:23 | [List of historical markers of the Philippines in the City of Manila](https://en.wikipedia.org/wiki/List_of_historical_markers_of_the_Philippines_in_the_City_of_Manila) | [Ryomaandres](https://en.wikipedia.org/wiki/User:Ryomaandres) | 141,717 |
-| 2026-11-23 06:35:26 | [Symplocos bullata](https://en.wikipedia.org/wiki/Symplocos_bullata) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 4,293 |
-| 2026-11-23 06:37:49 | [Tice (surname)](https://en.wikipedia.org/wiki/Tice_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 1,167 |
-| 2026-11-23 06:38:38 | [Teodoro Lim](https://en.wikipedia.org/wiki/Teodoro_Lim) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 4,453 |
-| 2026-11-23 06:50:10 | [Faisal Bin Qassim Al Thani](https://en.wikipedia.org/wiki/Faisal_Bin_Qassim_Al_Thani) | [Nestilano](https://en.wikipedia.org/wiki/User:Nestilano) | 3,707 |
-| 2026-11-23 07:03:52 | [Donald Hooton Sr.](https://en.wikipedia.org/wiki/Donald_Hooton_Sr.) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,796 |
-| 2026-11-23 07:09:07 | [Tica](https://en.wikipedia.org/wiki/Tica) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 193 |
-| 2026-11-23 07:10:09 | [Raubex](https://en.wikipedia.org/wiki/Raubex) | [Husskeyy](https://en.wikipedia.org/wiki/User:Husskeyy) | 24,972 |
-| 2026-11-23 07:12:25 | [Men's Hockey5s Pan American Cup](https://en.wikipedia.org/wiki/Men%27s_Hockey5s_Pan_American_Cup) | [SaoTanTeeta](https://en.wikipedia.org/wiki/User:SaoTanTeeta) | 2,126 |
-| 2026-11-23 07:16:05 | [Let Me Sing Your Blues Away](https://en.wikipedia.org/wiki/Let_Me_Sing_Your_Blues_Away) | [Newtatoryd222](https://en.wikipedia.org/wiki/User:Newtatoryd222) | 5,239 |
-| 2026-11-23 07:16:37 | [Ticu (surname)](https://en.wikipedia.org/wiki/Ticu_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 192 |
-| 2026-11-23 07:19:34 | [2026 Co-op Live incident](https://en.wikipedia.org/wiki/2026_Co-op_Live_incident) | [SkateawayDS](https://en.wikipedia.org/wiki/User:SkateawayDS) | 5,407 |
-| 2026-11-23 07:20:16 | [Symplocos crassiramifera](https://en.wikipedia.org/wiki/Symplocos_crassiramifera) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 3,410 |
+| 2026-11-23 07:29:19 | [Gawrajui language](https://en.wikipedia.org/wiki/Gawrajui_language) | [Refccdcvb](https://en.wikipedia.org/wiki/User:Refccdcvb) | 101 |
+| 2026-11-23 07:35:21 | [List of presidential trips made by Richard Nixon (1974)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_Richard_Nixon_%281974%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 11,786 |
+| 2026-11-23 07:38:45 | [Demir Xhemalija](https://en.wikipedia.org/wiki/Demir_Xhemalija) | [FootballerInTheMaking](https://en.wikipedia.org/wiki/User:FootballerInTheMaking) | 11,599 |
+| 2026-11-23 07:40:20 | [Waitahuna railway station](https://en.wikipedia.org/wiki/Waitahuna_railway_station) | [Its-mrb](https://en.wikipedia.org/wiki/User:Its-mrb) | 22,012 |
+| 2026-11-23 07:52:15 | [Bodilus lucidulus](https://en.wikipedia.org/wiki/Bodilus_lucidulus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,984 |
+| 2026-11-23 07:54:49 | [Holly's Law](https://en.wikipedia.org/wiki/Holly%27s_Law) | [EniPort](https://en.wikipedia.org/wiki/User:EniPort) | 21,378 |
+| 2026-11-23 07:57:06 | [Koshantschikovius haematiticus](https://en.wikipedia.org/wiki/Koshantschikovius_haematiticus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,367 |
+| 2026-11-23 07:59:32 | [AVP(4-8)](https://en.wikipedia.org/wiki/AVP%284-8%29) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 4,460 |
+| 2026-11-23 08:00:01 | [Aphodiellus genialis](https://en.wikipedia.org/wiki/Aphodiellus_genialis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,979 |
+| 2026-11-23 08:08:15 | [Turn of the Wheel (Mary Lu Zahalan song)](https://en.wikipedia.org/wiki/Turn_of_the_Wheel_%28Mary_Lu_Zahalan_song%29) | [Karl Twist](https://en.wikipedia.org/wiki/User:Karl_Twist) | 5,734 |
