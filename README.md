@@ -13,55 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-23 20:21 UTC](data/en/new-articles-2026-11-23T20-21-52Z.csv) | 23 |
-| Japanese | `ja` | [2026-11-23 20:21 UTC](data/ja/new-articles-2026-11-23T20-21-52Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-23 20:21 UTC](data/zh/new-articles-2026-11-23T20-21-52Z.csv) | 2 |
-| French | `fr` | [2026-11-23 20:21 UTC](data/fr/new-articles-2026-11-23T20-21-52Z.csv) | 9 |
-| German | `de` | [2026-11-23 20:21 UTC](data/de/new-articles-2026-11-23T20-21-52Z.csv) | 8 |
-| Russian | `ru` | [2026-11-23 20:21 UTC](data/ru/new-articles-2026-11-23T20-21-52Z.csv) | 17 |
-| Spanish | `es` | [2026-11-23 20:21 UTC](data/es/new-articles-2026-11-23T20-21-52Z.csv) | 6 |
-| Italian | `it` | [2026-11-23 20:21 UTC](data/it/new-articles-2026-11-23T20-21-52Z.csv) | 9 |
-| Portuguese | `pt` | [2026-11-23 20:21 UTC](data/pt/new-articles-2026-11-23T20-21-52Z.csv) | 5 |
-| Polish | `pl` | [2026-11-23 20:21 UTC](data/pl/new-articles-2026-11-23T20-21-52Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-23 20:21 UTC](data/ar/new-articles-2026-11-23T20-21-52Z.csv) | 6 |
-| Persian | `fa` | [2026-11-23 20:21 UTC](data/fa/new-articles-2026-11-23T20-21-52Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-23 20:21 UTC](data/tr/new-articles-2026-11-23T20-21-52Z.csv) | 7 |
-| Hebrew | `he` | [2026-11-23 20:21 UTC](data/he/new-articles-2026-11-23T20-21-52Z.csv) | 2 |
+| English | `en` | [2026-11-23 21:18 UTC](data/en/new-articles-2026-11-23T21-18-35Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-23 21:18 UTC](data/ja/new-articles-2026-11-23T21-18-35Z.csv) | 2 |
+| Chinese | `zh` | [2026-11-23 21:18 UTC](data/zh/new-articles-2026-11-23T21-18-35Z.csv) | 1 |
+| French | `fr` | [2026-11-23 21:18 UTC](data/fr/new-articles-2026-11-23T21-18-35Z.csv) | 14 |
+| German | `de` | [2026-11-23 21:18 UTC](data/de/new-articles-2026-11-23T21-18-35Z.csv) | 9 |
+| Russian | `ru` | [2026-11-23 21:18 UTC](data/ru/new-articles-2026-11-23T21-18-35Z.csv) | 32 |
+| Spanish | `es` | [2026-11-23 21:18 UTC](data/es/new-articles-2026-11-23T21-18-35Z.csv) | 8 |
+| Italian | `it` | [2026-11-23 21:18 UTC](data/it/new-articles-2026-11-23T21-18-35Z.csv) | 13 |
+| Portuguese | `pt` | [2026-11-23 21:18 UTC](data/pt/new-articles-2026-11-23T21-18-35Z.csv) | 4 |
+| Polish | `pl` | [2026-11-23 21:18 UTC](data/pl/new-articles-2026-11-23T21-18-35Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-23 21:18 UTC](data/ar/new-articles-2026-11-23T21-18-35Z.csv) | 5 |
+| Persian | `fa` | [2026-11-23 21:18 UTC](data/fa/new-articles-2026-11-23T21-18-35Z.csv) | 2 |
+| Turkish | `tr` | [2026-11-23 21:18 UTC](data/tr/new-articles-2026-11-23T21-18-35Z.csv) | 7 |
+| Hebrew | `he` | [2026-11-23 21:18 UTC](data/he/new-articles-2026-11-23T21-18-35Z.csv) | 2 |
 | Swedish | `sv` | [2026-11-23 20:21 UTC](data/sv/new-articles-2026-11-23T20-21-52Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-23 20:21 UTC](data/nl/new-articles-2026-11-23T20-21-52Z.csv) | 6 |
-| Korean | `ko` | [2026-11-23 19:21 UTC](data/ko/new-articles-2026-11-23T19-21-28Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-23 21:18 UTC](data/nl/new-articles-2026-11-23T21-18-35Z.csv) | 2 |
+| Korean | `ko` | [2026-11-23 21:18 UTC](data/ko/new-articles-2026-11-23T21-18-35Z.csv) | 1 |
 | Indonesian | `id` | [2026-11-23 19:21 UTC](data/id/new-articles-2026-11-23T19-21-28Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-23 20:21 UTC](data/uk/new-articles-2026-11-23T20-21-52Z.csv) | 15 |
+| Ukrainian | `uk` | [2026-11-23 21:18 UTC](data/uk/new-articles-2026-11-23T21-18-35Z.csv) | 6 |
 | Vietnamese | `vi` | [2026-11-23 20:21 UTC](data/vi/new-articles-2026-11-23T20-21-52Z.csv) | 1 |
 
-## English (en) — 2026-11-23 20:21 UTC
+## English (en) — 2026-11-23 21:18 UTC
 
-New articles created between 2026-11-23 19:21 UTC and 2026-11-23 20:21 UTC.
+New articles created between 2026-11-23 20:21 UTC and 2026-11-23 21:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-23T20-21-52Z.csv)
+[Full CSV](data/en/new-articles-2026-11-23T21-18-35Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-23 19:23:24 | [Jiggs Kline](https://en.wikipedia.org/wiki/Jiggs_Kline) | [WikiOriginal-9](https://en.wikipedia.org/wiki/User:WikiOriginal-9) | 5,292 |
-| 2026-11-23 19:25:13 | [Semantic SLAM](https://en.wikipedia.org/wiki/Semantic_SLAM) | [Somanshu025](https://en.wikipedia.org/wiki/User:Somanshu025) | 1,633 |
-| 2026-11-23 19:28:00 | [William W. Korth](https://en.wikipedia.org/wiki/William_W._Korth) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
-| 2026-11-23 19:29:15 | [Girlie Veloso](https://en.wikipedia.org/wiki/Girlie_Veloso) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,512 |
-| 2026-11-23 19:30:37 | [The Cornish Coast](https://en.wikipedia.org/wiki/The_Cornish_Coast) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,120 |
-| 2026-11-23 19:31:38 | [Matthew Kenney (American businessman)](https://en.wikipedia.org/wiki/Matthew_Kenney_%28American_businessman%29) | [Wahalalala](https://en.wikipedia.org/wiki/User:Wahalalala) | 2,473 |
-| 2026-11-23 19:32:08 | [Century Longteng](https://en.wikipedia.org/wiki/Century_Longteng) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 13,227 |
-| 2026-11-23 19:37:32 | [Girlie (given name)](https://en.wikipedia.org/wiki/Girlie_%28given_name%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 652 |
-| 2026-11-23 19:38:27 | [Anna Ramsey](https://en.wikipedia.org/wiki/Anna_Ramsey) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 7,687 |
-| 2026-11-23 19:39:01 | [Daryl Domning](https://en.wikipedia.org/wiki/Daryl_Domning) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 106 |
-| 2026-11-23 19:40:56 | [Jean-Claude Lethiais](https://en.wikipedia.org/wiki/Jean-Claude_Lethiais) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 2,637 |
-| 2026-11-23 19:50:24 | [Rolex Padellone](https://en.wikipedia.org/wiki/Rolex_Padellone) | [Blimperator](https://en.wikipedia.org/wiki/User:Blimperator) | 1,910 |
-| 2026-11-23 19:54:08 | [Andrew Rudalevige](https://en.wikipedia.org/wiki/Andrew_Rudalevige) | [RedBaron214](https://en.wikipedia.org/wiki/User:RedBaron214) | 5,822 |
-| 2026-11-23 19:54:48 | [Sanjib Borah](https://en.wikipedia.org/wiki/Sanjib_Borah) | [Afughat](https://en.wikipedia.org/wiki/User:Afughat) | 10,581 |
-| 2026-11-23 19:55:39 | [Karl Schönwetter](https://en.wikipedia.org/wiki/Karl_Sch%C3%B6nwetter) | [Fdewaele](https://en.wikipedia.org/wiki/User:Fdewaele) | 4,321 |
-| 2026-11-23 20:01:15 | [Cosamala](https://en.wikipedia.org/wiki/Cosamala) | [Asqueladd](https://en.wikipedia.org/wiki/User:Asqueladd) | 3,550 |
-| 2026-11-23 20:01:47 | [Claude Labat](https://en.wikipedia.org/wiki/Claude_Labat) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 4,245 |
-| 2026-11-23 20:03:39 | [Hen on Nest](https://en.wikipedia.org/wiki/Hen_on_Nest) | [RedBaron214](https://en.wikipedia.org/wiki/User:RedBaron214) | 1,730 |
-| 2026-11-23 20:06:19 | [Theatre of machines](https://en.wikipedia.org/wiki/Theatre_of_machines) | [Lost-Futures](https://en.wikipedia.org/wiki/User:Lost-Futures) | 6,831 |
-| 2026-11-23 20:06:55 | [Karl von Waldthausen](https://en.wikipedia.org/wiki/Karl_von_Waldthausen) | [In Vitrio](https://en.wikipedia.org/wiki/User:In_Vitrio) | 4,753 |
-| 2026-11-23 20:08:36 | [Fangoria Chainsaw Award for Best Make-Up FX](https://en.wikipedia.org/wiki/Fangoria_Chainsaw_Award_for_Best_Make-Up_FX) | [Elekimante](https://en.wikipedia.org/wiki/User:Elekimante) | 19,574 |
-| 2026-11-23 20:16:38 | [Spermophora kerinci](https://en.wikipedia.org/wiki/Spermophora_kerinci) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,051 |
-| 2026-11-23 20:18:21 | [Quantum low-density parity-check code](https://en.wikipedia.org/wiki/Quantum_low-density_parity-check_code) | [Electronblues](https://en.wikipedia.org/wiki/User:Electronblues) | 7,671 |
+| 2026-11-23 20:25:20 | [Fangoria Chainsaw Award for Best Cinematography](https://en.wikipedia.org/wiki/Fangoria_Chainsaw_Award_for_Best_Cinematography) | [Elekimante](https://en.wikipedia.org/wiki/User:Elekimante) | 3,665 |
+| 2026-11-23 20:26:29 | [Carmelo Puzzolo](https://en.wikipedia.org/wiki/Carmelo_Puzzolo) | [Stebunik](https://en.wikipedia.org/wiki/User:Stebunik) | 24,057 |
+| 2026-11-23 20:28:23 | [Enrico Valentino Parry](https://en.wikipedia.org/wiki/Enrico_Valentino_Parry) | [SiniyaEdita](https://en.wikipedia.org/wiki/User:SiniyaEdita) | 6,919 |
+| 2026-11-23 20:30:17 | [Nkosikhona Radebe](https://en.wikipedia.org/wiki/Nkosikhona_Radebe) | [Aneirinn](https://en.wikipedia.org/wiki/User:Aneirinn) | 9,953 |
+| 2026-11-23 20:30:39 | [Nkosikhona Ndaba](https://en.wikipedia.org/wiki/Nkosikhona_Ndaba) | [Aneirinn](https://en.wikipedia.org/wiki/User:Aneirinn) | 7,449 |
+| 2026-11-23 20:32:03 | [Fernand Wyss](https://en.wikipedia.org/wiki/Fernand_Wyss) | [Fdewaele](https://en.wikipedia.org/wiki/User:Fdewaele) | 5,542 |
+| 2026-11-23 20:38:48 | [The Last Bloom Fades](https://en.wikipedia.org/wiki/The_Last_Bloom_Fades) | [Aidillia](https://en.wikipedia.org/wiki/User:Aidillia) | 12,877 |
+| 2026-11-23 20:45:18 | [Craniofacial dysplasia-osteopenia syndrome](https://en.wikipedia.org/wiki/Craniofacial_dysplasia-osteopenia_syndrome) | [Runabout5921](https://en.wikipedia.org/wiki/User:Runabout5921) | 4,198 |
+| 2026-11-23 20:46:28 | [Zvereva (crater)](https://en.wikipedia.org/wiki/Zvereva_%28crater%29) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 1,699 |
+| 2026-11-23 20:52:50 | [Ocean View Library](https://en.wikipedia.org/wiki/Ocean_View_Library) | [Mattlibrarian](https://en.wikipedia.org/wiki/User:Mattlibrarian) | 3,312 |
+| 2026-11-23 20:56:03 | [Chris Mowery](https://en.wikipedia.org/wiki/Chris_Mowery) | [Rich Farmbrough](https://en.wikipedia.org/wiki/User:Rich_Farmbrough) | 267 |
+| 2026-11-23 20:57:58 | [Robert Zussman](https://en.wikipedia.org/wiki/Robert_Zussman) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 5,407 |
+| 2026-11-23 21:01:51 | [Fangoria Chainsaw Award for Best Creature FX](https://en.wikipedia.org/wiki/Fangoria_Chainsaw_Award_for_Best_Creature_FX) | [Elekimante](https://en.wikipedia.org/wiki/User:Elekimante) | 6,360 |
+| 2026-11-23 21:04:22 | [Ian Lawrie](https://en.wikipedia.org/wiki/Ian_Lawrie) | [Greenshed](https://en.wikipedia.org/wiki/User:Greenshed) | 2,557 |
+| 2026-11-23 21:05:53 | [BJU Bruins men's cross country](https://en.wikipedia.org/wiki/BJU_Bruins_men%27s_cross_country) | [TableFor1](https://en.wikipedia.org/wiki/User:TableFor1) | 7,133 |
+| 2026-11-23 21:08:28 | [2017–18 New Zealand Formula Ford Championship](https://en.wikipedia.org/wiki/2017%E2%80%9318_New_Zealand_Formula_Ford_Championship) | [SquirrelIAm](https://en.wikipedia.org/wiki/User:SquirrelIAm) | 20,688 |
+| 2026-11-23 21:09:05 | [Sperry equities](https://en.wikipedia.org/wiki/Sperry_equities) | [Davidlaurens](https://en.wikipedia.org/wiki/User:Davidlaurens) | 2,293 |
+| 2026-11-23 21:10:53 | [Kyle Anderson (American politician)](https://en.wikipedia.org/wiki/Kyle_Anderson_%28American_politician%29) | [Techman852](https://en.wikipedia.org/wiki/User:Techman852) | 2,415 |
+| 2026-11-23 21:16:38 | [Chilliwack Rapids](https://en.wikipedia.org/wiki/Chilliwack_Rapids) | [HeyyMaple](https://en.wikipedia.org/wiki/User:HeyyMaple) | 8,825 |
