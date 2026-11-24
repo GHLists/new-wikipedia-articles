@@ -13,60 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-23 23:20 UTC](data/en/new-articles-2026-11-23T23-20-29Z.csv) | 28 |
-| Japanese | `ja` | [2026-11-23 23:20 UTC](data/ja/new-articles-2026-11-23T23-20-29Z.csv) | 1 |
-| Chinese | `zh` | [2026-11-23 21:18 UTC](data/zh/new-articles-2026-11-23T21-18-35Z.csv) | 1 |
-| French | `fr` | [2026-11-23 23:20 UTC](data/fr/new-articles-2026-11-23T23-20-29Z.csv) | 9 |
-| German | `de` | [2026-11-23 23:20 UTC](data/de/new-articles-2026-11-23T23-20-29Z.csv) | 8 |
-| Russian | `ru` | [2026-11-23 23:20 UTC](data/ru/new-articles-2026-11-23T23-20-29Z.csv) | 5 |
-| Spanish | `es` | [2026-11-23 23:20 UTC](data/es/new-articles-2026-11-23T23-20-29Z.csv) | 6 |
-| Italian | `it` | [2026-11-23 23:20 UTC](data/it/new-articles-2026-11-23T23-20-29Z.csv) | 4 |
-| Portuguese | `pt` | [2026-11-23 23:20 UTC](data/pt/new-articles-2026-11-23T23-20-29Z.csv) | 11 |
-| Polish | `pl` | [2026-11-23 23:20 UTC](data/pl/new-articles-2026-11-23T23-20-29Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-23 23:20 UTC](data/ar/new-articles-2026-11-23T23-20-29Z.csv) | 4 |
-| Persian | `fa` | [2026-11-23 23:20 UTC](data/fa/new-articles-2026-11-23T23-20-29Z.csv) | 4 |
-| Turkish | `tr` | [2026-11-23 23:20 UTC](data/tr/new-articles-2026-11-23T23-20-29Z.csv) | 4 |
-| Hebrew | `he` | [2026-11-23 21:18 UTC](data/he/new-articles-2026-11-23T21-18-35Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-23 23:20 UTC](data/sv/new-articles-2026-11-23T23-20-29Z.csv) | 2 |
+| English | `en` | [2026-11-24 00:18 UTC](data/en/new-articles-2026-11-24T00-18-42Z.csv) | 21 |
+| Japanese | `ja` | [2026-11-24 00:18 UTC](data/ja/new-articles-2026-11-24T00-18-42Z.csv) | 7 |
+| Chinese | `zh` | [2026-11-24 00:18 UTC](data/zh/new-articles-2026-11-24T00-18-42Z.csv) | 4 |
+| French | `fr` | [2026-11-24 00:18 UTC](data/fr/new-articles-2026-11-24T00-18-42Z.csv) | 7 |
+| German | `de` | [2026-11-24 00:18 UTC](data/de/new-articles-2026-11-24T00-18-42Z.csv) | 3 |
+| Russian | `ru` | [2026-11-24 00:18 UTC](data/ru/new-articles-2026-11-24T00-18-42Z.csv) | 4 |
+| Spanish | `es` | [2026-11-24 00:18 UTC](data/es/new-articles-2026-11-24T00-18-42Z.csv) | 6 |
+| Italian | `it` | [2026-11-24 00:18 UTC](data/it/new-articles-2026-11-24T00-18-42Z.csv) | 3 |
+| Portuguese | `pt` | [2026-11-24 00:18 UTC](data/pt/new-articles-2026-11-24T00-18-42Z.csv) | 8 |
+| Polish | `pl` | [2026-11-24 00:18 UTC](data/pl/new-articles-2026-11-24T00-18-42Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-24 00:18 UTC](data/ar/new-articles-2026-11-24T00-18-42Z.csv) | 1 |
+| Persian | `fa` | [2026-11-24 00:18 UTC](data/fa/new-articles-2026-11-24T00-18-42Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-24 00:18 UTC](data/tr/new-articles-2026-11-24T00-18-42Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-24 00:18 UTC](data/he/new-articles-2026-11-24T00-18-42Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-24 00:18 UTC](data/sv/new-articles-2026-11-24T00-18-42Z.csv) | 6 |
 | Dutch | `nl` | [2026-11-23 23:20 UTC](data/nl/new-articles-2026-11-23T23-20-29Z.csv) | 7 |
 | Korean | `ko` | [2026-11-23 23:20 UTC](data/ko/new-articles-2026-11-23T23-20-29Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-23 23:20 UTC](data/id/new-articles-2026-11-23T23-20-29Z.csv) | 5 |
-| Ukrainian | `uk` | [2026-11-23 23:20 UTC](data/uk/new-articles-2026-11-23T23-20-29Z.csv) | 5 |
-| Vietnamese | `vi` | [2026-11-23 20:21 UTC](data/vi/new-articles-2026-11-23T20-21-52Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-24 00:18 UTC](data/id/new-articles-2026-11-24T00-18-42Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-24 00:18 UTC](data/uk/new-articles-2026-11-24T00-18-42Z.csv) | 1 |
+| Vietnamese | `vi` | [2026-11-24 00:18 UTC](data/vi/new-articles-2026-11-24T00-18-42Z.csv) | 1 |
 
-## English (en) — 2026-11-23 23:20 UTC
+## English (en) — 2026-11-24 00:18 UTC
 
-New articles created between 2026-11-23 22:20 UTC and 2026-11-23 23:20 UTC.
+New articles created between 2026-11-23 23:20 UTC and 2026-11-24 00:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-23T23-20-29Z.csv)
+[Full CSV](data/en/new-articles-2026-11-24T00-18-42Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-23 22:20:29 | [Rolex Sky-Dweller](https://en.wikipedia.org/wiki/Rolex_Sky-Dweller) | [Blimperator](https://en.wikipedia.org/wiki/User:Blimperator) | 1,995 |
-| 2026-11-23 22:22:10 | [Pure Love (Gabriella Cilmi album)](https://en.wikipedia.org/wiki/Pure_Love_%28Gabriella_Cilmi_album%29) | [WaterOfTheValley](https://en.wikipedia.org/wiki/User:WaterOfTheValley) | 4,038 |
-| 2026-11-23 22:22:30 | [Roger Cash](https://en.wikipedia.org/wiki/Roger_Cash) | [WelcomeToLand](https://en.wikipedia.org/wiki/User:WelcomeToLand) | 2,517 |
-| 2026-11-23 22:25:22 | [Fowler–Nordheim theory](https://en.wikipedia.org/wiki/Fowler%E2%80%93Nordheim_theory) | [ReyHahn](https://en.wikipedia.org/wiki/User:ReyHahn) | 78,800 |
-| 2026-11-23 22:26:21 | [Zenobia (crater)](https://en.wikipedia.org/wiki/Zenobia_%28crater%29) | [Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555) | 1,729 |
-| 2026-11-23 22:28:40 | [Disappearance of Danny Filippidis](https://en.wikipedia.org/wiki/Disappearance_of_Danny_Filippidis) | [B81161625](https://en.wikipedia.org/wiki/User:B81161625) | 2,340 |
-| 2026-11-23 22:40:46 | [Ronja Forcher](https://en.wikipedia.org/wiki/Ronja_Forcher) | [Hameltion](https://en.wikipedia.org/wiki/User:Hameltion) | 6,860 |
-| 2026-11-23 22:41:23 | [Lâm Thị Phương Thanh](https://en.wikipedia.org/wiki/L%C3%A2m_Th%E1%BB%8B_Ph%C6%B0%C6%A1ng_Thanh) | [Alsor97](https://en.wikipedia.org/wiki/User:Alsor97) | 5,445 |
-| 2026-11-23 22:43:10 | [Bai family criminal group case](https://en.wikipedia.org/wiki/Bai_family_criminal_group_case) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 10,685 |
-| 2026-11-23 22:44:32 | [Gary Hill Jr.](https://en.wikipedia.org/wiki/Gary_Hill_Jr.) | [HonkBase](https://en.wikipedia.org/wiki/User:HonkBase) | 6,228 |
-| 2026-11-23 22:44:33 | [Jason Bhugwandass](https://en.wikipedia.org/wiki/Jason_Bhugwandass) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 29,435 |
-| 2026-11-23 22:49:01 | [Sabiha Tansuğ](https://en.wikipedia.org/wiki/Sabiha_Tansu%C4%9F) | [Johanna-Hypatia](https://en.wikipedia.org/wiki/User:Johanna-Hypatia) | 11,251 |
-| 2026-11-23 22:49:10 | [Yuliia Oparivska](https://en.wikipedia.org/wiki/Yuliia_Oparivska) | [Замішанець](https://en.wikipedia.org/wiki/User:%D0%97%D0%B0%D0%BC%D1%96%D1%88%D0%B0%D0%BD%D0%B5%D1%86%D1%8C) | 8,230 |
-| 2026-11-23 22:50:52 | [Kentek](https://en.wikipedia.org/wiki/Kentek) | [21lima](https://en.wikipedia.org/wiki/User:21lima) | 1,183 |
-| 2026-11-23 22:51:10 | [Robert J. Smith III](https://en.wikipedia.org/wiki/Robert_J._Smith_III) | [Coinruning](https://en.wikipedia.org/wiki/User:Coinruning) | 2,952 |
-| 2026-11-23 22:53:44 | [2027 Porsche Supercup](https://en.wikipedia.org/wiki/2027_Porsche_Supercup) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,978 |
-| 2026-11-23 22:55:01 | [Liu family criminal group case](https://en.wikipedia.org/wiki/Liu_family_criminal_group_case) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 7,318 |
-| 2026-11-23 22:55:08 | [Ace Glass](https://en.wikipedia.org/wiki/Ace_Glass) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 7,579 |
-| 2026-11-23 22:55:51 | [Harub (town)](https://en.wikipedia.org/wiki/Harub_%28town%29) | [MOHAMMED0707](https://en.wikipedia.org/wiki/User:MOHAMMED0707) | 1,588 |
-| 2026-11-23 22:59:39 | [Riley Clemmons (studio album)](https://en.wikipedia.org/wiki/Riley_Clemmons_%28studio_album%29) | [Loveclubxo](https://en.wikipedia.org/wiki/User:Loveclubxo) | 8,981 |
-| 2026-11-23 23:00:19 | [Esther Jackson](https://en.wikipedia.org/wiki/Esther_Jackson) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 239 |
-| 2026-11-23 23:04:43 | [Franz Anton Palko](https://en.wikipedia.org/wiki/Franz_Anton_Palko) | [WQUlrich](https://en.wikipedia.org/wiki/User:WQUlrich) | 3,446 |
-| 2026-11-23 23:05:57 | [Tag Mendillo](https://en.wikipedia.org/wiki/Tag_Mendillo) | [Castef](https://en.wikipedia.org/wiki/User:Castef) | 1,224 |
-| 2026-11-23 23:08:15 | [Yotala Municipality](https://en.wikipedia.org/wiki/Yotala_Municipality) | [Carwil](https://en.wikipedia.org/wiki/User:Carwil) | 9,967 |
-| 2026-11-23 23:08:46 | [Ming family criminal group case](https://en.wikipedia.org/wiki/Ming_family_criminal_group_case) | [The Account 2](https://en.wikipedia.org/wiki/User:The_Account_2) | 13,234 |
-| 2026-11-23 23:14:01 | [Castalius (mythology)](https://en.wikipedia.org/wiki/Castalius_%28mythology%29) | [Markx121993](https://en.wikipedia.org/wiki/User:Markx121993) | 2,299 |
-| 2026-11-23 23:16:20 | [History of the semiconductor industry](https://en.wikipedia.org/wiki/History_of_the_semiconductor_industry) | [Ash.tahno](https://en.wikipedia.org/wiki/User:Ash.tahno) | 57,382 |
-| 2026-11-23 23:16:58 | [Craniofrontonasal dysplasia-Poland anomaly syndrome](https://en.wikipedia.org/wiki/Craniofrontonasal_dysplasia-Poland_anomaly_syndrome) | [Runabout5921](https://en.wikipedia.org/wiki/User:Runabout5921) | 1,136 |
+| 2026-11-23 23:23:41 | [Art Shegonee](https://en.wikipedia.org/wiki/Art_Shegonee) | [Nataliacgj](https://en.wikipedia.org/wiki/User:Nataliacgj) | 12,197 |
+| 2026-11-23 23:23:53 | [Odds Are (Movie)](https://en.wikipedia.org/wiki/Odds_Are_%28Movie%29) | [Castef](https://en.wikipedia.org/wiki/User:Castef) | 2,405 |
+| 2026-11-23 23:24:29 | [Kim Dawson](https://en.wikipedia.org/wiki/Kim_Dawson) | [AkaneNel](https://en.wikipedia.org/wiki/User:AkaneNel) | 12,730 |
+| 2026-11-23 23:29:27 | [Sorenson's Sabres](https://en.wikipedia.org/wiki/Sorenson%27s_Sabres) | [BOZ](https://en.wikipedia.org/wiki/User:BOZ) | 1,165 |
+| 2026-11-23 23:32:35 | [List of presidential trips made by Richard Nixon (1972)](https://en.wikipedia.org/wiki/List_of_presidential_trips_made_by_Richard_Nixon_%281972%29) | [Reschultzed](https://en.wikipedia.org/wiki/User:Reschultzed) | 18,455 |
+| 2026-11-23 23:35:21 | [BI-4394](https://en.wikipedia.org/wiki/BI-4394) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 2,366 |
+| 2026-11-23 23:37:00 | [Cranston Snord's Irregulars](https://en.wikipedia.org/wiki/Cranston_Snord%27s_Irregulars) | [BOZ](https://en.wikipedia.org/wiki/User:BOZ) | 1,185 |
+| 2026-11-23 23:37:04 | [1988–89 Torino Calcio season](https://en.wikipedia.org/wiki/1988%E2%80%9389_Torino_Calcio_season) | [SeñorFutbol95](https://en.wikipedia.org/wiki/User:Se%C3%B1orFutbol95) | 25,643 |
+| 2026-11-23 23:37:29 | [Povin'](https://en.wikipedia.org/wiki/Povin%27) | [Dem1997](https://en.wikipedia.org/wiki/User:Dem1997) | 6,381 |
+| 2026-11-23 23:43:41 | [Gray Death Legion](https://en.wikipedia.org/wiki/Gray_Death_Legion) | [BOZ](https://en.wikipedia.org/wiki/User:BOZ) | 1,206 |
+| 2026-11-23 23:47:56 | [I Believe in Yesterday](https://en.wikipedia.org/wiki/I_Believe_in_Yesterday) | [Hoary](https://en.wikipedia.org/wiki/User:Hoary) | 24,539 |
+| 2026-11-23 23:48:17 | [Giovanna Civitillo](https://en.wikipedia.org/wiki/Giovanna_Civitillo) | [Oh-Fortuna!](https://en.wikipedia.org/wiki/User:Oh-Fortuna%21) | 1,958 |
+| 2026-11-23 23:48:29 | [Royal Academy Exhibition of 1917](https://en.wikipedia.org/wiki/Royal_Academy_Exhibition_of_1917) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 3,817 |
+| 2026-11-23 23:48:36 | [Dvora Perahia](https://en.wikipedia.org/wiki/Dvora_Perahia) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 3,621 |
+| 2026-11-23 23:51:28 | [The Galtor Campaign](https://en.wikipedia.org/wiki/The_Galtor_Campaign) | [BOZ](https://en.wikipedia.org/wiki/User:BOZ) | 1,064 |
+| 2026-11-24 00:01:57 | [Symplocos glabra](https://en.wikipedia.org/wiki/Symplocos_glabra) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 5,323 |
+| 2026-11-24 00:02:07 | [2026–27 Yale Bulldogs men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Yale_Bulldogs_men%27s_basketball_team) | [RedSox39](https://en.wikipedia.org/wiki/User:RedSox39) | 19,934 |
+| 2026-11-24 00:04:09 | [2018–19 New Zealand Formula Ford Championship](https://en.wikipedia.org/wiki/2018%E2%80%9319_New_Zealand_Formula_Ford_Championship) | [SquirrelIAm](https://en.wikipedia.org/wiki/User:SquirrelIAm) | 23,043 |
+| 2026-11-24 00:12:06 | [The Beach at Walmer](https://en.wikipedia.org/wiki/The_Beach_at_Walmer) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,160 |
+| 2026-11-24 00:14:17 | [Cyclamen confusum](https://en.wikipedia.org/wiki/Cyclamen_confusum) | [Apprehensive-lab-285](https://en.wikipedia.org/wiki/User:Apprehensive-lab-285) | 1,083 |
+| 2026-11-24 00:16:09 | [Marek Tamm](https://en.wikipedia.org/wiki/Marek_Tamm) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 1,602 |
