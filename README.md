@@ -13,57 +13,53 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-24 20:18 UTC](data/en/new-articles-2026-11-24T20-18-46Z.csv) | 25 |
-| Japanese | `ja` | [2026-11-24 20:18 UTC](data/ja/new-articles-2026-11-24T20-18-46Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-24 20:18 UTC](data/zh/new-articles-2026-11-24T20-18-46Z.csv) | 5 |
-| French | `fr` | [2026-11-24 20:18 UTC](data/fr/new-articles-2026-11-24T20-18-46Z.csv) | 8 |
-| German | `de` | [2026-11-24 20:18 UTC](data/de/new-articles-2026-11-24T20-18-46Z.csv) | 13 |
-| Russian | `ru` | [2026-11-24 20:18 UTC](data/ru/new-articles-2026-11-24T20-18-46Z.csv) | 10 |
-| Spanish | `es` | [2026-11-24 20:18 UTC](data/es/new-articles-2026-11-24T20-18-46Z.csv) | 5 |
-| Italian | `it` | [2026-11-24 20:18 UTC](data/it/new-articles-2026-11-24T20-18-46Z.csv) | 8 |
-| Portuguese | `pt` | [2026-11-24 20:18 UTC](data/pt/new-articles-2026-11-24T20-18-46Z.csv) | 4 |
-| Polish | `pl` | [2026-11-24 20:18 UTC](data/pl/new-articles-2026-11-24T20-18-46Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-24 20:18 UTC](data/ar/new-articles-2026-11-24T20-18-46Z.csv) | 10 |
-| Persian | `fa` | [2026-11-24 20:18 UTC](data/fa/new-articles-2026-11-24T20-18-46Z.csv) | 4 |
-| Turkish | `tr` | [2026-11-24 20:18 UTC](data/tr/new-articles-2026-11-24T20-18-46Z.csv) | 2 |
-| Hebrew | `he` | [2026-11-24 20:18 UTC](data/he/new-articles-2026-11-24T20-18-46Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-24 20:18 UTC](data/sv/new-articles-2026-11-24T20-18-46Z.csv) | 5 |
-| Dutch | `nl` | [2026-11-24 20:18 UTC](data/nl/new-articles-2026-11-24T20-18-46Z.csv) | 7 |
-| Korean | `ko` | [2026-11-24 19:19 UTC](data/ko/new-articles-2026-11-24T19-19-53Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-24 20:18 UTC](data/id/new-articles-2026-11-24T20-18-46Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-24 20:18 UTC](data/uk/new-articles-2026-11-24T20-18-46Z.csv) | 12 |
+| English | `en` | [2026-11-24 21:21 UTC](data/en/new-articles-2026-11-24T21-21-41Z.csv) | 21 |
+| Japanese | `ja` | [2026-11-24 21:21 UTC](data/ja/new-articles-2026-11-24T21-21-41Z.csv) | 6 |
+| Chinese | `zh` | [2026-11-24 21:21 UTC](data/zh/new-articles-2026-11-24T21-21-41Z.csv) | 3 |
+| French | `fr` | [2026-11-24 21:21 UTC](data/fr/new-articles-2026-11-24T21-21-41Z.csv) | 8 |
+| German | `de` | [2026-11-24 21:21 UTC](data/de/new-articles-2026-11-24T21-21-41Z.csv) | 11 |
+| Russian | `ru` | [2026-11-24 21:21 UTC](data/ru/new-articles-2026-11-24T21-21-41Z.csv) | 9 |
+| Spanish | `es` | [2026-11-24 21:21 UTC](data/es/new-articles-2026-11-24T21-21-41Z.csv) | 14 |
+| Italian | `it` | [2026-11-24 21:21 UTC](data/it/new-articles-2026-11-24T21-21-41Z.csv) | 7 |
+| Portuguese | `pt` | [2026-11-24 21:21 UTC](data/pt/new-articles-2026-11-24T21-21-41Z.csv) | 12 |
+| Polish | `pl` | [2026-11-24 21:21 UTC](data/pl/new-articles-2026-11-24T21-21-41Z.csv) | 13 |
+| Arabic | `ar` | [2026-11-24 21:21 UTC](data/ar/new-articles-2026-11-24T21-21-41Z.csv) | 5 |
+| Persian | `fa` | [2026-11-24 21:21 UTC](data/fa/new-articles-2026-11-24T21-21-41Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-24 21:21 UTC](data/tr/new-articles-2026-11-24T21-21-41Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-24 21:21 UTC](data/he/new-articles-2026-11-24T21-21-41Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-24 21:21 UTC](data/sv/new-articles-2026-11-24T21-21-41Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-24 21:21 UTC](data/nl/new-articles-2026-11-24T21-21-41Z.csv) | 9 |
+| Korean | `ko` | [2026-11-24 21:21 UTC](data/ko/new-articles-2026-11-24T21-21-41Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-24 21:21 UTC](data/id/new-articles-2026-11-24T21-21-41Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-24 21:21 UTC](data/uk/new-articles-2026-11-24T21-21-41Z.csv) | 11 |
 | Vietnamese | `vi` | [2026-11-24 19:19 UTC](data/vi/new-articles-2026-11-24T19-19-53Z.csv) | 1 |
 
-## English (en) — 2026-11-24 20:18 UTC
+## English (en) — 2026-11-24 21:21 UTC
 
-New articles created between 2026-11-24 19:19 UTC and 2026-11-24 20:18 UTC.
+New articles created between 2026-11-24 20:18 UTC and 2026-11-24 21:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-24T20-18-46Z.csv)
+[Full CSV](data/en/new-articles-2026-11-24T21-21-41Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-24 19:25:14 | [Edmond Jouve](https://en.wikipedia.org/wiki/Edmond_Jouve) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 4,384 |
-| 2026-11-24 19:25:15 | [Fomo (app)](https://en.wikipedia.org/wiki/Fomo_%28app%29) | [Reson12](https://en.wikipedia.org/wiki/User:Reson12) | 4,152 |
-| 2026-11-24 19:26:06 | [Ban Don Ta Phet](https://en.wikipedia.org/wiki/Ban_Don_Ta_Phet) | [Callmehelper](https://en.wikipedia.org/wiki/User:Callmehelper) | 151 |
-| 2026-11-24 19:30:56 | [Icius yangambi](https://en.wikipedia.org/wiki/Icius_yangambi) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,098 |
-| 2026-11-24 19:33:07 | [Bradenton, florida](https://en.wikipedia.org/wiki/Bradenton%2C_florida) | [Skim127](https://en.wikipedia.org/wiki/User:Skim127) | 84 |
-| 2026-11-24 19:34:31 | [Finison family](https://en.wikipedia.org/wiki/Finison_family) | [Michael A. White](https://en.wikipedia.org/wiki/User:Michael_A._White) | 2,679 |
-| 2026-11-24 19:42:02 | [Icius similaris](https://en.wikipedia.org/wiki/Icius_similaris) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,158 |
-| 2026-11-24 19:46:48 | [Oceanit](https://en.wikipedia.org/wiki/Oceanit) | [Weegh](https://en.wikipedia.org/wiki/User:Weegh) | 4,576 |
-| 2026-11-24 19:50:22 | [Lego v. Twomey](https://en.wikipedia.org/wiki/Lego_v._Twomey) | [Mascius](https://en.wikipedia.org/wiki/User:Mascius) | 4,482 |
-| 2026-11-24 19:53:13 | [Italy and the Russo-Ukrainian war](https://en.wikipedia.org/wiki/Italy_and_the_Russo-Ukrainian_war) | [The Sergei](https://en.wikipedia.org/wiki/User:The_Sergei) | 25,356 |
-| 2026-11-24 19:53:25 | [Schenkelia modesta](https://en.wikipedia.org/wiki/Schenkelia_modesta) | [Simongraham](https://en.wikipedia.org/wiki/User:Simongraham) | 1,066 |
-| 2026-11-24 19:53:46 | [Ethel Bailey](https://en.wikipedia.org/wiki/Ethel_Bailey) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 323 |
-| 2026-11-24 19:53:49 | [2026–27 Central Connecticut Blue Devils men's basketball team](https://en.wikipedia.org/wiki/2026%E2%80%9327_Central_Connecticut_Blue_Devils_men%27s_basketball_team) | [RedSox39](https://en.wikipedia.org/wiki/User:RedSox39) | 20,562 |
-| 2026-11-24 19:55:54 | [Rob Monaco](https://en.wikipedia.org/wiki/Rob_Monaco) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 7,453 |
-| 2026-11-24 19:56:51 | [Peter Gower](https://en.wikipedia.org/wiki/Peter_Gower) | [雾海之上的漫游](https://en.wikipedia.org/wiki/User:%E9%9B%BE%E6%B5%B7%E4%B9%8B%E4%B8%8A%E7%9A%84%E6%BC%AB%E6%B8%B8) | 3,310 |
-| 2026-11-24 19:57:42 | [YUNG DSA](https://en.wikipedia.org/wiki/YUNG_DSA) | [Rakeshchavan999](https://en.wikipedia.org/wiki/User:Rakeshchavan999) | 5,217 |
-| 2026-11-24 20:01:27 | [2021 WPT Córdoba Open](https://en.wikipedia.org/wiki/2021_WPT_C%C3%B3rdoba_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 41,342 |
-| 2026-11-24 20:02:02 | [Andy Newman (musician)](https://en.wikipedia.org/wiki/Andy_Newman_%28musician%29) | [Wee Willie Mitchell](https://en.wikipedia.org/wiki/User:Wee_Willie_Mitchell) | 2,172 |
-| 2026-11-24 20:06:07 | [Ethel King](https://en.wikipedia.org/wiki/Ethel_King) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 211 |
-| 2026-11-24 20:09:22 | [Lophoproctus](https://en.wikipedia.org/wiki/Lophoproctus) | [TheUltimateGrass](https://en.wikipedia.org/wiki/User:TheUltimateGrass) | 4,143 |
-| 2026-11-24 20:09:32 | [Age of Athleisure](https://en.wikipedia.org/wiki/Age_of_Athleisure) | [DONTYOUEVERTURNMYPIZZAINSIDEOUT](https://en.wikipedia.org/wiki/User:DONTYOUEVERTURNMYPIZZAINSIDEOUT) | 1,664 |
-| 2026-11-24 20:12:22 | [ICS Paris](https://en.wikipedia.org/wiki/ICS_Paris) | [Wahalalala](https://en.wikipedia.org/wiki/User:Wahalalala) | 7,748 |
-| 2026-11-24 20:14:25 | [1985 Hampshire County Council election](https://en.wikipedia.org/wiki/1985_Hampshire_County_Council_election) | [B1ack H0l3](https://en.wikipedia.org/wiki/User:B1ack_H0l3) | 9,956 |
-| 2026-11-24 20:16:30 | [Asaduzzaman Fuaad](https://en.wikipedia.org/wiki/Asaduzzaman_Fuaad) | [Rossi101](https://en.wikipedia.org/wiki/User:Rossi101) | 783 |
-| 2026-11-24 20:17:12 | [List of school shootings by death toll](https://en.wikipedia.org/wiki/List_of_school_shootings_by_death_toll) | [BigBrownMonkey](https://en.wikipedia.org/wiki/User:BigBrownMonkey) | 1,806 |
+| 2026-11-24 20:20:15 | [Leonardo Mosso](https://en.wikipedia.org/wiki/Leonardo_Mosso) | [Murray Nozick](https://en.wikipedia.org/wiki/User:Murray_Nozick) | 9,682 |
+| 2026-11-24 20:21:42 | [Abreu Junior](https://en.wikipedia.org/wiki/Abreu_Junior) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,529 |
+| 2026-11-24 20:24:09 | [Moraea lugubris](https://en.wikipedia.org/wiki/Moraea_lugubris) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,579 |
+| 2026-11-24 20:24:51 | [Matheus Lima Macedo da Silva](https://en.wikipedia.org/wiki/Matheus_Lima_Macedo_da_Silva) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 8,119 |
+| 2026-11-24 20:25:14 | [2028 United States House of Representatives elections in South Carolina](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_South_Carolina) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 6,545 |
+| 2026-11-24 20:33:05 | [Moraea amabilis](https://en.wikipedia.org/wiki/Moraea_amabilis) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,186 |
+| 2026-11-24 20:33:25 | [Michel Dumas (chef)](https://en.wikipedia.org/wiki/Michel_Dumas_%28chef%29) | [Jmanlucas](https://en.wikipedia.org/wiki/User:Jmanlucas) | 4,266 |
+| 2026-11-24 20:37:15 | [Palmetto Florida](https://en.wikipedia.org/wiki/Palmetto_Florida) | [Skim127](https://en.wikipedia.org/wiki/User:Skim127) | 75 |
+| 2026-11-24 20:38:04 | [Wayne Hollowell](https://en.wikipedia.org/wiki/Wayne_Hollowell) | [Judicature](https://en.wikipedia.org/wiki/User:Judicature) | 9,459 |
+| 2026-11-24 20:43:09 | [Kanpur–Anand Vihar Terminal Express](https://en.wikipedia.org/wiki/Kanpur%E2%80%93Anand_Vihar_Terminal_Express) | [DAR.45m](https://en.wikipedia.org/wiki/User:DAR.45m) | 5,411 |
+| 2026-11-24 20:43:38 | [Moraea albicuspa](https://en.wikipedia.org/wiki/Moraea_albicuspa) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,095 |
+| 2026-11-24 20:46:11 | [Jetzen López](https://en.wikipedia.org/wiki/Jetzen_L%C3%B3pez) | [Das osmnezz](https://en.wikipedia.org/wiki/User:Das_osmnezz) | 4,712 |
+| 2026-11-24 20:48:52 | [Attack on Mohamed Yusuf](https://en.wikipedia.org/wiki/Attack_on_Mohamed_Yusuf) | [Yedaman54](https://en.wikipedia.org/wiki/User:Yedaman54) | 19,534 |
+| 2026-11-24 20:54:54 | [Symplocos hylandii](https://en.wikipedia.org/wiki/Symplocos_hylandii) | [Junglenut](https://en.wikipedia.org/wiki/User:Junglenut) | 4,818 |
+| 2026-11-24 20:57:23 | [Junedin Abdo](https://en.wikipedia.org/wiki/Junedin_Abdo) | [Fin.Seaman](https://en.wikipedia.org/wiki/User:Fin.Seaman) | 1,687 |
+| 2026-11-24 21:07:36 | [Findings (journal)](https://en.wikipedia.org/wiki/Findings_%28journal%29) | [PomonaPlannerd](https://en.wikipedia.org/wiki/User:PomonaPlannerd) | 3,521 |
+| 2026-11-24 21:11:18 | [Wu Yi (taikonaut)](https://en.wikipedia.org/wiki/Wu_Yi_%28taikonaut%29) | [Ultratweed](https://en.wikipedia.org/wiki/User:Ultratweed) | 1,007 |
+| 2026-11-24 21:11:20 | [26th AARP Movies for Grownups Awards](https://en.wikipedia.org/wiki/26th_AARP_Movies_for_Grownups_Awards) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 11,656 |
+| 2026-11-24 21:14:12 | [Kimberly Harmon](https://en.wikipedia.org/wiki/Kimberly_Harmon) | [Johnorchard](https://en.wikipedia.org/wiki/User:Johnorchard) | 14,805 |
+| 2026-11-24 21:20:29 | [Dārta Zunte](https://en.wikipedia.org/wiki/D%C4%81rta_Zunte) | [Fin.Seaman](https://en.wikipedia.org/wiki/User:Fin.Seaman) | 1,619 |
+| 2026-11-24 21:20:39 | [Matheus Felipe de Paulo Silva](https://en.wikipedia.org/wiki/Matheus_Felipe_de_Paulo_Silva) | [BrazilianDude70](https://en.wikipedia.org/wiki/User:BrazilianDude70) | 5,614 |
