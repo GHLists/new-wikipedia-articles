@@ -13,51 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-24 02:18 UTC](data/en/new-articles-2026-11-24T02-18-37Z.csv) | 19 |
-| Japanese | `ja` | [2026-11-24 02:18 UTC](data/ja/new-articles-2026-11-24T02-18-37Z.csv) | 5 |
-| Chinese | `zh` | [2026-11-24 02:18 UTC](data/zh/new-articles-2026-11-24T02-18-37Z.csv) | 2 |
-| French | `fr` | [2026-11-24 02:18 UTC](data/fr/new-articles-2026-11-24T02-18-37Z.csv) | 4 |
-| German | `de` | [2026-11-24 01:20 UTC](data/de/new-articles-2026-11-24T01-20-51Z.csv) | 5 |
-| Russian | `ru` | [2026-11-24 02:18 UTC](data/ru/new-articles-2026-11-24T02-18-37Z.csv) | 4 |
-| Spanish | `es` | [2026-11-24 02:18 UTC](data/es/new-articles-2026-11-24T02-18-37Z.csv) | 3 |
+| English | `en` | [2026-11-24 03:21 UTC](data/en/new-articles-2026-11-24T03-21-47Z.csv) | 14 |
+| Japanese | `ja` | [2026-11-24 03:21 UTC](data/ja/new-articles-2026-11-24T03-21-47Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-24 03:21 UTC](data/zh/new-articles-2026-11-24T03-21-47Z.csv) | 4 |
+| French | `fr` | [2026-11-24 03:21 UTC](data/fr/new-articles-2026-11-24T03-21-47Z.csv) | 1 |
+| German | `de` | [2026-11-24 03:21 UTC](data/de/new-articles-2026-11-24T03-21-47Z.csv) | 1 |
+| Russian | `ru` | [2026-11-24 03:21 UTC](data/ru/new-articles-2026-11-24T03-21-47Z.csv) | 5 |
+| Spanish | `es` | [2026-11-24 03:21 UTC](data/es/new-articles-2026-11-24T03-21-47Z.csv) | 3 |
 | Italian | `it` | [2026-11-24 02:18 UTC](data/it/new-articles-2026-11-24T02-18-37Z.csv) | 1 |
-| Portuguese | `pt` | [2026-11-24 02:18 UTC](data/pt/new-articles-2026-11-24T02-18-37Z.csv) | 6 |
+| Portuguese | `pt` | [2026-11-24 03:21 UTC](data/pt/new-articles-2026-11-24T03-21-47Z.csv) | 4 |
 | Polish | `pl` | [2026-11-24 02:18 UTC](data/pl/new-articles-2026-11-24T02-18-37Z.csv) | 6 |
-| Arabic | `ar` | [2026-11-24 02:18 UTC](data/ar/new-articles-2026-11-24T02-18-37Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-24 03:21 UTC](data/ar/new-articles-2026-11-24T03-21-47Z.csv) | 1 |
 | Persian | `fa` | [2026-11-24 02:18 UTC](data/fa/new-articles-2026-11-24T02-18-37Z.csv) | 1 |
 | Turkish | `tr` | [2026-11-24 02:18 UTC](data/tr/new-articles-2026-11-24T02-18-37Z.csv) | 2 |
 | Hebrew | `he` | [2026-11-24 01:20 UTC](data/he/new-articles-2026-11-24T01-20-51Z.csv) | 1 |
-| Swedish | `sv` | [2026-11-24 02:18 UTC](data/sv/new-articles-2026-11-24T02-18-37Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-24 03:21 UTC](data/sv/new-articles-2026-11-24T03-21-47Z.csv) | 2 |
 | Dutch | `nl` | [2026-11-24 02:18 UTC](data/nl/new-articles-2026-11-24T02-18-37Z.csv) | 1 |
-| Korean | `ko` | [2026-11-24 01:20 UTC](data/ko/new-articles-2026-11-24T01-20-51Z.csv) | 3 |
-| Indonesian | `id` | [2026-11-24 02:18 UTC](data/id/new-articles-2026-11-24T02-18-37Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-24 02:18 UTC](data/uk/new-articles-2026-11-24T02-18-37Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-24 02:18 UTC](data/vi/new-articles-2026-11-24T02-18-37Z.csv) | 2 |
+| Korean | `ko` | [2026-11-24 03:21 UTC](data/ko/new-articles-2026-11-24T03-21-47Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-24 03:21 UTC](data/id/new-articles-2026-11-24T03-21-47Z.csv) | 9 |
+| Ukrainian | `uk` | [2026-11-24 03:21 UTC](data/uk/new-articles-2026-11-24T03-21-47Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-24 03:21 UTC](data/vi/new-articles-2026-11-24T03-21-47Z.csv) | 2 |
 
-## English (en) — 2026-11-24 02:18 UTC
+## English (en) — 2026-11-24 03:21 UTC
 
-New articles created between 2026-11-24 01:20 UTC and 2026-11-24 02:18 UTC.
+New articles created between 2026-11-24 02:18 UTC and 2026-11-24 03:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-24T02-18-37Z.csv)
+[Full CSV](data/en/new-articles-2026-11-24T03-21-47Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-24 01:21:40 | [Lasioglossum baudini](https://en.wikipedia.org/wiki/Lasioglossum_baudini) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,646 |
-| 2026-11-24 01:27:18 | [Bakhyt](https://en.wikipedia.org/wiki/Bakhyt) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 313 |
-| 2026-11-24 01:27:29 | [Palaeoarmadillo](https://en.wikipedia.org/wiki/Palaeoarmadillo) | [MarrissaM](https://en.wikipedia.org/wiki/User:MarrissaM) | 2,764 |
-| 2026-11-24 01:30:23 | [Kenjeev](https://en.wikipedia.org/wiki/Kenjeev) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 166 |
-| 2026-11-24 01:30:35 | [Caulfield Primary School](https://en.wikipedia.org/wiki/Caulfield_Primary_School) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 10,384 |
-| 2026-11-24 01:35:06 | [2027 Adelaide Football Club season](https://en.wikipedia.org/wiki/2027_Adelaide_Football_Club_season) | [Sanast05](https://en.wikipedia.org/wiki/User:Sanast05) | 26,859 |
-| 2026-11-24 01:36:25 | [Friends of the animals shelter Tipton IA](https://en.wikipedia.org/wiki/Friends_of_the_animals_shelter_Tipton_IA) | [Kibl890](https://en.wikipedia.org/wiki/User:Kibl890) | 3,083 |
-| 2026-11-24 01:36:46 | [Ceiba College Preparatory Academy](https://en.wikipedia.org/wiki/Ceiba_College_Preparatory_Academy) | [Brenthinking](https://en.wikipedia.org/wiki/User:Brenthinking) | 7,243 |
-| 2026-11-24 01:47:59 | [Shaun Baker (actor)](https://en.wikipedia.org/wiki/Shaun_Baker_%28actor%29) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 4,603 |
-| 2026-11-24 01:51:39 | [Trevor Ozawa](https://en.wikipedia.org/wiki/Trevor_Ozawa) | [Osevilla](https://en.wikipedia.org/wiki/User:Osevilla) | 12,594 |
-| 2026-11-24 01:52:37 | [The Impact of the May Fourth Movement on the Roles of Women in Chinese Society](https://en.wikipedia.org/wiki/The_Impact_of_the_May_Fourth_Movement_on_the_Roles_of_Women_in_Chinese_Society) | [JanJanthemystery](https://en.wikipedia.org/wiki/User:JanJanthemystery) | 17,438 |
-| 2026-11-24 01:56:16 | [Eloise and Adley](https://en.wikipedia.org/wiki/Eloise_and_Adley) | [Low-gee7212014](https://en.wikipedia.org/wiki/User:Low-gee7212014) | 928 |
-| 2026-11-24 01:58:14 | [Synarmadillo](https://en.wikipedia.org/wiki/Synarmadillo) | [MarrissaM](https://en.wikipedia.org/wiki/User:MarrissaM) | 3,435 |
-| 2026-11-24 02:02:59 | [Stephen Conforti](https://en.wikipedia.org/wiki/Stephen_Conforti) | [WildComet](https://en.wikipedia.org/wiki/User:WildComet) | 5,509 |
-| 2026-11-24 02:05:37 | [Cornell Thomas](https://en.wikipedia.org/wiki/Cornell_Thomas) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,115 |
-| 2026-11-24 02:08:56 | [Hellcat (2025 film)](https://en.wikipedia.org/wiki/Hellcat_%282025_film%29) | [Null morpheme](https://en.wikipedia.org/wiki/User:Null_morpheme) | 4,268 |
-| 2026-11-24 02:15:57 | [Thanksgiving address](https://en.wikipedia.org/wiki/Thanksgiving_address) | [Yuchitown](https://en.wikipedia.org/wiki/User:Yuchitown) | 4,475 |
-| 2026-11-24 02:17:16 | [Sermo angelicus](https://en.wikipedia.org/wiki/Sermo_angelicus) | [Terot](https://en.wikipedia.org/wiki/User:Terot) | 2,085 |
-| 2026-11-24 02:18:33 | [Gu Yuan (artist)](https://en.wikipedia.org/wiki/Gu_Yuan_%28artist%29) | [JArthur1984](https://en.wikipedia.org/wiki/User:JArthur1984) | 2,467 |
+| 2026-11-24 02:23:33 | [Collateral Romance](https://en.wikipedia.org/wiki/Collateral_Romance) | [Aidillia](https://en.wikipedia.org/wiki/User:Aidillia) | 5,136 |
+| 2026-11-24 02:34:57 | [AT-S](https://en.wikipedia.org/wiki/AT-S) | [Somerset999](https://en.wikipedia.org/wiki/User:Somerset999) | 6,976 |
+| 2026-11-24 02:36:56 | [Muhammad Zeeshan Ali](https://en.wikipedia.org/wiki/Muhammad_Zeeshan_Ali) | [Anxious Existence](https://en.wikipedia.org/wiki/User:Anxious_Existence) | 1,365 |
+| 2026-11-24 02:46:48 | [Thomas H. O'Keefe](https://en.wikipedia.org/wiki/Thomas_H._O%27Keefe) | [Penale52](https://en.wikipedia.org/wiki/User:Penale52) | 4,962 |
+| 2026-11-24 02:50:40 | [Soulful Journey](https://en.wikipedia.org/wiki/Soulful_Journey) | [Odettetellsastory](https://en.wikipedia.org/wiki/User:Odettetellsastory) | 14,002 |
+| 2026-11-24 02:55:15 | [Berkun Oya](https://en.wikipedia.org/wiki/Berkun_Oya) | [Keivan.f](https://en.wikipedia.org/wiki/User:Keivan.f) | 10,297 |
+| 2026-11-24 03:01:13 | [List of members of the Election Committee of Hong Kong, 2027–2032](https://en.wikipedia.org/wiki/List_of_members_of_the_Election_Committee_of_Hong_Kong%2C_2027%E2%80%932032) | [Seewhyso](https://en.wikipedia.org/wiki/User:Seewhyso) | 32,720 |
+| 2026-11-24 03:03:33 | [Kaali Kheti](https://en.wikipedia.org/wiki/Kaali_Kheti) | [Capitals00](https://en.wikipedia.org/wiki/User:Capitals00) | 1,265 |
+| 2026-11-24 03:05:02 | [Paekkumsan](https://en.wikipedia.org/wiki/Paekkumsan) | [Degasrobloxian](https://en.wikipedia.org/wiki/User:Degasrobloxian) | 1,226 |
+| 2026-11-24 03:11:10 | [Teresa Buczacki](https://en.wikipedia.org/wiki/Teresa_Buczacki) | [Acelalover](https://en.wikipedia.org/wiki/User:Acelalover) | 3,083 |
+| 2026-11-24 03:12:50 | [Twopence Coloured](https://en.wikipedia.org/wiki/Twopence_Coloured) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,678 |
+| 2026-11-24 03:15:21 | [Portuguese Language and Culture Day](https://en.wikipedia.org/wiki/Portuguese_Language_and_Culture_Day) | [Vietic2](https://en.wikipedia.org/wiki/User:Vietic2) | 2,928 |
+| 2026-11-24 03:17:50 | [Innocent of Maronea](https://en.wikipedia.org/wiki/Innocent_of_Maronea) | [Srnec](https://en.wikipedia.org/wiki/User:Srnec) | 1,708 |
+| 2026-11-24 03:19:34 | [Johanna Wilcox](https://en.wikipedia.org/wiki/Johanna_Wilcox) | [Osevilla](https://en.wikipedia.org/wiki/User:Osevilla) | 8,294 |
