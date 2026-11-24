@@ -13,42 +13,38 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-24 11:20 UTC](data/en/new-articles-2026-11-24T11-20-46Z.csv) | 10 |
-| Japanese | `ja` | [2026-11-24 11:20 UTC](data/ja/new-articles-2026-11-24T11-20-46Z.csv) | 16 |
-| Chinese | `zh` | [2026-11-24 11:20 UTC](data/zh/new-articles-2026-11-24T11-20-46Z.csv) | 3 |
-| French | `fr` | [2026-11-24 11:20 UTC](data/fr/new-articles-2026-11-24T11-20-46Z.csv) | 8 |
-| German | `de` | [2026-11-24 11:20 UTC](data/de/new-articles-2026-11-24T11-20-46Z.csv) | 4 |
-| Russian | `ru` | [2026-11-24 11:20 UTC](data/ru/new-articles-2026-11-24T11-20-46Z.csv) | 14 |
-| Spanish | `es` | [2026-11-24 11:20 UTC](data/es/new-articles-2026-11-24T11-20-46Z.csv) | 7 |
-| Italian | `it` | [2026-11-24 11:20 UTC](data/it/new-articles-2026-11-24T11-20-46Z.csv) | 8 |
-| Portuguese | `pt` | [2026-11-24 11:20 UTC](data/pt/new-articles-2026-11-24T11-20-46Z.csv) | 4 |
-| Polish | `pl` | [2026-11-24 11:20 UTC](data/pl/new-articles-2026-11-24T11-20-46Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-24 11:20 UTC](data/ar/new-articles-2026-11-24T11-20-46Z.csv) | 4 |
-| Persian | `fa` | [2026-11-24 11:20 UTC](data/fa/new-articles-2026-11-24T11-20-46Z.csv) | 1 |
-| Turkish | `tr` | [2026-11-24 11:20 UTC](data/tr/new-articles-2026-11-24T11-20-46Z.csv) | 10 |
-| Hebrew | `he` | [2026-11-24 11:20 UTC](data/he/new-articles-2026-11-24T11-20-46Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-24 11:20 UTC](data/sv/new-articles-2026-11-24T11-20-46Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-24 11:20 UTC](data/nl/new-articles-2026-11-24T11-20-46Z.csv) | 3 |
-| Korean | `ko` | [2026-11-24 11:20 UTC](data/ko/new-articles-2026-11-24T11-20-46Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-24 11:20 UTC](data/id/new-articles-2026-11-24T11-20-46Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-24 11:20 UTC](data/uk/new-articles-2026-11-24T11-20-46Z.csv) | 6 |
-| Vietnamese | `vi` | [2026-11-24 11:20 UTC](data/vi/new-articles-2026-11-24T11-20-46Z.csv) | 1 |
+| English | `en` | [2026-11-24 12:19 UTC](data/en/new-articles-2026-11-24T12-19-46Z.csv) | 6 |
+| Japanese | `ja` | [2026-11-24 12:19 UTC](data/ja/new-articles-2026-11-24T12-19-46Z.csv) | 20 |
+| Chinese | `zh` | [2026-11-24 12:19 UTC](data/zh/new-articles-2026-11-24T12-19-46Z.csv) | 8 |
+| French | `fr` | [2026-11-24 12:19 UTC](data/fr/new-articles-2026-11-24T12-19-46Z.csv) | 9 |
+| German | `de` | [2026-11-24 12:19 UTC](data/de/new-articles-2026-11-24T12-19-46Z.csv) | 14 |
+| Russian | `ru` | [2026-11-24 12:19 UTC](data/ru/new-articles-2026-11-24T12-19-46Z.csv) | 14 |
+| Spanish | `es` | [2026-11-24 12:19 UTC](data/es/new-articles-2026-11-24T12-19-46Z.csv) | 16 |
+| Italian | `it` | [2026-11-24 12:19 UTC](data/it/new-articles-2026-11-24T12-19-46Z.csv) | 7 |
+| Portuguese | `pt` | [2026-11-24 12:19 UTC](data/pt/new-articles-2026-11-24T12-19-46Z.csv) | 2 |
+| Polish | `pl` | [2026-11-24 12:19 UTC](data/pl/new-articles-2026-11-24T12-19-46Z.csv) | 5 |
+| Arabic | `ar` | [2026-11-24 12:19 UTC](data/ar/new-articles-2026-11-24T12-19-46Z.csv) | 5 |
+| Persian | `fa` | [2026-11-24 12:19 UTC](data/fa/new-articles-2026-11-24T12-19-46Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-24 12:19 UTC](data/tr/new-articles-2026-11-24T12-19-46Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-24 12:19 UTC](data/he/new-articles-2026-11-24T12-19-46Z.csv) | 14 |
+| Swedish | `sv` | [2026-11-24 12:19 UTC](data/sv/new-articles-2026-11-24T12-19-46Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-24 12:19 UTC](data/nl/new-articles-2026-11-24T12-19-46Z.csv) | 7 |
+| Korean | `ko` | [2026-11-24 12:19 UTC](data/ko/new-articles-2026-11-24T12-19-46Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-24 12:19 UTC](data/id/new-articles-2026-11-24T12-19-46Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-24 12:19 UTC](data/uk/new-articles-2026-11-24T12-19-46Z.csv) | 7 |
+| Vietnamese | `vi` | [2026-11-24 12:19 UTC](data/vi/new-articles-2026-11-24T12-19-46Z.csv) | 2 |
 
-## English (en) — 2026-11-24 11:20 UTC
+## English (en) — 2026-11-24 12:19 UTC
 
-New articles created between 2026-11-24 10:20 UTC and 2026-11-24 11:20 UTC.
+New articles created between 2026-11-24 11:20 UTC and 2026-11-24 12:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-24T11-20-46Z.csv)
+[Full CSV](data/en/new-articles-2026-11-24T12-19-46Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-24 10:21:02 | [Alysicarpus pubescens](https://en.wikipedia.org/wiki/Alysicarpus_pubescens) | [Shyamal](https://en.wikipedia.org/wiki/User:Shyamal) | 1,492 |
-| 2026-11-24 10:22:04 | [Sarp Shiksha Abhiyan](https://en.wikipedia.org/wiki/Sarp_Shiksha_Abhiyan) | [Arunlovy](https://en.wikipedia.org/wiki/User:Arunlovy) | 2,335 |
-| 2026-11-24 10:25:57 | [Nigam Bomzan](https://en.wikipedia.org/wiki/Nigam_Bomzan) | [Smhcrec9](https://en.wikipedia.org/wiki/User:Smhcrec9) | 4,329 |
-| 2026-11-24 10:44:28 | [Liang Yuxin](https://en.wikipedia.org/wiki/Liang_Yuxin) | [Fin.Seaman](https://en.wikipedia.org/wiki/User:Fin.Seaman) | 1,921 |
-| 2026-11-24 10:52:29 | [42nd Infantry Regiment (South Vietnam)](https://en.wikipedia.org/wiki/42nd_Infantry_Regiment_%28South_Vietnam%29) | [Leemyongpak](https://en.wikipedia.org/wiki/User:Leemyongpak) | 5,474 |
-| 2026-11-24 11:05:02 | [Yevgeny Savvin](https://en.wikipedia.org/wiki/Yevgeny_Savvin) | [Rakoon](https://en.wikipedia.org/wiki/User:Rakoon) | 6,367 |
-| 2026-11-24 11:09:13 | [Empirical Ethics](https://en.wikipedia.org/wiki/Empirical_Ethics) | [Victorialland](https://en.wikipedia.org/wiki/User:Victorialland) | 6,317 |
-| 2026-11-24 11:10:43 | [Republic (pressure group)/temp](https://en.wikipedia.org/wiki/Republic_%28pressure_group%29/temp) | [Graham87](https://en.wikipedia.org/wiki/User:Graham87) | 39 |
-| 2026-11-24 11:15:37 | [Aurore Selormey](https://en.wikipedia.org/wiki/Aurore_Selormey) | [Pambelle12](https://en.wikipedia.org/wiki/User:Pambelle12) | 3,540 |
-| 2026-11-24 11:20:36 | [Nicolaus odonis](https://en.wikipedia.org/wiki/Nicolaus_odonis) | [Andreamanx](https://en.wikipedia.org/wiki/User:Andreamanx) | 615 |
+| 2026-11-24 11:23:30 | [2027–2028 Massachusetts legislature](https://en.wikipedia.org/wiki/2027%E2%80%932028_Massachusetts_legislature) | [M2545](https://en.wikipedia.org/wiki/User:M2545) | 1,340 |
+| 2026-11-24 11:38:46 | [2018 National Premier Leagues Tasmania](https://en.wikipedia.org/wiki/2018_National_Premier_Leagues_Tasmania) | [Richo7](https://en.wikipedia.org/wiki/User:Richo7) | 24,498 |
+| 2026-11-24 11:49:11 | [Richard D. De Veaux](https://en.wikipedia.org/wiki/Richard_D._De_Veaux) | [Geeteeaaa](https://en.wikipedia.org/wiki/User:Geeteeaaa) | 14,593 |
+| 2026-11-24 11:50:35 | [Listed buildings in Huntington, North Yorkshire](https://en.wikipedia.org/wiki/Listed_buildings_in_Huntington%2C_North_Yorkshire) | [Peter I. Vardy](https://en.wikipedia.org/wiki/User:Peter_I._Vardy) | 12,928 |
+| 2026-11-24 11:59:42 | [Villa Achterwerk](https://en.wikipedia.org/wiki/Villa_Achterwerk) | [RandomMe98](https://en.wikipedia.org/wiki/User:RandomMe98) | 3,946 |
+| 2026-11-24 12:14:35 | [K. Durga Prasad](https://en.wikipedia.org/wiki/K._Durga_Prasad) | [Samanwoy](https://en.wikipedia.org/wiki/User:Samanwoy) | 614 |
