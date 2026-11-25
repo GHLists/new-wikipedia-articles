@@ -13,49 +13,46 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-25 03:19 UTC](data/en/new-articles-2026-11-25T03-19-07Z.csv) | 17 |
-| Japanese | `ja` | [2026-11-25 03:19 UTC](data/ja/new-articles-2026-11-25T03-19-07Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-25 03:19 UTC](data/zh/new-articles-2026-11-25T03-19-07Z.csv) | 3 |
-| French | `fr` | [2026-11-25 03:19 UTC](data/fr/new-articles-2026-11-25T03-19-07Z.csv) | 1 |
-| German | `de` | [2026-11-25 03:19 UTC](data/de/new-articles-2026-11-25T03-19-07Z.csv) | 2 |
-| Russian | `ru` | [2026-11-25 03:19 UTC](data/ru/new-articles-2026-11-25T03-19-07Z.csv) | 1 |
-| Spanish | `es` | [2026-11-25 03:19 UTC](data/es/new-articles-2026-11-25T03-19-07Z.csv) | 3 |
-| Italian | `it` | [2026-11-25 03:19 UTC](data/it/new-articles-2026-11-25T03-19-07Z.csv) | 1 |
-| Portuguese | `pt` | [2026-11-25 03:19 UTC](data/pt/new-articles-2026-11-25T03-19-07Z.csv) | 8 |
-| Polish | `pl` | [2026-11-25 03:19 UTC](data/pl/new-articles-2026-11-25T03-19-07Z.csv) | 2 |
-| Arabic | `ar` | [2026-11-25 03:19 UTC](data/ar/new-articles-2026-11-25T03-19-07Z.csv) | 3 |
+| English | `en` | [2026-11-25 04:21 UTC](data/en/new-articles-2026-11-25T04-21-35Z.csv) | 14 |
+| Japanese | `ja` | [2026-11-25 04:21 UTC](data/ja/new-articles-2026-11-25T04-21-35Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-25 04:21 UTC](data/zh/new-articles-2026-11-25T04-21-35Z.csv) | 5 |
+| French | `fr` | [2026-11-25 04:21 UTC](data/fr/new-articles-2026-11-25T04-21-35Z.csv) | 3 |
+| German | `de` | [2026-11-25 04:21 UTC](data/de/new-articles-2026-11-25T04-21-35Z.csv) | 2 |
+| Russian | `ru` | [2026-11-25 04:21 UTC](data/ru/new-articles-2026-11-25T04-21-35Z.csv) | 2 |
+| Spanish | `es` | [2026-11-25 04:21 UTC](data/es/new-articles-2026-11-25T04-21-35Z.csv) | 5 |
+| Italian | `it` | [2026-11-25 04:21 UTC](data/it/new-articles-2026-11-25T04-21-35Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-25 04:21 UTC](data/pt/new-articles-2026-11-25T04-21-35Z.csv) | 2 |
+| Polish | `pl` | [2026-11-25 04:21 UTC](data/pl/new-articles-2026-11-25T04-21-35Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-25 04:21 UTC](data/ar/new-articles-2026-11-25T04-21-35Z.csv) | 1 |
 | Persian | `fa` | [2026-11-25 01:20 UTC](data/fa/new-articles-2026-11-25T01-20-52Z.csv) | 3 |
 | Turkish | `tr` | [2026-11-25 03:19 UTC](data/tr/new-articles-2026-11-25T03-19-07Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-25 02:19 UTC](data/he/new-articles-2026-11-25T02-19-38Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-25 00:21 UTC](data/sv/new-articles-2026-11-25T00-21-51Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-24 23:21 UTC](data/nl/new-articles-2026-11-24T23-21-36Z.csv) | 2 |
-| Korean | `ko` | [2026-11-25 03:19 UTC](data/ko/new-articles-2026-11-25T03-19-07Z.csv) | 6 |
-| Indonesian | `id` | [2026-11-25 03:19 UTC](data/id/new-articles-2026-11-25T03-19-07Z.csv) | 6 |
-| Ukrainian | `uk` | [2026-11-25 03:19 UTC](data/uk/new-articles-2026-11-25T03-19-07Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-25 04:21 UTC](data/nl/new-articles-2026-11-25T04-21-35Z.csv) | 1 |
+| Korean | `ko` | [2026-11-25 04:21 UTC](data/ko/new-articles-2026-11-25T04-21-35Z.csv) | 6 |
+| Indonesian | `id` | [2026-11-25 04:21 UTC](data/id/new-articles-2026-11-25T04-21-35Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-25 04:21 UTC](data/uk/new-articles-2026-11-25T04-21-35Z.csv) | 9 |
 | Vietnamese | `vi` | [2026-11-25 03:19 UTC](data/vi/new-articles-2026-11-25T03-19-07Z.csv) | 3 |
 
-## English (en) — 2026-11-25 03:19 UTC
+## English (en) — 2026-11-25 04:21 UTC
 
-New articles created between 2026-11-25 02:19 UTC and 2026-11-25 03:19 UTC.
+New articles created between 2026-11-25 03:19 UTC and 2026-11-25 04:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-25T03-19-07Z.csv)
+[Full CSV](data/en/new-articles-2026-11-25T04-21-35Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-25 02:20:40 | [Xiwang station](https://en.wikipedia.org/wiki/Xiwang_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 3,730 |
-| 2026-11-25 02:22:57 | [Gangapur City Municipal Council](https://en.wikipedia.org/wiki/Gangapur_City_Municipal_Council) | [2026siddarth](https://en.wikipedia.org/wiki/User:2026siddarth) | 1,188 |
-| 2026-11-25 02:27:31 | [Guilherme Almor de Alpoim Calvão](https://en.wikipedia.org/wiki/Guilherme_Almor_de_Alpoim_Calv%C3%A3o) | [V.B.Speranza](https://en.wikipedia.org/wiki/User:V.B.Speranza) | 28,383 |
-| 2026-11-25 02:32:24 | [Galathowenia](https://en.wikipedia.org/wiki/Galathowenia) | [BlaqWiedow](https://en.wikipedia.org/wiki/User:BlaqWiedow) | 2,334 |
-| 2026-11-25 02:32:28 | [1966 South Dakota State Jackrabbits football team](https://en.wikipedia.org/wiki/1966_South_Dakota_State_Jackrabbits_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 7,290 |
-| 2026-11-25 02:33:20 | [Shiguangjie station](https://en.wikipedia.org/wiki/Shiguangjie_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 3,887 |
-| 2026-11-25 02:33:50 | [History of the American Church in North America](https://en.wikipedia.org/wiki/History_of_the_American_Church_in_North_America) | [Dclemens1971](https://en.wikipedia.org/wiki/User:Dclemens1971) | 115,499 |
-| 2026-11-25 02:34:49 | [William I de Vaux of Penteney](https://en.wikipedia.org/wiki/William_I_de_Vaux_of_Penteney) | [Newm30](https://en.wikipedia.org/wiki/User:Newm30) | 2,300 |
-| 2026-11-25 02:38:38 | [Ranjit Singh of Bagli](https://en.wikipedia.org/wiki/Ranjit_Singh_of_Bagli) | [WikiWhizKid1999](https://en.wikipedia.org/wiki/User:WikiWhizKid1999) | 6,126 |
-| 2026-11-25 02:40:58 | [Jack Campbell (offensive lineman)](https://en.wikipedia.org/wiki/Jack_Campbell_%28offensive_lineman%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 9,027 |
-| 2026-11-25 02:46:36 | [Christelite](https://en.wikipedia.org/wiki/Christelite) | [FajreroCintilo](https://en.wikipedia.org/wiki/User:FajreroCintilo) | 1,947 |
-| 2026-11-25 02:52:50 | [Maria Dońska](https://en.wikipedia.org/wiki/Maria_Do%C5%84ska) | [RabidTuberculosis](https://en.wikipedia.org/wiki/User:RabidTuberculosis) | 11,808 |
-| 2026-11-25 02:58:53 | [Changchengqiao station](https://en.wikipedia.org/wiki/Changchengqiao_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 4,285 |
-| 2026-11-25 02:59:40 | [Fazemos](https://en.wikipedia.org/wiki/Fazemos) | [V.B.Speranza](https://en.wikipedia.org/wiki/User:V.B.Speranza) | 13,475 |
-| 2026-11-25 03:05:44 | [1967 South Dakota State Jackrabbits football team](https://en.wikipedia.org/wiki/1967_South_Dakota_State_Jackrabbits_football_team) | [Patriarca12](https://en.wikipedia.org/wiki/User:Patriarca12) | 7,178 |
-| 2026-11-25 03:07:08 | [Luz Elena González Escobar](https://en.wikipedia.org/wiki/Luz_Elena_Gonz%C3%A1lez_Escobar) | [Tbhotch](https://en.wikipedia.org/wiki/User:Tbhotch) | 1,713 |
-| 2026-11-25 03:13:15 | [Ceremonya (Catholic musical group)](https://en.wikipedia.org/wiki/Ceremonya_%28Catholic_musical_group%29) | [1977Brazilian](https://en.wikipedia.org/wiki/User:1977Brazilian) | 9,152 |
+| 2026-11-25 03:23:11 | [Live from The Great Divide](https://en.wikipedia.org/wiki/Live_from_The_Great_Divide) | [Sheahunter1](https://en.wikipedia.org/wiki/User:Sheahunter1) | 6,025 |
+| 2026-11-25 03:33:45 | [Steve watts](https://en.wikipedia.org/wiki/Steve_watts) | [ChrisRebb](https://en.wikipedia.org/wiki/User:ChrisRebb) | 5,197 |
+| 2026-11-25 03:36:07 | [2028 United States House of Representatives elections in Alabama](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Alabama) | [Yoblyblob](https://en.wikipedia.org/wiki/User:Yoblyblob) | 6,563 |
+| 2026-11-25 03:36:37 | [Ngan mayla](https://en.wikipedia.org/wiki/Ngan_mayla) | [NShehan](https://en.wikipedia.org/wiki/User:NShehan) | 1,284 |
+| 2026-11-25 03:39:00 | [Hepingyiyuan station](https://en.wikipedia.org/wiki/Hepingyiyuan_station) | [Xwhitec](https://en.wikipedia.org/wiki/User:Xwhitec) | 5,586 |
+| 2026-11-25 03:39:13 | [Glenfern (house)](https://en.wikipedia.org/wiki/Glenfern_%28house%29) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 12,154 |
+| 2026-11-25 03:40:30 | [Lukkus-kaxa](https://en.wikipedia.org/wiki/Lukkus-kaxa) | [Heeheemalu](https://en.wikipedia.org/wiki/User:Heeheemalu) | 4,574 |
+| 2026-11-25 03:42:23 | [Peace.Love.Rindu](https://en.wikipedia.org/wiki/Peace.Love.Rindu) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 4,207 |
+| 2026-11-25 03:57:10 | [Mississippi Half-Step Uptown Toodeloo](https://en.wikipedia.org/wiki/Mississippi_Half-Step_Uptown_Toodeloo) | [Newtatoryd222](https://en.wikipedia.org/wiki/User:Newtatoryd222) | 6,400 |
+| 2026-11-25 03:57:48 | [Marcel Castonguay](https://en.wikipedia.org/wiki/Marcel_Castonguay) | [Rscott187](https://en.wikipedia.org/wiki/User:Rscott187) | 4,887 |
+| 2026-11-25 04:04:46 | [Melissa Núñez](https://en.wikipedia.org/wiki/Melissa_N%C3%BA%C3%B1ez) | [Rc ramz](https://en.wikipedia.org/wiki/User:Rc_ramz) | 3,787 |
+| 2026-11-25 04:06:20 | [2026–27 Hamilton Havoc season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Hamilton_Havoc_season) | [Mark Staffieri](https://en.wikipedia.org/wiki/User:Mark_Staffieri) | 1,034 |
+| 2026-11-25 04:12:45 | [3rd Brazilian Music Awards](https://en.wikipedia.org/wiki/3rd_Brazilian_Music_Awards) | [Rangel's Version](https://en.wikipedia.org/wiki/User:Rangel%27s_Version) | 14,196 |
+| 2026-11-25 04:14:43 | [1996 All-Mid-American Conference football team](https://en.wikipedia.org/wiki/1996_All-Mid-American_Conference_football_team) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 5,116 |
