@@ -13,61 +13,60 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-25 18:20 UTC](data/en/new-articles-2026-11-25T18-20-54Z.csv) | 29 |
-| Japanese | `ja` | [2026-11-25 18:20 UTC](data/ja/new-articles-2026-11-25T18-20-54Z.csv) | 2 |
-| Chinese | `zh` | [2026-11-25 18:20 UTC](data/zh/new-articles-2026-11-25T18-20-54Z.csv) | 7 |
-| French | `fr` | [2026-11-25 18:20 UTC](data/fr/new-articles-2026-11-25T18-20-54Z.csv) | 10 |
-| German | `de` | [2026-11-25 18:20 UTC](data/de/new-articles-2026-11-25T18-20-54Z.csv) | 20 |
-| Russian | `ru` | [2026-11-25 18:20 UTC](data/ru/new-articles-2026-11-25T18-20-54Z.csv) | 7 |
-| Spanish | `es` | [2026-11-25 18:20 UTC](data/es/new-articles-2026-11-25T18-20-54Z.csv) | 10 |
-| Italian | `it` | [2026-11-25 18:20 UTC](data/it/new-articles-2026-11-25T18-20-54Z.csv) | 10 |
-| Portuguese | `pt` | [2026-11-25 18:20 UTC](data/pt/new-articles-2026-11-25T18-20-54Z.csv) | 19 |
-| Polish | `pl` | [2026-11-25 18:20 UTC](data/pl/new-articles-2026-11-25T18-20-54Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-25 18:20 UTC](data/ar/new-articles-2026-11-25T18-20-54Z.csv) | 9 |
-| Persian | `fa` | [2026-11-25 18:20 UTC](data/fa/new-articles-2026-11-25T18-20-54Z.csv) | 4 |
-| Turkish | `tr` | [2026-11-25 18:20 UTC](data/tr/new-articles-2026-11-25T18-20-54Z.csv) | 6 |
-| Hebrew | `he` | [2026-11-25 18:20 UTC](data/he/new-articles-2026-11-25T18-20-54Z.csv) | 5 |
-| Swedish | `sv` | [2026-11-25 18:20 UTC](data/sv/new-articles-2026-11-25T18-20-54Z.csv) | 2 |
-| Dutch | `nl` | [2026-11-25 18:20 UTC](data/nl/new-articles-2026-11-25T18-20-54Z.csv) | 5 |
+| English | `en` | [2026-11-25 19:19 UTC](data/en/new-articles-2026-11-25T19-19-13Z.csv) | 28 |
+| Japanese | `ja` | [2026-11-25 19:19 UTC](data/ja/new-articles-2026-11-25T19-19-13Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-25 19:19 UTC](data/zh/new-articles-2026-11-25T19-19-13Z.csv) | 31 |
+| French | `fr` | [2026-11-25 19:19 UTC](data/fr/new-articles-2026-11-25T19-19-13Z.csv) | 7 |
+| German | `de` | [2026-11-25 19:19 UTC](data/de/new-articles-2026-11-25T19-19-13Z.csv) | 16 |
+| Russian | `ru` | [2026-11-25 19:19 UTC](data/ru/new-articles-2026-11-25T19-19-13Z.csv) | 7 |
+| Spanish | `es` | [2026-11-25 19:19 UTC](data/es/new-articles-2026-11-25T19-19-13Z.csv) | 32 |
+| Italian | `it` | [2026-11-25 19:19 UTC](data/it/new-articles-2026-11-25T19-19-13Z.csv) | 9 |
+| Portuguese | `pt` | [2026-11-25 19:19 UTC](data/pt/new-articles-2026-11-25T19-19-13Z.csv) | 6 |
+| Polish | `pl` | [2026-11-25 19:19 UTC](data/pl/new-articles-2026-11-25T19-19-13Z.csv) | 3 |
+| Arabic | `ar` | [2026-11-25 19:19 UTC](data/ar/new-articles-2026-11-25T19-19-13Z.csv) | 8 |
+| Persian | `fa` | [2026-11-25 19:19 UTC](data/fa/new-articles-2026-11-25T19-19-13Z.csv) | 7 |
+| Turkish | `tr` | [2026-11-25 19:19 UTC](data/tr/new-articles-2026-11-25T19-19-13Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-25 19:19 UTC](data/he/new-articles-2026-11-25T19-19-13Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-25 19:19 UTC](data/sv/new-articles-2026-11-25T19-19-13Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-25 19:19 UTC](data/nl/new-articles-2026-11-25T19-19-13Z.csv) | 10 |
 | Korean | `ko` | [2026-11-25 18:20 UTC](data/ko/new-articles-2026-11-25T18-20-54Z.csv) | 3 |
 | Indonesian | `id` | [2026-11-25 18:20 UTC](data/id/new-articles-2026-11-25T18-20-54Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-25 18:20 UTC](data/uk/new-articles-2026-11-25T18-20-54Z.csv) | 4 |
-| Vietnamese | `vi` | [2026-11-25 17:19 UTC](data/vi/new-articles-2026-11-25T17-19-23Z.csv) | 1 |
+| Ukrainian | `uk` | [2026-11-25 19:19 UTC](data/uk/new-articles-2026-11-25T19-19-13Z.csv) | 6 |
+| Vietnamese | `vi` | [2026-11-25 19:19 UTC](data/vi/new-articles-2026-11-25T19-19-13Z.csv) | 1 |
 
-## English (en) — 2026-11-25 18:20 UTC
+## English (en) — 2026-11-25 19:19 UTC
 
-New articles created between 2026-11-25 17:19 UTC and 2026-11-25 18:20 UTC.
+New articles created between 2026-11-25 18:20 UTC and 2026-11-25 19:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-25T18-20-54Z.csv)
+[Full CSV](data/en/new-articles-2026-11-25T19-19-13Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-25 17:26:35 | [Evangelos Kyriazakos](https://en.wikipedia.org/wiki/Evangelos_Kyriazakos) | [Fin.Seaman](https://en.wikipedia.org/wiki/User:Fin.Seaman) | 1,248 |
-| 2026-11-25 17:26:38 | [Camilo Aguilar](https://en.wikipedia.org/wiki/Camilo_Aguilar) | [RafitaElias23](https://en.wikipedia.org/wiki/User:RafitaElias23) | 3,463 |
-| 2026-11-25 17:26:43 | [Alonso Faure](https://en.wikipedia.org/wiki/Alonso_Faure) | [GhostHunter999](https://en.wikipedia.org/wiki/User:GhostHunter999) | 1,052 |
-| 2026-11-25 17:31:47 | [115th Grey Cup](https://en.wikipedia.org/wiki/115th_Grey_Cup) | [Ckenwong](https://en.wikipedia.org/wiki/User:Ckenwong) | 449 |
-| 2026-11-25 17:32:07 | [2027 F1 Academy season](https://en.wikipedia.org/wiki/2027_F1_Academy_season) | [Scjessey](https://en.wikipedia.org/wiki/User:Scjessey) | 4,746 |
-| 2026-11-25 17:36:09 | [Parkfriedhof, Bad Kissingen](https://en.wikipedia.org/wiki/Parkfriedhof%2C_Bad_Kissingen) | [Darev](https://en.wikipedia.org/wiki/User:Darev) | 5,201 |
-| 2026-11-25 17:36:12 | [Germania, Bad Kissingen](https://en.wikipedia.org/wiki/Germania%2C_Bad_Kissingen) | [Darev](https://en.wikipedia.org/wiki/User:Darev) | 8,454 |
-| 2026-11-25 17:36:16 | [Marienkapelle, Bad Kissingen](https://en.wikipedia.org/wiki/Marienkapelle%2C_Bad_Kissingen) | [Darev](https://en.wikipedia.org/wiki/User:Darev) | 34,744 |
-| 2026-11-25 17:37:26 | [Flekitza](https://en.wikipedia.org/wiki/Flekitza) | [Flekitza](https://en.wikipedia.org/wiki/User:Flekitza) | 12,797 |
-| 2026-11-25 17:37:41 | [Permanent Representative of Tajikistan to the United Nations](https://en.wikipedia.org/wiki/Permanent_Representative_of_Tajikistan_to_the_United_Nations) | [Aaina26](https://en.wikipedia.org/wiki/User:Aaina26) | 3,769 |
-| 2026-11-25 17:39:22 | [Oxyomus kiuchii](https://en.wikipedia.org/wiki/Oxyomus_kiuchii) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,811 |
-| 2026-11-25 17:40:51 | [Oxyomus bremeri](https://en.wikipedia.org/wiki/Oxyomus_bremeri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,641 |
-| 2026-11-25 17:43:57 | [Renaudius thailandicus](https://en.wikipedia.org/wiki/Renaudius_thailandicus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,961 |
-| 2026-11-25 17:46:09 | [Shawan Downs](https://en.wikipedia.org/wiki/Shawan_Downs) | [Mark O'Keeffe](https://en.wikipedia.org/wiki/User:Mark_O%27Keeffe) | 938 |
-| 2026-11-25 17:49:48 | [Pleuraphodius pygmaeus](https://en.wikipedia.org/wiki/Pleuraphodius_pygmaeus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,244 |
-| 2026-11-25 17:50:51 | [Top Radio](https://en.wikipedia.org/wiki/Top_Radio) | [Jeffrey34555](https://en.wikipedia.org/wiki/User:Jeffrey34555) | 98 |
-| 2026-11-25 17:53:08 | [Pleuraphodius sulcipennis](https://en.wikipedia.org/wiki/Pleuraphodius_sulcipennis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,964 |
-| 2026-11-25 17:55:24 | [Creating User:Pharos/Arnie Segarra](https://en.wikipedia.org/wiki/Creating_User%3APharos/Arnie_Segarra) | [Pharos](https://en.wikipedia.org/wiki/User:Pharos) | 1,157 |
-| 2026-11-25 17:57:00 | [Blackburneus jugalis](https://en.wikipedia.org/wiki/Blackburneus_jugalis) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,316 |
-| 2026-11-25 17:57:17 | [Diocese of Greensburg Police Department](https://en.wikipedia.org/wiki/Diocese_of_Greensburg_Police_Department) | [Darth Stabro](https://en.wikipedia.org/wiki/User:Darth_Stabro) | 4,145 |
-| 2026-11-25 17:57:38 | [Permanent Representative of Turkmenistan to the United Nations](https://en.wikipedia.org/wiki/Permanent_Representative_of_Turkmenistan_to_the_United_Nations) | [Aaina26](https://en.wikipedia.org/wiki/User:Aaina26) | 2,650 |
-| 2026-11-25 18:00:02 | [Nacho Llovet](https://en.wikipedia.org/wiki/Nacho_Llovet) | [GhostHunter999](https://en.wikipedia.org/wiki/User:GhostHunter999) | 1,040 |
-| 2026-11-25 18:00:44 | [Potentillinae](https://en.wikipedia.org/wiki/Potentillinae) | [Chazbrew](https://en.wikipedia.org/wiki/User:Chazbrew) | 1,312 |
-| 2026-11-25 18:02:49 | [We're Going To The Forest](https://en.wikipedia.org/wiki/We%27re_Going_To_The_Forest) | [Sandramariawastakenwastaken](https://en.wikipedia.org/wiki/User:Sandramariawastakenwastaken) | 166 |
-| 2026-11-25 18:04:28 | [Diego Chica](https://en.wikipedia.org/wiki/Diego_Chica) | [RafitaElias23](https://en.wikipedia.org/wiki/User:RafitaElias23) | 1,820 |
-| 2026-11-25 18:06:05 | [Mister International Philippines](https://en.wikipedia.org/wiki/Mister_International_Philippines) | [Rc ramz](https://en.wikipedia.org/wiki/User:Rc_ramz) | 974 |
-| 2026-11-25 18:09:30 | [Blackburneus banari](https://en.wikipedia.org/wiki/Blackburneus_banari) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,966 |
-| 2026-11-25 18:12:23 | [Cornelis Johan Adriaan Bichon van IJsselmonde](https://en.wikipedia.org/wiki/Cornelis_Johan_Adriaan_Bichon_van_IJsselmonde) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 7,538 |
-| 2026-11-25 18:15:20 | [Trichonotulus baloghi](https://en.wikipedia.org/wiki/Trichonotulus_baloghi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,138 |
+| 2026-11-25 18:21:32 | [Florence Jones](https://en.wikipedia.org/wiki/Florence_Jones) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 224 |
+| 2026-11-25 18:21:57 | [International School of Nice](https://en.wikipedia.org/wiki/International_School_of_Nice) | [Wahalalala](https://en.wikipedia.org/wiki/User:Wahalalala) | 6,306 |
+| 2026-11-25 18:23:01 | [Pedagogical Historical museum Adviser Rodrigues Alves](https://en.wikipedia.org/wiki/Pedagogical_Historical_museum_Adviser_Rodrigues_Alves) | [Sintegrity](https://en.wikipedia.org/wiki/User:Sintegrity) | 5,097 |
+| 2026-11-25 18:23:58 | [Spondylus tenuis](https://en.wikipedia.org/wiki/Spondylus_tenuis) | [Gaiacoyote](https://en.wikipedia.org/wiki/User:Gaiacoyote) | 11,274 |
+| 2026-11-25 18:31:59 | [Lê Phương Khánh Như](https://en.wikipedia.org/wiki/L%C3%AA_Ph%C6%B0%C6%A1ng_Kh%C3%A1nh_Nh%C6%B0) | [KamyyFallon](https://en.wikipedia.org/wiki/User:KamyyFallon) | 5,089 |
+| 2026-11-25 18:38:15 | [The Petersham](https://en.wikipedia.org/wiki/The_Petersham) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 6,776 |
+| 2026-11-25 18:38:29 | [Moraea simulans](https://en.wikipedia.org/wiki/Moraea_simulans) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,859 |
+| 2026-11-25 18:40:54 | [Reuben Mark (executive)](https://en.wikipedia.org/wiki/Reuben_Mark_%28executive%29) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 3,873 |
+| 2026-11-25 18:41:25 | [Sant'Ana Hotel](https://en.wikipedia.org/wiki/Sant%27Ana_Hotel) | [Sintegrity](https://en.wikipedia.org/wiki/User:Sintegrity) | 2,900 |
+| 2026-11-25 18:41:47 | [Santana house](https://en.wikipedia.org/wiki/Santana_house) | [V.B.Speranza](https://en.wikipedia.org/wiki/User:V.B.Speranza) | 10,667 |
+| 2026-11-25 18:43:05 | [2028 United States House of Representatives elections in North Tennessee](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_North_Tennessee) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 14,197 |
+| 2026-11-25 18:48:42 | [Howard J. Morgens](https://en.wikipedia.org/wiki/Howard_J._Morgens) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 4,468 |
+| 2026-11-25 18:48:56 | [Oliveira Costa's House](https://en.wikipedia.org/wiki/Oliveira_Costa%27s_House) | [Sintegrity](https://en.wikipedia.org/wiki/User:Sintegrity) | 3,104 |
+| 2026-11-25 18:49:09 | [Unionville Course](https://en.wikipedia.org/wiki/Unionville_Course) | [Mark O'Keeffe](https://en.wikipedia.org/wiki/User:Mark_O%27Keeffe) | 1,289 |
+| 2026-11-25 18:49:57 | [Kayastha (name)](https://en.wikipedia.org/wiki/Kayastha_%28name%29) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 136 |
+| 2026-11-25 18:54:40 | [Molkarin](https://en.wikipedia.org/wiki/Molkarin) | [Goalata](https://en.wikipedia.org/wiki/User:Goalata) | 3,799 |
+| 2026-11-25 18:55:43 | [Moraea lurida](https://en.wikipedia.org/wiki/Moraea_lurida) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,300 |
+| 2026-11-25 18:56:24 | [Donald H. McLaughlin](https://en.wikipedia.org/wiki/Donald_H._McLaughlin) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 5,561 |
+| 2026-11-25 19:00:03 | [Ashizawa](https://en.wikipedia.org/wiki/Ashizawa) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 181 |
+| 2026-11-25 19:00:09 | [Dez de Julho Palace](https://en.wikipedia.org/wiki/Dez_de_Julho_Palace) | [Sintegrity](https://en.wikipedia.org/wiki/User:Sintegrity) | 4,662 |
+| 2026-11-25 19:00:21 | [Prisoner Escort and Custody Services](https://en.wikipedia.org/wiki/Prisoner_Escort_and_Custody_Services) | [雾海之上的漫游](https://en.wikipedia.org/wiki/User:%E9%9B%BE%E6%B5%B7%E4%B9%8B%E4%B8%8A%E7%9A%84%E6%BC%AB%E6%B8%B8) | 12,339 |
+| 2026-11-25 19:02:06 | [Florence Wright](https://en.wikipedia.org/wiki/Florence_Wright) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 235 |
+| 2026-11-25 19:02:48 | [Basketball at the 1995 Military World Games](https://en.wikipedia.org/wiki/Basketball_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 8,846 |
+| 2026-11-25 19:06:13 | [2026 Mazda MX-5 Cup Benelux](https://en.wikipedia.org/wiki/2026_Mazda_MX-5_Cup_Benelux) | [LucaK2009](https://en.wikipedia.org/wiki/User:LucaK2009) | 19,755 |
+| 2026-11-25 19:06:27 | [Historic Centre of Bananal](https://en.wikipedia.org/wiki/Historic_Centre_of_Bananal) | [Sintegrity](https://en.wikipedia.org/wiki/User:Sintegrity) | 1,963 |
+| 2026-11-25 19:08:13 | [Luke Hamnett](https://en.wikipedia.org/wiki/Luke_Hamnett) | [Folkezoft](https://en.wikipedia.org/wiki/User:Folkezoft) | 1,390 |
+| 2026-11-25 19:09:18 | [Rene C. McPherson](https://en.wikipedia.org/wiki/Rene_C._McPherson) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 4,954 |
+| 2026-11-25 19:17:00 | [Boxing at the 1995 Military World Games](https://en.wikipedia.org/wiki/Boxing_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 4,414 |
