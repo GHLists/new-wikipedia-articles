@@ -13,67 +13,59 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-25 21:20 UTC](data/en/new-articles-2026-11-25T21-20-32Z.csv) | 35 |
-| Japanese | `ja` | [2026-11-25 21:20 UTC](data/ja/new-articles-2026-11-25T21-20-32Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-25 21:20 UTC](data/zh/new-articles-2026-11-25T21-20-32Z.csv) | 4 |
-| French | `fr` | [2026-11-25 21:20 UTC](data/fr/new-articles-2026-11-25T21-20-32Z.csv) | 7 |
-| German | `de` | [2026-11-25 21:20 UTC](data/de/new-articles-2026-11-25T21-20-32Z.csv) | 4 |
-| Russian | `ru` | [2026-11-25 21:20 UTC](data/ru/new-articles-2026-11-25T21-20-32Z.csv) | 8 |
-| Spanish | `es` | [2026-11-25 21:20 UTC](data/es/new-articles-2026-11-25T21-20-32Z.csv) | 11 |
-| Italian | `it` | [2026-11-25 21:20 UTC](data/it/new-articles-2026-11-25T21-20-32Z.csv) | 12 |
-| Portuguese | `pt` | [2026-11-25 21:20 UTC](data/pt/new-articles-2026-11-25T21-20-32Z.csv) | 5 |
-| Polish | `pl` | [2026-11-25 21:20 UTC](data/pl/new-articles-2026-11-25T21-20-32Z.csv) | 5 |
+| English | `en` | [2026-11-25 22:18 UTC](data/en/new-articles-2026-11-25T22-18-45Z.csv) | 27 |
+| Japanese | `ja` | [2026-11-25 22:18 UTC](data/ja/new-articles-2026-11-25T22-18-45Z.csv) | 3 |
+| Chinese | `zh` | [2026-11-25 22:18 UTC](data/zh/new-articles-2026-11-25T22-18-45Z.csv) | 4 |
+| French | `fr` | [2026-11-25 22:18 UTC](data/fr/new-articles-2026-11-25T22-18-45Z.csv) | 13 |
+| German | `de` | [2026-11-25 22:18 UTC](data/de/new-articles-2026-11-25T22-18-45Z.csv) | 10 |
+| Russian | `ru` | [2026-11-25 22:18 UTC](data/ru/new-articles-2026-11-25T22-18-45Z.csv) | 3 |
+| Spanish | `es` | [2026-11-25 22:18 UTC](data/es/new-articles-2026-11-25T22-18-45Z.csv) | 14 |
+| Italian | `it` | [2026-11-25 22:18 UTC](data/it/new-articles-2026-11-25T22-18-45Z.csv) | 17 |
+| Portuguese | `pt` | [2026-11-25 22:18 UTC](data/pt/new-articles-2026-11-25T22-18-45Z.csv) | 16 |
+| Polish | `pl` | [2026-11-25 22:18 UTC](data/pl/new-articles-2026-11-25T22-18-45Z.csv) | 5 |
 | Arabic | `ar` | [2026-11-25 21:20 UTC](data/ar/new-articles-2026-11-25T21-20-32Z.csv) | 1 |
 | Persian | `fa` | [2026-11-25 21:20 UTC](data/fa/new-articles-2026-11-25T21-20-32Z.csv) | 5 |
-| Turkish | `tr` | [2026-11-25 21:20 UTC](data/tr/new-articles-2026-11-25T21-20-32Z.csv) | 2 |
+| Turkish | `tr` | [2026-11-25 22:18 UTC](data/tr/new-articles-2026-11-25T22-18-45Z.csv) | 3 |
 | Hebrew | `he` | [2026-11-25 21:20 UTC](data/he/new-articles-2026-11-25T21-20-32Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-25 21:20 UTC](data/sv/new-articles-2026-11-25T21-20-32Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-25 21:20 UTC](data/nl/new-articles-2026-11-25T21-20-32Z.csv) | 5 |
+| Swedish | `sv` | [2026-11-25 22:18 UTC](data/sv/new-articles-2026-11-25T22-18-45Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-25 22:18 UTC](data/nl/new-articles-2026-11-25T22-18-45Z.csv) | 3 |
 | Korean | `ko` | [2026-11-25 18:20 UTC](data/ko/new-articles-2026-11-25T18-20-54Z.csv) | 3 |
 | Indonesian | `id` | [2026-11-25 18:20 UTC](data/id/new-articles-2026-11-25T18-20-54Z.csv) | 1 |
-| Ukrainian | `uk` | [2026-11-25 21:20 UTC](data/uk/new-articles-2026-11-25T21-20-32Z.csv) | 11 |
+| Ukrainian | `uk` | [2026-11-25 22:18 UTC](data/uk/new-articles-2026-11-25T22-18-45Z.csv) | 6 |
 | Vietnamese | `vi` | [2026-11-25 19:19 UTC](data/vi/new-articles-2026-11-25T19-19-13Z.csv) | 1 |
 
-## English (en) — 2026-11-25 21:20 UTC
+## English (en) — 2026-11-25 22:18 UTC
 
-New articles created between 2026-11-25 20:20 UTC and 2026-11-25 21:20 UTC.
+New articles created between 2026-11-25 21:20 UTC and 2026-11-25 22:18 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-25T21-20-32Z.csv)
+[Full CSV](data/en/new-articles-2026-11-25T22-18-45Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-25 20:21:13 | [Judo at the 1995 Military World Games](https://en.wikipedia.org/wiki/Judo_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 3,756 |
-| 2026-11-25 20:27:17 | [Moraea schlechteri](https://en.wikipedia.org/wiki/Moraea_schlechteri) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,342 |
-| 2026-11-25 20:28:41 | [Lifesaving at the 1995 Military World Games](https://en.wikipedia.org/wiki/Lifesaving_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 1,822 |
-| 2026-11-25 20:31:59 | [Frei Galvão Museum](https://en.wikipedia.org/wiki/Frei_Galv%C3%A3o_Museum) | [Sintegrity](https://en.wikipedia.org/wiki/User:Sintegrity) | 6,486 |
-| 2026-11-25 20:34:25 | [Diving at the 1995 Military World Games](https://en.wikipedia.org/wiki/Diving_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 1,087 |
-| 2026-11-25 20:37:39 | [Moraea cooperi](https://en.wikipedia.org/wiki/Moraea_cooperi) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,626 |
-| 2026-11-25 20:40:30 | [Economy of Bagratid Armenia](https://en.wikipedia.org/wiki/Economy_of_Bagratid_Armenia) | [Monika Papyan](https://en.wikipedia.org/wiki/User:Monika_Papyan) | 3,608 |
-| 2026-11-25 20:42:31 | [Swimming at the 1995 Military World Games](https://en.wikipedia.org/wiki/Swimming_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 5,176 |
-| 2026-11-25 20:43:51 | [Shūichirō Yamanouchi](https://en.wikipedia.org/wiki/Sh%C5%ABichir%C5%8D_Yamanouchi) | [Yamyamcel](https://en.wikipedia.org/wiki/User:Yamyamcel) | 4,480 |
-| 2026-11-25 20:45:59 | [Bagli (jagir)](https://en.wikipedia.org/wiki/Bagli_%28jagir%29) | [WikiWhizKid1999](https://en.wikipedia.org/wiki/User:WikiWhizKid1999) | 10,819 |
-| 2026-11-25 20:49:55 | [Russian corvette Orekhovo-Zuyevo](https://en.wikipedia.org/wiki/Russian_corvette_Orekhovo-Zuyevo) | [Thefakeslimshady777](https://en.wikipedia.org/wiki/User:Thefakeslimshady777) | 4,057 |
-| 2026-11-25 20:50:56 | [Moraea versicolor](https://en.wikipedia.org/wiki/Moraea_versicolor) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,619 |
-| 2026-11-25 20:53:39 | [Conor Drinan](https://en.wikipedia.org/wiki/Conor_Drinan) | [Supersaints2014](https://en.wikipedia.org/wiki/User:Supersaints2014) | 11,708 |
-| 2026-11-25 20:56:32 | [Water polo at the 1995 Military World Games](https://en.wikipedia.org/wiki/Water_polo_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 543 |
-| 2026-11-25 20:56:56 | [2026 Giza fuel tanker explosion](https://en.wikipedia.org/wiki/2026_Giza_fuel_tanker_explosion) | [Bloxzge 025](https://en.wikipedia.org/wiki/User:Bloxzge_025) | 445 |
-| 2026-11-25 20:57:34 | [Brasil Hotel](https://en.wikipedia.org/wiki/Brasil_Hotel) | [Sandra on wiki](https://en.wikipedia.org/wiki/User:Sandra_on_wiki) | 4,379 |
-| 2026-11-25 20:57:54 | [2028 United States House of Representatives elections in Maryland](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Maryland) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 7,537 |
-| 2026-11-25 20:58:13 | [Russian corvette Ingushetia](https://en.wikipedia.org/wiki/Russian_corvette_Ingushetia) | [Thefakeslimshady777](https://en.wikipedia.org/wiki/User:Thefakeslimshady777) | 3,631 |
-| 2026-11-25 20:59:31 | [Maltese Black](https://en.wikipedia.org/wiki/Maltese_Black) | [Justlettersandnumbers](https://en.wikipedia.org/wiki/User:Justlettersandnumbers) | 10,214 |
-| 2026-11-25 21:01:08 | [Russian corvette Grad](https://en.wikipedia.org/wiki/Russian_corvette_Grad) | [Thefakeslimshady777](https://en.wikipedia.org/wiki/User:Thefakeslimshady777) | 4,924 |
-| 2026-11-25 21:01:19 | [Zaagstep](https://en.wikipedia.org/wiki/Zaagstep) | [XylockDubz](https://en.wikipedia.org/wiki/User:XylockDubz) | 2,415 |
-| 2026-11-25 21:05:28 | [Kyle Evans (soccer)](https://en.wikipedia.org/wiki/Kyle_Evans_%28soccer%29) | [Elopez76](https://en.wikipedia.org/wiki/User:Elopez76) | 4,915 |
-| 2026-11-25 21:06:24 | [My Secret Boyfriends](https://en.wikipedia.org/wiki/My_Secret_Boyfriends) | [Curiosidadetp1](https://en.wikipedia.org/wiki/User:Curiosidadetp1) | 7,215 |
-| 2026-11-25 21:07:28 | [Willie Nolan (Gaelic footballer)](https://en.wikipedia.org/wiki/Willie_Nolan_%28Gaelic_footballer%29) | [CorkMan](https://en.wikipedia.org/wiki/User:CorkMan) | 6,902 |
-| 2026-11-25 21:07:50 | [Modern pentathlon at the 1995 Military World Games](https://en.wikipedia.org/wiki/Modern_pentathlon_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 1,066 |
-| 2026-11-25 21:09:13 | [National Theater Company](https://en.wikipedia.org/wiki/National_Theater_Company) | [Moscow Mule](https://en.wikipedia.org/wiki/User:Moscow_Mule) | 399 |
-| 2026-11-25 21:10:02 | [Santa Rita Church (Guaratinguetá)](https://en.wikipedia.org/wiki/Santa_Rita_Church_%28Guaratinguet%C3%A1%29) | [Sandra on wiki](https://en.wikipedia.org/wiki/User:Sandra_on_wiki) | 2,157 |
-| 2026-11-25 21:11:44 | [Heron House, Richmond](https://en.wikipedia.org/wiki/Heron_House%2C_Richmond) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 3,662 |
-| 2026-11-25 21:12:38 | [Delosperma adelaidense](https://en.wikipedia.org/wiki/Delosperma_adelaidense) | [505noscope](https://en.wikipedia.org/wiki/User:505noscope) | 1,018 |
-| 2026-11-25 21:13:31 | [Mary Peacock](https://en.wikipedia.org/wiki/Mary_Peacock) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,959 |
-| 2026-11-25 21:14:42 | [Vaniity](https://en.wikipedia.org/wiki/Vaniity) | [Thrashbandicoot01](https://en.wikipedia.org/wiki/User:Thrashbandicoot01) | 3,253 |
-| 2026-11-25 21:15:38 | [Military pentathlon at the 1995 Military World Games](https://en.wikipedia.org/wiki/Military_pentathlon_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 2,356 |
-| 2026-11-25 21:18:39 | [Nelson Carlo De Los Santos Arias](https://en.wikipedia.org/wiki/Nelson_Carlo_De_Los_Santos_Arias) | [Martineden83](https://en.wikipedia.org/wiki/User:Martineden83) | 5,865 |
-| 2026-11-25 21:18:54 | [Léa Morissaint](https://en.wikipedia.org/wiki/L%C3%A9a_Morissaint) | [24Anonymous](https://en.wikipedia.org/wiki/User:24Anonymous) | 9,897 |
-| 2026-11-25 21:20:00 | [Naval pentathlon at the 1995 Military World Games](https://en.wikipedia.org/wiki/Naval_pentathlon_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 1,634 |
+| 2026-11-25 21:20:56 | [Mykhailo Tyshkevych](https://en.wikipedia.org/wiki/Mykhailo_Tyshkevych) | [Skoropadsky](https://en.wikipedia.org/wiki/User:Skoropadsky) | 11,468 |
+| 2026-11-25 21:22:43 | [São Luiz do Paraitinga Municipal Market](https://en.wikipedia.org/wiki/S%C3%A3o_Luiz_do_Paraitinga_Municipal_Market) | [Sandra on wiki](https://en.wikipedia.org/wiki/User:Sandra_on_wiki) | 4,188 |
+| 2026-11-25 21:25:34 | [Yeap Kang Xian](https://en.wikipedia.org/wiki/Yeap_Kang_Xian) | [Snailchildren](https://en.wikipedia.org/wiki/User:Snailchildren) | 9,874 |
+| 2026-11-25 21:26:05 | [Čvrljevo, Unešić](https://en.wikipedia.org/wiki/%C4%8Cvrljevo%2C_Une%C5%A1i%C4%87) | [Suradnikime](https://en.wikipedia.org/wiki/User:Suradnikime) | 815 |
+| 2026-11-25 21:26:05 | [2028 United States House of Representatives elections in Delaware](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Delaware) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 2,431 |
+| 2026-11-25 21:26:12 | [Tommaso Casagrande](https://en.wikipedia.org/wiki/Tommaso_Casagrande) | [Fixer88](https://en.wikipedia.org/wiki/User:Fixer88) | 6,903 |
+| 2026-11-25 21:27:07 | [Annie Wenstrup](https://en.wikipedia.org/wiki/Annie_Wenstrup) | [Shackpoet](https://en.wikipedia.org/wiki/User:Shackpoet) | 2,873 |
+| 2026-11-25 21:27:10 | [Jack Walker (Scottish footballer)](https://en.wikipedia.org/wiki/Jack_Walker_%28Scottish_footballer%29) | [Jpi777189](https://en.wikipedia.org/wiki/User:Jpi777189) | 5,134 |
+| 2026-11-25 21:31:48 | [2028 United States House of Representatives elections in Idaho](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Idaho) | [TW929](https://en.wikipedia.org/wiki/User:TW929) | 2,828 |
+| 2026-11-25 21:34:03 | [Advance Dressing Station on the Struma, 1916](https://en.wikipedia.org/wiki/Advance_Dressing_Station_on_the_Struma%2C_1916) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,226 |
+| 2026-11-25 21:35:29 | [Bhagat Bhagwan](https://en.wikipedia.org/wiki/Bhagat_Bhagwan) | [MaplesyrupSushi](https://en.wikipedia.org/wiki/User:MaplesyrupSushi) | 2,989 |
+| 2026-11-25 21:35:59 | [Shooting at the 1995 Military World Games](https://en.wikipedia.org/wiki/Shooting_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 4,728 |
+| 2026-11-25 21:40:52 | [Triathlon at the 1995 Military World Games](https://en.wikipedia.org/wiki/Triathlon_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 1,512 |
+| 2026-11-25 21:46:46 | [Marie Adam-Leenaerdt](https://en.wikipedia.org/wiki/Marie_Adam-Leenaerdt) | [CocoaMuse](https://en.wikipedia.org/wiki/User:CocoaMuse) | 8,322 |
+| 2026-11-25 21:46:55 | [Horgen (disambiguation)](https://en.wikipedia.org/wiki/Horgen_%28disambiguation%29) | [Cyfal](https://en.wikipedia.org/wiki/User:Cyfal) | 647 |
+| 2026-11-25 21:49:39 | [Volleyball at the 1995 Military World Games](https://en.wikipedia.org/wiki/Volleyball_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 7,196 |
+| 2026-11-25 21:50:39 | [Meriden Hill, New Hampshire](https://en.wikipedia.org/wiki/Meriden_Hill%2C_New_Hampshire) | [Listfixer3000](https://en.wikipedia.org/wiki/User:Listfixer3000) | 2,734 |
+| 2026-11-25 21:54:25 | [Calvin Armstrong Rwomiire](https://en.wikipedia.org/wiki/Calvin_Armstrong_Rwomiire) | [Catherine Amia](https://en.wikipedia.org/wiki/User:Catherine_Amia) | 5,240 |
+| 2026-11-25 21:54:41 | [Parachuting at the 1995 Military World Games](https://en.wikipedia.org/wiki/Parachuting_at_the_1995_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 2,967 |
+| 2026-11-25 21:58:19 | [C. B. Webster & Co.](https://en.wikipedia.org/wiki/C._B._Webster_%26_Co.) | [FloridaArmy](https://en.wikipedia.org/wiki/User:FloridaArmy) | 257 |
+| 2026-11-25 21:59:09 | [2028 United States House of Representatives elections in Iowa](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Iowa) | [NewJerseyMapper31](https://en.wikipedia.org/wiki/User:NewJerseyMapper31) | 4,412 |
+| 2026-11-25 22:04:53 | [Anna Gray](https://en.wikipedia.org/wiki/Anna_Gray) | [Arboliva](https://en.wikipedia.org/wiki/User:Arboliva) | 2,509 |
+| 2026-11-25 22:10:06 | [Joanna Bull](https://en.wikipedia.org/wiki/Joanna_Bull) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,524 |
+| 2026-11-25 22:11:06 | [Ella Torrey](https://en.wikipedia.org/wiki/Ella_Torrey) | [Tassedethe](https://en.wikipedia.org/wiki/User:Tassedethe) | 314 |
+| 2026-11-25 22:12:12 | [Miyu Yunoki](https://en.wikipedia.org/wiki/Miyu_Yunoki) | [FloweringDagwood](https://en.wikipedia.org/wiki/User:FloweringDagwood) | 13,703 |
+| 2026-11-25 22:13:22 | [The National Pulse](https://en.wikipedia.org/wiki/The_National_Pulse) | [CalderClaydon](https://en.wikipedia.org/wiki/User:CalderClaydon) | 2,830 |
+| 2026-11-25 22:18:12 | [Basketball at the 1999 Military World Games](https://en.wikipedia.org/wiki/Basketball_at_the_1999_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 2,102 |
