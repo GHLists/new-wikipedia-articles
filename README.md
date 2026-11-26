@@ -13,48 +13,51 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-26 01:19 UTC](data/en/new-articles-2026-11-26T01-19-20Z.csv) | 16 |
-| Japanese | `ja` | [2026-11-26 01:19 UTC](data/ja/new-articles-2026-11-26T01-19-20Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-26 01:19 UTC](data/zh/new-articles-2026-11-26T01-19-20Z.csv) | 2 |
-| French | `fr` | [2026-11-26 01:19 UTC](data/fr/new-articles-2026-11-26T01-19-20Z.csv) | 4 |
-| German | `de` | [2026-11-26 01:19 UTC](data/de/new-articles-2026-11-26T01-19-20Z.csv) | 1 |
-| Russian | `ru` | [2026-11-26 01:19 UTC](data/ru/new-articles-2026-11-26T01-19-20Z.csv) | 1 |
-| Spanish | `es` | [2026-11-26 01:19 UTC](data/es/new-articles-2026-11-26T01-19-20Z.csv) | 8 |
-| Italian | `it` | [2026-11-26 01:19 UTC](data/it/new-articles-2026-11-26T01-19-20Z.csv) | 4 |
-| Portuguese | `pt` | [2026-11-26 01:19 UTC](data/pt/new-articles-2026-11-26T01-19-20Z.csv) | 3 |
-| Polish | `pl` | [2026-11-26 00:20 UTC](data/pl/new-articles-2026-11-26T00-20-16Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-26 01:19 UTC](data/ar/new-articles-2026-11-26T01-19-20Z.csv) | 6 |
-| Persian | `fa` | [2026-11-26 01:19 UTC](data/fa/new-articles-2026-11-26T01-19-20Z.csv) | 2 |
+| English | `en` | [2026-11-26 02:19 UTC](data/en/new-articles-2026-11-26T02-19-27Z.csv) | 19 |
+| Japanese | `ja` | [2026-11-26 02:19 UTC](data/ja/new-articles-2026-11-26T02-19-27Z.csv) | 9 |
+| Chinese | `zh` | [2026-11-26 02:19 UTC](data/zh/new-articles-2026-11-26T02-19-27Z.csv) | 2 |
+| French | `fr` | [2026-11-26 02:19 UTC](data/fr/new-articles-2026-11-26T02-19-27Z.csv) | 2 |
+| German | `de` | [2026-11-26 02:19 UTC](data/de/new-articles-2026-11-26T02-19-27Z.csv) | 2 |
+| Russian | `ru` | [2026-11-26 02:19 UTC](data/ru/new-articles-2026-11-26T02-19-27Z.csv) | 1 |
+| Spanish | `es` | [2026-11-26 02:19 UTC](data/es/new-articles-2026-11-26T02-19-27Z.csv) | 6 |
+| Italian | `it` | [2026-11-26 02:19 UTC](data/it/new-articles-2026-11-26T02-19-27Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-26 02:19 UTC](data/pt/new-articles-2026-11-26T02-19-27Z.csv) | 2 |
+| Polish | `pl` | [2026-11-26 02:19 UTC](data/pl/new-articles-2026-11-26T02-19-27Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-26 02:19 UTC](data/ar/new-articles-2026-11-26T02-19-27Z.csv) | 2 |
+| Persian | `fa` | [2026-11-26 02:19 UTC](data/fa/new-articles-2026-11-26T02-19-27Z.csv) | 2 |
 | Turkish | `tr` | [2026-11-26 00:20 UTC](data/tr/new-articles-2026-11-26T00-20-16Z.csv) | 3 |
 | Hebrew | `he` | [2026-11-25 23:20 UTC](data/he/new-articles-2026-11-25T23-20-46Z.csv) | 4 |
 | Swedish | `sv` | [2026-11-25 22:18 UTC](data/sv/new-articles-2026-11-25T22-18-45Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-26 01:19 UTC](data/nl/new-articles-2026-11-26T01-19-20Z.csv) | 1 |
-| Korean | `ko` | [2026-11-26 01:19 UTC](data/ko/new-articles-2026-11-26T01-19-20Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-26 01:19 UTC](data/id/new-articles-2026-11-26T01-19-20Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-26 01:19 UTC](data/uk/new-articles-2026-11-26T01-19-20Z.csv) | 4 |
+| Dutch | `nl` | [2026-11-26 02:19 UTC](data/nl/new-articles-2026-11-26T02-19-27Z.csv) | 4 |
+| Korean | `ko` | [2026-11-26 02:19 UTC](data/ko/new-articles-2026-11-26T02-19-27Z.csv) | 5 |
+| Indonesian | `id` | [2026-11-26 02:19 UTC](data/id/new-articles-2026-11-26T02-19-27Z.csv) | 6 |
+| Ukrainian | `uk` | [2026-11-26 02:19 UTC](data/uk/new-articles-2026-11-26T02-19-27Z.csv) | 8 |
 | Vietnamese | `vi` | [2026-11-26 01:19 UTC](data/vi/new-articles-2026-11-26T01-19-20Z.csv) | 1 |
 
-## English (en) — 2026-11-26 01:19 UTC
+## English (en) — 2026-11-26 02:19 UTC
 
-New articles created between 2026-11-26 00:20 UTC and 2026-11-26 01:19 UTC.
+New articles created between 2026-11-26 01:19 UTC and 2026-11-26 02:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-26T01-19-20Z.csv)
+[Full CSV](data/en/new-articles-2026-11-26T02-19-27Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-26 00:20:54 | [German prisoners of war in Canada](https://en.wikipedia.org/wiki/German_prisoners_of_war_in_Canada) | [Flipkoin](https://en.wikipedia.org/wiki/User:Flipkoin) | 30,071 |
-| 2026-11-26 00:26:06 | [Colthrope](https://en.wikipedia.org/wiki/Colthrope) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 78 |
-| 2026-11-26 00:36:44 | [Narimbulu](https://en.wikipedia.org/wiki/Narimbulu) | [Abstrakt](https://en.wikipedia.org/wiki/User:Abstrakt) | 2,425 |
-| 2026-11-26 00:39:44 | [Matt Hasan](https://en.wikipedia.org/wiki/Matt_Hasan) | [Wolftoriver](https://en.wikipedia.org/wiki/User:Wolftoriver) | 3,266 |
-| 2026-11-26 00:41:17 | [Patricia J. Doyle](https://en.wikipedia.org/wiki/Patricia_J._Doyle) | [David Eppstein](https://en.wikipedia.org/wiki/User:David_Eppstein) | 2,743 |
-| 2026-11-26 00:48:41 | [Young-eun](https://en.wikipedia.org/wiki/Young-eun) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 1,023 |
-| 2026-11-26 00:50:10 | [Coldharbour, Gloucestershire](https://en.wikipedia.org/wiki/Coldharbour%2C_Gloucestershire) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 82 |
-| 2026-11-26 00:53:01 | [Cleeve Hill (village)](https://en.wikipedia.org/wiki/Cleeve_Hill_%28village%29) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 76 |
-| 2026-11-26 00:56:22 | [Candida Jimenez](https://en.wikipedia.org/wiki/Candida_Jimenez) | [Edenop](https://en.wikipedia.org/wiki/User:Edenop) | 2,510 |
-| 2026-11-26 00:57:32 | [Doughton, Gloucestershire](https://en.wikipedia.org/wiki/Doughton%2C_Gloucestershire) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 76 |
-| 2026-11-26 01:04:50 | [2003–04 New Zealand Formula Ford Championship](https://en.wikipedia.org/wiki/2003%E2%80%9304_New_Zealand_Formula_Ford_Championship) | [SquirrelIAm](https://en.wikipedia.org/wiki/User:SquirrelIAm) | 24,776 |
-| 2026-11-26 01:06:08 | [Elmore Back](https://en.wikipedia.org/wiki/Elmore_Back) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 77 |
-| 2026-11-26 01:08:43 | [Kyung-jin](https://en.wikipedia.org/wiki/Kyung-jin) | [NelsonLee20042020](https://en.wikipedia.org/wiki/User:NelsonLee20042020) | 987 |
-| 2026-11-26 01:12:20 | [Mayrejri Vank](https://en.wikipedia.org/wiki/Mayrejri_Vank) | [V.B.Speranza](https://en.wikipedia.org/wiki/User:V.B.Speranza) | 8,080 |
-| 2026-11-26 01:17:03 | [2026–27 New York Sirens season](https://en.wikipedia.org/wiki/2026%E2%80%9327_New_York_Sirens_season) | [Mark Staffieri](https://en.wikipedia.org/wiki/User:Mark_Staffieri) | 1,468 |
-| 2026-11-26 01:17:17 | [Therinia geometraria](https://en.wikipedia.org/wiki/Therinia_geometraria) | [CaffeineandViolins](https://en.wikipedia.org/wiki/User:CaffeineandViolins) | 607 |
+| 2026-11-26 01:24:44 | [Madrasdillo](https://en.wikipedia.org/wiki/Madrasdillo) | [MarrissaM](https://en.wikipedia.org/wiki/User:MarrissaM) | 1,846 |
+| 2026-11-26 01:25:49 | [Lesley Briones](https://en.wikipedia.org/wiki/Lesley_Briones) | [Scarykitty](https://en.wikipedia.org/wiki/User:Scarykitty) | 1,120 |
+| 2026-11-26 01:26:08 | [2026–27 Seattle Torrent season](https://en.wikipedia.org/wiki/2026%E2%80%9327_Seattle_Torrent_season) | [Mark Staffieri](https://en.wikipedia.org/wiki/User:Mark_Staffieri) | 1,587 |
+| 2026-11-26 01:31:02 | [Lasioglossum brazieri](https://en.wikipedia.org/wiki/Lasioglossum_brazieri) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 3,274 |
+| 2026-11-26 01:31:40 | [Charles Arthur (ice hockey)](https://en.wikipedia.org/wiki/Charles_Arthur_%28ice_hockey%29) | [Hirolovesswords](https://en.wikipedia.org/wiki/User:Hirolovesswords) | 6,169 |
+| 2026-11-26 01:31:53 | [2027 SAFF Women's Championship](https://en.wikipedia.org/wiki/2027_SAFF_Women%27s_Championship) | [Saleah253](https://en.wikipedia.org/wiki/User:Saleah253) | 3,940 |
+| 2026-11-26 01:32:19 | [Socialpeta](https://en.wikipedia.org/wiki/Socialpeta) | [Cx1son](https://en.wikipedia.org/wiki/User:Cx1son) | 3,259 |
+| 2026-11-26 01:34:42 | [Tim Lieuwen](https://en.wikipedia.org/wiki/Tim_Lieuwen) | [Coqui002](https://en.wikipedia.org/wiki/User:Coqui002) | 2,550 |
+| 2026-11-26 01:37:02 | [Astro Boy (franchise)](https://en.wikipedia.org/wiki/Astro_Boy_%28franchise%29) | [Brasil 2021](https://en.wikipedia.org/wiki/User:Brasil_2021) | 41,954 |
+| 2026-11-26 01:44:21 | [Monsters Under My Bed](https://en.wikipedia.org/wiki/Monsters_Under_My_Bed) | [Correctorofmistakes1](https://en.wikipedia.org/wiki/User:Correctorofmistakes1) | 5,234 |
+| 2026-11-26 01:49:38 | [Riudillo](https://en.wikipedia.org/wiki/Riudillo) | [MarrissaM](https://en.wikipedia.org/wiki/User:MarrissaM) | 1,491 |
+| 2026-11-26 01:51:17 | [Autumn in the Han Palace](https://en.wikipedia.org/wiki/Autumn_in_the_Han_Palace) | [Sevilledade](https://en.wikipedia.org/wiki/User:Sevilledade) | 3,954 |
+| 2026-11-26 01:53:48 | [Frocester Hill](https://en.wikipedia.org/wiki/Frocester_Hill) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 88 |
+| 2026-11-26 01:57:33 | [Coonterunah](https://en.wikipedia.org/wiki/Coonterunah) | [Kylenash30](https://en.wikipedia.org/wiki/User:Kylenash30) | 8,661 |
+| 2026-11-26 02:06:32 | [Langhe Nebbiolo](https://en.wikipedia.org/wiki/Langhe_Nebbiolo) | [Heroeswithmetaphors](https://en.wikipedia.org/wiki/User:Heroeswithmetaphors) | 1,035 |
+| 2026-11-26 02:06:39 | [Frances Barnard](https://en.wikipedia.org/wiki/Frances_Barnard) | [Aciram](https://en.wikipedia.org/wiki/User:Aciram) | 476 |
+| 2026-11-26 02:10:48 | [Lieuwen](https://en.wikipedia.org/wiki/Lieuwen) | [Coqui002](https://en.wikipedia.org/wiki/User:Coqui002) | 252 |
+| 2026-11-26 02:13:55 | [Amyer de Maxwell](https://en.wikipedia.org/wiki/Amyer_de_Maxwell) | [Newm30](https://en.wikipedia.org/wiki/User:Newm30) | 2,590 |
+| 2026-11-26 02:17:29 | [2027 F4 British Championship](https://en.wikipedia.org/wiki/2027_F4_British_Championship) | [Kevyn John](https://en.wikipedia.org/wiki/User:Kevyn_John) | 187 |
