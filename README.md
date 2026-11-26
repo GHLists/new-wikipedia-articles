@@ -13,46 +13,52 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-26 10:18 UTC](data/en/new-articles-2026-11-26T10-18-49Z.csv) | 14 |
-| Japanese | `ja` | [2026-11-26 10:18 UTC](data/ja/new-articles-2026-11-26T10-18-49Z.csv) | 12 |
-| Chinese | `zh` | [2026-11-26 10:18 UTC](data/zh/new-articles-2026-11-26T10-18-49Z.csv) | 8 |
-| French | `fr` | [2026-11-26 10:18 UTC](data/fr/new-articles-2026-11-26T10-18-49Z.csv) | 5 |
-| German | `de` | [2026-11-26 10:18 UTC](data/de/new-articles-2026-11-26T10-18-49Z.csv) | 10 |
-| Russian | `ru` | [2026-11-26 10:18 UTC](data/ru/new-articles-2026-11-26T10-18-49Z.csv) | 13 |
-| Spanish | `es` | [2026-11-26 10:18 UTC](data/es/new-articles-2026-11-26T10-18-49Z.csv) | 5 |
-| Italian | `it` | [2026-11-26 10:18 UTC](data/it/new-articles-2026-11-26T10-18-49Z.csv) | 9 |
-| Portuguese | `pt` | [2026-11-26 09:20 UTC](data/pt/new-articles-2026-11-26T09-20-05Z.csv) | 2 |
-| Polish | `pl` | [2026-11-26 10:18 UTC](data/pl/new-articles-2026-11-26T10-18-49Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-26 10:18 UTC](data/ar/new-articles-2026-11-26T10-18-49Z.csv) | 1 |
-| Persian | `fa` | [2026-11-26 10:18 UTC](data/fa/new-articles-2026-11-26T10-18-49Z.csv) | 5 |
-| Turkish | `tr` | [2026-11-26 10:18 UTC](data/tr/new-articles-2026-11-26T10-18-49Z.csv) | 8 |
-| Hebrew | `he` | [2026-11-26 10:18 UTC](data/he/new-articles-2026-11-26T10-18-49Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-26 10:18 UTC](data/sv/new-articles-2026-11-26T10-18-49Z.csv) | 9 |
-| Dutch | `nl` | [2026-11-26 10:18 UTC](data/nl/new-articles-2026-11-26T10-18-49Z.csv) | 2 |
-| Korean | `ko` | [2026-11-26 10:18 UTC](data/ko/new-articles-2026-11-26T10-18-49Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-26 10:18 UTC](data/id/new-articles-2026-11-26T10-18-49Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-11-26 10:18 UTC](data/uk/new-articles-2026-11-26T10-18-49Z.csv) | 49 |
+| English | `en` | [2026-11-26 11:21 UTC](data/en/new-articles-2026-11-26T11-21-25Z.csv) | 20 |
+| Japanese | `ja` | [2026-11-26 11:21 UTC](data/ja/new-articles-2026-11-26T11-21-25Z.csv) | 12 |
+| Chinese | `zh` | [2026-11-26 11:21 UTC](data/zh/new-articles-2026-11-26T11-21-25Z.csv) | 8 |
+| French | `fr` | [2026-11-26 11:21 UTC](data/fr/new-articles-2026-11-26T11-21-25Z.csv) | 8 |
+| German | `de` | [2026-11-26 11:21 UTC](data/de/new-articles-2026-11-26T11-21-25Z.csv) | 12 |
+| Russian | `ru` | [2026-11-26 11:21 UTC](data/ru/new-articles-2026-11-26T11-21-25Z.csv) | 10 |
+| Spanish | `es` | [2026-11-26 11:21 UTC](data/es/new-articles-2026-11-26T11-21-25Z.csv) | 38 |
+| Italian | `it` | [2026-11-26 11:21 UTC](data/it/new-articles-2026-11-26T11-21-25Z.csv) | 16 |
+| Portuguese | `pt` | [2026-11-26 11:21 UTC](data/pt/new-articles-2026-11-26T11-21-25Z.csv) | 7 |
+| Polish | `pl` | [2026-11-26 11:21 UTC](data/pl/new-articles-2026-11-26T11-21-25Z.csv) | 8 |
+| Arabic | `ar` | [2026-11-26 11:21 UTC](data/ar/new-articles-2026-11-26T11-21-25Z.csv) | 4 |
+| Persian | `fa` | [2026-11-26 11:21 UTC](data/fa/new-articles-2026-11-26T11-21-25Z.csv) | 4 |
+| Turkish | `tr` | [2026-11-26 11:21 UTC](data/tr/new-articles-2026-11-26T11-21-25Z.csv) | 7 |
+| Hebrew | `he` | [2026-11-26 11:21 UTC](data/he/new-articles-2026-11-26T11-21-25Z.csv) | 7 |
+| Swedish | `sv` | [2026-11-26 11:21 UTC](data/sv/new-articles-2026-11-26T11-21-25Z.csv) | 5 |
+| Dutch | `nl` | [2026-11-26 11:21 UTC](data/nl/new-articles-2026-11-26T11-21-25Z.csv) | 5 |
+| Korean | `ko` | [2026-11-26 11:21 UTC](data/ko/new-articles-2026-11-26T11-21-25Z.csv) | 3 |
+| Indonesian | `id` | [2026-11-26 11:21 UTC](data/id/new-articles-2026-11-26T11-21-25Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-11-26 11:21 UTC](data/uk/new-articles-2026-11-26T11-21-25Z.csv) | 10 |
 | Vietnamese | `vi` | [2026-11-26 10:18 UTC](data/vi/new-articles-2026-11-26T10-18-49Z.csv) | 3 |
 
-## English (en) — 2026-11-26 10:18 UTC
+## English (en) — 2026-11-26 11:21 UTC
 
-New articles created between 2026-11-26 09:20 UTC and 2026-11-26 10:18 UTC.
+New articles created between 2026-11-26 10:18 UTC and 2026-11-26 11:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-26T10-18-49Z.csv)
+[Full CSV](data/en/new-articles-2026-11-26T11-21-25Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-26 09:20:36 | [Y. S. Purushothama Reddy](https://en.wikipedia.org/wiki/Y._S._Purushothama_Reddy) | [Davidindia](https://en.wikipedia.org/wiki/User:Davidindia) | 2,245 |
-| 2026-11-26 09:25:03 | [Lorditomaeus youngai](https://en.wikipedia.org/wiki/Lorditomaeus_youngai) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,134 |
-| 2026-11-26 09:28:09 | [Les Trent](https://en.wikipedia.org/wiki/Les_Trent) | [SussexBrancher](https://en.wikipedia.org/wiki/User:SussexBrancher) | 560 |
-| 2026-11-26 09:33:44 | [Ataenius africanus](https://en.wikipedia.org/wiki/Ataenius_africanus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,036 |
-| 2026-11-26 09:35:28 | [FC Devnya](https://en.wikipedia.org/wiki/FC_Devnya) | [Dfotev](https://en.wikipedia.org/wiki/User:Dfotev) | 3,199 |
-| 2026-11-26 09:49:46 | [Lambis Kouiroukidis](https://en.wikipedia.org/wiki/Lambis_Kouiroukidis) | [Abudabanas](https://en.wikipedia.org/wiki/User:Abudabanas) | 7,451 |
-| 2026-11-26 09:51:04 | [Ammoecioides kovacsi](https://en.wikipedia.org/wiki/Ammoecioides_kovacsi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,004 |
-| 2026-11-26 09:55:25 | [Uzbekistan Super League Player of the Month](https://en.wikipedia.org/wiki/Uzbekistan_Super_League_Player_of_the_Month) | [Umarxon III](https://en.wikipedia.org/wiki/User:Umarxon_III) | 35,160 |
-| 2026-11-26 09:55:37 | [Pharaphodius ferenczi](https://en.wikipedia.org/wiki/Pharaphodius_ferenczi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,060 |
-| 2026-11-26 09:58:44 | [Plagiogonus clypeodentatus](https://en.wikipedia.org/wiki/Plagiogonus_clypeodentatus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,142 |
-| 2026-11-26 10:02:59 | [City Endings](https://en.wikipedia.org/wiki/City_Endings) | [Jolielover](https://en.wikipedia.org/wiki/User:Jolielover) | 3,030 |
-| 2026-11-26 10:07:16 | [Kasam ensabi](https://en.wikipedia.org/wiki/Kasam_ensabi) | [Song GK](https://en.wikipedia.org/wiki/User:Song_GK) | 3,263 |
-| 2026-11-26 10:12:46 | [Mukuri](https://en.wikipedia.org/wiki/Mukuri) | [MuchKanta](https://en.wikipedia.org/wiki/User:MuchKanta) | 5,758 |
-| 2026-11-26 10:17:27 | [2020–21 SVGFF Premier Division](https://en.wikipedia.org/wiki/2020%E2%80%9321_SVGFF_Premier_Division) | [U nderscoreYT123](https://en.wikipedia.org/wiki/User:U_nderscoreYT123) | 2,511 |
+| 2026-11-26 10:26:57 | [Androsace rotundifolia](https://en.wikipedia.org/wiki/Androsace_rotundifolia) | [Chandustraveling](https://en.wikipedia.org/wiki/User:Chandustraveling) | 5,657 |
+| 2026-11-26 10:27:28 | [Mahdi Amin](https://en.wikipedia.org/wiki/Mahdi_Amin) | [S.M. Limon](https://en.wikipedia.org/wiki/User:S.M._Limon) | 29,207 |
+| 2026-11-26 10:29:14 | [Dudleyellus](https://en.wikipedia.org/wiki/Dudleyellus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,216 |
+| 2026-11-26 10:31:44 | [Dudleyellus angusticeps](https://en.wikipedia.org/wiki/Dudleyellus_angusticeps) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,977 |
+| 2026-11-26 10:32:32 | [The Turkeys](https://en.wikipedia.org/wiki/The_Turkeys) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 1,781 |
+| 2026-11-26 10:32:36 | [Jan van Alphen](https://en.wikipedia.org/wiki/Jan_van_Alphen) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 6,124 |
+| 2026-11-26 10:33:11 | [Multwoh: Patay na Patay Sa 'Yo](https://en.wikipedia.org/wiki/Multwoh%3A_Patay_na_Patay_Sa_%27Yo) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 3,453 |
+| 2026-11-26 10:33:39 | [Muşspor (2015)](https://en.wikipedia.org/wiki/Mu%C5%9Fspor_%282015%29) | [CottonTraders](https://en.wikipedia.org/wiki/User:CottonTraders) | 7,972 |
+| 2026-11-26 10:34:13 | [Dudleyellus desaegeri](https://en.wikipedia.org/wiki/Dudleyellus_desaegeri) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,114 |
+| 2026-11-26 10:37:05 | [Dudleyellus goniocephalus](https://en.wikipedia.org/wiki/Dudleyellus_goniocephalus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,084 |
+| 2026-11-26 10:40:34 | [Dudleyellus lassallei](https://en.wikipedia.org/wiki/Dudleyellus_lassallei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,001 |
+| 2026-11-26 10:41:16 | [Screwdriver (film)](https://en.wikipedia.org/wiki/Screwdriver_%28film%29) | [Cavarrone](https://en.wikipedia.org/wiki/User:Cavarrone) | 4,079 |
+| 2026-11-26 10:42:38 | [Ian Foote (referee)](https://en.wikipedia.org/wiki/Ian_Foote_%28referee%29) | [MatthiasTheSoccerFan](https://en.wikipedia.org/wiki/User:MatthiasTheSoccerFan) | 1,390 |
+| 2026-11-26 10:43:46 | [Dudleyellus limbourgi](https://en.wikipedia.org/wiki/Dudleyellus_limbourgi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,956 |
+| 2026-11-26 10:43:47 | [Bay (Nikke)](https://en.wikipedia.org/wiki/Bay_%28Nikke%29) | [Kung Fu Man](https://en.wikipedia.org/wiki/User:Kung_Fu_Man) | 11,857 |
+| 2026-11-26 10:52:23 | [Pauridia capensis](https://en.wikipedia.org/wiki/Pauridia_capensis) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 2,490 |
+| 2026-11-26 10:54:15 | [Alla Zasukhina](https://en.wikipedia.org/wiki/Alla_Zasukhina) | [Maniakilljoy97](https://en.wikipedia.org/wiki/User:Maniakilljoy97) | 4,458 |
+| 2026-11-26 11:09:40 | [Jim McFarlane (photographer)](https://en.wikipedia.org/wiki/Jim_McFarlane_%28photographer%29) | [Jamesmcardle](https://en.wikipedia.org/wiki/User:Jamesmcardle) | 7,360 |
+| 2026-11-26 11:14:02 | [Amaryllis capensis](https://en.wikipedia.org/wiki/Amaryllis_capensis) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 366 |
+| 2026-11-26 11:17:48 | [Hypoxis elata](https://en.wikipedia.org/wiki/Hypoxis_elata) | [Abductive](https://en.wikipedia.org/wiki/User:Abductive) | 369 |
