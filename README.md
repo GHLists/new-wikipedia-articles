@@ -13,53 +13,47 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-25 23:20 UTC](data/en/new-articles-2026-11-25T23-20-46Z.csv) | 21 |
-| Japanese | `ja` | [2026-11-25 23:20 UTC](data/ja/new-articles-2026-11-25T23-20-46Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-25 23:20 UTC](data/zh/new-articles-2026-11-25T23-20-46Z.csv) | 6 |
-| French | `fr` | [2026-11-25 23:20 UTC](data/fr/new-articles-2026-11-25T23-20-46Z.csv) | 9 |
-| German | `de` | [2026-11-25 23:20 UTC](data/de/new-articles-2026-11-25T23-20-46Z.csv) | 10 |
+| English | `en` | [2026-11-26 00:20 UTC](data/en/new-articles-2026-11-26T00-20-16Z.csv) | 15 |
+| Japanese | `ja` | [2026-11-26 00:20 UTC](data/ja/new-articles-2026-11-26T00-20-16Z.csv) | 10 |
+| Chinese | `zh` | [2026-11-26 00:20 UTC](data/zh/new-articles-2026-11-26T00-20-16Z.csv) | 4 |
+| French | `fr` | [2026-11-26 00:20 UTC](data/fr/new-articles-2026-11-26T00-20-16Z.csv) | 3 |
+| German | `de` | [2026-11-26 00:20 UTC](data/de/new-articles-2026-11-26T00-20-16Z.csv) | 3 |
 | Russian | `ru` | [2026-11-25 23:20 UTC](data/ru/new-articles-2026-11-25T23-20-46Z.csv) | 10 |
-| Spanish | `es` | [2026-11-25 23:20 UTC](data/es/new-articles-2026-11-25T23-20-46Z.csv) | 21 |
-| Italian | `it` | [2026-11-25 23:20 UTC](data/it/new-articles-2026-11-25T23-20-46Z.csv) | 11 |
-| Portuguese | `pt` | [2026-11-25 23:20 UTC](data/pt/new-articles-2026-11-25T23-20-46Z.csv) | 8 |
-| Polish | `pl` | [2026-11-25 23:20 UTC](data/pl/new-articles-2026-11-25T23-20-46Z.csv) | 7 |
+| Spanish | `es` | [2026-11-26 00:20 UTC](data/es/new-articles-2026-11-26T00-20-16Z.csv) | 14 |
+| Italian | `it` | [2026-11-26 00:20 UTC](data/it/new-articles-2026-11-26T00-20-16Z.csv) | 5 |
+| Portuguese | `pt` | [2026-11-26 00:20 UTC](data/pt/new-articles-2026-11-26T00-20-16Z.csv) | 11 |
+| Polish | `pl` | [2026-11-26 00:20 UTC](data/pl/new-articles-2026-11-26T00-20-16Z.csv) | 5 |
 | Arabic | `ar` | [2026-11-25 23:20 UTC](data/ar/new-articles-2026-11-25T23-20-46Z.csv) | 10 |
-| Persian | `fa` | [2026-11-25 23:20 UTC](data/fa/new-articles-2026-11-25T23-20-46Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-25 23:20 UTC](data/tr/new-articles-2026-11-25T23-20-46Z.csv) | 5 |
+| Persian | `fa` | [2026-11-26 00:20 UTC](data/fa/new-articles-2026-11-26T00-20-16Z.csv) | 5 |
+| Turkish | `tr` | [2026-11-26 00:20 UTC](data/tr/new-articles-2026-11-26T00-20-16Z.csv) | 3 |
 | Hebrew | `he` | [2026-11-25 23:20 UTC](data/he/new-articles-2026-11-25T23-20-46Z.csv) | 4 |
 | Swedish | `sv` | [2026-11-25 22:18 UTC](data/sv/new-articles-2026-11-25T22-18-45Z.csv) | 1 |
-| Dutch | `nl` | [2026-11-25 23:20 UTC](data/nl/new-articles-2026-11-25T23-20-46Z.csv) | 5 |
-| Korean | `ko` | [2026-11-25 23:20 UTC](data/ko/new-articles-2026-11-25T23-20-46Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-25 23:20 UTC](data/id/new-articles-2026-11-25T23-20-46Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-25 23:20 UTC](data/uk/new-articles-2026-11-25T23-20-46Z.csv) | 9 |
+| Dutch | `nl` | [2026-11-26 00:20 UTC](data/nl/new-articles-2026-11-26T00-20-16Z.csv) | 1 |
+| Korean | `ko` | [2026-11-26 00:20 UTC](data/ko/new-articles-2026-11-26T00-20-16Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-26 00:20 UTC](data/id/new-articles-2026-11-26T00-20-16Z.csv) | 2 |
+| Ukrainian | `uk` | [2026-11-26 00:20 UTC](data/uk/new-articles-2026-11-26T00-20-16Z.csv) | 21 |
 | Vietnamese | `vi` | [2026-11-25 23:20 UTC](data/vi/new-articles-2026-11-25T23-20-46Z.csv) | 1 |
 
-## English (en) — 2026-11-25 23:20 UTC
+## English (en) — 2026-11-26 00:20 UTC
 
-New articles created between 2026-11-25 22:18 UTC and 2026-11-25 23:20 UTC.
+New articles created between 2026-11-25 23:20 UTC and 2026-11-26 00:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-25T23-20-46Z.csv)
+[Full CSV](data/en/new-articles-2026-11-26T00-20-16Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-25 22:19:29 | [Georges, New Hampshire](https://en.wikipedia.org/wiki/Georges%2C_New_Hampshire) | [Listfixer3000](https://en.wikipedia.org/wiki/User:Listfixer3000) | 2,018 |
-| 2026-11-25 22:19:50 | [Coonterunah](https://en.wikipedia.org/wiki/Coonterunah) | [Kylenash30](https://en.wikipedia.org/wiki/User:Kylenash30) | 2,337 |
-| 2026-11-25 22:20:29 | [Naoki Okumura](https://en.wikipedia.org/wiki/Naoki_Okumura) | [Yamyamcel](https://en.wikipedia.org/wiki/User:Yamyamcel) | 3,021 |
-| 2026-11-25 22:26:16 | [2028 United States House of Representatives elections in Montana](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Montana) | [TW929](https://en.wikipedia.org/wiki/User:TW929) | 3,191 |
-| 2026-11-25 22:28:22 | [Boxing at the 1999 Military World Games](https://en.wikipedia.org/wiki/Boxing_at_the_1999_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 3,803 |
-| 2026-11-25 22:28:28 | [DJ Duke](https://en.wikipedia.org/wiki/DJ_Duke) | [In Vitrio](https://en.wikipedia.org/wiki/User:In_Vitrio) | 4,057 |
-| 2026-11-25 22:29:04 | [Giuggioli](https://en.wikipedia.org/wiki/Giuggioli) | [IvanScrooge98](https://en.wikipedia.org/wiki/User:IvanScrooge98) | 523 |
-| 2026-11-25 22:35:44 | [Guy Martin: Proper Jobs](https://en.wikipedia.org/wiki/Guy_Martin%3A_Proper_Jobs) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 3,969 |
-| 2026-11-25 22:36:22 | [Cycling at the 1999 Military World Games](https://en.wikipedia.org/wiki/Cycling_at_the_1999_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 1,577 |
-| 2026-11-25 22:38:30 | [Messe Noire](https://en.wikipedia.org/wiki/Messe_Noire) | [PARAKANYAA](https://en.wikipedia.org/wiki/User:PARAKANYAA) | 7,913 |
-| 2026-11-25 22:45:05 | [Fencing at the 1999 Military World Games](https://en.wikipedia.org/wiki/Fencing_at_the_1999_Military_World_Games) | [Kimo1981](https://en.wikipedia.org/wiki/User:Kimo1981) | 2,738 |
-| 2026-11-25 22:48:13 | [CTS-1027](https://en.wikipedia.org/wiki/CTS-1027) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 5,015 |
-| 2026-11-25 22:53:36 | [The Golden Years at MGM](https://en.wikipedia.org/wiki/The_Golden_Years_at_MGM) | [Markus WikiEditor](https://en.wikipedia.org/wiki/User:Markus_WikiEditor) | 12,460 |
-| 2026-11-25 22:54:29 | [The Finding of Moses (disambiguation)](https://en.wikipedia.org/wiki/The_Finding_of_Moses_%28disambiguation%29) | [שמן תורק](https://en.wikipedia.org/wiki/User:%D7%A9%D7%9E%D7%9F_%D7%AA%D7%95%D7%A8%D7%A7) | 708 |
-| 2026-11-25 22:58:37 | [Shipman (surname)](https://en.wikipedia.org/wiki/Shipman_%28surname%29) | [Altenmann](https://en.wikipedia.org/wiki/User:Altenmann) | 2,793 |
-| 2026-11-25 23:00:34 | [Euskal Langileen Ezkerra](https://en.wikipedia.org/wiki/Euskal_Langileen_Ezkerra) | [Bhgh543bgf](https://en.wikipedia.org/wiki/User:Bhgh543bgf) | 5,921 |
-| 2026-11-25 23:03:22 | [Tahaun Lewis](https://en.wikipedia.org/wiki/Tahaun_Lewis) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,787 |
-| 2026-11-25 23:07:37 | [Léo Carlier](https://en.wikipedia.org/wiki/L%C3%A9o_Carlier) | [PyotrRossetti](https://en.wikipedia.org/wiki/User:PyotrRossetti) | 5,753 |
-| 2026-11-25 23:09:08 | [Draye Redfern (entrepreneur)](https://en.wikipedia.org/wiki/Draye_Redfern_%28entrepreneur%29) | [Gernights](https://en.wikipedia.org/wiki/User:Gernights) | 4,960 |
-| 2026-11-25 23:12:37 | [Chaxhill](https://en.wikipedia.org/wiki/Chaxhill) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 86 |
-| 2026-11-25 23:14:51 | [Better Than God](https://en.wikipedia.org/wiki/Better_Than_God) | [Perry Middlemiss](https://en.wikipedia.org/wiki/User:Perry_Middlemiss) | 5,759 |
+| 2026-11-25 23:23:58 | [Laura Merriam](https://en.wikipedia.org/wiki/Laura_Merriam) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 5,583 |
+| 2026-11-25 23:28:03 | [Lasioglossum supralucens](https://en.wikipedia.org/wiki/Lasioglossum_supralucens) | [Maias](https://en.wikipedia.org/wiki/User:Maias) | 2,530 |
+| 2026-11-25 23:28:49 | [Aquarium hood](https://en.wikipedia.org/wiki/Aquarium_hood) | [RJFJR](https://en.wikipedia.org/wiki/User:RJFJR) | 1,047 |
+| 2026-11-25 23:30:47 | [2027 Atlanta United FC season](https://en.wikipedia.org/wiki/2027_Atlanta_United_FC_season) | [Parxpower](https://en.wikipedia.org/wiki/User:Parxpower) | 14,439 |
+| 2026-11-25 23:31:20 | [Agretti (disambiguation)](https://en.wikipedia.org/wiki/Agretti_%28disambiguation%29) | [IvanScrooge98](https://en.wikipedia.org/wiki/User:IvanScrooge98) | 407 |
+| 2026-11-25 23:32:31 | [Bram Krikke](https://en.wikipedia.org/wiki/Bram_Krikke) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 14,318 |
+| 2026-11-25 23:34:33 | [Provincial politics in Canada](https://en.wikipedia.org/wiki/Provincial_politics_in_Canada) | [Hhvnm](https://en.wikipedia.org/wiki/User:Hhvnm) | 1,534 |
+| 2026-11-25 23:37:12 | [Silent Disco (disambiguation)](https://en.wikipedia.org/wiki/Silent_Disco_%28disambiguation%29) | [Mathguy2718](https://en.wikipedia.org/wiki/User:Mathguy2718) | 488 |
+| 2026-11-25 23:39:35 | [1955 All-Mid-American Conference football team](https://en.wikipedia.org/wiki/1955_All-Mid-American_Conference_football_team) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 2,392 |
+| 2026-11-25 23:41:36 | [Abram Dyakov](https://en.wikipedia.org/wiki/Abram_Dyakov) | [RabidTuberculosis](https://en.wikipedia.org/wiki/User:RabidTuberculosis) | 15,842 |
+| 2026-11-26 00:05:33 | [James Gunter (disambiguation)](https://en.wikipedia.org/wiki/James_Gunter_%28disambiguation%29) | [BD2412](https://en.wikipedia.org/wiki/User:BD2412) | 148 |
+| 2026-11-26 00:06:40 | [Blixt-class torpedo boat](https://en.wikipedia.org/wiki/Blixt-class_torpedo_boat) | [GGOTCC](https://en.wikipedia.org/wiki/User:GGOTCC) | 7,486 |
+| 2026-11-26 00:10:51 | [Michael Bondy](https://en.wikipedia.org/wiki/Michael_Bondy) | [MASTERBING21](https://en.wikipedia.org/wiki/User:MASTERBING21) | 168 |
+| 2026-11-26 00:13:58 | [Neuropeptide AF](https://en.wikipedia.org/wiki/Neuropeptide_AF) | [Meodipt](https://en.wikipedia.org/wiki/User:Meodipt) | 6,230 |
+| 2026-11-26 00:19:24 | [The Thames in Black and Silver](https://en.wikipedia.org/wiki/The_Thames_in_Black_and_Silver) | [Lord Cornwallis](https://en.wikipedia.org/wiki/User:Lord_Cornwallis) | 2,367 |
