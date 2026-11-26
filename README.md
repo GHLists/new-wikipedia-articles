@@ -13,50 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-26 18:18 UTC](data/en/new-articles-2026-11-26T18-18-49Z.csv) | 18 |
-| Japanese | `ja` | [2026-11-26 18:18 UTC](data/ja/new-articles-2026-11-26T18-18-49Z.csv) | 3 |
-| Chinese | `zh` | [2026-11-26 18:18 UTC](data/zh/new-articles-2026-11-26T18-18-49Z.csv) | 4 |
-| French | `fr` | [2026-11-26 18:18 UTC](data/fr/new-articles-2026-11-26T18-18-49Z.csv) | 11 |
-| German | `de` | [2026-11-26 18:18 UTC](data/de/new-articles-2026-11-26T18-18-49Z.csv) | 13 |
-| Russian | `ru` | [2026-11-26 18:18 UTC](data/ru/new-articles-2026-11-26T18-18-49Z.csv) | 13 |
-| Spanish | `es` | [2026-11-26 18:18 UTC](data/es/new-articles-2026-11-26T18-18-49Z.csv) | 14 |
-| Italian | `it` | [2026-11-26 18:18 UTC](data/it/new-articles-2026-11-26T18-18-49Z.csv) | 8 |
-| Portuguese | `pt` | [2026-11-26 18:18 UTC](data/pt/new-articles-2026-11-26T18-18-49Z.csv) | 4 |
-| Polish | `pl` | [2026-11-26 18:18 UTC](data/pl/new-articles-2026-11-26T18-18-49Z.csv) | 7 |
-| Arabic | `ar` | [2026-11-26 18:18 UTC](data/ar/new-articles-2026-11-26T18-18-49Z.csv) | 7 |
+| English | `en` | [2026-11-26 19:20 UTC](data/en/new-articles-2026-11-26T19-20-33Z.csv) | 18 |
+| Japanese | `ja` | [2026-11-26 19:20 UTC](data/ja/new-articles-2026-11-26T19-20-33Z.csv) | 5 |
+| Chinese | `zh` | [2026-11-26 19:20 UTC](data/zh/new-articles-2026-11-26T19-20-33Z.csv) | 8 |
+| French | `fr` | [2026-11-26 19:20 UTC](data/fr/new-articles-2026-11-26T19-20-33Z.csv) | 3 |
+| German | `de` | [2026-11-26 19:20 UTC](data/de/new-articles-2026-11-26T19-20-33Z.csv) | 14 |
+| Russian | `ru` | [2026-11-26 19:20 UTC](data/ru/new-articles-2026-11-26T19-20-33Z.csv) | 18 |
+| Spanish | `es` | [2026-11-26 19:20 UTC](data/es/new-articles-2026-11-26T19-20-33Z.csv) | 20 |
+| Italian | `it` | [2026-11-26 19:20 UTC](data/it/new-articles-2026-11-26T19-20-33Z.csv) | 10 |
+| Portuguese | `pt` | [2026-11-26 19:20 UTC](data/pt/new-articles-2026-11-26T19-20-33Z.csv) | 5 |
+| Polish | `pl` | [2026-11-26 19:20 UTC](data/pl/new-articles-2026-11-26T19-20-33Z.csv) | 3 |
+| Arabic | `ar` | [2026-11-26 19:20 UTC](data/ar/new-articles-2026-11-26T19-20-33Z.csv) | 1 |
 | Persian | `fa` | [2026-11-26 18:18 UTC](data/fa/new-articles-2026-11-26T18-18-49Z.csv) | 7 |
-| Turkish | `tr` | [2026-11-26 18:18 UTC](data/tr/new-articles-2026-11-26T18-18-49Z.csv) | 8 |
-| Hebrew | `he` | [2026-11-26 18:18 UTC](data/he/new-articles-2026-11-26T18-18-49Z.csv) | 8 |
-| Swedish | `sv` | [2026-11-26 18:18 UTC](data/sv/new-articles-2026-11-26T18-18-49Z.csv) | 6 |
-| Dutch | `nl` | [2026-11-26 18:18 UTC](data/nl/new-articles-2026-11-26T18-18-49Z.csv) | 5 |
+| Turkish | `tr` | [2026-11-26 19:20 UTC](data/tr/new-articles-2026-11-26T19-20-33Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-26 19:20 UTC](data/he/new-articles-2026-11-26T19-20-33Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-26 19:20 UTC](data/sv/new-articles-2026-11-26T19-20-33Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-26 19:20 UTC](data/nl/new-articles-2026-11-26T19-20-33Z.csv) | 8 |
 | Korean | `ko` | [2026-11-26 17:18 UTC](data/ko/new-articles-2026-11-26T17-18-45Z.csv) | 1 |
 | Indonesian | `id` | [2026-11-26 18:18 UTC](data/id/new-articles-2026-11-26T18-18-49Z.csv) | 2 |
-| Ukrainian | `uk` | [2026-11-26 18:18 UTC](data/uk/new-articles-2026-11-26T18-18-49Z.csv) | 27 |
+| Ukrainian | `uk` | [2026-11-26 19:20 UTC](data/uk/new-articles-2026-11-26T19-20-33Z.csv) | 18 |
 | Vietnamese | `vi` | [2026-11-26 18:18 UTC](data/vi/new-articles-2026-11-26T18-18-49Z.csv) | 1 |
 
-## English (en) — 2026-11-26 18:18 UTC
+## English (en) — 2026-11-26 19:20 UTC
 
-New articles created between 2026-11-26 17:18 UTC and 2026-11-26 18:18 UTC.
+New articles created between 2026-11-26 18:18 UTC and 2026-11-26 19:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-26T18-18-49Z.csv)
+[Full CSV](data/en/new-articles-2026-11-26T19-20-33Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-26 17:27:30 | [Ilko Borshchak](https://en.wikipedia.org/wiki/Ilko_Borshchak) | [Skoropadsky](https://en.wikipedia.org/wiki/User:Skoropadsky) | 10,944 |
-| 2026-11-26 17:32:05 | [Rich Roll](https://en.wikipedia.org/wiki/Rich_Roll) | [Jumplike23](https://en.wikipedia.org/wiki/User:Jumplike23) | 17,031 |
-| 2026-11-26 17:34:01 | [A Mature Student](https://en.wikipedia.org/wiki/A_Mature_Student) | [36hourblock](https://en.wikipedia.org/wiki/User:36hourblock) | 4,813 |
-| 2026-11-26 17:37:29 | [Alwyne Square](https://en.wikipedia.org/wiki/Alwyne_Square) | [RanulfLampard](https://en.wikipedia.org/wiki/User:RanulfLampard) | 2,372 |
-| 2026-11-26 17:39:55 | [List of international prime ministerial trips made by Balen Shah](https://en.wikipedia.org/wiki/List_of_international_prime_ministerial_trips_made_by_Balen_Shah) | [Yasomakara](https://en.wikipedia.org/wiki/User:Yasomakara) | 2,348 |
-| 2026-11-26 17:48:20 | [Amin Cosic](https://en.wikipedia.org/wiki/Amin_Cosic) | [CaeruleusObscurus](https://en.wikipedia.org/wiki/User:CaeruleusObscurus) | 5,169 |
-| 2026-11-26 17:52:43 | [Onga River](https://en.wikipedia.org/wiki/Onga_River) | [Blu Adi](https://en.wikipedia.org/wiki/User:Blu_Adi) | 18,388 |
-| 2026-11-26 17:54:15 | [AP College Raruan](https://en.wikipedia.org/wiki/AP_College_Raruan) | [Jyoti.mohanta31](https://en.wikipedia.org/wiki/User:Jyoti.mohanta31) | 1,771 |
-| 2026-11-26 17:54:23 | [Chiseldon and Ridgeway](https://en.wikipedia.org/wiki/Chiseldon_and_Ridgeway) | [JonathanFiddlesticks](https://en.wikipedia.org/wiki/User:JonathanFiddlesticks) | 5,047 |
-| 2026-11-26 17:58:07 | [Andrew Ramage](https://en.wikipedia.org/wiki/Andrew_Ramage) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 2,985 |
-| 2026-11-26 17:59:23 | [159th Georgia General Assembly](https://en.wikipedia.org/wiki/159th_Georgia_General_Assembly) | [RayneVanDunem](https://en.wikipedia.org/wiki/User:RayneVanDunem) | 4,222 |
-| 2026-11-26 18:05:42 | [Ahmad Hudson](https://en.wikipedia.org/wiki/Ahmad_Hudson) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 46 |
-| 2026-11-26 18:08:19 | [Eremazus](https://en.wikipedia.org/wiki/Eremazus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,608 |
-| 2026-11-26 18:08:40 | [Uday Saharan](https://en.wikipedia.org/wiki/Uday_Saharan) | [Independent26](https://en.wikipedia.org/wiki/User:Independent26) | 4,179 |
-| 2026-11-26 18:11:29 | [Pinty's 125](https://en.wikipedia.org/wiki/Pinty%27s_125) | [Mblock150](https://en.wikipedia.org/wiki/User:Mblock150) | 1,403 |
-| 2026-11-26 18:13:45 | [Eremazus giganteus](https://en.wikipedia.org/wiki/Eremazus_giganteus) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,009 |
-| 2026-11-26 18:16:26 | [2026 Monaghan Senior Football Championship](https://en.wikipedia.org/wiki/2026_Monaghan_Senior_Football_Championship) | [TwoInsurance](https://en.wikipedia.org/wiki/User:TwoInsurance) | 26,998 |
-| 2026-11-26 18:18:02 | [Leiopsammodius rakovici](https://en.wikipedia.org/wiki/Leiopsammodius_rakovici) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,930 |
+| 2026-11-26 18:22:12 | [Context rot](https://en.wikipedia.org/wiki/Context_rot) | [Willsmith](https://en.wikipedia.org/wiki/User:Willsmith) | 398 |
+| 2026-11-26 18:28:11 | [14th Feroz Awards](https://en.wikipedia.org/wiki/14th_Feroz_Awards) | [Asqueladd](https://en.wikipedia.org/wiki/User:Asqueladd) | 7,511 |
+| 2026-11-26 18:28:20 | [Data bus coupler](https://en.wikipedia.org/wiki/Data_bus_coupler) | [Im tau](https://en.wikipedia.org/wiki/User:Im_tau) | 879 |
+| 2026-11-26 18:32:10 | [Shelter for Women (Hartford)](https://en.wikipedia.org/wiki/Shelter_for_Women_%28Hartford%29) | [Penny Richards](https://en.wikipedia.org/wiki/User:Penny_Richards) | 7,256 |
+| 2026-11-26 18:32:50 | [Gregory Carroll (politician)](https://en.wikipedia.org/wiki/Gregory_Carroll_%28politician%29) | [Stanloona2020](https://en.wikipedia.org/wiki/User:Stanloona2020) | 1,466 |
+| 2026-11-26 18:36:34 | [2028 United States House of Representatives elections in Pennsylvania](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Pennsylvania) | [NewJerseyMapper31](https://en.wikipedia.org/wiki/User:NewJerseyMapper31) | 13,957 |
+| 2026-11-26 18:39:35 | [Peslier](https://en.wikipedia.org/wiki/Peslier) | [Hamid Hassani](https://en.wikipedia.org/wiki/User:Hamid_Hassani) | 306 |
+| 2026-11-26 18:46:19 | [JYT (boy band)](https://en.wikipedia.org/wiki/JYT_%28boy_band%29) | [Schau99](https://en.wikipedia.org/wiki/User:Schau99) | 4,279 |
+| 2026-11-26 18:46:38 | [Albania at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Albania_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 3,058 |
+| 2026-11-26 18:52:31 | [Andorra at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Andorra_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 3,003 |
+| 2026-11-26 18:54:44 | [Gideon Gash](https://en.wikipedia.org/wiki/Gideon_Gash) | [Yankees10](https://en.wikipedia.org/wiki/User:Yankees10) | 64 |
+| 2026-11-26 19:02:11 | [Night of Kersten](https://en.wikipedia.org/wiki/Night_of_Kersten) | [Knypster](https://en.wikipedia.org/wiki/User:Knypster) | 8,070 |
+| 2026-11-26 19:04:10 | [Jordan Scott (basketball)](https://en.wikipedia.org/wiki/Jordan_Scott_%28basketball%29) | [Butters.From.SouthPark](https://en.wikipedia.org/wiki/User:Butters.From.SouthPark) | 4,202 |
+| 2026-11-26 19:04:21 | [Armenia at the 2026 Summer Youth Olympics](https://en.wikipedia.org/wiki/Armenia_at_the_2026_Summer_Youth_Olympics) | [JuliánLeiva66](https://en.wikipedia.org/wiki/User:Juli%C3%A1nLeiva66) | 5,712 |
+| 2026-11-26 19:05:13 | [Aitor Zulaika Aranguren](https://en.wikipedia.org/wiki/Aitor_Zulaika_Aranguren) | [A13XHOWARDLATH4M](https://en.wikipedia.org/wiki/User:A13XHOWARDLATH4M) | 5,395 |
+| 2026-11-26 19:11:28 | [Covingham and Nythe](https://en.wikipedia.org/wiki/Covingham_and_Nythe) | [JonathanFiddlesticks](https://en.wikipedia.org/wiki/User:JonathanFiddlesticks) | 8,188 |
+| 2026-11-26 19:16:10 | [Woppa Diallo](https://en.wikipedia.org/wiki/Woppa_Diallo) | [Animaliak](https://en.wikipedia.org/wiki/User:Animaliak) | 11,125 |
+| 2026-11-26 19:20:27 | [Occupied Tucson Citizen](https://en.wikipedia.org/wiki/Occupied_Tucson_Citizen) | [Jcimrman](https://en.wikipedia.org/wiki/User:Jcimrman) | 2,188 |
