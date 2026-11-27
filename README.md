@@ -13,45 +13,50 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-27 05:18 UTC](data/en/new-articles-2026-11-27T05-18-55Z.csv) | 13 |
-| Japanese | `ja` | [2026-11-27 05:18 UTC](data/ja/new-articles-2026-11-27T05-18-55Z.csv) | 11 |
-| Chinese | `zh` | [2026-11-27 05:18 UTC](data/zh/new-articles-2026-11-27T05-18-55Z.csv) | 10 |
-| French | `fr` | [2026-11-27 04:18 UTC](data/fr/new-articles-2026-11-27T04-18-49Z.csv) | 1 |
-| German | `de` | [2026-11-27 04:18 UTC](data/de/new-articles-2026-11-27T04-18-49Z.csv) | 3 |
-| Russian | `ru` | [2026-11-27 05:18 UTC](data/ru/new-articles-2026-11-27T05-18-55Z.csv) | 1 |
-| Spanish | `es` | [2026-11-27 05:18 UTC](data/es/new-articles-2026-11-27T05-18-55Z.csv) | 4 |
-| Italian | `it` | [2026-11-27 05:18 UTC](data/it/new-articles-2026-11-27T05-18-55Z.csv) | 1 |
-| Portuguese | `pt` | [2026-11-27 05:18 UTC](data/pt/new-articles-2026-11-27T05-18-55Z.csv) | 1 |
-| Polish | `pl` | [2026-11-27 03:19 UTC](data/pl/new-articles-2026-11-27T03-19-12Z.csv) | 1 |
-| Arabic | `ar` | [2026-11-27 05:18 UTC](data/ar/new-articles-2026-11-27T05-18-55Z.csv) | 5 |
-| Persian | `fa` | [2026-11-27 05:18 UTC](data/fa/new-articles-2026-11-27T05-18-55Z.csv) | 285 |
-| Turkish | `tr` | [2026-11-27 05:18 UTC](data/tr/new-articles-2026-11-27T05-18-55Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-27 05:18 UTC](data/he/new-articles-2026-11-27T05-18-55Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-27 05:18 UTC](data/sv/new-articles-2026-11-27T05-18-55Z.csv) | 7 |
-| Dutch | `nl` | [2026-11-27 04:18 UTC](data/nl/new-articles-2026-11-27T04-18-49Z.csv) | 4 |
-| Korean | `ko` | [2026-11-27 05:18 UTC](data/ko/new-articles-2026-11-27T05-18-55Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-27 05:18 UTC](data/id/new-articles-2026-11-27T05-18-55Z.csv) | 2 |
+| English | `en` | [2026-11-27 06:20 UTC](data/en/new-articles-2026-11-27T06-20-04Z.csv) | 18 |
+| Japanese | `ja` | [2026-11-27 06:20 UTC](data/ja/new-articles-2026-11-27T06-20-04Z.csv) | 9 |
+| Chinese | `zh` | [2026-11-27 06:20 UTC](data/zh/new-articles-2026-11-27T06-20-04Z.csv) | 4 |
+| French | `fr` | [2026-11-27 06:20 UTC](data/fr/new-articles-2026-11-27T06-20-04Z.csv) | 1 |
+| German | `de` | [2026-11-27 06:20 UTC](data/de/new-articles-2026-11-27T06-20-04Z.csv) | 1 |
+| Russian | `ru` | [2026-11-27 06:20 UTC](data/ru/new-articles-2026-11-27T06-20-04Z.csv) | 4 |
+| Spanish | `es` | [2026-11-27 06:20 UTC](data/es/new-articles-2026-11-27T06-20-04Z.csv) | 2 |
+| Italian | `it` | [2026-11-27 06:20 UTC](data/it/new-articles-2026-11-27T06-20-04Z.csv) | 5 |
+| Portuguese | `pt` | [2026-11-27 06:20 UTC](data/pt/new-articles-2026-11-27T06-20-04Z.csv) | 1 |
+| Polish | `pl` | [2026-11-27 06:20 UTC](data/pl/new-articles-2026-11-27T06-20-04Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-27 06:20 UTC](data/ar/new-articles-2026-11-27T06-20-04Z.csv) | 4 |
+| Persian | `fa` | [2026-11-27 06:20 UTC](data/fa/new-articles-2026-11-27T06-20-04Z.csv) | 289 |
+| Turkish | `tr` | [2026-11-27 06:20 UTC](data/tr/new-articles-2026-11-27T06-20-04Z.csv) | 9 |
+| Hebrew | `he` | [2026-11-27 06:20 UTC](data/he/new-articles-2026-11-27T06-20-04Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-27 06:20 UTC](data/sv/new-articles-2026-11-27T06-20-04Z.csv) | 1 |
+| Dutch | `nl` | [2026-11-27 06:20 UTC](data/nl/new-articles-2026-11-27T06-20-04Z.csv) | 2 |
+| Korean | `ko` | [2026-11-27 06:20 UTC](data/ko/new-articles-2026-11-27T06-20-04Z.csv) | 1 |
+| Indonesian | `id` | [2026-11-27 06:20 UTC](data/id/new-articles-2026-11-27T06-20-04Z.csv) | 4 |
 | Ukrainian | `uk` | [2026-11-27 05:18 UTC](data/uk/new-articles-2026-11-27T05-18-55Z.csv) | 1 |
-| Vietnamese | `vi` | [2026-11-27 05:18 UTC](data/vi/new-articles-2026-11-27T05-18-55Z.csv) | 2 |
+| Vietnamese | `vi` | [2026-11-27 06:20 UTC](data/vi/new-articles-2026-11-27T06-20-04Z.csv) | 2 |
 
-## English (en) — 2026-11-27 05:18 UTC
+## English (en) — 2026-11-27 06:20 UTC
 
-New articles created between 2026-11-27 04:18 UTC and 2026-11-27 05:18 UTC.
+New articles created between 2026-11-27 05:18 UTC and 2026-11-27 06:20 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-27T05-18-55Z.csv)
+[Full CSV](data/en/new-articles-2026-11-27T06-20-04Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-27 04:24:13 | [1947–48 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1947%E2%80%9348_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 23,237 |
-| 2026-11-27 04:36:44 | [Red Cross Rest House](https://en.wikipedia.org/wiki/Red_Cross_Rest_House) | [Rangasyd](https://en.wikipedia.org/wiki/User:Rangasyd) | 14,665 |
-| 2026-11-27 04:41:32 | [1948–49 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1948%E2%80%9349_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 22,015 |
-| 2026-11-27 04:43:57 | [1949–50 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1949%E2%80%9350_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 22,172 |
-| 2026-11-27 04:44:01 | [Koleksi Terbaik](https://en.wikipedia.org/wiki/Koleksi_Terbaik) | [ArtificialHumanity](https://en.wikipedia.org/wiki/User:ArtificialHumanity) | 4,200 |
-| 2026-11-27 04:47:36 | [1950–51 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1950%E2%80%9351_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 20,781 |
-| 2026-11-27 04:49:15 | [2028 United States House of Representatives elections in Missouri](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Missouri) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 8,424 |
-| 2026-11-27 04:50:25 | [1951–52 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1951%E2%80%9352_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 19,341 |
-| 2026-11-27 04:58:44 | [1952–53 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1952%E2%80%9353_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 20,570 |
-| 2026-11-27 05:02:30 | [Arruntia (crater)](https://en.wikipedia.org/wiki/Arruntia_%28crater%29) | [Scourgezoned](https://en.wikipedia.org/wiki/User:Scourgezoned) | 8,230 |
-| 2026-11-27 05:03:00 | [1953–54 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1953%E2%80%9354_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 23,194 |
-| 2026-11-27 05:06:11 | [Robert Hover](https://en.wikipedia.org/wiki/Robert_Hover) | [MoviesandTelevisionFan](https://en.wikipedia.org/wiki/User:MoviesandTelevisionFan) | 3,456 |
-| 2026-11-27 05:17:50 | [Cookeconcha thwingi](https://en.wikipedia.org/wiki/Cookeconcha_thwingi) | [RGCanimation](https://en.wikipedia.org/wiki/User:RGCanimation) | 666 |
+| 2026-11-27 05:23:48 | [2026 Victorian Legislative Assembly election](https://en.wikipedia.org/wiki/2026_Victorian_Legislative_Assembly_election) | [GarbageKarate](https://en.wikipedia.org/wiki/User:GarbageKarate) | 126,231 |
+| 2026-11-27 05:29:28 | [SAOImage](https://en.wikipedia.org/wiki/SAOImage) | [Shocksingularity](https://en.wikipedia.org/wiki/User:Shocksingularity) | 7,750 |
+| 2026-11-27 05:29:42 | [2005–06 New Zealand Formula Ford Championship](https://en.wikipedia.org/wiki/2005%E2%80%9306_New_Zealand_Formula_Ford_Championship) | [SquirrelIAm](https://en.wikipedia.org/wiki/User:SquirrelIAm) | 27,738 |
+| 2026-11-27 05:36:36 | [Mark-Markos Kehva](https://en.wikipedia.org/wiki/Mark-Markos_Kehva) | [PyotrRossetti](https://en.wikipedia.org/wiki/User:PyotrRossetti) | 3,035 |
+| 2026-11-27 05:40:23 | [2028 United States House of Representatives elections in Rhode Island](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Rhode_Island) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 3,066 |
+| 2026-11-27 05:40:36 | [1925 National Amateur Cup](https://en.wikipedia.org/wiki/1925_National_Amateur_Cup) | [Libro0](https://en.wikipedia.org/wiki/User:Libro0) | 7,873 |
+| 2026-11-27 05:44:31 | [Tazieffite](https://en.wikipedia.org/wiki/Tazieffite) | [FajreroCintilo](https://en.wikipedia.org/wiki/User:FajreroCintilo) | 2,929 |
+| 2026-11-27 05:45:11 | [NWA Gigawar](https://en.wikipedia.org/wiki/NWA_Gigawar) | [59Efra](https://en.wikipedia.org/wiki/User:59Efra) | 1,360 |
+| 2026-11-27 05:46:39 | [1935 Cheney Normal Savages football team](https://en.wikipedia.org/wiki/1935_Cheney_Normal_Savages_football_team) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 6,558 |
+| 2026-11-27 05:48:12 | [Star City F.C. Under-20](https://en.wikipedia.org/wiki/Star_City_F.C._Under-20) | [FM Malaysia](https://en.wikipedia.org/wiki/User:FM_Malaysia) | 7,938 |
+| 2026-11-27 05:52:14 | [Hajime Sato (chef)](https://en.wikipedia.org/wiki/Hajime_Sato_%28chef%29) | [CarCai](https://en.wikipedia.org/wiki/User:CarCai) | 9,477 |
+| 2026-11-27 05:54:51 | [Niram (2026 film)](https://en.wikipedia.org/wiki/Niram_%282026_film%29) | [Kailash29792](https://en.wikipedia.org/wiki/User:Kailash29792) | 2,233 |
+| 2026-11-27 06:00:37 | [Mahala Pillsbury](https://en.wikipedia.org/wiki/Mahala_Pillsbury) | [HappyHistorian1862](https://en.wikipedia.org/wiki/User:HappyHistorian1862) | 5,742 |
+| 2026-11-27 06:05:28 | [Ranjit Singh of Ratlam](https://en.wikipedia.org/wiki/Ranjit_Singh_of_Ratlam) | [WikiWhizKid1999](https://en.wikipedia.org/wiki/User:WikiWhizKid1999) | 14,857 |
+| 2026-11-27 06:11:02 | [USCGC Flyingfish](https://en.wikipedia.org/wiki/USCGC_Flyingfish) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 5,604 |
+| 2026-11-27 06:11:38 | [Ludvík Svoboda's Birth House](https://en.wikipedia.org/wiki/Ludv%C3%ADk_Svoboda%27s_Birth_House) | [Bedivere.cs](https://en.wikipedia.org/wiki/User:Bedivere.cs) | 3,706 |
+| 2026-11-27 06:12:35 | [Oleg Shebeta-Dragan](https://en.wikipedia.org/wiki/Oleg_Shebeta-Dragan) | [Gisbert K](https://en.wikipedia.org/wiki/User:Gisbert_K) | 4,839 |
+| 2026-11-27 06:17:07 | [1925 NSWAFL season](https://en.wikipedia.org/wiki/1925_NSWAFL_season) | [43MZrinyiII](https://en.wikipedia.org/wiki/User:43MZrinyiII) | 10,109 |
