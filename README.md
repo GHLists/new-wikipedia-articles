@@ -13,58 +13,57 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-27 02:21 UTC](data/en/new-articles-2026-11-27T02-21-22Z.csv) | 26 |
-| Japanese | `ja` | [2026-11-27 02:21 UTC](data/ja/new-articles-2026-11-27T02-21-22Z.csv) | 11 |
-| Chinese | `zh` | [2026-11-27 02:21 UTC](data/zh/new-articles-2026-11-27T02-21-22Z.csv) | 4 |
-| French | `fr` | [2026-11-27 02:21 UTC](data/fr/new-articles-2026-11-27T02-21-22Z.csv) | 2 |
-| German | `de` | [2026-11-27 02:21 UTC](data/de/new-articles-2026-11-27T02-21-22Z.csv) | 2 |
-| Russian | `ru` | [2026-11-27 02:21 UTC](data/ru/new-articles-2026-11-27T02-21-22Z.csv) | 4 |
-| Spanish | `es` | [2026-11-27 02:21 UTC](data/es/new-articles-2026-11-27T02-21-22Z.csv) | 3 |
-| Italian | `it` | [2026-11-27 02:21 UTC](data/it/new-articles-2026-11-27T02-21-22Z.csv) | 4 |
-| Portuguese | `pt` | [2026-11-27 02:21 UTC](data/pt/new-articles-2026-11-27T02-21-22Z.csv) | 8 |
-| Polish | `pl` | [2026-11-27 02:21 UTC](data/pl/new-articles-2026-11-27T02-21-22Z.csv) | 3 |
-| Arabic | `ar` | [2026-11-27 02:21 UTC](data/ar/new-articles-2026-11-27T02-21-22Z.csv) | 1 |
-| Persian | `fa` | [2026-11-27 02:21 UTC](data/fa/new-articles-2026-11-27T02-21-22Z.csv) | 279 |
+| English | `en` | [2026-11-27 03:19 UTC](data/en/new-articles-2026-11-27T03-19-12Z.csv) | 25 |
+| Japanese | `ja` | [2026-11-27 03:19 UTC](data/ja/new-articles-2026-11-27T03-19-12Z.csv) | 4 |
+| Chinese | `zh` | [2026-11-27 03:19 UTC](data/zh/new-articles-2026-11-27T03-19-12Z.csv) | 8 |
+| French | `fr` | [2026-11-27 03:19 UTC](data/fr/new-articles-2026-11-27T03-19-12Z.csv) | 1 |
+| German | `de` | [2026-11-27 03:19 UTC](data/de/new-articles-2026-11-27T03-19-12Z.csv) | 3 |
+| Russian | `ru` | [2026-11-27 03:19 UTC](data/ru/new-articles-2026-11-27T03-19-12Z.csv) | 1 |
+| Spanish | `es` | [2026-11-27 03:19 UTC](data/es/new-articles-2026-11-27T03-19-12Z.csv) | 9 |
+| Italian | `it` | [2026-11-27 03:19 UTC](data/it/new-articles-2026-11-27T03-19-12Z.csv) | 1 |
+| Portuguese | `pt` | [2026-11-27 03:19 UTC](data/pt/new-articles-2026-11-27T03-19-12Z.csv) | 5 |
+| Polish | `pl` | [2026-11-27 03:19 UTC](data/pl/new-articles-2026-11-27T03-19-12Z.csv) | 1 |
+| Arabic | `ar` | [2026-11-27 03:19 UTC](data/ar/new-articles-2026-11-27T03-19-12Z.csv) | 2 |
+| Persian | `fa` | [2026-11-27 03:19 UTC](data/fa/new-articles-2026-11-27T03-19-12Z.csv) | 263 |
 | Turkish | `tr` | [2026-11-27 00:21 UTC](data/tr/new-articles-2026-11-27T00-21-52Z.csv) | 1 |
 | Hebrew | `he` | [2026-11-27 02:21 UTC](data/he/new-articles-2026-11-27T02-21-22Z.csv) | 1 |
 | Swedish | `sv` | [2026-11-27 02:21 UTC](data/sv/new-articles-2026-11-27T02-21-22Z.csv) | 1 |
 | Dutch | `nl` | [2026-11-27 02:21 UTC](data/nl/new-articles-2026-11-27T02-21-22Z.csv) | 4 |
-| Korean | `ko` | [2026-11-27 02:21 UTC](data/ko/new-articles-2026-11-27T02-21-22Z.csv) | 5 |
-| Indonesian | `id` | [2026-11-27 02:21 UTC](data/id/new-articles-2026-11-27T02-21-22Z.csv) | 3 |
+| Korean | `ko` | [2026-11-27 03:19 UTC](data/ko/new-articles-2026-11-27T03-19-12Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-27 03:19 UTC](data/id/new-articles-2026-11-27T03-19-12Z.csv) | 2 |
 | Ukrainian | `uk` | [2026-11-27 02:21 UTC](data/uk/new-articles-2026-11-27T02-21-22Z.csv) | 2 |
 | Vietnamese | `vi` | [2026-11-27 02:21 UTC](data/vi/new-articles-2026-11-27T02-21-22Z.csv) | 3 |
 
-## English (en) — 2026-11-27 02:21 UTC
+## English (en) — 2026-11-27 03:19 UTC
 
-New articles created between 2026-11-27 01:19 UTC and 2026-11-27 02:21 UTC.
+New articles created between 2026-11-27 02:21 UTC and 2026-11-27 03:19 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-27T02-21-22Z.csv)
+[Full CSV](data/en/new-articles-2026-11-27T03-19-12Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-27 01:21:51 | [Kur Teng](https://en.wikipedia.org/wiki/Kur_Teng) | [Butters.From.SouthPark](https://en.wikipedia.org/wiki/User:Butters.From.SouthPark) | 4,383 |
-| 2026-11-27 01:22:05 | [James T. Morris Arena](https://en.wikipedia.org/wiki/James_T._Morris_Arena) | [BullDawg2021](https://en.wikipedia.org/wiki/User:BullDawg2021) | 6,085 |
-| 2026-11-27 01:27:38 | [Whatever It Takes (1986 film)](https://en.wikipedia.org/wiki/Whatever_It_Takes_%281986_film%29) | [Duffbeerforme](https://en.wikipedia.org/wiki/User:Duffbeerforme) | 3,909 |
-| 2026-11-27 01:29:44 | [2028 United States House of Representatives elections in Connecticut](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Connecticut) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 5,063 |
-| 2026-11-27 01:31:54 | [Zolnikov](https://en.wikipedia.org/wiki/Zolnikov) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 112 |
-| 2026-11-27 01:33:40 | [Corporate Love Story](https://en.wikipedia.org/wiki/Corporate_Love_Story) | [Filmyworldwiki](https://en.wikipedia.org/wiki/User:Filmyworldwiki) | 7,822 |
-| 2026-11-27 01:37:54 | [Topaz Gala](https://en.wikipedia.org/wiki/Topaz_Gala) | [Y-barton](https://en.wikipedia.org/wiki/User:Y-barton) | 1,283 |
-| 2026-11-27 01:39:14 | [Michael N. Fardis](https://en.wikipedia.org/wiki/Michael_N._Fardis) | [Mousysane](https://en.wikipedia.org/wiki/User:Mousysane) | 11,235 |
-| 2026-11-27 01:45:59 | [Burkhauser](https://en.wikipedia.org/wiki/Burkhauser) | [Jax 0677](https://en.wikipedia.org/wiki/User:Jax_0677) | 129 |
-| 2026-11-27 01:46:02 | [Defender (Atari 2600 video game)](https://en.wikipedia.org/wiki/Defender_%28Atari_2600_video_game%29) | [Guyinblack25](https://en.wikipedia.org/wiki/User:Guyinblack25) | 37,625 |
-| 2026-11-27 01:47:59 | [1915–16 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1915%E2%80%9316_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 6,152 |
-| 2026-11-27 01:49:28 | [1916–17 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1916%E2%80%9317_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 4,613 |
-| 2026-11-27 01:50:23 | [1917–18 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1917%E2%80%9318_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 5,833 |
-| 2026-11-27 01:51:41 | [2028 United States House of Representatives elections in New Hampshire](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_New_Hampshire) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 3,339 |
-| 2026-11-27 01:53:10 | [Henryk Tomaszewicz](https://en.wikipedia.org/wiki/Henryk_Tomaszewicz) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 5,160 |
-| 2026-11-27 01:53:36 | [1918–19 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1918%E2%80%9319_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 4,580 |
-| 2026-11-27 02:04:25 | [1919–20 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1919%E2%80%9320_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 6,830 |
-| 2026-11-27 02:05:44 | [1920–21 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1920%E2%80%9321_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 7,573 |
-| 2026-11-27 02:06:32 | [1921–22 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1921%E2%80%9322_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 7,232 |
-| 2026-11-27 02:07:14 | [1922–23 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1922%E2%80%9323_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 6,748 |
-| 2026-11-27 02:08:48 | [1923–24 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1923%E2%80%9324_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,549 |
-| 2026-11-27 02:09:50 | [OX (artist)](https://en.wikipedia.org/wiki/OX_%28artist%29) | [Eatgreens2](https://en.wikipedia.org/wiki/User:Eatgreens2) | 16,266 |
-| 2026-11-27 02:10:20 | [1924–25 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1924%E2%80%9325_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 7,068 |
-| 2026-11-27 02:10:46 | [2028 United States House of Representatives elections in Maine](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_elections_in_Maine) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 3,060 |
-| 2026-11-27 02:12:27 | [1925–26 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1925%E2%80%9326_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 7,401 |
-| 2026-11-27 02:16:49 | [1926–27 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1926%E2%80%9327_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 7,674 |
+| 2026-11-27 02:21:34 | [1927–28 Bowling Green Normals men's basketball team](https://en.wikipedia.org/wiki/1927%E2%80%9328_Bowling_Green_Normals_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,309 |
+| 2026-11-27 02:22:18 | [1926–27 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1926%E2%80%9327_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 9,465 |
+| 2026-11-27 02:23:21 | [1928–29 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1928%E2%80%9329_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,801 |
+| 2026-11-27 02:27:23 | [Ann Wyatt (shipbuilder)](https://en.wikipedia.org/wiki/Ann_Wyatt_%28shipbuilder%29) | [Aciram](https://en.wikipedia.org/wiki/User:Aciram) | 1,687 |
+| 2026-11-27 02:33:26 | [1929–30 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1929%E2%80%9330_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 7,986 |
+| 2026-11-27 02:34:09 | [1930–31 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1930%E2%80%9331_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,013 |
+| 2026-11-27 02:34:28 | [2028 United States House of Representatives election in Vermont](https://en.wikipedia.org/wiki/2028_United_States_House_of_Representatives_election_in_Vermont) | [Marpatrob](https://en.wikipedia.org/wiki/User:Marpatrob) | 2,425 |
+| 2026-11-27 02:34:57 | [1931–32 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1931%E2%80%9332_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,929 |
+| 2026-11-27 02:35:20 | [Fayaz](https://en.wikipedia.org/wiki/Fayaz) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 618 |
+| 2026-11-27 02:35:48 | [1932–33 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1932%E2%80%9333_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 7,916 |
+| 2026-11-27 02:37:14 | [1933–34 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1933%E2%80%9334_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,545 |
+| 2026-11-27 02:39:18 | [1934–35 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1934%E2%80%9335_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,567 |
+| 2026-11-27 02:40:44 | [1935–36 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1935%E2%80%9336_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,253 |
+| 2026-11-27 02:42:19 | [1936–37 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1936%E2%80%9337_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 8,382 |
+| 2026-11-27 02:43:00 | [Mallavarapu](https://en.wikipedia.org/wiki/Mallavarapu) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 153 |
+| 2026-11-27 02:43:13 | [Urvan (Kabardino-Balkaria)](https://en.wikipedia.org/wiki/Urvan_%28Kabardino-Balkaria%29) | [SussexBrancher](https://en.wikipedia.org/wiki/User:SussexBrancher) | 1,261 |
+| 2026-11-27 02:43:38 | [1937–38 Bowling Green Falcons men's basketball team](https://en.wikipedia.org/wiki/1937%E2%80%9338_Bowling_Green_Falcons_men%27s_basketball_team) | [BeerAndBasketball](https://en.wikipedia.org/wiki/User:BeerAndBasketball) | 11,627 |
+| 2026-11-27 02:49:13 | [Suicide by mod](https://en.wikipedia.org/wiki/Suicide_by_mod) | [PokemonPerson](https://en.wikipedia.org/wiki/User:PokemonPerson) | 560 |
+| 2026-11-27 02:49:53 | [Qingyu](https://en.wikipedia.org/wiki/Qingyu) | [Duckmather](https://en.wikipedia.org/wiki/User:Duckmather) | 435 |
+| 2026-11-27 02:53:36 | [Hammond (given name)](https://en.wikipedia.org/wiki/Hammond_%28given_name%29) | [BD2412](https://en.wikipedia.org/wiki/User:BD2412) | 257 |
+| 2026-11-27 02:56:46 | [Busan Award for Best Director](https://en.wikipedia.org/wiki/Busan_Award_for_Best_Director) | [DangNgH6464](https://en.wikipedia.org/wiki/User:DangNgH6464) | 5,572 |
+| 2026-11-27 02:59:51 | [Rodina Singh](https://en.wikipedia.org/wiki/Rodina_Singh) | [Hariboneagle927](https://en.wikipedia.org/wiki/User:Hariboneagle927) | 6,186 |
+| 2026-11-27 03:07:09 | [Mike Pleasant](https://en.wikipedia.org/wiki/Mike_Pleasant) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 8,335 |
+| 2026-11-27 03:13:46 | [Upper Soudley](https://en.wikipedia.org/wiki/Upper_Soudley) | [Zocloteerbey](https://en.wikipedia.org/wiki/User:Zocloteerbey) | 872 |
+| 2026-11-27 03:15:46 | [Becky Sloane](https://en.wikipedia.org/wiki/Becky_Sloane) | [JECWV](https://en.wikipedia.org/wiki/User:JECWV) | 7,117 |
