@@ -13,42 +13,45 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-27 10:20 UTC](data/en/new-articles-2026-11-27T10-20-01Z.csv) | 10 |
-| Japanese | `ja` | [2026-11-27 10:20 UTC](data/ja/new-articles-2026-11-27T10-20-01Z.csv) | 4 |
-| Chinese | `zh` | [2026-11-27 10:20 UTC](data/zh/new-articles-2026-11-27T10-20-01Z.csv) | 5 |
-| French | `fr` | [2026-11-27 10:20 UTC](data/fr/new-articles-2026-11-27T10-20-01Z.csv) | 17 |
-| German | `de` | [2026-11-27 10:20 UTC](data/de/new-articles-2026-11-27T10-20-01Z.csv) | 16 |
-| Russian | `ru` | [2026-11-27 10:20 UTC](data/ru/new-articles-2026-11-27T10-20-01Z.csv) | 11 |
-| Spanish | `es` | [2026-11-27 10:20 UTC](data/es/new-articles-2026-11-27T10-20-01Z.csv) | 4 |
-| Italian | `it` | [2026-11-27 10:20 UTC](data/it/new-articles-2026-11-27T10-20-01Z.csv) | 8 |
-| Portuguese | `pt` | [2026-11-27 10:20 UTC](data/pt/new-articles-2026-11-27T10-20-01Z.csv) | 1 |
-| Polish | `pl` | [2026-11-27 10:20 UTC](data/pl/new-articles-2026-11-27T10-20-01Z.csv) | 8 |
-| Arabic | `ar` | [2026-11-27 10:20 UTC](data/ar/new-articles-2026-11-27T10-20-01Z.csv) | 5 |
-| Persian | `fa` | [2026-11-27 10:20 UTC](data/fa/new-articles-2026-11-27T10-20-01Z.csv) | 284 |
-| Turkish | `tr` | [2026-11-27 10:20 UTC](data/tr/new-articles-2026-11-27T10-20-01Z.csv) | 1 |
-| Hebrew | `he` | [2026-11-27 10:20 UTC](data/he/new-articles-2026-11-27T10-20-01Z.csv) | 4 |
-| Swedish | `sv` | [2026-11-27 10:20 UTC](data/sv/new-articles-2026-11-27T10-20-01Z.csv) | 4 |
-| Dutch | `nl` | [2026-11-27 10:20 UTC](data/nl/new-articles-2026-11-27T10-20-01Z.csv) | 9 |
-| Korean | `ko` | [2026-11-27 10:20 UTC](data/ko/new-articles-2026-11-27T10-20-01Z.csv) | 2 |
-| Indonesian | `id` | [2026-11-27 10:20 UTC](data/id/new-articles-2026-11-27T10-20-01Z.csv) | 4 |
-| Ukrainian | `uk` | [2026-11-27 10:20 UTC](data/uk/new-articles-2026-11-27T10-20-01Z.csv) | 14 |
+| English | `en` | [2026-11-27 11:21 UTC](data/en/new-articles-2026-11-27T11-21-29Z.csv) | 13 |
+| Japanese | `ja` | [2026-11-27 11:21 UTC](data/ja/new-articles-2026-11-27T11-21-29Z.csv) | 14 |
+| Chinese | `zh` | [2026-11-27 11:21 UTC](data/zh/new-articles-2026-11-27T11-21-29Z.csv) | 3 |
+| French | `fr` | [2026-11-27 11:21 UTC](data/fr/new-articles-2026-11-27T11-21-29Z.csv) | 8 |
+| German | `de` | [2026-11-27 11:21 UTC](data/de/new-articles-2026-11-27T11-21-29Z.csv) | 17 |
+| Russian | `ru` | [2026-11-27 11:21 UTC](data/ru/new-articles-2026-11-27T11-21-29Z.csv) | 17 |
+| Spanish | `es` | [2026-11-27 11:21 UTC](data/es/new-articles-2026-11-27T11-21-29Z.csv) | 8 |
+| Italian | `it` | [2026-11-27 11:21 UTC](data/it/new-articles-2026-11-27T11-21-29Z.csv) | 18 |
+| Portuguese | `pt` | [2026-11-27 11:21 UTC](data/pt/new-articles-2026-11-27T11-21-29Z.csv) | 3 |
+| Polish | `pl` | [2026-11-27 11:21 UTC](data/pl/new-articles-2026-11-27T11-21-29Z.csv) | 2 |
+| Arabic | `ar` | [2026-11-27 11:21 UTC](data/ar/new-articles-2026-11-27T11-21-29Z.csv) | 4 |
+| Persian | `fa` | [2026-11-27 11:21 UTC](data/fa/new-articles-2026-11-27T11-21-29Z.csv) | 309 |
+| Turkish | `tr` | [2026-11-27 11:21 UTC](data/tr/new-articles-2026-11-27T11-21-29Z.csv) | 2 |
+| Hebrew | `he` | [2026-11-27 11:21 UTC](data/he/new-articles-2026-11-27T11-21-29Z.csv) | 4 |
+| Swedish | `sv` | [2026-11-27 11:21 UTC](data/sv/new-articles-2026-11-27T11-21-29Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-27 11:21 UTC](data/nl/new-articles-2026-11-27T11-21-29Z.csv) | 4 |
+| Korean | `ko` | [2026-11-27 11:21 UTC](data/ko/new-articles-2026-11-27T11-21-29Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-27 11:21 UTC](data/id/new-articles-2026-11-27T11-21-29Z.csv) | 3 |
+| Ukrainian | `uk` | [2026-11-27 11:21 UTC](data/uk/new-articles-2026-11-27T11-21-29Z.csv) | 5 |
 | Vietnamese | `vi` | [2026-11-27 09:21 UTC](data/vi/new-articles-2026-11-27T09-21-07Z.csv) | 1 |
 
-## English (en) — 2026-11-27 10:20 UTC
+## English (en) — 2026-11-27 11:21 UTC
 
-New articles created between 2026-11-27 09:21 UTC and 2026-11-27 10:20 UTC.
+New articles created between 2026-11-27 10:20 UTC and 2026-11-27 11:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-27T10-20-01Z.csv)
+[Full CSV](data/en/new-articles-2026-11-27T11-21-29Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-27 09:37:58 | [Trigonoscelus hypi](https://en.wikipedia.org/wiki/Trigonoscelus_hypi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,071 |
-| 2026-11-27 09:44:24 | [33rd Infantry Regiment (Vietnam)](https://en.wikipedia.org/wiki/33rd_Infantry_Regiment_%28Vietnam%29) | [Leemyongpak](https://en.wikipedia.org/wiki/User:Leemyongpak) | 3,441 |
-| 2026-11-27 09:45:07 | [Pseudomothon pittinoi](https://en.wikipedia.org/wiki/Pseudomothon_pittinoi) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,037 |
-| 2026-11-27 09:51:00 | [Anil nair cinematographer](https://en.wikipedia.org/wiki/Anil_nair_cinematographer) | [Aalippazham](https://en.wikipedia.org/wiki/User:Aalippazham) | 917 |
-| 2026-11-27 09:57:15 | [Hellenic Agricultural Academy](https://en.wikipedia.org/wiki/Hellenic_Agricultural_Academy) | [XyloNerd](https://en.wikipedia.org/wiki/User:XyloNerd) | 6,907 |
-| 2026-11-27 10:01:44 | [Women's football in Kenya](https://en.wikipedia.org/wiki/Women%27s_football_in_Kenya) | [Dwanyewest](https://en.wikipedia.org/wiki/User:Dwanyewest) | 1,938 |
-| 2026-11-27 10:03:00 | [Glaresis vanharteni](https://en.wikipedia.org/wiki/Glaresis_vanharteni) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,877 |
-| 2026-11-27 10:05:48 | [Glaresis nestor](https://en.wikipedia.org/wiki/Glaresis_nestor) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,926 |
-| 2026-11-27 10:07:07 | [Violence against women in Luxembourg](https://en.wikipedia.org/wiki/Violence_against_women_in_Luxembourg) | [Ipigott](https://en.wikipedia.org/wiki/User:Ipigott) | 2,074 |
-| 2026-11-27 10:15:17 | [Asociation for Human Rights Activist of Bhutan](https://en.wikipedia.org/wiki/Asociation_for_Human_Rights_Activist_of_Bhutan) | [Bhutaneseofbhutan](https://en.wikipedia.org/wiki/User:Bhutaneseofbhutan) | 5,453 |
+| 2026-11-27 10:21:12 | [Vasyl Oparivskyi](https://en.wikipedia.org/wiki/Vasyl_Oparivskyi) | [Замішанець](https://en.wikipedia.org/wiki/User:%D0%97%D0%B0%D0%BC%D1%96%D1%88%D0%B0%D0%BD%D0%B5%D1%86%D1%8C) | 7,669 |
+| 2026-11-27 10:25:52 | [Heo In-seo](https://en.wikipedia.org/wiki/Heo_In-seo) | [Kboybaseball1994](https://en.wikipedia.org/wiki/User:Kboybaseball1994) | 178 |
+| 2026-11-27 10:27:05 | [Lev Oparivskyi](https://en.wikipedia.org/wiki/Lev_Oparivskyi) | [Замішанець](https://en.wikipedia.org/wiki/User:%D0%97%D0%B0%D0%BC%D1%96%D1%88%D0%B0%D0%BD%D0%B5%D1%86%D1%8C) | 7,453 |
+| 2026-11-27 10:28:55 | [Stenotothorax lanei](https://en.wikipedia.org/wiki/Stenotothorax_lanei) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,035 |
+| 2026-11-27 10:38:15 | [Stenotothorax mcpeaki](https://en.wikipedia.org/wiki/Stenotothorax_mcpeaki) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,842 |
+| 2026-11-27 10:38:23 | [Yaroslava Bandera](https://en.wikipedia.org/wiki/Yaroslava_Bandera) | [Замішанець](https://en.wikipedia.org/wiki/User:%D0%97%D0%B0%D0%BC%D1%96%D1%88%D0%B0%D0%BD%D0%B5%D1%86%D1%8C) | 7,502 |
+| 2026-11-27 10:47:36 | [Sheytunez](https://en.wikipedia.org/wiki/Sheytunez) | [Godwin233](https://en.wikipedia.org/wiki/User:Godwin233) | 5,828 |
+| 2026-11-27 10:58:34 | [Kintsugi (Elisa album)](https://en.wikipedia.org/wiki/Kintsugi_%28Elisa_album%29) | [BeyPolite](https://en.wikipedia.org/wiki/User:BeyPolite) | 10,479 |
+| 2026-11-27 11:02:29 | [Bost (surname)](https://en.wikipedia.org/wiki/Bost_%28surname%29) | [Charles Matthews](https://en.wikipedia.org/wiki/User:Charles_Matthews) | 358 |
+| 2026-11-27 11:09:19 | [Stenotothorax niviviator](https://en.wikipedia.org/wiki/Stenotothorax_niviviator) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 2,055 |
+| 2026-11-27 11:12:13 | [Stenotothorax smilodon](https://en.wikipedia.org/wiki/Stenotothorax_smilodon) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,982 |
+| 2026-11-27 11:15:07 | [Zophobas opacus](https://en.wikipedia.org/wiki/Zophobas_opacus) | [Zophobasatratusowner123](https://en.wikipedia.org/wiki/User:Zophobasatratusowner123) | 2,794 |
+| 2026-11-27 11:15:54 | [Stenotothorax washtucna](https://en.wikipedia.org/wiki/Stenotothorax_washtucna) | [B33tleMania12](https://en.wikipedia.org/wiki/User:B33tleMania12) | 1,983 |
