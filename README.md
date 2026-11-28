@@ -13,65 +13,66 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-28 15:21 UTC](data/en/new-articles-2026-11-28T15-21-13Z.csv) | 33 |
-| Japanese | `ja` | [2026-11-28 15:21 UTC](data/ja/new-articles-2026-11-28T15-21-13Z.csv) | 20 |
-| Chinese | `zh` | [2026-11-28 15:21 UTC](data/zh/new-articles-2026-11-28T15-21-13Z.csv) | 8 |
-| French | `fr` | [2026-11-28 15:21 UTC](data/fr/new-articles-2026-11-28T15-21-13Z.csv) | 10 |
-| German | `de` | [2026-11-28 15:21 UTC](data/de/new-articles-2026-11-28T15-21-13Z.csv) | 13 |
-| Russian | `ru` | [2026-11-28 15:21 UTC](data/ru/new-articles-2026-11-28T15-21-13Z.csv) | 13 |
-| Spanish | `es` | [2026-11-28 15:21 UTC](data/es/new-articles-2026-11-28T15-21-13Z.csv) | 41 |
-| Italian | `it` | [2026-11-28 15:21 UTC](data/it/new-articles-2026-11-28T15-21-13Z.csv) | 9 |
-| Portuguese | `pt` | [2026-11-28 15:21 UTC](data/pt/new-articles-2026-11-28T15-21-13Z.csv) | 5 |
-| Polish | `pl` | [2026-11-28 15:21 UTC](data/pl/new-articles-2026-11-28T15-21-13Z.csv) | 9 |
-| Arabic | `ar` | [2026-11-28 15:21 UTC](data/ar/new-articles-2026-11-28T15-21-13Z.csv) | 12 |
-| Persian | `fa` | [2026-11-28 15:21 UTC](data/fa/new-articles-2026-11-28T15-21-13Z.csv) | 262 |
-| Turkish | `tr` | [2026-11-28 15:21 UTC](data/tr/new-articles-2026-11-28T15-21-13Z.csv) | 28 |
-| Hebrew | `he` | [2026-11-28 15:21 UTC](data/he/new-articles-2026-11-28T15-21-13Z.csv) | 3 |
-| Swedish | `sv` | [2026-11-28 15:21 UTC](data/sv/new-articles-2026-11-28T15-21-13Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-28 15:21 UTC](data/nl/new-articles-2026-11-28T15-21-13Z.csv) | 3 |
-| Korean | `ko` | [2026-11-28 15:21 UTC](data/ko/new-articles-2026-11-28T15-21-13Z.csv) | 1 |
-| Indonesian | `id` | [2026-11-28 15:21 UTC](data/id/new-articles-2026-11-28T15-21-13Z.csv) | 16 |
-| Ukrainian | `uk` | [2026-11-28 15:21 UTC](data/uk/new-articles-2026-11-28T15-21-13Z.csv) | 12 |
-| Vietnamese | `vi` | [2026-11-28 15:21 UTC](data/vi/new-articles-2026-11-28T15-21-13Z.csv) | 4 |
+| English | `en` | [2026-11-28 16:21 UTC](data/en/new-articles-2026-11-28T16-21-20Z.csv) | 34 |
+| Japanese | `ja` | [2026-11-28 16:21 UTC](data/ja/new-articles-2026-11-28T16-21-20Z.csv) | 7 |
+| Chinese | `zh` | [2026-11-28 16:21 UTC](data/zh/new-articles-2026-11-28T16-21-20Z.csv) | 13 |
+| French | `fr` | [2026-11-28 16:21 UTC](data/fr/new-articles-2026-11-28T16-21-20Z.csv) | 10 |
+| German | `de` | [2026-11-28 16:21 UTC](data/de/new-articles-2026-11-28T16-21-20Z.csv) | 7 |
+| Russian | `ru` | [2026-11-28 16:21 UTC](data/ru/new-articles-2026-11-28T16-21-20Z.csv) | 7 |
+| Spanish | `es` | [2026-11-28 16:21 UTC](data/es/new-articles-2026-11-28T16-21-20Z.csv) | 6 |
+| Italian | `it` | [2026-11-28 16:21 UTC](data/it/new-articles-2026-11-28T16-21-20Z.csv) | 5 |
+| Portuguese | `pt` | [2026-11-28 16:21 UTC](data/pt/new-articles-2026-11-28T16-21-20Z.csv) | 27 |
+| Polish | `pl` | [2026-11-28 16:21 UTC](data/pl/new-articles-2026-11-28T16-21-20Z.csv) | 6 |
+| Arabic | `ar` | [2026-11-28 16:21 UTC](data/ar/new-articles-2026-11-28T16-21-20Z.csv) | 5 |
+| Persian | `fa` | [2026-11-28 16:21 UTC](data/fa/new-articles-2026-11-28T16-21-20Z.csv) | 188 |
+| Turkish | `tr` | [2026-11-28 16:21 UTC](data/tr/new-articles-2026-11-28T16-21-20Z.csv) | 4 |
+| Hebrew | `he` | [2026-11-28 16:21 UTC](data/he/new-articles-2026-11-28T16-21-20Z.csv) | 2 |
+| Swedish | `sv` | [2026-11-28 16:21 UTC](data/sv/new-articles-2026-11-28T16-21-20Z.csv) | 2 |
+| Dutch | `nl` | [2026-11-28 16:21 UTC](data/nl/new-articles-2026-11-28T16-21-20Z.csv) | 3 |
+| Korean | `ko` | [2026-11-28 16:21 UTC](data/ko/new-articles-2026-11-28T16-21-20Z.csv) | 2 |
+| Indonesian | `id` | [2026-11-28 16:21 UTC](data/id/new-articles-2026-11-28T16-21-20Z.csv) | 4 |
+| Ukrainian | `uk` | [2026-11-28 16:21 UTC](data/uk/new-articles-2026-11-28T16-21-20Z.csv) | 15 |
+| Vietnamese | `vi` | [2026-11-28 16:21 UTC](data/vi/new-articles-2026-11-28T16-21-20Z.csv) | 2 |
 
-## English (en) — 2026-11-28 15:21 UTC
+## English (en) — 2026-11-28 16:21 UTC
 
-New articles created between 2026-11-28 14:20 UTC and 2026-11-28 15:21 UTC.
+New articles created between 2026-11-28 15:21 UTC and 2026-11-28 16:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-28T15-21-13Z.csv)
+[Full CSV](data/en/new-articles-2026-11-28T16-21-20Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-28 14:20:47 | [Hermon (helmsman)](https://en.wikipedia.org/wiki/Hermon_%28helmsman%29) | [Archaeaoris](https://en.wikipedia.org/wiki/User:Archaeaoris) | 3,322 |
-| 2026-11-28 14:21:40 | [2027 Clube do Remo season](https://en.wikipedia.org/wiki/2027_Clube_do_Remo_season) | [Rafaelzis](https://en.wikipedia.org/wiki/User:Rafaelzis) | 6,605 |
-| 2026-11-28 14:22:00 | [Suruga-Sagami Conflict](https://en.wikipedia.org/wiki/Suruga-Sagami_Conflict) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 3,109 |
-| 2026-11-28 14:23:20 | [Coronation Rock](https://en.wikipedia.org/wiki/Coronation_Rock) | [HoraceEdits2919](https://en.wikipedia.org/wiki/User:HoraceEdits2919) | 7,430 |
-| 2026-11-28 14:27:08 | [2026 FIBA 3x3 Africa Cup](https://en.wikipedia.org/wiki/2026_FIBA_3x3_Africa_Cup) | [Kante4](https://en.wikipedia.org/wiki/User:Kante4) | 307 |
-| 2026-11-28 14:27:15 | [Raja Reddy](https://en.wikipedia.org/wiki/Raja_Reddy) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,221 |
-| 2026-11-28 14:31:11 | [Maciej Zięba (dancer)](https://en.wikipedia.org/wiki/Maciej_Zi%C4%99ba_%28dancer%29) | [Sockie16](https://en.wikipedia.org/wiki/User:Sockie16) | 11,034 |
-| 2026-11-28 14:33:22 | [Callum Whitehead](https://en.wikipedia.org/wiki/Callum_Whitehead) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,090 |
-| 2026-11-28 14:34:12 | [Japan Catholic Seminary](https://en.wikipedia.org/wiki/Japan_Catholic_Seminary) | [Nosmetana](https://en.wikipedia.org/wiki/User:Nosmetana) | 11,539 |
-| 2026-11-28 14:34:35 | [Samuel Milley](https://en.wikipedia.org/wiki/Samuel_Milley) | [EditDude](https://en.wikipedia.org/wiki/User:EditDude) | 5,287 |
-| 2026-11-28 14:35:24 | [Siege of Gassan-Toda (1565-1566)](https://en.wikipedia.org/wiki/Siege_of_Gassan-Toda_%281565-1566%29) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 2,760 |
-| 2026-11-28 14:37:25 | [Chris Parr (politician)](https://en.wikipedia.org/wiki/Chris_Parr_%28politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,179 |
-| 2026-11-28 14:41:13 | [Battle of Torisaka](https://en.wikipedia.org/wiki/Battle_of_Torisaka) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 1,812 |
-| 2026-11-28 14:42:29 | [Megacedro](https://en.wikipedia.org/wiki/Megacedro) | [C7XG](https://en.wikipedia.org/wiki/User:C7XG) | 7,354 |
-| 2026-11-28 14:43:31 | [Jeff Shelley](https://en.wikipedia.org/wiki/Jeff_Shelley) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,594 |
-| 2026-11-28 14:44:39 | [Lalor Plaza](https://en.wikipedia.org/wiki/Lalor_Plaza) | [Celebrating suburbia](https://en.wikipedia.org/wiki/User:Celebrating_suburbia) | 752 |
-| 2026-11-28 14:44:54 | [Battle of Tonomoto](https://en.wikipedia.org/wiki/Battle_of_Tonomoto) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 2,096 |
-| 2026-11-28 14:46:48 | [SMS S53](https://en.wikipedia.org/wiki/SMS_S53) | [Nigel Ish](https://en.wikipedia.org/wiki/User:Nigel_Ish) | 1,012 |
-| 2026-11-28 14:49:05 | [A Man Walks Down the Street](https://en.wikipedia.org/wiki/A_Man_Walks_Down_the_Street) | [Teatreez](https://en.wikipedia.org/wiki/User:Teatreez) | 4,813 |
-| 2026-11-28 14:51:30 | [Norm: The Tale of Norm Macdonald](https://en.wikipedia.org/wiki/Norm%3A_The_Tale_of_Norm_Macdonald) | [Nicholas0](https://en.wikipedia.org/wiki/User:Nicholas0) | 5,085 |
-| 2026-11-28 14:52:55 | [Battle of Noda-Fukushima](https://en.wikipedia.org/wiki/Battle_of_Noda-Fukushima) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 2,702 |
-| 2026-11-28 14:54:59 | [Gino Tripodi](https://en.wikipedia.org/wiki/Gino_Tripodi) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,990 |
-| 2026-11-28 14:55:36 | [Tsai Yi-yu](https://en.wikipedia.org/wiki/Tsai_Yi-yu) | [ViewerSide](https://en.wikipedia.org/wiki/User:ViewerSide) | 21 |
-| 2026-11-28 14:56:58 | [Charles Tran (Australian politician)](https://en.wikipedia.org/wiki/Charles_Tran_%28Australian_politician%29) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 1,699 |
-| 2026-11-28 14:57:33 | [Battle of Wakae](https://en.wikipedia.org/wiki/Battle_of_Wakae) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 3,093 |
-| 2026-11-28 14:58:24 | [Grave of the Unknown Soldier of the Ukrainian Galician Arm](https://en.wikipedia.org/wiki/Grave_of_the_Unknown_Soldier_of_the_Ukrainian_Galician_Arm) | [Замішанець](https://en.wikipedia.org/wiki/User:%D0%97%D0%B0%D0%BC%D1%96%D1%88%D0%B0%D0%BD%D0%B5%D1%86%D1%8C) | 4,106 |
-| 2026-11-28 15:00:51 | [Reece Clark](https://en.wikipedia.org/wiki/Reece_Clark) | [Moondragon21](https://en.wikipedia.org/wiki/User:Moondragon21) | 2,465 |
-| 2026-11-28 15:01:16 | [Siege of Kōriyama (1544)](https://en.wikipedia.org/wiki/Siege_of_K%C5%8Driyama_%281544%29) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 1,948 |
-| 2026-11-28 15:06:40 | [Barleeia gursi](https://en.wikipedia.org/wiki/Barleeia_gursi) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 1,030 |
-| 2026-11-28 15:06:40 | [Raymond Hayes (American football)](https://en.wikipedia.org/wiki/Raymond_Hayes_%28American_football%29) | [KerbHopper](https://en.wikipedia.org/wiki/User:KerbHopper) | 2,454 |
-| 2026-11-28 15:06:56 | [Nahuel da Silva](https://en.wikipedia.org/wiki/Nahuel_da_Silva) | [Unknown Temptation](https://en.wikipedia.org/wiki/User:Unknown_Temptation) | 3,551 |
-| 2026-11-28 15:09:05 | [Lip Service (Inside No. 9 episode)](https://en.wikipedia.org/wiki/Lip_Service_%28Inside_No._9_episode%29) | [Rockboy421](https://en.wikipedia.org/wiki/User:Rockboy421) | 9,250 |
-| 2026-11-28 15:16:37 | [2025–26 Ethiopian Cup](https://en.wikipedia.org/wiki/2025%E2%80%9326_Ethiopian_Cup) | [Arifly kaio7](https://en.wikipedia.org/wiki/User:Arifly_kaio7) | 3,571 |
+| 2026-11-28 15:29:34 | [Albergo Gelsomino](https://en.wikipedia.org/wiki/Albergo_Gelsomino) | [Plumbago Capensis](https://en.wikipedia.org/wiki/User:Plumbago_Capensis) | 4,056 |
+| 2026-11-28 15:37:25 | [Wahyu Al-Hadi Mosque](https://en.wikipedia.org/wiki/Wahyu_Al-Hadi_Mosque) | [Penikmatbacaan](https://en.wikipedia.org/wiki/User:Penikmatbacaan) | 5,585 |
+| 2026-11-28 15:37:30 | [2026 Hasakah attack](https://en.wikipedia.org/wiki/2026_Hasakah_attack) | [Martinnor](https://en.wikipedia.org/wiki/User:Martinnor) | 258 |
+| 2026-11-28 15:42:34 | [USCGC Manta](https://en.wikipedia.org/wiki/USCGC_Manta) | [Zackmann08](https://en.wikipedia.org/wiki/User:Zackmann08) | 5,488 |
+| 2026-11-28 15:42:54 | [Carraghers Bar](https://en.wikipedia.org/wiki/Carraghers_Bar) | [Mmberney](https://en.wikipedia.org/wiki/User:Mmberney) | 6,255 |
+| 2026-11-28 15:43:20 | [KIZZFIZZ](https://en.wikipedia.org/wiki/KIZZFIZZ) | [Jiteshi123](https://en.wikipedia.org/wiki/User:Jiteshi123) | 6,052 |
+| 2026-11-28 15:43:30 | [Stefan Gorzula](https://en.wikipedia.org/wiki/Stefan_Gorzula) | [Mill 1](https://en.wikipedia.org/wiki/User:Mill_1) | 87 |
+| 2026-11-28 15:43:49 | [Royal Enfield Continental GT 535](https://en.wikipedia.org/wiki/Royal_Enfield_Continental_GT_535) | [RustyOldShip](https://en.wikipedia.org/wiki/User:RustyOldShip) | 6,072 |
+| 2026-11-28 15:44:31 | [Link if exist](https://en.wikipedia.org/wiki/Link_if_exist) | [8rz](https://en.wikipedia.org/wiki/User:8rz) | 88 |
+| 2026-11-28 15:45:08 | [Linkifexist](https://en.wikipedia.org/wiki/Linkifexist) | [8rz](https://en.wikipedia.org/wiki/User:8rz) | 88 |
+| 2026-11-28 15:46:00 | [2022 Tuvalu A-Division](https://en.wikipedia.org/wiki/2022_Tuvalu_A-Division) | [Brioche23](https://en.wikipedia.org/wiki/User:Brioche23) | 2,300 |
+| 2026-11-28 15:46:08 | [Aura of Decay](https://en.wikipedia.org/wiki/Aura_of_Decay) | [SirZPthundergod9001](https://en.wikipedia.org/wiki/User:SirZPthundergod9001) | 5,027 |
+| 2026-11-28 15:47:08 | [Magali Leidig-Petermann](https://en.wikipedia.org/wiki/Magali_Leidig-Petermann) | [Cilidus](https://en.wikipedia.org/wiki/User:Cilidus) | 1,760 |
+| 2026-11-28 15:49:27 | [Naa Adzoa Adzeley Boi-Dsane](https://en.wikipedia.org/wiki/Naa_Adzoa_Adzeley_Boi-Dsane) | [Kwashie B](https://en.wikipedia.org/wiki/User:Kwashie_B) | 11,704 |
+| 2026-11-28 15:49:44 | [Tamman Dam](https://en.wikipedia.org/wiki/Tamman_Dam) | [Abdullahmalikokl](https://en.wikipedia.org/wiki/User:Abdullahmalikokl) | 1,307 |
+| 2026-11-28 15:51:30 | [Lansell Square](https://en.wikipedia.org/wiki/Lansell_Square) | [Celebrating suburbia](https://en.wikipedia.org/wiki/User:Celebrating_suburbia) | 1,707 |
+| 2026-11-28 15:52:30 | [1982 Norwich City Council election](https://en.wikipedia.org/wiki/1982_Norwich_City_Council_election) | [Into oblivion](https://en.wikipedia.org/wiki/User:Into_oblivion) | 23,509 |
+| 2026-11-28 15:52:46 | [Donald H. Layton](https://en.wikipedia.org/wiki/Donald_H._Layton) | [Patken4](https://en.wikipedia.org/wiki/User:Patken4) | 5,285 |
+| 2026-11-28 15:52:47 | [2022 WPT Miami Open](https://en.wikipedia.org/wiki/2022_WPT_Miami_Open) | [ForçaSLB](https://en.wikipedia.org/wiki/User:For%C3%A7aSLB) | 42,403 |
+| 2026-11-28 15:55:53 | [Suffolk station (Virginia)](https://en.wikipedia.org/wiki/Suffolk_station_%28Virginia%29) | [FunksBrother](https://en.wikipedia.org/wiki/User:FunksBrother) | 5,866 |
+| 2026-11-28 16:02:01 | [Şeyma Korkmaz](https://en.wikipedia.org/wiki/%C5%9Eeyma_Korkmaz) | [Garfrji](https://en.wikipedia.org/wiki/User:Garfrji) | 1,592 |
+| 2026-11-28 16:04:01 | [Sanada Daisuke](https://en.wikipedia.org/wiki/Sanada_Daisuke) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 1,428 |
+| 2026-11-28 16:08:12 | [Fukushima Takaharu](https://en.wikipedia.org/wiki/Fukushima_Takaharu) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 5,141 |
+| 2026-11-28 16:08:23 | [Bitys](https://en.wikipedia.org/wiki/Bitys) | [Fordmadoxfraud](https://en.wikipedia.org/wiki/User:Fordmadoxfraud) | 4,378 |
+| 2026-11-28 16:08:47 | [Barleeia lindae](https://en.wikipedia.org/wiki/Barleeia_lindae) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 908 |
+| 2026-11-28 16:09:10 | [Jalsin](https://en.wikipedia.org/wiki/Jalsin) | [Ayaan Idris Khan](https://en.wikipedia.org/wiki/User:Ayaan_Idris_Khan) | 8,342 |
+| 2026-11-28 16:10:43 | [2026 Canberra Raiders season](https://en.wikipedia.org/wiki/2026_Canberra_Raiders_season) | [Hazmann](https://en.wikipedia.org/wiki/User:Hazmann) | 40,894 |
+| 2026-11-28 16:10:58 | [Mohandi Mulay](https://en.wikipedia.org/wiki/Mohandi_Mulay) | [TonyStarks](https://en.wikipedia.org/wiki/User:TonyStarks) | 2,991 |
+| 2026-11-28 16:12:46 | [Khajuraho Dreams](https://en.wikipedia.org/wiki/Khajuraho_Dreams) | [Ajeeshkumar4u](https://en.wikipedia.org/wiki/User:Ajeeshkumar4u) | 8,664 |
+| 2026-11-28 16:13:08 | [Ethiopian Universities Sports Festival](https://en.wikipedia.org/wiki/Ethiopian_Universities_Sports_Festival) | [Arifly kaio7](https://en.wikipedia.org/wiki/User:Arifly_kaio7) | 10,129 |
+| 2026-11-28 16:15:24 | [Marcusenius devosi](https://en.wikipedia.org/wiki/Marcusenius_devosi) | [UtherSRG](https://en.wikipedia.org/wiki/User:UtherSRG) | 745 |
+| 2026-11-28 16:16:36 | [Barleeia malgascia](https://en.wikipedia.org/wiki/Barleeia_malgascia) | [JoJan](https://en.wikipedia.org/wiki/User:JoJan) | 943 |
+| 2026-11-28 16:19:46 | [Susukida Kanesuke](https://en.wikipedia.org/wiki/Susukida_Kanesuke) | [Johan Elijah](https://en.wikipedia.org/wiki/User:Johan_Elijah) | 5,912 |
+| 2026-11-28 16:20:27 | [2025–26 Ethiopian Premier League](https://en.wikipedia.org/wiki/2025%E2%80%9326_Ethiopian_Premier_League) | [Arifly kaio7](https://en.wikipedia.org/wiki/User:Arifly_kaio7) | 11,287 |
