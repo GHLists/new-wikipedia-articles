@@ -13,40 +13,48 @@ further down.
 
 | Language | Code | Latest list | Articles |
 | :------- | :--- | :---------- | -------: |
-| English | `en` | [2026-11-28 11:20 UTC](data/en/new-articles-2026-11-28T11-20-23Z.csv) | 8 |
-| Japanese | `ja` | [2026-11-28 11:20 UTC](data/ja/new-articles-2026-11-28T11-20-23Z.csv) | 15 |
-| Chinese | `zh` | [2026-11-28 11:20 UTC](data/zh/new-articles-2026-11-28T11-20-23Z.csv) | 12 |
-| French | `fr` | [2026-11-28 11:20 UTC](data/fr/new-articles-2026-11-28T11-20-23Z.csv) | 10 |
-| German | `de` | [2026-11-28 11:20 UTC](data/de/new-articles-2026-11-28T11-20-23Z.csv) | 15 |
-| Russian | `ru` | [2026-11-28 11:20 UTC](data/ru/new-articles-2026-11-28T11-20-23Z.csv) | 13 |
-| Spanish | `es` | [2026-11-28 11:20 UTC](data/es/new-articles-2026-11-28T11-20-23Z.csv) | 8 |
-| Italian | `it` | [2026-11-28 11:20 UTC](data/it/new-articles-2026-11-28T11-20-23Z.csv) | 6 |
-| Portuguese | `pt` | [2026-11-28 11:20 UTC](data/pt/new-articles-2026-11-28T11-20-23Z.csv) | 1 |
-| Polish | `pl` | [2026-11-28 11:20 UTC](data/pl/new-articles-2026-11-28T11-20-23Z.csv) | 5 |
-| Arabic | `ar` | [2026-11-28 11:20 UTC](data/ar/new-articles-2026-11-28T11-20-23Z.csv) | 8 |
-| Persian | `fa` | [2026-11-28 11:20 UTC](data/fa/new-articles-2026-11-28T11-20-23Z.csv) | 6 |
-| Turkish | `tr` | [2026-11-28 11:20 UTC](data/tr/new-articles-2026-11-28T11-20-23Z.csv) | 6 |
-| Hebrew | `he` | [2026-11-28 11:20 UTC](data/he/new-articles-2026-11-28T11-20-23Z.csv) | 2 |
-| Swedish | `sv` | [2026-11-28 11:20 UTC](data/sv/new-articles-2026-11-28T11-20-23Z.csv) | 3 |
-| Dutch | `nl` | [2026-11-28 11:20 UTC](data/nl/new-articles-2026-11-28T11-20-23Z.csv) | 8 |
-| Korean | `ko` | [2026-11-28 09:21 UTC](data/ko/new-articles-2026-11-28T09-21-11Z.csv) | 5 |
+| English | `en` | [2026-11-28 12:21 UTC](data/en/new-articles-2026-11-28T12-21-23Z.csv) | 16 |
+| Japanese | `ja` | [2026-11-28 12:21 UTC](data/ja/new-articles-2026-11-28T12-21-23Z.csv) | 17 |
+| Chinese | `zh` | [2026-11-28 12:21 UTC](data/zh/new-articles-2026-11-28T12-21-23Z.csv) | 13 |
+| French | `fr` | [2026-11-28 12:21 UTC](data/fr/new-articles-2026-11-28T12-21-23Z.csv) | 9 |
+| German | `de` | [2026-11-28 12:21 UTC](data/de/new-articles-2026-11-28T12-21-23Z.csv) | 8 |
+| Russian | `ru` | [2026-11-28 12:21 UTC](data/ru/new-articles-2026-11-28T12-21-23Z.csv) | 10 |
+| Spanish | `es` | [2026-11-28 12:21 UTC](data/es/new-articles-2026-11-28T12-21-23Z.csv) | 5 |
+| Italian | `it` | [2026-11-28 12:21 UTC](data/it/new-articles-2026-11-28T12-21-23Z.csv) | 11 |
+| Portuguese | `pt` | [2026-11-28 12:21 UTC](data/pt/new-articles-2026-11-28T12-21-23Z.csv) | 4 |
+| Polish | `pl` | [2026-11-28 12:21 UTC](data/pl/new-articles-2026-11-28T12-21-23Z.csv) | 6 |
+| Arabic | `ar` | [2026-11-28 12:21 UTC](data/ar/new-articles-2026-11-28T12-21-23Z.csv) | 11 |
+| Persian | `fa` | [2026-11-28 12:21 UTC](data/fa/new-articles-2026-11-28T12-21-23Z.csv) | 3 |
+| Turkish | `tr` | [2026-11-28 12:21 UTC](data/tr/new-articles-2026-11-28T12-21-23Z.csv) | 9 |
+| Hebrew | `he` | [2026-11-28 12:21 UTC](data/he/new-articles-2026-11-28T12-21-23Z.csv) | 3 |
+| Swedish | `sv` | [2026-11-28 12:21 UTC](data/sv/new-articles-2026-11-28T12-21-23Z.csv) | 3 |
+| Dutch | `nl` | [2026-11-28 12:21 UTC](data/nl/new-articles-2026-11-28T12-21-23Z.csv) | 8 |
+| Korean | `ko` | [2026-11-28 12:21 UTC](data/ko/new-articles-2026-11-28T12-21-23Z.csv) | 2 |
 | Indonesian | `id` | [2026-11-28 11:20 UTC](data/id/new-articles-2026-11-28T11-20-23Z.csv) | 3 |
-| Ukrainian | `uk` | [2026-11-28 11:20 UTC](data/uk/new-articles-2026-11-28T11-20-23Z.csv) | 14 |
-| Vietnamese | `vi` | [2026-11-28 11:20 UTC](data/vi/new-articles-2026-11-28T11-20-23Z.csv) | 9 |
+| Ukrainian | `uk` | [2026-11-28 12:21 UTC](data/uk/new-articles-2026-11-28T12-21-23Z.csv) | 14 |
+| Vietnamese | `vi` | [2026-11-28 12:21 UTC](data/vi/new-articles-2026-11-28T12-21-23Z.csv) | 12 |
 
-## English (en) — 2026-11-28 11:20 UTC
+## English (en) — 2026-11-28 12:21 UTC
 
-New articles created between 2026-11-28 10:19 UTC and 2026-11-28 11:20 UTC.
+New articles created between 2026-11-28 11:20 UTC and 2026-11-28 12:21 UTC.
 
-[Full CSV](data/en/new-articles-2026-11-28T11-20-23Z.csv)
+[Full CSV](data/en/new-articles-2026-11-28T12-21-23Z.csv)
 
 | Created (UTC) | Article | Creator | Bytes |
 | :------------ | :------ | :------ | ----: |
-| 2026-11-28 10:28:21 | [Popido language](https://en.wikipedia.org/wiki/Popido_language) | [Refccdcvb](https://en.wikipedia.org/wiki/User:Refccdcvb) | 5,923 |
-| 2026-11-28 10:29:03 | [Peter Edokpolor](https://en.wikipedia.org/wiki/Peter_Edokpolor) | [Obinna Tony](https://en.wikipedia.org/wiki/User:Obinna_Tony) | 5,283 |
-| 2026-11-28 10:33:57 | [Guruji.com](https://en.wikipedia.org/wiki/Guruji.com) | [Capitals00](https://en.wikipedia.org/wiki/User:Capitals00) | 849 |
-| 2026-11-28 10:41:16 | [Paul O'Halloran (Victorian politician)](https://en.wikipedia.org/wiki/Paul_O%27Halloran_%28Victorian_politician%29) | [PrezDough](https://en.wikipedia.org/wiki/User:PrezDough) | 2,660 |
-| 2026-11-28 10:45:04 | [Putidaredoxin](https://en.wikipedia.org/wiki/Putidaredoxin) | [Boghog](https://en.wikipedia.org/wiki/User:Boghog) | 3,228 |
-| 2026-11-28 10:45:35 | [Turkish Motorcycling Federation](https://en.wikipedia.org/wiki/Turkish_Motorcycling_Federation) | [Emirstrick](https://en.wikipedia.org/wiki/User:Emirstrick) | 1,849 |
-| 2026-11-28 10:51:07 | [Hermon of Troezen](https://en.wikipedia.org/wiki/Hermon_of_Troezen) | [Archaeaoris](https://en.wikipedia.org/wiki/User:Archaeaoris) | 877 |
-| 2026-11-28 11:11:15 | [2027 World Club Challenge](https://en.wikipedia.org/wiki/2027_World_Club_Challenge) | [Mn1548](https://en.wikipedia.org/wiki/User:Mn1548) | 2,251 |
+| 2026-11-28 11:23:24 | [Violence against women in Iceland](https://en.wikipedia.org/wiki/Violence_against_women_in_Iceland) | [Ipigott](https://en.wikipedia.org/wiki/User:Ipigott) | 1,518 |
+| 2026-11-28 11:25:58 | [Middleton railway station, Canterbury](https://en.wikipedia.org/wiki/Middleton_railway_station%2C_Canterbury) | [Dlpkbr](https://en.wikipedia.org/wiki/User:Dlpkbr) | 13,262 |
+| 2026-11-28 11:27:47 | [Aasvoëlberg](https://en.wikipedia.org/wiki/Aasvo%C3%ABlberg) | [Babakathy](https://en.wikipedia.org/wiki/User:Babakathy) | 661 |
+| 2026-11-28 11:33:20 | [Kristofer Dalager](https://en.wikipedia.org/wiki/Kristofer_Dalager) | [Jordano53](https://en.wikipedia.org/wiki/User:Jordano53) | 3,389 |
+| 2026-11-28 11:37:16 | [Cheng Chao-fang](https://en.wikipedia.org/wiki/Cheng_Chao-fang) | [ViewerSide](https://en.wikipedia.org/wiki/User:ViewerSide) | 2,235 |
+| 2026-11-28 11:40:15 | [Aasvoëlberg (Western Cape)](https://en.wikipedia.org/wiki/Aasvo%C3%ABlberg_%28Western_Cape%29) | [Babakathy](https://en.wikipedia.org/wiki/User:Babakathy) | 702 |
+| 2026-11-28 11:44:48 | [Topkapı Shore Palace](https://en.wikipedia.org/wiki/Topkap%C4%B1_Shore_Palace) | [Afurkanakin](https://en.wikipedia.org/wiki/User:Afurkanakin) | 2,458 |
+| 2026-11-28 11:48:45 | [2028 ICC Women's Olympics Qualifier](https://en.wikipedia.org/wiki/2028_ICC_Women%27s_Olympics_Qualifier) | [Pkr206](https://en.wikipedia.org/wiki/User:Pkr206) | 6,909 |
+| 2026-11-28 11:51:28 | [Paul Johnstone (footballer)](https://en.wikipedia.org/wiki/Paul_Johnstone_%28footballer%29) | [GiantSnowman](https://en.wikipedia.org/wiki/User:GiantSnowman) | 4,061 |
+| 2026-11-28 11:51:36 | [The Tech Coup](https://en.wikipedia.org/wiki/The_Tech_Coup) | [KernelCurious](https://en.wikipedia.org/wiki/User:KernelCurious) | 1,377 |
+| 2026-11-28 11:54:55 | [Olympic Mess](https://en.wikipedia.org/wiki/Olympic_Mess) | [フランベ](https://en.wikipedia.org/wiki/User:%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99) | 9,876 |
+| 2026-11-28 12:01:51 | [Quattro Tour](https://en.wikipedia.org/wiki/Quattro_Tour) | [Simonnnln](https://en.wikipedia.org/wiki/User:Simonnnln) | 5,409 |
+| 2026-11-28 12:06:07 | [Aasvoëlberg (Free State)](https://en.wikipedia.org/wiki/Aasvo%C3%ABlberg_%28Free_State%29) | [Babakathy](https://en.wikipedia.org/wiki/User:Babakathy) | 834 |
+| 2026-11-28 12:06:11 | [Bhangaha–Janakpurdham–Jaynagar DEMU](https://en.wikipedia.org/wiki/Bhangaha%E2%80%93Janakpurdham%E2%80%93Jaynagar_DEMU) | [Aayushxwiki](https://en.wikipedia.org/wiki/User:Aayushxwiki) | 17 |
+| 2026-11-28 12:11:33 | [2028 United States presidential election in Alabama](https://en.wikipedia.org/wiki/2028_United_States_presidential_election_in_Alabama) | [Waltuh Heisenberg](https://en.wikipedia.org/wiki/User:Waltuh_Heisenberg) | 987 |
+| 2026-11-28 12:16:11 | [Everything I said I wasn't](https://en.wikipedia.org/wiki/Everything_I_said_I_wasn%27t) | [Mowgli18](https://en.wikipedia.org/wiki/User:Mowgli18) | 3,987 |
